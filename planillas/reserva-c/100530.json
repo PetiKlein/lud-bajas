@@ -1,0 +1,319 @@
+{
+ "id": "100530",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "COLEGIO PIO",
+ "local": "CENTRO CRISTOBAL COLON",
+ "visitante": "OLD BRENDANS VERDE",
+ "gl": 5,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "328",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-27 13:10:00",
+  "Fecha_fin": "2026-06-27 13:10:00",
+  "Locatario": "CENTRO CRISTOBAL COLON",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "OLD BRENDANS VERDE",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44959",
+   "Nombre": "FEDERICO NICOLAS COLMAN",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "50423",
+   "Nombre": "MARTIN GARCIA",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63850",
+   "Nombre": "FACUNDO NAHUEL VIDAL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62352",
+   "Nombre": "SANTIAGO RICCONE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61602",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "56887",
+   "Nombre": "JUAN MANUEL MASEDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59792",
+   "Nombre": "MATEO ARMANDO OLIVERA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "57654",
+   "Nombre": "DONATO NOCETTI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62131",
+   "Nombre": "GONZALO RICCONE",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "62681",
+   "Nombre": "SANTIAGO PERAZZA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60266",
+   "Nombre": "DIEGO ARMANDO RAMIREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49150",
+   "Nombre": "GASTON SCHMIDT",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57719",
+   "Nombre": "TOMAS LORENZO FASCIOLI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "51985",
+   "Nombre": "FEDERICO NICOLAS ENGEL",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "63255",
+   "Nombre": "JOAQUIN YAGODA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "57033",
+   "Nombre": "LORENZO URIARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56336",
+   "Nombre": "JUAN IGNACIO BRAGA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64017",
+   "Nombre": "JUAN IGNACIO MENENDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55930",
+   "Nombre": "BRYAN EZEQUIEL GIOVINAZZO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54756",
+   "Nombre": "ADRIANO MARTIN AGGIO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "63834",
+   "Nombre": "BRUNO FEDERICO ENGEL",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61602",
+   "Jug_Sale": "JOAQUIN FERNANDEZ",
+   "CarneEntra": "52342",
+   "Jug_Entra": "SANTIAGO MICHELINI",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56887",
+   "Jug_Sale": "JUAN MANUEL MASEDA",
+   "CarneEntra": "62132",
+   "Jug_Entra": "MARCOS GABRIEL BOYE",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59792",
+   "Jug_Sale": "MATEO ARMANDO OLIVERA",
+   "CarneEntra": "55027",
+   "Jug_Entra": "FERNANDO RIQUEL",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62681",
+   "Jug_Sale": "SANTIAGO PERAZZA",
+   "CarneEntra": "50976",
+   "Jug_Entra": "NICOLAS EZEQUIEL GUTIERREZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61897",
+   "Jug_Sale": "MATIAS MARCELO VERO",
+   "CarneEntra": "58397",
+   "Jug_Entra": "FACUNDO NAHUEL PIOLI",
+   "camiseta": "21",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "57654",
+   "Jug_Sale": "DONATO NOCETTI",
+   "CarneEntra": "64472",
+   "Jug_Entra": "JUAN MARTIN SUCAZES",
+   "camiseta": "23",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "50423",
+   "Jug_Sale": "MARTIN GARCIA",
+   "CarneEntra": "56891",
+   "Jug_Entra": "RODRIGO ODAZZIO",
+   "camiseta": "6",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54756",
+   "Jug_Sale": "ADRIANO MARTIN AGGIO",
+   "CarneEntra": "51067",
+   "Jug_Entra": "MARTIN GAUDIO",
+   "camiseta": "28",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "57033",
+   "Jug_Sale": "LORENZO URIARTE",
+   "CarneEntra": "57844",
+   "Jug_Entra": "LORENZO GARCIA",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63834",
+   "Jug_Sale": "BRUNO FEDERICO ENGEL",
+   "CarneEntra": "58830",
+   "Jug_Entra": "JOAQUÌN ROMERO",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63255",
+   "Jug_Sale": "JOAQUIN YAGODA",
+   "CarneEntra": "58833",
+   "Jug_Entra": "MARCOS ERRECART CARRATU",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56336",
+   "Jug_Sale": "JUAN IGNACIO BRAGA",
+   "CarneEntra": "59196",
+   "Jug_Entra": "BRUNO PERTMAN",
+   "camiseta": "15",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "63834",
+   "Jug_Sale": "BRUNO FEDERICO ENGEL",
+   "CarneEntra": "57836",
+   "Jug_Entra": "JUAN MANUEL ABELLA",
+   "camiseta": "44",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "49150",
+   "Jug_Sale": "GASTON SCHMIDT",
+   "CarneEntra": "49147",
+   "Jug_Entra": "JUAN TOURON",
+   "camiseta": "8",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "minutos": "17",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62131",
+   "Nombre": "GONZALO RICCONE",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62681",
+   "Nombre": "SANTIAGO PERAZZA",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62681",
+   "Nombre": "SANTIAGO PERAZZA",
+   "minutos": "34",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

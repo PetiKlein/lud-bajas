@@ -1,0 +1,312 @@
+{
+ "id": "101345",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:30:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS AZUL",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "27",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-08-29 13:30:00",
+  "Fecha_fin": "2026-08-29 13:30:00",
+  "Locatario": "OLD CHRISTIANS AZUL",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55226",
+   "Nombre": "ALFONSO DEL CASTILLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53219",
+   "Nombre": "JOAQUIN LARRAECHA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "37171",
+   "Nombre": "MATEO DIEGO BLENGIO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43762",
+   "Nombre": "ALFONSO MARQUES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54480",
+   "Nombre": "FACUNDO BELO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "52396",
+   "Nombre": "TOMAS DI LORENZO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "35068",
+   "Nombre": "MATEO DI LORENZO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "39425",
+   "Nombre": "SANTIAGO MARAFFI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63476",
+   "Nombre": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "32400",
+   "Nombre": "MATIAS DANIEL RIOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39601",
+   "Nombre": "NICOLAS OEHLER",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49263",
+   "Nombre": "MARTIN MURAÑA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47800",
+   "Nombre": "MATIAS GARRIDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39147",
+   "Nombre": "SEBASTIAN ECHEVERZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49282",
+   "Nombre": "AGUSTIN TRUJILLO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "50801",
+   "Nombre": "JUAN MANUEL DÌAZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64647",
+   "Nombre": "FABRIZIO OSCAR PAGLIA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "48063",
+   "Nombre": "GENARO CARUSO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52764",
+   "Nombre": "DIEGO BUELA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "47678",
+   "Nombre": "PEDRO MACKINNON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53659",
+   "Nombre": "ANDRES HERRERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52457",
+   "Nombre": "SANTIAGO RAUL MAY",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "37171",
+   "Jug_Sale": "MATEO DIEGO BLENGIO",
+   "CarneEntra": "55216",
+   "Jug_Entra": "GASPAR HUGHES",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63476",
+   "Jug_Sale": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "CarneEntra": "62462",
+   "Jug_Entra": "JUAN GABRIEL ALVAREZ",
+   "camiseta": "97",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "54480",
+   "Jug_Sale": "FACUNDO BELO",
+   "CarneEntra": "46346",
+   "Jug_Entra": "FELIPE BARRERE",
+   "camiseta": "6",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "43762",
+   "Jug_Sale": "ALFONSO MARQUES",
+   "CarneEntra": "52606",
+   "Jug_Entra": "JUAN DIEGO CALABUIG",
+   "camiseta": "5",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "53219",
+   "Jug_Sale": "JOAQUIN LARRAECHA",
+   "CarneEntra": "63805",
+   "Jug_Entra": "FRANCISCO GOMARA",
+   "camiseta": "2",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "52396",
+   "Jug_Sale": "TOMAS DI LORENZO",
+   "CarneEntra": "55211",
+   "Jug_Entra": "SANTIAGO BOUTMY",
+   "camiseta": "8",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52457",
+   "Jug_Sale": "SANTIAGO RAUL MAY",
+   "CarneEntra": "56642",
+   "Jug_Entra": "MATEO PEREZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49282",
+   "Jug_Sale": "AGUSTIN TRUJILLO",
+   "CarneEntra": "39017",
+   "Jug_Entra": "GERMAN FRAGA",
+   "camiseta": "17",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "48063",
+   "Jug_Sale": "GENARO CARUSO",
+   "CarneEntra": "52457",
+   "Jug_Entra": "SANTIAGO RAUL MAY",
+   "camiseta": "21",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "39147",
+   "Jug_Sale": "SEBASTIAN ECHEVERZ",
+   "CarneEntra": "37424",
+   "Jug_Entra": "SANTIAGO PEREZ",
+   "camiseta": "3",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "47678",
+   "Jug_Sale": "PEDRO MACKINNON",
+   "CarneEntra": "50806",
+   "Jug_Entra": "FACUNDO VAZQUEZ",
+   "camiseta": "5",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "53659",
+   "Jug_Sale": "ANDRES HERRERA",
+   "CarneEntra": "48286",
+   "Jug_Entra": "FRANCISCO AMEIGENDA",
+   "camiseta": "16",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "52764",
+   "Jug_Sale": "DIEGO BUELA",
+   "CarneEntra": "47700",
+   "Jug_Entra": "SANTIAGO JOSE CERISOLA",
+   "camiseta": "13",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "32400",
+   "Nombre": "MATIAS DANIEL RIOS",
+   "minutos": "66",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35068",
+   "Nombre": "MATEO DI LORENZO",
+   "minutos": "35",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35068",
+   "Nombre": "MATEO DI LORENZO",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53659",
+   "Nombre": "ANDRES HERRERA",
+   "minutos": "19",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

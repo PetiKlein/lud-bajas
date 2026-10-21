@@ -1,0 +1,254 @@
+{
+ "id": "100343",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 10,
+ "fechaHora": "2026-06-21 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "COLEGIO SALESIANO DE LA COSTA",
+ "visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "797",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-06-21 11:00:00",
+  "Fecha_fin": "2026-06-21 11:00:00",
+  "Locatario": "COLEGIO SALESIANO DE LA COSTA",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58482",
+   "Nombre": "GABRIEL ALEJANDRO CANCELA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "54692",
+   "Nombre": "AGUSTIN ISMAEL ALVAREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "56833",
+   "Nombre": "FRANCISCO NICOLAS CARBON",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "67502",
+   "Nombre": "IGNACIO AREVALO",
+   "camiseta": "80",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58650",
+   "Nombre": "GERMAN FRANCISCO SILVEIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67507",
+   "Nombre": "SANTIAGO ELUTCHANZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64274",
+   "Nombre": "JOAQUIN HERNANDEZ",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "67700",
+   "Nombre": "JAMIR JEREMI FEBLES",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "62928",
+   "Nombre": "AGUSTIN ARENES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "60144",
+   "Nombre": "SANTIAGO BETANCOR",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53375",
+   "Nombre": "JUAN NICOLAS MARTINEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54102",
+   "Nombre": "THIAGO ENRIQUE ROMERO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "56459",
+   "Nombre": "JORGE PABLO SZOLLOSSY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "44090",
+   "Nombre": "PABLO KALEMKERIAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58921",
+   "Nombre": "LEANDRO ANDRES GRIGNETTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53206",
+   "Nombre": "GASTON GALEANO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41345",
+   "Nombre": "LUCAS ENRIQUE ALEIZON",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "55570",
+   "Nombre": "MAXIMO FEDERICO ACQUADRO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "45143",
+   "Nombre": "NICOLAS GALEANO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "64941",
+   "Nombre": "TOMAS VAZQUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65346",
+   "Nombre": "GUILLERMO CUMELLAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51462",
+   "Nombre": "NAHUEL PICO",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60144",
+   "Jug_Sale": "SANTIAGO BETANCOR",
+   "CarneEntra": "64256",
+   "Jug_Entra": "PATRICIO LEMA",
+   "camiseta": "16",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "62928",
+   "Jug_Sale": "AGUSTIN ARENES",
+   "CarneEntra": "61419",
+   "Jug_Entra": "JOAQUIN CARBON",
+   "camiseta": "19",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "67507",
+   "Jug_Sale": "SANTIAGO ELUTCHANZ",
+   "CarneEntra": "67508",
+   "Jug_Entra": "FRANCISCO GONZALEZ",
+   "camiseta": "17",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "67700",
+   "Jug_Sale": "JAMIR JEREMI FEBLES",
+   "CarneEntra": "67697",
+   "Jug_Entra": "GASPAR AGUSTIN CANCELA",
+   "camiseta": "30",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "45143",
+   "Jug_Sale": "NICOLAS GALEANO",
+   "CarneEntra": "46846",
+   "Jug_Entra": "SEBASTIAN MATTA",
+   "camiseta": "33",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65346",
+   "Jug_Sale": "GUILLERMO CUMELLAS",
+   "CarneEntra": "65695",
+   "Jug_Entra": "GONZALO FACELLO",
+   "camiseta": "16",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "55570",
+   "Jug_Sale": "MAXIMO FEDERICO ACQUADRO",
+   "CarneEntra": "66554",
+   "Jug_Entra": "JOAQUIN APARICIO",
+   "camiseta": "77",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "53206",
+   "Jug_Sale": "GASTON GALEANO",
+   "CarneEntra": "61987",
+   "Jug_Entra": "AGUSTIN NOVO",
+   "camiseta": "21",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64274",
+   "Nombre": "JOAQUIN HERNANDEZ",
+   "minutos": "74",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55570",
+   "Nombre": "MAXIMO FEDERICO ACQUADRO",
+   "minutos": "44",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

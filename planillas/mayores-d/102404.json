@@ -1,0 +1,255 @@
+{
+ "id": "102404",
+ "categoria": "mayores-d",
+ "serie": "DPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-27 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "TROUVILLE UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "1177",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"D\" PERM. y DESC.",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-09-27 13:10:00",
+  "Fecha_fin": "2026-09-27 13:10:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "TROUVILLE UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53706",
+   "Nombre": "RAMIRO CABRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42885",
+   "Nombre": "NICOLAS FALERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "44208",
+   "Nombre": "MANUEL AGUSTIN TRAVERSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46930",
+   "Nombre": "ENZO JAVIER GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "60068",
+   "Nombre": "LEANDRO APARICIO MONTALDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61893",
+   "Nombre": "RAMIRO GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "38298",
+   "Nombre": "PATRICIO MARCELO COSTAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63132",
+   "Nombre": "FACUNDO GARCIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "59311",
+   "Nombre": "HUGO YANOS GARCIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50525",
+   "Nombre": "SEBASTIAN ANDRES FLORES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "46197",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "50667",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57502",
+   "Nombre": "LUCA LANDONI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55533",
+   "Nombre": "EZEQUIEL HERNAN PRADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48547",
+   "Nombre": "FACUNDO SADOVY",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59238",
+   "Nombre": "DIEGO GUSTAVO PENA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "57246",
+   "Nombre": "FRANCO MOURGLIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48308",
+   "Nombre": "GASTON MAZZO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46783",
+   "Nombre": "NICOLAS CANOURA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49080",
+   "Nombre": "IGNACIO MOUGAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53202",
+   "Nombre": "NICOLAS WAGNER",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "55536",
+   "Nombre": "FACUNDO GABRIEL PRADO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63132",
+   "Jug_Sale": "FACUNDO GARCIA",
+   "CarneEntra": "67325",
+   "Jug_Entra": "NICOLAS VAZ",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42885",
+   "Jug_Sale": "NICOLAS FALERO",
+   "CarneEntra": "49511",
+   "Jug_Entra": "MATIAS DOS SANTOS",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50525",
+   "Jug_Sale": "SEBASTIAN ANDRES FLORES",
+   "CarneEntra": "68926",
+   "Jug_Entra": "MAYCOL HARO",
+   "camiseta": "6",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "59311",
+   "Jug_Sale": "HUGO YANOS GARCIA",
+   "CarneEntra": "51244",
+   "Jug_Entra": "SANTIAGO REYNALDO ACEVEDO",
+   "camiseta": "19",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57246",
+   "Jug_Sale": "FRANCO MOURGLIA",
+   "CarneEntra": "42739",
+   "Jug_Entra": "GONZALO GABRIEL BIANCHI",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53202",
+   "Jug_Sale": "NICOLAS WAGNER",
+   "CarneEntra": "50343",
+   "Jug_Entra": "TOMAS PEREZ",
+   "camiseta": "7",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46197",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "minutos": "54",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59311",
+   "Nombre": "HUGO YANOS GARCIA",
+   "minutos": "84",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67325",
+   "Nombre": "NICOLAS VAZ",
+   "minutos": "73",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55536",
+   "Nombre": "FACUNDO GABRIEL PRADO",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "ENZO JAVIER GONZALEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

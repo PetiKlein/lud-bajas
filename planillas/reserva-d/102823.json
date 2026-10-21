@@ -1,0 +1,287 @@
+{
+ "id": "102823",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 7,
+ "fechaHora": "2026-10-10 11:15:00",
+ "cancha": "()",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "SAN AGUSTIN",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "532",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "()",
+  "Fecha_Inicio": "2026-10-10 13:00:00",
+  "Fecha_fin": "2026-10-10 13:00:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAN AGUSTIN",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47703",
+   "Nombre": "BRUNO PAULINO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "41215",
+   "Nombre": "NICOLAS BERTRAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53472",
+   "Nombre": "EMILIANO BASTARRICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54851",
+   "Nombre": "MATIAS MEDEROS",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49353",
+   "Nombre": "NICOLAS URRETAVIZCAYA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46907",
+   "Nombre": "ERNESTO BAUMGARTNER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47395",
+   "Nombre": "ALFONSO ALBERTO CANUTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55175",
+   "Nombre": "BENJAMIN HERRAN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "55271",
+   "Nombre": "IGNACIO BORETTO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47401",
+   "Nombre": "FELIPE SEXENIAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48900",
+   "Nombre": "AGUSTIN DECIA",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "45699",
+   "Nombre": "IGNACIO FEDERICO ALESINA",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "47398",
+   "Nombre": "FELIPE GALINDEZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "48999",
+   "Nombre": "FEDERICO CHOCHO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50991",
+   "Nombre": "MAXIMILIANO GAGLIAMONE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55788",
+   "Nombre": "JUAN IGNACIO BECOÑA",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "54167",
+   "Nombre": "JOAQUIN DECIA",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46909",
+   "Jug_Sale": "FEDERICO KARDJIAN",
+   "CarneEntra": "46794",
+   "Jug_Entra": "RAMIRO IVAN GONZALEZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46907",
+   "Jug_Sale": "ERNESTO BAUMGARTNER",
+   "CarneEntra": "47961",
+   "Jug_Entra": "AGUSTIN OLIVERA",
+   "camiseta": "26",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "41215",
+   "Jug_Sale": "NICOLAS BERTRAN",
+   "CarneEntra": "46907",
+   "Jug_Entra": "ERNESTO BAUMGARTNER",
+   "camiseta": "20",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "54851",
+   "Jug_Sale": "MATIAS MEDEROS",
+   "CarneEntra": "54822",
+   "Jug_Entra": "FELIPE CARDENAS",
+   "camiseta": "99",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "53966",
+   "Jug_Sale": "FELIPE PEREZ",
+   "CarneEntra": "51003",
+   "Jug_Entra": "JOAQUIN DE LOS SANTOS",
+   "camiseta": "33",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54167",
+   "Jug_Sale": "JOAQUIN DECIA",
+   "CarneEntra": "49157",
+   "Jug_Entra": "SEBASTIAN CHEBI",
+   "camiseta": "4",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "45699",
+   "Jug_Sale": "IGNACIO FEDERICO ALESINA",
+   "CarneEntra": "43944",
+   "Jug_Entra": "SANTIAGO TECHEIRA",
+   "camiseta": "34",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "55788",
+   "Jug_Sale": "JUAN IGNACIO BECOÑA",
+   "CarneEntra": "25240",
+   "Jug_Entra": "JUAN ALEJO REINOSO",
+   "camiseta": "9",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "47398",
+   "Jug_Sale": "FELIPE GALINDEZ",
+   "CarneEntra": "53758",
+   "Jug_Entra": "MATEO CARDOZO",
+   "camiseta": "19",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "50991",
+   "Jug_Sale": "MAXIMILIANO GAGLIAMONE",
+   "CarneEntra": "47603",
+   "Jug_Entra": "DANILO LUMACA",
+   "camiseta": "24",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45699",
+   "Nombre": "IGNACIO FEDERICO ALESINA",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45699",
+   "Nombre": "IGNACIO FEDERICO ALESINA",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55788",
+   "Nombre": "JUAN IGNACIO BECOÑA",
+   "minutos": "9",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FEDERICO CHOCHO",
+   "observaciones": ""
+  }
+ ]
+}

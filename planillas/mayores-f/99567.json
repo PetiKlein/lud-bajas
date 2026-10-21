@@ -1,0 +1,274 @@
+{
+ "id": "99567",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 7,
+ "fechaHora": "2026-05-31 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "PALLOTTI UNIVERSITARIO",
+ "visitante": "VETERINARIA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "655",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-31 11:00:00",
+  "Fecha_fin": "2026-05-31 11:00:00",
+  "Locatario": "PALLOTTI UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "VETERINARIA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67694",
+   "Nombre": "EMILIANO ISMAEL PEREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "43148",
+   "Nombre": "ELAL CAMILO SANS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58096",
+   "Nombre": "SANTIAGO LUNGO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54031",
+   "Nombre": "JUAN IGNACIO ALBANESE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "37050",
+   "Nombre": "FABRIZIO ZANONI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "48519",
+   "Nombre": "NICOLAS ERNESTO SUBERBIE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "58351",
+   "Nombre": "JOAQUIN PAREDES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59854",
+   "Nombre": "LUCAS MANUEL VILCHES",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "45268",
+   "Nombre": "FACUNDO ALANIZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43145",
+   "Nombre": "JOAQUIN MATEO RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55085",
+   "Nombre": "MATIAS LIÑARES",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46530",
+   "Nombre": "ENRIQUE FLETCHER",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54399",
+   "Nombre": "LEANDRO EMANUEL PLA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62121",
+   "Nombre": "ALVARO SEBASTIAN CAWEN",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63479",
+   "Nombre": "DIEGO MARTIN GODAY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "38891",
+   "Nombre": "RODRIGO MARTIN LOPEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51900",
+   "Nombre": "PABLO SEBASTIAN PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66044",
+   "Nombre": "FAUSTO VELAZQUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47237",
+   "Nombre": "GUILLERMO VALENTINO ZAPATA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57921",
+   "Nombre": "AGUSTIN MOLINA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53459",
+   "Nombre": "LUCIANO JAURIBIGUERRI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39902",
+   "Nombre": "AGUSTIN DIAZ",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54031",
+   "Jug_Sale": "JUAN IGNACIO ALBANESE",
+   "CarneEntra": "54030",
+   "Jug_Entra": "GASTON MACHADO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58096",
+   "Jug_Sale": "SANTIAGO LUNGO",
+   "CarneEntra": "46260",
+   "Jug_Entra": "JUAN MANUEL SAN MARTIN",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58351",
+   "Jug_Sale": "JOAQUIN PAREDES",
+   "CarneEntra": "43150",
+   "Jug_Entra": "TOMAS DILEMA",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "59854",
+   "Jug_Sale": "LUCAS MANUEL VILCHES",
+   "CarneEntra": "45027",
+   "Jug_Entra": "MARCELO HERNANDEZ",
+   "camiseta": "21",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "38891",
+   "Jug_Sale": "RODRIGO MARTIN LOPEZ",
+   "CarneEntra": "62120",
+   "Jug_Entra": "CRISTIAN SANCHEZ",
+   "camiseta": "40",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "66044",
+   "Jug_Sale": "FAUSTO VELAZQUEZ",
+   "CarneEntra": "68013",
+   "Jug_Entra": "LUCAS BENJAMIN BICA",
+   "camiseta": "27",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "39902",
+   "Jug_Sale": "AGUSTIN DIAZ",
+   "CarneEntra": "38678",
+   "Jug_Entra": "ALVARO LORETO",
+   "camiseta": "9",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "57921",
+   "Jug_Sale": "AGUSTIN MOLINA",
+   "CarneEntra": "68011",
+   "Jug_Entra": "DIOGO TRISTAN ALONSO",
+   "camiseta": "22",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "51900",
+   "Jug_Sale": "PABLO SEBASTIAN PEREZ",
+   "CarneEntra": "51897",
+   "Jug_Entra": "SANTIAGO DE FREITAS",
+   "camiseta": "26",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46260",
+   "Nombre": "JUAN MANUEL SAN MARTIN",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53459",
+   "Nombre": "LUCIANO JAURIBIGUERRI",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62121",
+   "Nombre": "ALVARO SEBASTIAN CAWEN",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63479",
+   "Nombre": "DIEGO MARTIN GODAY",
+   "minutos": "13",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

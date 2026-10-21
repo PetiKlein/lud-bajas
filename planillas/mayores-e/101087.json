@@ -1,0 +1,326 @@
+{
+ "id": "101087",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 15,
+ "fechaHora": "2026-08-16 09:00:00",
+ "cancha": "COMPLEJO INVICTUS (INCIARTE)",
+ "local": "CLUB RICHARD ANDERSON UNIV.",
+ "visitante": "CAFU",
+ "gl": 1,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "599",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO INVICTUS (INCIARTE)",
+  "Fecha_Inicio": "2026-08-16 11:00:00",
+  "Fecha_fin": "2026-08-16 11:00:00",
+  "Locatario": "CLUB RICHARD ANDERSON UNIV.",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CAFU",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63308",
+   "Nombre": "FELIPE MONAGAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42141",
+   "Nombre": "GIANFRANCO SIENRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "39899",
+   "Nombre": "FACUNDO IBARRA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "44089",
+   "Nombre": "JUAN IGNACIO GONZALEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54915",
+   "Nombre": "MARTIN HORACIO MONAGAS",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "67268",
+   "Nombre": "MATEO BACHEV",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "37175",
+   "Nombre": "JUAN O´NEILL",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43182",
+   "Nombre": "MARTIN BUENO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "43166",
+   "Nombre": "BRUNO ALCANTARA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "37117",
+   "Nombre": "AGUSTIN MALO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "35461",
+   "Nombre": "FABRIZIO PEROTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51727",
+   "Nombre": "MARCOS CARRION",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55620",
+   "Nombre": "LUCAS BRITOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "51170",
+   "Nombre": "NICOLAS FLORIAN GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35456",
+   "Nombre": "NICOLAS CAVASSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "56736",
+   "Nombre": "JUAN ESPINA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "54698",
+   "Nombre": "SEBASTIAN MARCOS GONZALEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55960",
+   "Nombre": "LUCAS BERNARDO BARJAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "66200",
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "17871",
+   "Nombre": "FEDERICO LUIS LECUEDER",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43166",
+   "Jug_Sale": "BRUNO ALCANTARA",
+   "CarneEntra": "53607",
+   "Jug_Entra": "LAUTARO FEDERICO SATRANO",
+   "camiseta": "36",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "42141",
+   "Jug_Sale": "GIANFRANCO SIENRA",
+   "CarneEntra": "58871",
+   "Jug_Entra": "SEBASTIAN BAZ",
+   "camiseta": "35",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "44089",
+   "Jug_Sale": "JUAN IGNACIO GONZALEZ",
+   "CarneEntra": "50588",
+   "Jug_Entra": "IGNACIO YACI",
+   "camiseta": "2",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67268",
+   "Jug_Sale": "MATEO BACHEV",
+   "CarneEntra": "37052",
+   "Jug_Entra": "MAURO DUILIO GARRETANO",
+   "camiseta": "18",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "54915",
+   "Jug_Sale": "MARTIN HORACIO MONAGAS",
+   "CarneEntra": "62785",
+   "Jug_Entra": "FELIPE ARRUABARRENA",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "39899",
+   "Jug_Sale": "FACUNDO IBARRA",
+   "CarneEntra": "64625",
+   "Jug_Entra": "FEDERICO CAPRARIO",
+   "camiseta": "3",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "35461",
+   "Jug_Sale": "FABRIZIO PEROTTI",
+   "CarneEntra": "64612",
+   "Jug_Entra": "SANTIAGO CAPRARIO",
+   "camiseta": "4",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66200",
+   "Jug_Sale": "AGUSTIN NICOLAS ARAMBILLETE",
+   "CarneEntra": "51165",
+   "Jug_Entra": "SERGIO FACUNDO DIAZ",
+   "camiseta": "28",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "35456",
+   "Jug_Sale": "NICOLAS CAVASSA",
+   "CarneEntra": "59451",
+   "Jug_Entra": "AGUSTIN MERILES",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17871",
+   "Jug_Sale": "FEDERICO LUIS LECUEDER",
+   "CarneEntra": "52901",
+   "Jug_Entra": "SALVADOR BURGOS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55620",
+   "Jug_Sale": "LUCAS BRITOS",
+   "CarneEntra": "65477",
+   "Jug_Entra": "JULIO GAEL MATTOS",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55960",
+   "Jug_Sale": "LUCAS BERNARDO BARJAS",
+   "CarneEntra": "67408",
+   "Jug_Entra": "MATEO LIMA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34500",
+   "Jug_Sale": "RODRIGO GABRIEL ANGELOTTI",
+   "CarneEntra": "53761",
+   "Jug_Entra": "EMILIANO GASPAR TRUJILLO",
+   "camiseta": "18",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "32399",
+   "Jug_Sale": "IGNACIO LECUEDER",
+   "CarneEntra": "52903",
+   "Jug_Entra": "JOAQUIN PABLO GONZALEZ",
+   "camiseta": "41",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "44089",
+   "Nombre": "JUAN IGNACIO GONZALEZ",
+   "minutos": "2",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "minutos": "68",
+   "EnContra": "1"
+  },
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51170",
+   "Nombre": "NICOLAS FLORIAN GONZALEZ",
+   "minutos": "54",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66200",
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "minutos": "59",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

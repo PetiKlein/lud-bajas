@@ -1,0 +1,290 @@
+{
+ "id": "97988",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CLUB SOC. y DEP. LA CHISPA",
+ "visitante": "JUAN XXIII",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "248",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-04-11 15:19:00",
+  "Fecha_fin": "2026-04-11 15:19:00",
+  "Locatario": "CLUB SOC. y DEP. LA CHISPA",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67532",
+   "Nombre": "AXEL SOPPI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67534",
+   "Nombre": "BYRON QUILIMAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67525",
+   "Nombre": "RODRIGO VILLALBA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67531",
+   "Nombre": "BRIAN OLIVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67518",
+   "Nombre": "CHRISTIAN PEÑAFLOR",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67530",
+   "Nombre": "FRANCISCO SUAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67524",
+   "Nombre": "LUCAS GALIANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67528",
+   "Nombre": "NICOLAS SAAVEDRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67522",
+   "Nombre": "THIAGO VIERA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67526",
+   "Nombre": "RODRIGO CABALERO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67523",
+   "Nombre": "ALEXANDER CABRERA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65542",
+   "Nombre": "IGNACIO CIRIGLIANO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64094",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "64095",
+   "Nombre": "JUAN ANDRES GARCIA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "61869",
+   "Nombre": "FELIPE DASTUGUE",
+   "camiseta": "84",
+   "Capitan": ""
+  },
+  {
+   "carne": "67675",
+   "Nombre": "MATEO MAURO GONZALEZ",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "67671",
+   "Nombre": "JUAN IGNACIO SÀNCHEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "63347",
+   "Nombre": "VALENTIN ROBKIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "64101",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "97",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67528",
+   "Jug_Sale": "NICOLAS SAAVEDRA",
+   "CarneEntra": "67517",
+   "Jug_Entra": "MAXIMILIANO LEMOS",
+   "camiseta": "25",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "67518",
+   "Jug_Sale": "CHRISTIAN PEÑAFLOR",
+   "CarneEntra": "67678",
+   "Jug_Entra": "YHENARO GEHRKE",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67531",
+   "Jug_Sale": "BRIAN OLIVERA",
+   "CarneEntra": "67528",
+   "Jug_Entra": "NICOLAS SAAVEDRA",
+   "camiseta": "8",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "67530",
+   "Jug_Sale": "FRANCISCO SUAREZ",
+   "CarneEntra": "67518",
+   "Jug_Entra": "CHRISTIAN PEÑAFLOR",
+   "camiseta": "14",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67675",
+   "Jug_Sale": "MATEO MAURO GONZALEZ",
+   "CarneEntra": "64501",
+   "Jug_Entra": "DIEGO GONZALEZ",
+   "camiseta": "86",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "58783",
+   "Jug_Sale": "LAUTARO GABRIEL SALLES",
+   "CarneEntra": "67673",
+   "Jug_Entra": "EMILIANO BARBOSA",
+   "camiseta": "17",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "64094",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "67673",
+   "Jug_Entra": "EMILIANO BARBOSA",
+   "camiseta": "17",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "64101",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "67669",
+   "Jug_Entra": "FELIPE AGUSTIN PINO",
+   "camiseta": "31",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "57022",
+   "Jug_Sale": "JUAN DIEGO CACERES",
+   "CarneEntra": "65547",
+   "Jug_Entra": "JOSE IGNACIO LESSA",
+   "camiseta": "97",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64095",
+   "Jug_Sale": "JUAN ANDRES GARCIA",
+   "CarneEntra": "67239",
+   "Jug_Entra": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "19",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "67238",
+   "Jug_Sale": "SANTIAGO BALTASAR",
+   "CarneEntra": "59588",
+   "Jug_Entra": "GERARDO ROCCO BELLO",
+   "camiseta": "17",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67523",
+   "Nombre": "ALEXANDER CABRERA",
+   "minutos": "45",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67523",
+   "Nombre": "ALEXANDER CABRERA",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67528",
+   "Nombre": "NICOLAS SAAVEDRA",
+   "minutos": "35",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63347",
+   "Nombre": "VALENTIN ROBKIN",
+   "minutos": "22",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

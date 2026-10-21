@@ -1,0 +1,304 @@
+{
+ "id": "99271",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "OLD BRENDANS VERDE",
+ "visitante": "NUMA TURCATTI",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "284",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-05-23 13:00:00",
+  "Fecha_fin": "2026-05-23 13:00:00",
+  "Locatario": "OLD BRENDANS VERDE",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "NUMA TURCATTI",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53394",
+   "Nombre": "DIEGO SABAJ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56336",
+   "Nombre": "JUAN IGNACIO BRAGA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "49150",
+   "Nombre": "GASTON SCHMIDT",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57719",
+   "Nombre": "TOMAS LORENZO FASCIOLI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "57033",
+   "Nombre": "LORENZO URIARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "58816",
+   "Nombre": "GUILLERMO SOTO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54756",
+   "Nombre": "ADRIANO MARTIN AGGIO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "61804",
+   "Nombre": "JUAN MANUEL ZAMBRANO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64017",
+   "Nombre": "JUAN IGNACIO MENENDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63834",
+   "Nombre": "BRUNO FEDERICO ENGEL",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63655",
+   "Nombre": "IKER RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54928",
+   "Nombre": "ISMAEL IMPERIAL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "48424",
+   "Nombre": "IGNACIO ROURE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67627",
+   "Nombre": "AGUSTIN MARENCO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52654",
+   "Nombre": "CRISTHIAN ALEXANDER TABEIRA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "53304",
+   "Nombre": "LUCAS ALVEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "67234",
+   "Nombre": "RODRIGO HERNAN MARTINEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51174",
+   "Jug_Sale": "LUCA MAXIMO AGGIO",
+   "CarneEntra": "55930",
+   "Jug_Entra": "BRYAN EZEQUIEL GIOVINAZZO",
+   "camiseta": "10",
+   "minutos": "22"
+  },
+  {
+   "CarneSale": "54756",
+   "Jug_Sale": "ADRIANO MARTIN AGGIO",
+   "CarneEntra": "53400",
+   "Jug_Entra": "FACUNDO VILLARREAL",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58816",
+   "Jug_Sale": "GUILLERMO SOTO",
+   "CarneEntra": "55229",
+   "Jug_Entra": "JUAN SEGUNDO CASTELLS",
+   "camiseta": "19",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "61804",
+   "Jug_Sale": "JUAN MANUEL ZAMBRANO",
+   "CarneEntra": "58151",
+   "Jug_Entra": "LUCAS FERNANDEZ",
+   "camiseta": "95",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "56336",
+   "Jug_Sale": "JUAN IGNACIO BRAGA",
+   "CarneEntra": "65624",
+   "Jug_Entra": "LORENZO RODRIGUEZ",
+   "camiseta": "20",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "57033",
+   "Jug_Sale": "LORENZO URIARTE",
+   "CarneEntra": "59196",
+   "Jug_Entra": "BRUNO PERTMAN",
+   "camiseta": "15",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "49150",
+   "Jug_Sale": "GASTON SCHMIDT",
+   "CarneEntra": "56472",
+   "Jug_Entra": "FACUNDO ASTIAZARAN",
+   "camiseta": "24",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48424",
+   "Jug_Sale": "IGNACIO ROURE",
+   "CarneEntra": "49283",
+   "Jug_Entra": "SANTIAGO BARBOZA",
+   "camiseta": "38",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "53304",
+   "Jug_Sale": "LUCAS ALVEZ",
+   "CarneEntra": "59482",
+   "Jug_Entra": "FACUNDO ESCALANTE",
+   "camiseta": "9",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "67234",
+   "Jug_Sale": "RODRIGO HERNAN MARTINEZ",
+   "CarneEntra": "67233",
+   "Jug_Entra": "RENZO SAMUEL GENTILIO",
+   "camiseta": "8",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "54928",
+   "Jug_Sale": "ISMAEL IMPERIAL",
+   "CarneEntra": "51090",
+   "Jug_Entra": "JUAN IGNACIO RUSSO",
+   "camiseta": "10",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "67627",
+   "Jug_Sale": "AGUSTIN MARENCO",
+   "CarneEntra": "53304",
+   "Jug_Entra": "LUCAS ALVEZ",
+   "camiseta": "35",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55930",
+   "Nombre": "BRYAN EZEQUIEL GIOVINAZZO",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "55930",
+   "Nombre": "BRYAN EZEQUIEL GIOVINAZZO",
+   "minutos": "86",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51090",
+   "Nombre": "JUAN IGNACIO RUSSO",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "minutos": "450",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59482",
+   "Nombre": "FACUNDO ESCALANTE",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

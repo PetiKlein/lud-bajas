@@ -1,0 +1,248 @@
+{
+ "id": "99432",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 15:30:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "296",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-05-30 17:15:00",
+  "Fecha_fin": "2026-05-30 17:15:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56600",
+   "Nombre": "SANTIAGO REYES",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "55355",
+   "Nombre": "FACUNDO BELTRAN",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "62637",
+   "Nombre": "AGUSTIN GAVEL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62631",
+   "Nombre": "JOAQUIN ARMANDO PIRIZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "62952",
+   "Nombre": "JUAN PEDRO ANGENSCHEIDT",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56108",
+   "Nombre": "IGNACIO CACHON",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "55191",
+   "Nombre": "FEDERICO SAINTAGNE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55187",
+   "Nombre": "IGNACIO ANDRES ALVAREZ",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "56156",
+   "Nombre": "FRANCO SANTIAGO BOTTINI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56201",
+   "Nombre": "MATEO BONFIGLIO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "56841",
+   "Nombre": "FELIPE NICOLAS LOPEZ",
+   "camiseta": "97",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56415",
+   "Nombre": "LUCAS AGUSTIN CACERES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59761",
+   "Nombre": "BRUNO LAVIE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66528",
+   "Nombre": "LUCA CANZANI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59555",
+   "Nombre": "JUAN MANUEL BIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62420",
+   "Nombre": "MATIAS LABORDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60337",
+   "Nombre": "MATEO GLISENTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "camiseta": "0",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66778",
+   "Nombre": "SANTIAGO MACEDO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "54757",
+   "Nombre": "LUIS IGNACIO MATTERA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57343",
+   "Nombre": "FEDERICO PELUFFO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62952",
+   "Jug_Sale": "JUAN PEDRO ANGENSCHEIDT",
+   "CarneEntra": "59473",
+   "Jug_Entra": "SANTIAGO OUTERELO",
+   "camiseta": "88",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56156",
+   "Jug_Sale": "FRANCO SANTIAGO BOTTINI",
+   "CarneEntra": "59109",
+   "Jug_Entra": "SANTIAGO ALVAREZ",
+   "camiseta": "82",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56841",
+   "Jug_Sale": "FELIPE NICOLAS LOPEZ",
+   "CarneEntra": "62940",
+   "Jug_Entra": "JOAQUIN ORGOROSO",
+   "camiseta": "73",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "56108",
+   "Jug_Sale": "IGNACIO CACHON",
+   "CarneEntra": "66255",
+   "Jug_Entra": "GUILLERMO ADOLPH",
+   "camiseta": "15",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66528",
+   "Jug_Sale": "LUCA CANZANI",
+   "CarneEntra": "67386",
+   "Jug_Entra": "IAN MOLDAVSKY",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54757",
+   "Jug_Sale": "LUIS IGNACIO MATTERA",
+   "CarneEntra": "67887",
+   "Jug_Entra": "SANTINO DE COLA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62420",
+   "Jug_Sale": "MATIAS LABORDE",
+   "CarneEntra": "54757",
+   "Jug_Entra": "LUIS IGNACIO MATTERA",
+   "camiseta": "9",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "57343",
+   "Jug_Sale": "FEDERICO PELUFFO",
+   "CarneEntra": "65822",
+   "Jug_Entra": "MATEO GREGORIO GONZALEZ",
+   "camiseta": "17",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "66528",
+   "Jug_Sale": "LUCA CANZANI",
+   "CarneEntra": "57343",
+   "Jug_Entra": "FEDERICO PELUFFO",
+   "camiseta": "19",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

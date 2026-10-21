@@ -1,0 +1,247 @@
+{
+ "id": "101791",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 3,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "YOUNG UNIVERSITARIO",
+ "visitante": "ARQUITECTURA JRS.",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "505",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-09-12 13:15:00",
+  "Fecha_fin": "2026-09-12 13:15:00",
+  "Locatario": "YOUNG UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "ARQUITECTURA JRS.",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66386",
+   "Nombre": "FRANCISCO CONSTANTIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60311",
+   "Nombre": "ROMAN JOSE SCREMINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58823",
+   "Nombre": "JUSTINO LAFLUF",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67395",
+   "Nombre": "VALENTINO SACRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67786",
+   "Nombre": "IGNACIO BALLEJO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64739",
+   "Nombre": "SANTIAGO SCREMINI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61038",
+   "Nombre": "CONRADO HEINZE",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66169",
+   "Nombre": "ALEJO ANDRES AIZPUN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "62237",
+   "Nombre": "SANTINO ACOSTA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56157",
+   "Nombre": "JEREMIAS SILVEIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67481",
+   "Nombre": "DYLAN IVAN VALLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64726",
+   "Nombre": "JOSE VALENTIN VILA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61430",
+   "Nombre": "GASTON NICOLAS DE OLIVEIRA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "69020",
+   "Nombre": "ADRIAN ESTEBAN RIBAS",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "61751",
+   "Nombre": "NAHUEL PEREZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "48790",
+   "Nombre": "JOAQUIN BORUCKI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62016",
+   "Nombre": "MARCO TADEO CRISTINO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "52388",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56535",
+   "Nombre": "FRANCO NICOLAS BARCELO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "61420",
+   "Nombre": "DIEGO ALEXANDER GOTTERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58675",
+   "Nombre": "CARMELO COCCO",
+   "camiseta": "81",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62237",
+   "Jug_Sale": "SANTINO ACOSTA",
+   "CarneEntra": "52893",
+   "Jug_Entra": "EZEQUIEL FRANCO",
+   "camiseta": "9",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "64739",
+   "Jug_Sale": "SANTIAGO SCREMINI",
+   "CarneEntra": "64742",
+   "Jug_Entra": "GASPAR HERMOSO",
+   "camiseta": "27",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "60311",
+   "Jug_Sale": "ROMAN JOSE SCREMINI",
+   "CarneEntra": "67559",
+   "Jug_Entra": "BRUNO CAMPOPIANO",
+   "camiseta": "15",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "61038",
+   "Jug_Sale": "CONRADO HEINZE",
+   "CarneEntra": "69117",
+   "Jug_Entra": "FRANCISCO MENENDEZ",
+   "camiseta": "12",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "67786",
+   "Jug_Sale": "IGNACIO BALLEJO",
+   "CarneEntra": "65774",
+   "Jug_Entra": "TOMAS BANEGA",
+   "camiseta": "18",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "66169",
+   "Jug_Sale": "ALEJO ANDRES AIZPUN",
+   "CarneEntra": "29823",
+   "Jug_Entra": "JOVAN ANDRES KLARIC",
+   "camiseta": "51",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58675",
+   "Jug_Sale": "CARMELO COCCO",
+   "CarneEntra": "58911",
+   "Jug_Entra": "NICOLAS MOSQUEIRA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48790",
+   "Jug_Sale": "JOAQUIN BORUCKI",
+   "CarneEntra": "69122",
+   "Jug_Entra": "LUCAS RODRIGO ROCHA",
+   "camiseta": "34",
+   "minutos": "62"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56157",
+   "Nombre": "JEREMIAS SILVEIRA",
+   "minutos": "94",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,290 @@
+{
+ "id": "99525",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 15:30:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "PALLOTTI UNIVERSITARIO",
+ "visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "290",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-05-30 17:30:00",
+  "Fecha_fin": "2026-05-30 17:30:00",
+  "Locatario": "PALLOTTI UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67694",
+   "Nombre": "EMILIANO ISMAEL PEREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68287",
+   "Nombre": "CRISTIAN VALENTIN MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67699",
+   "Nombre": "EMILIANO MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67696",
+   "Nombre": "JUAN MARTIN BANIZI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "68654",
+   "Nombre": "FEDERICO LORENZO Y LOSADA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "60750",
+   "Nombre": "LUCAS AGUSTIN BILBAO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67707",
+   "Nombre": "LUCAS THIAGO RODRIGUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67705",
+   "Nombre": "THIAGO EDUARDO QUIROGA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67706",
+   "Nombre": "ALEJANDRO SEBASTIAN PEREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58351",
+   "Nombre": "JOAQUIN PAREDES",
+   "camiseta": "59",
+   "Capitan": ""
+  },
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57239",
+   "Nombre": "THIAGO PENA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61088",
+   "Nombre": "MAURICIO AGUSTIN RICCA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "64635",
+   "Nombre": "JOAQUIN DUARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59006",
+   "Nombre": "IGNACIO MAYORA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62613",
+   "Nombre": "IGNACIO GODIÑO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "61987",
+   "Nombre": "AGUSTIN NOVO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62811",
+   "Nombre": "TOMAS SULCA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "63486",
+   "Nombre": "FEDERICO DAISSON",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65462",
+   "Nombre": "VALENTINO MARTIN BONILLA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67904",
+   "Nombre": "NICOLAS PEREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66783",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58351",
+   "Jug_Sale": "JOAQUIN PAREDES",
+   "CarneEntra": "58096",
+   "Jug_Entra": "SANTIAGO LUNGO",
+   "camiseta": "23",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67707",
+   "Jug_Sale": "LUCAS THIAGO RODRIGUEZ",
+   "CarneEntra": "60488",
+   "Jug_Entra": "FRANCISCO JESUS CUADRO",
+   "camiseta": "3",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "67705",
+   "Jug_Sale": "THIAGO EDUARDO QUIROGA",
+   "CarneEntra": "68288",
+   "Jug_Entra": "GABRIEL SEGOVIA",
+   "camiseta": "7",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "60750",
+   "Jug_Sale": "LUCAS AGUSTIN BILBAO",
+   "CarneEntra": "67708",
+   "Jug_Entra": "ALEJO MANEIRO",
+   "camiseta": "19",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63486",
+   "Jug_Sale": "FEDERICO DAISSON",
+   "CarneEntra": "63190",
+   "Jug_Entra": "MAURO CELIBERTI",
+   "camiseta": "80",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "62811",
+   "Jug_Sale": "TOMAS SULCA",
+   "CarneEntra": "56448",
+   "Jug_Entra": "SANTIAGO PEREIRA",
+   "camiseta": "8",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "66783",
+   "Jug_Sale": "JUAN MANUEL RODRIGUEZ",
+   "CarneEntra": "65793",
+   "Jug_Entra": "FACUNDO MARIA RIBAS",
+   "camiseta": "19",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67904",
+   "Jug_Sale": "NICOLAS PEREZ",
+   "CarneEntra": "61491",
+   "Jug_Entra": "IGNACIO SAENZ",
+   "camiseta": "30",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "59006",
+   "Jug_Sale": "IGNACIO MAYORA",
+   "CarneEntra": "64640",
+   "Jug_Entra": "FACUNDO VAZQUEZ",
+   "camiseta": "11",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "minutos": "26",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68654",
+   "Nombre": "FEDERICO LORENZO Y LOSADA",
+   "minutos": "72",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61088",
+   "Nombre": "MAURICIO AGUSTIN RICCA",
+   "minutos": "29",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65462",
+   "Nombre": "VALENTINO MARTIN BONILLA",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66783",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "minutos": "12",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN MARTIN BANIZI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "VALENTINO MARTIN BONILLA",
+   "observaciones": ""
+  }
+ ]
+}

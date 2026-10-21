@@ -1,0 +1,312 @@
+{
+ "id": "99944",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII BLANCO",
+ "visitante": "WANDERERS",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "309",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-13 13:20:00",
+  "Fecha_fin": "2026-06-13 13:20:00",
+  "Locatario": "JUAN XXIII BLANCO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59263",
+   "Nombre": "MAURO ANDRES RUVERTONI",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55283",
+   "Nombre": "IGNACIO ZABALETA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "49012",
+   "Nombre": "AGUSTIN SUPERVIELLE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58842",
+   "Nombre": "ISMAEL DE DIOS",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "46955",
+   "Nombre": "FRANCISCO ARTURO CACERES",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "58861",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "54665",
+   "Nombre": "SANTIAGO PRINA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53468",
+   "Nombre": "TOMAS PACHECO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53772",
+   "Nombre": "GIULIANO GAZZOLA",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "62489",
+   "Nombre": "FACUNDO PASSEGGI",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "51708",
+   "Nombre": "AGUSTIN FERRES",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45274",
+   "Nombre": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "59917",
+   "Nombre": "LUCAS BALTAZAR GARCIA",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "61300",
+   "Nombre": "LUCIANO DA SILVA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "67260",
+   "Nombre": "AGUSTIN TERMEZANA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "66824",
+   "Nombre": "GABRIEL HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "46940",
+   "Nombre": "SANTIAGO JOSE ZAS",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59160",
+   "Nombre": "ALEXANDER PIREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "51001",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55308",
+   "Nombre": "JUAN MARTIN MALDONADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "43616",
+   "Nombre": "SANTIAGO VEGLIO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62489",
+   "Jug_Sale": "FACUNDO PASSEGGI",
+   "CarneEntra": "55468",
+   "Jug_Entra": "MANUEL EPSTEIN",
+   "camiseta": "24",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "49012",
+   "Jug_Sale": "AGUSTIN SUPERVIELLE",
+   "CarneEntra": "52477",
+   "Jug_Entra": "MATEO FRANCISCO GONZALEZ",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53772",
+   "Jug_Sale": "GIULIANO GAZZOLA",
+   "CarneEntra": "61867",
+   "Jug_Entra": "MATEO ALVAREZ",
+   "camiseta": "18",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "54665",
+   "Jug_Sale": "SANTIAGO PRINA",
+   "CarneEntra": "40583",
+   "Jug_Entra": "NICOLAS BRANCATO",
+   "camiseta": "40",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "58861",
+   "Jug_Sale": "SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "58047",
+   "Jug_Entra": "ALFONSO RODRIGUEZ",
+   "camiseta": "25",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "55283",
+   "Jug_Sale": "IGNACIO ZABALETA",
+   "CarneEntra": "58576",
+   "Jug_Entra": "RAFAEL ENRIQUE BARRENECHEA",
+   "camiseta": "42",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "53468",
+   "Jug_Sale": "TOMAS PACHECO",
+   "CarneEntra": "66793",
+   "Jug_Entra": "MATEO PICHERNO",
+   "camiseta": "91",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "43616",
+   "Jug_Sale": "SANTIAGO VEGLIO",
+   "CarneEntra": "63183",
+   "Jug_Entra": "MATEO REDIN",
+   "camiseta": "22",
+   "minutos": "5"
+  },
+  {
+   "CarneSale": "45274",
+   "Jug_Sale": "ALEJANDRO GABRIEL MORALES",
+   "CarneEntra": "45708",
+   "Jug_Entra": "GUILLERMO ANDREOLI",
+   "camiseta": "82",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43616",
+   "Jug_Sale": "SANTIAGO VEGLIO",
+   "CarneEntra": "45274",
+   "Jug_Entra": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "9",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "59917",
+   "Jug_Sale": "LUCAS BALTAZAR GARCIA",
+   "CarneEntra": "63241",
+   "Jug_Entra": "TOMAS CALVO",
+   "camiseta": "28",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "61300",
+   "Jug_Sale": "LUCIANO DA SILVA",
+   "CarneEntra": "56589",
+   "Jug_Entra": "DARIO EMANUEL ARCHONDO",
+   "camiseta": "99",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "66607",
+   "Jug_Sale": "ALEXIS COLO",
+   "CarneEntra": "59917",
+   "Jug_Entra": "LUCAS BALTAZAR GARCIA",
+   "camiseta": "61",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58861",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "minutos": "9",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58861",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62489",
+   "Nombre": "FACUNDO PASSEGGI",
+   "minutos": "18",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "minutos": "2",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "minutos": "14",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,290 @@
+{
+ "id": "103042",
+ "categoria": "sub20-c",
+ "serie": "20CP",
+ "fecha": 4,
+ "fechaHora": "2026-10-17 15:30:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "MONTEVIDEO COLLEGE",
+ "visitante": "FLORES UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "513",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"C\" COPA DE PLATA",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-10-17 17:30:00",
+  "Fecha_fin": "2026-10-17 17:30:00",
+  "Locatario": "MONTEVIDEO COLLEGE",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "FLORES UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66348",
+   "Nombre": "FELIPE DE BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62329",
+   "Nombre": "FACUNDO ABELENDA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67434",
+   "Nombre": "BRUNO ECHENIQUE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59185",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58567",
+   "Nombre": "NAHUEL DAVID REBELLO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67433",
+   "Nombre": "IGNACIO STANHAM",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58777",
+   "Nombre": "RODRIGO GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62874",
+   "Nombre": "JUAN MANUEL CARBONE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63442",
+   "Nombre": "MATEO FONT",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64762",
+   "Nombre": "NICOLAS VILLA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68560",
+   "Nombre": "FELIPE MINO",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64934",
+   "Nombre": "PEDRO MANUEL CURBELO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65219",
+   "Nombre": "GASPAR SWINDEN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62152",
+   "Nombre": "LUCAS POLLERO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61527",
+   "Nombre": "MATIAS URIOSTE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59231",
+   "Nombre": "FACUNDO FABINI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62134",
+   "Nombre": "EZEQUIEL COLINA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62136",
+   "Nombre": "JUAN PEDRO MONTAÑEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59234",
+   "Nombre": "CAMILO RIVAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "62142",
+   "Nombre": "GAEL LERCARI",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "60655",
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62874",
+   "Jug_Sale": "JUAN MANUEL CARBONE",
+   "CarneEntra": "64761",
+   "Jug_Entra": "MATIAS NICOLAS DARRE",
+   "camiseta": "16",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "62329",
+   "Jug_Sale": "FACUNDO ABELENDA",
+   "CarneEntra": "64410",
+   "Jug_Entra": "JUAN ANTONIO QUINTAS",
+   "camiseta": "4",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "58777",
+   "Jug_Sale": "RODRIGO GONZALEZ",
+   "CarneEntra": "64913",
+   "Jug_Entra": "JUAN MANUEL FERRERI",
+   "camiseta": "13",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64934",
+   "Jug_Sale": "PEDRO MANUEL CURBELO",
+   "CarneEntra": "67714",
+   "Jug_Entra": "VALENTIN ALEJANDRO BALLEJOS",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62142",
+   "Jug_Sale": "GAEL LERCARI",
+   "CarneEntra": "57324",
+   "Jug_Entra": "TOMAS ALVAREZ",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60655",
+   "Jug_Sale": "MATTHIAS SEBASTIAN LAUBE",
+   "CarneEntra": "68345",
+   "Jug_Entra": "FACUNDO BELEN",
+   "camiseta": "37",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61527",
+   "Jug_Sale": "MATIAS URIOSTE",
+   "CarneEntra": "62135",
+   "Jug_Entra": "VALENTIN ESPINOSA",
+   "camiseta": "4",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "62136",
+   "Jug_Sale": "JUAN PEDRO MONTAÑEZ",
+   "CarneEntra": "68870",
+   "Jug_Entra": "NICOLAS FERNANDEZ",
+   "camiseta": "19",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "68345",
+   "Jug_Sale": "FACUNDO BELEN",
+   "CarneEntra": "60655",
+   "Jug_Entra": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "77",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58777",
+   "Nombre": "RODRIGO GONZALEZ",
+   "minutos": "88",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64762",
+   "Nombre": "NICOLAS VILLA",
+   "minutos": "12",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59234",
+   "Nombre": "CAMILO RIVAS",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "NAHUEL DAVID REBELLO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "FELIPE MINO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "FACUNDO FABINI",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "CAMILO RIVAS",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "observaciones": ""
+  }
+ ]
+}

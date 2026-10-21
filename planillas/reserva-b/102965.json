@@ -1,0 +1,287 @@
+{
+ "id": "102965",
+ "categoria": "reserva-b",
+ "serie": "RSBTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-17 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "INDEPENDIENTE",
+ "visitante": "OLD CHRISTIANS VERDE",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "676",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" TIT. y ASC.",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-10-17 13:10:00",
+  "Fecha_fin": "2026-10-17 13:10:00",
+  "Locatario": "INDEPENDIENTE",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "OLD CHRISTIANS VERDE",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61237",
+   "Nombre": "JOAQUIN HAYMES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56420",
+   "Nombre": "LAUTARO SANCHEZ",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "45742",
+   "Nombre": "NEHUEN EZEQUIEL BONIFAZI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "68177",
+   "Nombre": "ENZO FACUNDO SOUZA",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "42394",
+   "Nombre": "MARTINHO GABRIEL DA COSTA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "48270",
+   "Nombre": "FRANCO MARTIN SANTORO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "42358",
+   "Nombre": "FABIO ENRIQUED DA COSTA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "59998",
+   "Nombre": "BRAHUDER LEONEL ALARCON",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "58160",
+   "Nombre": "BRANDON FARIAS",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68491",
+   "Nombre": "MARCOS SEIGAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67388",
+   "Nombre": "SANTIAGO BERTORELLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "35673",
+   "Nombre": "ALBERTO JERONIMO NOGUERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "51736",
+   "Nombre": "PEDRO HINSCH",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "53757",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "37067",
+   "Nombre": "TOMAS BERRO",
+   "camiseta": "93",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "44029",
+   "Nombre": "TOMAS SANTIAGO SLINGER",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "60425",
+   "Nombre": "FACUNDO STURLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56746",
+   "Nombre": "JOAQUIN REINANTE",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53976",
+   "Nombre": "MATEO STORACE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55214",
+   "Nombre": "BAUTISTA RAFAEL LADOUX",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58160",
+   "Jug_Sale": "BRANDON FARIAS",
+   "CarneEntra": "43314",
+   "Jug_Entra": "CONRADO GAMBETTA",
+   "camiseta": "6",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "42358",
+   "Jug_Sale": "FABIO ENRIQUED DA COSTA",
+   "CarneEntra": "43774",
+   "Jug_Entra": "FELIPE HEIN",
+   "camiseta": "5",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "68177",
+   "Jug_Sale": "ENZO FACUNDO SOUZA",
+   "CarneEntra": "42893",
+   "Jug_Entra": "GABRIEL PEREYRA",
+   "camiseta": "80",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "42394",
+   "Jug_Sale": "MARTINHO GABRIEL DA COSTA",
+   "CarneEntra": "58968",
+   "Jug_Entra": "NICOLAS CAPECI",
+   "camiseta": "8",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "45742",
+   "Jug_Sale": "NEHUEN EZEQUIEL BONIFAZI",
+   "CarneEntra": "62653",
+   "Jug_Entra": "MATEO DIAZ",
+   "camiseta": "99",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60425",
+   "Jug_Sale": "FACUNDO STURLA",
+   "CarneEntra": "52966",
+   "Jug_Entra": "LUCAS FRANCISCO PRESSO",
+   "camiseta": "11",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "68491",
+   "Jug_Sale": "MARCOS SEIGAL",
+   "CarneEntra": "35690",
+   "Jug_Entra": "MARTIN UBILLA",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53976",
+   "Jug_Sale": "MATEO STORACE",
+   "CarneEntra": "39754",
+   "Jug_Entra": "JOAQUIN FEDERICO SLINGER",
+   "camiseta": "34",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "67388",
+   "Jug_Sale": "SANTIAGO BERTORELLI",
+   "CarneEntra": "37736",
+   "Jug_Entra": "FELIPE DABEZIES",
+   "camiseta": "6",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56746",
+   "Jug_Sale": "JOAQUIN REINANTE",
+   "CarneEntra": "53976",
+   "Jug_Entra": "MATEO STORACE",
+   "camiseta": "7",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "35673",
+   "Nombre": "ALBERTO JERONIMO NOGUERA",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "44029",
+   "Nombre": "TOMAS SANTIAGO SLINGER",
+   "minutos": "83",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "LAUTARO SANCHEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

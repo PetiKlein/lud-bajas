@@ -1,0 +1,305 @@
+{
+ "id": "101885",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 13,
+ "fechaHora": "2026-09-13 11:15:00",
+ "cancha": "SAN EUGENIO",
+ "local": "BELLA UNION UNIVERSITARIO",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "702",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "SAN EUGENIO",
+  "Fecha_Inicio": "2026-09-13 13:00:00",
+  "Fecha_fin": "2026-09-13 13:00:00",
+  "Locatario": "BELLA UNION UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60893",
+   "Nombre": "LEONARDO GABRIEL PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56169",
+   "Nombre": "MAXIMILIANO LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66284",
+   "Nombre": "JUAN IGNACIO BARCELLOS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "57139",
+   "Nombre": "ELBIO YONATAN FERREIRA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "50135",
+   "Nombre": "FABRICIO NICOLAS MARENCO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "51809",
+   "Nombre": "ALEXANDRE GABRIEL DIAZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "53075",
+   "Nombre": "NAHUEL NICOLAS BONINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61006",
+   "Nombre": "MAICKOL GABRIEL MACHADO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "61183",
+   "Nombre": "ENZO NICOLAS SAUCEDA",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "61184",
+   "Nombre": "ELVIS BELTRAN SILVA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41775",
+   "Nombre": "MARIANO GABRIEL MARQUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53623",
+   "Nombre": "IGNACIO AÑON",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "45786",
+   "Nombre": "KEVIN TAUBER",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53378",
+   "Nombre": "NICOLAS SILVA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "49281",
+   "Nombre": "JUAN JOSE PATRONE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68322",
+   "Nombre": "CARLOS IVAN MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "42729",
+   "Nombre": "VALENTIN ALEJANDRO FERNANDEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "64217",
+   "Nombre": "MATEO GALLINO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "43333",
+   "Nombre": "SANTIAGO GASTON DE LORENZI",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49279",
+   "Nombre": "MATEO PATRONE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59555",
+   "Nombre": "JUAN MANUEL BIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50135",
+   "Jug_Sale": "FABRICIO NICOLAS MARENCO",
+   "CarneEntra": "60851",
+   "Jug_Entra": "IGNACIO DUARTE",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61183",
+   "Jug_Sale": "ENZO NICOLAS SAUCEDA",
+   "CarneEntra": "47980",
+   "Jug_Entra": "HERNAN OXANDABARAT",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61006",
+   "Jug_Sale": "MAICKOL GABRIEL MACHADO",
+   "CarneEntra": "49457",
+   "Jug_Entra": "FACUNDO PEREIRA",
+   "camiseta": "2",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "41775",
+   "Jug_Sale": "MARIANO GABRIEL MARQUEZ",
+   "CarneEntra": "69081",
+   "Jug_Entra": "SANTIAGO GUTIERREZ",
+   "camiseta": "29",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "53075",
+   "Jug_Sale": "NAHUEL NICOLAS BONINO",
+   "CarneEntra": "49546",
+   "Jug_Entra": "JUAN SEBASTIAN PATRON",
+   "camiseta": "30",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "61184",
+   "Jug_Sale": "ELVIS BELTRAN SILVA",
+   "CarneEntra": "67605",
+   "Jug_Entra": "MARTIN NICOLAS TIO",
+   "camiseta": "21",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "66284",
+   "Jug_Sale": "JUAN IGNACIO BARCELLOS",
+   "CarneEntra": "62936",
+   "Jug_Entra": "JOAQUIN MARTINEZ",
+   "camiseta": "18",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "45786",
+   "Jug_Sale": "KEVIN TAUBER",
+   "CarneEntra": "49009",
+   "Jug_Entra": "FACUNDO ACUÑA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53378",
+   "Jug_Sale": "NICOLAS SILVA",
+   "CarneEntra": "59563",
+   "Jug_Entra": "FEDERICO GUICHON",
+   "camiseta": "51",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "43333",
+   "Jug_Sale": "SANTIAGO GASTON DE LORENZI",
+   "CarneEntra": "54722",
+   "Jug_Entra": "LUCAS SCAFARELLI",
+   "camiseta": "11",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "56305",
+   "Jug_Sale": "FRANCO GLISENTI",
+   "CarneEntra": "52808",
+   "Jug_Entra": "SEBASTIAN USHER",
+   "camiseta": "6",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "42729",
+   "Jug_Sale": "VALENTIN ALEJANDRO FERNANDEZ",
+   "CarneEntra": "52184",
+   "Jug_Entra": "DIEGO GIBERT",
+   "camiseta": "14",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64217",
+   "Jug_Sale": "MATEO GALLINO",
+   "CarneEntra": "52402",
+   "Jug_Entra": "PEDRO SCHELOTTO",
+   "camiseta": "71",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50135",
+   "Nombre": "FABRICIO NICOLAS MARENCO",
+   "minutos": "89",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51809",
+   "Nombre": "ALEXANDRE GABRIEL DIAZ",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61184",
+   "Nombre": "ELVIS BELTRAN SILVA",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66284",
+   "Nombre": "JUAN IGNACIO BARCELLOS",
+   "minutos": "60",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

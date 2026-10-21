@@ -1,0 +1,262 @@
+{
+ "id": "100187",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS NARANJA",
+ "visitante": "CENTRO CRISTOBAL COLON",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "312",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-06-13 13:30:00",
+  "Fecha_fin": "2026-06-13 13:30:00",
+  "Locatario": "OLD CHRISTIANS NARANJA",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CENTRO CRISTOBAL COLON",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "46770",
+   "Nombre": "TOMAS LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62604",
+   "Nombre": "JUAN CRUZ DE AZPITARTE",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55122",
+   "Nombre": "NICOLAS POL",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "50877",
+   "Nombre": "LAUTARO NEMIÑA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52817",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "43890",
+   "Nombre": "EMILIANO ROSS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62365",
+   "Nombre": "JOSE AGUSTIN BÖCKING",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "52822",
+   "Nombre": "LUCAS RUVIRA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "66781",
+   "Nombre": "FELIPE FERNANDEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39526",
+   "Nombre": "JUAN MARTIN BASIGALUZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "46003",
+   "Nombre": "MARTIN VIGORITO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64261",
+   "Nombre": "SANTIAGO HERRERA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "56887",
+   "Nombre": "JUAN MANUEL MASEDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61602",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "62352",
+   "Nombre": "SANTIAGO RICCONE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "50423",
+   "Nombre": "MARTIN GARCIA",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59792",
+   "Nombre": "MATEO ARMANDO OLIVERA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "62681",
+   "Nombre": "SANTIAGO PERAZZA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62131",
+   "Nombre": "GONZALO RICCONE",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "57654",
+   "Nombre": "DONATO NOCETTI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63850",
+   "Nombre": "FACUNDO NAHUEL VIDAL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55648",
+   "Nombre": "DIEGO MONTERO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52822",
+   "Jug_Sale": "LUCAS RUVIRA",
+   "CarneEntra": "47289",
+   "Jug_Entra": "LUIS PEDRO PONCE DE LEON",
+   "camiseta": "17",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "55122",
+   "Jug_Sale": "NICOLAS POL",
+   "CarneEntra": "53218",
+   "Jug_Entra": "JUAN HINSCH",
+   "camiseta": "19",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "50877",
+   "Jug_Sale": "LAUTARO NEMIÑA",
+   "CarneEntra": "55849",
+   "Jug_Entra": "ALFONSO LOPEZ",
+   "camiseta": "88",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "66781",
+   "Jug_Sale": "FELIPE FERNANDEZ",
+   "CarneEntra": "53889",
+   "Jug_Entra": "MANUEL TERRA",
+   "camiseta": "14",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59792",
+   "Jug_Sale": "MATEO ARMANDO OLIVERA",
+   "CarneEntra": "61897",
+   "Jug_Entra": "MATIAS MARCELO VERO",
+   "camiseta": "18",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "62131",
+   "Jug_Sale": "GONZALO RICCONE",
+   "CarneEntra": "67324",
+   "Jug_Entra": "FRANCO VALIENTE",
+   "camiseta": "31",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "62681",
+   "Jug_Sale": "SANTIAGO PERAZZA",
+   "CarneEntra": "63517",
+   "Jug_Entra": "FELIPE FERREIRA",
+   "camiseta": "99",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "57654",
+   "Jug_Sale": "DONATO NOCETTI",
+   "CarneEntra": "62132",
+   "Jug_Entra": "MARCOS GABRIEL BOYE",
+   "camiseta": "20",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "61602",
+   "Jug_Sale": "JOAQUIN FERNANDEZ",
+   "CarneEntra": "56895",
+   "Jug_Entra": "MATIAS NOYA",
+   "camiseta": "19",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46003",
+   "Nombre": "MARTIN VIGORITO",
+   "minutos": "61",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57654",
+   "Nombre": "DONATO NOCETTI",
+   "minutos": "24",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

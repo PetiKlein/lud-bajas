@@ -1,0 +1,278 @@
+{
+ "id": "100399",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "INDEPENDIENTE",
+ "visitante": "OLD CHRISTIANS BLANCO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "193",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-06-20 13:05:00",
+  "Fecha_fin": "2026-06-20 13:05:00",
+  "Locatario": "INDEPENDIENTE",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "OLD CHRISTIANS BLANCO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61237",
+   "Nombre": "JOAQUIN HAYMES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "43314",
+   "Nombre": "CONRADO GAMBETTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42394",
+   "Nombre": "MARTINHO GABRIEL DA COSTA",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59998",
+   "Nombre": "BRAHUDER LEONEL ALARCON",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "55322",
+   "Nombre": "MARCOS SANTIAGO PEREIRA",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "41598",
+   "Nombre": "AGUSTIN TESTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "48270",
+   "Nombre": "FRANCO MARTIN SANTORO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65734",
+   "Nombre": "SANTIAGO FLORETTA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "62653",
+   "Nombre": "MATEO DIAZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "68177",
+   "Nombre": "ENZO FACUNDO SOUZA",
+   "camiseta": "40",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46842",
+   "Nombre": "JUAN MANUEL HERMIDA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58500",
+   "Nombre": "FACUNDO LAFFITTE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48918",
+   "Nombre": "JUAN IGNACIO ROSPIDE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "51235",
+   "Nombre": "JUAN MARQUES",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67430",
+   "Nombre": "ANDRES VILLAR",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67427",
+   "Nombre": "LUCAS DE ACHAVAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "47292",
+   "Nombre": "NICOLAS JOSE REGUSCI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46844",
+   "Nombre": "JOSE ANTONIO GONZALEZ BERRO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52622",
+   "Nombre": "NICOLAS CLEMENTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "51502",
+   "Nombre": "DIEGO VIGORITO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67547",
+   "Nombre": "PEDRO ALEJO AROCENA",
+   "camiseta": "46",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66145",
+   "Jug_Sale": "IGNACIO BERTHEL",
+   "CarneEntra": "45728",
+   "Jug_Entra": "DIEGO REY",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42394",
+   "Jug_Sale": "MARTINHO GABRIEL DA COSTA",
+   "CarneEntra": "34311",
+   "Jug_Entra": "SEBASTIAN GONZALEZ",
+   "camiseta": "46",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "41598",
+   "Jug_Sale": "AGUSTIN TESTA",
+   "CarneEntra": "58968",
+   "Jug_Entra": "NICOLAS CAPECI",
+   "camiseta": "8",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "45728",
+   "Jug_Sale": "DIEGO REY",
+   "CarneEntra": "60711",
+   "Jug_Entra": "MATEO TROPIANO",
+   "camiseta": "69",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52622",
+   "Jug_Sale": "NICOLAS CLEMENTE",
+   "CarneEntra": "52607",
+   "Jug_Entra": "GUZMAN ARECHAVALETA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58500",
+   "Jug_Sale": "FACUNDO LAFFITTE",
+   "CarneEntra": "44039",
+   "Jug_Entra": "ALEJANDRO FYNN",
+   "camiseta": "51",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67547",
+   "Jug_Sale": "PEDRO ALEJO AROCENA",
+   "CarneEntra": "56128",
+   "Jug_Entra": "FRANCESCO SETTIN",
+   "camiseta": "23",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "46842",
+   "Jug_Sale": "JUAN MANUEL HERMIDA",
+   "CarneEntra": "52622",
+   "Jug_Entra": "NICOLAS CLEMENTE",
+   "camiseta": "77",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "46844",
+   "Jug_Sale": "JOSE ANTONIO GONZALEZ BERRO",
+   "CarneEntra": "42800",
+   "Jug_Entra": "FEDERICO  IGNACIO HERMIDA",
+   "camiseta": "16",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "67427",
+   "Jug_Sale": "LUCAS DE ACHAVAL",
+   "CarneEntra": "55212",
+   "Jug_Entra": "PEDRO TORRENDELL",
+   "camiseta": "11",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "48918",
+   "Jug_Sale": "JUAN IGNACIO ROSPIDE",
+   "CarneEntra": "65020",
+   "Jug_Entra": "MATEO ATANASIO SIERRA",
+   "camiseta": "23",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48270",
+   "Nombre": "FRANCO MARTIN SANTORO",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46844",
+   "Nombre": "JOSE ANTONIO GONZALEZ BERRO",
+   "minutos": "47",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

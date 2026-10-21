@@ -1,0 +1,301 @@
+{
+ "id": "101370",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 1,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "FUERZA AEREA",
+ "local": "CLUB FUERZA AEREA",
+ "visitante": "TROUVILLE UNIVERSITARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "560",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "FUERZA AEREA",
+  "Fecha_Inicio": "2026-08-29 13:00:00",
+  "Fecha_fin": "2026-08-29 13:00:00",
+  "Locatario": "CLUB FUERZA AEREA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "TROUVILLE UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "50053",
+   "Nombre": "DAMIAN BARBITTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32378",
+   "Nombre": "SEBASTIAN CLEMENTE",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "30093",
+   "Nombre": "FERNANDO GABRIEL DE MEDINA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67252",
+   "Nombre": "ROBERT MARCELO MEHARU",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63084",
+   "Nombre": "KEVIN NICOLAS LAVALLEJA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "24285",
+   "Nombre": "ALBERTO DE MEDINA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "46851",
+   "Nombre": "GASTON RAFAEL MOIRANO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57856",
+   "Nombre": "MAXIMO TOLEDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63083",
+   "Nombre": "DIEGO NICOLAS GRACES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67305",
+   "Nombre": "MATHIAS NICOLAS DE LA FUENTE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "60718",
+   "Nombre": "ALEXANDER ENRIQUE LOPEZ",
+   "camiseta": "69",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "50871",
+   "Nombre": "FEDERICO BRUGNOLI",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50597",
+   "Nombre": "VALENTIN GONCALVEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "48893",
+   "Nombre": "EMILIANO TELLECHEA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "55569",
+   "Nombre": "TOMAS NEGREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "54111",
+   "Nombre": "FACUNDO ALVAREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54908",
+   "Nombre": "JOAQUIN BROMBAUER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58541",
+   "Nombre": "RODRIGO SEBABSTIAN CABRERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50343",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51124",
+   "Nombre": "FRANCISCO RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54902",
+   "Nombre": "SEBASTIAN LUCIARDI",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60718",
+   "Jug_Sale": "ALEXANDER ENRIQUE LOPEZ",
+   "CarneEntra": "30083",
+   "Jug_Entra": "MATHIAS AYRTON FUIDIO",
+   "camiseta": "94",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67252",
+   "Jug_Sale": "ROBERT MARCELO MEHARU",
+   "CarneEntra": "32198",
+   "Jug_Entra": "DIEGO MARTIN ACOSTA",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63083",
+   "Jug_Sale": "DIEGO NICOLAS GRACES",
+   "CarneEntra": "47438",
+   "Jug_Entra": "BERNARDO NICOLAS IRIONDO",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32378",
+   "Jug_Sale": "SEBASTIAN CLEMENTE",
+   "CarneEntra": "67892",
+   "Jug_Entra": "VALENTIN DECIMA",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "46851",
+   "Jug_Sale": "GASTON RAFAEL MOIRANO",
+   "CarneEntra": "63083",
+   "Jug_Entra": "DIEGO NICOLAS GRACES",
+   "camiseta": "21",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "30093",
+   "Jug_Sale": "FERNANDO GABRIEL DE MEDINA",
+   "CarneEntra": "47191",
+   "Jug_Entra": "CARLOS FACUNDO CABRERA",
+   "camiseta": "5",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "63084",
+   "Jug_Sale": "KEVIN NICOLAS LAVALLEJA",
+   "CarneEntra": "30093",
+   "Jug_Entra": "FERNANDO GABRIEL DE MEDINA",
+   "camiseta": "8",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48893",
+   "Jug_Sale": "EMILIANO TELLECHEA",
+   "CarneEntra": "54905",
+   "Jug_Entra": "SANTIAGO LIMA",
+   "camiseta": "14",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "55569",
+   "Jug_Sale": "TOMAS NEGREIRA",
+   "CarneEntra": "55200",
+   "Jug_Entra": "MAURO MATEO HERNANDEZ",
+   "camiseta": "17",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "54908",
+   "Jug_Sale": "JOAQUIN BROMBAUER",
+   "CarneEntra": "55179",
+   "Jug_Entra": "SANTIAGO COUTO",
+   "camiseta": "16",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "54902",
+   "Jug_Sale": "SEBASTIAN LUCIARDI",
+   "CarneEntra": "55296",
+   "Jug_Entra": "MATEO VAZQUEZ",
+   "camiseta": "69",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "58541",
+   "Jug_Sale": "RODRIGO SEBABSTIAN CABRERA",
+   "CarneEntra": "50596",
+   "Jug_Entra": "SANTIAGO VINAGRE",
+   "camiseta": "8",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "51124",
+   "Jug_Sale": "FRANCISCO RODRIGUEZ",
+   "CarneEntra": "57068",
+   "Jug_Entra": "JUAN IGNACIO RODRIGUEZ",
+   "camiseta": "6",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "54111",
+   "Jug_Sale": "FACUNDO ALVAREZ",
+   "CarneEntra": "59514",
+   "Jug_Entra": "FELIPE CALVO",
+   "camiseta": "19",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "minutos": "44",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54902",
+   "Nombre": "SEBASTIAN LUCIARDI",
+   "minutos": "55",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

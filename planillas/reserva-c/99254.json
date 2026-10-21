@@ -1,0 +1,256 @@
+{
+ "id": "99254",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "SEMINARIO UNIVERSITARIO",
+ "visitante": "COLEGIO Y LICEO INGLES",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "285",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-05-23 13:07:00",
+  "Fecha_fin": "2026-05-23 13:07:00",
+  "Locatario": "SEMINARIO UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO Y LICEO INGLES",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52841",
+   "Nombre": "ALFONSO LEMA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "50800",
+   "Nombre": "FELIPE MIGUEL GIRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "51012",
+   "Nombre": "JUAN JOSE GENTILE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "50784",
+   "Nombre": "FRANCO PASCALE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "50779",
+   "Nombre": "JUAN IGNACIO FERREIRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53404",
+   "Nombre": "FRANCO BONAVOGLIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53657",
+   "Nombre": "MATEO PERTUSSO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62273",
+   "Nombre": "SANTIAGO CABRERA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "51014",
+   "Nombre": "FANCISCO QUIJANO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52843",
+   "Nombre": "JUAN ANDRES RAMIREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "50807",
+   "Nombre": "JOSE DOMINGO MARTINELLI",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45975",
+   "Nombre": "SANTIAGO WEVERMAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59406",
+   "Nombre": "FEDERICO CANDAU",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "45310",
+   "Nombre": "TOMAS ANTONIO MILAT",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "39479",
+   "Nombre": "GASTON MUIÑO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "45633",
+   "Nombre": "PABLO AGUIAR",
+   "camiseta": "55",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48882",
+   "Nombre": "JUAN IGNACIO APOLO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "39406",
+   "Nombre": "AGUSTIN FELIPEZ",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "47463",
+   "Nombre": "AGUSTIN ONETTO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "36986",
+   "Nombre": "JUAN CRUZ ESTEVEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59393",
+   "Nombre": "SEBASTIAN MACHADO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39287",
+   "Nombre": "NICOLAS MONTERO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50800",
+   "Jug_Sale": "FELIPE MIGUEL GIRO",
+   "CarneEntra": "56835",
+   "Jug_Entra": "JUAN IGNACIO URRETAVIZCAYA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62273",
+   "Jug_Sale": "SANTIAGO CABRERA",
+   "CarneEntra": "62623",
+   "Jug_Entra": "AGUSTIN CORTABARRIA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51014",
+   "Jug_Sale": "FANCISCO QUIJANO",
+   "CarneEntra": "52756",
+   "Jug_Entra": "RODRIGO SIENRA",
+   "camiseta": "11",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39287",
+   "Jug_Sale": "NICOLAS MONTERO",
+   "CarneEntra": "58063",
+   "Jug_Entra": "ALFONSO YAÑEZ",
+   "camiseta": "33",
+   "minutos": "19"
+  },
+  {
+   "CarneSale": "48882",
+   "Jug_Sale": "JUAN IGNACIO APOLO",
+   "CarneEntra": "59416",
+   "Jug_Entra": "PEDRO BAUTISTA RODRIGUEZ",
+   "camiseta": "16",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "39406",
+   "Jug_Sale": "AGUSTIN FELIPEZ",
+   "CarneEntra": "52049",
+   "Jug_Entra": "AGUSTIN LAMAS",
+   "camiseta": "3",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "36986",
+   "Jug_Sale": "JUAN CRUZ ESTEVEZ",
+   "CarneEntra": "59587",
+   "Jug_Entra": "TIAGO PRONZATTI",
+   "camiseta": "11",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51012",
+   "Nombre": "JUAN JOSE GENTILE",
+   "minutos": "97",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45633",
+   "Nombre": "PABLO AGUIAR",
+   "minutos": "83",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN IGNACIO FERREIRA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "NICOLAS MONTERO",
+   "observaciones": ""
+  }
+ ]
+}

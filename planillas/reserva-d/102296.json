@@ -1,0 +1,292 @@
+{
+ "id": "102296",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 5,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "NUESTRA SEÑORA DE LOURDES",
+ "visitante": "CLUB FUERZA AEREA",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "580",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-09-26 13:25:00",
+  "Fecha_fin": "2026-09-26 13:25:00",
+  "Locatario": "NUESTRA SEÑORA DE LOURDES",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB FUERZA AEREA",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68719",
+   "Nombre": "IGNACIO AGUSTIN VALENTE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33320",
+   "Nombre": "MARTIN PAZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "69095",
+   "Nombre": "LUCAS EZEQUIEL ARAMBILLETE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65209",
+   "Nombre": "CRISTIAN  DANIEL GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "68663",
+   "Nombre": "ARIEL ACOSTA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54946",
+   "Nombre": "FRANCO VICENTE CIFUENTES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66809",
+   "Nombre": "DAVID JOMAR ROSALES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61998",
+   "Nombre": "GUZMAN COUSELO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "31444",
+   "Nombre": "PABLO ALBERTO MIRENDA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67455",
+   "Nombre": "ADRIAN DAVID ACOSTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "30973",
+   "Nombre": "MAXIMILIANO PEREYRA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46851",
+   "Nombre": "GASTON RAFAEL MOIRANO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65781",
+   "Nombre": "AXEL NAHUEL PIMENTEL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "24285",
+   "Nombre": "ALBERTO DE MEDINA",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46892",
+   "Nombre": "JUAN PABLO DE MEDINA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63084",
+   "Nombre": "KEVIN NICOLAS LAVALLEJA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63083",
+   "Nombre": "DIEGO NICOLAS GRACES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "47191",
+   "Nombre": "CARLOS FACUNDO CABRERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67300",
+   "Nombre": "BENJAMIN PEREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63480",
+   "Nombre": "SERGI YONATAN FERNANDEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "57856",
+   "Nombre": "MAXIMO TOLEDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "46852",
+   "Nombre": "ALEXIS AMOROSO",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65209",
+   "Jug_Sale": "CRISTIAN  DANIEL GARCIA",
+   "CarneEntra": "66025",
+   "Jug_Entra": "MANUEL ARTURO MACERO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61998",
+   "Jug_Sale": "GUZMAN COUSELO",
+   "CarneEntra": "69145",
+   "Jug_Entra": "LUCAS NAHUEL MENDEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66809",
+   "Jug_Sale": "DAVID JOMAR ROSALES",
+   "CarneEntra": "64817",
+   "Jug_Entra": "SANTIAGO DIAS",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33320",
+   "Jug_Sale": "MARTIN PAZ",
+   "CarneEntra": "60531",
+   "Jug_Entra": "FERNANDO SEBASTIAN ALVAREZ",
+   "camiseta": "9",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "54946",
+   "Jug_Sale": "FRANCO VICENTE CIFUENTES",
+   "CarneEntra": "66809",
+   "Jug_Entra": "DAVID JOMAR ROSALES",
+   "camiseta": "5",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "31444",
+   "Jug_Sale": "PABLO ALBERTO MIRENDA",
+   "CarneEntra": "30182",
+   "Jug_Entra": "TELMO CANABARRO",
+   "camiseta": "13",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46852",
+   "Jug_Sale": "ALEXIS AMOROSO",
+   "CarneEntra": "30083",
+   "Jug_Entra": "MATHIAS AYRTON FUIDIO",
+   "camiseta": "94",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46892",
+   "Jug_Sale": "JUAN PABLO DE MEDINA",
+   "CarneEntra": "27939",
+   "Jug_Entra": "RODRIGO NICOLAS RUIZ",
+   "camiseta": "13",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67300",
+   "Jug_Sale": "BENJAMIN PEREIRA",
+   "CarneEntra": "67892",
+   "Jug_Entra": "VALENTIN DECIMA",
+   "camiseta": "10",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "47191",
+   "Jug_Sale": "CARLOS FACUNDO CABRERA",
+   "CarneEntra": "68313",
+   "Jug_Entra": "MAURICIO JAVIER VIERA",
+   "camiseta": "24",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "63480",
+   "Jug_Sale": "SERGI YONATAN FERNANDEZ",
+   "CarneEntra": "46892",
+   "Jug_Entra": "JUAN PABLO DE MEDINA",
+   "camiseta": "14",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "46852",
+   "Jug_Sale": "ALEXIS AMOROSO",
+   "CarneEntra": "47191",
+   "Jug_Entra": "CARLOS FACUNDO CABRERA",
+   "camiseta": "5",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "46892",
+   "Jug_Sale": "JUAN PABLO DE MEDINA",
+   "CarneEntra": "67300",
+   "Jug_Entra": "BENJAMIN PEREIRA",
+   "camiseta": "10",
+   "minutos": "94"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "30083",
+   "Nombre": "MATHIAS AYRTON FUIDIO",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "DIEGO NICOLAS GRACES",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,289 @@
+{
+ "id": "100989",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SANTA ELENA LAGOMAR",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "236",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-08-15 13:05:00",
+  "Fecha_fin": "2026-08-15 13:05:00",
+  "Locatario": "SANTA ELENA LAGOMAR",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55249",
+   "Nombre": "MATEO ENRICH",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46160",
+   "Nombre": "MATIAS GABRIEL BERNADA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47523",
+   "Nombre": "IVAN NICOLAS PASTORINO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47329",
+   "Nombre": "OCTAVIO SUM",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "47333",
+   "Nombre": "JOAQUIN GAI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49388",
+   "Nombre": "FRANCO GONZALEZ",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "53101",
+   "Nombre": "ROBERTO FRANCISCO PORTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "50198",
+   "Nombre": "MATHIAS RAMILO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49216",
+   "Nombre": "RAFAEL PEREZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "45379",
+   "Nombre": "LUIS MATIAS BELDERRAIN",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49243",
+   "Nombre": "IGNACIO JAVIER GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44846",
+   "Nombre": "ANTONIO JOSE IRAZOQUI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47104",
+   "Nombre": "MATIAS FLORENCIO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47675",
+   "Nombre": "MAURICIO DIEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64611",
+   "Nombre": "FEDERICO PITA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "46518",
+   "Nombre": "MAURO GERMAN GRECCO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "43124",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56033",
+   "Nombre": "ALEXIS DAVID FLORES",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53101",
+   "Jug_Sale": "ROBERTO FRANCISCO PORTA",
+   "CarneEntra": "49231",
+   "Jug_Entra": "AGUSTIN MATEO",
+   "camiseta": "74",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "45379",
+   "Jug_Sale": "LUIS MATIAS BELDERRAIN",
+   "CarneEntra": "47586",
+   "Jug_Entra": "JUAN BAUTISTA NOVO",
+   "camiseta": "8",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "49216",
+   "Jug_Sale": "RAFAEL PEREZ",
+   "CarneEntra": "49579",
+   "Jug_Entra": "GUILLERMO VOLA",
+   "camiseta": "92",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "49243",
+   "Jug_Sale": "IGNACIO JAVIER GONZALEZ",
+   "CarneEntra": "65031",
+   "Jug_Entra": "EDUARDO MANUEL SANTOS",
+   "camiseta": "82",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "50198",
+   "Jug_Sale": "MATHIAS RAMILO",
+   "CarneEntra": "67702",
+   "Jug_Entra": "IGNACIO MORATORIO",
+   "camiseta": "84",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54868",
+   "Jug_Sale": "MAXIMILIANO ROMAY",
+   "CarneEntra": "68257",
+   "Jug_Entra": "KEVIN NICOLAS CEJAS",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56033",
+   "Jug_Sale": "ALEXIS DAVID FLORES",
+   "CarneEntra": "53690",
+   "Jug_Entra": "MARCOS DANIEL AREVALO",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46518",
+   "Jug_Sale": "MAURO GERMAN GRECCO",
+   "CarneEntra": "68952",
+   "Jug_Entra": "MAXIMILIANO EZEQUIEL PIRIZ",
+   "camiseta": "89",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "43124",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "52176",
+   "Jug_Entra": "JUAN MANUEL GONZALEZ",
+   "camiseta": "21",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "64611",
+   "Jug_Sale": "FEDERICO PITA",
+   "CarneEntra": "47101",
+   "Jug_Entra": "IGNACIO DANIELO PERDOMO",
+   "camiseta": "55",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "54617",
+   "Jug_Sale": "TOMAS DIAZ",
+   "CarneEntra": "50494",
+   "Jug_Entra": "ALEJO EZEQUIEL MOSQUERA",
+   "camiseta": "47",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49243",
+   "Nombre": "IGNACIO JAVIER GONZALEZ",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50198",
+   "Nombre": "MATHIAS RAMILO",
+   "minutos": "74",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "68952",
+   "Nombre": "MAXIMILIANO EZEQUIEL PIRIZ",
+   "minutos": "76",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "observaciones": ""
+  }
+ ]
+}

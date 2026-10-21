@@ -1,0 +1,280 @@
+{
+ "id": "102400",
+ "categoria": "sub20-b",
+ "serie": "20BTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 13:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "COLEGIO SANTA ELENA",
+ "visitante": "ISASA UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "420",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"B\" TITULO",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-26 00:00:00",
+  "Fecha_fin": "2026-09-26 00:00:00",
+  "Locatario": "COLEGIO SANTA ELENA",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "ISASA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62694",
+   "Nombre": "NOAH ELIAS LEFKARITIS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63760",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62530",
+   "Nombre": "ELIAN SHARIM TEJERIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64476",
+   "Nombre": "BRUNO ALFARO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56319",
+   "Nombre": "CRISTIAN LOPEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "56434",
+   "Nombre": "FACUNDO ALONZO",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64978",
+   "Nombre": "FELIPE DOS SANTOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64981",
+   "Nombre": "FACUNDO MORENA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65966",
+   "Nombre": "FELIPE LEGUISAMO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "56315",
+   "Nombre": "RODRIGO BEISSO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62457",
+   "Nombre": "JUAN MANUEL NOCERINO",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53537",
+   "Nombre": "MATEO VAZQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66447",
+   "Nombre": "FRANCO SEBASTIAN TECHERA",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "56489",
+   "Nombre": "JOAQUIN MUNIZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61977",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66420",
+   "Nombre": "VALENTIN GASPAR QUARNETI",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "58729",
+   "Nombre": "MATIAS CAMACHO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57805",
+   "Nombre": "MATEO UBERTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68916",
+   "Nombre": "THIAGO MOMBRU",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "58731",
+   "Nombre": "JULIAN ALEJANDRO NUÑEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68536",
+   "Nombre": "RENATO VALENTINO COLLAZO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56434",
+   "Jug_Sale": "FACUNDO ALONZO",
+   "CarneEntra": "68956",
+   "Jug_Entra": "LUCAS ROMAN",
+   "camiseta": "15",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "56315",
+   "Jug_Sale": "RODRIGO BEISSO",
+   "CarneEntra": "67056",
+   "Jug_Entra": "MATIAS BARSAMIAN",
+   "camiseta": "28",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "64978",
+   "Jug_Sale": "FELIPE DOS SANTOS",
+   "CarneEntra": "65963",
+   "Jug_Entra": "JUAN LEON",
+   "camiseta": "27",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "63760",
+   "Jug_Sale": "JUAN MANUEL RODRIGUEZ",
+   "CarneEntra": "69178",
+   "Jug_Entra": "SEBASTIAN BALDOUIN",
+   "camiseta": "18",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "62457",
+   "Jug_Sale": "JUAN MANUEL NOCERINO",
+   "CarneEntra": "64156",
+   "Jug_Entra": "GUILLERMO ZAMPROGNO",
+   "camiseta": "28",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66447",
+   "Jug_Sale": "FRANCO SEBASTIAN TECHERA",
+   "CarneEntra": "58730",
+   "Jug_Entra": "JULIAN MARTIN MARMOL",
+   "camiseta": "51",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58731",
+   "Jug_Sale": "JULIAN ALEJANDRO NUÑEZ",
+   "CarneEntra": "56838",
+   "Jug_Entra": "LUCA ALESSANDRO COCINA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68536",
+   "Jug_Sale": "RENATO VALENTINO COLLAZO",
+   "CarneEntra": "59445",
+   "Jug_Entra": "BRUNO ORTEGA",
+   "camiseta": "3",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "58730",
+   "Jug_Sale": "JULIAN MARTIN MARMOL",
+   "CarneEntra": "68033",
+   "Jug_Entra": "FRANCO MARTINEZ",
+   "camiseta": "17",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "56489",
+   "Jug_Sale": "JOAQUIN MUNIZ",
+   "CarneEntra": "64205",
+   "Jug_Entra": "CAMILO GAGLIANO",
+   "camiseta": "5",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64476",
+   "Nombre": "BRUNO ALFARO",
+   "minutos": "35",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64978",
+   "Nombre": "FELIPE DOS SANTOS",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68956",
+   "Nombre": "LUCAS ROMAN",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "FACUNDO ALONZO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

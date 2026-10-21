@@ -1,0 +1,289 @@
+{
+ "id": "101129",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 11,
+ "fechaHora": "2026-08-22 13:30:00",
+ "cancha": "EMA (PANDO) 2",
+ "local": "CLUB SOC. y DEP. LA CHISPA",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 1,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "323",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "EMA (PANDO) 2",
+  "Fecha_Inicio": "2026-08-22 15:10:00",
+  "Fecha_fin": "2026-08-22 15:10:00",
+  "Locatario": "CLUB SOC. y DEP. LA CHISPA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57685",
+   "Nombre": "KAEL LUZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67531",
+   "Nombre": "BRIAN OLIVERA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67534",
+   "Nombre": "BYRON QUILIMAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68890",
+   "Nombre": "RICARDO TESORE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67524",
+   "Nombre": "LUCAS GALIANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68695",
+   "Nombre": "JEAN PIERRE MACHADO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67522",
+   "Nombre": "THIAGO VIERA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68828",
+   "Nombre": "THIAGO MARIN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "69033",
+   "Nombre": "AXEL GUSTAVO FRANCISCO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "69008",
+   "Nombre": "MATIAS IVAN FLEITAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68698",
+   "Nombre": "MATIAS MACHADO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63266",
+   "Nombre": "JUAN MANUEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56788",
+   "Nombre": "TOMAS ANGLADA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66003",
+   "Nombre": "MANUEL BECERRA",
+   "camiseta": "28",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62065",
+   "Nombre": "FEDERICO RUBIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64901",
+   "Nombre": "TOMAS BELTRAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64096",
+   "Nombre": "NICOLAS ANDRES ESTIBEN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60473",
+   "Nombre": "JUAN AGUSTIN LOPEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65864",
+   "Nombre": "JOAQUIN PATRON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62069",
+   "Nombre": "SANTIAGO SILVA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62063",
+   "Nombre": "RODRIGO RUBIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57870",
+   "Nombre": "SANTINO BARATE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "69008",
+   "Jug_Sale": "MATIAS IVAN FLEITAS",
+   "CarneEntra": "69005",
+   "Jug_Entra": "MATIAS GADEA",
+   "camiseta": "20",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "69005",
+   "Jug_Sale": "MATIAS GADEA",
+   "CarneEntra": "69033",
+   "Jug_Entra": "AXEL GUSTAVO FRANCISCO",
+   "camiseta": "14",
+   "minutos": "26"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64096",
+   "Jug_Sale": "NICOLAS ANDRES ESTIBEN",
+   "CarneEntra": "56791",
+   "Jug_Entra": "JOAQUIN BRAGLIA",
+   "camiseta": "14",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "62065",
+   "Jug_Sale": "FEDERICO RUBIO",
+   "CarneEntra": "64097",
+   "Jug_Entra": "JUAN IGNACIO ESTIBEN",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "57870",
+   "Jug_Sale": "SANTINO BARATE",
+   "CarneEntra": "64102",
+   "Jug_Entra": "FEDERICO ARIZTI",
+   "camiseta": "21",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "62063",
+   "Jug_Sale": "RODRIGO RUBIO",
+   "CarneEntra": "66149",
+   "Jug_Entra": "NICOLAS JESUS NUÑEZ",
+   "camiseta": "88",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64901",
+   "Jug_Sale": "TOMAS BELTRAN",
+   "CarneEntra": "62921",
+   "Jug_Entra": "JOAQUIN CAO",
+   "camiseta": "17",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "56788",
+   "Jug_Sale": "TOMAS ANGLADA",
+   "CarneEntra": "65549",
+   "Jug_Entra": "FRANCISCO GIRIBON",
+   "camiseta": "3",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67522",
+   "Nombre": "THIAGO VIERA",
+   "minutos": "71",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57870",
+   "Nombre": "SANTINO BARATE",
+   "minutos": "11",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57870",
+   "Nombre": "SANTINO BARATE",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57870",
+   "Nombre": "SANTINO BARATE",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57870",
+   "Nombre": "SANTINO BARATE",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65864",
+   "Nombre": "JOAQUIN PATRON",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65864",
+   "Nombre": "JOAQUIN PATRON",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "BRIAN OLIVERA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

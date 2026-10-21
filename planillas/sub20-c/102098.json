@@ -1,0 +1,276 @@
+{
+ "id": "102098",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 13:30:00",
+ "cancha": "COLEGIO PIO",
+ "local": "DANUBIO FUTBOL CLUB",
+ "visitante": "JUAN XXIII",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "351",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-09-19 15:20:00",
+  "Fecha_fin": "2026-09-19 15:20:00",
+  "Locatario": "DANUBIO FUTBOL CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62320",
+   "Nombre": "JOAQUIN GABRIEL MEDEROS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67454",
+   "Nombre": "JUAN ANDRES FERNANDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "69010",
+   "Nombre": "JUAN LAGREGA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64043",
+   "Nombre": "ALEX FERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57212",
+   "Nombre": "MATEO FERNANDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58023",
+   "Nombre": "MANUEL MENDEZ",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64282",
+   "Nombre": "FACUNDO BORCHE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60641",
+   "Nombre": "JOAQUIN ABELLA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68946",
+   "Nombre": "MATEO AGUSTIN CARVALLO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64473",
+   "Nombre": "GIANFRANCO MARCHIORO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68948",
+   "Nombre": "NICOLAS BERTIZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61876",
+   "Nombre": "JOAQUIN DE DIOS",
+   "camiseta": "52",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67239",
+   "Nombre": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "64501",
+   "Nombre": "DIEGO GONZALEZ",
+   "camiseta": "84",
+   "Capitan": ""
+  },
+  {
+   "carne": "59079",
+   "Nombre": "DIEGO MARTINO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64103",
+   "Nombre": "ENZO YACI",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "64099",
+   "Nombre": "JUAN MANUEL CORNEY",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "64101",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67241",
+   "Nombre": "FRANCO AGUSTIN POMBO",
+   "camiseta": "42",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67454",
+   "Jug_Sale": "JUAN ANDRES FERNANDEZ",
+   "CarneEntra": "68945",
+   "Jug_Entra": "JONATHAN NAHUEL ROMERO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58023",
+   "Jug_Sale": "MANUEL MENDEZ",
+   "CarneEntra": "64044",
+   "Jug_Entra": "LORENZO RAVA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68946",
+   "Jug_Sale": "MATEO AGUSTIN CARVALLO",
+   "CarneEntra": "67453",
+   "Jug_Entra": "ADRIAN STEVEN RAMIREZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68948",
+   "Jug_Sale": "NICOLAS BERTIZ",
+   "CarneEntra": "68894",
+   "Jug_Entra": "TOMAS RUA",
+   "camiseta": "14",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "57212",
+   "Jug_Sale": "MATEO FERNANDEZ",
+   "CarneEntra": "67360",
+   "Jug_Entra": "JOAQUIN GURIDI",
+   "camiseta": "21",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "64282",
+   "Jug_Sale": "FACUNDO BORCHE",
+   "CarneEntra": "69140",
+   "Jug_Entra": "ANGEL RAUL ZAMBRANO",
+   "camiseta": "17",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "60641",
+   "Jug_Sale": "JOAQUIN ABELLA",
+   "CarneEntra": "69115",
+   "Jug_Entra": "LUCAS ANDRES GIGENA",
+   "camiseta": "12",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64501",
+   "Jug_Sale": "DIEGO GONZALEZ",
+   "CarneEntra": "61720",
+   "Jug_Entra": "AARON NIHAGI PICOLI",
+   "camiseta": "92",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "67241",
+   "Jug_Sale": "FRANCO AGUSTIN POMBO",
+   "CarneEntra": "61796",
+   "Jug_Entra": "JUAN IGNACIO PIÑERA",
+   "camiseta": "5",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "58783",
+   "Jug_Sale": "LAUTARO GABRIEL SALLES",
+   "CarneEntra": "67241",
+   "Jug_Entra": "FRANCO AGUSTIN POMBO",
+   "camiseta": "42",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64473",
+   "Nombre": "GIANFRANCO MARCHIORO",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64473",
+   "Nombre": "GIANFRANCO MARCHIORO",
+   "minutos": "23",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "minutos": "19",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

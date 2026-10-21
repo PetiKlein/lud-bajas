@@ -1,0 +1,278 @@
+{
+ "id": "102148",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 14,
+ "fechaHora": "2026-09-20 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "PAMPERO",
+ "visitante": "COLEGIO SAN ISIDRO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "830",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-09-20 10:50:00",
+  "Fecha_fin": "2026-09-20 10:50:00",
+  "Locatario": "PAMPERO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO SAN ISIDRO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "69016",
+   "Nombre": "LEONEL ENRIQUE REYES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "49553",
+   "Nombre": "AGUSTIN PERAZA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "44991",
+   "Nombre": "RICARDO SEBASTIAN MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45242",
+   "Nombre": "LUCAS ALEJO FERNANDEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46979",
+   "Nombre": "JOAQUIN DANIEL PISA",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46973",
+   "Nombre": "FEDERICO DAMIAN LARROSA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56652",
+   "Nombre": "AGUSTIN JAVIER ARTEAGA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51064",
+   "Nombre": "LAUTARO DANIEL VILCHES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "45520",
+   "Nombre": "JOSE AGUSTIN MONZA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "50772",
+   "Nombre": "PATRICIO GINZO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63650",
+   "Nombre": "FRANCO JOSUE FILGUEIRA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58981",
+   "Nombre": "AGUSTIN NICOLAS HEREDIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68747",
+   "Nombre": "JOAQUIN DOS SANTOS REGE",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "67512",
+   "Nombre": "AGUSTIN POMBO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68745",
+   "Nombre": "FRANCISCO DOS SANTOS",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "66517",
+   "Nombre": "AGUSTIN SILVA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53862",
+   "Nombre": "MANUEL ALEJANDRO MAYO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59219",
+   "Nombre": "JUAN ANDRES COLOMBO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56513",
+   "Nombre": "TADEO BENJAMIN MENDIONDO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56516",
+   "Nombre": "FELIPE VERO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59217",
+   "Nombre": "FEDERICO PIERO GELMINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "48540",
+   "Nombre": "CARLOS ANDRES SEGREDO",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63650",
+   "Jug_Sale": "FRANCO JOSUE FILGUEIRA",
+   "CarneEntra": "56659",
+   "Jug_Entra": "GIOVANNI VALENTIN MARTINEZ",
+   "camiseta": "27",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "51064",
+   "Jug_Sale": "LAUTARO DANIEL VILCHES",
+   "CarneEntra": "69044",
+   "Jug_Entra": "DEMERIO NAWEL MARTINEZ",
+   "camiseta": "28",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "56659",
+   "Jug_Sale": "GIOVANNI VALENTIN MARTINEZ",
+   "CarneEntra": "63650",
+   "Jug_Entra": "FRANCO JOSUE FILGUEIRA",
+   "camiseta": "14",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "46979",
+   "Jug_Sale": "JOAQUIN DANIEL PISA",
+   "CarneEntra": "51064",
+   "Jug_Entra": "LAUTARO DANIEL VILCHES",
+   "camiseta": "8",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "49553",
+   "Jug_Sale": "AGUSTIN PERAZA",
+   "CarneEntra": "46979",
+   "Jug_Entra": "JOAQUIN DANIEL PISA",
+   "camiseta": "13",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56513",
+   "Jug_Sale": "TADEO BENJAMIN MENDIONDO",
+   "CarneEntra": "54828",
+   "Jug_Entra": "FEDERICO TOMAS BARRIOS",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56513",
+   "Jug_Sale": "TADEO BENJAMIN MENDIONDO",
+   "CarneEntra": "57472",
+   "Jug_Entra": "AGUSTIN PISANO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59219",
+   "Jug_Sale": "JUAN ANDRES COLOMBO",
+   "CarneEntra": "59215",
+   "Jug_Entra": "SANTIAGO GABRIEL SOSA",
+   "camiseta": "21",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "68745",
+   "Jug_Sale": "FRANCISCO DOS SANTOS",
+   "CarneEntra": "56512",
+   "Jug_Entra": "MATIAS VILA",
+   "camiseta": "16",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "53862",
+   "Jug_Sale": "MANUEL ALEJANDRO MAYO",
+   "CarneEntra": "56511",
+   "Jug_Entra": "MAURO PISANO",
+   "camiseta": "5",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "66517",
+   "Jug_Sale": "AGUSTIN SILVA",
+   "CarneEntra": "61123",
+   "Jug_Entra": "GONZALO NAHUEL MELO",
+   "camiseta": "18",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50772",
+   "Nombre": "PATRICIO GINZO",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "48540",
+   "Nombre": "CARLOS ANDRES SEGREDO",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

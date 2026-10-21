@@ -1,0 +1,232 @@
+{
+ "id": "102299",
+ "categoria": "sub20-b",
+ "serie": "20BTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 15:30:00",
+ "cancha": "OLD IVY",
+ "local": "OLD IVY",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "418",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"B\" TITULO",
+  "Cancha": "OLD IVY",
+  "Fecha_Inicio": "2026-09-26 17:25:00",
+  "Fecha_fin": "2026-09-26 17:25:00",
+  "Locatario": "OLD IVY",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59618",
+   "Nombre": "NICOLAS CROSA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66623",
+   "Nombre": "IGNACIO CUMELLAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "57951",
+   "Nombre": "JUAN GUILLERMO MARTINEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57161",
+   "Nombre": "JUAN FRANCISCO SONEIRA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67380",
+   "Nombre": "JUAN PEDRO MENINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "59614",
+   "Nombre": "TOMAS HORJALES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64391",
+   "Nombre": "JUAN BAUTISTA IRIARTE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67457",
+   "Nombre": "GIOVANNI RAIMONDI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59609",
+   "Nombre": "FRANCISCO RUBIO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "67379",
+   "Nombre": "JUAN PEDRO LUQUE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55486",
+   "Nombre": "ISMAEL CASTRO",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58657",
+   "Nombre": "SANTIAGO CID DE LA PAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58652",
+   "Nombre": "AGUSTIN OXACELHAY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58602",
+   "Nombre": "IGNACIO COSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57598",
+   "Nombre": "LUCAS KEUSHKERIAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54804",
+   "Nombre": "JUAN PEDRO FERNANDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "58604",
+   "Nombre": "JUAN MARTIN VERZERI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58502",
+   "Nombre": "TIZIANO VILA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57631",
+   "Nombre": "JUAN IGNACIO DIAZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "58801",
+   "Nombre": "SALVADOR GARCIA LAGOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56199",
+   "Nombre": "MATIAS ANDRES MORAES",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55501",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67457",
+   "Jug_Sale": "GIOVANNI RAIMONDI",
+   "CarneEntra": "61114",
+   "Jug_Entra": "ALFONSO TOPOLANSKY",
+   "camiseta": "77",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "64391",
+   "Jug_Sale": "JUAN BAUTISTA IRIARTE",
+   "CarneEntra": "59618",
+   "Jug_Entra": "NICOLAS CROSA",
+   "camiseta": "5",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "67457",
+   "Jug_Sale": "GIOVANNI RAIMONDI",
+   "CarneEntra": "67615",
+   "Jug_Entra": "SANTIAGO SUAREZ",
+   "camiseta": "22",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57598",
+   "Jug_Sale": "LUCAS KEUSHKERIAN",
+   "CarneEntra": "58798",
+   "Jug_Entra": "MATEO FRAGA",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "58801",
+   "Jug_Sale": "SALVADOR GARCIA LAGOS",
+   "CarneEntra": "61256",
+   "Jug_Entra": "FRANCO CHELINI",
+   "camiseta": "14",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "58604",
+   "Jug_Sale": "JUAN MARTIN VERZERI",
+   "CarneEntra": "58601",
+   "Jug_Entra": "LUCAS LENZI",
+   "camiseta": "6",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "57631",
+   "Jug_Sale": "JUAN IGNACIO DIAZ",
+   "CarneEntra": "58609",
+   "Jug_Entra": "PATRICIO GIOVANNI GAROFOLO",
+   "camiseta": "19",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

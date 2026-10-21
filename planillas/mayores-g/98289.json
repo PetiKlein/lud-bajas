@@ -1,0 +1,304 @@
+{
+ "id": "98289",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 2,
+ "fechaHora": "2026-04-19 09:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MARISCAL NASAZZI",
+ "visitante": "PAMPERO",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "733",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-04-19 11:15:00",
+  "Fecha_fin": "2026-04-19 11:15:00",
+  "Locatario": "MARISCAL NASAZZI",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "PAMPERO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67573",
+   "Nombre": "MATEO PORTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51582",
+   "Nombre": "ANDRES LAUTARO CARDARELLO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41813",
+   "Nombre": "AGUSTIN MIRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50536",
+   "Nombre": "JUAN BAUTISTA LORENZO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "40620",
+   "Nombre": "JOAQUIN MANUEL GARCIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50538",
+   "Nombre": "MARTIN NICOLAS SAVIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "42298",
+   "Nombre": "ANDRES FABIAN CARRASCO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "40623",
+   "Nombre": "FRANCISCO PEREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52674",
+   "Nombre": "JOAQUIN BELLO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "47403",
+   "Nombre": "PATRICIO MARTINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "43688",
+   "Nombre": "LUIS ALVAREZ",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51064",
+   "Nombre": "LAUTARO DANIEL VILCHES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49553",
+   "Nombre": "AGUSTIN PERAZA",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "46979",
+   "Nombre": "JOAQUIN DANIEL PISA",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64595",
+   "Nombre": "FACUNDO EZEQUIEL SANJURJO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "44991",
+   "Nombre": "RICARDO SEBASTIAN MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57018",
+   "Nombre": "MARTIN EZEQUIEL RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "45520",
+   "Nombre": "JOSE AGUSTIN MONZA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57402",
+   "Nombre": "DIEGO EDUARDO PISA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64407",
+   "Nombre": "AGUSTIN RAUL RODRIGUEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "50772",
+   "Nombre": "PATRICIO GINZO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62076",
+   "Nombre": "SEBASTIAN ROJAS",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52674",
+   "Jug_Sale": "JOAQUIN BELLO",
+   "CarneEntra": "52185",
+   "Jug_Entra": "SANTIAGO BARQUIN",
+   "camiseta": "11",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "50538",
+   "Jug_Sale": "MARTIN NICOLAS SAVIO",
+   "CarneEntra": "53892",
+   "Jug_Entra": "LEANDRO GARCIA",
+   "camiseta": "2",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "51582",
+   "Jug_Sale": "ANDRES LAUTARO CARDARELLO",
+   "CarneEntra": "52928",
+   "Jug_Entra": "LEANDRO ITURRALDE",
+   "camiseta": "13",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "40620",
+   "Jug_Sale": "JOAQUIN MANUEL GARCIA",
+   "CarneEntra": "42438",
+   "Jug_Entra": "JUAN PABLO PIQUEREZ",
+   "camiseta": "9",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "42298",
+   "Jug_Sale": "ANDRES FABIAN CARRASCO",
+   "CarneEntra": "43553",
+   "Jug_Entra": "NICOLAS JOSE PAZ",
+   "camiseta": "12",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46979",
+   "Jug_Sale": "JOAQUIN DANIEL PISA",
+   "CarneEntra": "53581",
+   "Jug_Entra": "RENZO DI LEONE",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57402",
+   "Jug_Sale": "DIEGO EDUARDO PISA",
+   "CarneEntra": "67251",
+   "Jug_Entra": "BENJAMIN SORIA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49553",
+   "Jug_Sale": "AGUSTIN PERAZA",
+   "CarneEntra": "57962",
+   "Jug_Entra": "RAMIRO SORIA",
+   "camiseta": "18",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "45520",
+   "Jug_Sale": "JOSE AGUSTIN MONZA",
+   "CarneEntra": "56652",
+   "Jug_Entra": "AGUSTIN JAVIER ARTEAGA",
+   "camiseta": "15",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "64595",
+   "Jug_Sale": "FACUNDO EZEQUIEL SANJURJO",
+   "CarneEntra": "49107",
+   "Jug_Entra": "NICOLAS MARTINEZ",
+   "camiseta": "11",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "62076",
+   "Jug_Sale": "SEBASTIAN ROJAS",
+   "CarneEntra": "45242",
+   "Jug_Entra": "LUCAS ALEJO FERNANDEZ",
+   "camiseta": "21",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "50772",
+   "Jug_Sale": "PATRICIO GINZO",
+   "CarneEntra": "57402",
+   "Jug_Entra": "DIEGO EDUARDO PISA",
+   "camiseta": "16",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "42298",
+   "Nombre": "ANDRES FABIAN CARRASCO",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47403",
+   "Nombre": "PATRICIO MARTINO",
+   "minutos": "49",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50538",
+   "Nombre": "MARTIN NICOLAS SAVIO",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50538",
+   "Nombre": "MARTIN NICOLAS SAVIO",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57402",
+   "Nombre": "DIEGO EDUARDO PISA",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

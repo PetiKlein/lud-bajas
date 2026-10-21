@@ -1,0 +1,246 @@
+{
+ "id": "100646",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "WOLFRAMIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "328",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-28 10:55:00",
+  "Fecha_fin": "2026-06-28 10:55:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "WOLFRAMIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44518",
+   "Nombre": "MATIAS DA ROSA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "54807",
+   "Nombre": "BRUNO ZARZAY",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "41108",
+   "Nombre": "NICOLAS ALONSO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54633",
+   "Nombre": "MATEO GARCIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56633",
+   "Nombre": "GONZALO PINTADO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "41765",
+   "Nombre": "NICOLAS LABAT",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "48968",
+   "Nombre": "LUCAS ALONSO",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "54634",
+   "Nombre": "SANTIAGO PORLEY",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63603",
+   "Nombre": "JOAQUIN VIDEGAIN",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "60781",
+   "Nombre": "JUAN JOSE NOGUEIRA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "54695",
+   "Nombre": "MARTIN ALONSO",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54125",
+   "Nombre": "MATIAS FEDERICO AREVALO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "42746",
+   "Nombre": "SANTIAGO SORRIBAS",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64859",
+   "Nombre": "GONZALO FERREIRA",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "43818",
+   "Nombre": "JOSE NICOLAS BESSON",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46882",
+   "Nombre": "AGUSTIN BURIAN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "62391",
+   "Nombre": "JOAQUIN TECHERA SAMPAYO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67261",
+   "Nombre": "MARTIN PAZ",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "58707",
+   "Nombre": "GUZMAN MAZZEI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63364",
+   "Nombre": "MATEO MADRUGA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "46445",
+   "Nombre": "GERMAN ODONNELL MORALES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54707",
+   "Nombre": "JUAN MARTIN VANOLI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56633",
+   "Jug_Sale": "GONZALO PINTADO",
+   "CarneEntra": "59289",
+   "Jug_Entra": "VALENTIN HARETCHE",
+   "camiseta": "15",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "60781",
+   "Jug_Sale": "JUAN JOSE NOGUEIRA",
+   "CarneEntra": "52597",
+   "Jug_Entra": "JOAQUIN ZABALETA",
+   "camiseta": "80",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "54633",
+   "Jug_Sale": "MATEO GARCIA",
+   "CarneEntra": "53762",
+   "Jug_Entra": "MAXIMO VERA",
+   "camiseta": "21",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42746",
+   "Jug_Sale": "SANTIAGO SORRIBAS",
+   "CarneEntra": "66379",
+   "Jug_Entra": "MARTIN FALCON",
+   "camiseta": "69",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "58707",
+   "Jug_Sale": "GUZMAN MAZZEI",
+   "CarneEntra": "52078",
+   "Jug_Entra": "JUAN IGNACIO MENDEZ",
+   "camiseta": "99",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "63364",
+   "Jug_Sale": "MATEO MADRUGA",
+   "CarneEntra": "67004",
+   "Jug_Entra": "GUZMAN VIEYTO",
+   "camiseta": "28",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "54707",
+   "Jug_Sale": "JUAN MARTIN VANOLI",
+   "CarneEntra": "67001",
+   "Jug_Entra": "GERVASIO MUÑOZ",
+   "camiseta": "29",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56633",
+   "Nombre": "GONZALO PINTADO",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66379",
+   "Nombre": "MARTIN FALCON",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

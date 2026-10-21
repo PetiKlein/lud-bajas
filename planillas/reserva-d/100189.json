@@ -1,0 +1,265 @@
+{
+ "id": "100189",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR SUB22",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "475",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-06-13 13:00:00",
+  "Fecha_fin": "2026-06-13 13:00:00",
+  "Locatario": "TENIS EL PINAR SUB22",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56171",
+   "Nombre": "MARIANO DANIEL OTTONELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52444",
+   "Nombre": "SEBASTIAN CARBAJAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52625",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52629",
+   "Nombre": "SEBASTIAN PIRRI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "52634",
+   "Nombre": "JUAN IGNACIO QUINTANA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53418",
+   "Nombre": "FACUNDO VARIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58083",
+   "Nombre": "IGNACIO FACUNDO RICOBALDI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66499",
+   "Nombre": "LEANDRO HORACIO SELVES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "58237",
+   "Nombre": "VALENTINO LORENZI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67161",
+   "Nombre": "RODRIGO DURAN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "66498",
+   "Nombre": "FACUNDO ECHEVERRIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "49114",
+   "Nombre": "ALVARO DANIEL CHILDE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "68198",
+   "Nombre": "FACUNDO CABRERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "57080",
+   "Nombre": "NICOLAS GEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57109",
+   "Nombre": "MATEO DE LOS SANTOS",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "67726",
+   "Nombre": "ROMAN EZEQUIEL SENA",
+   "camiseta": "70",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53418",
+   "Jug_Sale": "FACUNDO VARIO",
+   "CarneEntra": "61528",
+   "Jug_Entra": "SANTIAGO DAMIAN PEREIRA",
+   "camiseta": "12",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "52634",
+   "Jug_Sale": "JUAN IGNACIO QUINTANA",
+   "CarneEntra": "49651",
+   "Jug_Entra": "FRANCISCO MUÑOZ",
+   "camiseta": "7",
+   "minutos": "67"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58237",
+   "Jug_Sale": "VALENTINO LORENZI",
+   "CarneEntra": "58176",
+   "Jug_Entra": "LUCAS ALVAREZ",
+   "camiseta": "22",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "58298",
+   "Jug_Sale": "DAVID ILUTOVICH",
+   "CarneEntra": "68804",
+   "Jug_Entra": "FACUNDO R RIVERO",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68198",
+   "Jug_Sale": "FACUNDO CABRERA",
+   "CarneEntra": "61132",
+   "Jug_Entra": "IAN FRANCO CAUTERUCCI",
+   "camiseta": "16",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "57109",
+   "Jug_Sale": "MATEO DE LOS SANTOS",
+   "CarneEntra": "62868",
+   "Jug_Entra": "TOMAS LICIO",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67726",
+   "Jug_Sale": "ROMAN EZEQUIEL SENA",
+   "CarneEntra": "58365",
+   "Jug_Entra": "FEDERICO NAVARRO",
+   "camiseta": "36",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "57080",
+   "Jug_Sale": "NICOLAS GEREZ",
+   "CarneEntra": "57103",
+   "Jug_Entra": "NICOLAS ACOSTA",
+   "camiseta": "5",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "58365",
+   "Jug_Sale": "FEDERICO NAVARRO",
+   "CarneEntra": "55321",
+   "Jug_Entra": "MATEO AGUSTIN MIRABALLES",
+   "camiseta": "50",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "67726",
+   "Nombre": "ROMAN EZEQUIEL SENA",
+   "minutos": "42",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "VALENTIN COLOMINAS",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "FACUNDO ECHEVERRIA",
+   "observaciones": ""
+  }
+ ]
+}

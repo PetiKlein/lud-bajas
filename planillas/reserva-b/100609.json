@@ -1,0 +1,286 @@
+{
+ "id": "100609",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "INDEPENDIENTE",
+ "visitante": "J.M.L.M",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "208",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-06-27 13:05:00",
+  "Fecha_fin": "2026-06-27 13:05:00",
+  "Locatario": "INDEPENDIENTE",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61237",
+   "Nombre": "JOAQUIN HAYMES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42394",
+   "Nombre": "MARTINHO GABRIEL DA COSTA",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68177",
+   "Nombre": "ENZO FACUNDO SOUZA",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "42893",
+   "Nombre": "GABRIEL PEREYRA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "59998",
+   "Nombre": "BRAHUDER LEONEL ALARCON",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65734",
+   "Nombre": "SANTIAGO FLORETTA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "43314",
+   "Nombre": "CONRADO GAMBETTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62653",
+   "Nombre": "MATEO DIAZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "41598",
+   "Nombre": "AGUSTIN TESTA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41531",
+   "Nombre": "JOAQUIN BELTRAN",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53190",
+   "Nombre": "SANTINO CARASSALE",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53105",
+   "Nombre": "FELIPE FRIGERIO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "49924",
+   "Nombre": "FELIPE BAYARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53104",
+   "Nombre": "FRANCO MESSANO",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "53189",
+   "Nombre": "FEDERICO VIDAL",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48293",
+   "Nombre": "RODRIGO VIDAL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "49895",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "53177",
+   "Nombre": "MANUEL BAYARDO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51589",
+   "Nombre": "LUCAS TROVO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53376",
+   "Nombre": "GUILLERMO WILSON",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42394",
+   "Jug_Sale": "MARTINHO GABRIEL DA COSTA",
+   "CarneEntra": "48270",
+   "Jug_Entra": "FRANCO MARTIN SANTORO",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "41598",
+   "Jug_Sale": "AGUSTIN TESTA",
+   "CarneEntra": "34311",
+   "Jug_Entra": "SEBASTIAN GONZALEZ",
+   "camiseta": "13",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "62653",
+   "Jug_Sale": "MATEO DIAZ",
+   "CarneEntra": "55322",
+   "Jug_Entra": "MARCOS SANTIAGO PEREIRA",
+   "camiseta": "32",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53376",
+   "Jug_Sale": "GUILLERMO WILSON",
+   "CarneEntra": "50448",
+   "Jug_Entra": "JUAN FERNANDO COMPANY",
+   "camiseta": "22",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "53189",
+   "Jug_Sale": "FEDERICO VIDAL",
+   "CarneEntra": "53184",
+   "Jug_Entra": "DIEGO DOMINGUEZ",
+   "camiseta": "15",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "49924",
+   "Jug_Sale": "FELIPE BAYARDO",
+   "CarneEntra": "46352",
+   "Jug_Entra": "JUAN PABLO COZZO",
+   "camiseta": "8",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "53104",
+   "Jug_Sale": "FRANCO MESSANO",
+   "CarneEntra": "51505",
+   "Jug_Entra": "MATEO GIOSA",
+   "camiseta": "2",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "48293",
+   "Jug_Sale": "RODRIGO VIDAL",
+   "CarneEntra": "47534",
+   "Jug_Entra": "SANTIAGO FLEGINSKY",
+   "camiseta": "15",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "49895",
+   "Jug_Sale": "AGUSTIN GONZALEZ",
+   "CarneEntra": "45775",
+   "Jug_Entra": "FRANCO GIOSA",
+   "camiseta": "3",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43314",
+   "Nombre": "CONRADO GAMBETTA",
+   "minutos": "34",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "minutos": "18",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "minutos": "28",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51589",
+   "Nombre": "LUCAS TROVO",
+   "minutos": "7",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53177",
+   "Nombre": "MANUEL BAYARDO",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53376",
+   "Nombre": "GUILLERMO WILSON",
+   "minutos": "38",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

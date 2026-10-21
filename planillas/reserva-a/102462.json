@@ -1,0 +1,255 @@
+{
+ "id": "102462",
+ "categoria": "reserva-a",
+ "serie": "RSAT",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "PLAYA HONDA UNIVERSITARIO",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "621",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"A\" TITULO",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-10-03 11:00:00",
+  "Fecha_fin": "2026-10-03 11:00:00",
+  "Locatario": "PLAYA HONDA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53369",
+   "Nombre": "IVAN BARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64499",
+   "Nombre": "ULISES FIORI",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "55177",
+   "Nombre": "MARCO PISANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56147",
+   "Nombre": "MAURO MATEO NAVARRINE",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "49922",
+   "Nombre": "ANDRES PIÑEIRO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "68323",
+   "Nombre": "FEDERICO SOLDEVILA",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "41179",
+   "Nombre": "EUGENIO SUPPARO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58718",
+   "Nombre": "FRANCISCO DE LOS SANTOS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "60673",
+   "Nombre": "EZEQUIEL CASTAINGTS",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "62024",
+   "Nombre": "JUAN MANUEL BOCCHI",
+   "camiseta": "41",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49084",
+   "Nombre": "GIULIANO CARDOZO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "41007",
+   "Nombre": "GERARDO SACCO",
+   "camiseta": "40",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47764",
+   "Nombre": "BRUNO ZEFFERINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "39903",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52186",
+   "Nombre": "BRUNO MATIAS BIGNOLI",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "44291",
+   "Nombre": "IGNACIO GEISINGER",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "41534",
+   "Nombre": "DIEGO NICOLAS CHIJANE",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "48917",
+   "Nombre": "FRANCISCO ALGORTA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "46708",
+   "Nombre": "AGUSTIN RAUL RODRIGUEZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "47761",
+   "Nombre": "JUAN IGNACIO POTRIE",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60673",
+   "Jug_Sale": "EZEQUIEL CASTAINGTS",
+   "CarneEntra": "67537",
+   "Jug_Entra": "BAUTISTA GARRE",
+   "camiseta": "38",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62024",
+   "Jug_Sale": "JUAN MANUEL BOCCHI",
+   "CarneEntra": "54805",
+   "Jug_Entra": "MATIAS PALMERO",
+   "camiseta": "33",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "49922",
+   "Jug_Sale": "ANDRES PIÑEIRO",
+   "CarneEntra": "53617",
+   "Jug_Entra": "MAXIMILIANO MONTERO",
+   "camiseta": "31",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "68323",
+   "Jug_Sale": "FEDERICO SOLDEVILA",
+   "CarneEntra": "62024",
+   "Jug_Entra": "JUAN MANUEL BOCCHI",
+   "camiseta": "41",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "64499",
+   "Jug_Sale": "ULISES FIORI",
+   "CarneEntra": "68323",
+   "Jug_Entra": "FEDERICO SOLDEVILA",
+   "camiseta": "48",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47761",
+   "Jug_Sale": "JUAN IGNACIO POTRIE",
+   "CarneEntra": "46250",
+   "Jug_Entra": "GUILLERMO JAVIER BECCHIO",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52186",
+   "Jug_Sale": "BRUNO MATIAS BIGNOLI",
+   "CarneEntra": "66422",
+   "Jug_Entra": "RODRIGO ARIAS",
+   "camiseta": "34",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "39903",
+   "Jug_Sale": "MANUEL FERNANDEZ",
+   "CarneEntra": "48915",
+   "Jug_Entra": "FACUNDO CURT GEISINGER",
+   "camiseta": "37",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "47764",
+   "Jug_Sale": "BRUNO ZEFFERINO",
+   "CarneEntra": "49610",
+   "Jug_Entra": "MARTIN SUAYA",
+   "camiseta": "31",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "47764",
+   "Nombre": "BRUNO ZEFFERINO",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,307 @@
+{
+ "id": "101439",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 12,
+ "fechaHora": "2026-09-03 21:30:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "SAN JUAN BAUTISTA",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "212",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-09-03 23:30:00",
+  "Fecha_fin": "2026-09-03 23:30:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SAN JUAN BAUTISTA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "49711",
+   "Nombre": "SANTIAGO CABRERA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "48896",
+   "Nombre": "FACUNDO ALPUIN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "54739",
+   "Nombre": "IÑAKI LOPEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "43858",
+   "Nombre": "DIEGO OMAR MOREIRA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "37685",
+   "Nombre": "MATIAS LUIS IZQUIERDO",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62370",
+   "Nombre": "CHRISTIAN ALEJANDRO ROSSI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "48838",
+   "Nombre": "BRUNO GRAJALES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49709",
+   "Nombre": "FELIPE CABRERA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "45727",
+   "Nombre": "FRANCO SENRA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65017",
+   "Nombre": "DIEGO GUSTAVO VERA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "52859",
+   "Nombre": "ALEN DOMINGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "41550",
+   "Nombre": "SEBASTIAN EIRALDI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55158",
+   "Nombre": "LAUTARO LUJAN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45761",
+   "Nombre": "FELIPE VIERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "35178",
+   "Nombre": "ANDRES GARCIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51058",
+   "Nombre": "TADEO SOBA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "50625",
+   "Nombre": "IGNACIO GARCIA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "45724",
+   "Nombre": "NICOLAS POLLERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50993",
+   "Nombre": "SANTIAGO DURAN",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56955",
+   "Nombre": "PAULINO JERONIMO PERDOMO",
+   "camiseta": "70",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43858",
+   "Jug_Sale": "DIEGO OMAR MOREIRA",
+   "CarneEntra": "52811",
+   "Jug_Entra": "FELIPE PERLA",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37685",
+   "Jug_Sale": "MATIAS LUIS IZQUIERDO",
+   "CarneEntra": "66481",
+   "Jug_Entra": "WILLIAM WAGNER KLINGENDER",
+   "camiseta": "18",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "49711",
+   "Jug_Sale": "SANTIAGO CABRERA",
+   "CarneEntra": "55602",
+   "Jug_Entra": "CAETANO MARRONE",
+   "camiseta": "92",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "48838",
+   "Jug_Sale": "BRUNO GRAJALES",
+   "CarneEntra": "51151",
+   "Jug_Entra": "SANTIAGO MOREIRA",
+   "camiseta": "28",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "54739",
+   "Jug_Sale": "IÑAKI LOPEZ",
+   "CarneEntra": "49491",
+   "Jug_Entra": "PEDRO GALLO",
+   "camiseta": "55",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "62370",
+   "Jug_Sale": "CHRISTIAN ALEJANDRO ROSSI",
+   "CarneEntra": "49766",
+   "Jug_Entra": "JUAN SALHON",
+   "camiseta": "69",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "49709",
+   "Jug_Sale": "FELIPE CABRERA",
+   "CarneEntra": "53612",
+   "Jug_Entra": "TOMAS BRANDO",
+   "camiseta": "8",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "35178",
+   "Jug_Sale": "ANDRES GARCIA",
+   "CarneEntra": "59224",
+   "Jug_Entra": "MATIAS LEMBO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56955",
+   "Jug_Sale": "PAULINO JERONIMO PERDOMO",
+   "CarneEntra": "49505",
+   "Jug_Entra": "JUAN MANUEL SALA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56955",
+   "Jug_Sale": "PAULINO JERONIMO PERDOMO",
+   "CarneEntra": "39016",
+   "Jug_Entra": "SANTIAGO JACOBO",
+   "camiseta": "26",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "50625",
+   "Jug_Sale": "IGNACIO GARCIA",
+   "CarneEntra": "57840",
+   "Jug_Entra": "DIEGO BIDEGAIN",
+   "camiseta": "19",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "51058",
+   "Jug_Sale": "TADEO SOBA",
+   "CarneEntra": "47801",
+   "Jug_Entra": "FACUNDO GAMBETTA",
+   "camiseta": "8",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "45724",
+   "Jug_Sale": "NICOLAS POLLERO",
+   "CarneEntra": "62298",
+   "Jug_Entra": "FRANCO RUSSOMANO",
+   "camiseta": "71",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "41550",
+   "Jug_Sale": "SEBASTIAN EIRALDI",
+   "CarneEntra": "34877",
+   "Jug_Entra": "SANTIAGO BALSAS",
+   "camiseta": "9",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45727",
+   "Nombre": "FRANCO SENRA",
+   "minutos": "34",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49709",
+   "Nombre": "FELIPE CABRERA",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49709",
+   "Nombre": "FELIPE CABRERA",
+   "minutos": "45",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

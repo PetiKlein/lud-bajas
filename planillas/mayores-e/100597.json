@@ -1,0 +1,227 @@
+{
+ "id": "100597",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 11:15:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "DEPORTIVO SALTO",
+ "visitante": "CAFU",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "565",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-06-28 13:15:00",
+  "Fecha_fin": "2026-06-28 13:15:00",
+  "Locatario": "DEPORTIVO SALTO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CAFU",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59286",
+   "Nombre": "FRANCO NAHUEL LACERDA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61260",
+   "Nombre": "FACUNDO GOÑI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "48491",
+   "Nombre": "GONZALO MIGUEL BRACCO",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68730",
+   "Nombre": "SANTIAGO DAVID DE SOUZA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52526",
+   "Nombre": "RENZO LEONARDO PAIVA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "50939",
+   "Nombre": "FACUNDO CADENAS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "54986",
+   "Nombre": "AGUSTIN ESTEVES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61744",
+   "Nombre": "ANTONIO SIMONET",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "37238",
+   "Nombre": "PABLO JAVIER DIAZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "60236",
+   "Nombre": "EZEQUIEL BARBOZA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54186",
+   "Nombre": "DIEGO VALENTIN ALVEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51727",
+   "Nombre": "MARCOS CARRION",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51165",
+   "Nombre": "SERGIO FACUNDO DIAZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52901",
+   "Nombre": "SALVADOR BURGOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56736",
+   "Nombre": "JUAN ESPINA",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "51170",
+   "Nombre": "NICOLAS FLORIAN GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "55620",
+   "Nombre": "LUCAS BRITOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "54698",
+   "Nombre": "SEBASTIAN MARCOS GONZALEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55960",
+   "Nombre": "LUCAS BERNARDO BARJAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59451",
+   "Nombre": "AGUSTIN MERILES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53761",
+   "Nombre": "EMILIANO GASPAR TRUJILLO",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50939",
+   "Jug_Sale": "FACUNDO CADENAS",
+   "CarneEntra": "63723",
+   "Jug_Entra": "FABIAN EMANUEL DIAZ",
+   "camiseta": "34",
+   "minutos": "55"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59451",
+   "Jug_Sale": "AGUSTIN MERILES",
+   "CarneEntra": "56110",
+   "Jug_Entra": "IGNACIO TABEIRA",
+   "camiseta": "6",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "53761",
+   "Jug_Sale": "EMILIANO GASPAR TRUJILLO",
+   "CarneEntra": "52903",
+   "Jug_Entra": "JOAQUIN PABLO GONZALEZ",
+   "camiseta": "41",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "55960",
+   "Jug_Sale": "LUCAS BERNARDO BARJAS",
+   "CarneEntra": "67022",
+   "Jug_Entra": "PIERO GRANIER",
+   "camiseta": "21",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53761",
+   "Nombre": "EMILIANO GASPAR TRUJILLO",
+   "minutos": "73",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56110",
+   "Nombre": "IGNACIO TABEIRA",
+   "minutos": "84",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

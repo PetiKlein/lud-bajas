@@ -1,0 +1,281 @@
+{
+ "id": "102123",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 14,
+ "fechaHora": "2026-09-20 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "CLUB ESTUDIANTES INGENIERIA",
+ "visitante": "BODY FACTORY",
+ "gl": 4,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "589",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-20 10:52:00",
+  "Fecha_fin": "2026-09-20 10:52:00",
+  "Locatario": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "BODY FACTORY",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "43111",
+   "Nombre": "JULIAN LEPRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49812",
+   "Nombre": "MIGUEL ANGEL PASTORINI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "66875",
+   "Nombre": "GIULIANO CHELONI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "26541",
+   "Nombre": "FEDERICO MARTIN LABORDE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61450",
+   "Nombre": "MARTIN ROTTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "59310",
+   "Nombre": "GONZALO COLMAN",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "33500",
+   "Nombre": "FRANCO CAL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65902",
+   "Nombre": "FABRIZIO DONATO FERRANTY",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "51303",
+   "Nombre": "FELIPE CASARAVILLA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59309",
+   "Nombre": "MARCOS NAHUEL ARRÙA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58335",
+   "Nombre": "IVAN LACHAISE",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "68878",
+   "Nombre": "EMILIANO NERES",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "44961",
+   "Nombre": "WALTER RENZO SERVETTI",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66188",
+   "Nombre": "JUAN DIEGO NOZAR",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "60127",
+   "Nombre": "NAHUEL VIERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "43506",
+   "Nombre": "IGNACIO PAIS",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "39998",
+   "Nombre": "BRANDON MAVERINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "41743",
+   "Nombre": "LUCAS EXEQUIEL DIANESSI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52329",
+   "Nombre": "DIEGO ENRIQUE EMENS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67303",
+   "Nombre": "DANIEL ANDRES NOVO",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59309",
+   "Jug_Sale": "MARCOS NAHUEL ARRÙA",
+   "CarneEntra": "39386",
+   "Jug_Entra": "AGUSTIN PALLEIRO",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51303",
+   "Jug_Sale": "FELIPE CASARAVILLA",
+   "CarneEntra": "68522",
+   "Jug_Entra": "DIEGO HENRRY GADEA",
+   "camiseta": "22",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59310",
+   "Jug_Sale": "GONZALO COLMAN",
+   "CarneEntra": "59309",
+   "Jug_Entra": "MARCOS NAHUEL ARRÙA",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "33500",
+   "Jug_Sale": "FRANCO CAL",
+   "CarneEntra": "34656",
+   "Jug_Entra": "MATIAS CERETTA",
+   "camiseta": "19",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44961",
+   "Jug_Sale": "WALTER RENZO SERVETTI",
+   "CarneEntra": "44017",
+   "Jug_Entra": "EDUARDO LUIS SUAREZ",
+   "camiseta": "48",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52329",
+   "Jug_Sale": "DIEGO ENRIQUE EMENS",
+   "CarneEntra": "43511",
+   "Jug_Entra": "FABIAN AUGUSTO SUAREZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67303",
+   "Jug_Sale": "DANIEL ANDRES NOVO",
+   "CarneEntra": "69153",
+   "Jug_Entra": "DENIS NAHUEL MARTIRENA",
+   "camiseta": "47",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "minutos": "95",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51303",
+   "Nombre": "FELIPE CASARAVILLA",
+   "minutos": "33",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66188",
+   "Nombre": "JUAN DIEGO NOZAR",
+   "minutos": "24",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67303",
+   "Nombre": "DANIEL ANDRES NOVO",
+   "minutos": "27",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "BRANDON MAVERINO",
+   "observaciones": ""
+  }
+ ]
+}

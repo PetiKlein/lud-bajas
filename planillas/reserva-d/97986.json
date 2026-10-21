@@ -1,0 +1,332 @@
+{
+ "id": "97986",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "VILLA MARIA",
+ "local": "NUESTRA SEÑORA DE LOURDES",
+ "visitante": "SAN CONO",
+ "gl": 1,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "428",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-04-11 13:10:00",
+  "Fecha_fin": "2026-04-11 13:10:00",
+  "Locatario": "NUESTRA SEÑORA DE LOURDES",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAN CONO",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66809",
+   "Nombre": "DAVID JOMAR ROSALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66677",
+   "Nombre": "MARCELO PERRONE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65209",
+   "Nombre": "CRISTIAN  DANIEL GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66518",
+   "Nombre": "ANDRES CIRO BELVEDER",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63892",
+   "Nombre": "TIAGO LARZABAL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54946",
+   "Nombre": "FRANCO VICENTE CIFUENTES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61515",
+   "Nombre": "ALAN ACOSTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66811",
+   "Nombre": "DANIEL SEBASTIAN GUASTAVINO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61998",
+   "Nombre": "GUZMAN COUSELO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64374",
+   "Nombre": "NAHUEL OHOLEGUY",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "30973",
+   "Nombre": "MAXIMILIANO PEREYRA",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "43063",
+   "Nombre": "JOAQUIN MATTEO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66467",
+   "Nombre": "DIEGO LOTTI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "61099",
+   "Nombre": "AGUSTIN BARRIOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "60354",
+   "Nombre": "MANUEL MAGNIN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55354",
+   "Nombre": "JAIRO ALI ARAQUE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64654",
+   "Nombre": "GASTON ZAMBRAN",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61531",
+   "Nombre": "GONZALO GABRIEL BERRUTTI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61524",
+   "Nombre": "SEBASTIAN ENZO GUISADO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65386",
+   "Nombre": "RAMIRO MOREIRA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61529",
+   "Nombre": "MATEO FERREIRA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63261",
+   "Nombre": "NICOLAS SANGUINE",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61998",
+   "Jug_Sale": "GUZMAN COUSELO",
+   "CarneEntra": "67455",
+   "Jug_Entra": "ADRIAN DAVID ACOSTA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66811",
+   "Jug_Sale": "DANIEL SEBASTIAN GUASTAVINO",
+   "CarneEntra": "59531",
+   "Jug_Entra": "MATEO AGUSTIN BRASESCO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54946",
+   "Jug_Sale": "FRANCO VICENTE CIFUENTES",
+   "CarneEntra": "61192",
+   "Jug_Entra": "FEDERICO MESA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63892",
+   "Jug_Sale": "TIAGO LARZABAL",
+   "CarneEntra": "33320",
+   "Jug_Entra": "MARTIN PAZ",
+   "camiseta": "61",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66677",
+   "Jug_Sale": "MARCELO PERRONE",
+   "CarneEntra": "56727",
+   "Jug_Entra": "JOSTIN VAZQUEZ",
+   "camiseta": "71",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30973",
+   "Jug_Sale": "MAXIMILIANO PEREYRA",
+   "CarneEntra": "67680",
+   "Jug_Entra": "NIKOLAS BASEL",
+   "camiseta": "11",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "61515",
+   "Jug_Sale": "ALAN ACOSTA",
+   "CarneEntra": "30973",
+   "Jug_Entra": "MAXIMILIANO PEREYRA",
+   "camiseta": "2",
+   "minutos": "67"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60354",
+   "Jug_Sale": "MANUEL MAGNIN",
+   "CarneEntra": "61532",
+   "Jug_Entra": "JUAN IGNACIO OLIVERA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65386",
+   "Jug_Sale": "RAMIRO MOREIRA",
+   "CarneEntra": "65388",
+   "Jug_Entra": "JOAQUIN ROMAN MOREIRA",
+   "camiseta": "70",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61529",
+   "Jug_Sale": "MATEO FERREIRA",
+   "CarneEntra": "57266",
+   "Jug_Entra": "JUAN MANUEL SANGUINE",
+   "camiseta": "16",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "55354",
+   "Jug_Sale": "JAIRO ALI ARAQUE",
+   "CarneEntra": "61942",
+   "Jug_Entra": "AGUSTIN EZEQUIEL DE LOS REYES",
+   "camiseta": "24",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "61532",
+   "Jug_Sale": "JUAN IGNACIO OLIVERA",
+   "CarneEntra": "66469",
+   "Jug_Entra": "DANIEL ANDRES LAUREANO",
+   "camiseta": "34",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "64654",
+   "Jug_Sale": "GASTON ZAMBRAN",
+   "CarneEntra": "23009",
+   "Jug_Entra": "RODRIGO DE PAULA",
+   "camiseta": "13",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "63261",
+   "Jug_Sale": "NICOLAS SANGUINE",
+   "CarneEntra": "66113",
+   "Jug_Entra": "BRYAN OLAIZOLA",
+   "camiseta": "42",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64374",
+   "Nombre": "NAHUEL OHOLEGUY",
+   "minutos": "2",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55354",
+   "Nombre": "JAIRO ALI ARAQUE",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61099",
+   "Nombre": "AGUSTIN BARRIOS",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61524",
+   "Nombre": "SEBASTIAN ENZO GUISADO",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61529",
+   "Nombre": "MATEO FERREIRA",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61531",
+   "Nombre": "GONZALO GABRIEL BERRUTTI",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61531",
+   "Nombre": "GONZALO GABRIEL BERRUTTI",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

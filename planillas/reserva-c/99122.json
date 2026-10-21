@@ -1,0 +1,332 @@
+{
+ "id": "99122",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "SAN EUGENIO",
+ "local": "SAN EUGENIO",
+ "visitante": "PEÑAROL UNIVERSITARIO",
+ "gl": 5,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "287",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "SAN EUGENIO",
+  "Fecha_Inicio": "2026-05-23 13:20:00",
+  "Fecha_fin": "2026-05-23 13:20:00",
+  "Locatario": "SAN EUGENIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "PEÑAROL UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68273",
+   "Nombre": "PABLO NICOLAS CARDOZO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "53118",
+   "Nombre": "ALVARO MARTIN PINTOS",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "49859",
+   "Nombre": "ALFREDO SUAREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64840",
+   "Nombre": "AXEL GONZALEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62045",
+   "Nombre": "GASTON NICOLAS SOSA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "59342",
+   "Nombre": "MATIAS MARTINS",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "62046",
+   "Nombre": "MAURICIO LAPORTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "63708",
+   "Nombre": "ANTHONY YAEL BRITOS",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "49999",
+   "Nombre": "LEONARDO NICOLAS RIBEIRO",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "62993",
+   "Nombre": "JUAN CARLOS MEDINA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66297",
+   "Nombre": "CRISTIAN VELOZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66298",
+   "Nombre": "MICHAEL GREGORI VELOZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66630",
+   "Nombre": "FRANCISCO PEREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63413",
+   "Nombre": "JUAN IGNACIO MERNIES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "63652",
+   "Nombre": "WILKER DANIEL MARTINEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61101",
+   "Nombre": "MATIAS NICOLAS GARCIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66433",
+   "Nombre": "LUCAS TOMAS FERNANDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49170",
+   "Nombre": "BRUNO EMILIANO BERMUDEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "66691",
+   "Nombre": "BRUNO ALEXIS ARAUJO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51485",
+   "Nombre": "BRUNO ALBORNOZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "51998",
+   "Nombre": "VICTOR EDUARDO FERREIRA",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49999",
+   "Jug_Sale": "LEONARDO NICOLAS RIBEIRO",
+   "CarneEntra": "64443",
+   "Jug_Entra": "ENZO JESUS RODRIGUEZ",
+   "camiseta": "27",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "62993",
+   "Jug_Sale": "JUAN CARLOS MEDINA",
+   "CarneEntra": "67552",
+   "Jug_Entra": "JULIO DAMIAN GONZALEZ",
+   "camiseta": "95",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "49859",
+   "Jug_Sale": "ALFREDO SUAREZ",
+   "CarneEntra": "61743",
+   "Jug_Entra": "KAWE ALAMON",
+   "camiseta": "22",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "63708",
+   "Jug_Sale": "ANTHONY YAEL BRITOS",
+   "CarneEntra": "48025",
+   "Jug_Entra": "RODRIGO PRUNELL",
+   "camiseta": "9",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "64448",
+   "Jug_Sale": "WILLIAMS QUINTANA",
+   "CarneEntra": "62039",
+   "Jug_Entra": "SANTIAGO AUGUSTIN ARANDA",
+   "camiseta": "77",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "62045",
+   "Jug_Sale": "GASTON NICOLAS SOSA",
+   "CarneEntra": "63487",
+   "Jug_Entra": "EDGARDO TEO MARTINEZ",
+   "camiseta": "44",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "62046",
+   "Jug_Sale": "MAURICIO LAPORTE",
+   "CarneEntra": "67785",
+   "Jug_Entra": "LUCAS EZEQUIEL LOPEZ",
+   "camiseta": "47",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63413",
+   "Jug_Sale": "JUAN IGNACIO MERNIES",
+   "CarneEntra": "49095",
+   "Jug_Entra": "GIANLUCA BATTISTIN",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49170",
+   "Jug_Sale": "BRUNO EMILIANO BERMUDEZ",
+   "CarneEntra": "66631",
+   "Jug_Entra": "DAVID ALEJANDRO SILVA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51485",
+   "Jug_Sale": "BRUNO ALBORNOZ",
+   "CarneEntra": "66357",
+   "Jug_Entra": "PABLO GONZALEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51998",
+   "Jug_Sale": "VICTOR EDUARDO FERREIRA",
+   "CarneEntra": "46778",
+   "Jug_Entra": "FRANCO MANUEL FIGUEREDO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66630",
+   "Jug_Sale": "FRANCISCO PEREZ",
+   "CarneEntra": "55275",
+   "Jug_Entra": "SEBASTIAN ELTON GONZALEZ",
+   "camiseta": "8",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "66433",
+   "Jug_Sale": "LUCAS TOMAS FERNANDEZ",
+   "CarneEntra": "63677",
+   "Jug_Entra": "IAN MAXIMILIANO POLERO",
+   "camiseta": "10",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "61101",
+   "Jug_Sale": "MATIAS NICOLAS GARCIA",
+   "CarneEntra": "67839",
+   "Jug_Entra": "KEVIN IGNACIO BRUSCIANO",
+   "camiseta": "7",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59342",
+   "Nombre": "MATIAS MARTINS",
+   "minutos": "23",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62046",
+   "Nombre": "MAURICIO LAPORTE",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63708",
+   "Nombre": "ANTHONY YAEL BRITOS",
+   "minutos": "73",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46778",
+   "Nombre": "FRANCO MANUEL FIGUEREDO",
+   "minutos": "91",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61101",
+   "Nombre": "MATIAS NICOLAS GARCIA",
+   "minutos": "29",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,274 @@
+{
+ "id": "103103",
+ "categoria": "sub20-b",
+ "serie": "20BPD",
+ "fecha": 4,
+ "fechaHora": "2026-10-17 13:30:00",
+ "cancha": "SANTA RITA",
+ "local": "SAN AGUSTIN",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 1,
+ "gv": 7,
+ "detalle": {
+  "nro_partido": "459",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"B\" PERM. y DESC.",
+  "Cancha": "SANTA RITA",
+  "Fecha_Inicio": "2026-10-17 15:15:00",
+  "Fecha_fin": "2026-10-17 15:15:00",
+  "Locatario": "SAN AGUSTIN",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "7",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58158",
+   "Nombre": "FELIPE PECHIAR",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62167",
+   "Nombre": "THIAGO TOMAS SOCA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57288",
+   "Nombre": "TOMAS PEZZOLANO",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "62156",
+   "Nombre": "JUAN JOSE CABILLON",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58033",
+   "Nombre": "AGUSTIN EZEQUIEL BUENO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67940",
+   "Nombre": "SANTIAGO MATHEW SOSA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "67878",
+   "Nombre": "JUAN IGNACIO LEDESMA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "68725",
+   "Nombre": "SEBASTIAN ALEXANDER AREVALO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59654",
+   "Nombre": "JUAN MARTIN PIRIZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "60124",
+   "Nombre": "FACUNDO GARCIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58046",
+   "Nombre": "LUCAS DANIEL ABALO",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66411",
+   "Nombre": "JOAQUIN MOSQUERA",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "67298",
+   "Nombre": "FRANCISCO BAUTISTA MARTINEZ",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "56674",
+   "Nombre": "JOAQUIN PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56151",
+   "Nombre": "BENJAMIN CANO",
+   "camiseta": "63",
+   "Capitan": ""
+  },
+  {
+   "carne": "58989",
+   "Nombre": "GONZALO CASTELL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64434",
+   "Nombre": "SANTIAGO LAPENTE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56109",
+   "Nombre": "MATIAS CACCIATORI",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58410",
+   "Nombre": "VALENTIN NICOLAS SUAREZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60817",
+   "Nombre": "JOAQUIN MIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64530",
+   "Nombre": "EMILIANO DOS SANTOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63022",
+   "Nombre": "SANTINO GALEANDRO",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68725",
+   "Jug_Sale": "SEBASTIAN ALEXANDER AREVALO",
+   "CarneEntra": "67884",
+   "Jug_Entra": "PATRICIO URUGUAY PEREZ",
+   "camiseta": "9",
+   "minutos": "19"
+  },
+  {
+   "CarneSale": "57288",
+   "Jug_Sale": "TOMAS PEZZOLANO",
+   "CarneEntra": "62660",
+   "Jug_Entra": "JUAN MARTIN RICARDI",
+   "camiseta": "77",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60817",
+   "Jug_Sale": "JOAQUIN MIGUEZ",
+   "CarneEntra": "57365",
+   "Jug_Entra": "SANTIAGO NICOLAS GONZALEZ",
+   "camiseta": "91",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "64530",
+   "Jug_Sale": "EMILIANO DOS SANTOS",
+   "CarneEntra": "62667",
+   "Jug_Entra": "SANTIAGO MATEO SACARELO",
+   "camiseta": "18",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "63022",
+   "Jug_Sale": "SANTINO GALEANDRO",
+   "CarneEntra": "56673",
+   "Jug_Entra": "EMILIO MAIDANA",
+   "camiseta": "12",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "58989",
+   "Jug_Sale": "GONZALO CASTELL",
+   "CarneEntra": "64530",
+   "Jug_Entra": "EMILIANO DOS SANTOS",
+   "camiseta": "9",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "68725",
+   "Nombre": "SEBASTIAN ALEXANDER AREVALO",
+   "minutos": "4",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56109",
+   "Nombre": "MATIAS CACCIATORI",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56151",
+   "Nombre": "BENJAMIN CANO",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56151",
+   "Nombre": "BENJAMIN CANO",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57365",
+   "Nombre": "SANTIAGO NICOLAS GONZALEZ",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60817",
+   "Nombre": "JOAQUIN MIGUEZ",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62667",
+   "Nombre": "SANTIAGO MATEO SACARELO",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64530",
+   "Nombre": "EMILIANO DOS SANTOS",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

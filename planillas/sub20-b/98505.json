@@ -1,0 +1,259 @@
+{
+ "id": "98505",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 15:30:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "SEMINARIO UNIVERSITARIO",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "139",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-04-25 17:30:00",
+  "Fecha_fin": "2026-04-25 17:30:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SEMINARIO UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59906",
+   "Nombre": "MATEO FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63070",
+   "Nombre": "MATIAS GABRIEL TEIJEIRO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59218",
+   "Nombre": "AGUSTIN GRAJALES",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "67299",
+   "Nombre": "FRANCO NICOLAS PURTSCHER",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "68294",
+   "Nombre": "FEDERICO CLAVARES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63069",
+   "Nombre": "JOAQUIN MADERNI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "67297",
+   "Nombre": "TIZIANO LANDO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67653",
+   "Nombre": "EMILIANO PIETRAFESA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67294",
+   "Nombre": "LIQUEL COLOMBO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63867",
+   "Nombre": "THIAGO BENJAMIN GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60952",
+   "Nombre": "JUAN IGNACIO MORATORIO",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55373",
+   "Nombre": "JUAN MANUEL RIUS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54960",
+   "Nombre": "PEDRO BARNABE",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63388",
+   "Nombre": "SANTIAGO ARRUA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54921",
+   "Nombre": "JUAN IGNACIO CAPPUCCIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63165",
+   "Nombre": "TOMAS VELAZQUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "54607",
+   "Nombre": "JOAQUIN GARCIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56191",
+   "Nombre": "FACUNDO TAPIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54961",
+   "Nombre": "NICOLAS BONINO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54602",
+   "Nombre": "AGUSTIN RE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66059",
+   "Nombre": "BRUNO REGINA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56566",
+   "Nombre": "FELIPE PORTEIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63069",
+   "Jug_Sale": "JOAQUIN MADERNI",
+   "CarneEntra": "65323",
+   "Jug_Entra": "LUCAS ROBERTO IBARRA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63867",
+   "Jug_Sale": "THIAGO BENJAMIN GONZALEZ",
+   "CarneEntra": "64354",
+   "Jug_Entra": "MATEO NARTALLO",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "60952",
+   "Jug_Sale": "JUAN IGNACIO MORATORIO",
+   "CarneEntra": "67295",
+   "Jug_Entra": "IVAN GONZALEZ",
+   "camiseta": "91",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59218",
+   "Jug_Sale": "AGUSTIN GRAJALES",
+   "CarneEntra": "59515",
+   "Jug_Entra": "FRANCO FEDERICO DENIS",
+   "camiseta": "37",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54602",
+   "Jug_Sale": "AGUSTIN RE",
+   "CarneEntra": "67329",
+   "Jug_Entra": "MATTHEW MICHAEL ZETINA",
+   "camiseta": "17",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "54961",
+   "Jug_Sale": "NICOLAS BONINO",
+   "CarneEntra": "57296",
+   "Jug_Entra": "IGNACIO BAZZANO",
+   "camiseta": "22",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "54960",
+   "Jug_Sale": "PEDRO BARNABE",
+   "CarneEntra": "56641",
+   "Jug_Entra": "JUAN IGNACIO SILVA",
+   "camiseta": "3",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "66059",
+   "Jug_Sale": "BRUNO REGINA",
+   "CarneEntra": "59078",
+   "Jug_Entra": "MATEO ETCHART",
+   "camiseta": "13",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "56566",
+   "Nombre": "FELIPE PORTEIRO",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57296",
+   "Nombre": "IGNACIO BAZZANO",
+   "minutos": "93",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67329",
+   "Nombre": "MATTHEW MICHAEL ZETINA",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

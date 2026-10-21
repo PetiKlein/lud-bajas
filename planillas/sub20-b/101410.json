@@ -1,0 +1,329 @@
+{
+ "id": "101410",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 15:30:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "SEMINARIO UNIVERSITARIO",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 2,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "150",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-08-29 17:30:00",
+  "Fecha_fin": "2026-08-29 17:30:00",
+  "Locatario": "SEMINARIO UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55373",
+   "Nombre": "JUAN MANUEL RIUS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63165",
+   "Nombre": "TOMAS VELAZQUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68561",
+   "Nombre": "AUGUSTO FEDERICO MARTINEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54921",
+   "Nombre": "JUAN IGNACIO CAPPUCCIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56637",
+   "Nombre": "SEBASTIAN SILVEIRA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54960",
+   "Nombre": "PEDRO BARNABE",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54961",
+   "Nombre": "NICOLAS BONINO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68564",
+   "Nombre": "JOAQUIN URRUTIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "57296",
+   "Nombre": "IGNACIO BAZZANO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "56566",
+   "Nombre": "FELIPE PORTEIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "54607",
+   "Nombre": "JOAQUIN GARCIA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63317",
+   "Nombre": "NICOLAS GONZALEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "56733",
+   "Nombre": "MATEO SILVIO RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62709",
+   "Nombre": "LUCAS PARADA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "64836",
+   "Nombre": "MARCOS FABIAN VIGNOLO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "63253",
+   "Nombre": "THIAGO MARMISSOLLE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64620",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "67108",
+   "Nombre": "FRANCO PECCOTIELLO",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "64614",
+   "Nombre": "FACUNDO AGUSTIN PELUFFO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66218",
+   "Nombre": "MATEO PUIG",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "63734",
+   "Nombre": "BENJAMIN LABORDE",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56104",
+   "Nombre": "TOMAS FERIA",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54960",
+   "Jug_Sale": "PEDRO BARNABE",
+   "CarneEntra": "56191",
+   "Jug_Entra": "FACUNDO TAPIA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54607",
+   "Jug_Sale": "JOAQUIN GARCIA",
+   "CarneEntra": "67329",
+   "Jug_Entra": "MATTHEW MICHAEL ZETINA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68564",
+   "Jug_Sale": "JOAQUIN URRUTIA",
+   "CarneEntra": "66059",
+   "Jug_Entra": "BRUNO REGINA",
+   "camiseta": "13",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "57296",
+   "Jug_Sale": "IGNACIO BAZZANO",
+   "CarneEntra": "63388",
+   "Jug_Entra": "SANTIAGO ARRUA",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54961",
+   "Jug_Sale": "NICOLAS BONINO",
+   "CarneEntra": "68749",
+   "Jug_Entra": "JUAN BAUTISTA ALVAREZ",
+   "camiseta": "16",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "56637",
+   "Jug_Sale": "SEBASTIAN SILVEIRA",
+   "CarneEntra": "54602",
+   "Jug_Entra": "AGUSTIN RE",
+   "camiseta": "17",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67108",
+   "Jug_Sale": "FRANCO PECCOTIELLO",
+   "CarneEntra": "56097",
+   "Jug_Entra": "MATEO PELLEJERO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64614",
+   "Jug_Sale": "FACUNDO AGUSTIN PELUFFO",
+   "CarneEntra": "56111",
+   "Jug_Entra": "SANTIAGO CANOURA",
+   "camiseta": "15",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "66218",
+   "Jug_Sale": "MATEO PUIG",
+   "CarneEntra": "58752",
+   "Jug_Entra": "LUCIANO JOAQUIN BAICA",
+   "camiseta": "7",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "62709",
+   "Jug_Sale": "LUCAS PARADA",
+   "CarneEntra": "55201",
+   "Jug_Entra": "MARCIO IVAN CAMARGO",
+   "camiseta": "4",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "56104",
+   "Jug_Sale": "TOMAS FERIA",
+   "CarneEntra": "56113",
+   "Jug_Entra": "JUAN FRANCISCO VOMERO",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64836",
+   "Jug_Sale": "MARCOS FABIAN VIGNOLO",
+   "CarneEntra": "67107",
+   "Jug_Entra": "IVAN BENTANCOR",
+   "camiseta": "13",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "56733",
+   "Jug_Sale": "MATEO SILVIO RODRIGUEZ",
+   "CarneEntra": "64622",
+   "Jug_Entra": "TEO FELIPE SOCA",
+   "camiseta": "20",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56566",
+   "Nombre": "FELIPE PORTEIRO",
+   "minutos": "35",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56566",
+   "Nombre": "FELIPE PORTEIRO",
+   "minutos": "78",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58752",
+   "Nombre": "LUCIANO JOAQUIN BAICA",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63734",
+   "Nombre": "BENJAMIN LABORDE",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63734",
+   "Nombre": "BENJAMIN LABORDE",
+   "minutos": "83",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64614",
+   "Nombre": "FACUNDO AGUSTIN PELUFFO",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67108",
+   "Nombre": "FRANCO PECCOTIELLO",
+   "minutos": "19",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN IGNACIO CAPPUCCIO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

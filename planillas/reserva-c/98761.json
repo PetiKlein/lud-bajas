@@ -1,0 +1,282 @@
+{
+ "id": "98761",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+ "local": "PEÑAROL UNIVERSITARIO",
+ "visitante": "WANDERERS",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "275",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+  "Fecha_Inicio": "2026-05-16 10:50:00",
+  "Fecha_fin": "2026-05-16 10:50:00",
+  "Locatario": "PEÑAROL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66992",
+   "Nombre": "MATHIAS ALEXANDER MONTIEL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55825",
+   "Nombre": "NAHUEL MANZANARES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "63652",
+   "Nombre": "WILKER DANIEL MARTINEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54542",
+   "Nombre": "FACUNDO PEREYRA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66433",
+   "Nombre": "LUCAS TOMAS FERNANDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66094",
+   "Nombre": "SANTIAGO JOEL MACHADO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66691",
+   "Nombre": "BRUNO ALEXIS ARAUJO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56541",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63828",
+   "Nombre": "MAXIMILIANO LOPEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61101",
+   "Nombre": "MATIAS NICOLAS GARCIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66298",
+   "Nombre": "MICHAEL GREGORI VELOZ",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57434",
+   "Nombre": "GONZALO ANDRES SANGUINETTI",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "56583",
+   "Nombre": "MARCOS ARRASPIDE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "66823",
+   "Nombre": "JOSE PABLO ANTUNEZ",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "60235",
+   "Nombre": "FEDERICO JOSE GONZALEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "59160",
+   "Nombre": "ALEXANDER PIREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "43616",
+   "Nombre": "SANTIAGO VEGLIO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59917",
+   "Nombre": "LUCAS BALTAZAR GARCIA",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "43967",
+   "Nombre": "ENZO JAVIER CEDRES",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "46318",
+   "Nombre": "FACUNDO DEBENEDETTI",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "61865",
+   "Nombre": "NAZARENO PINTOS",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "45274",
+   "Nombre": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66992",
+   "Jug_Sale": "MATHIAS ALEXANDER MONTIEL",
+   "CarneEntra": "66297",
+   "Jug_Entra": "CRISTIAN VELOZ",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55825",
+   "Jug_Sale": "NAHUEL MANZANARES",
+   "CarneEntra": "67839",
+   "Jug_Entra": "KEVIN IGNACIO BRUSCIANO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56541",
+   "Jug_Sale": "JUAN MANUEL TRUJILLO",
+   "CarneEntra": "51485",
+   "Jug_Entra": "BRUNO ALBORNOZ",
+   "camiseta": "30",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63828",
+   "Jug_Sale": "MAXIMILIANO LOPEZ",
+   "CarneEntra": "49170",
+   "Jug_Entra": "BRUNO EMILIANO BERMUDEZ",
+   "camiseta": "28",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "54542",
+   "Jug_Sale": "FACUNDO PEREYRA",
+   "CarneEntra": "65783",
+   "Jug_Entra": "BRUNO IGNACIO ALVAREZ",
+   "camiseta": "18",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "66094",
+   "Jug_Sale": "SANTIAGO JOEL MACHADO",
+   "CarneEntra": "63677",
+   "Jug_Entra": "IAN MAXIMILIANO POLERO",
+   "camiseta": "10",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60235",
+   "Jug_Sale": "FEDERICO JOSE GONZALEZ",
+   "CarneEntra": "56585",
+   "Jug_Entra": "TADEO IBAÑEZ",
+   "camiseta": "17",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "59917",
+   "Jug_Sale": "LUCAS BALTAZAR GARCIA",
+   "CarneEntra": "55308",
+   "Jug_Entra": "JUAN MARTIN MALDONADO",
+   "camiseta": "15",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "56583",
+   "Jug_Sale": "MARCOS ARRASPIDE",
+   "CarneEntra": "45708",
+   "Jug_Entra": "GUILLERMO ANDREOLI",
+   "camiseta": "63",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "61865",
+   "Jug_Sale": "NAZARENO PINTOS",
+   "CarneEntra": "67264",
+   "Jug_Entra": "IGNACIO KWAME MACHADO",
+   "camiseta": "51",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51485",
+   "Nombre": "BRUNO ALBORNOZ",
+   "minutos": "73",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "43967",
+   "Nombre": "ENZO JAVIER CEDRES",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61865",
+   "Nombre": "NAZARENO PINTOS",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61865",
+   "Nombre": "NAZARENO PINTOS",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

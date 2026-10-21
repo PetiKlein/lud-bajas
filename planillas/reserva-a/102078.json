@@ -1,0 +1,241 @@
+{
+ "id": "102078",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "CEIBOS CLUB",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "110",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-09-19 11:00:00",
+  "Fecha_fin": "2026-09-19 11:00:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "CEIBOS CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "48273",
+   "Nombre": "SORIA PALLERO DIEGO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55602",
+   "Nombre": "CAETANO MARRONE",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "52811",
+   "Nombre": "FELIPE PERLA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "49491",
+   "Nombre": "PEDRO GALLO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "51151",
+   "Nombre": "SANTIAGO MOREIRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48896",
+   "Nombre": "FACUNDO ALPUIN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53017",
+   "Nombre": "ALFONSO GIMENEZ",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53926",
+   "Nombre": "JUAN MARTIN CABRERA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "41605",
+   "Nombre": "NICOLAS MURO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "43274",
+   "Nombre": "RAFAEL MONESTIER",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "41897",
+   "Nombre": "IGNACIO CABRERA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54407",
+   "Nombre": "FRANCISCO ETCHEGOIMBERRY",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53505",
+   "Nombre": "SANTIAGO LOPEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "41411",
+   "Nombre": "JOAQUIN ALEJANDRO GOMEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46925",
+   "Nombre": "ATILIO FRANCISCO NARANCIO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23902",
+   "Nombre": "ENRIQUE MARTIN BOIX",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51136",
+   "Nombre": "JOAQUIN NARANCIO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51151",
+   "Jug_Sale": "SANTIAGO MOREIRA",
+   "CarneEntra": "53612",
+   "Jug_Entra": "TOMAS BRANDO",
+   "camiseta": "95",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "52811",
+   "Jug_Sale": "FELIPE PERLA",
+   "CarneEntra": "48838",
+   "Jug_Entra": "BRUNO GRAJALES",
+   "camiseta": "27",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "53612",
+   "Jug_Sale": "TOMAS BRANDO",
+   "CarneEntra": "46886",
+   "Jug_Entra": "FEDERICO BOCCARDO",
+   "camiseta": "80",
+   "minutos": "68"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54407",
+   "Jug_Sale": "FRANCISCO ETCHEGOIMBERRY",
+   "CarneEntra": "41651",
+   "Jug_Entra": "JOSE MIGUEL MARTIRENA",
+   "camiseta": "3",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "41411",
+   "Jug_Sale": "JOAQUIN ALEJANDRO GOMEZ",
+   "CarneEntra": "50878",
+   "Jug_Entra": "JOAQUIN PORTEIRO",
+   "camiseta": "6",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "51136",
+   "Jug_Sale": "JOAQUIN NARANCIO",
+   "CarneEntra": "58393",
+   "Jug_Entra": "MANUEL ECHEVARRIA",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "23902",
+   "Jug_Sale": "ENRIQUE MARTIN BOIX",
+   "CarneEntra": "41411",
+   "Jug_Entra": "JOAQUIN ALEJANDRO GOMEZ",
+   "camiseta": "5",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "THIAGO MORLAN",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

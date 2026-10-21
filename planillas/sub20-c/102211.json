@@ -1,0 +1,252 @@
+{
+ "id": "102211",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 15:30:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "PALLOTTI UNIVERSITARIO",
+ "visitante": "MONTEVIDEO COLLEGE",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "350",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-09-19 17:30:00",
+  "Fecha_fin": "2026-09-19 17:30:00",
+  "Locatario": "PALLOTTI UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "MONTEVIDEO COLLEGE",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67694",
+   "Nombre": "EMILIANO ISMAEL PEREZ",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "68654",
+   "Nombre": "FEDERICO LORENZO Y LOSADA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67704",
+   "Nombre": "RICHARD GERMAN RIBEIROS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67708",
+   "Nombre": "ALEJO MANEIRO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67696",
+   "Nombre": "JUAN MARTIN BANIZI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "69099",
+   "Nombre": "MANUEL CALVO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "69098",
+   "Nombre": "LUIS ALEJANDRO ROJO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67707",
+   "Nombre": "LUCAS THIAGO RODRIGUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58096",
+   "Nombre": "SANTIAGO LUNGO",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67709",
+   "Nombre": "SANTIAGO SOUZA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66348",
+   "Nombre": "FELIPE DE BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66401",
+   "Nombre": "FACUNDO SUAREZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "59185",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64410",
+   "Nombre": "JUAN ANTONIO QUINTAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67433",
+   "Nombre": "IGNACIO STANHAM",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58567",
+   "Nombre": "NAHUEL DAVID REBELLO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62874",
+   "Nombre": "JUAN MANUEL CARBONE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64761",
+   "Nombre": "MATIAS NICOLAS DARRE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "63442",
+   "Nombre": "MATEO FONT",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68560",
+   "Nombre": "FELIPE MINO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66402",
+   "Nombre": "ANTONY DANIEL CARDOZO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67708",
+   "Jug_Sale": "ALEJO MANEIRO",
+   "CarneEntra": "68288",
+   "Jug_Entra": "GABRIEL SEGOVIA",
+   "camiseta": "71",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "67709",
+   "Jug_Sale": "SANTIAGO SOUZA",
+   "CarneEntra": "58351",
+   "Jug_Entra": "JOAQUIN PAREDES",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67696",
+   "Jug_Sale": "JUAN MARTIN BANIZI",
+   "CarneEntra": "67708",
+   "Jug_Entra": "ALEJO MANEIRO",
+   "camiseta": "27",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64761",
+   "Jug_Sale": "MATIAS NICOLAS DARRE",
+   "CarneEntra": "66020",
+   "Jug_Entra": "FACUNDO DOMINGUEZ",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62874",
+   "Jug_Sale": "JUAN MANUEL CARBONE",
+   "CarneEntra": "60187",
+   "Jug_Entra": "JUAN MANUEL NEBEL",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68560",
+   "Jug_Sale": "FELIPE MINO",
+   "CarneEntra": "60227",
+   "Jug_Entra": "FRANCISCO LUCIO DUPONT",
+   "camiseta": "27",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "63442",
+   "Jug_Sale": "MATEO FONT",
+   "CarneEntra": "62874",
+   "Jug_Entra": "JUAN MANUEL CARBONE",
+   "camiseta": "8",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "66402",
+   "Jug_Sale": "ANTONY DANIEL CARDOZO",
+   "CarneEntra": "61535",
+   "Jug_Entra": "MANUEL TARANTO",
+   "camiseta": "2",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "66402",
+   "Nombre": "ANTONY DANIEL CARDOZO",
+   "minutos": "27",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MATEO FONT",
+   "observaciones": ""
+  }
+ ]
+}

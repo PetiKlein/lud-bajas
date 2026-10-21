@@ -1,0 +1,297 @@
+{
+ "id": "101658",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 2,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "CLUB ATLETICO LIMBURGO",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "564",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-09-05 10:55:00",
+  "Fecha_fin": "2026-09-05 10:55:00",
+  "Locatario": "CLUB ATLETICO LIMBURGO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67006",
+   "Nombre": "LUIS ANTHONY CENTENO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31775",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62033",
+   "Nombre": "SANTIAGO SUEIRO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "51238",
+   "Nombre": "MATIAS BELLINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "50881",
+   "Nombre": "THOMAS JESKE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "40189",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53151",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "46385",
+   "Nombre": "FERNANDO EMANUEL FAGALDES",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "47345",
+   "Nombre": "JOAQUIN GABRIEL VARELA",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "59742",
+   "Nombre": "MATEO JOSE ONETTO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "68905",
+   "Nombre": "MATEO IGUINI",
+   "camiseta": "88",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49279",
+   "Nombre": "MATEO PATRONE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57343",
+   "Nombre": "FEDERICO PELUFFO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "54722",
+   "Nombre": "LUCAS SCAFARELLI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67387",
+   "Nombre": "GONZALO ESTEVES",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "56035",
+   "Nombre": "LUIS CARLOS PADRON",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "52402",
+   "Nombre": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "52808",
+   "Nombre": "SEBASTIAN USHER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "45778",
+   "Nombre": "SANTIAGO BARBEITO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62033",
+   "Jug_Sale": "SANTIAGO SUEIRO",
+   "CarneEntra": "56404",
+   "Jug_Entra": "THIAGO NICOLAS MORADO",
+   "camiseta": "22",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "50881",
+   "Jug_Sale": "THOMAS JESKE",
+   "CarneEntra": "53417",
+   "Jug_Entra": "MARCOS FERNANDEZ",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47345",
+   "Jug_Sale": "JOAQUIN GABRIEL VARELA",
+   "CarneEntra": "62430",
+   "Jug_Entra": "ALEJO MARTIN FONT",
+   "camiseta": "30",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "40189",
+   "Jug_Sale": "FEDERICO PEREZ",
+   "CarneEntra": "56504",
+   "Jug_Entra": "THIAGO PELLEGRINO",
+   "camiseta": "21",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "53151",
+   "Jug_Sale": "DIEGO RODRIGUEZ",
+   "CarneEntra": "67009",
+   "Jug_Entra": "MATIAS EDUARDO SANCHEZ",
+   "camiseta": "2",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67387",
+   "Jug_Sale": "GONZALO ESTEVES",
+   "CarneEntra": "58665",
+   "Jug_Entra": "TOMAS ALGORTA",
+   "camiseta": "33",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "52808",
+   "Jug_Sale": "SEBASTIAN USHER",
+   "CarneEntra": "57035",
+   "Jug_Entra": "FELIPE MONTAÑES",
+   "camiseta": "41",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "52184",
+   "Jug_Sale": "DIEGO GIBERT",
+   "CarneEntra": "45931",
+   "Jug_Entra": "MATEO DI MARCO",
+   "camiseta": "15",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "52402",
+   "Jug_Sale": "PEDRO SCHELOTTO",
+   "CarneEntra": "49636",
+   "Jug_Entra": "AGUSTIN ALGORTA",
+   "camiseta": "80",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "49279",
+   "Jug_Sale": "MATEO PATRONE",
+   "CarneEntra": "64740",
+   "Jug_Entra": "EMILIANO VANZINI",
+   "camiseta": "11",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "45778",
+   "Jug_Sale": "SANTIAGO BARBEITO",
+   "CarneEntra": "53267",
+   "Jug_Entra": "MAXIMO TORNONI",
+   "camiseta": "66",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "43337",
+   "Jug_Sale": "JUAN MANUEL URTIAGA",
+   "CarneEntra": "53171",
+   "Jug_Entra": "FRANCISCO ACUÑA",
+   "camiseta": "44",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "49279",
+   "Nombre": "MATEO PATRONE",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56035",
+   "Nombre": "LUIS CARLOS PADRON",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56035",
+   "Nombre": "LUIS CARLOS PADRON",
+   "minutos": "83",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67387",
+   "Nombre": "GONZALO ESTEVES",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

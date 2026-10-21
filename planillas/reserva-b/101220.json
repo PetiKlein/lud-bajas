@@ -1,0 +1,247 @@
+{
+ "id": "101220",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "LA MENNAIS",
+ "local": "J.M.L.M",
+ "visitante": "OLD IVY",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "149",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "LA MENNAIS",
+  "Fecha_Inicio": "2026-08-29 13:20:00",
+  "Fecha_fin": "2026-08-29 13:20:00",
+  "Locatario": "J.M.L.M",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "OLD IVY",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41531",
+   "Nombre": "JOAQUIN BELTRAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53105",
+   "Nombre": "FELIPE FRIGERIO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "49895",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53190",
+   "Nombre": "SANTINO CARASSALE",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "47534",
+   "Nombre": "SANTIAGO FLEGINSKY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49924",
+   "Nombre": "FELIPE BAYARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49501",
+   "Nombre": "TOMAS PARPAL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "53189",
+   "Nombre": "FEDERICO VIDAL",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53177",
+   "Nombre": "MANUEL BAYARDO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53376",
+   "Nombre": "GUILLERMO WILSON",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51589",
+   "Nombre": "LUCAS TROVO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53709",
+   "Nombre": "VARTAN TCHEKMEDYIAN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54763",
+   "Nombre": "JUAN BAUTISTA CROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "66390",
+   "Nombre": "JOAQUIN SANTINO FERNANDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "37327",
+   "Nombre": "FEDERICO DIEGO BAUZA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "37262",
+   "Nombre": "FRANCISCO VILLARONGA",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "42664",
+   "Nombre": "LUIS EDUARDO TOPOLANSKY",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54916",
+   "Nombre": "FELIPE VILLARONGA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "56372",
+   "Nombre": "ALFONSO CARDELINO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "41720",
+   "Nombre": "MATIAS MENGOT",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "34996",
+   "Nombre": "GASTON VAREIKA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49924",
+   "Jug_Sale": "FELIPE BAYARDO",
+   "CarneEntra": "53104",
+   "Jug_Entra": "FRANCO MESSANO",
+   "camiseta": "42",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53189",
+   "Jug_Sale": "FEDERICO VIDAL",
+   "CarneEntra": "53184",
+   "Jug_Entra": "DIEGO DOMINGUEZ",
+   "camiseta": "25",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "47534",
+   "Jug_Sale": "SANTIAGO FLEGINSKY",
+   "CarneEntra": "46352",
+   "Jug_Entra": "JUAN PABLO COZZO",
+   "camiseta": "8",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "53177",
+   "Jug_Sale": "MANUEL BAYARDO",
+   "CarneEntra": "46923",
+   "Jug_Entra": "MATEO PARPAL",
+   "camiseta": "23",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "53376",
+   "Jug_Sale": "GUILLERMO WILSON",
+   "CarneEntra": "52806",
+   "Jug_Entra": "SANTIAGO LUIS",
+   "camiseta": "25",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54763",
+   "Jug_Sale": "JUAN BAUTISTA CROSA",
+   "CarneEntra": "39134",
+   "Jug_Entra": "MATIAS ORSI",
+   "camiseta": "19",
+   "minutos": "8"
+  },
+  {
+   "CarneSale": "54916",
+   "Jug_Sale": "FELIPE VILLARONGA",
+   "CarneEntra": "62015",
+   "Jug_Entra": "GASTON BARRIOS",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "37262",
+   "Jug_Sale": "FRANCISCO VILLARONGA",
+   "CarneEntra": "52937",
+   "Jug_Entra": "IGNACIO GARCIA",
+   "camiseta": "25",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53184",
+   "Nombre": "DIEGO DOMINGUEZ",
+   "minutos": "93",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

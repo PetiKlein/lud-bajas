@@ -1,0 +1,272 @@
+{
+ "id": "98458",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "TENIS EL PINAR",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "21",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-04-25 13:10:00",
+  "Fecha_fin": "2026-04-25 13:10:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49084",
+   "Nombre": "GIULIANO CARDOZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41007",
+   "Nombre": "GERARDO SACCO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "39903",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "36474",
+   "Nombre": "FEDERICO ILAN ISRAEL",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "48917",
+   "Nombre": "FRANCISCO ALGORTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "39086",
+   "Nombre": "MATHIAS GASTON CASTIÑEIRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "44291",
+   "Nombre": "IGNACIO GEISINGER",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "49620",
+   "Nombre": "ALEJO ZEFFERINO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "47761",
+   "Nombre": "JUAN IGNACIO POTRIE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "41534",
+   "Nombre": "DIEGO NICOLAS CHIJANE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48653",
+   "Nombre": "MATIAS  BERNARDO VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49076",
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "46834",
+   "Nombre": "FRANCO MOITIÑO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "50666",
+   "Nombre": "FACUNDO LAGO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58654",
+   "Nombre": "MATIAS NICOLAS BARRIOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48654",
+   "Nombre": "JUAN PABLO LOCATELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54831",
+   "Nombre": "JOAQUÌN GOLDARACENA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48917",
+   "Jug_Sale": "FRANCISCO ALGORTA",
+   "CarneEntra": "47764",
+   "Jug_Entra": "BRUNO ZEFFERINO",
+   "camiseta": "34",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "36474",
+   "Jug_Sale": "FEDERICO ILAN ISRAEL",
+   "CarneEntra": "52186",
+   "Jug_Entra": "BRUNO MATIAS BIGNOLI",
+   "camiseta": "35",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "49620",
+   "Jug_Sale": "ALEJO ZEFFERINO",
+   "CarneEntra": "53032",
+   "Jug_Entra": "FACUNDO AGUSTIN GOLOUBINTSEFF",
+   "camiseta": "30",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48654",
+   "Jug_Sale": "JUAN PABLO LOCATELLI",
+   "CarneEntra": "46830",
+   "Jug_Entra": "JULIAN NESTOR MUHA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46834",
+   "Jug_Sale": "FRANCO MOITIÑO",
+   "CarneEntra": "52631",
+   "Jug_Entra": "SANTIAGO DANILO TARDEO",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58654",
+   "Jug_Sale": "MATIAS NICOLAS BARRIOS",
+   "CarneEntra": "64786",
+   "Jug_Entra": "THIAGO  DANILO SOUTO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48653",
+   "Jug_Sale": "MATIAS  BERNARDO VAZQUEZ",
+   "CarneEntra": "46848",
+   "Jug_Entra": "FACUNDO BERGARA",
+   "camiseta": "31",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "48796",
+   "Jug_Sale": "MARTIN JAVIER DIAZ",
+   "CarneEntra": "48657",
+   "Jug_Entra": "BRUNO CABRERA",
+   "camiseta": "25",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "44291",
+   "Nombre": "IGNACIO GEISINGER",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49620",
+   "Nombre": "ALEJO ZEFFERINO",
+   "minutos": "4",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49620",
+   "Nombre": "ALEJO ZEFFERINO",
+   "minutos": "31",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "minutos": "34",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54831",
+   "Nombre": "JOAQUÌN GOLDARACENA",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

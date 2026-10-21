@@ -1,0 +1,258 @@
+{
+ "id": "101021",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "INDEPENDIENTE",
+ "visitante": "HEBRAICA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "238",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-08-15 13:00:00",
+  "Fecha_fin": "2026-08-15 13:00:00",
+  "Locatario": "INDEPENDIENTE",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "HEBRAICA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61237",
+   "Nombre": "JOAQUIN HAYMES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35552",
+   "Nombre": "JORGE MATIAS AMATO",
+   "camiseta": "46",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59998",
+   "Nombre": "BRAHUDER LEONEL ALARCON",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "42893",
+   "Nombre": "GABRIEL PEREYRA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "42358",
+   "Nombre": "FABIO ENRIQUED DA COSTA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65734",
+   "Nombre": "SANTIAGO FLORETTA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "58160",
+   "Nombre": "BRANDON FARIAS",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "42394",
+   "Nombre": "MARTINHO GABRIEL DA COSTA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "45742",
+   "Nombre": "NEHUEN EZEQUIEL BONIFAZI",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "48747",
+   "Nombre": "MATIAS DAVID LUKSENBURG",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54690",
+   "Nombre": "SANTIAGO SISIASVILI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "45511",
+   "Nombre": "LUCAS LEVIN",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "37317",
+   "Nombre": "MAURICIO WAITER",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "52041",
+   "Nombre": "AGUSTIN OLDAK",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "54753",
+   "Nombre": "JOAQUIN BANEWUR",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "43038",
+   "Nombre": "DIEGO MIODOWNIK",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42358",
+   "Jug_Sale": "FABIO ENRIQUED DA COSTA",
+   "CarneEntra": "48270",
+   "Jug_Entra": "FRANCO MARTIN SANTORO",
+   "camiseta": "17",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "58160",
+   "Jug_Sale": "BRANDON FARIAS",
+   "CarneEntra": "62653",
+   "Jug_Entra": "MATEO DIAZ",
+   "camiseta": "99",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "42394",
+   "Jug_Sale": "MARTINHO GABRIEL DA COSTA",
+   "CarneEntra": "45728",
+   "Jug_Entra": "DIEGO REY",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61237",
+   "Jug_Sale": "JOAQUIN HAYMES",
+   "CarneEntra": "34311",
+   "Jug_Entra": "SEBASTIAN GONZALEZ",
+   "camiseta": "13",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54753",
+   "Jug_Sale": "JOAQUIN BANEWUR",
+   "CarneEntra": "53835",
+   "Jug_Entra": "MATEO NAHMIAS",
+   "camiseta": "11",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "43038",
+   "Jug_Sale": "DIEGO MIODOWNIK",
+   "CarneEntra": "48732",
+   "Jug_Entra": "ILAN CAMONA",
+   "camiseta": "10",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "54690",
+   "Jug_Sale": "SANTIAGO SISIASVILI",
+   "CarneEntra": "52405",
+   "Jug_Entra": "ARIEL SUHAMI",
+   "camiseta": "71",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56384",
+   "Jug_Sale": "MATIAS SZAFRAN",
+   "CarneEntra": "47421",
+   "Jug_Entra": "NICOLAS JAKOB",
+   "camiseta": "77",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "minutos": "36",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MATIAS DAVID LUKSENBURG",
+   "observaciones": ""
+  }
+ ]
+}

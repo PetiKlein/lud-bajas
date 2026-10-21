@@ -1,0 +1,285 @@
+{
+ "id": "102518",
+ "categoria": "mayores-d",
+ "serie": "DTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-04 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MOSSENS",
+ "visitante": "CLUB ATLETICO LIMBURGO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "1015",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-04 13:05:00",
+  "Fecha_fin": "2026-10-04 13:05:00",
+  "Locatario": "MOSSENS",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ATLETICO LIMBURGO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35012",
+   "Nombre": "FELIPE BRUSCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67204",
+   "Nombre": "ESTEBAN NAVARRO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "41982",
+   "Nombre": "JUAN DIEGO FIANDRA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58126",
+   "Nombre": "VALENTINO BERTINAT",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62278",
+   "Nombre": "DANIEL BALPARDA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68738",
+   "Nombre": "SANTIAGO ANDRES CURBELO",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "41177",
+   "Nombre": "GONZALO MUÑOZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "39331",
+   "Nombre": "FELIPE OMAR GOYENOLA",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "41293",
+   "Nombre": "GERONIMO MARTIN BARERA",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59607",
+   "Nombre": "LUCAS CABRAL",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "69217",
+   "Nombre": "JOAQUIN DAVILA",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51640",
+   "Nombre": "FRANCO LOMBARDI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "45008",
+   "Nombre": "GASTON ANTUNEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "48327",
+   "Nombre": "BRUNO MARCELO BASCIALLA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "45770",
+   "Nombre": "IVAN NICOLAI BOWTUN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "36388",
+   "Nombre": "GUZMAN ALEJANDRO PEREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "41152",
+   "Nombre": "TOMAS PAPARIELLO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52642",
+   "Nombre": "TOMAS MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "43194",
+   "Nombre": "LUCAS MARTINEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47290",
+   "Nombre": "GERMAN BENITEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "27124",
+   "Nombre": "SEBASTIAN PEREZ",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45372",
+   "Nombre": "DAVID ROBIDO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41177",
+   "Jug_Sale": "GONZALO MUÑOZ",
+   "CarneEntra": "37216",
+   "Jug_Entra": "FRANCISCO VALLES",
+   "camiseta": "72",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39331",
+   "Jug_Sale": "FELIPE OMAR GOYENOLA",
+   "CarneEntra": "45689",
+   "Jug_Entra": "NICOLÀS VALLES",
+   "camiseta": "9",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58126",
+   "Jug_Sale": "VALENTINO BERTINAT",
+   "CarneEntra": "49437",
+   "Jug_Entra": "JOAQUIN NICOLAS GARAY",
+   "camiseta": "18",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "59607",
+   "Jug_Sale": "LUCAS CABRAL",
+   "CarneEntra": "55024",
+   "Jug_Entra": "DIEGO IGNACIO LOZANO",
+   "camiseta": "28",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "69217",
+   "Jug_Sale": "JOAQUIN DAVILA",
+   "CarneEntra": "58029",
+   "Jug_Entra": "GUILLERMO LAVISTA",
+   "camiseta": "29",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48327",
+   "Jug_Sale": "BRUNO MARCELO BASCIALLA",
+   "CarneEntra": "45386",
+   "Jug_Entra": "TOMAS BETTANIN",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47290",
+   "Jug_Sale": "GERMAN BENITEZ",
+   "CarneEntra": "48955",
+   "Jug_Entra": "IGNACIO LOPEZ",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43194",
+   "Jug_Sale": "LUCAS MARTINEZ",
+   "CarneEntra": "35286",
+   "Jug_Entra": "NICOLAS CRAVIOTTO",
+   "camiseta": "16",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "45372",
+   "Jug_Sale": "DAVID ROBIDO",
+   "CarneEntra": "46385",
+   "Jug_Entra": "FERNANDO EMANUEL FAGALDES",
+   "camiseta": "33",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "41152",
+   "Jug_Sale": "TOMAS PAPARIELLO",
+   "CarneEntra": "45209",
+   "Jug_Entra": "JUAN MARTIN SUEIRO",
+   "camiseta": "21",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "36388",
+   "Jug_Sale": "GUZMAN ALEJANDRO PEREIRA",
+   "CarneEntra": "62033",
+   "Jug_Entra": "SANTIAGO SUEIRO",
+   "camiseta": "20",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "27124",
+   "Jug_Sale": "SEBASTIAN PEREZ",
+   "CarneEntra": "40634",
+   "Jug_Entra": "JUAN MANUEL MONTERO",
+   "camiseta": "11",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "27124",
+   "Nombre": "SEBASTIAN PEREZ",
+   "minutos": "77",
+   "EnContra": "1"
+  },
+  {
+   "carne": "41152",
+   "Nombre": "TOMAS PAPARIELLO",
+   "minutos": "14",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

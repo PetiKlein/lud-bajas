@@ -1,0 +1,326 @@
+{
+ "id": "100488",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:20:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "TAPE",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "84",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-27 00:00:00",
+  "Fecha_fin": "2026-06-27 00:00:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "TAPE",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41778",
+   "Nombre": "NICOLAS MACCIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54783",
+   "Nombre": "MARTIN SEBASTIAN GONZALEZ",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "64055",
+   "Nombre": "LAUTHARO MANUEL GUGLIELMONE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "53121",
+   "Nombre": "ANDRES RUGGIERO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "53130",
+   "Nombre": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63343",
+   "Nombre": "LORENZO VERON",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "45854",
+   "Nombre": "JULIAN VELAZQUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "61079",
+   "Nombre": "JUAN PABLO ZUBILLAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58943",
+   "Nombre": "MATIAS DIEGO MENDEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45549",
+   "Nombre": "JOSE FACUNDO FONSECA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37326",
+   "Nombre": "JUAN INCIARTE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "56347",
+   "Nombre": "JUAN SANTANNA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65015",
+   "Nombre": "VALENTIN BISIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53801",
+   "Nombre": "JUAN MANUEL VILDOZOLA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "49165",
+   "Nombre": "GUILLERMO PONS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "45426",
+   "Nombre": "JOAQUIN IGNACIO TAFERNABERRY",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55777",
+   "Nombre": "LEANDRO MARCELO ERLE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65008",
+   "Nombre": "JUAN DIEGO JACQUES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54540",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "31774",
+   "Nombre": "MARTIN INCIARTE",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54783",
+   "Jug_Sale": "MARTIN SEBASTIAN GONZALEZ",
+   "CarneEntra": "52561",
+   "Jug_Entra": "IGNACIO CURRAIS",
+   "camiseta": "11",
+   "minutos": "47"
+  },
+  {
+   "CarneSale": "63343",
+   "Jug_Sale": "LORENZO VERON",
+   "CarneEntra": "45424",
+   "Jug_Entra": "ANDRES VALLARINO",
+   "camiseta": "8",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "48803",
+   "Jug_Sale": "MATIAS REVELLO",
+   "CarneEntra": "66798",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "68",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58943",
+   "Jug_Sale": "MATIAS DIEGO MENDEZ",
+   "CarneEntra": "41609",
+   "Jug_Entra": "FACUNDO VILLAR",
+   "camiseta": "22",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "45854",
+   "Jug_Sale": "JULIAN VELAZQUEZ",
+   "CarneEntra": "37903",
+   "Jug_Entra": "MATEO MUJICA",
+   "camiseta": "6",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "61079",
+   "Jug_Sale": "JUAN PABLO ZUBILLAGA",
+   "CarneEntra": "43136",
+   "Jug_Entra": "GABRIEL JOAQUIN SUAREZ",
+   "camiseta": "30",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "53130",
+   "Jug_Sale": "JUAN IGNACIO AISCAR",
+   "CarneEntra": "66795",
+   "Jug_Entra": "GERMAN MUJICA",
+   "camiseta": "27",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56347",
+   "Jug_Sale": "JUAN SANTANNA",
+   "CarneEntra": "66853",
+   "Jug_Entra": "MARCELO JAVIER RUIZ",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65015",
+   "Jug_Sale": "VALENTIN BISIO",
+   "CarneEntra": "66854",
+   "Jug_Entra": "AMADEO MOMBRU",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31774",
+   "Jug_Sale": "MARTIN INCIARTE",
+   "CarneEntra": "35226",
+   "Jug_Entra": "JUAN MANUEL STRAUCH",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65008",
+   "Jug_Sale": "JUAN DIEGO JACQUES",
+   "CarneEntra": "58314",
+   "Jug_Entra": "JOAQUIN MENESES",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54540",
+   "Jug_Sale": "JOAQUIN RODRIGUEZ",
+   "CarneEntra": "62245",
+   "Jug_Entra": "GONZALO VILLALBA",
+   "camiseta": "28",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "37326",
+   "Jug_Sale": "JUAN INCIARTE",
+   "CarneEntra": "59645",
+   "Jug_Entra": "LUCAS BESOZZI",
+   "camiseta": "13",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "53801",
+   "Jug_Sale": "JUAN MANUEL VILDOZOLA",
+   "CarneEntra": "59865",
+   "Jug_Entra": "MAXIMO PISANO",
+   "camiseta": "14",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61079",
+   "Nombre": "JUAN PABLO ZUBILLAGA",
+   "minutos": "8",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55777",
+   "Nombre": "LEANDRO MARCELO ERLE",
+   "minutos": "84",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66853",
+   "Nombre": "MARCELO JAVIER RUIZ",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

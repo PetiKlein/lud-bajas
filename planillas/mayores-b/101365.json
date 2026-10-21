@@ -1,0 +1,289 @@
+{
+ "id": "101365",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 4,
+ "fechaHora": "2026-08-30 11:15:00",
+ "cancha": "CITY PARK",
+ "local": "CITY PARK",
+ "visitante": "CLUB UNIVERSIDAD CATOLICA",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "150",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "CITY PARK",
+  "Fecha_Inicio": "2026-08-30 13:10:00",
+  "Fecha_fin": "2026-08-30 13:10:00",
+  "Locatario": "CITY PARK",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "39513",
+   "Nombre": "AGUSTIN BETANCOR",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "42966",
+   "Nombre": "LEONARDO MARTIN SAMPEREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55443",
+   "Nombre": "AGUSTIN NICOLAS DE LOS SANTOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "40368",
+   "Nombre": "PEDRO COSTA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "33967",
+   "Nombre": "ANDRES YAFFE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "49901",
+   "Nombre": "LEANDRO JAVIER PEREZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "52463",
+   "Nombre": "FACUNDO ALZAIBAR",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "44229",
+   "Nombre": "MAURO DIDIER BORGES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "42702",
+   "Nombre": "JONATHAN NERY MARTINEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "30486",
+   "Nombre": "SANTIAGO IVAN DE FREITAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58113",
+   "Nombre": "BRUNO AGUSTIN ACOSTA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58893",
+   "Nombre": "LUCAS AGUSTIN RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62288",
+   "Nombre": "JOSE PEDRO ALCOBA",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "34600",
+   "Nombre": "STEFANO VITTORIO CAMAROTE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61896",
+   "Nombre": "MARTIN ARZAGUET",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39855",
+   "Nombre": "MARTIN CAMPOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "58413",
+   "Nombre": "GONZALO DUVOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64588",
+   "Nombre": "LUCAS MARTIN BARCELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "38087",
+   "Nombre": "MARIANO CORTIZAS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "34231",
+   "Nombre": "SEBASTIAN NICOLAS RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63107",
+   "Nombre": "MATEO NUÑEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40253",
+   "Nombre": "FACUNDO MARTINEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44229",
+   "Jug_Sale": "MAURO DIDIER BORGES",
+   "CarneEntra": "45544",
+   "Jug_Entra": "SANTIAGO LOPEZ",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "49901",
+   "Jug_Sale": "LEANDRO JAVIER PEREZ",
+   "CarneEntra": "37305",
+   "Jug_Entra": "LUCAS FIGUEROA",
+   "camiseta": "32",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "58113",
+   "Jug_Sale": "BRUNO AGUSTIN ACOSTA",
+   "CarneEntra": "32802",
+   "Jug_Entra": "SANTIAGO FUENTES",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "52463",
+   "Jug_Sale": "FACUNDO ALZAIBAR",
+   "CarneEntra": "42749",
+   "Jug_Entra": "LUCAS BAEZ",
+   "camiseta": "23",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "30486",
+   "Jug_Sale": "SANTIAGO IVAN DE FREITAS",
+   "CarneEntra": "38481",
+   "Jug_Entra": "AGUSTIN MATEO RUIZ",
+   "camiseta": "8",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "42702",
+   "Jug_Sale": "JONATHAN NERY MARTINEZ",
+   "CarneEntra": "64485",
+   "Jug_Entra": "ALEX NAHUEL ABALO",
+   "camiseta": "29",
+   "minutos": "91"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "38087",
+   "Jug_Sale": "MARIANO CORTIZAS",
+   "CarneEntra": "68594",
+   "Jug_Entra": "JEREMIAS NICOLAS SALGADO",
+   "camiseta": "26",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "62288",
+   "Jug_Sale": "JOSE PEDRO ALCOBA",
+   "CarneEntra": "53606",
+   "Jug_Entra": "GUILLERMO ANDRES REBOLLO",
+   "camiseta": "21",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "58413",
+   "Jug_Sale": "GONZALO DUVOS",
+   "CarneEntra": "62289",
+   "Jug_Entra": "JEREMIAS RUIZ DIAZ",
+   "camiseta": "9",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "61896",
+   "Jug_Sale": "MARTIN ARZAGUET",
+   "CarneEntra": "32373",
+   "Jug_Entra": "AGUSTIN OLIVERI",
+   "camiseta": "30",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "64588",
+   "Jug_Sale": "LUCAS MARTIN BARCELO",
+   "CarneEntra": "45788",
+   "Jug_Entra": "NICOLAS ALEJANDRO MARTINEZ",
+   "camiseta": "8",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45544",
+   "Nombre": "SANTIAGO LOPEZ",
+   "minutos": "76",
+   "EnContra": "0"
+  },
+  {
+   "carne": "55443",
+   "Nombre": "AGUSTIN NICOLAS DE LOS SANTOS",
+   "minutos": "26",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63107",
+   "Nombre": "MATEO NUÑEZ",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MATEO NUÑEZ",
+   "observaciones": ""
+  }
+ ]
+}

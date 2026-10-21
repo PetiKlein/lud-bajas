@@ -1,0 +1,284 @@
+{
+ "id": "103074",
+ "categoria": "reserva-b",
+ "serie": "RSBPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-17 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "COLEGIO SANTA ELENA",
+ "visitante": "SAN JUAN BAUTISTA",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "704",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" PER. y DESC.",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-10-17 18:17:00",
+  "Fecha_fin": "2026-10-17 18:17:00",
+  "Locatario": "COLEGIO SANTA ELENA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SAN JUAN BAUTISTA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49731",
+   "Nombre": "IVAN ERBURO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50889",
+   "Nombre": "IGNACIO VIÑAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "34051",
+   "Nombre": "DANIEL MATIAS CASTRO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "32390",
+   "Nombre": "JUAN PABLO HERRERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62652",
+   "Nombre": "NAHUEL SILVA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "58170",
+   "Nombre": "EMILIANO NAHUEL PEREZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63617",
+   "Nombre": "JOAQUIN DOS SANTOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54884",
+   "Nombre": "NAHUEL LOPEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56435",
+   "Nombre": "AGUSTIN CAMPODONICO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49174",
+   "Nombre": "EMILIANO MATIAS PACIELLO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "54752",
+   "Nombre": "EMILIANO FRANCISCO MORALES",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61816",
+   "Nombre": "MATEO RAFAEL BRANAA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53738",
+   "Nombre": "DIEGO ZIMMERMAN",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "41837",
+   "Nombre": "FRANCISCO DOMINGO COSCO",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51554",
+   "Nombre": "FELIPE OURTHE-CABALE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "55134",
+   "Nombre": "NICOLAS COSTANTE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55155",
+   "Nombre": "MATIAS DURAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "50725",
+   "Nombre": "JUAN IGNACIO ROSSI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50627",
+   "Nombre": "VICENTE MARTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55539",
+   "Nombre": "JUAN ANDRES FERREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54936",
+   "Nombre": "CARLOS PEDRO MENDIVE",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "44167",
+   "Nombre": "FEDERICO ERNESTO CHIESA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49174",
+   "Jug_Sale": "EMILIANO MATIAS PACIELLO",
+   "CarneEntra": "57202",
+   "Jug_Entra": "JUAN DIEGO VARELA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58170",
+   "Jug_Sale": "EMILIANO NAHUEL PEREZ",
+   "CarneEntra": "32328",
+   "Jug_Entra": "PEDRO NICOLAS HERRERO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62652",
+   "Jug_Sale": "NAHUEL SILVA",
+   "CarneEntra": "63710",
+   "Jug_Entra": "DIEGO ALEJANDRO RECARTE",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56435",
+   "Jug_Sale": "AGUSTIN CAMPODONICO",
+   "CarneEntra": "56715",
+   "Jug_Entra": "GERMAN MÜLLER",
+   "camiseta": "80",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63617",
+   "Jug_Sale": "JOAQUIN DOS SANTOS",
+   "CarneEntra": "49318",
+   "Jug_Entra": "FABRIZIO BEIROA",
+   "camiseta": "92",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "56715",
+   "Jug_Sale": "GERMAN MÜLLER",
+   "CarneEntra": "53403",
+   "Jug_Entra": "DIEGO FERNANDO AGUILERA",
+   "camiseta": "20",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "34051",
+   "Jug_Sale": "DANIEL MATIAS CASTRO",
+   "CarneEntra": "66258",
+   "Jug_Entra": "LEANDRO PEREZ",
+   "camiseta": "2",
+   "minutos": "92"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50725",
+   "Jug_Sale": "JUAN IGNACIO ROSSI",
+   "CarneEntra": "51058",
+   "Jug_Entra": "TADEO SOBA",
+   "camiseta": "81",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "54936",
+   "Jug_Sale": "CARLOS PEDRO MENDIVE",
+   "CarneEntra": "50624",
+   "Jug_Entra": "FACUNDO GALBARINI",
+   "camiseta": "79",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "55155",
+   "Jug_Sale": "MATIAS DURAN",
+   "CarneEntra": "52445",
+   "Jug_Entra": "CARLOS MIGUEL RIVERO",
+   "camiseta": "26",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "51554",
+   "Jug_Sale": "FELIPE OURTHE-CABALE",
+   "CarneEntra": "53852",
+   "Jug_Entra": "SANTIAGO JOSE MARTI",
+   "camiseta": "5",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54752",
+   "Nombre": "EMILIANO FRANCISCO MORALES",
+   "minutos": "67",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56435",
+   "Nombre": "AGUSTIN CAMPODONICO",
+   "minutos": "55",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55539",
+   "Nombre": "JUAN ANDRES FERREIRA",
+   "minutos": "1",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

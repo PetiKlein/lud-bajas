@@ -1,0 +1,259 @@
+{
+ "id": "98864",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 5,
+ "fechaHora": "2026-05-17 09:00:00",
+ "cancha": "CIUDAD DEPORTIVA ZONA LAB",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "A.E.B.U",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "273",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "CIUDAD DEPORTIVA ZONA LAB",
+  "Fecha_Inicio": "2026-05-17 11:00:00",
+  "Fecha_fin": "2026-05-17 11:00:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "A.E.B.U",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53288",
+   "Nombre": "MAIKOL JAVIER MIGLIACCIO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "40923",
+   "Nombre": "IGNACIO SILVA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "49538",
+   "Nombre": "NICOLAS FERREYRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50211",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "39455",
+   "Nombre": "CARLOS ANDRES DIAZ",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47181",
+   "Nombre": "SANTIAGO QUIROGA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53802",
+   "Nombre": "RODRIGO CUNEO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65595",
+   "Nombre": "EZEQUIEL ALEXANDRE ESCOBAR",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "47179",
+   "Nombre": "DIEGO HERNAN DELGADO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "37926",
+   "Nombre": "FRANCO NICOLAS CORROCHANO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "46986",
+   "Nombre": "RODRIGO BELSITO",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "48225",
+   "Nombre": "GERMAN CORREA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "60255",
+   "Nombre": "SANTIAGO AMORIN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51167",
+   "Nombre": "FRANCISCO MENDEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "43521",
+   "Nombre": "PABLO JOAQUIN COLINET",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "35508",
+   "Nombre": "AGUSTIN CORNU",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49181",
+   "Nombre": "MATEO URIBE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67657",
+   "Nombre": "ANDRES ADOLFO BANEGA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "59845",
+   "Nombre": "IGNACIOB SOSA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "37229",
+   "Nombre": "MATIAS JOSE RIESTRA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57314",
+   "Nombre": "IGNACIO CHOCHO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67656",
+   "Nombre": "GUILLERMO ALPUIN",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46986",
+   "Jug_Sale": "RODRIGO BELSITO",
+   "CarneEntra": "46909",
+   "Jug_Entra": "FEDERICO KARDJIAN",
+   "camiseta": "81",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37229",
+   "Jug_Sale": "MATIAS JOSE RIESTRA",
+   "CarneEntra": "68591",
+   "Jug_Entra": "FRANCO VERA",
+   "camiseta": "27",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "60255",
+   "Jug_Sale": "SANTIAGO AMORIN",
+   "CarneEntra": "37147",
+   "Jug_Entra": "SANTIAGO GOMEZ",
+   "camiseta": "19",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "51167",
+   "Jug_Sale": "FRANCISCO MENDEZ",
+   "CarneEntra": "57531",
+   "Jug_Entra": "MATEO DE LEON",
+   "camiseta": "21",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "49181",
+   "Jug_Sale": "MATEO URIBE",
+   "CarneEntra": "59844",
+   "Jug_Entra": "SANTIAGO TELLECHEA",
+   "camiseta": "3",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "67656",
+   "Jug_Sale": "GUILLERMO ALPUIN",
+   "CarneEntra": "22598",
+   "Jug_Entra": "CAMILO ANIBAL GUTIERREZ",
+   "camiseta": "10",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "43521",
+   "Jug_Sale": "PABLO JOAQUIN COLINET",
+   "CarneEntra": "51438",
+   "Jug_Entra": "FELIPE AMIASSORHO",
+   "camiseta": "28",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "57314",
+   "Jug_Sale": "IGNACIO CHOCHO",
+   "CarneEntra": "51005",
+   "Jug_Entra": "ALEKSY CHWASTEK",
+   "camiseta": "30",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47179",
+   "Nombre": "DIEGO HERNAN DELGADO",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47179",
+   "Nombre": "DIEGO HERNAN DELGADO",
+   "minutos": "92",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65595",
+   "Nombre": "EZEQUIEL ALEXANDRE ESCOBAR",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

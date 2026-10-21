@@ -1,0 +1,260 @@
+{
+ "id": "103023",
+ "categoria": "mayores-c",
+ "serie": "CTA",
+ "fecha": 4,
+ "fechaHora": "2026-10-18 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "COLEGIO Y LICEO INGLES",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "967",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"C\" TIT. y ASC.",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-18 11:00:00",
+  "Fecha_fin": "2026-10-18 11:00:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "COLEGIO Y LICEO INGLES",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44518",
+   "Nombre": "MATIAS DA ROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54634",
+   "Nombre": "SANTIAGO PORLEY",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63603",
+   "Nombre": "JOAQUIN VIDEGAIN",
+   "camiseta": "27",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41765",
+   "Nombre": "NICOLAS LABAT",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "48968",
+   "Nombre": "LUCAS ALONSO",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "54633",
+   "Nombre": "MATEO GARCIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "50431",
+   "Nombre": "RODRIGO PELETEIRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59289",
+   "Nombre": "VALENTIN HARETCHE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56633",
+   "Nombre": "GONZALO PINTADO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "41108",
+   "Nombre": "NICOLAS ALONSO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54807",
+   "Nombre": "BRUNO ZARZAY",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44112",
+   "Nombre": "FRANCO RUSSO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46109",
+   "Nombre": "JOAQUIN REBUFFO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45570",
+   "Nombre": "PEDRO MILAT",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49834",
+   "Nombre": "FEDERICO GALUSSO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "47631",
+   "Nombre": "MAURO GAMBETTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "46227",
+   "Nombre": "JOAQUIN MUÑOZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "56019",
+   "Nombre": "JUAN MANUEL BAZZINO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "39141",
+   "Nombre": "GASTON BURGHI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59398",
+   "Nombre": "ALFONSO IBARRA",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "47635",
+   "Nombre": "MATEO BURGHI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "45992",
+   "Nombre": "SANTIAGO CAUBARRERE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41108",
+   "Jug_Sale": "NICOLAS ALONSO",
+   "CarneEntra": "55870",
+   "Jug_Entra": "MAURO ORONA",
+   "camiseta": "13",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "56633",
+   "Jug_Sale": "GONZALO PINTADO",
+   "CarneEntra": "52597",
+   "Jug_Entra": "JOAQUIN ZABALETA",
+   "camiseta": "80",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "54807",
+   "Jug_Sale": "BRUNO ZARZAY",
+   "CarneEntra": "56778",
+   "Jug_Entra": "FRANCISCO GOMEZ",
+   "camiseta": "32",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44112",
+   "Jug_Sale": "FRANCO RUSSO",
+   "CarneEntra": "37150",
+   "Jug_Entra": "GERONIMO AGUSTIN KACHELE",
+   "camiseta": "12",
+   "minutos": "16"
+  },
+  {
+   "CarneSale": "46109",
+   "Jug_Sale": "JOAQUIN REBUFFO",
+   "CarneEntra": "53131",
+   "Jug_Entra": "JUAN CRUZ CAFFERATTA",
+   "camiseta": "19",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "47635",
+   "Jug_Sale": "MATEO BURGHI",
+   "CarneEntra": "49342",
+   "Jug_Entra": "MATEO JOAQUIN FERNANDEZ",
+   "camiseta": "44",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "47631",
+   "Jug_Sale": "MAURO GAMBETTA",
+   "CarneEntra": "39287",
+   "Jug_Entra": "NICOLAS MONTERO",
+   "camiseta": "20",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "46227",
+   "Jug_Sale": "JOAQUIN MUÑOZ",
+   "CarneEntra": "47635",
+   "Jug_Entra": "MATEO BURGHI",
+   "camiseta": "7",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "41108",
+   "Nombre": "NICOLAS ALONSO",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54807",
+   "Nombre": "BRUNO ZARZAY",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "39141",
+   "Nombre": "GASTON BURGHI",
+   "minutos": "13",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

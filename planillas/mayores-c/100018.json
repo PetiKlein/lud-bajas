@@ -1,0 +1,256 @@
+{
+ "id": "100018",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "COMPLEJO DEVOTO",
+ "local": "WANDERERS",
+ "visitante": "COLEGIO Y LICEO INGLES",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "308",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DEVOTO",
+  "Fecha_Inicio": "2026-06-14 10:55:00",
+  "Fecha_fin": "2026-06-14 10:55:00",
+  "Locatario": "WANDERERS",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO Y LICEO INGLES",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57434",
+   "Nombre": "GONZALO ANDRES SANGUINETTI",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "44673",
+   "Nombre": "SANTIAGO ISAIAS SOLE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "46880",
+   "Nombre": "NAHUEL LEANDRO GONZALEZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54723",
+   "Nombre": "MICHAEL ANDRES MARTINEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "55367",
+   "Nombre": "LEOPOLDO RIVA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68796",
+   "Nombre": "LAUTARO RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68676",
+   "Nombre": "JOAQUIN NICOLAS REZZANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68296",
+   "Nombre": "SANTIAGO CUELLO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "44857",
+   "Nombre": "FRANCO SORMANI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "55365",
+   "Nombre": "IGNACIO MANUEL MALLO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61865",
+   "Nombre": "NAZARENO PINTOS",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44112",
+   "Nombre": "FRANCO RUSSO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47631",
+   "Nombre": "MAURO GAMBETTA",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "45310",
+   "Nombre": "TOMAS ANTONIO MILAT",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45570",
+   "Nombre": "PEDRO MILAT",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "47716",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "39141",
+   "Nombre": "GASTON BURGHI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46227",
+   "Nombre": "JOAQUIN MUÑOZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "56019",
+   "Nombre": "JUAN MANUEL BAZZINO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "59398",
+   "Nombre": "ALFONSO IBARRA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "47635",
+   "Nombre": "MATEO BURGHI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "45992",
+   "Nombre": "SANTIAGO CAUBARRERE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68296",
+   "Jug_Sale": "SANTIAGO CUELLO",
+   "CarneEntra": "45274",
+   "Jug_Entra": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "4",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "55365",
+   "Jug_Sale": "IGNACIO MANUEL MALLO",
+   "CarneEntra": "46940",
+   "Jug_Entra": "SANTIAGO JOSE ZAS",
+   "camiseta": "91",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "54723",
+   "Jug_Sale": "MICHAEL ANDRES MARTINEZ",
+   "CarneEntra": "61300",
+   "Jug_Entra": "LUCIANO DA SILVA",
+   "camiseta": "34",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "44673",
+   "Jug_Sale": "SANTIAGO ISAIAS SOLE",
+   "CarneEntra": "68296",
+   "Jug_Entra": "SANTIAGO CUELLO",
+   "camiseta": "9",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59398",
+   "Jug_Sale": "ALFONSO IBARRA",
+   "CarneEntra": "49342",
+   "Jug_Entra": "MATEO JOAQUIN FERNANDEZ",
+   "camiseta": "44",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "56019",
+   "Jug_Sale": "JUAN MANUEL BAZZINO",
+   "CarneEntra": "47463",
+   "Jug_Entra": "AGUSTIN ONETTO",
+   "camiseta": "50",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "47631",
+   "Jug_Sale": "MAURO GAMBETTA",
+   "CarneEntra": "45633",
+   "Jug_Entra": "PABLO AGUIAR",
+   "camiseta": "55",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61865",
+   "Nombre": "NAZARENO PINTOS",
+   "minutos": "41",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45310",
+   "Nombre": "TOMAS ANTONIO MILAT",
+   "minutos": "11",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GONZALO ANDRES SANGUINETTI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "GASTON BURGHI",
+   "observaciones": ""
+  }
+ ]
+}

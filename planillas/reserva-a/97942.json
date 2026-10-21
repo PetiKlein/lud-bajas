@@ -1,0 +1,288 @@
+{
+ "id": "97942",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "6",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-04-11 13:10:00",
+  "Fecha_fin": "2026-04-11 13:10:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49084",
+   "Nombre": "GIULIANO CARDOZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41007",
+   "Nombre": "GERARDO SACCO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "39903",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "36474",
+   "Nombre": "FEDERICO ILAN ISRAEL",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "31878",
+   "Nombre": "MAXIMILIANO SALA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "44810",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "48917",
+   "Nombre": "FRANCISCO ALGORTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "49620",
+   "Nombre": "ALEJO ZEFFERINO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "41534",
+   "Nombre": "DIEGO NICOLAS CHIJANE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "47761",
+   "Nombre": "JUAN IGNACIO POTRIE",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49632",
+   "Nombre": "JUAN IGNACIO TOURNIER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57328",
+   "Nombre": "IÑAKI ODRIOZOLA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "52852",
+   "Nombre": "DIEGO LOPEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "37177",
+   "Nombre": "DIEGO GARRONE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "50929",
+   "Nombre": "JUAN MANUEL CASELLA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "40039",
+   "Nombre": "ANDRES FORTE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50128",
+   "Nombre": "JUAN ANDRES GIL",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53195",
+   "Nombre": "MATIAS GIGIREY",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48917",
+   "Jug_Sale": "FRANCISCO ALGORTA",
+   "CarneEntra": "66377",
+   "Jug_Entra": "MATEO AGUSTIN ASENCIO",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36474",
+   "Jug_Sale": "FEDERICO ILAN ISRAEL",
+   "CarneEntra": "44291",
+   "Jug_Entra": "IGNACIO GEISINGER",
+   "camiseta": "19",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "49620",
+   "Jug_Sale": "ALEJO ZEFFERINO",
+   "CarneEntra": "47764",
+   "Jug_Entra": "BRUNO ZEFFERINO",
+   "camiseta": "34",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53195",
+   "Jug_Sale": "MATIAS GIGIREY",
+   "CarneEntra": "49156",
+   "Jug_Entra": "MATHIAS SOARES DE LIMA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50128",
+   "Jug_Sale": "JUAN ANDRES GIL",
+   "CarneEntra": "55358",
+   "Jug_Entra": "MATTEO REICHERT",
+   "camiseta": "99",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "48685",
+   "Jug_Sale": "MAURICIO IHARA",
+   "CarneEntra": "39151",
+   "Jug_Entra": "PEDRO SANTIAGO HERRERA",
+   "camiseta": "16",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "52646",
+   "Jug_Sale": "JUAN MARTIN BONFIGLIO",
+   "CarneEntra": "39835",
+   "Jug_Entra": "FRANCISCO HELMUT QUINCKE",
+   "camiseta": "4",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "49156",
+   "Jug_Sale": "MATHIAS SOARES DE LIMA",
+   "CarneEntra": "45492",
+   "Jug_Entra": "AGUSTIN ECHEVERRIA",
+   "camiseta": "98",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "40039",
+   "Jug_Sale": "ANDRES FORTE",
+   "CarneEntra": "40710",
+   "Jug_Entra": "RAMIRO MARCHESE",
+   "camiseta": "20",
+   "minutos": "92"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47761",
+   "Nombre": "JUAN IGNACIO POTRIE",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47761",
+   "Nombre": "JUAN IGNACIO POTRIE",
+   "minutos": "96",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47764",
+   "Nombre": "BRUNO ZEFFERINO",
+   "minutos": "95",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "40039",
+   "Nombre": "ANDRES FORTE",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GERARDO SACCO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "MAXIMILIANO SALA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "observaciones": ""
+  }
+ ]
+}

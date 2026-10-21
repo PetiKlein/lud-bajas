@@ -1,0 +1,296 @@
+{
+ "id": "101664",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 12,
+ "fechaHora": "2026-09-06 09:00:00",
+ "cancha": "SPORT 11",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "WANDERERS",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "335",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "SPORT 11",
+  "Fecha_Inicio": "2026-09-06 11:10:00",
+  "Fecha_fin": "2026-09-06 11:10:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "48791",
+   "Nombre": "JOAQUIN ALFREDO ALVES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58808",
+   "Nombre": "JUAN ANDRES VIDART",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66540",
+   "Nombre": "GUILLERMO EMANUEL SILVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46916",
+   "Nombre": "MATIAS BERNI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58643",
+   "Nombre": "MATEO ESPIGA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53302",
+   "Nombre": "FEDERICO MONTGOMERY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64076",
+   "Nombre": "AGUSTIN GRACIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "68519",
+   "Nombre": "FELIPE MACHADO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "41010",
+   "Nombre": "DAMIAN PEREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "59558",
+   "Nombre": "ENZO AGUSTIN BARTOLIC",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "42751",
+   "Nombre": "MATIAS QUIROGA",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "69096",
+   "Nombre": "VALENTINO GLOODTDITSKY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "67260",
+   "Nombre": "AGUSTIN TERMEZANA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "68863",
+   "Nombre": "VALENTIN RIVERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61300",
+   "Nombre": "LUCIANO DA SILVA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "68296",
+   "Nombre": "SANTIAGO CUELLO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "68297",
+   "Nombre": "MAXIMILIANO CAMBELL",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "37182",
+   "Nombre": "SANTIAGO MALLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52768",
+   "Nombre": "GUILLERMO MAÑKA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "55365",
+   "Nombre": "IGNACIO MANUEL MALLO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "44673",
+   "Nombre": "SANTIAGO ISAIAS SOLE",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64076",
+   "Jug_Sale": "AGUSTIN GRACIA",
+   "CarneEntra": "55921",
+   "Jug_Entra": "SEBASTIAN CAMPOS",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42751",
+   "Jug_Sale": "MATIAS QUIROGA",
+   "CarneEntra": "52220",
+   "Jug_Entra": "GABRIEL OLIVERA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58808",
+   "Jug_Sale": "JUAN ANDRES VIDART",
+   "CarneEntra": "64848",
+   "Jug_Entra": "SANTIAGO GARCIA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41010",
+   "Jug_Sale": "DAMIAN PEREZ",
+   "CarneEntra": "52536",
+   "Jug_Entra": "ROBERT FEDERICO AGUIAR",
+   "camiseta": "21",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "59558",
+   "Jug_Sale": "ENZO AGUSTIN BARTOLIC",
+   "CarneEntra": "50997",
+   "Jug_Entra": "MARTIN FERREIRA",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58643",
+   "Jug_Sale": "MATEO ESPIGA",
+   "CarneEntra": "54913",
+   "Jug_Entra": "ISMAEL BONNECARRERE",
+   "camiseta": "15",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66607",
+   "Jug_Sale": "ALEXIS COLO",
+   "CarneEntra": "55367",
+   "Jug_Entra": "LEOPOLDO RIVA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61300",
+   "Jug_Sale": "LUCIANO DA SILVA",
+   "CarneEntra": "61865",
+   "Jug_Entra": "NAZARENO PINTOS",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44673",
+   "Jug_Sale": "SANTIAGO ISAIAS SOLE",
+   "CarneEntra": "51001",
+   "Jug_Entra": "FELIPE PEREZ",
+   "camiseta": "4",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "52768",
+   "Jug_Sale": "GUILLERMO MAÑKA",
+   "CarneEntra": "43616",
+   "Jug_Entra": "SANTIAGO VEGLIO",
+   "camiseta": "8",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "55365",
+   "Jug_Sale": "IGNACIO MANUEL MALLO",
+   "CarneEntra": "46940",
+   "Jug_Entra": "SANTIAGO JOSE ZAS",
+   "camiseta": "11",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67260",
+   "Jug_Sale": "AGUSTIN TERMEZANA",
+   "CarneEntra": "45274",
+   "Jug_Entra": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "3",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "41010",
+   "Nombre": "DAMIAN PEREZ",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53302",
+   "Nombre": "FEDERICO MONTGOMERY",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59558",
+   "Nombre": "ENZO AGUSTIN BARTOLIC",
+   "minutos": "36",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "SANTIAGO MALLO",
+   "observaciones": ""
+  }
+ ]
+}

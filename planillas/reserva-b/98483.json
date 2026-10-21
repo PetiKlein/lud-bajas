@@ -1,0 +1,255 @@
+{
+ "id": "98483",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "J.M.L.M",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "140",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-04-25 13:20:00",
+  "Fecha_fin": "2026-04-25 13:20:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44846",
+   "Nombre": "ANTONIO JOSE IRAZOQUI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47104",
+   "Nombre": "MATIAS FLORENCIO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47675",
+   "Nombre": "MAURICIO DIEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "48970",
+   "Nombre": "SANTIAGO DEL PUERTO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "43121",
+   "Nombre": "SIRO PIALI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "68257",
+   "Nombre": "KEVIN NICOLAS CEJAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53212",
+   "Nombre": "IONAS PATRICIO JOSPONIS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41531",
+   "Nombre": "JOAQUIN BELTRAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45775",
+   "Nombre": "FRANCO GIOSA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "46923",
+   "Nombre": "MATEO PARPAL",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53105",
+   "Nombre": "FELIPE FRIGERIO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "47534",
+   "Nombre": "SANTIAGO FLEGINSKY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49501",
+   "Nombre": "TOMAS PARPAL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "49924",
+   "Nombre": "FELIPE BAYARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "50933",
+   "Nombre": "SANTIAGO NICOLAS TIZON",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "47817",
+   "Nombre": "CAMILO GILI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51589",
+   "Nombre": "LUCAS TROVO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49622",
+   "Nombre": "STEFANO CERTULO",
+   "camiseta": "36",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53212",
+   "Jug_Sale": "IONAS PATRICIO JOSPONIS",
+   "CarneEntra": "43124",
+   "Jug_Entra": "MATIAS FERNANDEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68257",
+   "Jug_Sale": "KEVIN NICOLAS CEJAS",
+   "CarneEntra": "66028",
+   "Jug_Entra": "MATEO AGUSTIN CHAKIYIN",
+   "camiseta": "18",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "53212",
+   "Jug_Sale": "IONAS PATRICIO JOSPONIS",
+   "CarneEntra": "47116",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "88",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "43121",
+   "Jug_Sale": "SIRO PIALI",
+   "CarneEntra": "52176",
+   "Jug_Entra": "JUAN MANUEL GONZALEZ",
+   "camiseta": "19",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "47100",
+   "Jug_Sale": "JOAQUIN PALABES",
+   "CarneEntra": "50494",
+   "Jug_Entra": "ALEJO EZEQUIEL MOSQUERA",
+   "camiseta": "33",
+   "minutos": "92"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49924",
+   "Jug_Sale": "FELIPE BAYARDO",
+   "CarneEntra": "54192",
+   "Jug_Entra": "FEDERICO PEREZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47817",
+   "Jug_Sale": "CAMILO GILI",
+   "CarneEntra": "53104",
+   "Jug_Entra": "FRANCO MESSANO",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49622",
+   "Jug_Sale": "STEFANO CERTULO",
+   "CarneEntra": "53376",
+   "Jug_Entra": "GUILLERMO WILSON",
+   "camiseta": "71",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "45775",
+   "Jug_Sale": "FRANCO GIOSA",
+   "CarneEntra": "53190",
+   "Jug_Entra": "SANTINO CARASSALE",
+   "camiseta": "31",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "92",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

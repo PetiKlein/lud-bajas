@@ -1,0 +1,239 @@
+{
+ "id": "100002",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "COMPLEJO 1GOL",
+ "local": "CERVANTES UNIVERSITARIO",
+ "visitante": "ESTUDIANTES ESPAÑOLES",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "545",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO 1GOL",
+  "Fecha_Inicio": "2026-06-14 11:00:00",
+  "Fecha_fin": "2026-06-14 11:00:00",
+  "Locatario": "CERVANTES UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "ESTUDIANTES ESPAÑOLES",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64465",
+   "Nombre": "FABRICIO RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "34257",
+   "Nombre": "JUAN FELIPE CARDINAL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "40955",
+   "Nombre": "FABRIZIO NICOLAS ARMARIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51413",
+   "Nombre": "RODRIGO MARTINEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45764",
+   "Nombre": "MATIAS BUGARIN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "55193",
+   "Nombre": "BRUNO BUERO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "49052",
+   "Nombre": "GIANLUCA COSTANTINI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61839",
+   "Nombre": "IGNACIO SEBASTIAN OVANDO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50459",
+   "Nombre": "DAMIAN CAO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "44754",
+   "Nombre": "PATRICIO LOPEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "31726",
+   "Nombre": "DIEGO MARTIN RODRIGUEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56099",
+   "Nombre": "FEDERICO GURT",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53068",
+   "Nombre": "ANGEL AGUSTIN FRIONI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "29802",
+   "Nombre": "PABLO ANDRES VOITURET",
+   "camiseta": "28",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32352",
+   "Nombre": "DIEGO IGNACIO RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "34808",
+   "Nombre": "LORENZO LARGHERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "37323",
+   "Nombre": "BRUNO TONCOPI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "30147",
+   "Nombre": "SANTIAGO SORAVILLA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "59785",
+   "Nombre": "ALVARO MARTIN FIGUEREDO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "39774",
+   "Nombre": "FERNANDO ROLFO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63171",
+   "Nombre": "RODRIGO ODRIOZOLA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "50016",
+   "Nombre": "MARCELO RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44754",
+   "Jug_Sale": "PATRICIO LOPEZ",
+   "CarneEntra": "58888",
+   "Jug_Entra": "RUBEN JAVIER BARRIOS",
+   "camiseta": "7",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "40955",
+   "Jug_Sale": "FABRIZIO NICOLAS ARMARIO",
+   "CarneEntra": "63167",
+   "Jug_Entra": "LUCAS BORGES",
+   "camiseta": "13",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "61839",
+   "Jug_Sale": "IGNACIO SEBASTIAN OVANDO",
+   "CarneEntra": "59247",
+   "Jug_Entra": "EDEL FERIE",
+   "camiseta": "9",
+   "minutos": "52"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63171",
+   "Jug_Sale": "RODRIGO ODRIOZOLA",
+   "CarneEntra": "37483",
+   "Jug_Entra": "SEBASTIAN GARCIA",
+   "camiseta": "22",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "39774",
+   "Jug_Sale": "FERNANDO ROLFO",
+   "CarneEntra": "56596",
+   "Jug_Entra": "ESTEBAN ROSAS",
+   "camiseta": "17",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "34808",
+   "Jug_Sale": "LORENZO LARGHERO",
+   "CarneEntra": "31486",
+   "Jug_Entra": "DIEGO GERMAN GUTIERREZ",
+   "camiseta": "13",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "37323",
+   "Jug_Sale": "BRUNO TONCOPI",
+   "CarneEntra": "41852",
+   "Jug_Entra": "GASTON FEDERICO VAURO",
+   "camiseta": "20",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59247",
+   "Nombre": "EDEL FERIE",
+   "minutos": "60",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,302 @@
+{
+ "id": "98228",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "11",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-04-18 13:05:00",
+  "Fecha_fin": "2026-04-18 13:05:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49632",
+   "Nombre": "JUAN IGNACIO TOURNIER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57328",
+   "Nombre": "IÑAKI ODRIOZOLA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "41908",
+   "Nombre": "JUAN MARTIN AZADIAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52356",
+   "Nombre": "FELIPE ROBAINA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "49156",
+   "Nombre": "MATHIAS SOARES DE LIMA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "40039",
+   "Nombre": "ANDRES FORTE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55358",
+   "Nombre": "MATTEO REICHERT",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "53195",
+   "Nombre": "MATIAS GIGIREY",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "54025",
+   "Nombre": "JOSE IGNACIO ARBILLA",
+   "camiseta": "68",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58246",
+   "Nombre": "IGNACIO BARCELO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59048",
+   "Nombre": "FACUNDO GARCIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "56963",
+   "Nombre": "LUCAS BERTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46910",
+   "Nombre": "FELIPE VERDUN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63582",
+   "Nombre": "ENZO GABRIEL URIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "58350",
+   "Nombre": "RAMIRO LEONCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "31292",
+   "Nombre": "SANTIAGO ELIAS GAGGERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "50717",
+   "Nombre": "SANTIAGO VEIGA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67310",
+   "Nombre": "FACUNDO PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60494",
+   "Nombre": "PEDRO ALBERTO LISTA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53195",
+   "Jug_Sale": "MATIAS GIGIREY",
+   "CarneEntra": "39151",
+   "Jug_Entra": "PEDRO SANTIAGO HERRERA",
+   "camiseta": "16",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "54025",
+   "Jug_Sale": "JOSE IGNACIO ARBILLA",
+   "CarneEntra": "46005",
+   "Jug_Entra": "SANTIAGO DIAZ",
+   "camiseta": "23",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "52356",
+   "Jug_Sale": "FELIPE ROBAINA",
+   "CarneEntra": "39835",
+   "Jug_Entra": "FRANCISCO HELMUT QUINCKE",
+   "camiseta": "4",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "48685",
+   "Jug_Sale": "MAURICIO IHARA",
+   "CarneEntra": "40710",
+   "Jug_Entra": "RAMIRO MARCHESE",
+   "camiseta": "32",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "41908",
+   "Jug_Sale": "JUAN MARTIN AZADIAN",
+   "CarneEntra": "45492",
+   "Jug_Entra": "AGUSTIN ECHEVERRIA",
+   "camiseta": "98",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "31292",
+   "Jug_Sale": "SANTIAGO ELIAS GAGGERO",
+   "CarneEntra": "57413",
+   "Jug_Entra": "ENZO SEBASTIAN LAXAGUE",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50717",
+   "Jug_Sale": "SANTIAGO VEIGA",
+   "CarneEntra": "67309",
+   "Jug_Entra": "GUZMAN DUFOUR",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67310",
+   "Jug_Sale": "FACUNDO PEREZ",
+   "CarneEntra": "53807",
+   "Jug_Entra": "JUAN PEDRO GOMEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60494",
+   "Jug_Sale": "PEDRO ALBERTO LISTA",
+   "CarneEntra": "40692",
+   "Jug_Entra": "NICOLAS COLLINS",
+   "camiseta": "9",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "57413",
+   "Jug_Sale": "ENZO SEBASTIAN LAXAGUE",
+   "CarneEntra": "46500",
+   "Jug_Entra": "ENZO RODRIGUEZ",
+   "camiseta": "4",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "59048",
+   "Jug_Sale": "FACUNDO GARCIA",
+   "CarneEntra": "55109",
+   "Jug_Entra": "GUILLERMO RIVERON",
+   "camiseta": "16",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53195",
+   "Nombre": "MATIAS GIGIREY",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53195",
+   "Nombre": "MATIAS GIGIREY",
+   "minutos": "20",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60494",
+   "Nombre": "PEDRO ALBERTO LISTA",
+   "minutos": "15",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60494",
+   "Nombre": "PEDRO ALBERTO LISTA",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60494",
+   "Nombre": "PEDRO ALBERTO LISTA",
+   "minutos": "71",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

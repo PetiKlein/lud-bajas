@@ -1,0 +1,269 @@
+{
+ "id": "102326",
+ "categoria": "mayores-d",
+ "serie": "DTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-27 09:00:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "MOSSENS",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "1010",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"D\" TIT. y ASC.",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-09-27 10:50:00",
+  "Fecha_fin": "2026-09-27 10:50:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "MOSSENS",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44677",
+   "Nombre": "CARLOS FACUNDO MORENO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64768",
+   "Nombre": "DIEGO ANDRES PERDOMO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "54838",
+   "Nombre": "AGUSTIN GANACHIPPI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45466",
+   "Nombre": "AGUSTIN CALABUIG",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "65354",
+   "Nombre": "JULIAN COHENAR",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "54839",
+   "Nombre": "NICOLAS ANTELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65879",
+   "Nombre": "NAHUEL OLIVETTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59766",
+   "Nombre": "JOSE ANDRES MARQUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "54513",
+   "Nombre": "MATIAS MICHEL TORRES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59436",
+   "Nombre": "LAUTARO OLVEIRA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49439",
+   "Nombre": "JOAQUIN VOELKER",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "67204",
+   "Nombre": "ESTEBAN NAVARRO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "41349",
+   "Nombre": "MARTIN NICOLAS GONZALEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "41982",
+   "Nombre": "JUAN DIEGO FIANDRA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "62278",
+   "Nombre": "DANIEL BALPARDA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68738",
+   "Nombre": "SANTIAGO ANDRES CURBELO",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "41177",
+   "Nombre": "GONZALO MUÑOZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63636",
+   "Nombre": "MATEO SILVA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "39331",
+   "Nombre": "FELIPE OMAR GOYENOLA",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "67284",
+   "Nombre": "JOAQUIN CASTROMAN",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "41293",
+   "Nombre": "GERONIMO MARTIN BARERA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54513",
+   "Jug_Sale": "MATIAS MICHEL TORRES",
+   "CarneEntra": "52322",
+   "Jug_Entra": "GASTON MOZEJKO",
+   "camiseta": "15",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "31995",
+   "Jug_Sale": "JORGE IGNACIO DIAZ",
+   "CarneEntra": "54207",
+   "Jug_Entra": "RODRIGO CODEVILA",
+   "camiseta": "31",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "59766",
+   "Jug_Sale": "JOSE ANDRES MARQUEZ",
+   "CarneEntra": "59389",
+   "Jug_Entra": "RODRIGO GERMAN FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39331",
+   "Jug_Sale": "FELIPE OMAR GOYENOLA",
+   "CarneEntra": "45689",
+   "Jug_Entra": "NICOLÀS VALLES",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41177",
+   "Jug_Sale": "GONZALO MUÑOZ",
+   "CarneEntra": "41814",
+   "Jug_Entra": "AGUSTIN CARO",
+   "camiseta": "19",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "62278",
+   "Jug_Sale": "DANIEL BALPARDA",
+   "CarneEntra": "41171",
+   "Jug_Entra": "MATIAS JUAN BASSAIZTEGUY",
+   "camiseta": "50",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "63636",
+   "Jug_Sale": "MATEO SILVA",
+   "CarneEntra": "48462",
+   "Jug_Entra": "JUAN MIGUEL NOCETTI",
+   "camiseta": "14",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "41982",
+   "Jug_Sale": "JUAN DIEGO FIANDRA",
+   "CarneEntra": "32194",
+   "Jug_Entra": "JUAN IGNACIO LAYERLE",
+   "camiseta": "8",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45466",
+   "Nombre": "AGUSTIN CALABUIG",
+   "minutos": "34",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54839",
+   "Nombre": "NICOLAS ANTELO",
+   "minutos": "56",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "41293",
+   "Nombre": "GERONIMO MARTIN BARERA",
+   "minutos": "2",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MARTIN NICOLAS GONZALEZ",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "JOAQUIN CASTROMAN",
+   "observaciones": ""
+  }
+ ]
+}

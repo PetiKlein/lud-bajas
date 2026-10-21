@@ -1,0 +1,296 @@
+{
+ "id": "101012",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 4,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "CLUB ATLETICO LIMBURGO",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "447",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-08-15 13:15:00",
+  "Fecha_fin": "2026-08-15 13:15:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ATLETICO LIMBURGO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56973",
+   "Nombre": "LUCAS CORREA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "55147",
+   "Nombre": "EDUARDO IVAN UBAL",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "53826",
+   "Nombre": "JUAN IGNACIO SOSA DIAS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "51002",
+   "Nombre": "JUAN MANUEL PEREZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "67474",
+   "Nombre": "MATIAS FRANCO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "51803",
+   "Nombre": "SEBASTIAN TRONCOSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "55484",
+   "Nombre": "GUILLERMO URIA",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67275",
+   "Nombre": "MATEO MORALES",
+   "camiseta": "92",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53417",
+   "Nombre": "MARCOS FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51238",
+   "Nombre": "MATIAS BELLINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "40634",
+   "Nombre": "JUAN MANUEL MONTERO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "47345",
+   "Nombre": "JOAQUIN GABRIEL VARELA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "45372",
+   "Nombre": "DAVID ROBIDO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "31775",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "40189",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "53151",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "59742",
+   "Nombre": "MATEO JOSE ONETTO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "68905",
+   "Nombre": "MATEO IGUINI",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "53255",
+   "Nombre": "LUCAS CRAVIOTTO",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55484",
+   "Jug_Sale": "GUILLERMO URIA",
+   "CarneEntra": "52899",
+   "Jug_Entra": "JOAQUIN ZEBALLOS",
+   "camiseta": "80",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "67474",
+   "Jug_Sale": "MATIAS FRANCO",
+   "CarneEntra": "64777",
+   "Jug_Entra": "IVAN VEGOVICH",
+   "camiseta": "24",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "67275",
+   "Jug_Sale": "MATEO MORALES",
+   "CarneEntra": "66167",
+   "Jug_Entra": "AGUSTIN BLAS RIVERO",
+   "camiseta": "91",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "52787",
+   "Jug_Sale": "IGNACIO SLINGER",
+   "CarneEntra": "67475",
+   "Jug_Entra": "BRUNO MATEOS",
+   "camiseta": "70",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "51803",
+   "Jug_Sale": "SEBASTIAN TRONCOSO",
+   "CarneEntra": "64767",
+   "Jug_Entra": "FACUNDO NICOLAS FARAL",
+   "camiseta": "97",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "67475",
+   "Jug_Sale": "BRUNO MATEOS",
+   "CarneEntra": "64252",
+   "Jug_Entra": "SANTIAGO BORRELLI",
+   "camiseta": "28",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53255",
+   "Jug_Sale": "LUCAS CRAVIOTTO",
+   "CarneEntra": "51601",
+   "Jug_Entra": "AGUSTIN SILVEIRA",
+   "camiseta": "26",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "40634",
+   "Jug_Sale": "JUAN MANUEL MONTERO",
+   "CarneEntra": "62430",
+   "Jug_Entra": "ALEJO MARTIN FONT",
+   "camiseta": "30",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "47345",
+   "Jug_Sale": "JOAQUIN GABRIEL VARELA",
+   "CarneEntra": "68821",
+   "Jug_Entra": "IGNACIO PARRADO",
+   "camiseta": "14",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "68905",
+   "Jug_Sale": "MATEO IGUINI",
+   "CarneEntra": "50891",
+   "Jug_Entra": "DIEGO MARCENARO",
+   "camiseta": "29",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "59742",
+   "Jug_Sale": "MATEO JOSE ONETTO",
+   "CarneEntra": "46385",
+   "Jug_Entra": "FERNANDO EMANUEL FAGALDES",
+   "camiseta": "33",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "minutos": "19",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45372",
+   "Nombre": "DAVID ROBIDO",
+   "minutos": "61",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53151",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53417",
+   "Nombre": "MARCOS FERNANDEZ",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68905",
+   "Nombre": "MATEO IGUINI",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,275 @@
+{
+ "id": "100602",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS CLUB",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "81",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-06-27 13:10:00",
+  "Fecha_fin": "2026-06-27 13:10:00",
+  "Locatario": "OLD CHRISTIANS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52821",
+   "Nombre": "FACUNDO STORACE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37259",
+   "Nombre": "IGNACIO MACHADO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67291",
+   "Nombre": "AUGUSTO PAULLIER",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "38310",
+   "Nombre": "FEDERICO PONTE",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "46771",
+   "Nombre": "SANTIAGO HAM",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "30724",
+   "Nombre": "FEDERICO RICARDO MOLINS",
+   "camiseta": "93",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40765",
+   "Nombre": "JUAN DIEGO GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49655",
+   "Nombre": "HERNAN ALEGRESA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64683",
+   "Nombre": "ALBERTO FELIPE ROSSO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "53214",
+   "Nombre": "MANUEL PARODI",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49084",
+   "Nombre": "GIULIANO CARDOZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36474",
+   "Nombre": "FEDERICO ILAN ISRAEL",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "41007",
+   "Nombre": "GERARDO SACCO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "39903",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "31878",
+   "Nombre": "MAXIMILIANO SALA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "66422",
+   "Nombre": "RODRIGO ARIAS",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "44810",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "48917",
+   "Nombre": "FRANCISCO ALGORTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "41534",
+   "Nombre": "DIEGO NICOLAS CHIJANE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "41009",
+   "Nombre": "BRUNO NICOLAS RAVERA",
+   "camiseta": "52",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "30724",
+   "Jug_Sale": "FEDERICO RICARDO MOLINS",
+   "CarneEntra": "52331",
+   "Jug_Entra": "JOSE PEDRO PARODI",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40765",
+   "Jug_Sale": "JUAN DIEGO GONZALEZ",
+   "CarneEntra": "56908",
+   "Jug_Entra": "GUILLERMO HOUNIE",
+   "camiseta": "7",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "46771",
+   "Jug_Sale": "SANTIAGO HAM",
+   "CarneEntra": "42070",
+   "Jug_Entra": "FRANCISCO GUADALUPE",
+   "camiseta": "6",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "49655",
+   "Jug_Sale": "HERNAN ALEGRESA",
+   "CarneEntra": "35115",
+   "Jug_Entra": "JUAN PEDRO BELO",
+   "camiseta": "21",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "67291",
+   "Jug_Sale": "AUGUSTO PAULLIER",
+   "CarneEntra": "37170",
+   "Jug_Entra": "SEBASTIAN REGULES",
+   "camiseta": "71",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "53214",
+   "Jug_Sale": "MANUEL PARODI",
+   "CarneEntra": "51135",
+   "Jug_Entra": "JOAQUIN FABREGAT",
+   "camiseta": "16",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "37259",
+   "Jug_Sale": "IGNACIO MACHADO",
+   "CarneEntra": "50841",
+   "Jug_Entra": "SANTOS JUAN HOUNIE",
+   "camiseta": "3",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "41009",
+   "Jug_Sale": "BRUNO NICOLAS RAVERA",
+   "CarneEntra": "47764",
+   "Jug_Entra": "BRUNO ZEFFERINO",
+   "camiseta": "34",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "49084",
+   "Jug_Sale": "GIULIANO CARDOZO",
+   "CarneEntra": "47761",
+   "Jug_Entra": "JUAN IGNACIO POTRIE",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44810",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "49620",
+   "Jug_Entra": "ALEJO ZEFFERINO",
+   "camiseta": "17",
+   "minutos": "74"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56908",
+   "Nombre": "GUILLERMO HOUNIE",
+   "minutos": "92",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "41009",
+   "Nombre": "BRUNO NICOLAS RAVERA",
+   "minutos": "4",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "ALBERTO FELIPE ROSSO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

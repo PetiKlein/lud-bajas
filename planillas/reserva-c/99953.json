@@ -1,0 +1,282 @@
+{
+ "id": "99953",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "SAN EUGENIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "308",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-06-13 13:15:00",
+  "Fecha_fin": "2026-06-13 13:15:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAN EUGENIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68733",
+   "Nombre": "MANUEL ROMERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "52654",
+   "Nombre": "CRISTHIAN ALEXANDER TABEIRA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61334",
+   "Nombre": "ALAN JAVIER VALERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "54928",
+   "Nombre": "ISMAEL IMPERIAL",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68505",
+   "Nombre": "IGNACIO DANIEL MENDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67627",
+   "Nombre": "AGUSTIN MARENCO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57617",
+   "Nombre": "JUAN IGNACIO ARRILLAGA",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68273",
+   "Nombre": "PABLO NICOLAS CARDOZO",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "64443",
+   "Nombre": "ENZO JESUS RODRIGUEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "64840",
+   "Nombre": "AXEL GONZALEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53118",
+   "Nombre": "ALVARO MARTIN PINTOS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "61743",
+   "Nombre": "KAWE ALAMON",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59342",
+   "Nombre": "MATIAS MARTINS",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "49999",
+   "Nombre": "LEONARDO NICOLAS RIBEIRO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "62851",
+   "Nombre": "FACUNDO CHAIA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62047",
+   "Nombre": "RAMIRO SALVADOR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62046",
+   "Nombre": "MAURICIO LAPORTE",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54928",
+   "Jug_Sale": "ISMAEL IMPERIAL",
+   "CarneEntra": "49283",
+   "Jug_Entra": "SANTIAGO BARBOZA",
+   "camiseta": "38",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57617",
+   "Jug_Sale": "JUAN IGNACIO ARRILLAGA",
+   "CarneEntra": "51208",
+   "Jug_Entra": "JOAQUIN ALFONSO BECERRA",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52654",
+   "Jug_Sale": "CRISTHIAN ALEXANDER TABEIRA",
+   "CarneEntra": "68232",
+   "Jug_Entra": "THIAGO MATEO FERREIRA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67627",
+   "Jug_Sale": "AGUSTIN MARENCO",
+   "CarneEntra": "53304",
+   "Jug_Entra": "LUCAS ALVEZ",
+   "camiseta": "25",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "68505",
+   "Jug_Sale": "IGNACIO DANIEL MENDEZ",
+   "CarneEntra": "54928",
+   "Jug_Entra": "ISMAEL IMPERIAL",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64351",
+   "Jug_Sale": "BRUNO SIMON",
+   "CarneEntra": "51090",
+   "Jug_Entra": "JUAN IGNACIO RUSSO",
+   "camiseta": "10",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53118",
+   "Jug_Sale": "ALVARO MARTIN PINTOS",
+   "CarneEntra": "54484",
+   "Jug_Entra": "GREGORY EMMANUEL BARRIOS",
+   "camiseta": "2",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "62047",
+   "Jug_Sale": "RAMIRO SALVADOR",
+   "CarneEntra": "62993",
+   "Jug_Entra": "JUAN CARLOS MEDINA",
+   "camiseta": "34",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "49999",
+   "Jug_Sale": "LEONARDO NICOLAS RIBEIRO",
+   "CarneEntra": "65381",
+   "Jug_Entra": "AGUSTIN JOSE PAZ",
+   "camiseta": "98",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "61743",
+   "Jug_Sale": "KAWE ALAMON",
+   "CarneEntra": "49999",
+   "Jug_Entra": "LEONARDO NICOLAS RIBEIRO",
+   "camiseta": "16",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "minutos": "51",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62046",
+   "Nombre": "MAURICIO LAPORTE",
+   "minutos": "29",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "minutos": "94",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

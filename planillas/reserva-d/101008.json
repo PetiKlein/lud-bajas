@@ -1,0 +1,279 @@
+{
+ "id": "101008",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 4,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "YOUNG UNIVERSITARIO",
+ "visitante": "YAGUARI",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "382",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-08-15 13:00:00",
+  "Fecha_fin": "2026-08-15 13:00:00",
+  "Locatario": "YOUNG UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "YAGUARI",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66386",
+   "Nombre": "FRANCISCO CONSTANTIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "66136",
+   "Nombre": "ALFONSO MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60311",
+   "Nombre": "ROMAN JOSE SCREMINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66758",
+   "Nombre": "ANTHONY FACCIO",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64739",
+   "Nombre": "SANTIAGO SCREMINI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67431",
+   "Nombre": "EMILIANO ACOSTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "66212",
+   "Nombre": "TOMAS AGUSTIN SANTOS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52893",
+   "Nombre": "EZEQUIEL FRANCO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "30521",
+   "Nombre": "AGUSTIN PEDRO BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51073",
+   "Nombre": "GASTON PALERMO",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65852",
+   "Nombre": "BAUTISTA DIBOT",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "55076",
+   "Nombre": "SIMON RUSSI",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "39047",
+   "Nombre": "MAXIMILIANO ALEXIS ROSE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "59170",
+   "Nombre": "FRANCISCO SANTAMARIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "55776",
+   "Nombre": "ALFONSO MARTINO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "68817",
+   "Nombre": "SANTIAGO UMPIERREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "40963",
+   "Nombre": "JUAN DIEGO GOMEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "51078",
+   "Nombre": "FRANCISCO AMOZA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63110",
+   "Nombre": "VICENTE MARTINEZ HAEDO",
+   "camiseta": "65",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59693",
+   "Jug_Sale": "TOMAS CONSTANTIN",
+   "CarneEntra": "66169",
+   "Jug_Entra": "ALEJO ANDRES AIZPUN",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66212",
+   "Jug_Sale": "TOMAS AGUSTIN SANTOS",
+   "CarneEntra": "61038",
+   "Jug_Entra": "CONRADO HEINZE",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52893",
+   "Jug_Sale": "EZEQUIEL FRANCO",
+   "CarneEntra": "56157",
+   "Jug_Entra": "JEREMIAS SILVEIRA",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66136",
+   "Jug_Sale": "ALFONSO MEDINA",
+   "CarneEntra": "58823",
+   "Jug_Entra": "JUSTINO LAFLUF",
+   "camiseta": "23",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "64739",
+   "Jug_Sale": "SANTIAGO SCREMINI",
+   "CarneEntra": "67559",
+   "Jug_Entra": "BRUNO CAMPOPIANO",
+   "camiseta": "15",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "64599",
+   "Jug_Sale": "CRISTIANO MATIAS PIGNATA",
+   "CarneEntra": "62237",
+   "Jug_Entra": "SANTINO ACOSTA",
+   "camiseta": "7",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "64592",
+   "Jug_Sale": "GERONIMO VANZINI",
+   "CarneEntra": "65774",
+   "Jug_Entra": "TOMAS BANEGA",
+   "camiseta": "18",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68817",
+   "Jug_Sale": "SANTIAGO UMPIERREZ",
+   "CarneEntra": "64265",
+   "Jug_Entra": "DIEGO CALLEROS",
+   "camiseta": "70",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "55776",
+   "Jug_Sale": "ALFONSO MARTINO",
+   "CarneEntra": "55080",
+   "Jug_Entra": "FRANCISCO CERONI",
+   "camiseta": "12",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "63110",
+   "Jug_Sale": "VICENTE MARTINEZ HAEDO",
+   "CarneEntra": "39081",
+   "Jug_Entra": "IGNACIO EASTMAN",
+   "camiseta": "26",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "40963",
+   "Jug_Sale": "JUAN DIEGO GOMEZ",
+   "CarneEntra": "55068",
+   "Jug_Entra": "JUAN IGNACIO GUERRERO",
+   "camiseta": "90",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "51078",
+   "Jug_Sale": "FRANCISCO AMOZA",
+   "CarneEntra": "59647",
+   "Jug_Entra": "TIMOTEO APARICIO MARTINO",
+   "camiseta": "11",
+   "minutos": "92"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "39047",
+   "Nombre": "MAXIMILIANO ALEXIS ROSE",
+   "minutos": "29",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

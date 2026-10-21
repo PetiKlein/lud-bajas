@@ -1,0 +1,242 @@
+{
+ "id": "100003",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "SAN ISIDRO LOMAS",
+ "local": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "visitante": "CITY PARK",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "190",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "SAN ISIDRO LOMAS",
+  "Fecha_Inicio": "2026-06-14 10:45:00",
+  "Fecha_fin": "2026-06-14 10:45:00",
+  "Locatario": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CITY PARK",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67584",
+   "Nombre": "MATIAS SANTIAGO VILLAR",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59868",
+   "Nombre": "LUCAS MARICHAL",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53965",
+   "Nombre": "BRUNO MICHELENA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52683",
+   "Nombre": "FRANCO CHEMELLO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "40527",
+   "Nombre": "SANTIAGO LARRALDE",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56507",
+   "Nombre": "LUCAS OLIVERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "32028",
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47677",
+   "Nombre": "JUAN PABLO SILVIO NICOLETTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63027",
+   "Nombre": "NICOLAS IÑAKY GUERRA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52991",
+   "Nombre": "FRANCO MICHELENA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "60972",
+   "Nombre": "FELIPE ARBIZA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29693",
+   "Nombre": "GONZALO DAMIAN OPERTTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42966",
+   "Nombre": "LEONARDO MARTIN SAMPEREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42749",
+   "Nombre": "LUCAS BAEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "40368",
+   "Nombre": "PEDRO COSTA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "33967",
+   "Nombre": "ANDRES YAFFE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "37077",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "37305",
+   "Nombre": "LUCAS FIGUEROA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "38481",
+   "Nombre": "AGUSTIN MATEO RUIZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47650",
+   "Nombre": "LUCAS TRINIDAD",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "32802",
+   "Nombre": "SANTIAGO FUENTES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58113",
+   "Nombre": "BRUNO AGUSTIN ACOSTA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "32028",
+   "Jug_Sale": "FACUNDO RODRIGUEZ",
+   "CarneEntra": "56143",
+   "Jug_Entra": "CARLOS ROBERTO SARDEÑA",
+   "camiseta": "11",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "53965",
+   "Jug_Sale": "BRUNO MICHELENA",
+   "CarneEntra": "52987",
+   "Jug_Entra": "RENZO GUZMAN RAMAGLI",
+   "camiseta": "3",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "60972",
+   "Jug_Sale": "FELIPE ARBIZA",
+   "CarneEntra": "29926",
+   "Jug_Entra": "JOAQUIN TEJERIA",
+   "camiseta": "9",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "29693",
+   "Jug_Sale": "GONZALO DAMIAN OPERTTI",
+   "CarneEntra": "33386",
+   "Jug_Entra": "JUAN IGNACIO PAREDES",
+   "camiseta": "5",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "58113",
+   "Jug_Sale": "BRUNO AGUSTIN ACOSTA",
+   "CarneEntra": "64489",
+   "Jug_Entra": "JOAQUIN ROVETTA",
+   "camiseta": "22",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "42749",
+   "Jug_Sale": "LUCAS BAEZ",
+   "CarneEntra": "58113",
+   "Jug_Entra": "BRUNO AGUSTIN ACOSTA",
+   "camiseta": "9",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60972",
+   "Nombre": "FELIPE ARBIZA",
+   "minutos": "50",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60972",
+   "Nombre": "FELIPE ARBIZA",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "LUCAS FIGUEROA",
+   "observaciones": ""
+  }
+ ]
+}

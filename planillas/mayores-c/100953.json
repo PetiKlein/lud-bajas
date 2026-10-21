@@ -1,0 +1,266 @@
+{
+ "id": "100953",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 15,
+ "fechaHora": "2026-08-16 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "DEFENSOR SPORTING",
+ "visitante": "C.A.L.I.",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "360",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-08-16 11:00:00",
+  "Fecha_fin": "2026-08-16 11:00:00",
+  "Locatario": "DEFENSOR SPORTING",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "C.A.L.I.",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63615",
+   "Nombre": "SANTIAGO EMILIANO SILVERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42578",
+   "Nombre": "SANTIAGO TORRES",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67165",
+   "Nombre": "BRIAN ISMAEL FERREIRA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "45014",
+   "Nombre": "NICOLAS TORRES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50499",
+   "Nombre": "MATIAS ALEJANDRO MELLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54049",
+   "Nombre": "NAHUEL AMIGO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68502",
+   "Nombre": "IGNACIO AGUSTIN DEFACIO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66575",
+   "Nombre": "FACUNDO FERRER",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "54048",
+   "Nombre": "LUCAS AMIGO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "67164",
+   "Nombre": "GABRIEL CURBELO",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "68567",
+   "Nombre": "MATIAS ALEJO PEREZ",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46206",
+   "Nombre": "FEDERICO FERNANDEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "55398",
+   "Nombre": "CAMILO EZEQUIEL OLIVERA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "39442",
+   "Nombre": "GUZMAN GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33831",
+   "Nombre": "FACUNDO MOREIRA",
+   "camiseta": "31",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20722",
+   "Nombre": "JUAN MANUEL GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64641",
+   "Nombre": "LEANDRO DELGADO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "50439",
+   "Nombre": "MAURO NAHUEL MONZON",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68955",
+   "Nombre": "LUIS FRANCO PERAZZA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54565",
+   "Nombre": "SEBASTIAN FEDERICO ALTEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49861",
+   "Nombre": "NICOLAS CARLOS ALTEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66338",
+   "Nombre": "MATIAS ANDRES GONZALEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66575",
+   "Jug_Sale": "FACUNDO FERRER",
+   "CarneEntra": "38030",
+   "Jug_Entra": "EMILIO GASTON BARAIBAR",
+   "camiseta": "9",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "42578",
+   "Jug_Sale": "SANTIAGO TORRES",
+   "CarneEntra": "68568",
+   "Jug_Entra": "RENZO BARBOZA",
+   "camiseta": "13",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "67164",
+   "Jug_Sale": "GABRIEL CURBELO",
+   "CarneEntra": "67166",
+   "Jug_Entra": "ALEXANDER IVAN SILVA",
+   "camiseta": "80",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "54049",
+   "Jug_Sale": "NAHUEL AMIGO",
+   "CarneEntra": "60320",
+   "Jug_Entra": "FACUNDO MARTIN FERNANDEZ",
+   "camiseta": "22",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "50499",
+   "Jug_Sale": "MATIAS ALEJANDRO MELLO",
+   "CarneEntra": "52505",
+   "Jug_Entra": "HEBER ANDRES LOPEZ",
+   "camiseta": "7",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "68567",
+   "Jug_Sale": "MATIAS ALEJO PEREZ",
+   "CarneEntra": "53485",
+   "Jug_Entra": "MATEO TORRES",
+   "camiseta": "16",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "68502",
+   "Jug_Sale": "IGNACIO AGUSTIN DEFACIO",
+   "CarneEntra": "61305",
+   "Jug_Entra": "FACUNDO GONZALEZ",
+   "camiseta": "77",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "20722",
+   "Jug_Sale": "JUAN MANUEL GONZALEZ",
+   "CarneEntra": "22495",
+   "Jug_Entra": "IGNACIO BURGOS",
+   "camiseta": "19",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "38030",
+   "Nombre": "EMILIO GASTON BARAIBAR",
+   "minutos": "49",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38030",
+   "Nombre": "EMILIO GASTON BARAIBAR",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50499",
+   "Nombre": "MATIAS ALEJANDRO MELLO",
+   "minutos": "12",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55398",
+   "Nombre": "CAMILO EZEQUIEL OLIVERA",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

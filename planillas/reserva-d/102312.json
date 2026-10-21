@@ -1,0 +1,288 @@
+{
+ "id": "102312",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 5,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "YAGUARI",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "579",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-09-26 13:30:00",
+  "Fecha_fin": "2026-09-26 13:30:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "YAGUARI",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49636",
+   "Nombre": "AGUSTIN ALGORTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "45778",
+   "Nombre": "SANTIAGO BARBEITO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67387",
+   "Nombre": "GONZALO ESTEVES",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "54722",
+   "Nombre": "LUCAS SCAFARELLI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "53267",
+   "Nombre": "MAXIMO TORNONI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53171",
+   "Nombre": "FRANCISCO ACUÑA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56611",
+   "Nombre": "SEBASTIAN SAR",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "64236",
+   "Nombre": "NICOLAS KRUL",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39264",
+   "Nombre": "BRUNO MARTINEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "45639",
+   "Nombre": "PATRICIO CORREA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "39081",
+   "Nombre": "IGNACIO EASTMAN",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "55776",
+   "Nombre": "ALFONSO MARTINO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "59170",
+   "Nombre": "FRANCISCO SANTAMARIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "40963",
+   "Nombre": "JUAN DIEGO GOMEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "64265",
+   "Nombre": "DIEGO CALLEROS",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "51078",
+   "Nombre": "FRANCISCO AMOZA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54378",
+   "Nombre": "NICOLAS VAZQUEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "51073",
+   "Nombre": "GASTON PALERMO",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55076",
+   "Nombre": "SIMON RUSSI",
+   "camiseta": "47",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56611",
+   "Jug_Sale": "SEBASTIAN SAR",
+   "CarneEntra": "53378",
+   "Jug_Entra": "NICOLAS SILVA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52184",
+   "Jug_Sale": "DIEGO GIBERT",
+   "CarneEntra": "57343",
+   "Jug_Entra": "FEDERICO PELUFFO",
+   "camiseta": "91",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45778",
+   "Jug_Sale": "SANTIAGO BARBEITO",
+   "CarneEntra": "66528",
+   "Jug_Entra": "LUCA CANZANI",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53171",
+   "Jug_Sale": "FRANCISCO ACUÑA",
+   "CarneEntra": "52808",
+   "Jug_Entra": "SEBASTIAN USHER",
+   "camiseta": "5",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "53267",
+   "Jug_Sale": "MAXIMO TORNONI",
+   "CarneEntra": "45772",
+   "Jug_Entra": "LUCAS POMI",
+   "camiseta": "46",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67387",
+   "Jug_Sale": "GONZALO ESTEVES",
+   "CarneEntra": "53623",
+   "Jug_Entra": "IGNACIO AÑON",
+   "camiseta": "18",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "49636",
+   "Jug_Sale": "AGUSTIN ALGORTA",
+   "CarneEntra": "68074",
+   "Jug_Entra": "NICOLAS RODRIGUEZ",
+   "camiseta": "34",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51078",
+   "Jug_Sale": "FRANCISCO AMOZA",
+   "CarneEntra": "63110",
+   "Jug_Entra": "VICENTE MARTINEZ HAEDO",
+   "camiseta": "65",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "59170",
+   "Jug_Sale": "FRANCISCO SANTAMARIA",
+   "CarneEntra": "55080",
+   "Jug_Entra": "FRANCISCO CERONI",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64265",
+   "Jug_Sale": "DIEGO CALLEROS",
+   "CarneEntra": "55079",
+   "Jug_Entra": "EMILIANO CARDOZO",
+   "camiseta": "19",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53267",
+   "Nombre": "MAXIMO TORNONI",
+   "minutos": "61",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53623",
+   "Nombre": "IGNACIO AÑON",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64236",
+   "Nombre": "NICOLAS KRUL",
+   "minutos": "94",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "54378",
+   "Nombre": "NICOLAS VAZQUEZ",
+   "minutos": "74",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55776",
+   "Nombre": "ALFONSO MARTINO",
+   "minutos": "23",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

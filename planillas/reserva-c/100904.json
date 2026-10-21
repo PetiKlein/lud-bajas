@@ -1,0 +1,271 @@
+{
+ "id": "100904",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "SAN PABLO UNIVERSITARIO",
+ "visitante": "PEÑAROL UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "356",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-08-15 13:15:00",
+  "Fecha_fin": "2026-08-15 13:15:00",
+  "Locatario": "SAN PABLO UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "PEÑAROL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45571",
+   "Nombre": "JOSE MARIA NUÐEZ",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "41049",
+   "Nombre": "MATIAS EZEQUIEL MAYER",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "56705",
+   "Nombre": "AGUSTIN ULISES FAGIANI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63209",
+   "Nombre": "VALENTIN MENDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51080",
+   "Nombre": "AUGUSTO SECCO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "52895",
+   "Nombre": "RODRIGO MORANDI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "56490",
+   "Nombre": "PABLO ANDRES SCOFFONE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42736",
+   "Nombre": "SANTIAGO SOCA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59329",
+   "Nombre": "MATEO LAUTARO FERNANDEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "47151",
+   "Nombre": "THIAGO QUINTAS",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "51334",
+   "Nombre": "FRANCISCO ENRIQUE TRIAY",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66297",
+   "Nombre": "CRISTIAN VELOZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66298",
+   "Nombre": "MICHAEL GREGORI VELOZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49170",
+   "Nombre": "BRUNO EMILIANO BERMUDEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "66630",
+   "Nombre": "FRANCISCO PEREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65783",
+   "Nombre": "BRUNO IGNACIO ALVAREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66845",
+   "Nombre": "FACUNDO OLIVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68868",
+   "Nombre": "EZEQUIEL ENRIQUE LUBARA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "66433",
+   "Nombre": "LUCAS TOMAS FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66691",
+   "Nombre": "BRUNO ALEXIS ARAUJO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61101",
+   "Nombre": "MATIAS NICOLAS GARCIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64480",
+   "Nombre": "MAXIMO FABRICIO NIEVAS",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41049",
+   "Jug_Sale": "MATIAS EZEQUIEL MAYER",
+   "CarneEntra": "54939",
+   "Jug_Entra": "MAURO PEREIRA DAS NEVES",
+   "camiseta": "28",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "47151",
+   "Jug_Sale": "THIAGO QUINTAS",
+   "CarneEntra": "56700",
+   "Jug_Entra": "FRANCO DELISANTE",
+   "camiseta": "23",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59329",
+   "Jug_Sale": "MATEO LAUTARO FERNANDEZ",
+   "CarneEntra": "52663",
+   "Jug_Entra": "MARCOS VERNENGO",
+   "camiseta": "77",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "51334",
+   "Jug_Sale": "FRANCISCO ENRIQUE TRIAY",
+   "CarneEntra": "66219",
+   "Jug_Entra": "JOAQUIN MENENDEZ",
+   "camiseta": "27",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "51080",
+   "Jug_Sale": "AUGUSTO SECCO",
+   "CarneEntra": "48053",
+   "Jug_Entra": "CAETANO JOAQUIN RODRIGUEZ",
+   "camiseta": "6",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "42736",
+   "Jug_Sale": "SANTIAGO SOCA",
+   "CarneEntra": "53751",
+   "Jug_Entra": "FELIPE BELLORA",
+   "camiseta": "17",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "63209",
+   "Jug_Sale": "VALENTIN MENDEZ",
+   "CarneEntra": "47385",
+   "Jug_Entra": "LUCA DANZA",
+   "camiseta": "44",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64480",
+   "Jug_Sale": "MAXIMO FABRICIO NIEVAS",
+   "CarneEntra": "55275",
+   "Jug_Entra": "SEBASTIAN ELTON GONZALEZ",
+   "camiseta": "22",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65783",
+   "Jug_Sale": "BRUNO IGNACIO ALVAREZ",
+   "CarneEntra": "46778",
+   "Jug_Entra": "FRANCO MANUEL FIGUEREDO",
+   "camiseta": "2",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "68868",
+   "Jug_Sale": "EZEQUIEL ENRIQUE LUBARA",
+   "CarneEntra": "63677",
+   "Jug_Entra": "IAN MAXIMILIANO POLERO",
+   "camiseta": "10",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66691",
+   "Jug_Sale": "BRUNO ALEXIS ARAUJO",
+   "CarneEntra": "67839",
+   "Jug_Entra": "KEVIN IGNACIO BRUSCIANO",
+   "camiseta": "8",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59329",
+   "Nombre": "MATEO LAUTARO FERNANDEZ",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,295 @@
+{
+ "id": "99622",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 09:00:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "C. U. CATOLICA AZUL",
+ "visitante": "ARQUITECTURA JRS.",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "405",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-06-06 00:00:00",
+  "Fecha_fin": "2026-06-06 00:00:00",
+  "Locatario": "C. U. CATOLICA AZUL",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ARQUITECTURA JRS.",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66910",
+   "Nombre": "DIOGO ISMAEL LOPEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66908",
+   "Nombre": "LUCIANO NICOLAS BUZON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62783",
+   "Nombre": "RENATO OLIVERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "58900",
+   "Nombre": "MATIAS DUHALDE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67485",
+   "Nombre": "GABRIEL  AGUSTIN MENCHACA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "45212",
+   "Nombre": "TOMAS BERRETA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "68242",
+   "Nombre": "VALENTINO ISMAEL GOLLY",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "67486",
+   "Nombre": "RODRIGO MAZZOLINI",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68671",
+   "Nombre": "FABRIZIO NICOLAS ISLAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65984",
+   "Nombre": "ALFONSO BACCINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67484",
+   "Nombre": "JUAN FRANCO REBOLLO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67481",
+   "Nombre": "DYLAN IVAN VALLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61751",
+   "Nombre": "NAHUEL PEREZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "61430",
+   "Nombre": "GASTON NICOLAS DE OLIVEIRA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52388",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64726",
+   "Nombre": "JOSE VALENTIN VILA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66791",
+   "Nombre": "VICTOR ARMAND PILON",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "62014",
+   "Nombre": "ESTEBAN GABRIEL RODRIGUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58912",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68518",
+   "Nombre": "AGUSTIN EMANUEL ORTIZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "58911",
+   "Nombre": "NICOLAS MOSQUEIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56535",
+   "Nombre": "FRANCO NICOLAS BARCELO",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66908",
+   "Jug_Sale": "LUCIANO NICOLAS BUZON",
+   "CarneEntra": "68276",
+   "Jug_Entra": "GERMAN FALCO",
+   "camiseta": "27",
+   "minutos": "18"
+  },
+  {
+   "CarneSale": "65984",
+   "Jug_Sale": "ALFONSO BACCINO",
+   "CarneEntra": "61312",
+   "Jug_Entra": "FACUNDO NAHUEL NAVAS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62783",
+   "Jug_Sale": "RENATO OLIVERA",
+   "CarneEntra": "68670",
+   "Jug_Entra": "FRANCO EZEQUIEL MARTINEZ",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68671",
+   "Jug_Sale": "FABRIZIO NICOLAS ISLAS",
+   "CarneEntra": "62786",
+   "Jug_Entra": "AGUSTIN DEL PRESTITO",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "45212",
+   "Jug_Sale": "TOMAS BERRETA",
+   "CarneEntra": "61906",
+   "Jug_Entra": "FRANCESCO GALLUCCI",
+   "camiseta": "9",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "68242",
+   "Jug_Sale": "VALENTINO ISMAEL GOLLY",
+   "CarneEntra": "55967",
+   "Jug_Entra": "EMILIO GUSTAVO BALDOVINO",
+   "camiseta": "23",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "66908",
+   "Jug_Sale": "LUCIANO NICOLAS BUZON",
+   "CarneEntra": "68434",
+   "Jug_Entra": "SANTINO CERCHI",
+   "camiseta": "12",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58912",
+   "Jug_Sale": "SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "61420",
+   "Jug_Entra": "DIEGO ALEXANDER GOTTERO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61430",
+   "Jug_Sale": "GASTON NICOLAS DE OLIVEIRA",
+   "CarneEntra": "62016",
+   "Jug_Entra": "MARCO TADEO CRISTINO",
+   "camiseta": "90",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "61751",
+   "Jug_Sale": "NAHUEL PEREZ",
+   "CarneEntra": "65005",
+   "Jug_Entra": "JUAN IGNACIO MENDEZ",
+   "camiseta": "81",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "56535",
+   "Jug_Sale": "FRANCO NICOLAS BARCELO",
+   "CarneEntra": "66792",
+   "Jug_Entra": "SANTIAGO AREVALO",
+   "camiseta": "16",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66908",
+   "Nombre": "LUCIANO NICOLAS BUZON",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56535",
+   "Nombre": "FRANCO NICOLAS BARCELO",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56535",
+   "Nombre": "FRANCO NICOLAS BARCELO",
+   "minutos": "86",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58911",
+   "Nombre": "NICOLAS MOSQUEIRA",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "MATIAS DUHALDE",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,234 @@
+{
+ "id": "102266",
+ "categoria": "reserva-c",
+ "serie": "RSCPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+ "local": "PEÑAROL UNIVERSITARIO",
+ "visitante": "WANDERERS",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "755",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"C\" PER. y DESC.",
+  "Cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+  "Fecha_Inicio": "2026-09-26 13:10:00",
+  "Fecha_fin": "2026-09-26 13:10:00",
+  "Locatario": "PEÑAROL UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66297",
+   "Nombre": "CRISTIAN VELOZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63828",
+   "Nombre": "MAXIMILIANO LOPEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66630",
+   "Nombre": "FRANCISCO PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "69076",
+   "Nombre": "GERARDO DEBRAY QUINTEROS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66298",
+   "Nombre": "MICHAEL GREGORI VELOZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65783",
+   "Nombre": "BRUNO IGNACIO ALVAREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66845",
+   "Nombre": "FACUNDO OLIVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49170",
+   "Nombre": "BRUNO EMILIANO BERMUDEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "66691",
+   "Nombre": "BRUNO ALEXIS ARAUJO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61101",
+   "Nombre": "MATIAS NICOLAS GARCIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67839",
+   "Nombre": "KEVIN IGNACIO BRUSCIANO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57434",
+   "Nombre": "GONZALO ANDRES SANGUINETTI",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "51001",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64727",
+   "Nombre": "BENJAMIN AGUSTIN DIAZ",
+   "camiseta": "58",
+   "Capitan": ""
+  },
+  {
+   "carne": "55367",
+   "Nombre": "LEOPOLDO RIVA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59160",
+   "Nombre": "ALEXANDER PIREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55308",
+   "Nombre": "JUAN MARTIN MALDONADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66824",
+   "Nombre": "GABRIEL HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61300",
+   "Nombre": "LUCIANO DA SILVA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "46318",
+   "Nombre": "FACUNDO DEBENEDETTI",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "45274",
+   "Nombre": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67839",
+   "Jug_Sale": "KEVIN IGNACIO BRUSCIANO",
+   "CarneEntra": "55028",
+   "Jug_Entra": "JUAN RODRIGUEZ",
+   "camiseta": "19",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "63828",
+   "Jug_Sale": "MAXIMILIANO LOPEZ",
+   "CarneEntra": "44849",
+   "Jug_Entra": "FACUNDO EZEQUIEL VALIENTE",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66298",
+   "Jug_Sale": "MICHAEL GREGORI VELOZ",
+   "CarneEntra": "63828",
+   "Jug_Entra": "MAXIMILIANO LOPEZ",
+   "camiseta": "14",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66824",
+   "Jug_Sale": "GABRIEL HERNANDEZ",
+   "CarneEntra": "67264",
+   "Jug_Entra": "IGNACIO KWAME MACHADO",
+   "camiseta": "26",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "45274",
+   "Jug_Sale": "ALEJANDRO GABRIEL MORALES",
+   "CarneEntra": "45708",
+   "Jug_Entra": "GUILLERMO ANDREOLI",
+   "camiseta": "63",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "46318",
+   "Nombre": "FACUNDO DEBENEDETTI",
+   "minutos": "81",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "LEOPOLDO RIVA",
+   "observaciones": ""
+  }
+ ]
+}

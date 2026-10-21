@@ -1,0 +1,299 @@
+{
+ "id": "101349",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 15:30:00",
+ "cancha": "PQUE. ELLIS - COL. SAN ISIDRO",
+ "local": "COLEGIO SAN ISIDRO",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "269",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "PQUE. ELLIS - COL. SAN ISIDRO",
+  "Fecha_Inicio": "2026-08-29 17:20:00",
+  "Fecha_fin": "2026-08-29 17:20:00",
+  "Locatario": "COLEGIO SAN ISIDRO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68823",
+   "Nombre": "MATEO NICOLAS NERVI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61123",
+   "Nombre": "GONZALO NAHUEL MELO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68015",
+   "Nombre": "GUILLERMO NICOLAS MOREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67016",
+   "Nombre": "MARTIN NAHUEL AMARAL",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "60951",
+   "Nombre": "JOAQUIN LARA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61125",
+   "Nombre": "JOAQUIN LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61124",
+   "Nombre": "BENJAMIN LOPEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60120",
+   "Nombre": "FELIPE SIERRA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "66710",
+   "Nombre": "ENZO MIGUES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63499",
+   "Nombre": "JUAN FRANCISCO ARISPE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59219",
+   "Nombre": "JUAN ANDRES COLOMBO",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "69011",
+   "Nombre": "SANTIAGO DANILO GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57212",
+   "Nombre": "MATEO FERNANDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67266",
+   "Nombre": "EZEQUIEL ACUÑA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "69010",
+   "Nombre": "JUAN LAGREGA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67454",
+   "Nombre": "JUAN ANDRES FERNANDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58023",
+   "Nombre": "MANUEL MENDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64044",
+   "Nombre": "LORENZO RAVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68946",
+   "Nombre": "MATEO AGUSTIN CARVALLO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64473",
+   "Nombre": "GIANFRANCO MARCHIORO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65800",
+   "Nombre": "FACUNDO CORONATO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68948",
+   "Nombre": "NICOLAS BERTIZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66710",
+   "Jug_Sale": "ENZO MIGUES",
+   "CarneEntra": "59217",
+   "Jug_Entra": "FEDERICO PIERO GELMINI",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59219",
+   "Jug_Sale": "JUAN ANDRES COLOMBO",
+   "CarneEntra": "59228",
+   "Jug_Entra": "EMILIANO MAESTRO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60951",
+   "Jug_Sale": "JOAQUIN LARA",
+   "CarneEntra": "59215",
+   "Jug_Entra": "SANTIAGO GABRIEL SOSA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67016",
+   "Jug_Sale": "MARTIN NAHUEL AMARAL",
+   "CarneEntra": "66240",
+   "Jug_Entra": "FELIPE ROMAN BOVIO",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "63499",
+   "Jug_Sale": "JUAN FRANCISCO ARISPE",
+   "CarneEntra": "68355",
+   "Jug_Entra": "GERMAN DONATO LUCAS",
+   "camiseta": "12",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "61125",
+   "Jug_Sale": "JOAQUIN LOPEZ",
+   "CarneEntra": "64522",
+   "Jug_Entra": "MATIAS GATTI",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "61124",
+   "Jug_Sale": "BENJAMIN LOPEZ",
+   "CarneEntra": "67017",
+   "Jug_Entra": "FELIPE PISANO",
+   "camiseta": "29",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57212",
+   "Jug_Sale": "MATEO FERNANDEZ",
+   "CarneEntra": "67453",
+   "Jug_Entra": "ADRIAN STEVEN RAMIREZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68948",
+   "Jug_Sale": "NICOLAS BERTIZ",
+   "CarneEntra": "64282",
+   "Jug_Entra": "FACUNDO BORCHE",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67266",
+   "Jug_Sale": "EZEQUIEL ACUÑA",
+   "CarneEntra": "61526",
+   "Jug_Entra": "FACUNDO ARTIGUE",
+   "camiseta": "16",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "68946",
+   "Jug_Sale": "MATEO AGUSTIN CARVALLO",
+   "CarneEntra": "68945",
+   "Jug_Entra": "JONATHAN NAHUEL ROMERO",
+   "camiseta": "19",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "65800",
+   "Jug_Sale": "FACUNDO CORONATO",
+   "CarneEntra": "68894",
+   "Jug_Entra": "TOMAS RUA",
+   "camiseta": "14",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "67454",
+   "Jug_Sale": "JUAN ANDRES FERNANDEZ",
+   "CarneEntra": "57212",
+   "Jug_Entra": "MATEO FERNANDEZ",
+   "camiseta": "3",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "64473",
+   "Nombre": "GIANFRANCO MARCHIORO",
+   "minutos": "61",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68946",
+   "Nombre": "MATEO AGUSTIN CARVALLO",
+   "minutos": "72",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68948",
+   "Nombre": "NICOLAS BERTIZ",
+   "minutos": "28",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

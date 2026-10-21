@@ -1,0 +1,284 @@
+{
+ "id": "99554",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 7,
+ "fechaHora": "2026-05-31 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "CIRCULO DE TENIS MONTEVIDEO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "176",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-05-31 10:55:00",
+  "Fecha_fin": "2026-05-31 10:55:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65017",
+   "Nombre": "DIEGO GUSTAVO VERA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "53726",
+   "Nombre": "IVAN ANDRES GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "41550",
+   "Nombre": "SEBASTIAN EIRALDI",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52859",
+   "Nombre": "ALEN DOMINGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55158",
+   "Nombre": "LAUTARO LUJAN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51058",
+   "Nombre": "TADEO SOBA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62790",
+   "Nombre": "JUAN MARTIN MUÑOZ",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "50625",
+   "Nombre": "IGNACIO GARCIA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50993",
+   "Nombre": "SANTIAGO DURAN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "45724",
+   "Nombre": "NICOLAS POLLERO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "37683",
+   "Nombre": "PABLO GASTON OLIVERA",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47699",
+   "Nombre": "VALENTIN ROSSI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42648",
+   "Nombre": "AGUSTIN JOSE PODESTA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "45391",
+   "Nombre": "FELIPE MOROSOFF",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51840",
+   "Nombre": "AGUSTIN CABALLERO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "50770",
+   "Nombre": "SANTIAGO IGNACIO FILGUEIRAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42509",
+   "Nombre": "JUAN PABLO MUÑOZ",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56653",
+   "Nombre": "JOAQUIN CUBON",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56810",
+   "Nombre": "JUAN IGNACIO ABATE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "50934",
+   "Nombre": "JUAN IGNACIO MOLFINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51214",
+   "Nombre": "FACUNDO MIRANDA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "55130",
+   "Nombre": "RENZO ECHAGUE",
+   "camiseta": "86",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52859",
+   "Jug_Sale": "ALEN DOMINGUEZ",
+   "CarneEntra": "35178",
+   "Jug_Entra": "ANDRES GARCIA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50625",
+   "Jug_Sale": "IGNACIO GARCIA",
+   "CarneEntra": "62298",
+   "Jug_Entra": "FRANCO RUSSOMANO",
+   "camiseta": "71",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "62790",
+   "Jug_Sale": "JUAN MARTIN MUÑOZ",
+   "CarneEntra": "49505",
+   "Jug_Entra": "JUAN MANUEL SALA",
+   "camiseta": "77",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "51058",
+   "Jug_Sale": "TADEO SOBA",
+   "CarneEntra": "26404",
+   "Jug_Entra": "FEDERICO DE LEON",
+   "camiseta": "13",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "45724",
+   "Jug_Sale": "NICOLAS POLLERO",
+   "CarneEntra": "54614",
+   "Jug_Entra": "FRANCISCO NUÑEZ",
+   "camiseta": "10",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56810",
+   "Jug_Sale": "JUAN IGNACIO ABATE",
+   "CarneEntra": "62732",
+   "Jug_Entra": "JOAQUIN AFONSO",
+   "camiseta": "80",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "55130",
+   "Jug_Sale": "RENZO ECHAGUE",
+   "CarneEntra": "43095",
+   "Jug_Entra": "FACUNDO SEBASTIAN LÒPEZ",
+   "camiseta": "45",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "50934",
+   "Jug_Sale": "JUAN IGNACIO MOLFINO",
+   "CarneEntra": "52085",
+   "Jug_Entra": "ENZO NICOLAS ACOSTA",
+   "camiseta": "5",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "51214",
+   "Jug_Sale": "FACUNDO MIRANDA",
+   "CarneEntra": "54010",
+   "Jug_Entra": "TOMAS NAHUEL MANCINI",
+   "camiseta": "26",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "42509",
+   "Jug_Sale": "JUAN PABLO MUÑOZ",
+   "CarneEntra": "20875",
+   "Jug_Entra": "JUAN ANDRES AREOSA",
+   "camiseta": "4",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "50770",
+   "Jug_Sale": "SANTIAGO IGNACIO FILGUEIRAS",
+   "CarneEntra": "21536",
+   "Jug_Entra": "FRANCISCO SEBASTIAN FRONTINI",
+   "camiseta": "50",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "37683",
+   "Nombre": "PABLO GASTON OLIVERA",
+   "minutos": "60",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55130",
+   "Nombre": "RENZO ECHAGUE",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56810",
+   "Nombre": "JUAN IGNACIO ABATE",
+   "minutos": "42",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

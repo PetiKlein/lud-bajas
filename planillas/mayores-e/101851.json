@@ -1,0 +1,211 @@
+{
+ "id": "101851",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 13,
+ "fechaHora": "2026-09-13 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "BODY FACTORY",
+ "visitante": "JEAN PIAGET",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "581",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-13 11:00:00",
+  "Fecha_fin": "2026-09-13 11:00:00",
+  "Locatario": "BODY FACTORY",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "JEAN PIAGET",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58335",
+   "Nombre": "IVAN LACHAISE",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "47286",
+   "Nombre": "CLAUDIO MAXIMILIANO RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60127",
+   "Nombre": "NAHUEL VIERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "43506",
+   "Nombre": "IGNACIO PAIS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66188",
+   "Nombre": "JUAN DIEGO NOZAR",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52329",
+   "Nombre": "DIEGO ENRIQUE EMENS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "41743",
+   "Nombre": "LUCAS EXEQUIEL DIANESSI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "43511",
+   "Nombre": "FABIAN AUGUSTO SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "39998",
+   "Nombre": "BRANDON MAVERINO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "35440",
+   "Nombre": "DIEGO MARTIN BEGUE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59037",
+   "Nombre": "WILDER NAHUEL RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65022",
+   "Nombre": "MATIAS DAMIAN DELIA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "16030",
+   "Nombre": "CARLOS MAURO MATHIEU",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56281",
+   "Nombre": "PABLO RAUL LUCAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "35512",
+   "Nombre": "AGUSTIN PEDRO PUIG",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "41193",
+   "Nombre": "JUAN IGNACIO AYALA",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62360",
+   "Nombre": "MATHIAS NAHUEL MORALES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "65824",
+   "Nombre": "MATHIAS ALEXIS TRAJTENBERG",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67872",
+   "Nombre": "HUMBERTO GAUDIER BRICEÑO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "41096",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "66226",
+   "Nombre": "FEDERICO MARTIN RAMOS",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43511",
+   "Jug_Sale": "FABIAN AUGUSTO SUAREZ",
+   "CarneEntra": "54413",
+   "Jug_Entra": "NICOLAS EMANUEL GOMEZ",
+   "camiseta": "16",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64072",
+   "Jug_Sale": "CHARLES GASTON BORBAS",
+   "CarneEntra": "67711",
+   "Jug_Entra": "ISMAEL DESCALZI",
+   "camiseta": "13",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "39998",
+   "Nombre": "BRANDON MAVERINO",
+   "minutos": "34",
+   "EnContra": "0"
+  },
+  {
+   "carne": "39998",
+   "Nombre": "BRANDON MAVERINO",
+   "minutos": "89",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56281",
+   "Nombre": "PABLO RAUL LUCAS",
+   "minutos": "93",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

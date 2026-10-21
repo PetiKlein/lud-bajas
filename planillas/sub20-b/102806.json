@@ -1,0 +1,261 @@
+{
+ "id": "102806",
+ "categoria": "sub20-b",
+ "serie": "20BTA",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 15:30:00",
+ "cancha": "()",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "CARRASCO POLO CLUB",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "428",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"B\" TITULO",
+  "Cancha": "()",
+  "Fecha_Inicio": "2026-10-10 17:30:00",
+  "Fecha_fin": "2026-10-10 17:30:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CARRASCO POLO CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53537",
+   "Nombre": "MATEO VAZQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57805",
+   "Nombre": "MATEO UBERTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56489",
+   "Nombre": "JOAQUIN MUNIZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61977",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66420",
+   "Nombre": "VALENTIN GASPAR QUARNETI",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "58729",
+   "Nombre": "MATIAS CAMACHO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63384",
+   "Nombre": "AGUSTIN YERLE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68916",
+   "Nombre": "THIAGO MOMBRU",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "56838",
+   "Nombre": "LUCA ALESSANDRO COCINA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59445",
+   "Nombre": "BRUNO ORTEGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "camiseta": "41",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68944",
+   "Nombre": "MANUEL EMILIANO RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62036",
+   "Nombre": "FRANCO COLMAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56795",
+   "Nombre": "JUAN BENJAMIN STIRLING",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56790",
+   "Nombre": "JUAN BAUTISTA GUEDES",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59058",
+   "Nombre": "VALENTIN MANGINI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "59056",
+   "Nombre": "TOMAS MANGINI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62494",
+   "Nombre": "FRANCISCO JESUS GUERRERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "56802",
+   "Nombre": "SANTIAGO CARDELINO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60825",
+   "Nombre": "THIAGO NAHUEL CORDERO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "60516",
+   "Nombre": "ENZO BARIZO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "65460",
+   "Nombre": "JUAN SANTIAGO RADO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61977",
+   "Jug_Sale": "SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "68033",
+   "Jug_Entra": "FRANCO MARTINEZ",
+   "camiseta": "5",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "68916",
+   "Jug_Sale": "THIAGO MOMBRU",
+   "CarneEntra": "66447",
+   "Jug_Entra": "FRANCO SEBASTIAN TECHERA",
+   "camiseta": "29",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "59445",
+   "Jug_Sale": "BRUNO ORTEGA",
+   "CarneEntra": "64205",
+   "Jug_Entra": "CAMILO GAGLIANO",
+   "camiseta": "17",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "56838",
+   "Jug_Sale": "LUCA ALESSANDRO COCINA",
+   "CarneEntra": "59445",
+   "Jug_Entra": "BRUNO ORTEGA",
+   "camiseta": "3",
+   "minutos": "95"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59056",
+   "Jug_Sale": "TOMAS MANGINI",
+   "CarneEntra": "59748",
+   "Jug_Entra": "SANTIAGO MENDEZ",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60516",
+   "Jug_Sale": "ENZO BARIZO",
+   "CarneEntra": "56786",
+   "Jug_Entra": "JUAN DIEGO CASTELLS",
+   "camiseta": "10",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "56795",
+   "Jug_Sale": "JUAN BENJAMIN STIRLING",
+   "CarneEntra": "56798",
+   "Jug_Entra": "TOMAS BENITEZ",
+   "camiseta": "99",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "62036",
+   "Jug_Sale": "FRANCO COLMAN",
+   "CarneEntra": "55483",
+   "Jug_Entra": "IGNACIO PAGES",
+   "camiseta": "5",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "62494",
+   "Jug_Sale": "FRANCISCO JESUS GUERRERO",
+   "CarneEntra": "66104",
+   "Jug_Entra": "ELIAS AARON RODRIGUEZ",
+   "camiseta": "19",
+   "minutos": "95"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58729",
+   "Nombre": "MATIAS CAMACHO",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68916",
+   "Nombre": "THIAGO MOMBRU",
+   "minutos": "60",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

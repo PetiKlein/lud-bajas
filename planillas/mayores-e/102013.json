@@ -1,0 +1,245 @@
+{
+ "id": "102013",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 13,
+ "fechaHora": "2026-09-17 22:00:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "DEPORTIVO SALTO",
+ "visitante": "CLUB ESTUDIANTES INGENIERIA",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "580",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-09-17 23:55:00",
+  "Fecha_fin": "2026-09-17 23:55:00",
+  "Locatario": "DEPORTIVO SALTO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59286",
+   "Nombre": "FRANCO NAHUEL LACERDA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "46471",
+   "Nombre": "PABLO EDUARDO FLORES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56522",
+   "Nombre": "NICOLAS FRONTINI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "40071",
+   "Nombre": "SANTIAGO NICOLAS CUENCA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60236",
+   "Nombre": "EZEQUIEL BARBOZA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37238",
+   "Nombre": "PABLO JAVIER DIAZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "52526",
+   "Nombre": "RENZO LEONARDO PAIVA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61744",
+   "Nombre": "ANTONIO SIMONET",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "54986",
+   "Nombre": "AGUSTIN ESTEVES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "45516",
+   "Nombre": "JOAQUIN LORENZELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48491",
+   "Nombre": "GONZALO MIGUEL BRACCO",
+   "camiseta": "27",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "43111",
+   "Nombre": "JULIAN LEPRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61450",
+   "Nombre": "MARTIN ROTTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "65749",
+   "Nombre": "GARY SAMUEL PIRIZ",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "66875",
+   "Nombre": "GIULIANO CHELONI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "26541",
+   "Nombre": "FEDERICO MARTIN LABORDE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59310",
+   "Nombre": "GONZALO COLMAN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "33500",
+   "Nombre": "FRANCO CAL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "39386",
+   "Nombre": "AGUSTIN PALLEIRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59309",
+   "Nombre": "MARCOS NAHUEL ARRÙA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65902",
+   "Nombre": "FABRIZIO DONATO FERRANTY",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54986",
+   "Jug_Sale": "AGUSTIN ESTEVES",
+   "CarneEntra": "52055",
+   "Jug_Entra": "JOAQUIN GUIMARAES",
+   "camiseta": "3",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "40071",
+   "Jug_Sale": "SANTIAGO NICOLAS CUENCA",
+   "CarneEntra": "68730",
+   "Jug_Entra": "SANTIAGO DAVID DE SOUZA",
+   "camiseta": "26",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "46471",
+   "Jug_Sale": "PABLO EDUARDO FLORES",
+   "CarneEntra": "50939",
+   "Jug_Entra": "FACUNDO CADENAS",
+   "camiseta": "18",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "37238",
+   "Jug_Sale": "PABLO JAVIER DIAZ",
+   "CarneEntra": "54186",
+   "Jug_Entra": "DIEGO VALENTIN ALVEZ",
+   "camiseta": "17",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59309",
+   "Jug_Sale": "MARCOS NAHUEL ARRÙA",
+   "CarneEntra": "59115",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "74",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "33500",
+   "Jug_Sale": "FRANCO CAL",
+   "CarneEntra": "34656",
+   "Jug_Entra": "MATIAS CERETTA",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "65902",
+   "Jug_Sale": "FABRIZIO DONATO FERRANTY",
+   "CarneEntra": "68673",
+   "Jug_Entra": "KEVIN NAHUEL ANTUNEZ",
+   "camiseta": "27",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "43111",
+   "Nombre": "JULIAN LEPRA",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "43111",
+   "Nombre": "JULIAN LEPRA",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

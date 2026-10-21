@@ -1,0 +1,245 @@
+{
+ "id": "102308",
+ "categoria": "reserva-a",
+ "serie": "RSAPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "TENIS EL PINAR",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "643",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"A\" PER. y DESC.",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-26 13:15:00",
+  "Fecha_fin": "2026-09-26 13:15:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "29859",
+   "Nombre": "GUSTAVO GUZMAN AMESPIL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "46744",
+   "Nombre": "JOAQUIN CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "45854",
+   "Nombre": "JULIAN VELAZQUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "41609",
+   "Nombre": "FACUNDO VILLAR",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "53121",
+   "Nombre": "ANDRES RUGGIERO",
+   "camiseta": "95",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66798",
+   "Nombre": "SANTIAGO OLIVERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54162",
+   "Nombre": "FACUNDO ENRIQUE RAMIREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "57131",
+   "Nombre": "GIANFRANCO DUPONT",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53070",
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61079",
+   "Nombre": "JUAN PABLO ZUBILLAGA",
+   "camiseta": "69",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "48653",
+   "Nombre": "MATIAS  BERNARDO VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46848",
+   "Nombre": "FACUNDO BERGARA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49076",
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48656",
+   "Nombre": "LEANDRO GABRIEL TABEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51806",
+   "Nombre": "MATHIAS SEBASTIAN BARRETO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "48657",
+   "Nombre": "BRUNO CABRERA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "58654",
+   "Nombre": "MATIAS NICOLAS BARRIOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "48654",
+   "Nombre": "JUAN PABLO LOCATELLI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66798",
+   "Jug_Sale": "SANTIAGO OLIVERA",
+   "CarneEntra": "45424",
+   "Jug_Entra": "ANDRES VALLARINO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53070",
+   "Jug_Sale": "JUAN IGNACIO MAGRINI",
+   "CarneEntra": "58943",
+   "Jug_Entra": "MATIAS DIEGO MENDEZ",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "57131",
+   "Jug_Sale": "GIANFRANCO DUPONT",
+   "CarneEntra": "50948",
+   "Jug_Entra": "JUAN FRANCISCO CARBAJAL",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "45854",
+   "Jug_Sale": "JULIAN VELAZQUEZ",
+   "CarneEntra": "63343",
+   "Jug_Entra": "LORENZO VERON",
+   "camiseta": "4",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48657",
+   "Jug_Sale": "BRUNO CABRERA",
+   "CarneEntra": "46830",
+   "Jug_Entra": "JULIAN NESTOR MUHA",
+   "camiseta": "8",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "48656",
+   "Jug_Sale": "LEANDRO GABRIEL TABEIRA",
+   "CarneEntra": "38029",
+   "Jug_Entra": "NICOLAS AMOEDO",
+   "camiseta": "20",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "46848",
+   "Jug_Sale": "FACUNDO BERGARA",
+   "CarneEntra": "45225",
+   "Jug_Entra": "LAUTARO PEREZ",
+   "camiseta": "7",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "48654",
+   "Jug_Sale": "JUAN PABLO LOCATELLI",
+   "CarneEntra": "46837",
+   "Jug_Entra": "GIANFRANCO BERRUTTI",
+   "camiseta": "4",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "FACUNDO VILLAR",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

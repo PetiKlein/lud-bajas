@@ -1,0 +1,263 @@
+{
+ "id": "99650",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "TAPE",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "63",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-06-06 13:15:00",
+  "Fecha_fin": "2026-06-06 13:15:00",
+  "Locatario": "TAPE",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58443",
+   "Nombre": "ALFONSO PFEIFF",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37326",
+   "Nombre": "JUAN INCIARTE",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65015",
+   "Nombre": "VALENTIN BISIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62512",
+   "Nombre": "AGUSTIN IBARLUCEA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64545",
+   "Nombre": "RODRIGO ESTEBAN GONZALEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "65012",
+   "Nombre": "JUAN MARTIN IFRAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49165",
+   "Nombre": "GUILLERMO PONS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55777",
+   "Nombre": "LEANDRO MARCELO ERLE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65008",
+   "Nombre": "JUAN DIEGO JACQUES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "58314",
+   "Nombre": "JOAQUIN MENESES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66853",
+   "Nombre": "MARCELO JAVIER RUIZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49084",
+   "Nombre": "GIULIANO CARDOZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41007",
+   "Nombre": "GERARDO SACCO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39903",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "36474",
+   "Nombre": "FEDERICO ILAN ISRAEL",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "31878",
+   "Nombre": "MAXIMILIANO SALA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "52186",
+   "Nombre": "BRUNO MATIAS BIGNOLI",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "44810",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "48917",
+   "Nombre": "FRANCISCO ALGORTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "41534",
+   "Nombre": "DIEGO NICOLAS CHIJANE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "49620",
+   "Nombre": "ALEJO ZEFFERINO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55777",
+   "Jug_Sale": "LEANDRO MARCELO ERLE",
+   "CarneEntra": "47797",
+   "Jug_Entra": "DOMINGO MAYOBRE",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58314",
+   "Jug_Sale": "JOAQUIN MENESES",
+   "CarneEntra": "59462",
+   "Jug_Entra": "BAUTISTA BELGERI",
+   "camiseta": "16",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "66853",
+   "Jug_Sale": "MARCELO JAVIER RUIZ",
+   "CarneEntra": "54540",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "18",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "65008",
+   "Jug_Sale": "JUAN DIEGO JACQUES",
+   "CarneEntra": "59865",
+   "Jug_Entra": "MAXIMO PISANO",
+   "camiseta": "12",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "37326",
+   "Jug_Sale": "JUAN INCIARTE",
+   "CarneEntra": "56347",
+   "Jug_Entra": "JUAN SANTANNA",
+   "camiseta": "27",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "62512",
+   "Jug_Sale": "AGUSTIN IBARLUCEA",
+   "CarneEntra": "59645",
+   "Jug_Entra": "LUCAS BESOZZI",
+   "camiseta": "22",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "65012",
+   "Jug_Sale": "JUAN MARTIN IFRAN",
+   "CarneEntra": "62245",
+   "Jug_Entra": "GONZALO VILLALBA",
+   "camiseta": "13",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52186",
+   "Jug_Sale": "BRUNO MATIAS BIGNOLI",
+   "CarneEntra": "41009",
+   "Jug_Entra": "BRUNO NICOLAS RAVERA",
+   "camiseta": "52",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49620",
+   "Jug_Sale": "ALEJO ZEFFERINO",
+   "CarneEntra": "47764",
+   "Jug_Entra": "BRUNO ZEFFERINO",
+   "camiseta": "34",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "44810",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "53032",
+   "Jug_Entra": "FACUNDO AGUSTIN GOLOUBINTSEFF",
+   "camiseta": "30",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "47764",
+   "Nombre": "BRUNO ZEFFERINO",
+   "minutos": "89",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

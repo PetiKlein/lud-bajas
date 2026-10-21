@@ -1,0 +1,247 @@
+{
+ "id": "101210",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "OLD BRENDANS VERDE",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "269",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-08-29 11:00:00",
+  "Fecha_fin": "2026-08-29 11:00:00",
+  "Locatario": "OLD BRENDANS VERDE",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53394",
+   "Nombre": "DIEGO SABAJ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56474",
+   "Nombre": "JUAN BAUTISTA PAGANI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "49150",
+   "Nombre": "GASTON SCHMIDT",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57719",
+   "Nombre": "TOMAS LORENZO FASCIOLI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "60676",
+   "Nombre": "ANDRES LOPEZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "57033",
+   "Nombre": "LORENZO URIARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64017",
+   "Nombre": "JUAN IGNACIO MENENDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55930",
+   "Nombre": "BRYAN EZEQUIEL GIOVINAZZO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49137",
+   "Nombre": "IÑAKI GARCIA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51067",
+   "Nombre": "MARTIN GAUDIO",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67271",
+   "Nombre": "GASTON GIMENEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61832",
+   "Nombre": "AGUSTIN FRANCA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56300",
+   "Nombre": "NICOLAS CARDOZO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54393",
+   "Nombre": "KEVIN SEBASTIAN LUDUEÑA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66995",
+   "Nombre": "LAUTARO AMAYA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63923",
+   "Nombre": "ADRIAN MOREIRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42691",
+   "Nombre": "MAXIMILIANO MUNDIN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58647",
+   "Nombre": "DIEGO FERNANDO MORALES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64143",
+   "Nombre": "ALFONSO GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58566",
+   "Nombre": "RAMIRO GERMAN CAPELLI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "46276",
+   "Nombre": "FRANCO GUSTAVO MARFEI",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56474",
+   "Jug_Sale": "JUAN BAUTISTA PAGANI",
+   "CarneEntra": "56684",
+   "Jug_Entra": "TOMAS ALDABALDE",
+   "camiseta": "24",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "60676",
+   "Jug_Sale": "ANDRES LOPEZ",
+   "CarneEntra": "56688",
+   "Jug_Entra": "TOMAS PASSADORE",
+   "camiseta": "34",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "57033",
+   "Jug_Sale": "LORENZO URIARTE",
+   "CarneEntra": "55605",
+   "Jug_Entra": "BAUTISTA PARODI",
+   "camiseta": "13",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "55930",
+   "Jug_Sale": "BRYAN EZEQUIEL GIOVINAZZO",
+   "CarneEntra": "58151",
+   "Jug_Entra": "LUCAS FERNANDEZ",
+   "camiseta": "95",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54393",
+   "Jug_Sale": "KEVIN SEBASTIAN LUDUEÑA",
+   "CarneEntra": "58023",
+   "Jug_Entra": "MANUEL MENDEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58566",
+   "Jug_Sale": "RAMIRO GERMAN CAPELLI",
+   "CarneEntra": "54780",
+   "Jug_Entra": "ESTEBAN DANIEL VAZQUEZ",
+   "camiseta": "9",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "46276",
+   "Jug_Sale": "FRANCO GUSTAVO MARFEI",
+   "CarneEntra": "61526",
+   "Jug_Entra": "FACUNDO ARTIGUE",
+   "camiseta": "22",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "61832",
+   "Jug_Sale": "AGUSTIN FRANCA",
+   "CarneEntra": "51199",
+   "Jug_Entra": "NICOLAS AGUSTIN CARDOZO",
+   "camiseta": "13",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "58566",
+   "Nombre": "RAMIRO GERMAN CAPELLI",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

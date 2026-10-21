@@ -1,0 +1,306 @@
+{
+ "id": "98117",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "C. U. CATOLICA AZUL",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "361",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-11 13:00:00",
+  "Fecha_fin": "2026-04-11 13:00:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "C. U. CATOLICA AZUL",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54088",
+   "Nombre": "GIANFRANCO ROSSI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67692",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "43558",
+   "Nombre": "GASTON ALVAREZ DE RON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "41215",
+   "Nombre": "NICOLAS BERTRAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49353",
+   "Nombre": "NICOLAS URRETAVIZCAYA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46794",
+   "Nombre": "RAMIRO IVAN GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46907",
+   "Nombre": "ERNESTO BAUMGARTNER",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58465",
+   "Nombre": "SANTIAGO MEYER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59313",
+   "Nombre": "SEBASTIAN ALEXIS JORAJURIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66694",
+   "Nombre": "BRAYAN MAXIMILIANO GALARZA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "62786",
+   "Nombre": "AGUSTIN DEL PRESTITO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58900",
+   "Nombre": "MATIAS DUHALDE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67483",
+   "Nombre": "OCTAVIO ALVEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62783",
+   "Nombre": "RENATO OLIVERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "55967",
+   "Nombre": "EMILIO GUSTAVO BALDOVINO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "45212",
+   "Nombre": "TOMAS BERRETA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66909",
+   "Nombre": "JUAN MANUEL ZARRILLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58232",
+   "Nombre": "IGNACIO FLEITAS",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54629",
+   "Jug_Sale": "FEDERICO HERNANDEZ",
+   "CarneEntra": "55105",
+   "Jug_Entra": "SANTIAGO ROBALLO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46907",
+   "Jug_Sale": "ERNESTO BAUMGARTNER",
+   "CarneEntra": "52587",
+   "Jug_Entra": "MARCELINO PEREZ",
+   "camiseta": "16",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "41215",
+   "Jug_Sale": "NICOLAS BERTRAN",
+   "CarneEntra": "46909",
+   "Jug_Entra": "FEDERICO KARDJIAN",
+   "camiseta": "9",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "53966",
+   "Jug_Sale": "FELIPE PEREZ",
+   "CarneEntra": "53472",
+   "Jug_Entra": "EMILIANO BASTARRICA",
+   "camiseta": "13",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "67692",
+   "Jug_Sale": "AGUSTIN GONZALEZ",
+   "CarneEntra": "53800",
+   "Jug_Entra": "JUAN PEDRO HOURCADE",
+   "camiseta": "50",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "49353",
+   "Jug_Sale": "NICOLAS URRETAVIZCAYA",
+   "CarneEntra": "60668",
+   "Jug_Entra": "JOAQUIN IGNACIO PARNIZARI",
+   "camiseta": "75",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "49355",
+   "Jug_Sale": "FACUNDO VALENTIN ALLES",
+   "CarneEntra": "54822",
+   "Jug_Entra": "FELIPE CARDENAS",
+   "camiseta": "71",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62783",
+   "Jug_Sale": "RENATO OLIVERA",
+   "CarneEntra": "61312",
+   "Jug_Entra": "FACUNDO NAHUEL NAVAS",
+   "camiseta": "11",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "59313",
+   "Jug_Sale": "SEBASTIAN ALEXIS JORAJURIA",
+   "CarneEntra": "66908",
+   "Jug_Entra": "LUCIANO NICOLAS BUZON",
+   "camiseta": "8",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "62786",
+   "Jug_Sale": "AGUSTIN DEL PRESTITO",
+   "CarneEntra": "67639",
+   "Jug_Entra": "AXEL NAHUEL CASTAÑO",
+   "camiseta": "19",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "55967",
+   "Jug_Sale": "EMILIO GUSTAVO BALDOVINO",
+   "CarneEntra": "67484",
+   "Jug_Entra": "JUAN FRANCO REBOLLO",
+   "camiseta": "17",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "58232",
+   "Jug_Sale": "IGNACIO FLEITAS",
+   "CarneEntra": "67486",
+   "Jug_Entra": "RODRIGO MAZZOLINI",
+   "camiseta": "24",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "45212",
+   "Jug_Sale": "TOMAS BERRETA",
+   "CarneEntra": "61906",
+   "Jug_Entra": "FRANCESCO GALLUCCI",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61312",
+   "Jug_Sale": "FACUNDO NAHUEL NAVAS",
+   "CarneEntra": "66698",
+   "Jug_Entra": "CONRADO DIAZ",
+   "camiseta": "16",
+   "minutos": "60"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46907",
+   "Nombre": "ERNESTO BAUMGARTNER",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "minutos": "35",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MATIAS DUHALDE",
+   "observaciones": ""
+  }
+ ]
+}

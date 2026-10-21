@@ -1,0 +1,237 @@
+{
+ "id": "100973",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "116",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-08-15 13:25:00",
+  "Fecha_fin": "2026-08-15 13:25:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58980",
+   "Nombre": "MATEO PONCE DE LEON",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50926",
+   "Nombre": "THOMAS SCHWARZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "52852",
+   "Nombre": "DIEGO LOPEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "48342",
+   "Nombre": "IGNACIO IHARA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "50929",
+   "Nombre": "JUAN MANUEL CASELLA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49156",
+   "Nombre": "MATHIAS SOARES DE LIMA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "54025",
+   "Nombre": "JOSE IGNACIO ARBILLA",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "52356",
+   "Nombre": "FELIPE ROBAINA",
+   "camiseta": "69",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53624",
+   "Nombre": "MATEO OURTHE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49491",
+   "Nombre": "PEDRO GALLO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55602",
+   "Nombre": "CAETANO MARRONE",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49489",
+   "Nombre": "PAOLO PARIANI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52356",
+   "Jug_Sale": "FELIPE ROBAINA",
+   "CarneEntra": "50128",
+   "Jug_Entra": "JUAN ANDRES GIL",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52646",
+   "Jug_Sale": "JUAN MARTIN BONFIGLIO",
+   "CarneEntra": "55358",
+   "Jug_Entra": "MATTEO REICHERT",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48685",
+   "Jug_Sale": "MAURICIO IHARA",
+   "CarneEntra": "53442",
+   "Jug_Entra": "JUAN RAMON ARBILLA",
+   "camiseta": "45",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "48342",
+   "Jug_Sale": "IGNACIO IHARA",
+   "CarneEntra": "53195",
+   "Jug_Entra": "MATIAS GIGIREY",
+   "camiseta": "23",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42059",
+   "Jug_Sale": "RODRIGO FERREIRO",
+   "CarneEntra": "48896",
+   "Jug_Entra": "FACUNDO ALPUIN",
+   "camiseta": "35",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "55602",
+   "Jug_Sale": "CAETANO MARRONE",
+   "CarneEntra": "55160",
+   "Jug_Entra": "JOAQUIN PEÑA",
+   "camiseta": "10",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "minutos": "91",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

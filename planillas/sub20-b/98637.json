@@ -1,0 +1,247 @@
+{
+ "id": "98637",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 15:30:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "SAN AGUSTIN",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "143",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-04-25 17:30:00",
+  "Fecha_fin": "2026-04-25 17:30:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SAN AGUSTIN",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58657",
+   "Nombre": "SANTIAGO CID DE LA PAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58801",
+   "Nombre": "SALVADOR GARCIA LAGOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58600",
+   "Nombre": "JUAN IGNACIO ACOSTA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54804",
+   "Nombre": "JUAN PEDRO FERNANDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "58601",
+   "Nombre": "LUCAS LENZI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58602",
+   "Nombre": "IGNACIO COSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58502",
+   "Nombre": "TIZIANO VILA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57598",
+   "Nombre": "LUCAS KEUSHKERIAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58604",
+   "Nombre": "JUAN MARTIN VERZERI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58798",
+   "Nombre": "MATEO FRAGA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58607",
+   "Nombre": "MATEO PRESSA",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55556",
+   "Nombre": "LUCA FOFONKA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60838",
+   "Nombre": "MATIAS GRAJALES",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "57288",
+   "Nombre": "TOMAS PEZZOLANO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "67389",
+   "Nombre": "SANTIAGO DAMIAN VELAZQUEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "59374",
+   "Nombre": "MATIAS CRISPINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54759",
+   "Nombre": "AGUSTIN GALINDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67940",
+   "Nombre": "SANTIAGO MATHEW SOSA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63647",
+   "Nombre": "SANTIAGO PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60124",
+   "Nombre": "FACUNDO GARCIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "59654",
+   "Nombre": "JUAN MARTIN PIRIZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58046",
+   "Nombre": "LUCAS DANIEL ABALO",
+   "camiseta": "92",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58657",
+   "Jug_Sale": "SANTIAGO CID DE LA PAZ",
+   "CarneEntra": "57602",
+   "Jug_Entra": "SANTIAGO BOGGIA",
+   "camiseta": "16",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "58801",
+   "Jug_Sale": "SALVADOR GARCIA LAGOS",
+   "CarneEntra": "57604",
+   "Jug_Entra": "SANTIAGO MANUEL CURBELO",
+   "camiseta": "15",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "57598",
+   "Jug_Sale": "LUCAS KEUSHKERIAN",
+   "CarneEntra": "58605",
+   "Jug_Entra": "GIUSEPPE RICCIO",
+   "camiseta": "3",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "58502",
+   "Jug_Sale": "TIZIANO VILA",
+   "CarneEntra": "57631",
+   "Jug_Entra": "JUAN IGNACIO DIAZ",
+   "camiseta": "23",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "57604",
+   "Jug_Sale": "SANTIAGO MANUEL CURBELO",
+   "CarneEntra": "57632",
+   "Jug_Entra": "AGUSTIN MANTERO",
+   "camiseta": "22",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60124",
+   "Jug_Sale": "FACUNDO GARCIA",
+   "CarneEntra": "55788",
+   "Jug_Entra": "JUAN IGNACIO BECOÑA",
+   "camiseta": "38",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "59654",
+   "Jug_Sale": "JUAN MARTIN PIRIZ",
+   "CarneEntra": "58158",
+   "Jug_Entra": "FELIPE PECHIAR",
+   "camiseta": "10",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63647",
+   "Jug_Sale": "SANTIAGO PEREZ",
+   "CarneEntra": "58033",
+   "Jug_Entra": "AGUSTIN EZEQUIEL BUENO",
+   "camiseta": "19",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "58046",
+   "Nombre": "LUCAS DANIEL ABALO",
+   "minutos": "40",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

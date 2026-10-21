@@ -1,0 +1,292 @@
+{
+ "id": "98843",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "CARRASCO POLO CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "35",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-05-16 10:55:00",
+  "Fecha_fin": "2026-05-16 10:55:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CARRASCO POLO CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "48838",
+   "Nombre": "BRUNO GRAJALES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55602",
+   "Nombre": "CAETANO MARRONE",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "48896",
+   "Nombre": "FACUNDO ALPUIN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53624",
+   "Nombre": "MATEO OURTHE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49489",
+   "Nombre": "PAOLO PARIANI",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53730",
+   "Nombre": "RENZO MACHIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49037",
+   "Nombre": "SANTIAGO ROVELLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53865",
+   "Nombre": "JOAQUIN RETHEMIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "40972",
+   "Nombre": "FRANCISCO TRONCOSO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "49091",
+   "Nombre": "MATEO ROSA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42512",
+   "Nombre": "NICOLAS BOLGER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "35208",
+   "Nombre": "JUAN SEGUNDO MASPOLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "24454",
+   "Nombre": "EMILIANO PISANO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48906",
+   "Nombre": "LUCIANO MANGINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "43050",
+   "Nombre": "JOAQUIN COMPANY",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "47537",
+   "Nombre": "JOAQUIN CANOBBIO",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49489",
+   "Jug_Sale": "PAOLO PARIANI",
+   "CarneEntra": "55160",
+   "Jug_Entra": "JOAQUIN PEÑA",
+   "camiseta": "10",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "55602",
+   "Jug_Sale": "CAETANO MARRONE",
+   "CarneEntra": "49414",
+   "Jug_Entra": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "48896",
+   "Jug_Sale": "FACUNDO ALPUIN",
+   "CarneEntra": "62370",
+   "Jug_Entra": "CHRISTIAN ALEJANDRO ROSSI",
+   "camiseta": "19",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "53595",
+   "Jug_Sale": "CARLOS GONZALO DANERS",
+   "CarneEntra": "55476",
+   "Jug_Entra": "IGNACIO MELLO",
+   "camiseta": "52",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "48838",
+   "Jug_Sale": "BRUNO GRAJALES",
+   "CarneEntra": "43856",
+   "Jug_Entra": "AGUSTIN NOVELLI",
+   "camiseta": "70",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47537",
+   "Jug_Sale": "JOAQUIN CANOBBIO",
+   "CarneEntra": "40176",
+   "Jug_Entra": "JUAN PABLO RICO",
+   "camiseta": "16",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "49091",
+   "Jug_Sale": "MATEO ROSA",
+   "CarneEntra": "54410",
+   "Jug_Entra": "THIAGO TOLVE",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48906",
+   "Jug_Sale": "LUCIANO MANGINI",
+   "CarneEntra": "41650",
+   "Jug_Entra": "FELIPE ZAS",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43050",
+   "Jug_Sale": "JOAQUIN COMPANY",
+   "CarneEntra": "56444",
+   "Jug_Entra": "DIOGO LAUTARO DE SOUZA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24454",
+   "Jug_Sale": "EMILIANO PISANO",
+   "CarneEntra": "54897",
+   "Jug_Entra": "THIAGO HERNANDEZ",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "42512",
+   "Jug_Sale": "NICOLAS BOLGER",
+   "CarneEntra": "49245",
+   "Jug_Entra": "FRANCESCO MASONI",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "41650",
+   "Jug_Sale": "FELIPE ZAS",
+   "CarneEntra": "44087",
+   "Jug_Entra": "FRANCISCO ROURE",
+   "camiseta": "7",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49489",
+   "Nombre": "PAOLO PARIANI",
+   "minutos": "29",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "35208",
+   "Nombre": "JUAN SEGUNDO MASPOLI",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "40176",
+   "Nombre": "JUAN PABLO RICO",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

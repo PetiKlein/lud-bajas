@@ -1,0 +1,312 @@
+{
+ "id": "102307",
+ "categoria": "reserva-a",
+ "serie": "RSAPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "CLUB SEMINARIO",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "642",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"A\" PER. y DESC.",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-09-26 13:08:00",
+  "Fecha_fin": "2026-09-26 13:08:00",
+  "Locatario": "CLUB SEMINARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52755",
+   "Nombre": "JOAQUIN MIRANDA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37424",
+   "Nombre": "SANTIAGO PEREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49282",
+   "Nombre": "AGUSTIN TRUJILLO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "60272",
+   "Nombre": "MARIANO ASSANDRI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "50801",
+   "Nombre": "JUAN MANUEL DÌAZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64647",
+   "Nombre": "FABRIZIO OSCAR PAGLIA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53659",
+   "Nombre": "ANDRES HERRERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "47800",
+   "Nombre": "MATIAS GARRIDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47683",
+   "Nombre": "JUAN IGNACIO VIOLA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52457",
+   "Nombre": "SANTIAGO RAUL MAY",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48286",
+   "Nombre": "FRANCISCO AMEIGENDA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49632",
+   "Nombre": "JUAN IGNACIO TOURNIER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50128",
+   "Nombre": "JUAN ANDRES GIL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53196",
+   "Nombre": "JOAQUIN RESTANO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "52853",
+   "Nombre": "NICOLAS SAINTAGNE",
+   "camiseta": "85",
+   "Capitan": ""
+  },
+  {
+   "carne": "48342",
+   "Nombre": "IGNACIO IHARA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "50929",
+   "Nombre": "JUAN MANUEL CASELLA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "55358",
+   "Nombre": "MATTEO REICHERT",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "camiseta": "91",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54025",
+   "Nombre": "JOSE IGNACIO ARBILLA",
+   "camiseta": "68",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48286",
+   "Jug_Sale": "FRANCISCO AMEIGENDA",
+   "CarneEntra": "32966",
+   "Jug_Entra": "JUAN MANUEL GOMEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60272",
+   "Jug_Sale": "MARIANO ASSANDRI",
+   "CarneEntra": "50787",
+   "Jug_Entra": "JUAN PEDRO ABELLA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50801",
+   "Jug_Sale": "JUAN MANUEL DÌAZ",
+   "CarneEntra": "47678",
+   "Jug_Entra": "PEDRO MACKINNON",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49282",
+   "Jug_Sale": "AGUSTIN TRUJILLO",
+   "CarneEntra": "50855",
+   "Jug_Entra": "SEBASTIAN GUILLEN",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "53659",
+   "Jug_Sale": "ANDRES HERRERA",
+   "CarneEntra": "50806",
+   "Jug_Entra": "FACUNDO VAZQUEZ",
+   "camiseta": "5",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "32966",
+   "Jug_Sale": "JUAN MANUEL GOMEZ",
+   "CarneEntra": "48286",
+   "Jug_Entra": "FRANCISCO AMEIGENDA",
+   "camiseta": "9",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53196",
+   "Jug_Sale": "JOAQUIN RESTANO",
+   "CarneEntra": "37177",
+   "Jug_Entra": "DIEGO GARRONE",
+   "camiseta": "18",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "52646",
+   "Jug_Sale": "JUAN MARTIN BONFIGLIO",
+   "CarneEntra": "43219",
+   "Jug_Entra": "GUZMAN LORENZO",
+   "camiseta": "53",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "55358",
+   "Jug_Sale": "MATTEO REICHERT",
+   "CarneEntra": "53195",
+   "Jug_Entra": "MATIAS GIGIREY",
+   "camiseta": "25",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "28952",
+   "Jug_Sale": "SASHA ALEXANDER ANEFF",
+   "CarneEntra": "53442",
+   "Jug_Entra": "JUAN RAMON ARBILLA",
+   "camiseta": "45",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "54025",
+   "Jug_Sale": "JOSE IGNACIO ARBILLA",
+   "CarneEntra": "55358",
+   "Jug_Entra": "MATTEO REICHERT",
+   "camiseta": "99",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48286",
+   "Nombre": "FRANCISCO AMEIGENDA",
+   "minutos": "94",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52457",
+   "Nombre": "SANTIAGO RAUL MAY",
+   "minutos": "8",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52457",
+   "Nombre": "SANTIAGO RAUL MAY",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "minutos": "64",
+   "EnContra": "1"
+  },
+  {
+   "carne": "50128",
+   "Nombre": "JUAN ANDRES GIL",
+   "minutos": "9",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55358",
+   "Nombre": "MATTEO REICHERT",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN IGNACIO VIOLA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "JUAN IGNACIO TOURNIER",
+   "observaciones": ""
+  }
+ ]
+}

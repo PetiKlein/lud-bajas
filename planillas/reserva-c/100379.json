@@ -1,0 +1,288 @@
+{
+ "id": "100379",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COLEGIO PIO",
+ "local": "CENTRO CRISTOBAL COLON",
+ "visitante": "E.L.F.",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "313",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-20 13:20:00",
+  "Fecha_fin": "2026-06-20 13:20:00",
+  "Locatario": "CENTRO CRISTOBAL COLON",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "E.L.F.",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64261",
+   "Nombre": "SANTIAGO HERRERA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63850",
+   "Nombre": "FACUNDO NAHUEL VIDAL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62352",
+   "Nombre": "SANTIAGO RICCONE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56887",
+   "Nombre": "JUAN MANUEL MASEDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "50423",
+   "Nombre": "MARTIN GARCIA",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61602",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "57654",
+   "Nombre": "DONATO NOCETTI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59792",
+   "Nombre": "MATEO ARMANDO OLIVERA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62681",
+   "Nombre": "SANTIAGO PERAZZA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62131",
+   "Nombre": "GONZALO RICCONE",
+   "camiseta": "41",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41722",
+   "Nombre": "NICOLAS FREYER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52276",
+   "Nombre": "SANTIAGO CARAVIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "43672",
+   "Nombre": "ALEJO CORRADI",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48949",
+   "Nombre": "IGNACIO JOSE PALLAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "45411",
+   "Nombre": "MAXIMILIANO PARODI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "49458",
+   "Nombre": "GUZMAN RODRIGUEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "56280",
+   "Nombre": "SEBASTIAN MACHIN",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42786",
+   "Nombre": "MATEO CORRADI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "41367",
+   "Nombre": "FRANCISCO BARTESAGHI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "43242",
+   "Nombre": "FRANCO PASARISA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "46858",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62131",
+   "Jug_Sale": "GONZALO RICCONE",
+   "CarneEntra": "50976",
+   "Jug_Entra": "NICOLAS EZEQUIEL GUTIERREZ",
+   "camiseta": "8",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "61897",
+   "Jug_Sale": "MATIAS MARCELO VERO",
+   "CarneEntra": "67324",
+   "Jug_Entra": "FRANCO VALIENTE",
+   "camiseta": "31",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "57654",
+   "Jug_Sale": "DONATO NOCETTI",
+   "CarneEntra": "63517",
+   "Jug_Entra": "FELIPE FERREIRA",
+   "camiseta": "99",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "62681",
+   "Jug_Sale": "SANTIAGO PERAZZA",
+   "CarneEntra": "50424",
+   "Jug_Entra": "AGUSTIN CLARO",
+   "camiseta": "20",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "59792",
+   "Jug_Sale": "MATEO ARMANDO OLIVERA",
+   "CarneEntra": "58071",
+   "Jug_Entra": "FELIPE IRIGOYEN",
+   "camiseta": "7",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "61602",
+   "Jug_Sale": "JOAQUIN FERNANDEZ",
+   "CarneEntra": "56895",
+   "Jug_Entra": "MATIAS NOYA",
+   "camiseta": "19",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48949",
+   "Jug_Sale": "IGNACIO JOSE PALLAS",
+   "CarneEntra": "40768",
+   "Jug_Entra": "GERMAN PAZOS",
+   "camiseta": "22",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "42786",
+   "Jug_Sale": "MATEO CORRADI",
+   "CarneEntra": "46978",
+   "Jug_Entra": "IGNACIO TASSANI",
+   "camiseta": "18",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "43242",
+   "Jug_Sale": "FRANCO PASARISA",
+   "CarneEntra": "44457",
+   "Jug_Entra": "BRUNO GIORDANO",
+   "camiseta": "7",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "46858",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "42784",
+   "Jug_Entra": "JOSE NICOLAS ROSA",
+   "camiseta": "17",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50423",
+   "Nombre": "MARTIN GARCIA",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62681",
+   "Nombre": "SANTIAGO PERAZZA",
+   "minutos": "72",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "44457",
+   "Nombre": "BRUNO GIORDANO",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45411",
+   "Nombre": "MAXIMILIANO PARODI",
+   "minutos": "13",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46858",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "minutos": "89",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

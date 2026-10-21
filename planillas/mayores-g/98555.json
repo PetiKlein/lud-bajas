@@ -1,0 +1,299 @@
+{
+ "id": "98555",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 3,
+ "fechaHora": "2026-04-26 09:00:00",
+ "cancha": "CHACRA PASO DEL SAUCE",
+ "local": "APENAS UNIVERSITARIO",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "739",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "CHACRA PASO DEL SAUCE",
+  "Fecha_Inicio": "2026-04-26 00:00:00",
+  "Fecha_fin": "2026-04-26 00:00:00",
+  "Locatario": "APENAS UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44447",
+   "Nombre": "PABLO CORREA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "63692",
+   "Nombre": "TOMAS ANGELO LATRONICO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68423",
+   "Nombre": "VALENTINO RODRIGUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37503",
+   "Nombre": "NICOLAS RODRIGO BRANDI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49003",
+   "Nombre": "SANTIAGO DELLACQUA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66392",
+   "Nombre": "AGUSTIN PEREYRA",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "43792",
+   "Nombre": "SEBASTIAN ALEJANDRO MEDINA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "66403",
+   "Nombre": "GHIAN FRANCO SILVEIRA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64452",
+   "Nombre": "BRUNO MATHIAS AIRES",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "38000",
+   "Nombre": "AGUSTIN MINUTTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "32393",
+   "Nombre": "GASTON ROBERTO",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65735",
+   "Nombre": "LAUTARO ESCOBAR",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55147",
+   "Nombre": "EDUARDO IVAN UBAL",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "63567",
+   "Nombre": "JUAN MANUEL CASAIS",
+   "camiseta": "80",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58662",
+   "Nombre": "SANTIAGO LOZANO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64765",
+   "Nombre": "FRANCISCO JAVIER RIVERO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "41030",
+   "Nombre": "LUCAS GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47522",
+   "Nombre": "JUAN IGNACIO BELLO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "67479",
+   "Nombre": "RAMIRO PASTRANA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55669",
+   "Nombre": "MATEO PINTOS",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63692",
+   "Jug_Sale": "TOMAS ANGELO LATRONICO",
+   "CarneEntra": "66030",
+   "Jug_Entra": "MATEO JOSE GALARRAGA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66392",
+   "Jug_Sale": "AGUSTIN PEREYRA",
+   "CarneEntra": "66929",
+   "Jug_Entra": "SANTIAGO ANDRES CALCAGNO",
+   "camiseta": "7",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "68423",
+   "Jug_Sale": "VALENTINO RODRIGUEZ",
+   "CarneEntra": "68279",
+   "Jug_Entra": "GASTON ANDRES ENCISO",
+   "camiseta": "23",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "32393",
+   "Jug_Sale": "GASTON ROBERTO",
+   "CarneEntra": "41376",
+   "Jug_Entra": "GASTON NAPOLI",
+   "camiseta": "33",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64452",
+   "Jug_Sale": "BRUNO MATHIAS AIRES",
+   "CarneEntra": "67145",
+   "Jug_Entra": "JEAN LUCAS DUARTE",
+   "camiseta": "24",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "38000",
+   "Jug_Sale": "AGUSTIN MINUTTI",
+   "CarneEntra": "32393",
+   "Jug_Entra": "GASTON ROBERTO",
+   "camiseta": "12",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62838",
+   "Jug_Sale": "TADEO ARES",
+   "CarneEntra": "53152",
+   "Jug_Entra": "MANUEL ALONSO",
+   "camiseta": "29",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67479",
+   "Jug_Sale": "RAMIRO PASTRANA",
+   "CarneEntra": "58704",
+   "Jug_Entra": "IGNACIO JAVIER ROMERO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64765",
+   "Jug_Sale": "FRANCISCO JAVIER RIVERO",
+   "CarneEntra": "68193",
+   "Jug_Entra": "IGNACIO ZINOLA",
+   "camiseta": "91",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "47522",
+   "Jug_Sale": "JUAN IGNACIO BELLO",
+   "CarneEntra": "67476",
+   "Jug_Entra": "NICOLAS RIVERO",
+   "camiseta": "26",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "41030",
+   "Jug_Sale": "LUCAS GONZALEZ",
+   "CarneEntra": "63640",
+   "Jug_Entra": "GONZALO MAS",
+   "camiseta": "45",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "58662",
+   "Jug_Sale": "SANTIAGO LOZANO",
+   "CarneEntra": "58727",
+   "Jug_Entra": "JOAQUIN GRACIANO",
+   "camiseta": "25",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "55669",
+   "Jug_Sale": "MATEO PINTOS",
+   "CarneEntra": "62586",
+   "Jug_Entra": "LEANDRO MOCCIA",
+   "camiseta": "89",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "47522",
+   "Nombre": "JUAN IGNACIO BELLO",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53152",
+   "Nombre": "MANUEL ALONSO",
+   "minutos": "73",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "minutos": "83",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

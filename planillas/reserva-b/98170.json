@@ -1,0 +1,325 @@
+{
+ "id": "98170",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "CLUB UNIVERSIDAD CATOLICA",
+ "visitante": "HEBRAICA UNIVERSITARIO",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "135",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-04-18 13:15:00",
+  "Fecha_fin": "2026-04-18 13:15:00",
+  "Locatario": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "HEBRAICA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47663",
+   "Nombre": "ANTHONE IVAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33299",
+   "Nombre": "GUILLERMO BRUNO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "60895",
+   "Nombre": "TOMAS ANDRES OTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "57516",
+   "Nombre": "SANTIAGO SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "40445",
+   "Nombre": "JUAN VICENTE CAVALLERI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59798",
+   "Nombre": "MARTIN RIOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51756",
+   "Nombre": "JUAN IGNACIO PERTUSSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64594",
+   "Nombre": "LUCAS NAHUEL MOREIRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56909",
+   "Nombre": "JOAQUIN NICOLAS NAVAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63608",
+   "Nombre": "PABLO MARI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45517",
+   "Nombre": "MATIAS WAPNIARSKY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47255",
+   "Nombre": "ALAN SKORKA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "62767",
+   "Nombre": "MATIAS PINTO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49164",
+   "Nombre": "SEBASTIAN AKERMAN",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "45511",
+   "Nombre": "LUCAS LEVIN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "47247",
+   "Nombre": "ARIEL SOBOL",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57516",
+   "Jug_Sale": "SANTIAGO SUAREZ",
+   "CarneEntra": "58896",
+   "Jug_Entra": "JUAN ANTONIO GONZALEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64594",
+   "Jug_Sale": "LUCAS NAHUEL MOREIRA",
+   "CarneEntra": "46926",
+   "Jug_Entra": "MATIAS ANDRES MUNIZ",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40445",
+   "Jug_Sale": "JUAN VICENTE CAVALLERI",
+   "CarneEntra": "55714",
+   "Jug_Entra": "FELIPE LOVATTO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53606",
+   "Jug_Sale": "GUILLERMO ANDRES REBOLLO",
+   "CarneEntra": "50220",
+   "Jug_Entra": "RAMIRO CHOCHO",
+   "camiseta": "22",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59798",
+   "Jug_Sale": "MARTIN RIOS",
+   "CarneEntra": "57516",
+   "Jug_Entra": "SANTIAGO SUAREZ",
+   "camiseta": "8",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "33299",
+   "Jug_Sale": "GUILLERMO BRUNO",
+   "CarneEntra": "55010",
+   "Jug_Entra": "TOMAS MIRABAL",
+   "camiseta": "24",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "60895",
+   "Jug_Sale": "TOMAS ANDRES OTERO",
+   "CarneEntra": "64594",
+   "Jug_Entra": "LUCAS NAHUEL MOREIRA",
+   "camiseta": "5",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47255",
+   "Jug_Sale": "ALAN SKORKA",
+   "CarneEntra": "54753",
+   "Jug_Entra": "JOAQUIN BANEWUR",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49164",
+   "Jug_Sale": "SEBASTIAN AKERMAN",
+   "CarneEntra": "43828",
+   "Jug_Entra": "BRUNO ALZARADEL",
+   "camiseta": "20",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "62767",
+   "Jug_Sale": "MATIAS PINTO",
+   "CarneEntra": "45526",
+   "Jug_Entra": "EITAN WUHL",
+   "camiseta": "80",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "53835",
+   "Jug_Sale": "MATEO NAHMIAS",
+   "CarneEntra": "52405",
+   "Jug_Entra": "ARIEL SUHAMI",
+   "camiseta": "47",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56384",
+   "Jug_Sale": "MATIAS SZAFRAN",
+   "CarneEntra": "47421",
+   "Jug_Entra": "NICOLAS JAKOB",
+   "camiseta": "77",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64338",
+   "Jug_Sale": "LUCAS DICHTENBERG",
+   "CarneEntra": "54683",
+   "Jug_Entra": "THIAGO PELIART",
+   "camiseta": "22",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "59245",
+   "Jug_Sale": "AGUSTIN JUSTITZ",
+   "CarneEntra": "43038",
+   "Jug_Entra": "DIEGO MIODOWNIK",
+   "camiseta": "49",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46926",
+   "Nombre": "MATIAS ANDRES MUNIZ",
+   "minutos": "50",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63608",
+   "Nombre": "PABLO MARI",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63608",
+   "Nombre": "PABLO MARI",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "minutos": "22",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ARIEL SOBOL",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "id": "97997",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "429",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-04-11 10:55:00",
+  "Fecha_fin": "2026-04-11 10:55:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62246",
+   "Nombre": "BRUNO MOREIRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "59910",
+   "Nombre": "FACUNDO OZMAN PERDOMO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64069",
+   "Nombre": "CARLOS DANIEL GUIDOTTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64071",
+   "Nombre": "FEDERICO SEBASTIAN BENITEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "64356",
+   "Nombre": "FACUNDO GASTON LOPEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "62487",
+   "Nombre": "ALEJO RAMIREZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "62984",
+   "Nombre": "FABRIZIO VALVERDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65085",
+   "Nombre": "FRANCO DIEGO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "62488",
+   "Nombre": "JOAQUIN SEBASTIAN CASAL",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "61823",
+   "Nombre": "GERMAN RIVAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56973",
+   "Nombre": "LUCAS CORREA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53351",
+   "Nombre": "IGNACIO GIL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67277",
+   "Nombre": "JUAN ANDRES COTELO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55484",
+   "Nombre": "GUILLERMO URIA",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "62443",
+   "Nombre": "JUAN SEBASTIAN RUMBO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "51803",
+   "Nombre": "SEBASTIAN TRONCOSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64777",
+   "Nombre": "IVAN VEGOVICH",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64356",
+   "Jug_Sale": "FACUNDO GASTON LOPEZ",
+   "CarneEntra": "63777",
+   "Jug_Entra": "FRANCO OLMOS",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61823",
+   "Jug_Sale": "GERMAN RIVAS",
+   "CarneEntra": "53204",
+   "Jug_Entra": "ARON SPINELLI",
+   "camiseta": "79",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65085",
+   "Jug_Sale": "FRANCO DIEGO",
+   "CarneEntra": "59036",
+   "Jug_Entra": "FACUNDO ROSADO",
+   "camiseta": "94",
+   "minutos": "58"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50127",
+   "Jug_Sale": "SANTIAGO CALVETE",
+   "CarneEntra": "53826",
+   "Jug_Entra": "JUAN IGNACIO SOSA DIAS",
+   "camiseta": "81",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63304",
+   "Jug_Sale": "FRANCO MANUEL ROZINCHIN",
+   "CarneEntra": "63818",
+   "Jug_Entra": "MARTIN LARDITO",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55484",
+   "Jug_Sale": "GUILLERMO URIA",
+   "CarneEntra": "67475",
+   "Jug_Entra": "BRUNO MATEOS",
+   "camiseta": "26",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "59752",
+   "Jug_Sale": "RAMIRO LOPEZ",
+   "CarneEntra": "67275",
+   "Jug_Entra": "MATEO MORALES",
+   "camiseta": "99",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "64777",
+   "Jug_Sale": "IVAN VEGOVICH",
+   "CarneEntra": "67276",
+   "Jug_Entra": "FRANCOIS BURDIAT",
+   "camiseta": "20",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "62443",
+   "Jug_Sale": "JUAN SEBASTIAN RUMBO",
+   "CarneEntra": "67474",
+   "Jug_Entra": "MATIAS FRANCO",
+   "camiseta": "29",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "56973",
+   "Nombre": "LUCAS CORREA",
+   "minutos": "55",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

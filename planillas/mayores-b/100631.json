@@ -1,0 +1,252 @@
+{
+ "id": "100631",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 11:15:00",
+ "cancha": "ELBIO FERNANDEZ",
+ "local": "ELBIO FERNANDEZ",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "203",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "ELBIO FERNANDEZ",
+  "Fecha_Inicio": "2026-06-28 13:10:00",
+  "Fecha_fin": "2026-06-28 13:10:00",
+  "Locatario": "ELBIO FERNANDEZ",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "50489",
+   "Nombre": "AGUSTIN FERREIRA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65714",
+   "Nombre": "KEVIN FAVIO GOMEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "52196",
+   "Nombre": "JOAQUIN ARTIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63551",
+   "Nombre": "ENZO FEDERICO BADIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "35597",
+   "Nombre": "FABIAN CHIRIBAO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "55348",
+   "Nombre": "PEDRO SPENCER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58271",
+   "Nombre": "SANTIAGO CAMPANELLA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52048",
+   "Nombre": "SANTIAGO ARANCO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59302",
+   "Nombre": "TOMAS LEANDRO CESAR",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "48575",
+   "Nombre": "DANIEL OSCAR CABRERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "50437",
+   "Nombre": "MARTIN ALEJANDRO COSTA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41778",
+   "Nombre": "NICOLAS MACCIO",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55634",
+   "Nombre": "SANTIAGO EMANUEL OJEDA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46744",
+   "Nombre": "JOAQUIN CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56006",
+   "Nombre": "SANTIAGO MAZZONCINI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "42288",
+   "Nombre": "MATIAS EMANUEL BERNAT",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "63138",
+   "Nombre": "MATIAS RAFAEL CORREA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "41375",
+   "Nombre": "SANTIAGO FALERO",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "55636",
+   "Nombre": "IGNACIO IRISARRI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "45562",
+   "Nombre": "FRANCO MÜLLER",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "49888",
+   "Nombre": "MANUEL DOGLIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66465",
+   "Nombre": "HECTOR AGUSTIN VEGA",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55348",
+   "Jug_Sale": "PEDRO SPENCER",
+   "CarneEntra": "55606",
+   "Jug_Entra": "GONZALO CHIESA",
+   "camiseta": "31",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "58271",
+   "Jug_Sale": "SANTIAGO CAMPANELLA",
+   "CarneEntra": "59299",
+   "Jug_Entra": "MATIAS PEÑA",
+   "camiseta": "26",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "50437",
+   "Jug_Sale": "MARTIN ALEJANDRO COSTA",
+   "CarneEntra": "47461",
+   "Jug_Entra": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "13",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "41375",
+   "Jug_Sale": "SANTIAGO FALERO",
+   "CarneEntra": "54043",
+   "Jug_Entra": "RODRIGO VALENTIN CASTILLO",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45562",
+   "Jug_Sale": "FRANCO MÜLLER",
+   "CarneEntra": "54663",
+   "Jug_Entra": "ESTEBAN SANTIAGO LOPEZ",
+   "camiseta": "9",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "66465",
+   "Jug_Sale": "HECTOR AGUSTIN VEGA",
+   "CarneEntra": "41375",
+   "Jug_Entra": "SANTIAGO FALERO",
+   "camiseta": "98",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "49888",
+   "Jug_Sale": "MANUEL DOGLIO",
+   "CarneEntra": "52561",
+   "Jug_Entra": "IGNACIO CURRAIS",
+   "camiseta": "90",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48575",
+   "Nombre": "DANIEL OSCAR CABRERA",
+   "minutos": "67",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59299",
+   "Nombre": "MATIAS PEÑA",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55636",
+   "Nombre": "IGNACIO IRISARRI",
+   "minutos": "26",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

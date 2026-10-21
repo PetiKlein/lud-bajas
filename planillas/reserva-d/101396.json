@@ -1,0 +1,274 @@
+{
+ "id": "101396",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 1,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "563",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-08-29 13:10:00",
+  "Fecha_fin": "2026-08-29 13:10:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62246",
+   "Nombre": "BRUNO MOREIRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "63777",
+   "Nombre": "FRANCO OLMOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64071",
+   "Nombre": "FEDERICO SEBASTIAN BENITEZ",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59027",
+   "Nombre": "RODRIGO IGNACIO VILAS",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "62487",
+   "Nombre": "ALEJO RAMIREZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "36368",
+   "Nombre": "MARCOS MANUEL QUEIROZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "62984",
+   "Nombre": "FABRIZIO VALVERDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59910",
+   "Nombre": "FACUNDO OZMAN PERDOMO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62488",
+   "Nombre": "JOAQUIN SEBASTIAN CASAL",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "68765",
+   "Nombre": "MANUEL IDIARTE",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56973",
+   "Nombre": "LUCAS CORREA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "53351",
+   "Nombre": "IGNACIO GIL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52899",
+   "Nombre": "JOAQUIN ZEBALLOS",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "51002",
+   "Nombre": "JUAN MANUEL PEREZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64777",
+   "Nombre": "IVAN VEGOVICH",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "64767",
+   "Nombre": "FACUNDO NICOLAS FARAL",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66167",
+   "Nombre": "AGUSTIN BLAS RIVERO",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "53826",
+   "Nombre": "JUAN IGNACIO SOSA DIAS",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62246",
+   "Jug_Sale": "BRUNO MOREIRA",
+   "CarneEntra": "63538",
+   "Jug_Entra": "LAUTARO NICOLAS MIRABALLE",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62984",
+   "Jug_Sale": "FABRIZIO VALVERDE",
+   "CarneEntra": "58238",
+   "Jug_Entra": "ALEJANDRO RODRIGUEZ",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54931",
+   "Jug_Sale": "GENARO VALENTIN COLOMBO",
+   "CarneEntra": "66523",
+   "Jug_Entra": "JUAN LLOPIS",
+   "camiseta": "90",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "64071",
+   "Jug_Sale": "FEDERICO SEBASTIAN BENITEZ",
+   "CarneEntra": "64352",
+   "Jug_Entra": "MARTIN VALVERDE",
+   "camiseta": "67",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63777",
+   "Jug_Sale": "FRANCO OLMOS",
+   "CarneEntra": "59907",
+   "Jug_Entra": "LUCIANO GONZALEZ",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "62488",
+   "Jug_Sale": "JOAQUIN SEBASTIAN CASAL",
+   "CarneEntra": "59023",
+   "Jug_Entra": "JOSE IGNACIO TEIJEIRO",
+   "camiseta": "4",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "68765",
+   "Jug_Sale": "MANUEL IDIARTE",
+   "CarneEntra": "68996",
+   "Jug_Entra": "FEDERICO MARTIN PASCUAL",
+   "camiseta": "60",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66167",
+   "Jug_Sale": "AGUSTIN BLAS RIVERO",
+   "CarneEntra": "67275",
+   "Jug_Entra": "MATEO MORALES",
+   "camiseta": "91",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52899",
+   "Jug_Sale": "JOAQUIN ZEBALLOS",
+   "CarneEntra": "55484",
+   "Jug_Entra": "GUILLERMO URIA",
+   "camiseta": "87",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "52787",
+   "Jug_Sale": "IGNACIO SLINGER",
+   "CarneEntra": "64252",
+   "Jug_Entra": "SANTIAGO BORRELLI",
+   "camiseta": "28",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "66167",
+   "Nombre": "AGUSTIN BLAS RIVERO",
+   "minutos": "26",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66167",
+   "Nombre": "AGUSTIN BLAS RIVERO",
+   "minutos": "51",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FACUNDO NICOLAS FARAL",
+   "observaciones": ""
+  }
+ ]
+}

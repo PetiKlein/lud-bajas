@@ -1,0 +1,279 @@
+{
+ "id": "98175",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "CARRASCO POLO",
+ "local": "CARRASCO POLO CLUB",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "16",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CARRASCO POLO",
+  "Fecha_Inicio": "2026-04-18 13:07:00",
+  "Fecha_fin": "2026-04-18 13:07:00",
+  "Locatario": "CARRASCO POLO CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53730",
+   "Nombre": "RENZO MACHIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53865",
+   "Nombre": "JOAQUIN RETHEMIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "49091",
+   "Nombre": "MATEO ROSA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "48906",
+   "Nombre": "LUCIANO MANGINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "35208",
+   "Nombre": "JUAN SEGUNDO MASPOLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49245",
+   "Nombre": "FRANCESCO MASONI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "40972",
+   "Nombre": "FRANCISCO TRONCOSO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "40176",
+   "Nombre": "JUAN PABLO RICO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "42512",
+   "Nombre": "NICOLAS BOLGER",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49037",
+   "Nombre": "SANTIAGO ROVELLA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "44668",
+   "Nombre": "GONZALO COMPANY",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59470",
+   "Nombre": "FABRICIO OLIVERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37258",
+   "Nombre": "LUIS PEDRO LENGUAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "34986",
+   "Nombre": "FELIPE ANTONIO AZADIAN",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67091",
+   "Nombre": "FACUNDO TORRES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "54974",
+   "Nombre": "SANTIAGO BOCAGE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "54586",
+   "Nombre": "FRANCISCO SCASSO",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "47508",
+   "Nombre": "HERNAN HARDOY",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "47513",
+   "Nombre": "MAXIMO VARGAS",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "53930",
+   "Nombre": "MAXIMO RICARDO SEIZER",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "54590",
+   "Nombre": "ALFONSO MAILHOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "54580",
+   "Nombre": "JUAN CARLOS VIDIELLA",
+   "camiseta": "49",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44668",
+   "Jug_Sale": "GONZALO COMPANY",
+   "CarneEntra": "43050",
+   "Jug_Entra": "JOAQUIN COMPANY",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49091",
+   "Jug_Sale": "MATEO ROSA",
+   "CarneEntra": "54897",
+   "Jug_Entra": "THIAGO HERNANDEZ",
+   "camiseta": "8",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "42512",
+   "Jug_Sale": "NICOLAS BOLGER",
+   "CarneEntra": "56444",
+   "Jug_Entra": "DIOGO LAUTARO DE SOUZA",
+   "camiseta": "18",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "48906",
+   "Jug_Sale": "LUCIANO MANGINI",
+   "CarneEntra": "57349",
+   "Jug_Entra": "FEDERICO LEON PEREZ",
+   "camiseta": "9",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "49245",
+   "Jug_Sale": "FRANCESCO MASONI",
+   "CarneEntra": "47851",
+   "Jug_Entra": "JUAN IGNACIO URRISA",
+   "camiseta": "20",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "40176",
+   "Jug_Sale": "JUAN PABLO RICO",
+   "CarneEntra": "44087",
+   "Jug_Entra": "FRANCISCO ROURE",
+   "camiseta": "5",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "47851",
+   "Jug_Sale": "JUAN IGNACIO URRISA",
+   "CarneEntra": "58221",
+   "Jug_Entra": "DIEGO ALEJANDRO NOGUERA",
+   "camiseta": "13",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47508",
+   "Jug_Sale": "HERNAN HARDOY",
+   "CarneEntra": "37272",
+   "Jug_Entra": "JUAN LUIS IRULEGUY",
+   "camiseta": "53",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "54590",
+   "Jug_Sale": "ALFONSO MAILHOS",
+   "CarneEntra": "41581",
+   "Jug_Entra": "ALFONSO SIMETO",
+   "camiseta": "33",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "53930",
+   "Jug_Sale": "MAXIMO RICARDO SEIZER",
+   "CarneEntra": "49032",
+   "Jug_Entra": "LUIS GONZALO VARGAS",
+   "camiseta": "97",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "54586",
+   "Jug_Sale": "FRANCISCO SCASSO",
+   "CarneEntra": "49030",
+   "Jug_Entra": "FRANCISCO MARTINEZ",
+   "camiseta": "24",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "67091",
+   "Jug_Sale": "FACUNDO TORRES",
+   "CarneEntra": "49027",
+   "Jug_Entra": "BENJAMIN LOPEZ",
+   "camiseta": "21",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "49027",
+   "Nombre": "BENJAMIN LOPEZ",
+   "minutos": "96",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

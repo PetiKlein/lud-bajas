@@ -1,0 +1,288 @@
+{
+ "id": "99647",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "CLUB UNIVERSIDAD CATOLICA",
+ "visitante": "JUAN XXIII",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "180",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-06-06 13:15:00",
+  "Fecha_fin": "2026-06-06 13:15:00",
+  "Locatario": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47663",
+   "Nombre": "ANTHONE IVAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55010",
+   "Nombre": "TOMAS MIRABAL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "60895",
+   "Nombre": "TOMAS ANDRES OTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "50220",
+   "Nombre": "RAMIRO CHOCHO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56909",
+   "Nombre": "JOAQUIN NICOLAS NAVAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "51756",
+   "Nombre": "JUAN IGNACIO PERTUSSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59798",
+   "Nombre": "MARTIN RIOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "39373",
+   "Nombre": "EMILIANO BERRETA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "46926",
+   "Nombre": "MATIAS ANDRES MUNIZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "63608",
+   "Nombre": "PABLO MARI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54675",
+   "Nombre": "EMILIANO SALVO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "52613",
+   "Nombre": "JUAN MANUEL BUERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56837",
+   "Nombre": "RENZO BORGATO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53728",
+   "Nombre": "NICOLAS MIGUEL DE OCAMPO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "58850",
+   "Nombre": "NICOLAS GANDIOLI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "51507",
+   "Nombre": "MATEO BERTOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "48450",
+   "Nombre": "MATEO CORREA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "62975",
+   "Nombre": "FRANCO ANDRES MIRAFIORE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "55233",
+   "Nombre": "DANTE PEÑA",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "53601",
+   "Nombre": "JOAQUIN CASAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47802",
+   "Nombre": "FACUNDO MARTIN PEREIRA",
+   "camiseta": "37",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50220",
+   "Jug_Sale": "RAMIRO CHOCHO",
+   "CarneEntra": "58896",
+   "Jug_Entra": "JUAN ANTONIO GONZALEZ",
+   "camiseta": "20",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "39373",
+   "Jug_Sale": "EMILIANO BERRETA",
+   "CarneEntra": "55714",
+   "Jug_Entra": "FELIPE LOVATTO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46926",
+   "Jug_Sale": "MATIAS ANDRES MUNIZ",
+   "CarneEntra": "53198",
+   "Jug_Entra": "DIEGO LAGAZETA",
+   "camiseta": "7",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "59798",
+   "Jug_Sale": "MARTIN RIOS",
+   "CarneEntra": "33319",
+   "Jug_Entra": "JUAN CARLOS PINTOS",
+   "camiseta": "15",
+   "minutos": "37"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53601",
+   "Jug_Sale": "JOAQUIN CASAS",
+   "CarneEntra": "47200",
+   "Jug_Entra": "JOAQUIN VILLAR",
+   "camiseta": "30",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "51507",
+   "Jug_Sale": "MATEO BERTOLA",
+   "CarneEntra": "43172",
+   "Jug_Entra": "HERNAN YAÑEZ",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55233",
+   "Jug_Sale": "DANTE PEÑA",
+   "CarneEntra": "57648",
+   "Jug_Entra": "FRANCISCO GUILLEN",
+   "camiseta": "76",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "56837",
+   "Jug_Sale": "RENZO BORGATO",
+   "CarneEntra": "49486",
+   "Jug_Entra": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "62975",
+   "Jug_Sale": "FRANCO ANDRES MIRAFIORE",
+   "CarneEntra": "56837",
+   "Jug_Entra": "RENZO BORGATO",
+   "camiseta": "6",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "58850",
+   "Jug_Sale": "NICOLAS GANDIOLI",
+   "CarneEntra": "55078",
+   "Jug_Entra": "JOAQUIN CELIBERTI",
+   "camiseta": "88",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "47802",
+   "Jug_Sale": "FACUNDO MARTIN PEREIRA",
+   "CarneEntra": "54670",
+   "Jug_Entra": "BRUNO NICOLAS LARRIEU",
+   "camiseta": "24",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "47200",
+   "Nombre": "JOAQUIN VILLAR",
+   "minutos": "95",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47802",
+   "Nombre": "FACUNDO MARTIN PEREIRA",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52613",
+   "Nombre": "JUAN MANUEL BUERO",
+   "minutos": "86",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JUAN MANUEL BUERO",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,319 @@
+{
+ "id": "102059",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+ "local": "HEBRAICA UNIVERSITARIO",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "228",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+  "Fecha_Inicio": "2026-09-19 11:10:00",
+  "Fecha_fin": "2026-09-19 11:10:00",
+  "Locatario": "HEBRAICA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45517",
+   "Nombre": "MATIAS WAPNIARSKY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61200",
+   "Nombre": "ARY GUSTAVO RABINO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "45511",
+   "Nombre": "LUCAS LEVIN",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "52041",
+   "Nombre": "AGUSTIN OLDAK",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "47421",
+   "Nombre": "NICOLAS JAKOB",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "52946",
+   "Nombre": "SEBASTIAN LICHT",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "43038",
+   "Nombre": "DIEGO MIODOWNIK",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59480",
+   "Nombre": "ENZO LEON FREYER",
+   "camiseta": "57",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "51278",
+   "Nombre": "GUILLERMO AGUSTIN BELANDO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "43748",
+   "Nombre": "MATHIAS LUIS BOZZOLASCO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47916",
+   "Nombre": "MARTIN MENDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "44165",
+   "Nombre": "FEDERICO ABDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49808",
+   "Nombre": "BRUNO FERNANDEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "49781",
+   "Nombre": "TADEO BERTOLOTTI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43038",
+   "Jug_Sale": "DIEGO MIODOWNIK",
+   "CarneEntra": "48732",
+   "Jug_Entra": "ILAN CAMONA",
+   "camiseta": "10",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "53835",
+   "Jug_Sale": "MATEO NAHMIAS",
+   "CarneEntra": "37317",
+   "Jug_Entra": "MAURICIO WAITER",
+   "camiseta": "33",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "52041",
+   "Jug_Sale": "AGUSTIN OLDAK",
+   "CarneEntra": "47255",
+   "Jug_Entra": "ALAN SKORKA",
+   "camiseta": "5",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "52946",
+   "Jug_Sale": "SEBASTIAN LICHT",
+   "CarneEntra": "52405",
+   "Jug_Entra": "ARIEL SUHAMI",
+   "camiseta": "7",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "56384",
+   "Jug_Sale": "MATIAS SZAFRAN",
+   "CarneEntra": "59244",
+   "Jug_Entra": "AGUSTÌN PILAS",
+   "camiseta": "80",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "47421",
+   "Jug_Sale": "NICOLAS JAKOB",
+   "CarneEntra": "43458",
+   "Jug_Entra": "MATIAS WILNER",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "61200",
+   "Jug_Sale": "ARY GUSTAVO RABINO",
+   "CarneEntra": "54753",
+   "Jug_Entra": "JOAQUIN BANEWUR",
+   "camiseta": "25",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "43748",
+   "Jug_Sale": "MATHIAS LUIS BOZZOLASCO",
+   "CarneEntra": "53447",
+   "Jug_Entra": "SANTIAGO RAMON URQUIZA",
+   "camiseta": "21",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "44165",
+   "Jug_Sale": "FEDERICO ABDO",
+   "CarneEntra": "52135",
+   "Jug_Entra": "LUCAS FONTES",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53447",
+   "Jug_Sale": "SANTIAGO RAMON URQUIZA",
+   "CarneEntra": "67240",
+   "Jug_Entra": "JUAN MARTIN FAUST",
+   "camiseta": "5",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "47916",
+   "Jug_Sale": "MARTIN MENDEZ",
+   "CarneEntra": "51004",
+   "Jug_Entra": "AGUSTIN NICOLAS CHARLO",
+   "camiseta": "4",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "51278",
+   "Jug_Sale": "GUILLERMO AGUSTIN BELANDO",
+   "CarneEntra": "62269",
+   "Jug_Entra": "SEBASTIAN GEHR",
+   "camiseta": "29",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "57184",
+   "Jug_Sale": "MARCO ESTEBAN TORIELLI",
+   "CarneEntra": "66361",
+   "Jug_Entra": "MAXIMILIANO RATTO",
+   "camiseta": "70",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "49781",
+   "Jug_Sale": "TADEO BERTOLOTTI",
+   "CarneEntra": "47472",
+   "Jug_Entra": "JUAN PABLO PLA",
+   "camiseta": "17",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "37317",
+   "Nombre": "MAURICIO WAITER",
+   "minutos": "85",
+   "EnContra": "0"
+  },
+  {
+   "carne": "37317",
+   "Nombre": "MAURICIO WAITER",
+   "minutos": "85",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52041",
+   "Nombre": "AGUSTIN OLDAK",
+   "minutos": "30",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "minutos": "22",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "BRUNO QUINELES",
+   "observaciones": ""
+  }
+ ]
+}

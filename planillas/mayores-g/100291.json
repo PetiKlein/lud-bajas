@@ -1,0 +1,295 @@
+{
+ "id": "100291",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 10,
+ "fechaHora": "2026-06-21 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "PAMPERO",
+ "visitante": "DEPORTIVO NAVAL",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "800",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-21 11:00:00",
+  "Fecha_fin": "2026-06-21 11:00:00",
+  "Locatario": "PAMPERO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO NAVAL",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67320",
+   "Nombre": "JONATAN DAVID MATONTE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "45520",
+   "Nombre": "JOSE AGUSTIN MONZA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49553",
+   "Nombre": "AGUSTIN PERAZA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "44991",
+   "Nombre": "RICARDO SEBASTIAN MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45242",
+   "Nombre": "LUCAS ALEJO FERNANDEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "56652",
+   "Nombre": "AGUSTIN JAVIER ARTEAGA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64407",
+   "Nombre": "AGUSTIN RAUL RODRIGUEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "51064",
+   "Nombre": "LAUTARO DANIEL VILCHES",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57402",
+   "Nombre": "DIEGO EDUARDO PISA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "62076",
+   "Nombre": "SEBASTIAN ROJAS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "50772",
+   "Nombre": "PATRICIO GINZO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51688",
+   "Nombre": "IVAN NICOLAS MEDEIROS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48140",
+   "Nombre": "IVO LEONARDO FREDES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "40687",
+   "Nombre": "DIEGO FERNANDO FURRER",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "57983",
+   "Nombre": "MATHIAS TEOFILO DELGADO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "36772",
+   "Nombre": "GONZALO DAMIAN CUELLO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "22811",
+   "Nombre": "RICARDO SILVA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "19141",
+   "Nombre": "GONZALO ALVARO LOITEY",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60656",
+   "Nombre": "RAMIRO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "15097",
+   "Nombre": "MARCELO ADRIAN DA SILVA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "38561",
+   "Nombre": "JOSE NICOLAS CARUSO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "27893",
+   "Nombre": "ALEX MAURICIO ROLDAN",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51064",
+   "Jug_Sale": "LAUTARO DANIEL VILCHES",
+   "CarneEntra": "56659",
+   "Jug_Entra": "GIOVANNI VALENTIN MARTINEZ",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67320",
+   "Jug_Sale": "JONATAN DAVID MATONTE",
+   "CarneEntra": "53581",
+   "Jug_Entra": "RENZO DI LEONE",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62076",
+   "Jug_Sale": "SEBASTIAN ROJAS",
+   "CarneEntra": "51064",
+   "Jug_Entra": "LAUTARO DANIEL VILCHES",
+   "camiseta": "8",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "45242",
+   "Jug_Sale": "LUCAS ALEJO FERNANDEZ",
+   "CarneEntra": "62076",
+   "Jug_Entra": "SEBASTIAN ROJAS",
+   "camiseta": "32",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "49553",
+   "Jug_Sale": "AGUSTIN PERAZA",
+   "CarneEntra": "45242",
+   "Jug_Entra": "LUCAS ALEJO FERNANDEZ",
+   "camiseta": "21",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "62076",
+   "Jug_Sale": "SEBASTIAN ROJAS",
+   "CarneEntra": "49553",
+   "Jug_Entra": "AGUSTIN PERAZA",
+   "camiseta": "4",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "40687",
+   "Jug_Sale": "DIEGO FERNANDO FURRER",
+   "CarneEntra": "55053",
+   "Jug_Entra": "LUCAS ALEJANDRO RIZZO",
+   "camiseta": "54",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "22811",
+   "Jug_Sale": "RICARDO SILVA",
+   "CarneEntra": "35639",
+   "Jug_Entra": "CHRISTIAN GUASQUE",
+   "camiseta": "32",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "38561",
+   "Jug_Sale": "JOSE NICOLAS CARUSO",
+   "CarneEntra": "55055",
+   "Jug_Entra": "AGUSTIN FRANCO TROISI",
+   "camiseta": "80",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "15097",
+   "Jug_Sale": "MARCELO ADRIAN DA SILVA",
+   "CarneEntra": "45716",
+   "Jug_Entra": "GUILLERMO LUIS ALVAREZ",
+   "camiseta": "7",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "57983",
+   "Jug_Sale": "MATHIAS TEOFILO DELGADO",
+   "CarneEntra": "66482",
+   "Jug_Entra": "RAFAEL DOLDAN",
+   "camiseta": "12",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45520",
+   "Nombre": "JOSE AGUSTIN MONZA",
+   "minutos": "31",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "27893",
+   "Nombre": "ALEX MAURICIO ROLDAN",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27893",
+   "Nombre": "ALEX MAURICIO ROLDAN",
+   "minutos": "34",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27893",
+   "Nombre": "ALEX MAURICIO ROLDAN",
+   "minutos": "47",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ALEX MAURICIO ROLDAN",
+   "observaciones": ""
+  }
+ ]
+}

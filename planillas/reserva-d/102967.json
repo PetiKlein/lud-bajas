@@ -1,0 +1,266 @@
+{
+ "id": "102967",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 6,
+ "fechaHora": "2026-10-17 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "CLUB ATLETICO LIMBURGO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "586",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-10-17 11:00:00",
+  "Fecha_fin": "2026-10-17 11:00:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB ATLETICO LIMBURGO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58328",
+   "Nombre": "MIRKO NICOLAS ZUVELA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50597",
+   "Nombre": "VALENTIN GONCALVEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "48893",
+   "Nombre": "EMILIANO TELLECHEA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "57068",
+   "Nombre": "JUAN IGNACIO RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "54111",
+   "Nombre": "FACUNDO ALVAREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58541",
+   "Nombre": "RODRIGO SEBABSTIAN CABRERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50596",
+   "Nombre": "SANTIAGO VINAGRE",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55179",
+   "Nombre": "SANTIAGO COUTO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "50343",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58090",
+   "Nombre": "SANTIAGO DE OLIVERA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67006",
+   "Nombre": "LUIS ANTHONY CENTENO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31775",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "51238",
+   "Nombre": "MATIAS BELLINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56504",
+   "Nombre": "THIAGO PELLEGRINO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "53151",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "20989",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "40634",
+   "Nombre": "JUAN MANUEL MONTERO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "47345",
+   "Nombre": "JOAQUIN GABRIEL VARELA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "46385",
+   "Nombre": "FERNANDO EMANUEL FAGALDES",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "50881",
+   "Nombre": "THOMAS JESKE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "45209",
+   "Nombre": "JUAN MARTIN SUEIRO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58541",
+   "Jug_Sale": "RODRIGO SEBABSTIAN CABRERA",
+   "CarneEntra": "55200",
+   "Jug_Entra": "MAURO MATEO HERNANDEZ",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55179",
+   "Jug_Sale": "SANTIAGO COUTO",
+   "CarneEntra": "61834",
+   "Jug_Entra": "MATHIAS ALEXANDER RAMIREZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58090",
+   "Jug_Sale": "SANTIAGO DE OLIVERA",
+   "CarneEntra": "54908",
+   "Jug_Entra": "JOAQUIN BROMBAUER",
+   "camiseta": "5",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "53294",
+   "Jug_Sale": "AGUSTIN SANTIÑAQUE",
+   "CarneEntra": "55296",
+   "Jug_Entra": "MATEO VAZQUEZ",
+   "camiseta": "20",
+   "minutos": "92"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46385",
+   "Jug_Sale": "FERNANDO EMANUEL FAGALDES",
+   "CarneEntra": "69125",
+   "Jug_Entra": "IAN CASTILLO",
+   "camiseta": "12",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "40634",
+   "Jug_Sale": "JUAN MANUEL MONTERO",
+   "CarneEntra": "44079",
+   "Jug_Entra": "FRANCISCO BARRE",
+   "camiseta": "24",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "56504",
+   "Jug_Sale": "THIAGO PELLEGRINO",
+   "CarneEntra": "59742",
+   "Jug_Entra": "MATEO JOSE ONETTO",
+   "camiseta": "0",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "67006",
+   "Jug_Sale": "LUIS ANTHONY CENTENO",
+   "CarneEntra": "69141",
+   "Jug_Entra": "FACUNDO SANTISO",
+   "camiseta": "77",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48893",
+   "Nombre": "EMILIANO TELLECHEA",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54111",
+   "Nombre": "FACUNDO ALVAREZ",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54908",
+   "Nombre": "JOAQUIN BROMBAUER",
+   "minutos": "91",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45209",
+   "Nombre": "JUAN MARTIN SUEIRO",
+   "minutos": "10",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

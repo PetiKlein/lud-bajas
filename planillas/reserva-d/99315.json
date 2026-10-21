@@ -1,0 +1,286 @@
+{
+ "id": "99315",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 4,
+ "fechaHora": "2026-05-28 21:00:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "ELF BLANCO",
+ "visitante": "MATURANA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "449",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-05-28 23:00:00",
+  "Fecha_fin": "2026-05-28 23:00:00",
+  "Locatario": "ELF BLANCO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "MATURANA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59826",
+   "Nombre": "ALFONSO BADANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36849",
+   "Nombre": "LUCAS RICARDO VITOLA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "44977",
+   "Nombre": "FABIO PADULA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "36828",
+   "Nombre": "JUAN GIBERT",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48897",
+   "Nombre": "FRANCISCO BARAIBAR",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "51720",
+   "Nombre": "OCTAVIO BERRUTI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "48529",
+   "Nombre": "MATHEUS FRANCISCO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54929",
+   "Nombre": "MARTIN TALMON",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55866",
+   "Nombre": "FEDERICO BUHL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "38746",
+   "Nombre": "JUAN MANUEL PAGOLA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "45874",
+   "Nombre": "LUCAS BURGHI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "40068",
+   "Nombre": "SANTIAGO BOUSO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52985",
+   "Nombre": "FACUNDO AGUSTIN MARTINEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "55560",
+   "Nombre": "JUAN MATEO PELUFO",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "60622",
+   "Nombre": "TOMAS FELIPPONE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53762",
+   "Nombre": "MAXIMO VERA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "37723",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37188",
+   "Nombre": "CLAUDIO SEBASTIAN FERREIRA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "56781",
+   "Nombre": "FACUNDO MENENDEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54861",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44977",
+   "Jug_Sale": "FABIO PADULA",
+   "CarneEntra": "57205",
+   "Jug_Entra": "DIAGO COSTA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55866",
+   "Jug_Sale": "FEDERICO BUHL",
+   "CarneEntra": "61002",
+   "Jug_Entra": "PEDRO RAINERI",
+   "camiseta": "19",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54929",
+   "Jug_Sale": "MARTIN TALMON",
+   "CarneEntra": "40799",
+   "Jug_Entra": "IGNACIO KAPRIELIAN",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "48529",
+   "Jug_Sale": "MATHEUS FRANCISCO",
+   "CarneEntra": "43441",
+   "Jug_Entra": "SERGIO DANIEL STELLA",
+   "camiseta": "8",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "45874",
+   "Jug_Sale": "LUCAS BURGHI",
+   "CarneEntra": "57927",
+   "Jug_Entra": "MATEO TIO",
+   "camiseta": "10",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "36828",
+   "Jug_Sale": "JUAN GIBERT",
+   "CarneEntra": "56278",
+   "Jug_Entra": "NAHUEL MENDEZ",
+   "camiseta": "14",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55560",
+   "Jug_Sale": "JUAN MATEO PELUFO",
+   "CarneEntra": "60781",
+   "Jug_Entra": "JUAN JOSE NOGUEIRA",
+   "camiseta": "34",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "56781",
+   "Jug_Sale": "FACUNDO MENENDEZ",
+   "CarneEntra": "51163",
+   "Jug_Entra": "MATIAS IVANCICH",
+   "camiseta": "38",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "54861",
+   "Jug_Sale": "FEDERICO GARCIA",
+   "CarneEntra": "57624",
+   "Jug_Entra": "MANUEL THIAGO MARTINEZ",
+   "camiseta": "80",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "53762",
+   "Jug_Sale": "MAXIMO VERA",
+   "CarneEntra": "54793",
+   "Jug_Entra": "MARTIN SAGGIOMO",
+   "camiseta": "66",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "34857",
+   "Jug_Sale": "NICOLAS MELO",
+   "CarneEntra": "48268",
+   "Jug_Entra": "ERNESTO MATIAS PEREYRA",
+   "camiseta": "22",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "52985",
+   "Jug_Sale": "FACUNDO AGUSTIN MARTINEZ",
+   "CarneEntra": "64795",
+   "Jug_Entra": "SANTIAGO VARELA",
+   "camiseta": "50",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48897",
+   "Nombre": "FRANCISCO BARAIBAR",
+   "minutos": "13",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "60622",
+   "Nombre": "TOMAS FELIPPONE",
+   "minutos": "36",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

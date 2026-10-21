@@ -1,0 +1,251 @@
+{
+ "id": "100115",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 13:30:00",
+ "cancha": "SANTA RITA",
+ "local": "SAN AGUSTIN",
+ "visitante": "SANTA ELENA LAGOMAR",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "191",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "SANTA RITA",
+  "Fecha_Inicio": "2026-06-13 15:30:00",
+  "Fecha_fin": "2026-06-13 15:30:00",
+  "Locatario": "SAN AGUSTIN",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "SANTA ELENA LAGOMAR",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59374",
+   "Nombre": "MATIAS CRISPINO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57288",
+   "Nombre": "TOMAS PEZZOLANO",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "58158",
+   "Nombre": "FELIPE PECHIAR",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "58046",
+   "Nombre": "LUCAS DANIEL ABALO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "67389",
+   "Nombre": "SANTIAGO DAMIAN VELAZQUEZ",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "63647",
+   "Nombre": "SANTIAGO PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54759",
+   "Nombre": "AGUSTIN GALINDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67940",
+   "Nombre": "SANTIAGO MATHEW SOSA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60124",
+   "Nombre": "FACUNDO GARCIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65832",
+   "Nombre": "GERONIMO ALBERTO RIVERA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57294",
+   "Nombre": "JOAQUIN GUSTAVO MATTOS",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55249",
+   "Nombre": "MATEO ENRICH",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56497",
+   "Nombre": "LORENZO ILLIONE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "56496",
+   "Nombre": "MANUEL MULA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55645",
+   "Nombre": "GASTON VIERA",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "65117",
+   "Nombre": "MATEO FEDERICO GALVEZ",
+   "camiseta": "59",
+   "Capitan": ""
+  },
+  {
+   "carne": "55586",
+   "Nombre": "IGNACIO MOREIRA",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "59921",
+   "Nombre": "RENZO EZEQUIEL CYGAN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63091",
+   "Nombre": "TOMAS BAUTISTA RUMBO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "61323",
+   "Nombre": "SANTINO MIGUEL VILA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58671",
+   "Nombre": "FELIPE LOPEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58300",
+   "Nombre": "GUILLERMO MAICHE",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60124",
+   "Jug_Sale": "FACUNDO GARCIA",
+   "CarneEntra": "55556",
+   "Jug_Entra": "LUCA FOFONKA",
+   "camiseta": "10",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "57294",
+   "Jug_Sale": "JOAQUIN GUSTAVO MATTOS",
+   "CarneEntra": "55788",
+   "Jug_Entra": "JUAN IGNACIO BECOÑA",
+   "camiseta": "71",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63647",
+   "Jug_Sale": "SANTIAGO PEREZ",
+   "CarneEntra": "68725",
+   "Jug_Entra": "SEBASTIAN ALEXANDER AREVALO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58158",
+   "Jug_Sale": "FELIPE PECHIAR",
+   "CarneEntra": "60838",
+   "Jug_Entra": "MATIAS GRAJALES",
+   "camiseta": "7",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63091",
+   "Jug_Sale": "TOMAS BAUTISTA RUMBO",
+   "CarneEntra": "56495",
+   "Jug_Entra": "BAUTISTA MATEO",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56497",
+   "Jug_Sale": "LORENZO ILLIONE",
+   "CarneEntra": "63086",
+   "Jug_Entra": "FELIPE PELLEGRINO",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "58671",
+   "Jug_Sale": "FELIPE LOPEZ",
+   "CarneEntra": "54597",
+   "Jug_Entra": "MAXIMO EXEQUIEL BERGERO",
+   "camiseta": "69",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55788",
+   "Nombre": "JUAN IGNACIO BECOÑA",
+   "minutos": "60",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58671",
+   "Nombre": "FELIPE LOPEZ",
+   "minutos": "9",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "IGNACIO MOREIRA",
+   "observaciones": ""
+  }
+ ]
+}

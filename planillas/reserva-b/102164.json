@@ -1,0 +1,286 @@
+{
+ "id": "102164",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "J.M.L.M",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "226",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-09-19 13:20:00",
+  "Fecha_fin": "2026-09-19 13:20:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59432",
+   "Nombre": "EDUARDO NAHUEL VELAZCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51734",
+   "Nombre": "NAHUEL JAVIER BALSAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59323",
+   "Nombre": "MARCOS DA SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64208",
+   "Nombre": "JOAQUIN REPETTO",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "56289",
+   "Nombre": "SANTIAGO BAIS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "55021",
+   "Nombre": "TOMAS BICA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60774",
+   "Nombre": "MATEO COMBA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "51216",
+   "Nombre": "IGNACIO ARRIOLA",
+   "camiseta": "88",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56290",
+   "Nombre": "DENIS RODRIGO RAMA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "47766",
+   "Nombre": "MARCOS SANTIAGO HOLLANDER",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64209",
+   "Nombre": "AGUSTIN MORALES",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41531",
+   "Nombre": "JOAQUIN BELTRAN",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54001",
+   "Nombre": "AGUSTIN DANIEL LLUBERAS",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53105",
+   "Nombre": "FELIPE FRIGERIO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "49895",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "49924",
+   "Nombre": "FELIPE BAYARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47534",
+   "Nombre": "SANTIAGO FLEGINSKY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "50933",
+   "Nombre": "SANTIAGO NICOLAS TIZON",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "49501",
+   "Nombre": "TOMAS PARPAL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "53184",
+   "Nombre": "DIEGO DOMINGUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "50448",
+   "Nombre": "JUAN FERNANDO COMPANY",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53376",
+   "Nombre": "GUILLERMO WILSON",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47766",
+   "Jug_Sale": "MARCOS SANTIAGO HOLLANDER",
+   "CarneEntra": "47590",
+   "Jug_Entra": "IGNACIO SILVA",
+   "camiseta": "9",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "56289",
+   "Jug_Sale": "SANTIAGO BAIS",
+   "CarneEntra": "50770",
+   "Jug_Entra": "SANTIAGO IGNACIO FILGUEIRAS",
+   "camiseta": "6",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "64208",
+   "Jug_Sale": "JOAQUIN REPETTO",
+   "CarneEntra": "55138",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "2",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "60774",
+   "Jug_Sale": "MATEO COMBA",
+   "CarneEntra": "54819",
+   "Jug_Entra": "FACUNDO FERRARI",
+   "camiseta": "5",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "56290",
+   "Jug_Sale": "DENIS RODRIGO RAMA",
+   "CarneEntra": "50809",
+   "Jug_Entra": "MARTIN GAITAN",
+   "camiseta": "35",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "51216",
+   "Jug_Sale": "IGNACIO ARRIOLA",
+   "CarneEntra": "50858",
+   "Jug_Entra": "TOMAS  JOAQUIN IBARRA",
+   "camiseta": "10",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "47766",
+   "Jug_Sale": "MARCOS SANTIAGO HOLLANDER",
+   "CarneEntra": "51217",
+   "Jug_Entra": "SANTIAGO MARTIN FRAGOSO",
+   "camiseta": "25",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53376",
+   "Jug_Sale": "GUILLERMO WILSON",
+   "CarneEntra": "52806",
+   "Jug_Entra": "SANTIAGO LUIS",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50448",
+   "Jug_Sale": "JUAN FERNANDO COMPANY",
+   "CarneEntra": "53181",
+   "Jug_Entra": "LUCAS ANDRES MARSIGLIA",
+   "camiseta": "17",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "49924",
+   "Jug_Sale": "FELIPE BAYARDO",
+   "CarneEntra": "53104",
+   "Jug_Entra": "FRANCO MESSANO",
+   "camiseta": "42",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "54001",
+   "Jug_Sale": "AGUSTIN DANIEL LLUBERAS",
+   "CarneEntra": "45776",
+   "Jug_Entra": "NICOLAS DOMINGUEZ",
+   "camiseta": "45",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "49895",
+   "Jug_Sale": "AGUSTIN GONZALEZ",
+   "CarneEntra": "46923",
+   "Jug_Entra": "MATEO PARPAL",
+   "camiseta": "47",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60774",
+   "Nombre": "MATEO COMBA",
+   "minutos": "51",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53376",
+   "Nombre": "GUILLERMO WILSON",
+   "minutos": "36",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

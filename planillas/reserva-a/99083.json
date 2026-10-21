@@ -1,0 +1,298 @@
+{
+ "id": "99083",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "43",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-05-23 13:15:00",
+  "Fecha_fin": "2026-05-23 13:15:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "38029",
+   "Nombre": "NICOLAS AMOEDO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48654",
+   "Nombre": "JUAN PABLO LOCATELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "46837",
+   "Nombre": "GIANFRANCO BERRUTTI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "46848",
+   "Nombre": "FACUNDO BERGARA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "48653",
+   "Nombre": "MATIAS  BERNARDO VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46836",
+   "Nombre": "ANDRES OMAR GIORGI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50666",
+   "Nombre": "FACUNDO LAGO",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56349",
+   "Nombre": "FRANCO CARLOS BARBA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54783",
+   "Nombre": "MARTIN SEBASTIAN GONZALEZ",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "64055",
+   "Nombre": "LAUTHARO MANUEL GUGLIELMONE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "66798",
+   "Nombre": "SANTIAGO OLIVERA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "37903",
+   "Nombre": "MATEO MUJICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45424",
+   "Nombre": "ANDRES VALLARINO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53130",
+   "Nombre": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "53070",
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58943",
+   "Nombre": "MATIAS DIEGO MENDEZ",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "66465",
+   "Nombre": "HECTOR AGUSTIN VEGA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46837",
+   "Jug_Sale": "GIANFRANCO BERRUTTI",
+   "CarneEntra": "48656",
+   "Jug_Entra": "LEANDRO GABRIEL TABEIRA",
+   "camiseta": "47",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "50666",
+   "Jug_Sale": "FACUNDO LAGO",
+   "CarneEntra": "52631",
+   "Jug_Entra": "SANTIAGO DANILO TARDEO",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46836",
+   "Jug_Sale": "ANDRES OMAR GIORGI",
+   "CarneEntra": "48657",
+   "Jug_Entra": "BRUNO CABRERA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48654",
+   "Jug_Sale": "JUAN PABLO LOCATELLI",
+   "CarneEntra": "50899",
+   "Jug_Entra": "EMILIANO CABRERA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48796",
+   "Jug_Sale": "MARTIN JAVIER DIAZ",
+   "CarneEntra": "46834",
+   "Jug_Entra": "FRANCO MOITIÑO",
+   "camiseta": "32",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "46848",
+   "Jug_Sale": "FACUNDO BERGARA",
+   "CarneEntra": "46833",
+   "Jug_Entra": "TOMAS MEDERO",
+   "camiseta": "9",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "45505",
+   "Jug_Sale": "SANTIAGO DANIEL TORRES",
+   "CarneEntra": "48796",
+   "Jug_Entra": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "minutos": "40"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "45424",
+   "Jug_Sale": "ANDRES VALLARINO",
+   "CarneEntra": "57131",
+   "Jug_Entra": "GIANFRANCO DUPONT",
+   "camiseta": "70",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48803",
+   "Jug_Sale": "MATIAS REVELLO",
+   "CarneEntra": "63343",
+   "Jug_Entra": "LORENZO VERON",
+   "camiseta": "44",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "54783",
+   "Jug_Sale": "MARTIN SEBASTIAN GONZALEZ",
+   "CarneEntra": "66795",
+   "Jug_Entra": "GERMAN MUJICA",
+   "camiseta": "11",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "53130",
+   "Jug_Sale": "JUAN IGNACIO AISCAR",
+   "CarneEntra": "43136",
+   "Jug_Entra": "GABRIEL JOAQUIN SUAREZ",
+   "camiseta": "30",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "37903",
+   "Jug_Sale": "MATEO MUJICA",
+   "CarneEntra": "61079",
+   "Jug_Entra": "JUAN PABLO ZUBILLAGA",
+   "camiseta": "38",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "minutos": "16",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66465",
+   "Nombre": "HECTOR AGUSTIN VEGA",
+   "minutos": "77",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

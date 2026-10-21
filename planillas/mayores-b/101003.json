@@ -1,0 +1,277 @@
+{
+ "id": "101003",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 15,
+ "fechaHora": "2026-08-16 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "237",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-08-16 11:00:00",
+  "Fecha_fin": "2026-08-16 11:00:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47699",
+   "Nombre": "VALENTIN ROSSI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42648",
+   "Nombre": "AGUSTIN JOSE PODESTA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "51840",
+   "Nombre": "AGUSTIN CABALLERO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "45391",
+   "Nombre": "FELIPE MOROSOFF",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51200",
+   "Nombre": "LUCAS EXEQUIEL GUERRERO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "56653",
+   "Nombre": "JOAQUIN CUBON",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56810",
+   "Nombre": "JUAN IGNACIO ABATE",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "42509",
+   "Nombre": "JUAN PABLO MUÑOZ",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51214",
+   "Nombre": "FACUNDO MIRANDA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "43095",
+   "Nombre": "FACUNDO SEBASTIAN LÒPEZ",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "50934",
+   "Nombre": "JUAN IGNACIO MOLFINO",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41778",
+   "Nombre": "NICOLAS MACCIO",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45854",
+   "Nombre": "JULIAN VELAZQUEZ",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "46744",
+   "Nombre": "JOAQUIN CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57750",
+   "Nombre": "DIEGO LOPEZ",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "42288",
+   "Nombre": "MATIAS EMANUEL BERNAT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "41375",
+   "Nombre": "SANTIAGO FALERO",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "55634",
+   "Nombre": "SANTIAGO EMANUEL OJEDA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55636",
+   "Nombre": "IGNACIO IRISARRI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "49888",
+   "Nombre": "MANUEL DOGLIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66465",
+   "Nombre": "HECTOR AGUSTIN VEGA",
+   "camiseta": "84",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56810",
+   "Jug_Sale": "JUAN IGNACIO ABATE",
+   "CarneEntra": "55130",
+   "Jug_Entra": "RENZO ECHAGUE",
+   "camiseta": "86",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56810",
+   "Jug_Sale": "JUAN IGNACIO ABATE",
+   "CarneEntra": "62732",
+   "Jug_Entra": "JOAQUIN AFONSO",
+   "camiseta": "86",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42648",
+   "Jug_Sale": "AGUSTIN JOSE PODESTA",
+   "CarneEntra": "56731",
+   "Jug_Entra": "JOAQUIN MAYER",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "50934",
+   "Jug_Sale": "JUAN IGNACIO MOLFINO",
+   "CarneEntra": "54010",
+   "Jug_Entra": "TOMAS NAHUEL MANCINI",
+   "camiseta": "26",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "42509",
+   "Jug_Sale": "JUAN PABLO MUÑOZ",
+   "CarneEntra": "33773",
+   "Jug_Entra": "JUAN ANDRES MOROSOFF",
+   "camiseta": "25",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "51840",
+   "Jug_Sale": "AGUSTIN CABALLERO",
+   "CarneEntra": "21536",
+   "Jug_Entra": "FRANCISCO SEBASTIAN FRONTINI",
+   "camiseta": "4",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49888",
+   "Jug_Sale": "MANUEL DOGLIO",
+   "CarneEntra": "54162",
+   "Jug_Entra": "FACUNDO ENRIQUE RAMIREZ",
+   "camiseta": "88",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "66465",
+   "Jug_Sale": "HECTOR AGUSTIN VEGA",
+   "CarneEntra": "53070",
+   "Jug_Entra": "JUAN IGNACIO MAGRINI",
+   "camiseta": "23",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "55634",
+   "Jug_Sale": "SANTIAGO EMANUEL OJEDA",
+   "CarneEntra": "63138",
+   "Jug_Entra": "MATIAS RAFAEL CORREA",
+   "camiseta": "17",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "45854",
+   "Jug_Sale": "JULIAN VELAZQUEZ",
+   "CarneEntra": "53121",
+   "Jug_Entra": "ANDRES RUGGIERO",
+   "camiseta": "89",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "55636",
+   "Jug_Sale": "IGNACIO IRISARRI",
+   "CarneEntra": "58943",
+   "Jug_Entra": "MATIAS DIEGO MENDEZ",
+   "camiseta": "80",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "55636",
+   "Nombre": "IGNACIO IRISARRI",
+   "minutos": "25",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66465",
+   "Nombre": "HECTOR AGUSTIN VEGA",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

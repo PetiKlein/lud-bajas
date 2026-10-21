@@ -1,0 +1,279 @@
+{
+ "id": "99216",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 6,
+ "fechaHora": "2026-05-24 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SUDAMERICA UNIVERSITARIO",
+ "visitante": "UT SERVIAM",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "526",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-05-24 11:00:00",
+  "Fecha_fin": "2026-05-24 11:00:00",
+  "Locatario": "SUDAMERICA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "UT SERVIAM",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64962",
+   "Nombre": "JUAN BAUTISTA MENDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "40257",
+   "Nombre": "ROQUE MARTIN ANDRADA",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63103",
+   "Nombre": "CAETANO MATEO SPANO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "65969",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "57061",
+   "Nombre": "CLAUDIO ABOAL",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "62438",
+   "Nombre": "FACUNDO BARRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63812",
+   "Nombre": "ANDRES OLIVERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49733",
+   "Nombre": "DIEGO OLASO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "44638",
+   "Nombre": "WALTER SANTIAGO SEGOVIA",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "61873",
+   "Nombre": "JUAN MARTIN FUMERO",
+   "camiseta": "35",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66664",
+   "Nombre": "RODRIGO ZABALETT",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "40626",
+   "Nombre": "JOAQUIN PRADERI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "49900",
+   "Nombre": "GONZALO JAVIER MARTINEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "39586",
+   "Nombre": "NICOLAS BENEDETTI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42325",
+   "Nombre": "NICOLAS RODRIGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51453",
+   "Nombre": "DIEGO OCHOA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "36862",
+   "Nombre": "ANDRES EDUARDO CAMPON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "36852",
+   "Nombre": "JUAN ANDRES BERTELLI",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "66844",
+   "Nombre": "JERSAO DE LOS SNATOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51595",
+   "Nombre": "MATIAS TORRE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40140",
+   "Nombre": "JUAN PEDRO CORA",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61873",
+   "Jug_Sale": "JUAN MARTIN FUMERO",
+   "CarneEntra": "65213",
+   "Jug_Entra": "FACUNDO ANTUNES",
+   "camiseta": "47",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65969",
+   "Jug_Sale": "FEDERICO RODRIGUEZ",
+   "CarneEntra": "64961",
+   "Jug_Entra": "JUAN PABLO ALVAREZ",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62438",
+   "Jug_Sale": "FACUNDO BARRO",
+   "CarneEntra": "56949",
+   "Jug_Entra": "FREDERICK EMANUEL LEITES",
+   "camiseta": "9",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "44638",
+   "Jug_Sale": "WALTER SANTIAGO SEGOVIA",
+   "CarneEntra": "56355",
+   "Jug_Entra": "IVAN VLADIMIR HERNANDEZ",
+   "camiseta": "8",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49900",
+   "Jug_Sale": "GONZALO JAVIER MARTINEZ",
+   "CarneEntra": "44900",
+   "Jug_Entra": "PEDRO DANIEL FEUER",
+   "camiseta": "4",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "66844",
+   "Jug_Sale": "JERSAO DE LOS SNATOS",
+   "CarneEntra": "63946",
+   "Jug_Entra": "JONATHAN MONTELONGO",
+   "camiseta": "7",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "51595",
+   "Jug_Sale": "MATIAS TORRE",
+   "CarneEntra": "35916",
+   "Jug_Entra": "RODRIGO LUIS CUBRIA",
+   "camiseta": "18",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "40626",
+   "Jug_Sale": "JOAQUIN PRADERI",
+   "CarneEntra": "61818",
+   "Jug_Entra": "MANUEL SALVO",
+   "camiseta": "99",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "40140",
+   "Jug_Sale": "JUAN PEDRO CORA",
+   "CarneEntra": "35677",
+   "Jug_Entra": "MIGUEL MARCOS PUGLIESE",
+   "camiseta": "27",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49733",
+   "Nombre": "DIEGO OLASO",
+   "minutos": "77",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56949",
+   "Nombre": "FREDERICK EMANUEL LEITES",
+   "minutos": "96",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "36862",
+   "Nombre": "ANDRES EDUARDO CAMPON",
+   "minutos": "9",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49900",
+   "Nombre": "GONZALO JAVIER MARTINEZ",
+   "minutos": "17",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "RODRIGO ZABALETT",
+   "observaciones": ""
+  }
+ ]
+}

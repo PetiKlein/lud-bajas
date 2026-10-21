@@ -1,0 +1,357 @@
+{
+ "id": "101086",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 15,
+ "fechaHora": "2026-08-16 09:15:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "WANDERERS",
+ "gl": 6,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "353",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-08-16 11:15:00",
+  "Fecha_fin": "2026-08-16 11:15:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "5",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53288",
+   "Nombre": "MAIKOL JAVIER MIGLIACCIO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "40923",
+   "Nombre": "IGNACIO SILVA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46986",
+   "Nombre": "RODRIGO BELSITO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "68962",
+   "Nombre": "LEANDRO ANDRES ZEBALLOS",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "59627",
+   "Nombre": "NICOLAS GARCIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "47181",
+   "Nombre": "SANTIAGO QUIROGA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53802",
+   "Nombre": "RODRIGO CUNEO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60995",
+   "Nombre": "MARCELINO BERRUTTI",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "65595",
+   "Nombre": "EZEQUIEL ALEXANDRE ESCOBAR",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "37926",
+   "Nombre": "FRANCO NICOLAS CORROCHANO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47179",
+   "Nombre": "DIEGO HERNAN DELGADO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61300",
+   "Nombre": "LUCIANO DA SILVA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "68296",
+   "Nombre": "SANTIAGO CUELLO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "44857",
+   "Nombre": "FRANCO SORMANI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "67260",
+   "Nombre": "AGUSTIN TERMEZANA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "59153",
+   "Nombre": "MARCOS VALENTIN GONZALEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68676",
+   "Nombre": "JOAQUIN NICOLAS REZZANO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "68297",
+   "Nombre": "MAXIMILIANO CAMBELL",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "52768",
+   "Nombre": "GUILLERMO MAÑKA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "55365",
+   "Nombre": "IGNACIO MANUEL MALLO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "44673",
+   "Nombre": "SANTIAGO ISAIAS SOLE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "37182",
+   "Nombre": "SANTIAGO MALLO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59627",
+   "Jug_Sale": "NICOLAS GARCIA",
+   "CarneEntra": "41789",
+   "Jug_Entra": "RODRIGO MARTIN IGLESIAS",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53802",
+   "Jug_Sale": "RODRIGO CUNEO",
+   "CarneEntra": "46794",
+   "Jug_Entra": "RAMIRO IVAN GONZALEZ",
+   "camiseta": "11",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "46986",
+   "Jug_Sale": "RODRIGO BELSITO",
+   "CarneEntra": "59627",
+   "Jug_Entra": "NICOLAS GARCIA",
+   "camiseta": "17",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "60995",
+   "Jug_Sale": "MARCELINO BERRUTTI",
+   "CarneEntra": "57805",
+   "Jug_Entra": "MATEO UBERTI",
+   "camiseta": "20",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "68962",
+   "Jug_Sale": "LEANDRO ANDRES ZEBALLOS",
+   "CarneEntra": "53802",
+   "Jug_Entra": "RODRIGO CUNEO",
+   "camiseta": "9",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "47179",
+   "Jug_Sale": "DIEGO HERNAN DELGADO",
+   "CarneEntra": "46909",
+   "Jug_Entra": "FEDERICO KARDJIAN",
+   "camiseta": "21",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61300",
+   "Jug_Sale": "LUCIANO DA SILVA",
+   "CarneEntra": "60680",
+   "Jug_Entra": "ZINEDINE NATAN FISCHER",
+   "camiseta": "44",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "59153",
+   "Jug_Sale": "MARCOS VALENTIN GONZALEZ",
+   "CarneEntra": "68863",
+   "Jug_Entra": "VALENTIN RIVERO",
+   "camiseta": "23",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "68297",
+   "Jug_Sale": "MAXIMILIANO CAMBELL",
+   "CarneEntra": "61865",
+   "Jug_Entra": "NAZARENO PINTOS",
+   "camiseta": "31",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "52768",
+   "Jug_Sale": "GUILLERMO MAÑKA",
+   "CarneEntra": "56585",
+   "Jug_Entra": "TADEO IBAÑEZ",
+   "camiseta": "40",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "55365",
+   "Jug_Sale": "IGNACIO MANUEL MALLO",
+   "CarneEntra": "43616",
+   "Jug_Entra": "SANTIAGO VEGLIO",
+   "camiseta": "8",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "37182",
+   "Jug_Sale": "SANTIAGO MALLO",
+   "CarneEntra": "61300",
+   "Jug_Entra": "LUCIANO DA SILVA",
+   "camiseta": "34",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "44673",
+   "Jug_Sale": "SANTIAGO ISAIAS SOLE",
+   "CarneEntra": "55308",
+   "Jug_Entra": "JUAN MARTIN MALDONADO",
+   "camiseta": "15",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "37926",
+   "Nombre": "FRANCO NICOLAS CORROCHANO",
+   "minutos": "17",
+   "EnContra": "0"
+  },
+  {
+   "carne": "37926",
+   "Nombre": "FRANCO NICOLAS CORROCHANO",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47179",
+   "Nombre": "DIEGO HERNAN DELGADO",
+   "minutos": "19",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47179",
+   "Nombre": "DIEGO HERNAN DELGADO",
+   "minutos": "88",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53288",
+   "Nombre": "MAIKOL JAVIER MIGLIACCIO",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53802",
+   "Nombre": "RODRIGO CUNEO",
+   "minutos": "28",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "44673",
+   "Nombre": "SANTIAGO ISAIAS SOLE",
+   "minutos": "2",
+   "EnContra": "1"
+  },
+  {
+   "carne": "44673",
+   "Nombre": "SANTIAGO ISAIAS SOLE",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55365",
+   "Nombre": "IGNACIO MANUEL MALLO",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68297",
+   "Nombre": "MAXIMILIANO CAMBELL",
+   "minutos": "74",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68676",
+   "Nombre": "JOAQUIN NICOLAS REZZANO",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FRANCO SORMANI",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "AGUSTIN TERMEZANA",
+   "observaciones": ""
+  }
+ ]
+}

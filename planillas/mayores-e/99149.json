@@ -1,0 +1,319 @@
+{
+ "id": "99149",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 6,
+ "fechaHora": "2026-05-24 09:00:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "JEAN PIAGET",
+ "visitante": "CLUB ESTUDIANTES INGENIERIA",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "528",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-05-24 11:00:00",
+  "Fecha_fin": "2026-05-24 11:00:00",
+  "Locatario": "JEAN PIAGET",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59037",
+   "Nombre": "WILDER NAHUEL RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35512",
+   "Nombre": "AGUSTIN PEDRO PUIG",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65824",
+   "Nombre": "MATHIAS ALEXIS TRAJTENBERG",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "61830",
+   "Nombre": "FEDERICO LAVISTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "41193",
+   "Nombre": "JUAN IGNACIO AYALA",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61882",
+   "Nombre": "SIMON DUTRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "65022",
+   "Nombre": "MATIAS DAMIAN DELIA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65466",
+   "Nombre": "CESAR DANILO TELLECHEA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "16030",
+   "Nombre": "CARLOS MAURO MATHIEU",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67684",
+   "Nombre": "SEBASTIAN ALEJANDRO PEREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56281",
+   "Nombre": "PABLO RAUL LUCAS",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "43111",
+   "Nombre": "JULIAN LEPRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66875",
+   "Nombre": "GIULIANO CHELONI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "66687",
+   "Nombre": "PATRICIO ACOSTA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61450",
+   "Nombre": "MARTIN ROTTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "65749",
+   "Nombre": "GARY SAMUEL PIRIZ",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "33500",
+   "Nombre": "FRANCO CAL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "26541",
+   "Nombre": "FEDERICO MARTIN LABORDE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66688",
+   "Nombre": "DIONISIO BELL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59309",
+   "Nombre": "MARCOS NAHUEL ARRÙA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51303",
+   "Nombre": "FELIPE CASARAVILLA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65022",
+   "Jug_Sale": "MATIAS DAMIAN DELIA",
+   "CarneEntra": "62360",
+   "Jug_Entra": "MATHIAS NAHUEL MORALES",
+   "camiseta": "21",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65466",
+   "Jug_Sale": "CESAR DANILO TELLECHEA",
+   "CarneEntra": "66227",
+   "Jug_Entra": "ALEXANDER CASTELLI",
+   "camiseta": "35",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "61882",
+   "Jug_Sale": "SIMON DUTRA",
+   "CarneEntra": "43425",
+   "Jug_Entra": "JUAN IGNACIO CARRION",
+   "camiseta": "33",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "67684",
+   "Jug_Sale": "SEBASTIAN ALEJANDRO PEREZ",
+   "CarneEntra": "54493",
+   "Jug_Entra": "WESLEY PATRICK ALTESOR",
+   "camiseta": "8",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "65824",
+   "Jug_Sale": "MATHIAS ALEXIS TRAJTENBERG",
+   "CarneEntra": "66204",
+   "Jug_Entra": "OSCAR MICHEL MOLINA",
+   "camiseta": "14",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "35512",
+   "Jug_Sale": "AGUSTIN PEDRO PUIG",
+   "CarneEntra": "67424",
+   "Jug_Entra": "LUCAS MIGUEL MESTRE",
+   "camiseta": "15",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "16030",
+   "Jug_Sale": "CARLOS MAURO MATHIEU",
+   "CarneEntra": "68607",
+   "Jug_Entra": "RICARDO JAVIER MOURELLE",
+   "camiseta": "30",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66687",
+   "Jug_Sale": "PATRICIO ACOSTA",
+   "CarneEntra": "59115",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33500",
+   "Jug_Sale": "FRANCO CAL",
+   "CarneEntra": "65902",
+   "Jug_Entra": "FABRIZIO DONATO FERRANTY",
+   "camiseta": "13",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "51303",
+   "Jug_Sale": "FELIPE CASARAVILLA",
+   "CarneEntra": "39386",
+   "Jug_Entra": "AGUSTIN PALLEIRO",
+   "camiseta": "17",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "66688",
+   "Jug_Sale": "DIONISIO BELL",
+   "CarneEntra": "34656",
+   "Jug_Entra": "MATIAS CERETTA",
+   "camiseta": "9",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "59309",
+   "Jug_Sale": "MARCOS NAHUEL ARRÙA",
+   "CarneEntra": "59310",
+   "Jug_Entra": "GONZALO COLMAN",
+   "camiseta": "4",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "65749",
+   "Jug_Sale": "GARY SAMUEL PIRIZ",
+   "CarneEntra": "68522",
+   "Jug_Entra": "DIEGO HENRRY GADEA",
+   "camiseta": "25",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "66875",
+   "Jug_Sale": "GIULIANO CHELONI",
+   "CarneEntra": "66689",
+   "Jug_Entra": "SANTIAGO NICOLAS IROLDI",
+   "camiseta": "27",
+   "minutos": "68"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56281",
+   "Nombre": "PABLO RAUL LUCAS",
+   "minutos": "93",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66688",
+   "Nombre": "DIONISIO BELL",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66688",
+   "Nombre": "DIONISIO BELL",
+   "minutos": "58",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FEDERICO LAVISTA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

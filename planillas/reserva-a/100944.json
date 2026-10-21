@@ -1,0 +1,307 @@
+{
+ "id": "100944",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "114",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-08-15 13:35:00",
+  "Fecha_fin": "2026-08-15 13:35:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "29859",
+   "Nombre": "GUSTAVO GUZMAN AMESPIL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "41609",
+   "Nombre": "FACUNDO VILLAR",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53121",
+   "Nombre": "ANDRES RUGGIERO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "64055",
+   "Nombre": "LAUTHARO MANUEL GUGLIELMONE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "37903",
+   "Nombre": "MATEO MUJICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63138",
+   "Nombre": "MATIAS RAFAEL CORREA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "45424",
+   "Nombre": "ANDRES VALLARINO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58943",
+   "Nombre": "MATIAS DIEGO MENDEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "53070",
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61079",
+   "Nombre": "JUAN PABLO ZUBILLAGA",
+   "camiseta": "86",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67312",
+   "Nombre": "JUAN ANDRES VIÑOLY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58350",
+   "Nombre": "RAMIRO LEONCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56963",
+   "Nombre": "LUCAS BERTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55500",
+   "Nombre": "TOMAS KEUROGLIAN",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63582",
+   "Nombre": "ENZO GABRIEL URIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "31292",
+   "Nombre": "SANTIAGO ELIAS GAGGERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "50717",
+   "Nombre": "SANTIAGO VEIGA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53807",
+   "Nombre": "JUAN PEDRO GOMEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "36051",
+   "Nombre": "GONZALO PEREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "57413",
+   "Nombre": "ENZO SEBASTIAN LAXAGUE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45424",
+   "Jug_Sale": "ANDRES VALLARINO",
+   "CarneEntra": "53130",
+   "Jug_Entra": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "48803",
+   "Jug_Sale": "MATIAS REVELLO",
+   "CarneEntra": "63343",
+   "Jug_Entra": "LORENZO VERON",
+   "camiseta": "4",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61079",
+   "Jug_Sale": "JUAN PABLO ZUBILLAGA",
+   "CarneEntra": "43136",
+   "Jug_Entra": "GABRIEL JOAQUIN SUAREZ",
+   "camiseta": "30",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "58943",
+   "Jug_Sale": "MATIAS DIEGO MENDEZ",
+   "CarneEntra": "66795",
+   "Jug_Entra": "GERMAN MUJICA",
+   "camiseta": "15",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "37903",
+   "Jug_Sale": "MATEO MUJICA",
+   "CarneEntra": "66798",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "27",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "53121",
+   "Jug_Sale": "ANDRES RUGGIERO",
+   "CarneEntra": "61669",
+   "Jug_Entra": "NICOLAS BENTANCOR",
+   "camiseta": "29",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63582",
+   "Jug_Sale": "ENZO GABRIEL URIA",
+   "CarneEntra": "49582",
+   "Jug_Entra": "CHRISTIAN DARIO",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53807",
+   "Jug_Sale": "JUAN PEDRO GOMEZ",
+   "CarneEntra": "60494",
+   "Jug_Entra": "PEDRO ALBERTO LISTA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31292",
+   "Jug_Sale": "SANTIAGO ELIAS GAGGERO",
+   "CarneEntra": "56667",
+   "Jug_Entra": "JUAN DIEGO GODOY",
+   "camiseta": "22",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "57413",
+   "Jug_Sale": "ENZO SEBASTIAN LAXAGUE",
+   "CarneEntra": "46500",
+   "Jug_Entra": "ENZO RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "55500",
+   "Jug_Sale": "TOMAS KEUROGLIAN",
+   "CarneEntra": "40692",
+   "Jug_Entra": "NICOLAS COLLINS",
+   "camiseta": "9",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43136",
+   "Nombre": "GABRIEL JOAQUIN SUAREZ",
+   "minutos": "87",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61079",
+   "Nombre": "JUAN PABLO ZUBILLAGA",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61079",
+   "Nombre": "JUAN PABLO ZUBILLAGA",
+   "minutos": "51",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63138",
+   "Nombre": "MATIAS RAFAEL CORREA",
+   "minutos": "17",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "40692",
+   "Nombre": "NICOLAS COLLINS",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56667",
+   "Nombre": "JUAN DIEGO GODOY",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

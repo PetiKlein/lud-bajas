@@ -1,0 +1,260 @@
+{
+ "id": "99118",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 15:30:00",
+ "cancha": "PQUE. ELLIS - COL. SAN ISIDRO",
+ "local": "COLEGIO SAN ISIDRO",
+ "visitante": "CLUB SOC. y DEP. LA CHISPA",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "284",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "PQUE. ELLIS - COL. SAN ISIDRO",
+  "Fecha_Inicio": "2026-05-23 17:30:00",
+  "Fecha_fin": "2026-05-23 17:30:00",
+  "Locatario": "COLEGIO SAN ISIDRO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "CLUB SOC. y DEP. LA CHISPA",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61122",
+   "Nombre": "RENZO FERNANDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67016",
+   "Nombre": "MARTIN NAHUEL AMARAL",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61123",
+   "Nombre": "GONZALO NAHUEL MELO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67500",
+   "Nombre": "IGNACIO SPINOGLIO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "62219",
+   "Nombre": "MATEO BERRIEL",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61125",
+   "Nombre": "JOAQUIN LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61124",
+   "Nombre": "BENJAMIN LOPEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66710",
+   "Nombre": "ENZO MIGUES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63499",
+   "Nombre": "JUAN FRANCISCO ARISPE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67017",
+   "Nombre": "FELIPE PISANO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68355",
+   "Nombre": "GERMAN DONATO LUCAS",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67532",
+   "Nombre": "AXEL SOPPI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "68344",
+   "Nombre": "JAIRO CUELLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67534",
+   "Nombre": "BYRON QUILIMAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67531",
+   "Nombre": "BRIAN OLIVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67518",
+   "Nombre": "CHRISTIAN PEÑAFLOR",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67530",
+   "Nombre": "FRANCISCO SUAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67528",
+   "Nombre": "NICOLAS SAAVEDRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68212",
+   "Nombre": "SEBASTIAN TORENA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67525",
+   "Nombre": "RODRIGO VILLALBA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67523",
+   "Nombre": "ALEXANDER CABRERA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61122",
+   "Jug_Sale": "RENZO FERNANDEZ",
+   "CarneEntra": "60120",
+   "Jug_Entra": "FELIPE SIERRA",
+   "camiseta": "24",
+   "minutos": "6"
+  },
+  {
+   "CarneSale": "67500",
+   "Jug_Sale": "IGNACIO SPINOGLIO",
+   "CarneEntra": "68015",
+   "Jug_Entra": "GUILLERMO NICOLAS MOREIRA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68355",
+   "Jug_Sale": "GERMAN DONATO LUCAS",
+   "CarneEntra": "59228",
+   "Jug_Entra": "EMILIANO MAESTRO",
+   "camiseta": "16",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63499",
+   "Jug_Sale": "JUAN FRANCISCO ARISPE",
+   "CarneEntra": "60951",
+   "Jug_Entra": "JOAQUIN LARA",
+   "camiseta": "6",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61125",
+   "Jug_Sale": "JOAQUIN LOPEZ",
+   "CarneEntra": "64522",
+   "Jug_Entra": "MATIAS GATTI",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67016",
+   "Jug_Sale": "MARTIN NAHUEL AMARAL",
+   "CarneEntra": "60777",
+   "Jug_Entra": "FACUNDO LOZANO",
+   "camiseta": "4",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68212",
+   "Jug_Sale": "SEBASTIAN TORENA",
+   "CarneEntra": "68214",
+   "Jug_Entra": "AGUSTIN VILLAR",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67518",
+   "Jug_Sale": "CHRISTIAN PEÑAFLOR",
+   "CarneEntra": "68212",
+   "Jug_Entra": "SEBASTIAN TORENA",
+   "camiseta": "15",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66710",
+   "Nombre": "ENZO MIGUES",
+   "minutos": "61",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67017",
+   "Nombre": "FELIPE PISANO",
+   "minutos": "14",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67525",
+   "Nombre": "RODRIGO VILLALBA",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68214",
+   "Nombre": "AGUSTIN VILLAR",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

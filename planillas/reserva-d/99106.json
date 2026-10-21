@@ -1,0 +1,295 @@
+{
+ "id": "99106",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "NUESTRA SEÑORA DE LOURDES",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "461",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-05-23 13:05:00",
+  "Fecha_fin": "2026-05-23 13:05:00",
+  "Locatario": "NUESTRA SEÑORA DE LOURDES",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66809",
+   "Nombre": "DAVID JOMAR ROSALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66677",
+   "Nombre": "MARCELO PERRONE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66518",
+   "Nombre": "ANDRES CIRO BELVEDER",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54946",
+   "Nombre": "FRANCO VICENTE CIFUENTES",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68663",
+   "Nombre": "ARIEL ACOSTA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67455",
+   "Nombre": "ADRIAN DAVID ACOSTA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61515",
+   "Nombre": "ALAN ACOSTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61192",
+   "Nombre": "FEDERICO MESA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64374",
+   "Nombre": "NAHUEL OHOLEGUY",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67680",
+   "Nombre": "NIKOLAS BASEL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "30973",
+   "Nombre": "MAXIMILIANO PEREYRA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66499",
+   "Nombre": "LEANDRO HORACIO SELVES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "58176",
+   "Nombre": "LUCAS ALVAREZ",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67161",
+   "Nombre": "RODRIGO DURAN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "66498",
+   "Nombre": "FACUNDO ECHEVERRIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "45823",
+   "Nombre": "AGUSTIN CALLEJAS",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "58366",
+   "Nombre": "MARCO MARCELO BORDON",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68198",
+   "Nombre": "FACUNDO CABRERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "58013",
+   "Nombre": "IÑAKI GUDE",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "67726",
+   "Nombre": "ROMAN EZEQUIEL SENA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68663",
+   "Jug_Sale": "ARIEL ACOSTA",
+   "CarneEntra": "66811",
+   "Jug_Entra": "DANIEL SEBASTIAN GUASTAVINO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66518",
+   "Jug_Sale": "ANDRES CIRO BELVEDER",
+   "CarneEntra": "68665",
+   "Jug_Entra": "SANTIAGO PEREIRA",
+   "camiseta": "15",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "66677",
+   "Jug_Sale": "MARCELO PERRONE",
+   "CarneEntra": "61998",
+   "Jug_Entra": "GUZMAN COUSELO",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "66518",
+   "Jug_Sale": "ANDRES CIRO BELVEDER",
+   "CarneEntra": "66677",
+   "Jug_Entra": "MARCELO PERRONE",
+   "camiseta": "6",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67726",
+   "Jug_Sale": "ROMAN EZEQUIEL SENA",
+   "CarneEntra": "56017",
+   "Jug_Entra": "TIAGO PERDOMO",
+   "camiseta": "38",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "45823",
+   "Jug_Sale": "AGUSTIN CALLEJAS",
+   "CarneEntra": "48947",
+   "Jug_Entra": "ALEXIS QUINTAN",
+   "camiseta": "37",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58298",
+   "Jug_Sale": "DAVID ILUTOVICH",
+   "CarneEntra": "62868",
+   "Jug_Entra": "TOMAS LICIO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58013",
+   "Jug_Sale": "IÑAKI GUDE",
+   "CarneEntra": "55321",
+   "Jug_Entra": "MATEO AGUSTIN MIRABALLES",
+   "camiseta": "50",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58176",
+   "Jug_Sale": "LUCAS ALVAREZ",
+   "CarneEntra": "67727",
+   "Jug_Entra": "CARLOS DANIEL BONINO",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68198",
+   "Jug_Sale": "FACUNDO CABRERA",
+   "CarneEntra": "49114",
+   "Jug_Entra": "ALVARO DANIEL CHILDE",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67161",
+   "Jug_Sale": "RODRIGO DURAN",
+   "CarneEntra": "49769",
+   "Jug_Entra": "JUAN PABLO CROSA",
+   "camiseta": "5",
+   "minutos": "68"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "55321",
+   "Nombre": "MATEO AGUSTIN MIRABALLES",
+   "minutos": "78",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56017",
+   "Nombre": "TIAGO PERDOMO",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58013",
+   "Nombre": "IÑAKI GUDE",
+   "minutos": "5",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "minutos": "8",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "minutos": "58",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

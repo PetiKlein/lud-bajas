@@ -1,0 +1,284 @@
+{
+ "id": "101910",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 13,
+ "fechaHora": "2026-09-13 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "OLIMAR",
+ "visitante": "CITY PARK",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "224",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-09-13 11:10:00",
+  "Fecha_fin": "2026-09-13 11:10:00",
+  "Locatario": "OLIMAR",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CITY PARK",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57165",
+   "Nombre": "LEANDRO MARTIN BOLDRINI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38803",
+   "Nombre": "MAURO LAGOMARSINO",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52547",
+   "Nombre": "BRAIAN ANDRES FIERRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "29643",
+   "Nombre": "DARIO CAMPELO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "60364",
+   "Nombre": "ALFONSO NICOLAS ALMEIDA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63395",
+   "Nombre": "DIEGO DANIEL DOS SANTOS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "47310",
+   "Nombre": "ANDRES FEDERICO OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60969",
+   "Nombre": "STEVEN LARROSA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "58424",
+   "Nombre": "ALFONSO DARIO GIMENEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64704",
+   "Nombre": "MARTIN LUCIANO ITURRALDE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57724",
+   "Nombre": "GONZALO MARTIN MESPOLET",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39513",
+   "Nombre": "AGUSTIN BETANCOR",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "42966",
+   "Nombre": "LEONARDO MARTIN SAMPEREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "37077",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "40368",
+   "Nombre": "PEDRO COSTA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "37305",
+   "Nombre": "LUCAS FIGUEROA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49901",
+   "Nombre": "LEANDRO JAVIER PEREZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "55443",
+   "Nombre": "AGUSTIN NICOLAS DE LOS SANTOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52463",
+   "Nombre": "FACUNDO ALZAIBAR",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "44229",
+   "Nombre": "MAURO DIDIER BORGES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "42702",
+   "Nombre": "JONATHAN NERY MARTINEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32802",
+   "Nombre": "SANTIAGO FUENTES",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64704",
+   "Jug_Sale": "MARTIN LUCIANO ITURRALDE",
+   "CarneEntra": "52565",
+   "Jug_Entra": "NAHUEL AGUSTIN VIGNOLO",
+   "camiseta": "10",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "60969",
+   "Jug_Sale": "STEVEN LARROSA",
+   "CarneEntra": "56979",
+   "Jug_Entra": "MAURO DANIEL MIRABALLES",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29643",
+   "Jug_Sale": "DARIO CAMPELO",
+   "CarneEntra": "60171",
+   "Jug_Entra": "YONATHAN FACUNDO ALDAVE",
+   "camiseta": "2",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "58424",
+   "Jug_Sale": "ALFONSO DARIO GIMENEZ",
+   "CarneEntra": "64704",
+   "Jug_Entra": "MARTIN LUCIANO ITURRALDE",
+   "camiseta": "9",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "47310",
+   "Jug_Sale": "ANDRES FEDERICO OLIVERA",
+   "CarneEntra": "60969",
+   "Jug_Entra": "STEVEN LARROSA",
+   "camiseta": "11",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "57724",
+   "Jug_Sale": "GONZALO MARTIN MESPOLET",
+   "CarneEntra": "29643",
+   "Jug_Entra": "DARIO CAMPELO",
+   "camiseta": "3",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37305",
+   "Jug_Sale": "LUCAS FIGUEROA",
+   "CarneEntra": "53682",
+   "Jug_Entra": "IGNACIO MARTIN GHIENA",
+   "camiseta": "2",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "49901",
+   "Jug_Sale": "LEANDRO JAVIER PEREZ",
+   "CarneEntra": "58113",
+   "Jug_Entra": "BRUNO AGUSTIN ACOSTA",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52463",
+   "Jug_Sale": "FACUNDO ALZAIBAR",
+   "CarneEntra": "33967",
+   "Jug_Entra": "ANDRES YAFFE",
+   "camiseta": "12",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "32802",
+   "Jug_Sale": "SANTIAGO FUENTES",
+   "CarneEntra": "45544",
+   "Jug_Entra": "SANTIAGO LOPEZ",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "44229",
+   "Jug_Sale": "MAURO DIDIER BORGES",
+   "CarneEntra": "32802",
+   "Jug_Entra": "SANTIAGO FUENTES",
+   "camiseta": "17",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60969",
+   "Nombre": "STEVEN LARROSA",
+   "minutos": "61",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63395",
+   "Nombre": "DIEGO DANIEL DOS SANTOS",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "32802",
+   "Nombre": "SANTIAGO FUENTES",
+   "minutos": "8",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

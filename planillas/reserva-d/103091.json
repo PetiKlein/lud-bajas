@@ -1,0 +1,314 @@
+{
+ "id": "103091",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 6,
+ "fechaHora": "2026-10-17 11:15:00",
+ "cancha": "()",
+ "local": "LATINO FUTBOL CLUB",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "585",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "()",
+  "Fecha_Inicio": "2026-10-17 13:00:00",
+  "Fecha_fin": "2026-10-17 13:00:00",
+  "Locatario": "LATINO FUTBOL CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59728",
+   "Nombre": "ALEJANDRO BOTTO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "49193",
+   "Nombre": "JUAN PEREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "56807",
+   "Nombre": "JOAQUIN LUTHAR",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "62061",
+   "Nombre": "MAURO CARRERA",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "62075",
+   "Nombre": "SANTIAGO SOSA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62907",
+   "Nombre": "IGNACIO TELESCA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "62074",
+   "Nombre": "FRANCISCO BURGOS",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "52794",
+   "Nombre": "MAURO LARRROSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "46887",
+   "Nombre": "TOMAS MACHADO",
+   "camiseta": "45",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40984",
+   "Nombre": "MATHIAS GABRIEL ORTIZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "camiseta": "40",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67479",
+   "Nombre": "RAMIRO PASTRANA",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "58727",
+   "Nombre": "JOAQUIN GRACIANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "51002",
+   "Nombre": "JUAN MANUEL PEREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "51803",
+   "Nombre": "SEBASTIAN TRONCOSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53826",
+   "Nombre": "JUAN IGNACIO SOSA DIAS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62836",
+   "Nombre": "RODRIGO JOSE ZAS",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62061",
+   "Jug_Sale": "MAURO CARRERA",
+   "CarneEntra": "63613",
+   "Jug_Entra": "EUSEBIO CABRAL",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62074",
+   "Jug_Sale": "FRANCISCO BURGOS",
+   "CarneEntra": "57069",
+   "Jug_Entra": "FRANCO TERPOLILLI",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40984",
+   "Jug_Sale": "MATHIAS GABRIEL ORTIZ",
+   "CarneEntra": "59776",
+   "Jug_Entra": "MARTINO LORENZO FLORA",
+   "camiseta": "12",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "62075",
+   "Jug_Sale": "SANTIAGO SOSA",
+   "CarneEntra": "52879",
+   "Jug_Entra": "IGNACIO QUINTANS",
+   "camiseta": "29",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "49193",
+   "Jug_Sale": "JUAN PEREZ",
+   "CarneEntra": "69035",
+   "Jug_Entra": "LAUTARO ABUCHALJA",
+   "camiseta": "49",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "56807",
+   "Jug_Sale": "JOAQUIN LUTHAR",
+   "CarneEntra": "54728",
+   "Jug_Entra": "GUILLERMO VIÑAS",
+   "camiseta": "8",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "52794",
+   "Jug_Sale": "MAURO LARRROSA",
+   "CarneEntra": "53922",
+   "Jug_Entra": "IGNACIO FERNANDEZ",
+   "camiseta": "60",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67479",
+   "Jug_Sale": "RAMIRO PASTRANA",
+   "CarneEntra": "62577",
+   "Jug_Entra": "ORI MARTIN FERREIRA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59752",
+   "Jug_Sale": "RAMIRO LOPEZ",
+   "CarneEntra": "64777",
+   "Jug_Entra": "IVAN VEGOVICH",
+   "camiseta": "24",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62836",
+   "Jug_Sale": "RODRIGO JOSE ZAS",
+   "CarneEntra": "64767",
+   "Jug_Entra": "FACUNDO NICOLAS FARAL",
+   "camiseta": "97",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67476",
+   "Jug_Sale": "NICOLAS RIVERO",
+   "CarneEntra": "67275",
+   "Jug_Entra": "MATEO MORALES",
+   "camiseta": "92",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "51803",
+   "Jug_Sale": "SEBASTIAN TRONCOSO",
+   "CarneEntra": "58704",
+   "Jug_Entra": "IGNACIO JAVIER ROMERO",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "53826",
+   "Jug_Sale": "JUAN IGNACIO SOSA DIAS",
+   "CarneEntra": "55484",
+   "Jug_Entra": "GUILLERMO URIA",
+   "camiseta": "87",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "52787",
+   "Jug_Sale": "IGNACIO SLINGER",
+   "CarneEntra": "64252",
+   "Jug_Entra": "SANTIAGO BORRELLI",
+   "camiseta": "28",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46887",
+   "Nombre": "TOMAS MACHADO",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51803",
+   "Nombre": "SEBASTIAN TRONCOSO",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "minutos": "31",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "minutos": "53",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

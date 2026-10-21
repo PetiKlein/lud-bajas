@@ -1,0 +1,300 @@
+{
+ "id": "100249",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO ABUA",
+ "local": "WANDERERS",
+ "visitante": "CEIBOS CLUB VERDE",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "316",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO ABUA",
+  "Fecha_Inicio": "2026-06-20 13:20:00",
+  "Fecha_fin": "2026-06-20 13:20:00",
+  "Locatario": "WANDERERS",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CEIBOS CLUB VERDE",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60680",
+   "Nombre": "ZINEDINE NATAN FISCHER",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56583",
+   "Nombre": "MARCOS ARRASPIDE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "66823",
+   "Nombre": "JOSE PABLO ANTUNEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "51001",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59160",
+   "Nombre": "ALEXANDER PIREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59917",
+   "Nombre": "LUCAS BALTAZAR GARCIA",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "66824",
+   "Nombre": "GABRIEL HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "55308",
+   "Nombre": "JUAN MARTIN MALDONADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "45274",
+   "Nombre": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "56589",
+   "Nombre": "DARIO EMANUEL ARCHONDO",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54917",
+   "Nombre": "IGNACIO JOSE LUIS BRAGA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50908",
+   "Nombre": "NICOLAS JOSE MOREIRA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "68638",
+   "Nombre": "JUAN SANTIAGO QUINTERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26004",
+   "Nombre": "JOAQUIN FRASCHINI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53494",
+   "Nombre": "NICOLAS LUIS SERE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52564",
+   "Nombre": "ANDRE IAHEL ROCCA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49360",
+   "Nombre": "TOMAS JOSE TARIGO",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62490",
+   "Nombre": "NICOLAS MARTIN LOGIURATO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63757",
+   "Nombre": "IGNACIO ALVAREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "62453",
+   "Nombre": "NICOLAS MENDIETA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54674",
+   "Nombre": "JUAN FRANCISCO TORRES NEGREIRA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56583",
+   "Jug_Sale": "MARCOS ARRASPIDE",
+   "CarneEntra": "67260",
+   "Jug_Entra": "AGUSTIN TERMEZANA",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59917",
+   "Jug_Sale": "LUCAS BALTAZAR GARCIA",
+   "CarneEntra": "63241",
+   "Jug_Entra": "TOMAS CALVO",
+   "camiseta": "28",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "66824",
+   "Jug_Sale": "GABRIEL HERNANDEZ",
+   "CarneEntra": "46318",
+   "Jug_Entra": "FACUNDO DEBENEDETTI",
+   "camiseta": "92",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "56589",
+   "Jug_Sale": "DARIO EMANUEL ARCHONDO",
+   "CarneEntra": "60235",
+   "Jug_Entra": "FEDERICO JOSE GONZALEZ",
+   "camiseta": "3",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "45274",
+   "Jug_Sale": "ALEJANDRO GABRIEL MORALES",
+   "CarneEntra": "67264",
+   "Jug_Entra": "IGNACIO KWAME MACHADO",
+   "camiseta": "26",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "66607",
+   "Jug_Sale": "ALEXIS COLO",
+   "CarneEntra": "49169",
+   "Jug_Entra": "LUCAS MATEO ESPINDOLA",
+   "camiseta": "64",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "60235",
+   "Jug_Sale": "FEDERICO JOSE GONZALEZ",
+   "CarneEntra": "67693",
+   "Jug_Entra": "ANDRES ELIAS MEJIA",
+   "camiseta": "60",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62453",
+   "Jug_Sale": "NICOLAS MENDIETA",
+   "CarneEntra": "62073",
+   "Jug_Entra": "JUAN IGNACIO PEVERELLI",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63757",
+   "Jug_Sale": "IGNACIO ALVAREZ",
+   "CarneEntra": "56938",
+   "Jug_Entra": "LUCA BROUKAERT",
+   "camiseta": "8",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "50908",
+   "Jug_Sale": "NICOLAS JOSE MOREIRA",
+   "CarneEntra": "53749",
+   "Jug_Entra": "IGNACIO MOREIRA",
+   "camiseta": "19",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62490",
+   "Jug_Sale": "NICOLAS MARTIN LOGIURATO",
+   "CarneEntra": "61798",
+   "Jug_Entra": "FELIPE MARIA BARRABINO",
+   "camiseta": "4",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "53494",
+   "Jug_Sale": "NICOLAS LUIS SERE",
+   "CarneEntra": "58661",
+   "Jug_Entra": "SANTIAGO GAUDIANO",
+   "camiseta": "3",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "49360",
+   "Jug_Sale": "TOMAS JOSE TARIGO",
+   "CarneEntra": "64881",
+   "Jug_Entra": "FELIPE MENDEZ",
+   "camiseta": "14",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45274",
+   "Nombre": "ALEJANDRO GABRIEL MORALES",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56589",
+   "Nombre": "DARIO EMANUEL ARCHONDO",
+   "minutos": "63",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56938",
+   "Nombre": "LUCA BROUKAERT",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

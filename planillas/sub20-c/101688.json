@@ -1,0 +1,276 @@
+{
+ "id": "101688",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 15:30:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "JUAN XXIII",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "334",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-09-05 17:30:00",
+  "Fecha_fin": "2026-09-05 17:30:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63266",
+   "Nombre": "JUAN MANUEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56788",
+   "Nombre": "TOMAS ANGLADA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62065",
+   "Nombre": "FEDERICO RUBIO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66003",
+   "Nombre": "MANUEL BECERRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64901",
+   "Nombre": "TOMAS BELTRAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56791",
+   "Nombre": "JOAQUIN BRAGLIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64096",
+   "Nombre": "NICOLAS ANDRES ESTIBEN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65864",
+   "Nombre": "JOAQUIN PATRON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64097",
+   "Nombre": "JUAN IGNACIO ESTIBEN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62063",
+   "Nombre": "RODRIGO RUBIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57870",
+   "Nombre": "SANTINO BARATE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61876",
+   "Nombre": "JOAQUIN DE DIOS",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "64099",
+   "Nombre": "JUAN MANUEL CORNEY",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "64095",
+   "Nombre": "JUAN ANDRES GARCIA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "61869",
+   "Nombre": "FELIPE DASTUGUE",
+   "camiseta": "81",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59588",
+   "Nombre": "GERARDO ROCCO BELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61069",
+   "Nombre": "VICENTE CASTRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "64094",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "58624",
+   "Nombre": "JOAQUIN MATIAS NIETO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64096",
+   "Jug_Sale": "NICOLAS ANDRES ESTIBEN",
+   "CarneEntra": "66149",
+   "Jug_Entra": "NICOLAS JESUS NUÑEZ",
+   "camiseta": "8",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "64097",
+   "Jug_Sale": "JUAN IGNACIO ESTIBEN",
+   "CarneEntra": "62062",
+   "Jug_Entra": "AFONSO COSTA",
+   "camiseta": "13",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "57870",
+   "Jug_Sale": "SANTINO BARATE",
+   "CarneEntra": "64102",
+   "Jug_Entra": "FEDERICO ARIZTI",
+   "camiseta": "21",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59588",
+   "Jug_Sale": "GERARDO ROCCO BELLO",
+   "CarneEntra": "67675",
+   "Jug_Entra": "MATEO MAURO GONZALEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67238",
+   "Jug_Sale": "SANTIAGO BALTASAR",
+   "CarneEntra": "67671",
+   "Jug_Entra": "JUAN IGNACIO SÀNCHEZ",
+   "camiseta": "96",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67669",
+   "Jug_Sale": "FELIPE AGUSTIN PINO",
+   "CarneEntra": "64101",
+   "Jug_Entra": "SANTIAGO GONZALEZ",
+   "camiseta": "49",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "64095",
+   "Jug_Sale": "JUAN ANDRES GARCIA",
+   "CarneEntra": "67239",
+   "Jug_Entra": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "17",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "64099",
+   "Jug_Sale": "JUAN MANUEL CORNEY",
+   "CarneEntra": "64103",
+   "Jug_Entra": "ENZO YACI",
+   "camiseta": "51",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58783",
+   "Jug_Sale": "LAUTARO GABRIEL SALLES",
+   "CarneEntra": "67669",
+   "Jug_Entra": "FELIPE AGUSTIN PINO",
+   "camiseta": "32",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "58624",
+   "Jug_Sale": "JOAQUIN MATIAS NIETO",
+   "CarneEntra": "67996",
+   "Jug_Entra": "MANUEL DE PAZOS",
+   "camiseta": "86",
+   "minutos": "98"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57870",
+   "Nombre": "SANTINO BARATE",
+   "minutos": "23",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "minutos": "56",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,307 @@
+{
+ "id": "98465",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "SAN CONO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "441",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-04-25 13:00:00",
+  "Fecha_fin": "2026-04-25 13:00:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SAN CONO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54786",
+   "Nombre": "LUCAS MIETTO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37723",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57542",
+   "Nombre": "DIEGO SEBASTIAN DUSIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "37188",
+   "Nombre": "CLAUDIO SEBASTIAN FERREIRA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "56622",
+   "Nombre": "GONZALO APKARIAN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58677",
+   "Nombre": "BRUNO TRAVERSA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "60622",
+   "Nombre": "TOMAS FELIPPONE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "51163",
+   "Nombre": "MATIAS IVANCICH",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55560",
+   "Nombre": "JUAN MATEO PELUFO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "34347",
+   "Nombre": "DIEGO MARTIN BALDRIZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "60354",
+   "Nombre": "MANUEL MAGNIN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61099",
+   "Nombre": "AGUSTIN BARRIOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66467",
+   "Nombre": "DIEGO LOTTI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "65388",
+   "Nombre": "JOAQUIN ROMAN MOREIRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "59003",
+   "Nombre": "FACUNDO MATTEO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55354",
+   "Nombre": "JAIRO ALI ARAQUE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61942",
+   "Nombre": "AGUSTIN EZEQUIEL DE LOS REYES",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61531",
+   "Nombre": "GONZALO GABRIEL BERRUTTI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61524",
+   "Nombre": "SEBASTIAN ENZO GUISADO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "60360",
+   "Nombre": "ANIBAL EZEQUIEL LUJAN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "34857",
+   "Jug_Sale": "NICOLAS MELO",
+   "CarneEntra": "47098",
+   "Jug_Entra": "JUAN IGNACIO COITO",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57542",
+   "Jug_Sale": "DIEGO SEBASTIAN DUSIO",
+   "CarneEntra": "57624",
+   "Jug_Entra": "MANUEL THIAGO MARTINEZ",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56622",
+   "Jug_Sale": "GONZALO APKARIAN",
+   "CarneEntra": "54861",
+   "Jug_Entra": "FEDERICO GARCIA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37188",
+   "Jug_Sale": "CLAUDIO SEBASTIAN FERREIRA",
+   "CarneEntra": "49541",
+   "Jug_Entra": "PABLO FERNANDO MOREIRA",
+   "camiseta": "61",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "51163",
+   "Jug_Sale": "MATIAS IVANCICH",
+   "CarneEntra": "56624",
+   "Jug_Entra": "MATEO CAUTES",
+   "camiseta": "16",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "37723",
+   "Jug_Sale": "MARTIN PRATO",
+   "CarneEntra": "56626",
+   "Jug_Entra": "SANTIAGO GONZALEZ",
+   "camiseta": "88",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "55560",
+   "Jug_Sale": "JUAN MATEO PELUFO",
+   "CarneEntra": "64795",
+   "Jug_Entra": "SANTIAGO VARELA",
+   "camiseta": "25",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65388",
+   "Jug_Sale": "JOAQUIN ROMAN MOREIRA",
+   "CarneEntra": "61529",
+   "Jug_Entra": "MATEO FERREIRA",
+   "camiseta": "91",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "66467",
+   "Jug_Sale": "DIEGO LOTTI",
+   "CarneEntra": "57266",
+   "Jug_Entra": "JUAN MANUEL SANGUINE",
+   "camiseta": "18",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "55354",
+   "Jug_Sale": "JAIRO ALI ARAQUE",
+   "CarneEntra": "65386",
+   "Jug_Entra": "RAMIRO MOREIRA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60354",
+   "Jug_Sale": "MANUEL MAGNIN",
+   "CarneEntra": "61532",
+   "Jug_Entra": "JUAN IGNACIO OLIVERA",
+   "camiseta": "8",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "59003",
+   "Jug_Sale": "FACUNDO MATTEO",
+   "CarneEntra": "23009",
+   "Jug_Entra": "RODRIGO DE PAULA",
+   "camiseta": "27",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "60360",
+   "Jug_Sale": "ANIBAL EZEQUIEL LUJAN",
+   "CarneEntra": "66113",
+   "Jug_Entra": "BRYAN OLAIZOLA",
+   "camiseta": "42",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "61942",
+   "Jug_Sale": "AGUSTIN EZEQUIEL DE LOS REYES",
+   "CarneEntra": "66469",
+   "Jug_Entra": "DANIEL ANDRES LAUREANO",
+   "camiseta": "34",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57624",
+   "Nombre": "MANUEL THIAGO MARTINEZ",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60622",
+   "Nombre": "TOMAS FELIPPONE",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

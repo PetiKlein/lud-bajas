@@ -1,0 +1,308 @@
+{
+ "id": "99269",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "CARRASCO POLO",
+ "local": "CARRASCO POLO CLUB",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 2,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "46",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CARRASCO POLO",
+  "Fecha_Inicio": "2026-05-23 11:00:00",
+  "Fecha_fin": "2026-05-23 11:00:00",
+  "Locatario": "CARRASCO POLO CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53730",
+   "Nombre": "RENZO MACHIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40972",
+   "Nombre": "FRANCISCO TRONCOSO",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53865",
+   "Nombre": "JOAQUIN RETHEMIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "49037",
+   "Nombre": "SANTIAGO ROVELLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56444",
+   "Nombre": "DIOGO LAUTARO DE SOUZA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "42512",
+   "Nombre": "NICOLAS BOLGER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49245",
+   "Nombre": "FRANCESCO MASONI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "47851",
+   "Nombre": "JUAN IGNACIO URRISA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "24454",
+   "Nombre": "EMILIANO PISANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "35208",
+   "Nombre": "JUAN SEGUNDO MASPOLI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "43050",
+   "Nombre": "JOAQUIN COMPANY",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49084",
+   "Nombre": "GIULIANO CARDOZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47761",
+   "Nombre": "JUAN IGNACIO POTRIE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66377",
+   "Nombre": "MATEO AGUSTIN ASENCIO",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "39903",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "41007",
+   "Nombre": "GERARDO SACCO",
+   "camiseta": "42",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31878",
+   "Nombre": "MAXIMILIANO SALA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "36474",
+   "Nombre": "FEDERICO ILAN ISRAEL",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "48917",
+   "Nombre": "FRANCISCO ALGORTA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "41534",
+   "Nombre": "DIEGO NICOLAS CHIJANE",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "52186",
+   "Nombre": "BRUNO MATIAS BIGNOLI",
+   "camiseta": "41",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43050",
+   "Jug_Sale": "JOAQUIN COMPANY",
+   "CarneEntra": "40176",
+   "Jug_Entra": "JUAN PABLO RICO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43050",
+   "Jug_Sale": "JOAQUIN COMPANY",
+   "CarneEntra": "41650",
+   "Jug_Entra": "FELIPE ZAS",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "49245",
+   "Jug_Sale": "FRANCESCO MASONI",
+   "CarneEntra": "54410",
+   "Jug_Entra": "THIAGO TOLVE",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "47851",
+   "Jug_Sale": "JUAN IGNACIO URRISA",
+   "CarneEntra": "36092",
+   "Jug_Entra": "ANDRES GABRIEL DIPOLITO",
+   "camiseta": "13",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "35208",
+   "Jug_Sale": "JUAN SEGUNDO MASPOLI",
+   "CarneEntra": "48906",
+   "Jug_Entra": "LUCIANO MANGINI",
+   "camiseta": "6",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "53865",
+   "Jug_Sale": "JOAQUIN RETHEMIAS",
+   "CarneEntra": "47029",
+   "Jug_Entra": "GUZMAN PIANGELUA",
+   "camiseta": "4",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "42512",
+   "Jug_Sale": "NICOLAS BOLGER",
+   "CarneEntra": "57349",
+   "Jug_Entra": "FEDERICO LEON PEREZ",
+   "camiseta": "10",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "36474",
+   "Jug_Sale": "FEDERICO ILAN ISRAEL",
+   "CarneEntra": "49620",
+   "Jug_Entra": "ALEJO ZEFFERINO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48917",
+   "Jug_Sale": "FRANCISCO ALGORTA",
+   "CarneEntra": "41009",
+   "Jug_Entra": "BRUNO NICOLAS RAVERA",
+   "camiseta": "10",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "66377",
+   "Jug_Sale": "MATEO AGUSTIN ASENCIO",
+   "CarneEntra": "53032",
+   "Jug_Entra": "FACUNDO AGUSTIN GOLOUBINTSEFF",
+   "camiseta": "21",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "39903",
+   "Jug_Sale": "MANUEL FERNANDEZ",
+   "CarneEntra": "44908",
+   "Jug_Entra": "EDUARDO ARTAGAVEYTIA",
+   "camiseta": "18",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35208",
+   "Nombre": "JUAN SEGUNDO MASPOLI",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53865",
+   "Nombre": "JOAQUIN RETHEMIAS",
+   "minutos": "34",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "41009",
+   "Nombre": "BRUNO NICOLAS RAVERA",
+   "minutos": "92",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49620",
+   "Nombre": "ALEJO ZEFFERINO",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52186",
+   "Nombre": "BRUNO MATIAS BIGNOLI",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66377",
+   "Nombre": "MATEO AGUSTIN ASENCIO",
+   "minutos": "72",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

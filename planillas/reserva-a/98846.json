@@ -1,0 +1,305 @@
+{
+ "id": "98846",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "OLD CHRISTIANS AZUL",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "39",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-05-16 13:15:00",
+  "Fecha_fin": "2026-05-16 13:15:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS AZUL",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "29859",
+   "Nombre": "GUSTAVO GUZMAN AMESPIL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54783",
+   "Nombre": "MARTIN SEBASTIAN GONZALEZ",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "53121",
+   "Nombre": "ANDRES RUGGIERO",
+   "camiseta": "90",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41609",
+   "Nombre": "FACUNDO VILLAR",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "37903",
+   "Nombre": "MATEO MUJICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53130",
+   "Nombre": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "45424",
+   "Nombre": "ANDRES VALLARINO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "57131",
+   "Nombre": "GIANFRANCO DUPONT",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53070",
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39597",
+   "Nombre": "JUAN MANUEL VIGORITO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "39425",
+   "Nombre": "SANTIAGO MARAFFI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "43762",
+   "Nombre": "ALFONSO MARQUES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "41003",
+   "Nombre": "FEDERICO BARRIOS",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53219",
+   "Nombre": "JOAQUIN LARRAECHA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "51886",
+   "Nombre": "LUCAS ALONSO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "52355",
+   "Nombre": "SANTIAGO PAZ RODRIGUEZ",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "42263",
+   "Nombre": "JUAN MARTIN ROMANIELLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "32400",
+   "Nombre": "MATIAS DANIEL RIOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39601",
+   "Nombre": "NICOLAS OEHLER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45424",
+   "Jug_Sale": "ANDRES VALLARINO",
+   "CarneEntra": "56349",
+   "Jug_Entra": "FRANCO CARLOS BARBA",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29859",
+   "Jug_Sale": "GUSTAVO GUZMAN AMESPIL",
+   "CarneEntra": "54663",
+   "Jug_Entra": "ESTEBAN SANTIAGO LOPEZ",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54783",
+   "Jug_Sale": "MARTIN SEBASTIAN GONZALEZ",
+   "CarneEntra": "58943",
+   "Jug_Entra": "MATIAS DIEGO MENDEZ",
+   "camiseta": "18",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "37903",
+   "Jug_Sale": "MATEO MUJICA",
+   "CarneEntra": "66795",
+   "Jug_Entra": "GERMAN MUJICA",
+   "camiseta": "68",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "53130",
+   "Jug_Sale": "JUAN IGNACIO AISCAR",
+   "CarneEntra": "66798",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "70",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "53070",
+   "Jug_Sale": "JUAN IGNACIO MAGRINI",
+   "CarneEntra": "61669",
+   "Jug_Entra": "NICOLAS BENTANCOR",
+   "camiseta": "29",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57131",
+   "Jug_Sale": "GIANFRANCO DUPONT",
+   "CarneEntra": "43136",
+   "Jug_Entra": "GABRIEL JOAQUIN SUAREZ",
+   "camiseta": "30",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39601",
+   "Jug_Sale": "NICOLAS OEHLER",
+   "CarneEntra": "42262",
+   "Jug_Entra": "FELIPE LOPEZ",
+   "camiseta": "9",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "51886",
+   "Jug_Sale": "LUCAS ALONSO",
+   "CarneEntra": "54053",
+   "Jug_Entra": "FRANCO BUYSAN",
+   "camiseta": "2",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "52355",
+   "Jug_Sale": "SANTIAGO PAZ RODRIGUEZ",
+   "CarneEntra": "54480",
+   "Jug_Entra": "FACUNDO BELO",
+   "camiseta": "30",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "43762",
+   "Jug_Sale": "ALFONSO MARQUES",
+   "CarneEntra": "52606",
+   "Jug_Entra": "JUAN DIEGO CALABUIG",
+   "camiseta": "5",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "39425",
+   "Jug_Sale": "SANTIAGO MARAFFI",
+   "CarneEntra": "46346",
+   "Jug_Entra": "FELIPE BARRERE",
+   "camiseta": "40",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "62462",
+   "Jug_Sale": "JUAN GABRIEL ALVAREZ",
+   "CarneEntra": "43762",
+   "Jug_Entra": "ALFONSO MARQUES",
+   "camiseta": "3",
+   "minutos": "44"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "42262",
+   "Nombre": "FELIPE LOPEZ",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "42263",
+   "Nombre": "JUAN MARTIN ROMANIELLO",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "minutos": "66",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

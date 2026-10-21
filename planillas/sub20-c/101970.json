@@ -1,0 +1,292 @@
+{
+ "id": "101970",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 15:30:00",
+ "cancha": "LOS TEROS",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "DFC",
+ "gl": 3,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "337",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "LOS TEROS",
+  "Fecha_Inicio": "2026-09-12 17:21:00",
+  "Fecha_fin": "2026-09-12 17:21:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "DFC",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58704",
+   "Nombre": "IGNACIO JAVIER ROMERO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62582",
+   "Nombre": "SEBASTIAN ENZO STRATTA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "62577",
+   "Nombre": "ORI MARTIN FERREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68858",
+   "Nombre": "THIAGO COGOY",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62586",
+   "Nombre": "LEANDRO MOCCIA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62587",
+   "Nombre": "MATEO ALONSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68193",
+   "Nombre": "IGNACIO ZINOLA",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58727",
+   "Nombre": "JOAQUIN GRACIANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "55413",
+   "Nombre": "LUCAS OTAÑO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63051",
+   "Nombre": "LUCIANO MONTAÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67598",
+   "Nombre": "THIAGO ALEXANDER LOPEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67470",
+   "Nombre": "THIAGO JOEL DOS SANTOS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67602",
+   "Nombre": "VALENTINO LAUTARO DE ARMAS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67469",
+   "Nombre": "SANTIAGO DANIEL DE LA LLANA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67932",
+   "Nombre": "BAUTISTA PAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68630",
+   "Nombre": "FACUNDO TOMAS GUEVARA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67462",
+   "Nombre": "BLAZ DANCKAR LANGHAIN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "56925",
+   "Nombre": "EZEQUIEL LUCAS VIGNOLI",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68193",
+   "Jug_Sale": "IGNACIO ZINOLA",
+   "CarneEntra": "67274",
+   "Jug_Entra": "ALVARO PINTOS",
+   "camiseta": "33",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62586",
+   "Jug_Sale": "LEANDRO MOCCIA",
+   "CarneEntra": "64173",
+   "Jug_Entra": "SANTIAGO MIRANDA",
+   "camiseta": "23",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "55413",
+   "Jug_Sale": "LUCAS OTAÑO",
+   "CarneEntra": "68623",
+   "Jug_Entra": "GUILLERMO MARTINEZ",
+   "camiseta": "76",
+   "minutos": "36"
+  },
+  {
+   "CarneSale": "62577",
+   "Jug_Sale": "ORI MARTIN FERREIRA",
+   "CarneEntra": "67478",
+   "Jug_Entra": "AGUSTIN LORENZO",
+   "camiseta": "50",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62838",
+   "Jug_Sale": "TADEO ARES",
+   "CarneEntra": "55413",
+   "Jug_Entra": "LUCAS OTAÑO",
+   "camiseta": "10",
+   "minutos": "47"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67932",
+   "Jug_Sale": "BAUTISTA PAZ",
+   "CarneEntra": "68183",
+   "Jug_Entra": "JOAQUIN JOAQUIN",
+   "camiseta": "20",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "63051",
+   "Jug_Sale": "LUCIANO MONTAÑA",
+   "CarneEntra": "67590",
+   "Jug_Entra": "GASTON MATEO ALONSO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56925",
+   "Jug_Sale": "EZEQUIEL LUCAS VIGNOLI",
+   "CarneEntra": "67601",
+   "Jug_Entra": "CONSTANTINO VIERAS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63051",
+   "Jug_Sale": "LUCIANO MONTAÑA",
+   "CarneEntra": "56925",
+   "Jug_Entra": "EZEQUIEL LUCAS VIGNOLI",
+   "camiseta": "7",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62582",
+   "Nombre": "SEBASTIAN ENZO STRATTA",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "minutos": "39",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "minutos": "26",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63051",
+   "Nombre": "LUCIANO MONTAÑA",
+   "minutos": "37",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67462",
+   "Nombre": "BLAZ DANCKAR LANGHAIN",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67590",
+   "Nombre": "GASTON MATEO ALONSO",
+   "minutos": "59",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68630",
+   "Nombre": "FACUNDO TOMAS GUEVARA",
+   "minutos": "82",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

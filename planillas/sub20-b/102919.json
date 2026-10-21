@@ -1,0 +1,276 @@
+{
+ "id": "102919",
+ "categoria": "sub20-b",
+ "serie": "20BPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-15 22:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAN AGUSTIN",
+ "visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "452",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"B\" PERM. y DESC.",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-10-15 00:05:00",
+  "Fecha_fin": "2026-10-15 00:05:00",
+  "Locatario": "SAN AGUSTIN",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59374",
+   "Nombre": "MATIAS CRISPINO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62167",
+   "Nombre": "THIAGO TOMAS SOCA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65832",
+   "Nombre": "GERONIMO ALBERTO RIVERA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54184",
+   "Nombre": "SEBASTIAN MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58033",
+   "Nombre": "AGUSTIN EZEQUIEL BUENO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "54759",
+   "Nombre": "AGUSTIN GALINDEZ",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67389",
+   "Nombre": "SANTIAGO DAMIAN VELAZQUEZ",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "67940",
+   "Nombre": "SANTIAGO MATHEW SOSA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63647",
+   "Nombre": "SANTIAGO PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68725",
+   "Nombre": "SEBASTIAN ALEXANDER AREVALO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57288",
+   "Nombre": "TOMAS PEZZOLANO",
+   "camiseta": "79",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67295",
+   "Nombre": "IVAN GONZALEZ",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "65926",
+   "Nombre": "JUAN MANUEL CORREA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "68657",
+   "Nombre": "LUIS EDUARDO GONZALEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "68294",
+   "Nombre": "FEDERICO CLAVARES",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "63069",
+   "Nombre": "JOAQUIN MADERNI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65323",
+   "Nombre": "LUCAS ROBERTO IBARRA",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64354",
+   "Nombre": "MATEO NARTALLO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67391",
+   "Nombre": "SANTIAGO SEBASTIAN RDORIGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "69129",
+   "Nombre": "TIAGO LEVI BATISTA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "64353",
+   "Nombre": "THIAGO JOAQUIN SERRATTO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "60952",
+   "Nombre": "JUAN IGNACIO MORATORIO",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54184",
+   "Jug_Sale": "SEBASTIAN MARTINEZ",
+   "CarneEntra": "58158",
+   "Jug_Entra": "FELIPE PECHIAR",
+   "camiseta": "9",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "62167",
+   "Jug_Sale": "THIAGO TOMAS SOCA",
+   "CarneEntra": "60124",
+   "Jug_Entra": "FACUNDO GARCIA",
+   "camiseta": "11",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "63647",
+   "Jug_Sale": "SANTIAGO PEREZ",
+   "CarneEntra": "62158",
+   "Jug_Entra": "SANTIAGO PECHIAR",
+   "camiseta": "18",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "67389",
+   "Jug_Sale": "SANTIAGO DAMIAN VELAZQUEZ",
+   "CarneEntra": "63647",
+   "Jug_Entra": "SANTIAGO PEREZ",
+   "camiseta": "8",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64354",
+   "Jug_Sale": "MATEO NARTALLO",
+   "CarneEntra": "67653",
+   "Jug_Entra": "EMILIANO PIETRAFESA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "69129",
+   "Jug_Sale": "TIAGO LEVI BATISTA",
+   "CarneEntra": "64354",
+   "Jug_Entra": "MATEO NARTALLO",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67391",
+   "Jug_Sale": "SANTIAGO SEBASTIAN RDORIGUEZ",
+   "CarneEntra": "69129",
+   "Jug_Entra": "TIAGO LEVI BATISTA",
+   "camiseta": "77",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "68725",
+   "Nombre": "SEBASTIAN ALEXANDER AREVALO",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68725",
+   "Nombre": "SEBASTIAN ALEXANDER AREVALO",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "60952",
+   "Nombre": "JUAN IGNACIO MORATORIO",
+   "minutos": "54",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67391",
+   "Nombre": "SANTIAGO SEBASTIAN RDORIGUEZ",
+   "minutos": "49",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GERONIMO ALBERTO RIVERA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "AGUSTIN GALINDEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "LUCAS ROBERTO IBARRA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "JUAN IGNACIO MORATORIO",
+   "observaciones": ""
+  }
+ ]
+}

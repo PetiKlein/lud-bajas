@@ -1,0 +1,238 @@
+{
+ "id": "102102",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "CAMPO DEP. COLEGIO INGLES",
+ "local": "COLEGIO Y LICEO INGLES",
+ "visitante": "NUMA TURCATTI",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "352",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "CAMPO DEP. COLEGIO INGLES",
+  "Fecha_Inicio": "2026-09-19 13:15:00",
+  "Fecha_fin": "2026-09-19 13:15:00",
+  "Locatario": "COLEGIO Y LICEO INGLES",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "NUMA TURCATTI",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64433",
+   "Nombre": "SANTIAGO LUCAS RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45633",
+   "Nombre": "PABLO AGUIAR",
+   "camiseta": "55",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39479",
+   "Nombre": "GASTON MUIÑO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "36986",
+   "Nombre": "JUAN CRUZ ESTEVEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "39406",
+   "Nombre": "AGUSTIN FELIPEZ",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "48882",
+   "Nombre": "JUAN IGNACIO APOLO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "53131",
+   "Nombre": "JUAN CRUZ CAFFERATTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49342",
+   "Nombre": "MATEO JOAQUIN FERNANDEZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "59413",
+   "Nombre": "TIAGO MAIORANO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "59393",
+   "Nombre": "SEBASTIAN MACHADO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39287",
+   "Nombre": "NICOLAS MONTERO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68733",
+   "Nombre": "MANUEL ROMERO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "51090",
+   "Nombre": "JUAN IGNACIO RUSSO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49283",
+   "Nombre": "SANTIAGO BARBOZA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54928",
+   "Nombre": "ISMAEL IMPERIAL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58491",
+   "Nombre": "FACUNDO SIMON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "66777",
+   "Nombre": "SANTIAGO DAVRIEUX",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48424",
+   "Nombre": "IGNACIO ROURE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67174",
+   "Nombre": "MARTIN TIAGO LIMA",
+   "camiseta": "67",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59413",
+   "Jug_Sale": "TIAGO MAIORANO",
+   "CarneEntra": "64235",
+   "Jug_Entra": "PEDRO RAMOS",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49342",
+   "Jug_Sale": "MATEO JOAQUIN FERNANDEZ",
+   "CarneEntra": "48798",
+   "Jug_Entra": "MATIAS ONANDI",
+   "camiseta": "15",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59393",
+   "Jug_Sale": "SEBASTIAN MACHADO",
+   "CarneEntra": "59406",
+   "Jug_Entra": "FEDERICO CANDAU",
+   "camiseta": "30",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "48882",
+   "Jug_Sale": "JUAN IGNACIO APOLO",
+   "CarneEntra": "52049",
+   "Jug_Entra": "AGUSTIN LAMAS",
+   "camiseta": "18",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "59413",
+   "Nombre": "TIAGO MAIORANO",
+   "minutos": "21",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48424",
+   "Nombre": "IGNACIO ROURE",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "minutos": "89",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "SANTIAGO DAVRIEUX",
+   "observaciones": ""
+  }
+ ]
+}

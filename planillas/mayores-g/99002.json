@@ -1,0 +1,308 @@
+{
+ "id": "99002",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 5,
+ "fechaHora": "2026-05-17 11:15:00",
+ "cancha": "CAMPUS DEL OESTE",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "CLUB ATLETICO BELLA VISTA",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "753",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "CAMPUS DEL OESTE",
+  "Fecha_Inicio": "2026-05-17 13:30:00",
+  "Fecha_fin": "2026-05-17 13:30:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "CLUB ATLETICO BELLA VISTA",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59350",
+   "Nombre": "GASTON NUÑEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56670",
+   "Nombre": "FEDERICO SALVA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56013",
+   "Nombre": "LEANDRO DELFINO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "55113",
+   "Nombre": "FRANCISCO FERREYRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47861",
+   "Nombre": "FRANCO DE LOS SANTOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63099",
+   "Nombre": "JOAQUIN FERNANDO HERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "60732",
+   "Nombre": "SEBASTIAN LAPORTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "46422",
+   "Nombre": "GONZALO IÑAKI DE PENA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55117",
+   "Nombre": "GUILLERMO VALLE LISBOA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "47785",
+   "Nombre": "FILIPPO RADICCIONI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "camiseta": "90",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63854",
+   "Nombre": "MATIAS MIGUEL GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58227",
+   "Nombre": "IGNACIO EMANNUEL SILVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "59858",
+   "Nombre": "RODRIGO IVAN CASAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51792",
+   "Nombre": "LEANDRO CLAVIJO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "44758",
+   "Nombre": "ALEJO PEREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "40228",
+   "Nombre": "HUGO JESUS CORREA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52720",
+   "Nombre": "EDWARD ALEXIS BINTANCOUR",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56487",
+   "Nombre": "MAURICIO NEHEMIAS VIERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59072",
+   "Nombre": "SANTIAGO AGUSTIN ALMEIDA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67286",
+   "Nombre": "ALEJANDRO EZEQUIEL PEREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "35062",
+   "Nombre": "GUILLERMO CHRISTIAN SÖRENSEN",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47785",
+   "Jug_Sale": "FILIPPO RADICCIONI",
+   "CarneEntra": "58706",
+   "Jug_Entra": "MATIAS ORTIZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46422",
+   "Jug_Sale": "GONZALO IÑAKI DE PENA",
+   "CarneEntra": "56987",
+   "Jug_Entra": "ALVARO MARQUEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60732",
+   "Jug_Sale": "SEBASTIAN LAPORTE",
+   "CarneEntra": "67026",
+   "Jug_Entra": "JUAN PABLO CANEPA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55117",
+   "Jug_Sale": "GUILLERMO VALLE LISBOA",
+   "CarneEntra": "63380",
+   "Jug_Entra": "JUAN LENA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63099",
+   "Jug_Sale": "JOAQUIN FERNANDO HERNANDEZ",
+   "CarneEntra": "66621",
+   "Jug_Entra": "NAIM BLANCO",
+   "camiseta": "20",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "48010",
+   "Jug_Sale": "FABRICIO VERDIAS",
+   "CarneEntra": "46034",
+   "Jug_Entra": "APARICIO PEDRO MACHADO",
+   "camiseta": "17",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44758",
+   "Jug_Sale": "ALEJO PEREZ",
+   "CarneEntra": "67285",
+   "Jug_Entra": "DILAN ANDRES SALDIAS",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35062",
+   "Jug_Sale": "GUILLERMO CHRISTIAN SÖRENSEN",
+   "CarneEntra": "67270",
+   "Jug_Entra": "MARTINO ROCCO",
+   "camiseta": "19",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "58227",
+   "Jug_Sale": "IGNACIO EMANNUEL SILVA",
+   "CarneEntra": "64653",
+   "Jug_Entra": "BRAULIO TOMAS MATTOS",
+   "camiseta": "17",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "59072",
+   "Jug_Sale": "SANTIAGO AGUSTIN ALMEIDA",
+   "CarneEntra": "45617",
+   "Jug_Entra": "FACUNDO MARCELO BARBERO",
+   "camiseta": "8",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "59858",
+   "Jug_Sale": "RODRIGO IVAN CASAS",
+   "CarneEntra": "63851",
+   "Jug_Entra": "JEDI MAXIMILIANO RODRIGUEZ",
+   "camiseta": "22",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "44758",
+   "Nombre": "ALEJO PEREZ",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67285",
+   "Nombre": "DILAN ANDRES SALDIAS",
+   "minutos": "66",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "LEANDRO DELFINO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "HUGO JESUS CORREA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "EDWARD ALEXIS BINTANCOUR",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "ALEJANDRO EZEQUIEL PEREZ",
+   "observaciones": ""
+  }
+ ]
+}

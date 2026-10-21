@@ -1,0 +1,269 @@
+{
+ "id": "98058",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 1,
+ "fechaHora": "2026-04-12 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "ESPARTA UNIVERSITARIO",
+ "visitante": "PALLOTTI UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "607",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-04-12 11:05:00",
+  "Fecha_fin": "2026-04-12 11:05:00",
+  "Locatario": "ESPARTA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "PALLOTTI UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "37571",
+   "Nombre": "ANDRES FRANCO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "34001",
+   "Nombre": "IGNACIO SOUZA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59481",
+   "Nombre": "JUAN MANUEL BARROS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42201",
+   "Nombre": "FRANCO ANTONIO DI BELLO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67668",
+   "Nombre": "THIAGO UMPIERREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53456",
+   "Nombre": "AGUSTIN SANDE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61792",
+   "Nombre": "HERNAN ARAUJO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "45438",
+   "Nombre": "MAXIMILIANO JAVIER MOLINARI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "66223",
+   "Nombre": "FACUNDO CHIAZZARO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "42973",
+   "Nombre": "NICOLAS MARCIO RODAO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67169",
+   "Nombre": "NICLAS SANTIAGO AVELLANEDA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67597",
+   "Nombre": "PABLO FACUNDO BATTAGLIESE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "37050",
+   "Nombre": "FABRIZIO ZANONI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42915",
+   "Nombre": "IVAN LAGO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "58096",
+   "Nombre": "SANTIAGO LUNGO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54031",
+   "Nombre": "JUAN IGNACIO ALBANESE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "45268",
+   "Nombre": "FACUNDO ALANIZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58351",
+   "Nombre": "JOAQUIN PAREDES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48519",
+   "Nombre": "NICOLAS ERNESTO SUBERBIE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59854",
+   "Nombre": "LUCAS MANUEL VILCHES",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "54030",
+   "Nombre": "GASTON MACHADO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "43150",
+   "Nombre": "TOMAS DILEMA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61792",
+   "Jug_Sale": "HERNAN ARAUJO",
+   "CarneEntra": "41504",
+   "Jug_Entra": "MAURO ANDRES DI BELLO",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67169",
+   "Jug_Sale": "NICLAS SANTIAGO AVELLANEDA",
+   "CarneEntra": "49284",
+   "Jug_Entra": "FELIPE ARRICAR",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41504",
+   "Jug_Sale": "MAURO ANDRES DI BELLO",
+   "CarneEntra": "59397",
+   "Jug_Entra": "HUGO ATILIO TRIUNFO",
+   "camiseta": "9",
+   "minutos": "44"
+  },
+  {
+   "CarneSale": "67668",
+   "Jug_Sale": "THIAGO UMPIERREZ",
+   "CarneEntra": "67670",
+   "Jug_Entra": "LAUREANO LARROSA",
+   "camiseta": "22",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "45438",
+   "Jug_Sale": "MAXIMILIANO JAVIER MOLINARI",
+   "CarneEntra": "32432",
+   "Jug_Entra": "KEVIN ARIEL WINIARSKI",
+   "camiseta": "16",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "66223",
+   "Jug_Sale": "FACUNDO CHIAZZARO",
+   "CarneEntra": "67672",
+   "Jug_Entra": "SANTIAGO MARTIN ROCHA",
+   "camiseta": "26",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59854",
+   "Jug_Sale": "LUCAS MANUEL VILCHES",
+   "CarneEntra": "43145",
+   "Jug_Entra": "JOAQUIN MATEO RODRIGUEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58096",
+   "Jug_Sale": "SANTIAGO LUNGO",
+   "CarneEntra": "55085",
+   "Jug_Entra": "MATIAS LIÑARES",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43150",
+   "Jug_Sale": "TOMAS DILEMA",
+   "CarneEntra": "43148",
+   "Jug_Entra": "ELAL CAMILO SANS",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54031",
+   "Jug_Sale": "JUAN IGNACIO ALBANESE",
+   "CarneEntra": "46260",
+   "Jug_Entra": "JUAN MANUEL SAN MARTIN",
+   "camiseta": "31",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "58351",
+   "Jug_Sale": "JOAQUIN PAREDES",
+   "CarneEntra": "64444",
+   "Jug_Entra": "FEDERICO AGUSTIN SOUZA",
+   "camiseta": "32",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FACUNDO ALANIZ",
+   "observaciones": ""
+  }
+ ]
+}

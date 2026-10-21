@@ -1,0 +1,277 @@
+{
+ "id": "99180",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 6,
+ "fechaHora": "2026-05-24 09:00:00",
+ "cancha": "CAMPO DEP. COLEGIO INGLES",
+ "local": "CAFU",
+ "visitante": "ESTUDIANTES ESPAÑOLES",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "527",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "CAMPO DEP. COLEGIO INGLES",
+  "Fecha_Inicio": "2026-05-24 10:55:00",
+  "Fecha_fin": "2026-05-24 10:55:00",
+  "Locatario": "CAFU",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ESTUDIANTES ESPAÑOLES",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "51727",
+   "Nombre": "MARCOS CARRION",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52901",
+   "Nombre": "SALVADOR BURGOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51170",
+   "Nombre": "NICOLAS FLORIAN GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "29538",
+   "Nombre": "MATIAS DA CUNHA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "56736",
+   "Nombre": "JUAN ESPINA",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "54698",
+   "Nombre": "SEBASTIAN MARCOS GONZALEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55960",
+   "Nombre": "LUCAS BERNARDO BARJAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "17871",
+   "Nombre": "FEDERICO LUIS LECUEDER",
+   "camiseta": "0",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66200",
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56099",
+   "Nombre": "FEDERICO GURT",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34808",
+   "Nombre": "LORENZO LARGHERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "34324",
+   "Nombre": "AGUSTIN DOS SANTOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "29802",
+   "Nombre": "PABLO ANDRES VOITURET",
+   "camiseta": "28",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32352",
+   "Nombre": "DIEGO IGNACIO RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59785",
+   "Nombre": "ALVARO MARTIN FIGUEREDO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "30147",
+   "Nombre": "SANTIAGO SORAVILLA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "37323",
+   "Nombre": "BRUNO TONCOPI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "39774",
+   "Nombre": "FERNANDO ROLFO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50016",
+   "Nombre": "MARCELO RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63171",
+   "Nombre": "RODRIGO ODRIOZOLA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55960",
+   "Jug_Sale": "LUCAS BERNARDO BARJAS",
+   "CarneEntra": "53761",
+   "Jug_Entra": "EMILIANO GASPAR TRUJILLO",
+   "camiseta": "37",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "17871",
+   "Jug_Sale": "FEDERICO LUIS LECUEDER",
+   "CarneEntra": "68384",
+   "Jug_Entra": "ANGEL DANIEL ALCINA",
+   "camiseta": "17",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "52901",
+   "Jug_Sale": "SALVADOR BURGOS",
+   "CarneEntra": "51165",
+   "Jug_Entra": "SERGIO FACUNDO DIAZ",
+   "camiseta": "47",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "32399",
+   "Jug_Sale": "IGNACIO LECUEDER",
+   "CarneEntra": "59440",
+   "Jug_Entra": "GONZALO FEDERICO CUÑA",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "34500",
+   "Jug_Sale": "RODRIGO GABRIEL ANGELOTTI",
+   "CarneEntra": "67408",
+   "Jug_Entra": "MATEO LIMA",
+   "camiseta": "3",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "54698",
+   "Jug_Sale": "SEBASTIAN MARCOS GONZALEZ",
+   "CarneEntra": "52903",
+   "Jug_Entra": "JOAQUIN PABLO GONZALEZ",
+   "camiseta": "41",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39774",
+   "Jug_Sale": "FERNANDO ROLFO",
+   "CarneEntra": "53068",
+   "Jug_Entra": "ANGEL AGUSTIN FRIONI",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63171",
+   "Jug_Sale": "RODRIGO ODRIOZOLA",
+   "CarneEntra": "34311",
+   "Jug_Entra": "SEBASTIAN GONZALEZ",
+   "camiseta": "11",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "37323",
+   "Jug_Sale": "BRUNO TONCOPI",
+   "CarneEntra": "66907",
+   "Jug_Entra": "HUGO NAHUEL CAJAL",
+   "camiseta": "15",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "34808",
+   "Jug_Sale": "LORENZO LARGHERO",
+   "CarneEntra": "37520",
+   "Jug_Entra": "EMILIANO SELVA",
+   "camiseta": "24",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "59785",
+   "Jug_Sale": "ALVARO MARTIN FIGUEREDO",
+   "CarneEntra": "34808",
+   "Jug_Entra": "LORENZO LARGHERO",
+   "camiseta": "2",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "37323",
+   "Nombre": "BRUNO TONCOPI",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53068",
+   "Nombre": "ANGEL AGUSTIN FRIONI",
+   "minutos": "53",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

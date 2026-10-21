@@ -1,0 +1,269 @@
+{
+ "id": "102413",
+ "categoria": "reserva-b",
+ "serie": "RSBTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS VERDE",
+ "visitante": "OLD CHRISTIANS BLANCO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "672",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" TIT. y ASC.",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-09-26 13:12:00",
+  "Fecha_fin": "2026-09-26 13:12:00",
+  "Locatario": "OLD CHRISTIANS VERDE",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS BLANCO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68491",
+   "Nombre": "MARCOS SEIGAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54879",
+   "Nombre": "MARCOS VALDES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "48580",
+   "Nombre": "JUAN PABLO FERNANDEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "53757",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "26731",
+   "Nombre": "JOSE PEDRO ARAMENDIA",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "51736",
+   "Nombre": "PEDRO HINSCH",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "44029",
+   "Nombre": "TOMAS SANTIAGO SLINGER",
+   "camiseta": "33",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60425",
+   "Nombre": "FACUNDO STURLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53976",
+   "Nombre": "MATEO STORACE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56746",
+   "Nombre": "JOAQUIN REINANTE",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "55214",
+   "Nombre": "BAUTISTA RAFAEL LADOUX",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68857",
+   "Nombre": "FRANCISCO PINTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52820",
+   "Nombre": "SEBASTIAN CLEMENTE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67430",
+   "Nombre": "ANDRES VILLAR",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42800",
+   "Nombre": "FEDERICO  IGNACIO HERMIDA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "44039",
+   "Nombre": "ALEJANDRO FYNN",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52622",
+   "Nombre": "NICOLAS CLEMENTE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47292",
+   "Nombre": "NICOLAS JOSE REGUSCI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51502",
+   "Nombre": "DIEGO VIGORITO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67427",
+   "Nombre": "LUCAS DE ACHAVAL",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54409",
+   "Nombre": "JOAQUIN IRULEGUY",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "51134",
+   "Nombre": "TOMAS LAFFITTE",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54879",
+   "Jug_Sale": "MARCOS VALDES",
+   "CarneEntra": "60209",
+   "Jug_Entra": "BAUTISTA COSTA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26731",
+   "Jug_Sale": "JOSE PEDRO ARAMENDIA",
+   "CarneEntra": "57492",
+   "Jug_Entra": "SANTIAGO BELLO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48580",
+   "Jug_Sale": "JUAN PABLO FERNANDEZ",
+   "CarneEntra": "67388",
+   "Jug_Entra": "SANTIAGO BERTORELLI",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44029",
+   "Jug_Sale": "TOMAS SANTIAGO SLINGER",
+   "CarneEntra": "46366",
+   "Jug_Entra": "IGNACIO MESIAS",
+   "camiseta": "70",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "53976",
+   "Jug_Sale": "MATEO STORACE",
+   "CarneEntra": "60570",
+   "Jug_Entra": "ALFONSO PINTOS",
+   "camiseta": "45",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51134",
+   "Jug_Sale": "TOMAS LAFFITTE",
+   "CarneEntra": "46844",
+   "Jug_Entra": "JOSE ANTONIO GONZALEZ BERRO",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52622",
+   "Jug_Sale": "NICOLAS CLEMENTE",
+   "CarneEntra": "58500",
+   "Jug_Entra": "FACUNDO LAFFITTE",
+   "camiseta": "22",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "42800",
+   "Jug_Sale": "FEDERICO  IGNACIO HERMIDA",
+   "CarneEntra": "52607",
+   "Jug_Entra": "GUZMAN ARECHAVALETA",
+   "camiseta": "31",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "47292",
+   "Jug_Sale": "NICOLAS JOSE REGUSCI",
+   "CarneEntra": "67426",
+   "Jug_Entra": "JUAN MANUEL FERNANDEZ",
+   "camiseta": "8",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "51502",
+   "Jug_Sale": "DIEGO VIGORITO",
+   "CarneEntra": "46845",
+   "Jug_Entra": "BAUTISTA VINCENT",
+   "camiseta": "25",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "47292",
+   "Nombre": "NICOLAS JOSE REGUSCI",
+   "minutos": "12",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54409",
+   "Nombre": "JOAQUIN IRULEGUY",
+   "minutos": "44",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

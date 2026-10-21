@@ -1,0 +1,260 @@
+{
+ "id": "100029",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 15:30:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "COLEGIO SAN ISIDRO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "311",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-13 17:15:00",
+  "Fecha_fin": "2026-06-13 17:15:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "COLEGIO SAN ISIDRO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56600",
+   "Nombre": "SANTIAGO REYES",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "54996",
+   "Nombre": "AGUSTIN VOLKER RESTANO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "62637",
+   "Nombre": "AGUSTIN GAVEL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55355",
+   "Nombre": "FACUNDO BELTRAN",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "62952",
+   "Nombre": "JUAN PEDRO ANGENSCHEIDT",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62940",
+   "Nombre": "JOAQUIN ORGOROSO",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "55187",
+   "Nombre": "IGNACIO ANDRES ALVAREZ",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "56108",
+   "Nombre": "IGNACIO CACHON",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "56201",
+   "Nombre": "MATEO BONFIGLIO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "56156",
+   "Nombre": "FRANCO SANTIAGO BOTTINI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66255",
+   "Nombre": "GUILLERMO ADOLPH",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60120",
+   "Nombre": "FELIPE SIERRA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61123",
+   "Nombre": "GONZALO NAHUEL MELO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68015",
+   "Nombre": "GUILLERMO NICOLAS MOREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67016",
+   "Nombre": "MARTIN NAHUEL AMARAL",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "60951",
+   "Nombre": "JOAQUIN LARA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59217",
+   "Nombre": "FEDERICO PIERO GELMINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62219",
+   "Nombre": "MATEO BERRIEL",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61124",
+   "Nombre": "BENJAMIN LOPEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63499",
+   "Nombre": "JUAN FRANCISCO ARISPE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67017",
+   "Nombre": "FELIPE PISANO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "68355",
+   "Nombre": "GERMAN DONATO LUCAS",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62940",
+   "Jug_Sale": "JOAQUIN ORGOROSO",
+   "CarneEntra": "59473",
+   "Jug_Entra": "SANTIAGO OUTERELO",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66255",
+   "Jug_Sale": "GUILLERMO ADOLPH",
+   "CarneEntra": "59109",
+   "Jug_Entra": "SANTIAGO ALVAREZ",
+   "camiseta": "82",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56156",
+   "Jug_Sale": "FRANCO SANTIAGO BOTTINI",
+   "CarneEntra": "58855",
+   "Jug_Entra": "JOAQUIN MARTINEZ",
+   "camiseta": "33",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "62637",
+   "Jug_Sale": "AGUSTIN GAVEL",
+   "CarneEntra": "56842",
+   "Jug_Entra": "FRANCO RIGHETTI",
+   "camiseta": "43",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68355",
+   "Jug_Sale": "GERMAN DONATO LUCAS",
+   "CarneEntra": "59215",
+   "Jug_Entra": "SANTIAGO GABRIEL SOSA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67017",
+   "Jug_Sale": "FELIPE PISANO",
+   "CarneEntra": "59219",
+   "Jug_Entra": "JUAN ANDRES COLOMBO",
+   "camiseta": "51",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68015",
+   "Jug_Sale": "GUILLERMO NICOLAS MOREIRA",
+   "CarneEntra": "67500",
+   "Jug_Entra": "IGNACIO SPINOGLIO",
+   "camiseta": "3",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "67016",
+   "Jug_Sale": "MARTIN NAHUEL AMARAL",
+   "CarneEntra": "60777",
+   "Jug_Entra": "FACUNDO LOZANO",
+   "camiseta": "4",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62952",
+   "Nombre": "JUAN PEDRO ANGENSCHEIDT",
+   "minutos": "44",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59215",
+   "Nombre": "SANTIAGO GABRIEL SOSA",
+   "minutos": "67",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59217",
+   "Nombre": "FEDERICO PIERO GELMINI",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

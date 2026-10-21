@@ -1,0 +1,272 @@
+{
+ "id": "98859",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII BLANCO",
+ "visitante": "OLD CHRISTIANS NARANJA",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "279",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-16 13:10:00",
+  "Fecha_fin": "2026-05-16 13:10:00",
+  "Locatario": "JUAN XXIII BLANCO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "OLD CHRISTIANS NARANJA",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59263",
+   "Nombre": "MAURO ANDRES RUVERTONI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "48876",
+   "Nombre": "EZEQUIEL FERRARI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49012",
+   "Nombre": "AGUSTIN SUPERVIELLE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58842",
+   "Nombre": "ISMAEL DE DIOS",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "58867",
+   "Nombre": "BRUNO MARASCO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58861",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "54665",
+   "Nombre": "SANTIAGO PRINA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61875",
+   "Nombre": "MARTIN VITABAR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46955",
+   "Nombre": "FRANCISCO ARTURO CACERES",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "62489",
+   "Nombre": "FACUNDO PASSEGGI",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "51708",
+   "Nombre": "AGUSTIN FERRES",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46770",
+   "Nombre": "TOMAS LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62604",
+   "Nombre": "JUAN CRUZ DE AZPITARTE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52817",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "37180",
+   "Nombre": "ROBERTO SEBASTIAN RAVASCHIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66781",
+   "Nombre": "FELIPE FERNANDEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "50877",
+   "Nombre": "LAUTARO NEMIÑA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55122",
+   "Nombre": "NICOLAS POL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "39526",
+   "Nombre": "JUAN MARTIN BASIGALUZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47289",
+   "Nombre": "LUIS PEDRO PONCE DE LEON",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "46132",
+   "Nombre": "AGUSTIN MARIA GATTAS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "46003",
+   "Nombre": "MARTIN VIGORITO",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49012",
+   "Jug_Sale": "AGUSTIN SUPERVIELLE",
+   "CarneEntra": "52477",
+   "Jug_Entra": "MATEO FRANCISCO GONZALEZ",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48876",
+   "Jug_Sale": "EZEQUIEL FERRARI",
+   "CarneEntra": "58047",
+   "Jug_Entra": "ALFONSO RODRIGUEZ",
+   "camiseta": "10",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "58861",
+   "Jug_Sale": "SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "50344",
+   "Jug_Entra": "FELIPE MANUEL NIETO",
+   "camiseta": "17",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "62489",
+   "Jug_Sale": "FACUNDO PASSEGGI",
+   "CarneEntra": "53772",
+   "Jug_Entra": "GIULIANO GAZZOLA",
+   "camiseta": "64",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "46955",
+   "Jug_Sale": "FRANCISCO ARTURO CACERES",
+   "CarneEntra": "61867",
+   "Jug_Entra": "MATEO ALVAREZ",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58842",
+   "Jug_Sale": "ISMAEL DE DIOS",
+   "CarneEntra": "53468",
+   "Jug_Entra": "TOMAS PACHECO",
+   "camiseta": "6",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61875",
+   "Jug_Sale": "MARTIN VITABAR",
+   "CarneEntra": "66793",
+   "Jug_Entra": "MATEO PICHERNO",
+   "camiseta": "91",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50877",
+   "Jug_Sale": "LAUTARO NEMIÑA",
+   "CarneEntra": "52822",
+   "Jug_Entra": "LUCAS RUVIRA",
+   "camiseta": "27",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "46132",
+   "Jug_Sale": "AGUSTIN MARIA GATTAS",
+   "CarneEntra": "62365",
+   "Jug_Entra": "JOSE AGUSTIN BÖCKING",
+   "camiseta": "80",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "66781",
+   "Jug_Sale": "FELIPE FERNANDEZ",
+   "CarneEntra": "55849",
+   "Jug_Entra": "ALFONSO LOPEZ",
+   "camiseta": "17",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "37180",
+   "Jug_Sale": "ROBERTO SEBASTIAN RAVASCHIO",
+   "CarneEntra": "68309",
+   "Jug_Entra": "TOMAS DE CASTRO",
+   "camiseta": "22",
+   "minutos": "94"
+  },
+  {
+   "CarneSale": "39526",
+   "Jug_Sale": "JUAN MARTIN BASIGALUZ",
+   "CarneEntra": "53889",
+   "Jug_Entra": "MANUEL TERRA",
+   "camiseta": "14",
+   "minutos": "94"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,284 @@
+{
+ "id": "100507",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "CIUDAD DEPORTIVA ZONA LAB",
+ "local": "SAN AGUSTIN",
+ "visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "490",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "CIUDAD DEPORTIVA ZONA LAB",
+  "Fecha_Inicio": "2026-06-27 00:00:00",
+  "Fecha_fin": "2026-06-27 00:00:00",
+  "Locatario": "SAN AGUSTIN",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47395",
+   "Nombre": "ALFONSO ALBERTO CANUTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55271",
+   "Nombre": "IGNACIO BORETTO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "55175",
+   "Nombre": "BENJAMIN HERRAN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "47401",
+   "Nombre": "FELIPE SEXENIAN",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49157",
+   "Nombre": "SEBASTIAN CHEBI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51339",
+   "Nombre": "FACUNDO VACZY",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "48900",
+   "Nombre": "AGUSTIN DECIA",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "50991",
+   "Nombre": "MAXIMILIANO GAGLIAMONE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47398",
+   "Nombre": "FELIPE GALINDEZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "55788",
+   "Nombre": "JUAN IGNACIO BECOÑA",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "54167",
+   "Nombre": "JOAQUIN DECIA",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62246",
+   "Nombre": "BRUNO MOREIRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64071",
+   "Nombre": "FEDERICO SEBASTIAN BENITEZ",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59910",
+   "Nombre": "FACUNDO OZMAN PERDOMO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64069",
+   "Nombre": "CARLOS DANIEL GUIDOTTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63777",
+   "Nombre": "FRANCO OLMOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62984",
+   "Nombre": "FABRIZIO VALVERDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59015",
+   "Nombre": "IGNACIO SALVADOR PERDOMO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54906",
+   "Nombre": "GUZMAN EMILIANO HERNANDEZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56409",
+   "Nombre": "THIAGO FABIAN NICHELE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "68765",
+   "Nombre": "MANUEL IDIARTE",
+   "camiseta": "70",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49157",
+   "Jug_Sale": "SEBASTIAN CHEBI",
+   "CarneEntra": "50985",
+   "Jug_Entra": "SANTIAGO MOCHETTI",
+   "camiseta": "24",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "48900",
+   "Jug_Sale": "AGUSTIN DECIA",
+   "CarneEntra": "51336",
+   "Jug_Entra": "SEBASTIAN ROCHA",
+   "camiseta": "16",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "54167",
+   "Jug_Sale": "JOAQUIN DECIA",
+   "CarneEntra": "49158",
+   "Jug_Entra": "JOAQUIN MORALES",
+   "camiseta": "3",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "55788",
+   "Jug_Sale": "JUAN IGNACIO BECOÑA",
+   "CarneEntra": "43944",
+   "Jug_Entra": "SANTIAGO TECHEIRA",
+   "camiseta": "13",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "55271",
+   "Jug_Sale": "IGNACIO BORETTO",
+   "CarneEntra": "48903",
+   "Jug_Entra": "FEDERICO BICA",
+   "camiseta": "2",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "55175",
+   "Jug_Sale": "BENJAMIN HERRAN",
+   "CarneEntra": "54126",
+   "Jug_Entra": "ALEJANDRO DIAZ",
+   "camiseta": "44",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62984",
+   "Jug_Sale": "FABRIZIO VALVERDE",
+   "CarneEntra": "39226",
+   "Jug_Entra": "MAURICIO FACUNDO DE LOS SANTOS",
+   "camiseta": "49",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68765",
+   "Jug_Sale": "MANUEL IDIARTE",
+   "CarneEntra": "58238",
+   "Jug_Entra": "ALEJANDRO RODRIGUEZ",
+   "camiseta": "77",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54906",
+   "Jug_Sale": "GUZMAN EMILIANO HERNANDEZ",
+   "CarneEntra": "59016",
+   "Jug_Entra": "IGNACIO PAULO MORENO",
+   "camiseta": "60",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54931",
+   "Jug_Sale": "GENARO VALENTIN COLOMBO",
+   "CarneEntra": "59033",
+   "Jug_Entra": "DANILO URES",
+   "camiseta": "12",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "59910",
+   "Jug_Sale": "FACUNDO OZMAN PERDOMO",
+   "CarneEntra": "64352",
+   "Jug_Entra": "MARTIN VALVERDE",
+   "camiseta": "69",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43944",
+   "Nombre": "SANTIAGO TECHEIRA",
+   "minutos": "88",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47401",
+   "Nombre": "FELIPE SEXENIAN",
+   "minutos": "28",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59910",
+   "Nombre": "FACUNDO OZMAN PERDOMO",
+   "minutos": "69",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

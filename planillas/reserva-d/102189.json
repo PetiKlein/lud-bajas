@@ -1,0 +1,293 @@
+{
+ "id": "102189",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 4,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "FUERZA AEREA",
+ "local": "CLUB FUERZA AEREA",
+ "visitante": "YAGUARI",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "578",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "FUERZA AEREA",
+  "Fecha_Inicio": "2026-09-19 13:05:00",
+  "Fecha_fin": "2026-09-19 13:05:00",
+  "Locatario": "CLUB FUERZA AEREA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "YAGUARI",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "50053",
+   "Nombre": "DAMIAN BARBITTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27939",
+   "Nombre": "RODRIGO NICOLAS RUIZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "24285",
+   "Nombre": "ALBERTO DE MEDINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "46892",
+   "Nombre": "JUAN PABLO DE MEDINA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63084",
+   "Nombre": "KEVIN NICOLAS LAVALLEJA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63480",
+   "Nombre": "SERGI YONATAN FERNANDEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "67300",
+   "Nombre": "BENJAMIN PEREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47191",
+   "Nombre": "CARLOS FACUNDO CABRERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57856",
+   "Nombre": "MAXIMO TOLEDO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63083",
+   "Nombre": "DIEGO NICOLAS GRACES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "60718",
+   "Nombre": "ALEXANDER ENRIQUE LOPEZ",
+   "camiseta": "69",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39264",
+   "Nombre": "BRUNO MARTINEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "39047",
+   "Nombre": "MAXIMILIANO ALEXIS ROSE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "39081",
+   "Nombre": "IGNACIO EASTMAN",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "55076",
+   "Nombre": "SIMON RUSSI",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "51073",
+   "Nombre": "GASTON PALERMO",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64265",
+   "Nombre": "DIEGO CALLEROS",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "40963",
+   "Nombre": "JUAN DIEGO GOMEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "59170",
+   "Nombre": "FRANCISCO SANTAMARIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "55776",
+   "Nombre": "ALFONSO MARTINO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "59647",
+   "Nombre": "TIMOTEO APARICIO MARTINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54378",
+   "Nombre": "NICOLAS VAZQUEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60718",
+   "Jug_Sale": "ALEXANDER ENRIQUE LOPEZ",
+   "CarneEntra": "30083",
+   "Jug_Entra": "MATHIAS AYRTON FUIDIO",
+   "camiseta": "94",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63083",
+   "Jug_Sale": "DIEGO NICOLAS GRACES",
+   "CarneEntra": "67305",
+   "Jug_Entra": "MATHIAS NICOLAS DE LA FUENTE",
+   "camiseta": "30",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "46892",
+   "Jug_Sale": "JUAN PABLO DE MEDINA",
+   "CarneEntra": "69094",
+   "Jug_Entra": "MATIAS GONZALO FRANCOLINO",
+   "camiseta": "28",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "57856",
+   "Jug_Sale": "MAXIMO TOLEDO",
+   "CarneEntra": "51915",
+   "Jug_Entra": "EMILIANO DESEVO",
+   "camiseta": "9",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "47191",
+   "Jug_Sale": "CARLOS FACUNDO CABRERA",
+   "CarneEntra": "60718",
+   "Jug_Entra": "ALEXANDER ENRIQUE LOPEZ",
+   "camiseta": "69",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "27939",
+   "Jug_Sale": "RODRIGO NICOLAS RUIZ",
+   "CarneEntra": "46892",
+   "Jug_Entra": "JUAN PABLO DE MEDINA",
+   "camiseta": "19",
+   "minutos": "22"
+  },
+  {
+   "CarneSale": "24285",
+   "Jug_Sale": "ALBERTO DE MEDINA",
+   "CarneEntra": "57856",
+   "Jug_Entra": "MAXIMO TOLEDO",
+   "camiseta": "7",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51073",
+   "Jug_Sale": "GASTON PALERMO",
+   "CarneEntra": "55080",
+   "Jug_Entra": "FRANCISCO CERONI",
+   "camiseta": "0",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59647",
+   "Jug_Sale": "TIMOTEO APARICIO MARTINO",
+   "CarneEntra": "63110",
+   "Jug_Entra": "VICENTE MARTINEZ HAEDO",
+   "camiseta": "0",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "64265",
+   "Jug_Sale": "DIEGO CALLEROS",
+   "CarneEntra": "68817",
+   "Jug_Entra": "SANTIAGO UMPIERREZ",
+   "camiseta": "0",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "59170",
+   "Jug_Sale": "FRANCISCO SANTAMARIA",
+   "CarneEntra": "51075",
+   "Jug_Entra": "TOMAS AMEIXEIRAS",
+   "camiseta": "0",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "54378",
+   "Jug_Sale": "NICOLAS VAZQUEZ",
+   "CarneEntra": "58191",
+   "Jug_Entra": "SANTINO AMOZA",
+   "camiseta": "0",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "68817",
+   "Jug_Sale": "SANTIAGO UMPIERREZ",
+   "CarneEntra": "64265",
+   "Jug_Entra": "DIEGO CALLEROS",
+   "camiseta": "0",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "54378",
+   "Nombre": "NICOLAS VAZQUEZ",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55076",
+   "Nombre": "SIMON RUSSI",
+   "minutos": "41",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

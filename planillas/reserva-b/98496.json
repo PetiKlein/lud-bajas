@@ -1,0 +1,307 @@
+{
+ "id": "98496",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+ "local": "HEBRAICA UNIVERSITARIO",
+ "visitante": "CIRCULO DE TENIS MONTEVIDEO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "138",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+  "Fecha_Inicio": "2026-04-25 13:00:00",
+  "Fecha_fin": "2026-04-25 13:00:00",
+  "Locatario": "HEBRAICA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45400",
+   "Nombre": "DANIEL DEGEN",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "45526",
+   "Nombre": "EITAN WUHL",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "45511",
+   "Nombre": "LUCAS LEVIN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47255",
+   "Nombre": "ALAN SKORKA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49164",
+   "Nombre": "SEBASTIAN AKERMAN",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "37317",
+   "Nombre": "MAURICIO WAITER",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62767",
+   "Nombre": "MATIAS PINTO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55015",
+   "Nombre": "FRANCISCO GRAMPIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55389",
+   "Nombre": "RODRIGO NAHUEL RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64208",
+   "Nombre": "JOAQUIN REPETTO",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "59323",
+   "Nombre": "MARCOS DA SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56289",
+   "Nombre": "SANTIAGO BAIS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "55021",
+   "Nombre": "TOMAS BICA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "51734",
+   "Nombre": "NAHUEL JAVIER BALSAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64209",
+   "Nombre": "AGUSTIN MORALES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56290",
+   "Nombre": "DENIS RODRIGO RAMA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47590",
+   "Nombre": "IGNACIO SILVA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "47766",
+   "Nombre": "MARCOS SANTIAGO HOLLANDER",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47255",
+   "Jug_Sale": "ALAN SKORKA",
+   "CarneEntra": "54753",
+   "Jug_Entra": "JOAQUIN BANEWUR",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49164",
+   "Jug_Sale": "SEBASTIAN AKERMAN",
+   "CarneEntra": "43828",
+   "Jug_Entra": "BRUNO ALZARADEL",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62767",
+   "Jug_Sale": "MATIAS PINTO",
+   "CarneEntra": "43038",
+   "Jug_Entra": "DIEGO MIODOWNIK",
+   "camiseta": "49",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56384",
+   "Jug_Sale": "MATIAS SZAFRAN",
+   "CarneEntra": "47421",
+   "Jug_Entra": "NICOLAS JAKOB",
+   "camiseta": "77",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "53835",
+   "Jug_Sale": "MATEO NAHMIAS",
+   "CarneEntra": "48731",
+   "Jug_Entra": "GASTON FRYDLENDER",
+   "camiseta": "23",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "45526",
+   "Jug_Sale": "EITAN WUHL",
+   "CarneEntra": "52405",
+   "Jug_Entra": "ARIEL SUHAMI",
+   "camiseta": "71",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "37317",
+   "Jug_Sale": "MAURICIO WAITER",
+   "CarneEntra": "58032",
+   "Jug_Entra": "FEDERICO BENATAR",
+   "camiseta": "13",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51734",
+   "Jug_Sale": "NAHUEL JAVIER BALSAS",
+   "CarneEntra": "55138",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47590",
+   "Jug_Sale": "IGNACIO SILVA",
+   "CarneEntra": "60774",
+   "Jug_Entra": "MATEO COMBA",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55389",
+   "Jug_Sale": "RODRIGO NAHUEL RODRIGUEZ",
+   "CarneEntra": "54819",
+   "Jug_Entra": "FACUNDO FERRARI",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47766",
+   "Jug_Sale": "MARCOS SANTIAGO HOLLANDER",
+   "CarneEntra": "49135",
+   "Jug_Entra": "FELIPE NIN",
+   "camiseta": "4",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "56289",
+   "Jug_Sale": "SANTIAGO BAIS",
+   "CarneEntra": "50770",
+   "Jug_Entra": "SANTIAGO IGNACIO FILGUEIRAS",
+   "camiseta": "88",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "55021",
+   "Jug_Sale": "TOMAS BICA",
+   "CarneEntra": "51216",
+   "Jug_Entra": "IGNACIO ARRIOLA",
+   "camiseta": "6",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "56290",
+   "Jug_Sale": "DENIS RODRIGO RAMA",
+   "CarneEntra": "51217",
+   "Jug_Entra": "SANTIAGO MARTIN FRAGOSO",
+   "camiseta": "91",
+   "minutos": "63"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "37317",
+   "Nombre": "MAURICIO WAITER",
+   "minutos": "36",
+   "EnContra": "0"
+  },
+  {
+   "carne": "37317",
+   "Nombre": "MAURICIO WAITER",
+   "minutos": "72",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

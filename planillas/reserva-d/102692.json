@@ -1,0 +1,276 @@
+{
+ "id": "102692",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 7,
+ "fechaHora": "2026-10-10 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "TROUVILLE UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "592",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-10-10 00:00:00",
+  "Fecha_fin": "2026-10-10 00:00:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "TROUVILLE UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "53826",
+   "Nombre": "JUAN IGNACIO SOSA DIAS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "51002",
+   "Nombre": "JUAN MANUEL PEREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67474",
+   "Nombre": "MATIAS FRANCO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "63640",
+   "Nombre": "GONZALO MAS",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "64777",
+   "Nombre": "IVAN VEGOVICH",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62836",
+   "Nombre": "RODRIGO JOSE ZAS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "51803",
+   "Nombre": "SEBASTIAN TRONCOSO",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "50871",
+   "Nombre": "FEDERICO BRUGNOLI",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48893",
+   "Nombre": "EMILIANO TELLECHEA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "50597",
+   "Nombre": "VALENTIN GONCALVEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54905",
+   "Nombre": "SANTIAGO LIMA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "57068",
+   "Nombre": "JUAN IGNACIO RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "50596",
+   "Nombre": "SANTIAGO VINAGRE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58541",
+   "Nombre": "RODRIGO SEBABSTIAN CABRERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50343",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54111",
+   "Nombre": "FACUNDO ALVAREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58090",
+   "Nombre": "SANTIAGO DE OLIVERA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63640",
+   "Jug_Sale": "GONZALO MAS",
+   "CarneEntra": "55484",
+   "Jug_Entra": "GUILLERMO URIA",
+   "camiseta": "87",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67474",
+   "Jug_Sale": "MATIAS FRANCO",
+   "CarneEntra": "53351",
+   "Jug_Entra": "IGNACIO GIL",
+   "camiseta": "3",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "64777",
+   "Jug_Sale": "IVAN VEGOVICH",
+   "CarneEntra": "55669",
+   "Jug_Entra": "MATEO PINTOS",
+   "camiseta": "17",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "59752",
+   "Jug_Sale": "RAMIRO LOPEZ",
+   "CarneEntra": "67275",
+   "Jug_Entra": "MATEO MORALES",
+   "camiseta": "92",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "50127",
+   "Jug_Sale": "SANTIAGO CALVETE",
+   "CarneEntra": "66167",
+   "Jug_Entra": "AGUSTIN BLAS RIVERO",
+   "camiseta": "91",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54905",
+   "Jug_Sale": "SANTIAGO LIMA",
+   "CarneEntra": "61834",
+   "Jug_Entra": "MATHIAS ALEXANDER RAMIREZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58090",
+   "Jug_Sale": "SANTIAGO DE OLIVERA",
+   "CarneEntra": "55296",
+   "Jug_Entra": "MATEO VAZQUEZ",
+   "camiseta": "13",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "48893",
+   "Jug_Sale": "EMILIANO TELLECHEA",
+   "CarneEntra": "66628",
+   "Jug_Entra": "GERMAN BENTOS",
+   "camiseta": "4",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "50343",
+   "Jug_Sale": "TOMAS PEREZ",
+   "CarneEntra": "55865",
+   "Jug_Entra": "FEDERICO MARTIN IRIARTE",
+   "camiseta": "29",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "54111",
+   "Jug_Sale": "FACUNDO ALVAREZ",
+   "CarneEntra": "62218",
+   "Jug_Entra": "BAUTISTA COLLAZO",
+   "camiseta": "7",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62836",
+   "Nombre": "RODRIGO JOSE ZAS",
+   "minutos": "76",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "minutos": "54",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

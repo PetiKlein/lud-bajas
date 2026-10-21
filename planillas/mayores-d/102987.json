@@ -1,0 +1,276 @@
+{
+ "id": "102987",
+ "categoria": "mayores-d",
+ "serie": "DTA",
+ "fecha": 4,
+ "fechaHora": "2026-10-18 09:00:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "CLUB ATLETICO LIMBURGO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "1024",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"D\" TIT. y ASC.",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-10-18 11:00:00",
+  "Fecha_fin": "2026-10-18 11:00:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB ATLETICO LIMBURGO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56402",
+   "Nombre": "EMMANUEL VALENTIN COLLAZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64768",
+   "Nombre": "DIEGO ANDRES PERDOMO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "54838",
+   "Nombre": "AGUSTIN GANACHIPPI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "17587",
+   "Nombre": "GONZALO HOMERO ALBIN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65354",
+   "Nombre": "JULIAN COHENAR",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "57829",
+   "Nombre": "FRANCO ALESSANDRO BARROSO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "54839",
+   "Nombre": "NICOLAS ANTELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59766",
+   "Nombre": "JOSE ANDRES MARQUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54513",
+   "Nombre": "MATIAS MICHEL TORRES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "54846",
+   "Nombre": "JUAN IGNACIO VAZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51640",
+   "Nombre": "FRANCO LOMBARDI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "42809",
+   "Nombre": "EMILIANO WALTER FERREYRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "41152",
+   "Nombre": "TOMAS PAPARIELLO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45770",
+   "Nombre": "IVAN NICOLAI BOWTUN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "36388",
+   "Nombre": "GUZMAN ALEJANDRO PEREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "45008",
+   "Nombre": "GASTON ANTUNEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "43194",
+   "Nombre": "LUCAS MARTINEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52642",
+   "Nombre": "TOMAS MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47290",
+   "Nombre": "GERMAN BENITEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51441",
+   "Nombre": "SANTIAGO DERGAZARIAN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "27124",
+   "Nombre": "SEBASTIAN PEREZ",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54846",
+   "Jug_Sale": "JUAN IGNACIO VAZ",
+   "CarneEntra": "59436",
+   "Jug_Entra": "LAUTARO OLVEIRA",
+   "camiseta": "19",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "57829",
+   "Jug_Sale": "FRANCO ALESSANDRO BARROSO",
+   "CarneEntra": "59385",
+   "Jug_Entra": "PEDRO CAPDEVIELLE",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "31995",
+   "Jug_Sale": "JORGE IGNACIO DIAZ",
+   "CarneEntra": "59389",
+   "Jug_Entra": "RODRIGO GERMAN FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "54513",
+   "Jug_Sale": "MATIAS MICHEL TORRES",
+   "CarneEntra": "69130",
+   "Jug_Entra": "JUAN IGNACIO RODRIGUEZ",
+   "camiseta": "36",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "64768",
+   "Jug_Sale": "DIEGO ANDRES PERDOMO",
+   "CarneEntra": "45466",
+   "Jug_Entra": "AGUSTIN CALABUIG",
+   "camiseta": "42",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "65354",
+   "Jug_Sale": "JULIAN COHENAR",
+   "CarneEntra": "66880",
+   "Jug_Entra": "FELIPE PFEIFF",
+   "camiseta": "8",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47290",
+   "Jug_Sale": "GERMAN BENITEZ",
+   "CarneEntra": "45386",
+   "Jug_Entra": "TOMAS BETTANIN",
+   "camiseta": "8",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "42809",
+   "Jug_Sale": "EMILIANO WALTER FERREYRA",
+   "CarneEntra": "45372",
+   "Jug_Entra": "DAVID ROBIDO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43194",
+   "Jug_Sale": "LUCAS MARTINEZ",
+   "CarneEntra": "48955",
+   "Jug_Entra": "IGNACIO LOPEZ",
+   "camiseta": "80",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "51441",
+   "Jug_Sale": "SANTIAGO DERGAZARIAN",
+   "CarneEntra": "44051",
+   "Jug_Entra": "ALEXIS JAVIER NOBLE",
+   "camiseta": "22",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54513",
+   "Nombre": "MATIAS MICHEL TORRES",
+   "minutos": "42",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54846",
+   "Nombre": "JUAN IGNACIO VAZ",
+   "minutos": "30",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "27124",
+   "Nombre": "SEBASTIAN PEREZ",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

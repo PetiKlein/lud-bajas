@@ -1,0 +1,314 @@
+{
+ "id": "100282",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 15:30:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "ISASA UNIVERSITARIO",
+ "gl": 3,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "193",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-06-20 00:00:00",
+  "Fecha_fin": "2026-06-20 00:00:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "ISASA UNIVERSITARIO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57180",
+   "Nombre": "SANTIAGO DUPONT",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57275",
+   "Nombre": "SANTINO DI PROSSIMO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58378",
+   "Nombre": "MANUEL DE LEON",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57502",
+   "Nombre": "LUCA LANDONI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59032",
+   "Nombre": "GONZALO DE FREITAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64954",
+   "Nombre": "ENZO LAUTARO DADOMO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61630",
+   "Nombre": "LUCAS ISMAEL MONZILLO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61628",
+   "Nombre": "TOMAS VAZQUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57068",
+   "Nombre": "JUAN IGNACIO RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68629",
+   "Nombre": "MATEO SVARCAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56178",
+   "Nombre": "PAOLO ALVITE",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61974",
+   "Nombre": "SEBASTIAN SATTAMINO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "64257",
+   "Nombre": "JUAN MARTÌN GRAU",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57805",
+   "Nombre": "MATEO UBERTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61977",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62779",
+   "Nombre": "MIRKO DAMIAN MALAN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "58729",
+   "Nombre": "MATIAS CAMACHO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63384",
+   "Nombre": "AGUSTIN YERLE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61975",
+   "Nombre": "MARTINHO MACEDO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "56838",
+   "Nombre": "LUCA ALESSANDRO COCINA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59445",
+   "Nombre": "BRUNO ORTEGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57180",
+   "Jug_Sale": "SANTIAGO DUPONT",
+   "CarneEntra": "67208",
+   "Jug_Entra": "CAMILO PEREZ",
+   "camiseta": "12",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "68629",
+   "Jug_Sale": "MATEO SVARCAS",
+   "CarneEntra": "57180",
+   "Jug_Entra": "SANTIAGO DUPONT",
+   "camiseta": "9",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "57068",
+   "Jug_Sale": "JUAN IGNACIO RODRIGUEZ",
+   "CarneEntra": "62236",
+   "Jug_Entra": "AGUSTIN LOPEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61628",
+   "Jug_Sale": "TOMAS VAZQUEZ",
+   "CarneEntra": "63238",
+   "Jug_Entra": "PEDRO LATAILLADE",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58378",
+   "Jug_Sale": "MANUEL DE LEON",
+   "CarneEntra": "68289",
+   "Jug_Entra": "THIAGO EZEQUIEL BRUN",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63238",
+   "Jug_Sale": "PEDRO LATAILLADE",
+   "CarneEntra": "68830",
+   "Jug_Entra": "IGNACIO MANUEL SVARCAS",
+   "camiseta": "18",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58729",
+   "Jug_Sale": "MATIAS CAMACHO",
+   "CarneEntra": "66447",
+   "Jug_Entra": "FRANCO SEBASTIAN TECHERA",
+   "camiseta": "30",
+   "minutos": "44"
+  },
+  {
+   "CarneSale": "62779",
+   "Jug_Sale": "MIRKO DAMIAN MALAN",
+   "CarneEntra": "58730",
+   "Jug_Entra": "JULIAN MARTIN MARMOL",
+   "camiseta": "41",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "59445",
+   "Jug_Sale": "BRUNO ORTEGA",
+   "CarneEntra": "58731",
+   "Jug_Entra": "JULIAN ALEJANDRO NUÑEZ",
+   "camiseta": "8",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "56838",
+   "Jug_Sale": "LUCA ALESSANDRO COCINA",
+   "CarneEntra": "61121",
+   "Jug_Entra": "FRANCISCO LOIS",
+   "camiseta": "29",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "61975",
+   "Jug_Sale": "MARTINHO MACEDO",
+   "CarneEntra": "58729",
+   "Jug_Entra": "MATIAS CAMACHO",
+   "camiseta": "4",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57180",
+   "Nombre": "SANTIAGO DUPONT",
+   "minutos": "79",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58378",
+   "Nombre": "MANUEL DE LEON",
+   "minutos": "2",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61630",
+   "Nombre": "LUCAS ISMAEL MONZILLO",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "minutos": "20",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61975",
+   "Nombre": "MARTINHO MACEDO",
+   "minutos": "63",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61977",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "minutos": "4",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63384",
+   "Nombre": "AGUSTIN YERLE",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

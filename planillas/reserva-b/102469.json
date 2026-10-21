@@ -1,0 +1,276 @@
+{
+ "id": "102469",
+ "categoria": "reserva-b",
+ "serie": "RSBTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS BLANCO",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "675",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" TIT. y ASC.",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-10-03 11:00:00",
+  "Fecha_fin": "2026-10-03 11:00:00",
+  "Locatario": "OLD CHRISTIANS BLANCO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68857",
+   "Nombre": "FRANCISCO PINTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52820",
+   "Nombre": "SEBASTIAN CLEMENTE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67430",
+   "Nombre": "ANDRES VILLAR",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "48918",
+   "Nombre": "JUAN IGNACIO ROSPIDE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67427",
+   "Nombre": "LUCAS DE ACHAVAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46844",
+   "Nombre": "JOSE ANTONIO GONZALEZ BERRO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "42800",
+   "Nombre": "FEDERICO  IGNACIO HERMIDA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "52622",
+   "Nombre": "NICOLAS CLEMENTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "51502",
+   "Nombre": "DIEGO VIGORITO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54409",
+   "Nombre": "JOAQUIN IRULEGUY",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "44039",
+   "Nombre": "ALEJANDRO FYNN",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59480",
+   "Nombre": "ENZO LEON FREYER",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52135",
+   "Nombre": "LUCAS FONTES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51278",
+   "Nombre": "GUILLERMO AGUSTIN BELANDO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "69162",
+   "Nombre": "FACUNDO NICOLAS SILVESTRE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49808",
+   "Nombre": "BRUNO FERNANDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49781",
+   "Nombre": "TADEO BERTOLOTTI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "52014",
+   "Nombre": "MARTIN SORIA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51502",
+   "Jug_Sale": "DIEGO VIGORITO",
+   "CarneEntra": "61201",
+   "Jug_Entra": "EMILIANO MAGLIONE",
+   "camiseta": "35",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67430",
+   "Jug_Sale": "ANDRES VILLAR",
+   "CarneEntra": "51235",
+   "Jug_Entra": "JUAN MARQUES",
+   "camiseta": "2",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "48918",
+   "Jug_Sale": "JUAN IGNACIO ROSPIDE",
+   "CarneEntra": "54475",
+   "Jug_Entra": "JUAN IGNACIO PEREZ ALFARO",
+   "camiseta": "15",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "46844",
+   "Jug_Sale": "JOSE ANTONIO GONZALEZ BERRO",
+   "CarneEntra": "64498",
+   "Jug_Entra": "JOAQUIN GORRITI",
+   "camiseta": "90",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "42800",
+   "Jug_Sale": "FEDERICO  IGNACIO HERMIDA",
+   "CarneEntra": "46842",
+   "Jug_Entra": "JUAN MANUEL HERMIDA",
+   "camiseta": "19",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57184",
+   "Jug_Sale": "MARCO ESTEBAN TORIELLI",
+   "CarneEntra": "55606",
+   "Jug_Entra": "GONZALO CHIESA",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49781",
+   "Jug_Sale": "TADEO BERTOLOTTI",
+   "CarneEntra": "47916",
+   "Jug_Entra": "MARTIN MENDEZ",
+   "camiseta": "21",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "52014",
+   "Jug_Sale": "MARTIN SORIA",
+   "CarneEntra": "53458",
+   "Jug_Entra": "SANTIAGO SPARKOV",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "53458",
+   "Jug_Sale": "SANTIAGO SPARKOV",
+   "CarneEntra": "47472",
+   "Jug_Entra": "JUAN PABLO PLA",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "65964",
+   "Jug_Sale": "BRUNO QUINELES",
+   "CarneEntra": "43748",
+   "Jug_Entra": "MATHIAS LUIS BOZZOLASCO",
+   "camiseta": "6",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52820",
+   "Nombre": "SEBASTIAN CLEMENTE",
+   "minutos": "94",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67427",
+   "Nombre": "LUCAS DE ACHAVAL",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "69162",
+   "Nombre": "FACUNDO NICOLAS SILVESTRE",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,306 @@
+{
+ "id": "101775",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "TAPE",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "101",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-09-12 13:15:00",
+  "Fecha_fin": "2026-09-12 13:15:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "TAPE",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58980",
+   "Nombre": "MATEO PONCE DE LEON",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "50926",
+   "Nombre": "THOMAS SCHWARZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "49156",
+   "Nombre": "MATHIAS SOARES DE LIMA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "camiseta": "91",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50128",
+   "Nombre": "JUAN ANDRES GIL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52852",
+   "Nombre": "DIEGO LOPEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "37177",
+   "Nombre": "DIEGO GARRONE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "50929",
+   "Nombre": "JUAN MANUEL CASELLA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "54025",
+   "Nombre": "JOSE IGNACIO ARBILLA",
+   "camiseta": "68",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45549",
+   "Nombre": "JOSE FACUNDO FONSECA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "65015",
+   "Nombre": "VALENTIN BISIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56347",
+   "Nombre": "JUAN SANTANNA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "59865",
+   "Nombre": "MAXIMO PISANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "37326",
+   "Nombre": "JUAN INCIARTE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "35226",
+   "Nombre": "JUAN MANUEL STRAUCH",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "69057",
+   "Nombre": "JUAN IGNACIO SILVEIRA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "51930",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58314",
+   "Nombre": "JOAQUIN MENESES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49165",
+   "Nombre": "GUILLERMO PONS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "31774",
+   "Nombre": "MARTIN INCIARTE",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54025",
+   "Jug_Sale": "JOSE IGNACIO ARBILLA",
+   "CarneEntra": "53195",
+   "Jug_Entra": "MATIAS GIGIREY",
+   "camiseta": "25",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "50926",
+   "Jug_Sale": "THOMAS SCHWARZ",
+   "CarneEntra": "52853",
+   "Jug_Entra": "NICOLAS SAINTAGNE",
+   "camiseta": "85",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52852",
+   "Jug_Sale": "DIEGO LOPEZ",
+   "CarneEntra": "53196",
+   "Jug_Entra": "JOAQUIN RESTANO",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37177",
+   "Jug_Sale": "DIEGO GARRONE",
+   "CarneEntra": "41908",
+   "Jug_Entra": "JUAN MARTIN AZADIAN",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48685",
+   "Jug_Sale": "MAURICIO IHARA",
+   "CarneEntra": "48650",
+   "Jug_Entra": "JUAN IGNACIO CERULLO",
+   "camiseta": "11",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "50128",
+   "Jug_Sale": "JUAN ANDRES GIL",
+   "CarneEntra": "53442",
+   "Jug_Entra": "JUAN RAMON ARBILLA",
+   "camiseta": "45",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37326",
+   "Jug_Sale": "JUAN INCIARTE",
+   "CarneEntra": "54540",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35226",
+   "Jug_Sale": "JUAN MANUEL STRAUCH",
+   "CarneEntra": "59645",
+   "Jug_Entra": "LUCAS BESOZZI",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65015",
+   "Jug_Sale": "VALENTIN BISIO",
+   "CarneEntra": "69058",
+   "Jug_Entra": "JUAN MANUEL SILVEIRA",
+   "camiseta": "6",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "58314",
+   "Jug_Sale": "JOAQUIN MENESES",
+   "CarneEntra": "53044",
+   "Jug_Entra": "JOAQUIN SANTANNA",
+   "camiseta": "12",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "31774",
+   "Jug_Sale": "MARTIN INCIARTE",
+   "CarneEntra": "66067",
+   "Jug_Entra": "MATEO LUIS CHIAPPARRO",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "51930",
+   "Jug_Sale": "TOMAS PEREZ",
+   "CarneEntra": "55777",
+   "Jug_Entra": "LEANDRO MARCELO ERLE",
+   "camiseta": "19",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "37326",
+   "Jug_Sale": "JUAN INCIARTE",
+   "CarneEntra": "52740",
+   "Jug_Entra": "MATEO DOMINGO URIA",
+   "camiseta": "21",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "minutos": "49",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53442",
+   "Nombre": "JUAN RAMON ARBILLA",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31774",
+   "Nombre": "MARTIN INCIARTE",
+   "minutos": "3",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49165",
+   "Nombre": "GUILLERMO PONS",
+   "minutos": "20",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

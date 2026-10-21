@@ -1,0 +1,239 @@
+{
+ "id": "100129",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "192",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-14 11:00:00",
+  "Fecha_fin": "2026-06-14 11:00:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47699",
+   "Nombre": "VALENTIN ROSSI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42648",
+   "Nombre": "AGUSTIN JOSE PODESTA",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "51840",
+   "Nombre": "AGUSTIN CABALLERO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "45391",
+   "Nombre": "FELIPE MOROSOFF",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50770",
+   "Nombre": "SANTIAGO IGNACIO FILGUEIRAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56653",
+   "Nombre": "JOAQUIN CUBON",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50934",
+   "Nombre": "JUAN IGNACIO MOLFINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51214",
+   "Nombre": "FACUNDO MIRANDA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "20875",
+   "Nombre": "JUAN ANDRES AREOSA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56810",
+   "Nombre": "JUAN IGNACIO ABATE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "43095",
+   "Nombre": "FACUNDO SEBASTIAN LÒPEZ",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "40708",
+   "Nombre": "MARTIN GABRIEL COURTOISIE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48647",
+   "Nombre": "LEANDRO PASQUET",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "40714",
+   "Nombre": "PIERRE WYAUX",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "40978",
+   "Nombre": "FEDERICO TOMAS MARTINEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40900",
+   "Nombre": "NICOLAS SAGASTI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "31527",
+   "Nombre": "ANDRES BERNARDO LEGNANI",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "40039",
+   "Nombre": "ANDRES FORTE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "39007",
+   "Nombre": "IGNACIO ESTEVES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46005",
+   "Nombre": "SANTIAGO DIAZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "39089",
+   "Nombre": "GONZALO PASQUET",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39836",
+   "Nombre": "NICOLAS ALEJANDRO BORDAGORRI",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "20875",
+   "Jug_Sale": "JUAN ANDRES AREOSA",
+   "CarneEntra": "51200",
+   "Jug_Entra": "LUCAS EXEQUIEL GUERRERO",
+   "camiseta": "18",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "50934",
+   "Jug_Sale": "JUAN IGNACIO MOLFINO",
+   "CarneEntra": "56731",
+   "Jug_Entra": "JOAQUIN MAYER",
+   "camiseta": "9",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "56810",
+   "Jug_Sale": "JUAN IGNACIO ABATE",
+   "CarneEntra": "33773",
+   "Jug_Entra": "JUAN ANDRES MOROSOFF",
+   "camiseta": "25",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "42648",
+   "Jug_Sale": "AGUSTIN JOSE PODESTA",
+   "CarneEntra": "21536",
+   "Jug_Entra": "FRANCISCO SEBASTIAN FRONTINI",
+   "camiseta": "80",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46005",
+   "Jug_Sale": "SANTIAGO DIAZ",
+   "CarneEntra": "48649",
+   "Jug_Entra": "MATEO MANDIA",
+   "camiseta": "29",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "40039",
+   "Jug_Sale": "ANDRES FORTE",
+   "CarneEntra": "48650",
+   "Jug_Entra": "JUAN IGNACIO CERULLO",
+   "camiseta": "11",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "40900",
+   "Jug_Sale": "NICOLAS SAGASTI",
+   "CarneEntra": "40039",
+   "Jug_Entra": "ANDRES FORTE",
+   "camiseta": "8",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "39089",
+   "Nombre": "GONZALO PASQUET",
+   "minutos": "89",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,309 @@
+{
+ "id": "100775",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 13,
+ "fechaHora": "2026-07-30 21:00:00",
+ "cancha": "OLD IVY",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "OLD IVY",
+ "gl": 0,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "218",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "OLD IVY",
+  "Fecha_Inicio": "2026-07-30 22:50:00",
+  "Fecha_fin": "2026-07-30 22:50:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD IVY",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56362",
+   "Nombre": "IGNACIO FABEIRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44097",
+   "Nombre": "NICOLAS LABASTIE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49143",
+   "Nombre": "SANTIAGO PAIS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "44106",
+   "Nombre": "SANTIAGO RIUS",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48110",
+   "Nombre": "EMILIO PRETI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46937",
+   "Nombre": "MARTIN ROBATTO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59694",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47728",
+   "Nombre": "FELIPE RAMA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51116",
+   "Nombre": "JUAN BAUTISTA REY",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "39418",
+   "Nombre": "RODRIGO BONSIGNORE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "53671",
+   "Nombre": "MATEO SCARRONE",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53709",
+   "Nombre": "VARTAN TCHEKMEDYIAN",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "41711",
+   "Nombre": "MANUEL BORGIA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "42664",
+   "Nombre": "LUIS EDUARDO TOPOLANSKY",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61383",
+   "Nombre": "MATIAS BENECH",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56372",
+   "Nombre": "ALFONSO CARDELINO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "45591",
+   "Nombre": "FEDERICO DEAKIN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "48008",
+   "Nombre": "SANTIAGO DABO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "66871",
+   "Nombre": "JUAN MANUEL COLMAN",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "52848",
+   "Nombre": "CAMILO ROSSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "41720",
+   "Nombre": "MATIAS MENGOT",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "camiseta": "81",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53671",
+   "Jug_Sale": "MATEO SCARRONE",
+   "CarneEntra": "45038",
+   "Jug_Entra": "IGNACIO RODRIGUEZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48110",
+   "Jug_Sale": "EMILIO PRETI",
+   "CarneEntra": "50931",
+   "Jug_Entra": "SANTIAGO AVILA",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49143",
+   "Jug_Sale": "SANTIAGO PAIS",
+   "CarneEntra": "58930",
+   "Jug_Entra": "FRANCISCO ARRIETA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51116",
+   "Jug_Sale": "JUAN BAUTISTA REY",
+   "CarneEntra": "53951",
+   "Jug_Entra": "THIAGO NERGUIZIAN",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39418",
+   "Jug_Sale": "RODRIGO BONSIGNORE",
+   "CarneEntra": "38502",
+   "Jug_Entra": "JUAN PABLO MASLLORENS",
+   "camiseta": "9",
+   "minutos": "58"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "41720",
+   "Jug_Sale": "MATIAS MENGOT",
+   "CarneEntra": "45601",
+   "Jug_Entra": "JUAN BAUTISTA VILLARONGA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56372",
+   "Jug_Sale": "ALFONSO CARDELINO",
+   "CarneEntra": "57133",
+   "Jug_Entra": "GUIDO MARTINO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41711",
+   "Jug_Sale": "MANUEL BORGIA",
+   "CarneEntra": "47834",
+   "Jug_Entra": "THOMAS DEAKIN",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49105",
+   "Jug_Sale": "NICOLAS CASAMAYOU",
+   "CarneEntra": "47833",
+   "Jug_Entra": "SANTIAGO ANGENSCHEDIT",
+   "camiseta": "7",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "52848",
+   "Jug_Sale": "CAMILO ROSSO",
+   "CarneEntra": "54916",
+   "Jug_Entra": "FELIPE VILLARONGA",
+   "camiseta": "16",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "45591",
+   "Jug_Sale": "FEDERICO DEAKIN",
+   "CarneEntra": "54564",
+   "Jug_Entra": "GUILLERMO CAMPOS",
+   "camiseta": "14",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "66871",
+   "Jug_Sale": "JUAN MANUEL COLMAN",
+   "CarneEntra": "46457",
+   "Jug_Entra": "MARCOS TOPOLANSKY",
+   "camiseta": "25",
+   "minutos": "74"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "minutos": "25",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57133",
+   "Nombre": "GUIDO MARTINO",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57133",
+   "Nombre": "GUIDO MARTINO",
+   "minutos": "86",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61383",
+   "Nombre": "MATIAS BENECH",
+   "minutos": "71",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66871",
+   "Nombre": "JUAN MANUEL COLMAN",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

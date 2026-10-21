@@ -1,0 +1,268 @@
+{
+ "id": "100323",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 10,
+ "fechaHora": "2026-06-21 11:15:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "CEIBOS CLUB",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "198",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-06-21 13:15:00",
+  "Fecha_fin": "2026-06-21 13:15:00",
+  "Locatario": "CEIBOS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "48416",
+   "Nombre": "NICOLAS HOBBINS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60669",
+   "Nombre": "ISMAEL MAESO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56663",
+   "Nombre": "IGNACIO SERE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54403",
+   "Nombre": "IGNACIO GIMENEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51833",
+   "Nombre": "THIAGO TORANZA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "50651",
+   "Nombre": "JUAN PEDRO IRURETA-GOYENA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53507",
+   "Nombre": "PATRICK HOBBINS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63078",
+   "Nombre": "FEDERICO CASTELLS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67223",
+   "Nombre": "MARIANO DIAZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "43260",
+   "Nombre": "JUAN DIEGO TORRES NEGREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "55123",
+   "Nombre": "RAFAEL MARIANO BERAMENDI",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "50489",
+   "Nombre": "AGUSTIN FERREIRA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65714",
+   "Nombre": "KEVIN FAVIO GOMEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "35597",
+   "Nombre": "FABIAN CHIRIBAO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63551",
+   "Nombre": "ENZO FEDERICO BADIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52196",
+   "Nombre": "JOAQUIN ARTIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52048",
+   "Nombre": "SANTIAGO ARANCO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58271",
+   "Nombre": "SANTIAGO CAMPANELLA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55348",
+   "Nombre": "PEDRO SPENCER",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59302",
+   "Nombre": "TOMAS LEANDRO CESAR",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55606",
+   "Nombre": "GONZALO CHIESA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50437",
+   "Nombre": "MARTIN ALEJANDRO COSTA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51833",
+   "Jug_Sale": "THIAGO TORANZA",
+   "CarneEntra": "58164",
+   "Jug_Entra": "SANTIAGO PONS",
+   "camiseta": "18",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "43260",
+   "Jug_Sale": "JUAN DIEGO TORRES NEGREIRA",
+   "CarneEntra": "56329",
+   "Jug_Entra": "RAFAEL FERBER",
+   "camiseta": "9",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "55123",
+   "Jug_Sale": "RAFAEL MARIANO BERAMENDI",
+   "CarneEntra": "55182",
+   "Jug_Entra": "JUAN IGNACIO CABRERA",
+   "camiseta": "11",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58271",
+   "Jug_Sale": "SANTIAGO CAMPANELLA",
+   "CarneEntra": "48575",
+   "Jug_Entra": "DANIEL OSCAR CABRERA",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55348",
+   "Jug_Sale": "PEDRO SPENCER",
+   "CarneEntra": "59299",
+   "Jug_Entra": "MATIAS PEÑA",
+   "camiseta": "31",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "55606",
+   "Jug_Sale": "GONZALO CHIESA",
+   "CarneEntra": "47461",
+   "Jug_Entra": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "26",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "35597",
+   "Jug_Sale": "FABIAN CHIRIBAO",
+   "CarneEntra": "65021",
+   "Jug_Entra": "MARCOS AGUSTIN BARRERA",
+   "camiseta": "20",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "52048",
+   "Jug_Sale": "SANTIAGO ARANCO",
+   "CarneEntra": "62271",
+   "Jug_Entra": "MATHIAS NICOLAS SOSA",
+   "camiseta": "23",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "59302",
+   "Jug_Sale": "TOMAS LEANDRO CESAR",
+   "CarneEntra": "40793",
+   "Jug_Entra": "FERNANDO ABDO",
+   "camiseta": "6",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50651",
+   "Nombre": "JUAN PEDRO IRURETA-GOYENA",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "50437",
+   "Nombre": "MARTIN ALEJANDRO COSTA",
+   "minutos": "74",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52196",
+   "Nombre": "JOAQUIN ARTIA",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

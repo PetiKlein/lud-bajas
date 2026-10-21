@@ -1,0 +1,305 @@
+{
+ "id": "97966",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "OBC AZULGRANA.",
+ "visitante": "TENIS EL PINAR",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "4",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-04-11 13:00:00",
+  "Fecha_fin": "2026-04-11 13:00:00",
+  "Locatario": "OBC AZULGRANA.",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56248",
+   "Nombre": "FACUNDO JOSE QUINTELA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34987",
+   "Nombre": "SEBASTIAN CAGNOLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "34993",
+   "Nombre": "GUILLERMO VIVO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "42685",
+   "Nombre": "FRANCISCO DECURNEX",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "33722",
+   "Nombre": "JUAN IGNACIO MOLINARO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "44492",
+   "Nombre": "DIEGO JUAN CORALLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49021",
+   "Nombre": "JUAN IGNACIO CANESSA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51826",
+   "Nombre": "AGUSTIN DEUS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "40095",
+   "Nombre": "MATIAS ORIBE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "42816",
+   "Nombre": "ANDRES BUERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "44982",
+   "Nombre": "FEDERICO RUIZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46834",
+   "Nombre": "FRANCO MOITIÑO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "49076",
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "48653",
+   "Nombre": "MATIAS  BERNARDO VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54831",
+   "Nombre": "JOAQUÌN GOLDARACENA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "48654",
+   "Nombre": "JUAN PABLO LOCATELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "58654",
+   "Nombre": "MATIAS NICOLAS BARRIOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50666",
+   "Nombre": "FACUNDO LAGO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "40095",
+   "Jug_Sale": "MATIAS ORIBE",
+   "CarneEntra": "37519",
+   "Jug_Entra": "DARIO VECCHIO",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34987",
+   "Jug_Sale": "SEBASTIAN CAGNOLI",
+   "CarneEntra": "37267",
+   "Jug_Entra": "SANTIAGO CABALLERO",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51826",
+   "Jug_Sale": "AGUSTIN DEUS",
+   "CarneEntra": "32504",
+   "Jug_Entra": "AGUSTIN DANIEL BARCELO",
+   "camiseta": "13",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "44982",
+   "Jug_Sale": "FEDERICO RUIZ",
+   "CarneEntra": "34990",
+   "Jug_Entra": "MARTIN SORONDO",
+   "camiseta": "27",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "42685",
+   "Jug_Sale": "FRANCISCO DECURNEX",
+   "CarneEntra": "40998",
+   "Jug_Entra": "FELIPE FRUGONE",
+   "camiseta": "15",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "33722",
+   "Jug_Sale": "JUAN IGNACIO MOLINARO",
+   "CarneEntra": "54085",
+   "Jug_Entra": "DANIEL BAJAC",
+   "camiseta": "12",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "44492",
+   "Jug_Sale": "DIEGO JUAN CORALLO",
+   "CarneEntra": "44069",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "23",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46834",
+   "Jug_Sale": "FRANCO MOITIÑO",
+   "CarneEntra": "48656",
+   "Jug_Entra": "LEANDRO GABRIEL TABEIRA",
+   "camiseta": "11",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "48870",
+   "Jug_Sale": "RENZO FORTI",
+   "CarneEntra": "54592",
+   "Jug_Entra": "LUCCA BONOMI",
+   "camiseta": "12",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "50666",
+   "Jug_Sale": "FACUNDO LAGO",
+   "CarneEntra": "64786",
+   "Jug_Entra": "THIAGO  DANILO SOUTO",
+   "camiseta": "10",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "48796",
+   "Jug_Sale": "MARTIN JAVIER DIAZ",
+   "CarneEntra": "46833",
+   "Jug_Entra": "TOMAS MEDERO",
+   "camiseta": "9",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "58654",
+   "Jug_Sale": "MATIAS NICOLAS BARRIOS",
+   "CarneEntra": "48657",
+   "Jug_Entra": "BRUNO CABRERA",
+   "camiseta": "25",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "49076",
+   "Jug_Sale": "SANTIAGO NICOLAS D’ANGELO",
+   "CarneEntra": "46848",
+   "Jug_Entra": "FACUNDO BERGARA",
+   "camiseta": "22",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "minutos": "36",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "minutos": "5",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54831",
+   "Nombre": "JOAQUÌN GOLDARACENA",
+   "minutos": "26",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,271 @@
+{
+ "id": "99702",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS AZUL",
+ "visitante": "OLD CHRISTIANS CLUB",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "57",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-06-06 13:10:00",
+  "Fecha_fin": "2026-06-06 13:10:00",
+  "Locatario": "OLD CHRISTIANS AZUL",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "OLD CHRISTIANS CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55226",
+   "Nombre": "ALFONSO DEL CASTILLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "41003",
+   "Nombre": "FEDERICO BARRIOS",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53219",
+   "Nombre": "JOAQUIN LARRAECHA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "43762",
+   "Nombre": "ALFONSO MARQUES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "39425",
+   "Nombre": "SANTIAGO MARAFFI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "52355",
+   "Nombre": "SANTIAGO PAZ RODRIGUEZ",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "52396",
+   "Nombre": "TOMAS DI LORENZO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "32400",
+   "Nombre": "MATIAS DANIEL RIOS",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "51886",
+   "Nombre": "LUCAS ALONSO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "42262",
+   "Nombre": "FELIPE LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63476",
+   "Nombre": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52821",
+   "Nombre": "FACUNDO STORACE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67291",
+   "Nombre": "AUGUSTO PAULLIER",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "52819",
+   "Nombre": "IÑAKI LARRAECHEA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "42070",
+   "Nombre": "FRANCISCO GUADALUPE",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37259",
+   "Nombre": "IGNACIO MACHADO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "51135",
+   "Nombre": "JOAQUIN FABREGAT",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "56908",
+   "Nombre": "GUILLERMO HOUNIE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39426",
+   "Nombre": "FRANCO CRISCI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52331",
+   "Nombre": "JOSE PEDRO PARODI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "48430",
+   "Nombre": "JUAN MARTIN FAVARO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "32400",
+   "Jug_Sale": "MATIAS DANIEL RIOS",
+   "CarneEntra": "55250",
+   "Jug_Entra": "TOMAS PEREYRA",
+   "camiseta": "10",
+   "minutos": "18"
+  },
+  {
+   "CarneSale": "63476",
+   "Jug_Sale": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "CarneEntra": "54480",
+   "Jug_Entra": "FACUNDO BELO",
+   "camiseta": "30",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "42262",
+   "Jug_Sale": "FELIPE LOPEZ",
+   "CarneEntra": "55216",
+   "Jug_Entra": "GASPAR HUGHES",
+   "camiseta": "91",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "52396",
+   "Jug_Sale": "TOMAS DI LORENZO",
+   "CarneEntra": "46346",
+   "Jug_Entra": "FELIPE BARRERE",
+   "camiseta": "6",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "43762",
+   "Jug_Sale": "ALFONSO MARQUES",
+   "CarneEntra": "52606",
+   "Jug_Entra": "JUAN DIEGO CALABUIG",
+   "camiseta": "5",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42070",
+   "Jug_Sale": "FRANCISCO GUADALUPE",
+   "CarneEntra": "46771",
+   "Jug_Entra": "SANTIAGO HAM",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39426",
+   "Jug_Sale": "FRANCO CRISCI",
+   "CarneEntra": "64683",
+   "Jug_Entra": "ALBERTO FELIPE ROSSO",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66722",
+   "Jug_Sale": "JOAQUIN RODRIGUEZ",
+   "CarneEntra": "49655",
+   "Jug_Entra": "HERNAN ALEGRESA",
+   "camiseta": "26",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "51135",
+   "Jug_Sale": "JOAQUIN FABREGAT",
+   "CarneEntra": "50841",
+   "Jug_Entra": "SANTOS JUAN HOUNIE",
+   "camiseta": "15",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "37259",
+   "Jug_Sale": "IGNACIO MACHADO",
+   "CarneEntra": "40765",
+   "Jug_Entra": "JUAN DIEGO GONZALEZ",
+   "camiseta": "3",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "48430",
+   "Jug_Sale": "JUAN MARTIN FAVARO",
+   "CarneEntra": "32431",
+   "Jug_Entra": "BENJAMIN BUNGE",
+   "camiseta": "13",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51886",
+   "Nombre": "LUCAS ALONSO",
+   "minutos": "11",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

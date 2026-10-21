@@ -1,0 +1,278 @@
+{
+ "id": "102483",
+ "categoria": "reserva-a",
+ "serie": "RSAPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 4,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "646",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"A\" PER. y DESC.",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-10-03 11:00:00",
+  "Fecha_fin": "2026-10-03 11:00:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58246",
+   "Nombre": "IGNACIO BARCELO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62446",
+   "Nombre": "LAUTARO FELICIANO GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56963",
+   "Nombre": "LUCAS BERTIN",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66786",
+   "Nombre": "FACUNDO FEO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58350",
+   "Nombre": "RAMIRO LEONCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "52718",
+   "Nombre": "AGUSTIN CHAIA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "46500",
+   "Nombre": "ENZO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50718",
+   "Nombre": "MATEO JOSE QUINTELA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "57413",
+   "Nombre": "ENZO SEBASTIAN LAXAGUE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "56667",
+   "Nombre": "JUAN DIEGO GODOY",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49263",
+   "Nombre": "MARTIN MURAÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42555",
+   "Nombre": "RODRIGO VAZQUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59121",
+   "Nombre": "ARIEL YONHATAN PACHECO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "37424",
+   "Nombre": "SANTIAGO PEREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52457",
+   "Nombre": "SANTIAGO RAUL MAY",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47800",
+   "Nombre": "MATIAS GARRIDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47678",
+   "Nombre": "PEDRO MACKINNON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47673",
+   "Nombre": "FRANCISCO JAVIER CAMPON",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "49282",
+   "Nombre": "AGUSTIN TRUJILLO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "50801",
+   "Nombre": "JUAN MANUEL DÌAZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53659",
+   "Nombre": "ANDRES HERRERA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57413",
+   "Jug_Sale": "ENZO SEBASTIAN LAXAGUE",
+   "CarneEntra": "50717",
+   "Jug_Entra": "SANTIAGO VEIGA",
+   "camiseta": "4",
+   "minutos": "55"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50801",
+   "Jug_Sale": "JUAN MANUEL DÌAZ",
+   "CarneEntra": "48063",
+   "Jug_Entra": "GENARO CARUSO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53659",
+   "Jug_Sale": "ANDRES HERRERA",
+   "CarneEntra": "47696",
+   "Jug_Entra": "IGNACIO TOMAS ESTEFAN",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47678",
+   "Jug_Sale": "PEDRO MACKINNON",
+   "CarneEntra": "52746",
+   "Jug_Entra": "IMANOL JIMENEZ DE ARECHAGA",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "52457",
+   "Jug_Sale": "SANTIAGO RAUL MAY",
+   "CarneEntra": "50787",
+   "Jug_Entra": "JUAN PEDRO ABELLA",
+   "camiseta": "11",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "49282",
+   "Jug_Sale": "AGUSTIN TRUJILLO",
+   "CarneEntra": "48286",
+   "Jug_Entra": "FRANCISCO AMEIGENDA",
+   "camiseta": "9",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57413",
+   "Nombre": "ENZO SEBASTIAN LAXAGUE",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "minutos": "42",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47673",
+   "Nombre": "FRANCISCO JAVIER CAMPON",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47673",
+   "Nombre": "FRANCISCO JAVIER CAMPON",
+   "minutos": "86",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52457",
+   "Nombre": "SANTIAGO RAUL MAY",
+   "minutos": "32",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "LAUTARO FELICIANO GONZALEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "MATIAS GARRIDO",
+   "observaciones": ""
+  }
+ ]
+}

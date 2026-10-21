@@ -1,0 +1,284 @@
+{
+ "id": "100108",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 13:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "COLEGIO SANTA ELENA",
+ "visitante": "DEPORTIVO LS UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "187",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-06-13 15:30:00",
+  "Fecha_fin": "2026-06-13 15:30:00",
+  "Locatario": "COLEGIO SANTA ELENA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62694",
+   "Nombre": "NOAH ELIAS LEFKARITIS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58409",
+   "Nombre": "LUCIANO CABRERA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "58136",
+   "Nombre": "MATEO BENSASSON",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56434",
+   "Nombre": "FACUNDO ALONZO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "56319",
+   "Nombre": "CRISTIAN LOPEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "65966",
+   "Nombre": "FELIPE LEGUISAMO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "64476",
+   "Nombre": "BRUNO ALFARO",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "56315",
+   "Nombre": "RODRIGO BEISSO",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "64978",
+   "Nombre": "FELIPE DOS SANTOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64981",
+   "Nombre": "FACUNDO MORENA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "58031",
+   "Nombre": "MATEO NICOLAS CODINA",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60866",
+   "Nombre": "SANTINO SALAVERRY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56930",
+   "Nombre": "LAUTARO PERDOMO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "59424",
+   "Nombre": "FACUNDO TOMAS GARCIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59396",
+   "Nombre": "KEVIN NICOLAS BARRERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59434",
+   "Nombre": "IGNACIO HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56800",
+   "Nombre": "ELIAS LAUTARO IOVINE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59419",
+   "Nombre": "IMANOL FYNN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63645",
+   "Nombre": "TOMAS DANIEL MARTINEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "59409",
+   "Nombre": "FRANCO LARROSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58544",
+   "Nombre": "PATRICIO SANGUINETTI",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64476",
+   "Jug_Sale": "BRUNO ALFARO",
+   "CarneEntra": "62530",
+   "Jug_Entra": "ELIAN SHARIM TEJERIA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64981",
+   "Jug_Sale": "FACUNDO MORENA",
+   "CarneEntra": "63760",
+   "Jug_Entra": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58136",
+   "Jug_Sale": "MATEO BENSASSON",
+   "CarneEntra": "62528",
+   "Jug_Entra": "IGNACIO ARIMON",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58409",
+   "Jug_Sale": "LUCIANO CABRERA",
+   "CarneEntra": "64914",
+   "Jug_Entra": "FEDERICO ABREU",
+   "camiseta": "12",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65966",
+   "Jug_Sale": "FELIPE LEGUISAMO",
+   "CarneEntra": "67056",
+   "Jug_Entra": "MATIAS BARSAMIAN",
+   "camiseta": "19",
+   "minutos": "91"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59409",
+   "Jug_Sale": "FRANCO LARROSA",
+   "CarneEntra": "59545",
+   "Jug_Entra": "EMILIANO JOAQUIN PAREDES",
+   "camiseta": "18",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "59419",
+   "Jug_Sale": "IMANOL FYNN",
+   "CarneEntra": "63545",
+   "Jug_Entra": "GONZALO DANIEL GRECIET",
+   "camiseta": "7",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "63645",
+   "Jug_Sale": "TOMAS DANIEL MARTINEZ",
+   "CarneEntra": "56926",
+   "Jug_Entra": "MANUEL NICOLAS COSTA",
+   "camiseta": "81",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "58544",
+   "Jug_Sale": "PATRICIO SANGUINETTI",
+   "CarneEntra": "56419",
+   "Jug_Entra": "JUAN MANUEL VERA",
+   "camiseta": "11",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "59434",
+   "Jug_Sale": "IGNACIO HERNANDEZ",
+   "CarneEntra": "58225",
+   "Jug_Entra": "GASTON PRILIAC",
+   "camiseta": "48",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "56173",
+   "Jug_Sale": "MATHIAS NAHUEL PEREIRA",
+   "CarneEntra": "61020",
+   "Jug_Entra": "GONZALO HUERTAS",
+   "camiseta": "13",
+   "minutos": "94"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64978",
+   "Nombre": "FELIPE DOS SANTOS",
+   "minutos": "55",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58544",
+   "Nombre": "PATRICIO SANGUINETTI",
+   "minutos": "37",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

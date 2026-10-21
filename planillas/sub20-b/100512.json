@@ -1,0 +1,277 @@
+{
+ "id": "100512",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 15:30:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "OLD IVY",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "201",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-06-27 17:23:00",
+  "Fecha_fin": "2026-06-27 17:23:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD IVY",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53537",
+   "Nombre": "MATEO VAZQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64257",
+   "Nombre": "JUAN MARTÌN GRAU",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56489",
+   "Nombre": "JOAQUIN MUNIZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61977",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62779",
+   "Nombre": "MIRKO DAMIAN MALAN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "58729",
+   "Nombre": "MATIAS CAMACHO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63384",
+   "Nombre": "AGUSTIN YERLE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66447",
+   "Nombre": "FRANCO SEBASTIAN TECHERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "56838",
+   "Nombre": "LUCA ALESSANDRO COCINA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59445",
+   "Nombre": "BRUNO ORTEGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53388",
+   "Nombre": "VALENTINO LOBLOWITZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "67380",
+   "Nombre": "JUAN PEDRO MENINI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "57161",
+   "Nombre": "JUAN FRANCISCO SONEIRA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59611",
+   "Nombre": "FEDERICO MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59182",
+   "Nombre": "MATEO DENIS",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "64391",
+   "Nombre": "JUAN BAUTISTA IRIARTE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67379",
+   "Nombre": "JUAN PEDRO LUQUE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66623",
+   "Nombre": "IGNACIO CUMELLAS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59614",
+   "Nombre": "TOMAS HORJALES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55486",
+   "Nombre": "ISMAEL CASTRO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59616",
+   "Nombre": "MATIAS DAMIAN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62779",
+   "Jug_Sale": "MIRKO DAMIAN MALAN",
+   "CarneEntra": "58730",
+   "Jug_Entra": "JULIAN MARTIN MARMOL",
+   "camiseta": "2",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "66447",
+   "Jug_Sale": "FRANCO SEBASTIAN TECHERA",
+   "CarneEntra": "58194",
+   "Jug_Entra": "IAN ESTAVILLO",
+   "camiseta": "28",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "64257",
+   "Jug_Sale": "JUAN MARTÌN GRAU",
+   "CarneEntra": "64205",
+   "Jug_Entra": "CAMILO GAGLIANO",
+   "camiseta": "38",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "56838",
+   "Jug_Sale": "LUCA ALESSANDRO COCINA",
+   "CarneEntra": "58731",
+   "Jug_Entra": "JULIAN ALEJANDRO NUÑEZ",
+   "camiseta": "15",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59182",
+   "Jug_Sale": "MATEO DENIS",
+   "CarneEntra": "60169",
+   "Jug_Entra": "ROCCO JORGE LOBLOWITZ",
+   "camiseta": "28",
+   "minutos": "12"
+  },
+  {
+   "CarneSale": "64391",
+   "Jug_Sale": "JUAN BAUTISTA IRIARTE",
+   "CarneEntra": "67457",
+   "Jug_Entra": "GIOVANNI RAIMONDI",
+   "camiseta": "10",
+   "minutos": "39"
+  },
+  {
+   "CarneSale": "66623",
+   "Jug_Sale": "IGNACIO CUMELLAS",
+   "CarneEntra": "59609",
+   "Jug_Entra": "FRANCISCO RUBIO",
+   "camiseta": "47",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57161",
+   "Jug_Sale": "JUAN FRANCISCO SONEIRA",
+   "CarneEntra": "57951",
+   "Jug_Entra": "JUAN GUILLERMO MARTINEZ",
+   "camiseta": "91",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "59614",
+   "Jug_Sale": "TOMAS HORJALES",
+   "CarneEntra": "62771",
+   "Jug_Entra": "FRANCISCO AROCENA",
+   "camiseta": "33",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "64391",
+   "Jug_Sale": "JUAN BAUTISTA IRIARTE",
+   "CarneEntra": "60663",
+   "Jug_Entra": "ALFONSO PORRAS",
+   "camiseta": "91",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "55486",
+   "Jug_Sale": "ISMAEL CASTRO",
+   "CarneEntra": "59030",
+   "Jug_Entra": "JUAN IGNACIO GOMEZ",
+   "camiseta": "12",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "57951",
+   "Nombre": "JUAN GUILLERMO MARTINEZ",
+   "minutos": "69",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59616",
+   "Nombre": "MATIAS DAMIAN",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

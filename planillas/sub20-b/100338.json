@@ -1,0 +1,241 @@
+{
+ "id": "100338",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 15:30:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "199",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-06-20 17:25:00",
+  "Fecha_fin": "2026-06-20 17:25:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59906",
+   "Nombre": "MATEO FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67299",
+   "Nombre": "FRANCO NICOLAS PURTSCHER",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "67295",
+   "Nombre": "IVAN GONZALEZ",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "63070",
+   "Nombre": "MATIAS GABRIEL TEIJEIRO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68657",
+   "Nombre": "LUIS EDUARDO GONZALEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "65323",
+   "Nombre": "LUCAS ROBERTO IBARRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67653",
+   "Nombre": "EMILIANO PIETRAFESA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "63867",
+   "Nombre": "THIAGO BENJAMIN GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60952",
+   "Nombre": "JUAN IGNACIO MORATORIO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "67294",
+   "Nombre": "LIQUEL COLOMBO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67297",
+   "Nombre": "TIZIANO LANDO",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62694",
+   "Nombre": "NOAH ELIAS LEFKARITIS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58409",
+   "Nombre": "LUCIANO CABRERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58136",
+   "Nombre": "MATEO BENSASSON",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "56434",
+   "Nombre": "FACUNDO ALONZO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56319",
+   "Nombre": "CRISTIAN LOPEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64476",
+   "Nombre": "BRUNO ALFARO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56315",
+   "Nombre": "RODRIGO BEISSO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64978",
+   "Nombre": "FELIPE DOS SANTOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58169",
+   "Nombre": "LUCA MATEO CIPILIANO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "58031",
+   "Nombre": "MATEO NICOLAS CODINA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63760",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67297",
+   "Jug_Sale": "TIZIANO LANDO",
+   "CarneEntra": "68294",
+   "Jug_Entra": "FEDERICO CLAVARES",
+   "camiseta": "77",
+   "minutos": "33"
+  },
+  {
+   "CarneSale": "68657",
+   "Jug_Sale": "LUIS EDUARDO GONZALEZ",
+   "CarneEntra": "59515",
+   "Jug_Entra": "FRANCO FEDERICO DENIS",
+   "camiseta": "37",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65323",
+   "Jug_Sale": "LUCAS ROBERTO IBARRA",
+   "CarneEntra": "65324",
+   "Jug_Entra": "SANTINO MENENDEZ",
+   "camiseta": "20",
+   "minutos": "64"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58169",
+   "Jug_Sale": "LUCA MATEO CIPILIANO",
+   "CarneEntra": "62528",
+   "Jug_Entra": "IGNACIO ARIMON",
+   "camiseta": "44",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63760",
+   "Jug_Sale": "JUAN MANUEL RODRIGUEZ",
+   "CarneEntra": "61485",
+   "Jug_Entra": "BRUNO FERNANDO CHIPPOLLIN",
+   "camiseta": "9",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67294",
+   "Nombre": "LIQUEL COLOMBO",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67294",
+   "Nombre": "LIQUEL COLOMBO",
+   "minutos": "95",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63760",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "minutos": "5",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "LUCAS ROBERTO IBARRA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

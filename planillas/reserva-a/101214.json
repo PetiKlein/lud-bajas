@@ -1,0 +1,304 @@
+{
+ "id": "101214",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "CEIBOS CLUB",
+ "visitante": "OLD CHRISTIANS CLUB",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "25",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-08-29 13:00:00",
+  "Fecha_fin": "2026-08-29 13:00:00",
+  "Locatario": "CEIBOS CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53017",
+   "Nombre": "ALFONSO GIMENEZ",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41897",
+   "Nombre": "IGNACIO CABRERA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "41605",
+   "Nombre": "NICOLAS MURO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "43274",
+   "Nombre": "RAFAEL MONESTIER",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54407",
+   "Nombre": "FRANCISCO ETCHEGOIMBERRY",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "32388",
+   "Nombre": "AGUSTIN CALVO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53505",
+   "Nombre": "SANTIAGO LOPEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "22639",
+   "Nombre": "SANTIAGO MARIA GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "41411",
+   "Nombre": "JOAQUIN ALEJANDRO GOMEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53744",
+   "Nombre": "JUAN ANDRES ECHEGOYEN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "54403",
+   "Nombre": "IGNACIO GIMENEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51657",
+   "Nombre": "FELIPE PEREYRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50841",
+   "Nombre": "SANTOS JUAN HOUNIE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "37170",
+   "Nombre": "SEBASTIAN REGULES",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "38310",
+   "Nombre": "FEDERICO PONTE",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "37259",
+   "Nombre": "IGNACIO MACHADO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "30724",
+   "Nombre": "FEDERICO RICARDO MOLINS",
+   "camiseta": "93",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52331",
+   "Nombre": "JOSE PEDRO PARODI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51135",
+   "Nombre": "JOAQUIN FABREGAT",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46771",
+   "Nombre": "SANTIAGO HAM",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53214",
+   "Nombre": "MANUEL PARODI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "38",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "22639",
+   "Jug_Sale": "SANTIAGO MARIA GONZALEZ",
+   "CarneEntra": "43266",
+   "Jug_Entra": "FERNANDO INTHAMOUSSU",
+   "camiseta": "9",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "53744",
+   "Jug_Sale": "JUAN ANDRES ECHEGOYEN",
+   "CarneEntra": "46925",
+   "Jug_Entra": "ATILIO FRANCISCO NARANCIO",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41897",
+   "Jug_Sale": "IGNACIO CABRERA",
+   "CarneEntra": "51833",
+   "Jug_Entra": "THIAGO TORANZA",
+   "camiseta": "16",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "54407",
+   "Jug_Sale": "FRANCISCO ETCHEGOIMBERRY",
+   "CarneEntra": "53926",
+   "Jug_Entra": "JUAN MARTIN CABRERA",
+   "camiseta": "14",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "41411",
+   "Jug_Sale": "JOAQUIN ALEJANDRO GOMEZ",
+   "CarneEntra": "51136",
+   "Jug_Entra": "JOAQUIN NARANCIO",
+   "camiseta": "11",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "32388",
+   "Jug_Sale": "AGUSTIN CALVO",
+   "CarneEntra": "41405",
+   "Jug_Entra": "GONZALO VARELA",
+   "camiseta": "6",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46771",
+   "Jug_Sale": "SANTIAGO HAM",
+   "CarneEntra": "52819",
+   "Jug_Entra": "IÑAKI LARRAECHEA",
+   "camiseta": "41",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "30724",
+   "Jug_Sale": "FEDERICO RICARDO MOLINS",
+   "CarneEntra": "39426",
+   "Jug_Entra": "FRANCO CRISCI",
+   "camiseta": "5",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "51135",
+   "Jug_Sale": "JOAQUIN FABREGAT",
+   "CarneEntra": "42069",
+   "Jug_Entra": "MATEO GIOIA",
+   "camiseta": "30",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "53214",
+   "Jug_Sale": "MANUEL PARODI",
+   "CarneEntra": "55118",
+   "Jug_Entra": "JUAN PABLO MOREIRA",
+   "camiseta": "9",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "50841",
+   "Jug_Sale": "SANTOS JUAN HOUNIE",
+   "CarneEntra": "52608",
+   "Jug_Entra": "SANTIAGO MARCELO MACHADO",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "66722",
+   "Jug_Sale": "JOAQUIN RODRIGUEZ",
+   "CarneEntra": "51135",
+   "Jug_Entra": "JOAQUIN FABREGAT",
+   "camiseta": "6",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "32388",
+   "Nombre": "AGUSTIN CALVO",
+   "minutos": "63",
+   "EnContra": "0"
+  },
+  {
+   "carne": "43274",
+   "Nombre": "RAFAEL MONESTIER",
+   "minutos": "8",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "42069",
+   "Nombre": "MATEO GIOIA",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46771",
+   "Nombre": "SANTIAGO HAM",
+   "minutos": "32",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "minutos": "4",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

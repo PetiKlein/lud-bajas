@@ -1,0 +1,302 @@
+{
+ "id": "99308",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "CIUDAD DEPORTIVA ZONA LAB",
+ "local": "SAN CONO",
+ "visitante": "CLUB SOCIAL PIEDRAS BLANCAS",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "459",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "CIUDAD DEPORTIVA ZONA LAB",
+  "Fecha_Inicio": "2026-05-23 13:00:00",
+  "Fecha_fin": "2026-05-23 13:00:00",
+  "Locatario": "SAN CONO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CLUB SOCIAL PIEDRAS BLANCAS",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49624",
+   "Nombre": "FACUNDO ECHICHURRE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61099",
+   "Nombre": "AGUSTIN BARRIOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61532",
+   "Nombre": "JUAN IGNACIO OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "43063",
+   "Nombre": "JOAQUIN MATTEO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61524",
+   "Nombre": "SEBASTIAN ENZO GUISADO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65386",
+   "Nombre": "RAMIRO MOREIRA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "63261",
+   "Nombre": "NICOLAS SANGUINE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61942",
+   "Nombre": "AGUSTIN EZEQUIEL DE LOS REYES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61320",
+   "Nombre": "JONATAN NAHUEL MORA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61531",
+   "Nombre": "GONZALO GABRIEL BERRUTTI",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66285",
+   "Nombre": "KEVIN EZEQUIEL REINA",
+   "camiseta": "61",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59338",
+   "Nombre": "LEANDRO SOZZO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64063",
+   "Nombre": "FABRICIO NICOLAS HERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68290",
+   "Nombre": "FRANCO DANIEL JEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63862",
+   "Nombre": "ITAN ROMAN MANEIRO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59330",
+   "Nombre": "JUAN PABLO CUÑA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "56086",
+   "Nombre": "DYLAN FELIX",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60906",
+   "Nombre": "FACUNDO MANUEL VILLALBA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64061",
+   "Nombre": "NESTOR RAEL VIDELA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66573",
+   "Nombre": "EZEQUIEL MICHAEL TOURNE",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "61423",
+   "Nombre": "ALAN EZEQUIEL DE LOS SANTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59341",
+   "Nombre": "LUCA CORREA PAIVA",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63261",
+   "Jug_Sale": "NICOLAS SANGUINE",
+   "CarneEntra": "66113",
+   "Jug_Entra": "BRYAN OLAIZOLA",
+   "camiseta": "42",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "61942",
+   "Jug_Sale": "AGUSTIN EZEQUIEL DE LOS REYES",
+   "CarneEntra": "59003",
+   "Jug_Entra": "FACUNDO MATTEO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65386",
+   "Jug_Sale": "RAMIRO MOREIRA",
+   "CarneEntra": "55354",
+   "Jug_Entra": "JAIRO ALI ARAQUE",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43063",
+   "Jug_Sale": "JOAQUIN MATTEO",
+   "CarneEntra": "60354",
+   "Jug_Entra": "MANUEL MAGNIN",
+   "camiseta": "6",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "66285",
+   "Jug_Sale": "KEVIN EZEQUIEL REINA",
+   "CarneEntra": "23009",
+   "Jug_Entra": "RODRIGO DE PAULA",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61320",
+   "Jug_Sale": "JONATAN NAHUEL MORA",
+   "CarneEntra": "61529",
+   "Jug_Entra": "MATEO FERREIRA",
+   "camiseta": "9",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "61524",
+   "Jug_Sale": "SEBASTIAN ENZO GUISADO",
+   "CarneEntra": "66469",
+   "Jug_Entra": "DANIEL ANDRES LAUREANO",
+   "camiseta": "38",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64063",
+   "Jug_Sale": "FABRICIO NICOLAS HERNANDEZ",
+   "CarneEntra": "66571",
+   "Jug_Entra": "ALEXANDER SHEIDA PATRON",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59330",
+   "Jug_Sale": "JUAN PABLO CUÑA",
+   "CarneEntra": "61345",
+   "Jug_Entra": "ENZO FABRIZIO BRUNO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59341",
+   "Jug_Sale": "LUCA CORREA PAIVA",
+   "CarneEntra": "35047",
+   "Jug_Entra": "LUIS MARCELO PEREIRA",
+   "camiseta": "89",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68290",
+   "Jug_Sale": "FRANCO DANIEL JEREZ",
+   "CarneEntra": "64063",
+   "Jug_Entra": "FABRICIO NICOLAS HERNANDEZ",
+   "camiseta": "4",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "66573",
+   "Jug_Sale": "EZEQUIEL MICHAEL TOURNE",
+   "CarneEntra": "66572",
+   "Jug_Entra": "SANTIAGO AGUSTIN GONZALEZ",
+   "camiseta": "7",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "60906",
+   "Jug_Sale": "FACUNDO MANUEL VILLALBA",
+   "CarneEntra": "66573",
+   "Jug_Entra": "EZEQUIEL MICHAEL TOURNE",
+   "camiseta": "99",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "64063",
+   "Jug_Sale": "FABRICIO NICOLAS HERNANDEZ",
+   "CarneEntra": "45754",
+   "Jug_Entra": "MATIAS ALEXANDER ACOSTA",
+   "camiseta": "22",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23009",
+   "Nombre": "RODRIGO DE PAULA",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66572",
+   "Nombre": "SANTIAGO AGUSTIN GONZALEZ",
+   "minutos": "82",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

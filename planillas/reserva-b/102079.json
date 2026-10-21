@@ -1,0 +1,307 @@
+{
+ "id": "102079",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "230",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-09-19 13:00:00",
+  "Fecha_fin": "2026-09-19 13:00:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44846",
+   "Nombre": "ANTONIO JOSE IRAZOQUI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53690",
+   "Nombre": "MARCOS DANIEL AREVALO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47675",
+   "Nombre": "MAURICIO DIEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68952",
+   "Nombre": "MAXIMILIANO EZEQUIEL PIRIZ",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "43121",
+   "Nombre": "SIRO PIALI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "46518",
+   "Nombre": "MAURO GERMAN GRECCO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "56033",
+   "Nombre": "ALEXIS DAVID FLORES",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49731",
+   "Nombre": "IVAN ERBURO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34051",
+   "Nombre": "DANIEL MATIAS CASTRO",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "50889",
+   "Nombre": "IGNACIO VIÑAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "63617",
+   "Nombre": "JOAQUIN DOS SANTOS",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "51604",
+   "Nombre": "JUAN GABRIEL RUSSO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "58170",
+   "Nombre": "EMILIANO NAHUEL PEREZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "57202",
+   "Nombre": "JUAN DIEGO VARELA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56435",
+   "Nombre": "AGUSTIN CAMPODONICO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54752",
+   "Nombre": "EMILIANO FRANCISCO MORALES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "54884",
+   "Nombre": "NAHUEL LOPEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58402",
+   "Nombre": "LAUTARO GUIDO",
+   "camiseta": "76",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48966",
+   "Jug_Sale": "IGNACIO FABIAN BOLLA",
+   "CarneEntra": "59646",
+   "Jug_Entra": "FABRICIO NICOLAS RAMOS",
+   "camiseta": "80",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "56033",
+   "Jug_Sale": "ALEXIS DAVID FLORES",
+   "CarneEntra": "66028",
+   "Jug_Entra": "MATEO AGUSTIN CHAKIYIN",
+   "camiseta": "18",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "43121",
+   "Jug_Sale": "SIRO PIALI",
+   "CarneEntra": "47116",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "12",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "54617",
+   "Jug_Sale": "TOMAS DIAZ",
+   "CarneEntra": "55022",
+   "Jug_Entra": "ANDRES NAHUEL LAGOS",
+   "camiseta": "19",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "46518",
+   "Jug_Sale": "MAURO GERMAN GRECCO",
+   "CarneEntra": "53148",
+   "Jug_Entra": "JOAQUIN ANDRES LOPEZ",
+   "camiseta": "55",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "68952",
+   "Jug_Sale": "MAXIMILIANO EZEQUIEL PIRIZ",
+   "CarneEntra": "47101",
+   "Jug_Entra": "IGNACIO DANIELO PERDOMO",
+   "camiseta": "28",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "53690",
+   "Jug_Sale": "MARCOS DANIEL AREVALO",
+   "CarneEntra": "48970",
+   "Jug_Entra": "SANTIAGO DEL PUERTO",
+   "camiseta": "66",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58402",
+   "Jug_Sale": "LAUTARO GUIDO",
+   "CarneEntra": "56715",
+   "Jug_Entra": "GERMAN MÜLLER",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58170",
+   "Jug_Sale": "EMILIANO NAHUEL PEREZ",
+   "CarneEntra": "58031",
+   "Jug_Entra": "MATEO NICOLAS CODINA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56435",
+   "Jug_Sale": "AGUSTIN CAMPODONICO",
+   "CarneEntra": "49318",
+   "Jug_Entra": "FABRIZIO BEIROA",
+   "camiseta": "92",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "50889",
+   "Jug_Sale": "IGNACIO VIÑAS",
+   "CarneEntra": "63710",
+   "Jug_Entra": "DIEGO ALEJANDRO RECARTE",
+   "camiseta": "16",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "63617",
+   "Jug_Sale": "JOAQUIN DOS SANTOS",
+   "CarneEntra": "62652",
+   "Jug_Entra": "NAHUEL SILVA",
+   "camiseta": "29",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "57202",
+   "Jug_Sale": "JUAN DIEGO VARELA",
+   "CarneEntra": "64982",
+   "Jug_Entra": "LAUTARO RODRIGUEZ",
+   "camiseta": "47",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "51604",
+   "Jug_Sale": "JUAN GABRIEL RUSSO",
+   "CarneEntra": "58170",
+   "Jug_Entra": "EMILIANO NAHUEL PEREZ",
+   "camiseta": "25",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46518",
+   "Nombre": "MAURO GERMAN GRECCO",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "minutos": "24",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

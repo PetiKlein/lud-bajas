@@ -1,0 +1,285 @@
+{
+ "id": "100442",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 10,
+ "fechaHora": "2026-06-23 21:00:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "PERRY SEXTA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "438",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-06-23 00:00:00",
+  "Fecha_fin": "2026-06-23 00:00:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "PERRY SEXTA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44677",
+   "Nombre": "CARLOS FACUNDO MORENO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "68333",
+   "Nombre": "MARTIN STEFANO POCATERRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54838",
+   "Nombre": "AGUSTIN GANACHIPPI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66317",
+   "Nombre": "SANTIAGO PFEIFF",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59641",
+   "Nombre": "SANTIAGO EZEQUIEL ROSA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65879",
+   "Nombre": "NAHUEL OLIVETTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63846",
+   "Nombre": "JUAN GONZALO JIMENEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "66880",
+   "Nombre": "FELIPE PFEIFF",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59766",
+   "Nombre": "JOSE ANDRES MARQUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "54513",
+   "Nombre": "MATIAS MICHEL TORRES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53706",
+   "Nombre": "RAMIRO CABRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46930",
+   "Nombre": "ENZO JAVIER GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "44208",
+   "Nombre": "MANUEL AGUSTIN TRAVERSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "45237",
+   "Nombre": "IGNACIO SANTIAGO DORNEL",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "66799",
+   "Nombre": "JAVIER LUCENO",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "38298",
+   "Nombre": "PATRICIO MARCELO COSTAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67325",
+   "Nombre": "NICOLAS VAZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "46197",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61893",
+   "Nombre": "RAMIRO GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59311",
+   "Nombre": "HUGO YANOS GARCIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50525",
+   "Nombre": "SEBASTIAN ANDRES FLORES",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63846",
+   "Jug_Sale": "JUAN GONZALO JIMENEZ",
+   "CarneEntra": "59385",
+   "Jug_Entra": "PEDRO CAPDEVIELLE",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66880",
+   "Jug_Sale": "FELIPE PFEIFF",
+   "CarneEntra": "54846",
+   "Jug_Entra": "JUAN IGNACIO VAZ",
+   "camiseta": "9",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "59766",
+   "Jug_Sale": "JOSE ANDRES MARQUEZ",
+   "CarneEntra": "50237",
+   "Jug_Entra": "ADRIAN LUIS PEREIRA",
+   "camiseta": "7",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65879",
+   "Jug_Sale": "NAHUEL OLIVETTO",
+   "CarneEntra": "59389",
+   "Jug_Entra": "RODRIGO GERMAN FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "54513",
+   "Jug_Sale": "MATIAS MICHEL TORRES",
+   "CarneEntra": "49250",
+   "Jug_Entra": "SANTIAGO ROO",
+   "camiseta": "10",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "68333",
+   "Jug_Sale": "MARTIN STEFANO POCATERRA",
+   "CarneEntra": "64768",
+   "Jug_Entra": "DIEGO ANDRES PERDOMO",
+   "camiseta": "13",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "59641",
+   "Jug_Sale": "SANTIAGO EZEQUIEL ROSA",
+   "CarneEntra": "65354",
+   "Jug_Entra": "JULIAN COHENAR",
+   "camiseta": "26",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50525",
+   "Jug_Sale": "SEBASTIAN ANDRES FLORES",
+   "CarneEntra": "63132",
+   "Jug_Entra": "FACUNDO GARCIA",
+   "camiseta": "26",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "67325",
+   "Jug_Sale": "NICOLAS VAZ",
+   "CarneEntra": "66796",
+   "Jug_Entra": "JOAQUIN ANDRES FRENKEL",
+   "camiseta": "25",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "46197",
+   "Jug_Sale": "JUAN MANUEL PEREYRA",
+   "CarneEntra": "63421",
+   "Jug_Entra": "LUIS ALFONSO ALMADA",
+   "camiseta": "4",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "66799",
+   "Jug_Sale": "JAVIER LUCENO",
+   "CarneEntra": "51244",
+   "Jug_Entra": "SANTIAGO REYNALDO ACEVEDO",
+   "camiseta": "19",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "45237",
+   "Jug_Sale": "IGNACIO SANTIAGO DORNEL",
+   "CarneEntra": "68570",
+   "Jug_Entra": "ATENO HERNANDEZ",
+   "camiseta": "30",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54846",
+   "Nombre": "JUAN IGNACIO VAZ",
+   "minutos": "76",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

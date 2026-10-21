@@ -1,0 +1,298 @@
+{
+ "id": "98180",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "MATURANA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "436",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-04-18 13:10:00",
+  "Fecha_fin": "2026-04-18 13:10:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "MATURANA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56973",
+   "Nombre": "LUCAS CORREA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53351",
+   "Nombre": "IGNACIO GIL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67277",
+   "Nombre": "JUAN ANDRES COTELO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55484",
+   "Nombre": "GUILLERMO URIA",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67275",
+   "Nombre": "MATEO MORALES",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "64777",
+   "Nombre": "IVAN VEGOVICH",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62443",
+   "Nombre": "JUAN SEBASTIAN RUMBO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "51803",
+   "Nombre": "SEBASTIAN TRONCOSO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54861",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "37188",
+   "Nombre": "CLAUDIO SEBASTIAN FERREIRA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "37723",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "56781",
+   "Nombre": "FACUNDO MENENDEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49541",
+   "Nombre": "PABLO FERNANDO MOREIRA",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "56626",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "57624",
+   "Nombre": "MANUEL THIAGO MARTINEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51163",
+   "Nombre": "MATIAS IVANCICH",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55560",
+   "Nombre": "JUAN MATEO PELUFO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67275",
+   "Jug_Sale": "MATEO MORALES",
+   "CarneEntra": "67475",
+   "Jug_Entra": "BRUNO MATEOS",
+   "camiseta": "26",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "62443",
+   "Jug_Sale": "JUAN SEBASTIAN RUMBO",
+   "CarneEntra": "67276",
+   "Jug_Entra": "FRANCOIS BURDIAT",
+   "camiseta": "20",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "64777",
+   "Jug_Sale": "IVAN VEGOVICH",
+   "CarneEntra": "64252",
+   "Jug_Entra": "SANTIAGO BORRELLI",
+   "camiseta": "28",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67475",
+   "Jug_Sale": "BRUNO MATEOS",
+   "CarneEntra": "62585",
+   "Jug_Entra": "ANDRES CAETANO PORCILE",
+   "camiseta": "14",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "52787",
+   "Jug_Sale": "IGNACIO SLINGER",
+   "CarneEntra": "67474",
+   "Jug_Entra": "MATIAS FRANCO",
+   "camiseta": "29",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "50127",
+   "Jug_Sale": "SANTIAGO CALVETE",
+   "CarneEntra": "53826",
+   "Jug_Entra": "JUAN IGNACIO SOSA DIAS",
+   "camiseta": "24",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56626",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "64795",
+   "Jug_Entra": "SANTIAGO VARELA",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57624",
+   "Jug_Sale": "MANUEL THIAGO MARTINEZ",
+   "CarneEntra": "57542",
+   "Jug_Entra": "DIEGO SEBASTIAN DUSIO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34857",
+   "Jug_Sale": "NICOLAS MELO",
+   "CarneEntra": "48268",
+   "Jug_Entra": "ERNESTO MATIAS PEREYRA",
+   "camiseta": "60",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56781",
+   "Jug_Sale": "FACUNDO MENENDEZ",
+   "CarneEntra": "46970",
+   "Jug_Entra": "JUAN PABLO DE SOUZA",
+   "camiseta": "29",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "52971",
+   "Jug_Sale": "JUAN PABLO FERRARI",
+   "CarneEntra": "56630",
+   "Jug_Entra": "GASTON MACCHIA",
+   "camiseta": "26",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "51163",
+   "Jug_Sale": "MATIAS IVANCICH",
+   "CarneEntra": "55202",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "18",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51803",
+   "Nombre": "SEBASTIAN TRONCOSO",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53826",
+   "Nombre": "JUAN IGNACIO SOSA DIAS",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51163",
+   "Nombre": "MATIAS IVANCICH",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56781",
+   "Nombre": "FACUNDO MENENDEZ",
+   "minutos": "27",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

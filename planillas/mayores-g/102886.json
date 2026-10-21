@@ -1,0 +1,263 @@
+{
+ "id": "102886",
+ "categoria": "mayores-g",
+ "serie": "GPD",
+ "fecha": 1,
+ "fechaHora": "2026-10-11 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MARISCAL NASAZZI",
+ "visitante": "COLEGIO SALESIANO DE LA COSTA",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "1233",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "DIVISIONAL \"G\" COPA PLATA",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-11 13:10:00",
+  "Fecha_fin": "2026-10-11 13:10:00",
+  "Locatario": "MARISCAL NASAZZI",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "COLEGIO SALESIANO DE LA COSTA",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67573",
+   "Nombre": "MATEO PORTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "43688",
+   "Nombre": "LUIS ALVAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50538",
+   "Nombre": "MARTIN NICOLAS SAVIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "50536",
+   "Nombre": "JUAN BAUTISTA LORENZO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "52674",
+   "Nombre": "JOAQUIN BELLO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "42994",
+   "Nombre": "GERONIMO PESCE",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54643",
+   "Nombre": "MARTIN CORRAL",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51993",
+   "Nombre": "MATIAS MAURIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51406",
+   "Nombre": "SEBASTIAN RADICCIONI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54638",
+   "Nombre": "THIAGO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "69176",
+   "Nombre": "CONRADO VEIGA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67509",
+   "Nombre": "MATEO ACOSTA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "56833",
+   "Nombre": "FRANCISCO NICOLAS CARBON",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "61419",
+   "Nombre": "JOAQUIN CARBON",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67502",
+   "Nombre": "IGNACIO AREVALO",
+   "camiseta": "80",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54692",
+   "Nombre": "AGUSTIN ISMAEL ALVAREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64243",
+   "Nombre": "GONZALO ALONSO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "67700",
+   "Nombre": "JAMIR JEREMI FEBLES",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "64274",
+   "Nombre": "JOAQUIN HERNANDEZ",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "58650",
+   "Nombre": "GERMAN FRANCISCO SILVEIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56965",
+   "Nombre": "AUGUSTO GARAT",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "53375",
+   "Nombre": "JUAN NICOLAS MARTINEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52674",
+   "Jug_Sale": "JOAQUIN BELLO",
+   "CarneEntra": "46093",
+   "Jug_Entra": "FRANCISCO GARCE",
+   "camiseta": "11",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "69176",
+   "Jug_Sale": "CONRADO VEIGA",
+   "CarneEntra": "52674",
+   "Jug_Entra": "JOAQUIN BELLO",
+   "camiseta": "16",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54692",
+   "Jug_Sale": "AGUSTIN ISMAEL ALVAREZ",
+   "CarneEntra": "60144",
+   "Jug_Entra": "SANTIAGO BETANCOR",
+   "camiseta": "18",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "64243",
+   "Jug_Sale": "GONZALO ALONSO",
+   "CarneEntra": "56159",
+   "Jug_Entra": "THIAGO FERNANDEZ",
+   "camiseta": "8",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "53375",
+   "Jug_Sale": "JUAN NICOLAS MARTINEZ",
+   "CarneEntra": "62928",
+   "Jug_Entra": "AGUSTIN ARENES",
+   "camiseta": "27",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "56965",
+   "Jug_Sale": "AUGUSTO GARAT",
+   "CarneEntra": "58960",
+   "Jug_Entra": "LEANDRO ALEXEI BOSCHI",
+   "camiseta": "6",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "58650",
+   "Jug_Sale": "GERMAN FRANCISCO SILVEIRA",
+   "CarneEntra": "67514",
+   "Jug_Entra": "JOAQUIN ARENES",
+   "camiseta": "22",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "56965",
+   "Nombre": "AUGUSTO GARAT",
+   "minutos": "6",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58650",
+   "Nombre": "GERMAN FRANCISCO SILVEIRA",
+   "minutos": "61",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62928",
+   "Nombre": "AGUSTIN ARENES",
+   "minutos": "84",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64274",
+   "Nombre": "JOAQUIN HERNANDEZ",
+   "minutos": "20",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64274",
+   "Nombre": "JOAQUIN HERNANDEZ",
+   "minutos": "49",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,244 @@
+{
+ "id": "100545",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "OLD WOODLANDS CLUB",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "88",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-06-27 13:15:00",
+  "Fecha_fin": "2026-06-27 13:15:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD WOODLANDS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "48653",
+   "Nombre": "MATIAS  BERNARDO VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49076",
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "46834",
+   "Nombre": "FRANCO MOITIÑO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "48656",
+   "Nombre": "LEANDRO GABRIEL TABEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "48657",
+   "Nombre": "BRUNO CABRERA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "46830",
+   "Nombre": "JULIAN NESTOR MUHA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52631",
+   "Nombre": "SANTIAGO DANILO TARDEO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "46848",
+   "Nombre": "FACUNDO BERGARA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65071",
+   "Nombre": "MANUEL FELIPE DOMINGUEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "36920",
+   "Nombre": "JUAN IGNACIO REGO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "52783",
+   "Nombre": "DAAN TOMAS ELBERSE",
+   "camiseta": "38",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53359",
+   "Nombre": "CARLOS FLEURQUIN",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "54724",
+   "Nombre": "MAURICIO DI BELLO",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "52998",
+   "Nombre": "MARCOS ALVAREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53615",
+   "Nombre": "THIAGO BENITES",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "53647",
+   "Nombre": "MATIAS PINTOS",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "56777",
+   "Nombre": "BRUNO MARIA IRULEGUY",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49153",
+   "Nombre": "SANTIAGO MARTIN OCASO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "58593",
+   "Nombre": "ALVARO FACUNDO DEFAUT",
+   "camiseta": "50",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46830",
+   "Jug_Sale": "JULIAN NESTOR MUHA",
+   "CarneEntra": "58654",
+   "Jug_Entra": "MATIAS NICOLAS BARRIOS",
+   "camiseta": "30",
+   "minutos": "5"
+  },
+  {
+   "CarneSale": "46848",
+   "Jug_Sale": "FACUNDO BERGARA",
+   "CarneEntra": "46836",
+   "Jug_Entra": "ANDRES OMAR GIORGI",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "48657",
+   "Jug_Sale": "BRUNO CABRERA",
+   "CarneEntra": "63940",
+   "Jug_Entra": "GERONIMO SPERANZA",
+   "camiseta": "50",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53615",
+   "Jug_Sale": "THIAGO BENITES",
+   "CarneEntra": "48036",
+   "Jug_Entra": "SANTIAGO IRULEGUY",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36920",
+   "Jug_Sale": "JUAN IGNACIO REGO",
+   "CarneEntra": "63286",
+   "Jug_Entra": "ENZO PIGNANELLI",
+   "camiseta": "3",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "52998",
+   "Jug_Sale": "MARCOS ALVAREZ",
+   "CarneEntra": "53360",
+   "Jug_Entra": "SANTIAGO JORCIN",
+   "camiseta": "17",
+   "minutos": "92"
+  },
+  {
+   "CarneSale": "49153",
+   "Jug_Sale": "SANTIAGO MARTIN OCASO",
+   "CarneEntra": "60620",
+   "Jug_Entra": "MANUEL PEREYRA",
+   "camiseta": "8",
+   "minutos": "95"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "52998",
+   "Nombre": "MARCOS ALVAREZ",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ALVARO FACUNDO DEFAUT",
+   "observaciones": ""
+  }
+ ]
+}

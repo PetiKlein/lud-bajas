@@ -1,0 +1,264 @@
+{
+ "id": "102442",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 6,
+ "fechaHora": "2026-10-01 21:00:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "ELF BLANCO",
+ "visitante": "YOUNG UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "523",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-10-01 22:55:00",
+  "Fecha_fin": "2026-10-01 22:55:00",
+  "Locatario": "ELF BLANCO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "YOUNG UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60898",
+   "Nombre": "JOAQUIN TRIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48897",
+   "Nombre": "FRANCISCO BARAIBAR",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "44977",
+   "Nombre": "FABIO PADULA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54929",
+   "Nombre": "MARTIN TALMON",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51720",
+   "Nombre": "OCTAVIO BERRUTI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57205",
+   "Nombre": "DIAGO COSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "36849",
+   "Nombre": "LUCAS RICARDO VITOLA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61002",
+   "Nombre": "PEDRO RAINERI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "55866",
+   "Nombre": "FEDERICO BUHL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42785",
+   "Nombre": "MARTIN DANIEL PEREZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "38746",
+   "Nombre": "JUAN MANUEL PAGOLA",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66386",
+   "Nombre": "FRANCISCO CONSTANTIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58823",
+   "Nombre": "JUSTINO LAFLUF",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60311",
+   "Nombre": "ROMAN JOSE SCREMINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "69190",
+   "Nombre": "LUCAS AMARILLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66136",
+   "Nombre": "ALFONSO MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61038",
+   "Nombre": "CONRADO HEINZE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67431",
+   "Nombre": "EMILIANO ACOSTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62237",
+   "Nombre": "SANTINO ACOSTA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61002",
+   "Jug_Sale": "PEDRO RAINERI",
+   "CarneEntra": "59826",
+   "Jug_Entra": "ALFONSO BADANO",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42785",
+   "Jug_Sale": "MARTIN DANIEL PEREZ",
+   "CarneEntra": "40646",
+   "Jug_Entra": "JOAQUIN MATIAS DE LEON",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36849",
+   "Jug_Sale": "LUCAS RICARDO VITOLA",
+   "CarneEntra": "66787",
+   "Jug_Entra": "EZEQUIEL HERNANDEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54929",
+   "Jug_Sale": "MARTIN TALMON",
+   "CarneEntra": "43958",
+   "Jug_Entra": "JUAN MARTIN STARICCO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38746",
+   "Jug_Sale": "JUAN MANUEL PAGOLA",
+   "CarneEntra": "43243",
+   "Jug_Entra": "LUIS OMAR CASTAGNINO",
+   "camiseta": "15",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "48897",
+   "Jug_Sale": "FRANCISCO BARAIBAR",
+   "CarneEntra": "52531",
+   "Jug_Entra": "MARCO ELIO SCALA",
+   "camiseta": "9",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "60898",
+   "Jug_Sale": "JOAQUIN TRIAS",
+   "CarneEntra": "42785",
+   "Jug_Entra": "MARTIN DANIEL PEREZ",
+   "camiseta": "12",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66136",
+   "Jug_Sale": "ALFONSO MEDINA",
+   "CarneEntra": "69191",
+   "Jug_Entra": "VALENTINO DORADOR",
+   "camiseta": "12",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "58823",
+   "Jug_Sale": "JUSTINO LAFLUF",
+   "CarneEntra": "64739",
+   "Jug_Entra": "SANTIAGO SCREMINI",
+   "camiseta": "16",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "67431",
+   "Jug_Sale": "EMILIANO ACOSTA",
+   "CarneEntra": "67786",
+   "Jug_Entra": "IGNACIO BALLEJO",
+   "camiseta": "11",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "62237",
+   "Jug_Sale": "SANTINO ACOSTA",
+   "CarneEntra": "52893",
+   "Jug_Entra": "EZEQUIEL FRANCO",
+   "camiseta": "9",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

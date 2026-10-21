@@ -1,0 +1,307 @@
+{
+ "id": "101222",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "COLEGIO PIO",
+ "local": "CENTRO CRISTOBAL COLON",
+ "visitante": "COLEGIO Y LICEO INGLES",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "268",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-08-29 13:15:00",
+  "Fecha_fin": "2026-08-29 13:15:00",
+  "Locatario": "CENTRO CRISTOBAL COLON",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "COLEGIO Y LICEO INGLES",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64261",
+   "Nombre": "SANTIAGO HERRERA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "62352",
+   "Nombre": "SANTIAGO RICCONE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63850",
+   "Nombre": "FACUNDO NAHUEL VIDAL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "50423",
+   "Nombre": "MARTIN GARCIA",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61602",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "56887",
+   "Nombre": "JUAN MANUEL MASEDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "50976",
+   "Nombre": "NICOLAS EZEQUIEL GUTIERREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59792",
+   "Nombre": "MATEO ARMANDO OLIVERA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "62131",
+   "Nombre": "GONZALO RICCONE",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "55648",
+   "Nombre": "DIEGO MONTERO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64433",
+   "Nombre": "SANTIAGO LUCAS RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45633",
+   "Nombre": "PABLO AGUIAR",
+   "camiseta": "55",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59406",
+   "Nombre": "FEDERICO CANDAU",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "59413",
+   "Nombre": "TIAGO MAIORANO",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "39479",
+   "Nombre": "GASTON MUIÑO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47716",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "39406",
+   "Nombre": "AGUSTIN FELIPEZ",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "36986",
+   "Nombre": "JUAN CRUZ ESTEVEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "39287",
+   "Nombre": "NICOLAS MONTERO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "58063",
+   "Nombre": "ALFONSO YAÑEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59393",
+   "Nombre": "SEBASTIAN MACHADO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61602",
+   "Jug_Sale": "JOAQUIN FERNANDEZ",
+   "CarneEntra": "57654",
+   "Jug_Entra": "DONATO NOCETTI",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61897",
+   "Jug_Sale": "MATIAS MARCELO VERO",
+   "CarneEntra": "58071",
+   "Jug_Entra": "FELIPE IRIGOYEN",
+   "camiseta": "7",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "62131",
+   "Jug_Sale": "GONZALO RICCONE",
+   "CarneEntra": "63517",
+   "Jug_Entra": "FELIPE FERREIRA",
+   "camiseta": "99",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "62352",
+   "Jug_Sale": "SANTIAGO RICCONE",
+   "CarneEntra": "52342",
+   "Jug_Entra": "SANTIAGO MICHELINI",
+   "camiseta": "17",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "50423",
+   "Jug_Sale": "MARTIN GARCIA",
+   "CarneEntra": "55027",
+   "Jug_Entra": "FERNANDO RIQUEL",
+   "camiseta": "22",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "56887",
+   "Jug_Sale": "JUAN MANUEL MASEDA",
+   "CarneEntra": "52424",
+   "Jug_Entra": "MARCOS DANIEL CARREÑO",
+   "camiseta": "14",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "52342",
+   "Jug_Sale": "SANTIAGO MICHELINI",
+   "CarneEntra": "64472",
+   "Jug_Entra": "JUAN MARTIN SUCAZES",
+   "camiseta": "23",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "36986",
+   "Jug_Sale": "JUAN CRUZ ESTEVEZ",
+   "CarneEntra": "48798",
+   "Jug_Entra": "MATIAS ONANDI",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58063",
+   "Jug_Sale": "ALFONSO YAÑEZ",
+   "CarneEntra": "48882",
+   "Jug_Entra": "JUAN IGNACIO APOLO",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59393",
+   "Jug_Sale": "SEBASTIAN MACHADO",
+   "CarneEntra": "23478",
+   "Jug_Entra": "MARCEL ANDRES RAUSS",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59406",
+   "Jug_Sale": "FEDERICO CANDAU",
+   "CarneEntra": "59416",
+   "Jug_Entra": "PEDRO BAUTISTA RODRIGUEZ",
+   "camiseta": "16",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "47716",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "36986",
+   "Jug_Entra": "JUAN CRUZ ESTEVEZ",
+   "camiseta": "23",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "39406",
+   "Jug_Sale": "AGUSTIN FELIPEZ",
+   "CarneEntra": "58063",
+   "Jug_Entra": "ALFONSO YAÑEZ",
+   "camiseta": "19",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "39287",
+   "Jug_Sale": "NICOLAS MONTERO",
+   "CarneEntra": "60060",
+   "Jug_Entra": "NICOLAS LARRALDE",
+   "camiseta": "22",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55648",
+   "Nombre": "DIEGO MONTERO",
+   "minutos": "93",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "minutos": "16",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63850",
+   "Nombre": "FACUNDO NAHUEL VIDAL",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

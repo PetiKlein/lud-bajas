@@ -1,0 +1,300 @@
+{
+ "id": "102435",
+ "categoria": "reserva-c",
+ "serie": "RSCPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-01 20:30:00",
+ "cancha": "ST. BRENDANS",
+ "local": "NUMA TURCATTI",
+ "visitante": "OLD BRENDANS VERDE",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "758",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"C\" PER. y DESC.",
+  "Cancha": "ST. BRENDANS",
+  "Fecha_Inicio": "2026-10-01 22:20:00",
+  "Fecha_fin": "2026-10-01 22:20:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS VERDE",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58491",
+   "Nombre": "FACUNDO SIMON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39680",
+   "Nombre": "FELIX ANDRES FORASTIER",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "54928",
+   "Nombre": "ISMAEL IMPERIAL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55092",
+   "Nombre": "FRANCO ADRIAN CABRERA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "61334",
+   "Nombre": "ALAN JAVIER VALERA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63007",
+   "Nombre": "MARCELL AGUSTIN CRUZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "66777",
+   "Nombre": "SANTIAGO DAVRIEUX",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53394",
+   "Nombre": "DIEGO SABAJ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55605",
+   "Nombre": "BAUTISTA PARODI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "49150",
+   "Nombre": "GASTON SCHMIDT",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49241",
+   "Nombre": "SANTIAGO MAZURKIEWICZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58816",
+   "Nombre": "GUILLERMO SOTO",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "60013",
+   "Nombre": "JOAQUIN DI CAPRIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64017",
+   "Nombre": "JUAN IGNACIO MENENDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49147",
+   "Nombre": "JUAN TOURON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55930",
+   "Nombre": "BRYAN EZEQUIEL GIOVINAZZO",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "62982",
+   "Nombre": "FRANCISCO MATOSAS",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "51443",
+   "Nombre": "MATEO DAVID BONIFACIO",
+   "camiseta": "92",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55092",
+   "Jug_Sale": "FRANCO ADRIAN CABRERA",
+   "CarneEntra": "64138",
+   "Jug_Entra": "DILAN NAHUEL GARCIA",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54928",
+   "Jug_Sale": "ISMAEL IMPERIAL",
+   "CarneEntra": "51208",
+   "Jug_Entra": "JOAQUIN ALFONSO BECERRA",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61334",
+   "Jug_Sale": "ALAN JAVIER VALERA",
+   "CarneEntra": "67234",
+   "Jug_Entra": "RODRIGO HERNAN MARTINEZ",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55052",
+   "Jug_Sale": "AGUSTIN RODRIGUEZ",
+   "CarneEntra": "68232",
+   "Jug_Entra": "THIAGO MATEO FERREIRA",
+   "camiseta": "24",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "48317",
+   "Jug_Sale": "THIAGO DA SILVA",
+   "CarneEntra": "51082",
+   "Jug_Entra": "IGNACIO LUIS JAUNSOLO",
+   "camiseta": "22",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "66777",
+   "Jug_Sale": "SANTIAGO DAVRIEUX",
+   "CarneEntra": "69074",
+   "Jug_Entra": "LAUTARO NICOLAS RODRIGUEZ",
+   "camiseta": "16",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "63007",
+   "Jug_Sale": "MARCELL AGUSTIN CRUZ",
+   "CarneEntra": "51090",
+   "Jug_Entra": "JUAN IGNACIO RUSSO",
+   "camiseta": "7",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49147",
+   "Jug_Sale": "JUAN TOURON",
+   "CarneEntra": "56684",
+   "Jug_Entra": "TOMAS ALDABALDE",
+   "camiseta": "88",
+   "minutos": "36"
+  },
+  {
+   "CarneSale": "55605",
+   "Jug_Sale": "BAUTISTA PARODI",
+   "CarneEntra": "56688",
+   "Jug_Entra": "TOMAS PASSADORE",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58816",
+   "Jug_Sale": "GUILLERMO SOTO",
+   "CarneEntra": "56474",
+   "Jug_Entra": "JUAN BAUTISTA PAGANI",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55930",
+   "Jug_Sale": "BRYAN EZEQUIEL GIOVINAZZO",
+   "CarneEntra": "60472",
+   "Jug_Entra": "SANCHO CONTI",
+   "camiseta": "10",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "62982",
+   "Jug_Sale": "FRANCISCO MATOSAS",
+   "CarneEntra": "62978",
+   "Jug_Entra": "LUCAS CAPLIVSCHI",
+   "camiseta": "48",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "51443",
+   "Jug_Sale": "MATEO DAVID BONIFACIO",
+   "CarneEntra": "52454",
+   "Jug_Entra": "FRANCO SOTO",
+   "camiseta": "31",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "minutos": "22",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "49150",
+   "Nombre": "GASTON SCHMIDT",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51443",
+   "Nombre": "MATEO DAVID BONIFACIO",
+   "minutos": "82",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,296 @@
+{
+ "id": "99833",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "184",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-06-06 13:04:00",
+  "Fecha_fin": "2026-06-06 13:04:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61816",
+   "Nombre": "MATEO RAFAEL BRANAA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55157",
+   "Nombre": "DIEGO YAQUINTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "42677",
+   "Nombre": "DIEGO ALBERTO CLAVIJO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "53236",
+   "Nombre": "AGUSTIN MATONTE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48911",
+   "Nombre": "THIAGO POPELKA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "55155",
+   "Nombre": "MATIAS DURAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53852",
+   "Nombre": "SANTIAGO JOSE MARTI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50627",
+   "Nombre": "VICENTE MARTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55539",
+   "Nombre": "JUAN ANDRES FERREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55134",
+   "Nombre": "NICOLAS COSTANTE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50624",
+   "Nombre": "FACUNDO GALBARINI",
+   "camiseta": "79",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44846",
+   "Nombre": "ANTONIO JOSE IRAZOQUI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53690",
+   "Nombre": "MARCOS DANIEL AREVALO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47675",
+   "Nombre": "MAURICIO DIEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47116",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "43124",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68257",
+   "Nombre": "KEVIN NICOLAS CEJAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56033",
+   "Nombre": "ALEXIS DAVID FLORES",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53852",
+   "Jug_Sale": "SANTIAGO JOSE MARTI",
+   "CarneEntra": "62790",
+   "Jug_Entra": "JUAN MARTIN MUÑOZ",
+   "camiseta": "92",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42677",
+   "Jug_Sale": "DIEGO ALBERTO CLAVIJO",
+   "CarneEntra": "67650",
+   "Jug_Entra": "JUAN IGNACIO LIMA",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53852",
+   "Jug_Sale": "SANTIAGO JOSE MARTI",
+   "CarneEntra": "44167",
+   "Jug_Entra": "FEDERICO ERNESTO CHIESA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55134",
+   "Jug_Sale": "NICOLAS COSTANTE",
+   "CarneEntra": "50725",
+   "Jug_Entra": "JUAN IGNACIO ROSSI",
+   "camiseta": "20",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "53236",
+   "Jug_Sale": "AGUSTIN MATONTE",
+   "CarneEntra": "50631",
+   "Jug_Entra": "LORENZO ALTAMIRANO",
+   "camiseta": "25",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "55157",
+   "Jug_Sale": "DIEGO YAQUINTA",
+   "CarneEntra": "62298",
+   "Jug_Entra": "FRANCO RUSSOMANO",
+   "camiseta": "71",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "55539",
+   "Jug_Sale": "JUAN ANDRES FERREIRA",
+   "CarneEntra": "55739",
+   "Jug_Entra": "VALENTIN SILVEIRA",
+   "camiseta": "6",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56033",
+   "Jug_Sale": "ALEXIS DAVID FLORES",
+   "CarneEntra": "46518",
+   "Jug_Entra": "MAURO GERMAN GRECCO",
+   "camiseta": "44",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "47116",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "64611",
+   "Jug_Entra": "FEDERICO PITA",
+   "camiseta": "33",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "68257",
+   "Jug_Sale": "KEVIN NICOLAS CEJAS",
+   "CarneEntra": "66028",
+   "Jug_Entra": "MATEO AGUSTIN CHAKIYIN",
+   "camiseta": "18",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "68257",
+   "Jug_Sale": "KEVIN NICOLAS CEJAS",
+   "CarneEntra": "52176",
+   "Jug_Entra": "JUAN MANUEL GONZALEZ",
+   "camiseta": "21",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "47675",
+   "Jug_Sale": "MAURICIO DIEZ",
+   "CarneEntra": "54068",
+   "Jug_Entra": "JOAQUIN SANTIAGO PERDOMO",
+   "camiseta": "11",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66028",
+   "Nombre": "MATEO AGUSTIN CHAKIYIN",
+   "minutos": "83",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66028",
+   "Nombre": "MATEO AGUSTIN CHAKIYIN",
+   "minutos": "92",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "VICENTE MARTI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

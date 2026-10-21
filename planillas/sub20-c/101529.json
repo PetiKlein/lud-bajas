@@ -1,0 +1,290 @@
+{
+ "id": "101529",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 15:30:00",
+ "cancha": "PQUE. ELLIS - COL. SAN ISIDRO",
+ "local": "COLEGIO SAN ISIDRO",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "329",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "PQUE. ELLIS - COL. SAN ISIDRO",
+  "Fecha_Inicio": "2026-09-05 17:15:00",
+  "Fecha_fin": "2026-09-05 17:15:00",
+  "Locatario": "COLEGIO SAN ISIDRO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "69092",
+   "Nombre": "ALAN GUZMAN GONZALEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67016",
+   "Nombre": "MARTIN NAHUEL AMARAL",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61123",
+   "Nombre": "GONZALO NAHUEL MELO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68015",
+   "Nombre": "GUILLERMO NICOLAS MOREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66240",
+   "Nombre": "FELIPE ROMAN BOVIO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61125",
+   "Nombre": "JOAQUIN LOPEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "61124",
+   "Nombre": "BENJAMIN LOPEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67017",
+   "Nombre": "FELIPE PISANO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63499",
+   "Nombre": "JUAN FRANCISCO ARISPE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66710",
+   "Nombre": "ENZO MIGUES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59215",
+   "Nombre": "SANTIAGO GABRIEL SOSA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63543",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62586",
+   "Nombre": "LEANDRO MOCCIA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68858",
+   "Nombre": "THIAGO COGOY",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58727",
+   "Nombre": "JOAQUIN GRACIANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62577",
+   "Nombre": "ORI MARTIN FERREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62587",
+   "Nombre": "MATEO ALONSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68193",
+   "Nombre": "IGNACIO ZINOLA",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58704",
+   "Nombre": "IGNACIO JAVIER ROMERO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "55413",
+   "Nombre": "LUCAS OTAÑO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67017",
+   "Jug_Sale": "FELIPE PISANO",
+   "CarneEntra": "59228",
+   "Jug_Entra": "EMILIANO MAESTRO",
+   "camiseta": "16",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "59215",
+   "Jug_Sale": "SANTIAGO GABRIEL SOSA",
+   "CarneEntra": "64522",
+   "Jug_Entra": "MATIAS GATTI",
+   "camiseta": "18",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "66240",
+   "Jug_Sale": "FELIPE ROMAN BOVIO",
+   "CarneEntra": "67500",
+   "Jug_Entra": "IGNACIO SPINOGLIO",
+   "camiseta": "4",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "68015",
+   "Jug_Sale": "GUILLERMO NICOLAS MOREIRA",
+   "CarneEntra": "60777",
+   "Jug_Entra": "FACUNDO LOZANO",
+   "camiseta": "3",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58727",
+   "Jug_Sale": "JOAQUIN GRACIANO",
+   "CarneEntra": "55147",
+   "Jug_Entra": "EDUARDO IVAN UBAL",
+   "camiseta": "66",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "62587",
+   "Jug_Sale": "MATEO ALONSO",
+   "CarneEntra": "64173",
+   "Jug_Entra": "SANTIAGO MIRANDA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58704",
+   "Jug_Sale": "IGNACIO JAVIER ROMERO",
+   "CarneEntra": "67274",
+   "Jug_Entra": "ALVARO PINTOS",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55413",
+   "Jug_Sale": "LUCAS OTAÑO",
+   "CarneEntra": "62582",
+   "Jug_Entra": "SEBASTIAN ENZO STRATTA",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62577",
+   "Jug_Sale": "ORI MARTIN FERREIRA",
+   "CarneEntra": "68623",
+   "Jug_Entra": "GUILLERMO MARTINEZ",
+   "camiseta": "76",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "68858",
+   "Jug_Sale": "THIAGO COGOY",
+   "CarneEntra": "62587",
+   "Jug_Entra": "MATEO ALONSO",
+   "camiseta": "6",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "68193",
+   "Jug_Sale": "IGNACIO ZINOLA",
+   "CarneEntra": "67273",
+   "Jug_Entra": "SANTIAGO ROMAN DALIA",
+   "camiseta": "36",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59215",
+   "Nombre": "SANTIAGO GABRIEL SOSA",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63499",
+   "Nombre": "JUAN FRANCISCO ARISPE",
+   "minutos": "87",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66710",
+   "Nombre": "ENZO MIGUES",
+   "minutos": "55",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

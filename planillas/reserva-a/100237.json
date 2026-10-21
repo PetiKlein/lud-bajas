@@ -1,0 +1,278 @@
+{
+ "id": "100237",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO WOODLANDS SCHOOL",
+ "local": "OLD WOODLANDS CLUB",
+ "visitante": "OLD CHRISTIANS AZUL",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "74",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO WOODLANDS SCHOOL",
+  "Fecha_Inicio": "2026-06-20 00:00:00",
+  "Fecha_fin": "2026-06-20 00:00:00",
+  "Locatario": "OLD WOODLANDS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "OLD CHRISTIANS AZUL",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65071",
+   "Nombre": "MANUEL FELIPE DOMINGUEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "50731",
+   "Nombre": "FACUNDO MUNUA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49153",
+   "Nombre": "SANTIAGO MARTIN OCASO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53359",
+   "Nombre": "CARLOS FLEURQUIN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53615",
+   "Nombre": "THIAGO BENITES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53647",
+   "Nombre": "MATIAS PINTOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "33370",
+   "Nombre": "SANTIAGO BZUROVSKI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54724",
+   "Nombre": "MAURICIO DI BELLO",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "52783",
+   "Nombre": "DAAN TOMAS ELBERSE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "36920",
+   "Nombre": "JUAN IGNACIO REGO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "52998",
+   "Nombre": "MARCOS ALVAREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55226",
+   "Nombre": "ALFONSO DEL CASTILLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39425",
+   "Nombre": "SANTIAGO MARAFFI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "41003",
+   "Nombre": "FEDERICO BARRIOS",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35068",
+   "Nombre": "MATEO DI LORENZO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "43762",
+   "Nombre": "ALFONSO MARQUES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42263",
+   "Nombre": "JUAN MARTIN ROMANIELLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52396",
+   "Nombre": "TOMAS DI LORENZO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "54053",
+   "Nombre": "FRANCO BUYSAN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "42262",
+   "Nombre": "FELIPE LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "39601",
+   "Nombre": "NICOLAS OEHLER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63476",
+   "Nombre": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49153",
+   "Jug_Sale": "SANTIAGO MARTIN OCASO",
+   "CarneEntra": "58593",
+   "Jug_Entra": "ALVARO FACUNDO DEFAUT",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53647",
+   "Jug_Sale": "MATIAS PINTOS",
+   "CarneEntra": "51145",
+   "Jug_Entra": "ALEJANDRO VICTORICA",
+   "camiseta": "70",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50731",
+   "Jug_Sale": "FACUNDO MUNUA",
+   "CarneEntra": "56777",
+   "Jug_Entra": "BRUNO MARIA IRULEGUY",
+   "camiseta": "13",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "53615",
+   "Jug_Sale": "THIAGO BENITES",
+   "CarneEntra": "48036",
+   "Jug_Entra": "SANTIAGO IRULEGUY",
+   "camiseta": "19",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "52998",
+   "Jug_Sale": "MARCOS ALVAREZ",
+   "CarneEntra": "53647",
+   "Jug_Entra": "MATIAS PINTOS",
+   "camiseta": "11",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42262",
+   "Jug_Sale": "FELIPE LOPEZ",
+   "CarneEntra": "62462",
+   "Jug_Entra": "JUAN GABRIEL ALVAREZ",
+   "camiseta": "97",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "39601",
+   "Jug_Sale": "NICOLAS OEHLER",
+   "CarneEntra": "42262",
+   "Jug_Entra": "FELIPE LOPEZ",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "63476",
+   "Jug_Sale": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "CarneEntra": "32400",
+   "Jug_Entra": "MATIAS DANIEL RIOS",
+   "camiseta": "15",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "52396",
+   "Jug_Sale": "TOMAS DI LORENZO",
+   "CarneEntra": "46346",
+   "Jug_Entra": "FELIPE BARRERE",
+   "camiseta": "6",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "54053",
+   "Jug_Sale": "FRANCO BUYSAN",
+   "CarneEntra": "63476",
+   "Jug_Entra": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "camiseta": "19",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "42263",
+   "Jug_Sale": "JUAN MARTIN ROMANIELLO",
+   "CarneEntra": "52396",
+   "Jug_Entra": "TOMAS DI LORENZO",
+   "camiseta": "96",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51145",
+   "Nombre": "ALEJANDRO VICTORICA",
+   "minutos": "66",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "41003",
+   "Nombre": "FEDERICO BARRIOS",
+   "minutos": "76",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

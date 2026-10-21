@@ -1,0 +1,217 @@
+{
+ "id": "99704",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 15:30:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "PALLOTTI UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "304",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-06-06 17:30:00",
+  "Fecha_fin": "2026-06-06 17:30:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "PALLOTTI UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63266",
+   "Nombre": "JUAN MANUEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64901",
+   "Nombre": "TOMAS BELTRAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65555",
+   "Nombre": "JOAQUIN MEDINA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62065",
+   "Nombre": "FEDERICO RUBIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56788",
+   "Nombre": "TOMAS ANGLADA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66149",
+   "Nombre": "NICOLAS JESUS NUÑEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62063",
+   "Nombre": "RODRIGO RUBIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64102",
+   "Nombre": "FEDERICO ARIZTI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "56791",
+   "Nombre": "JOAQUIN BRAGLIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64097",
+   "Nombre": "JUAN IGNACIO ESTIBEN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56092",
+   "Nombre": "AGUSTIN TELLECHEA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67694",
+   "Nombre": "EMILIANO ISMAEL PEREZ",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67707",
+   "Nombre": "LUCAS THIAGO RODRIGUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58096",
+   "Nombre": "SANTIAGO LUNGO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67705",
+   "Nombre": "THIAGO EDUARDO QUIROGA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67699",
+   "Nombre": "EMILIANO MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67706",
+   "Nombre": "ALEJANDRO SEBASTIAN PEREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60750",
+   "Nombre": "LUCAS AGUSTIN BILBAO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58351",
+   "Nombre": "JOAQUIN PAREDES",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "68287",
+   "Nombre": "CRISTIAN VALENTIN MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64102",
+   "Jug_Sale": "FEDERICO ARIZTI",
+   "CarneEntra": "60473",
+   "Jug_Entra": "JUAN AGUSTIN LOPEZ",
+   "camiseta": "6",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "64097",
+   "Jug_Sale": "JUAN IGNACIO ESTIBEN",
+   "CarneEntra": "62069",
+   "Jug_Entra": "SANTIAGO SILVA",
+   "camiseta": "80",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "62063",
+   "Jug_Sale": "RODRIGO RUBIO",
+   "CarneEntra": "64100",
+   "Jug_Entra": "JUAN BAUTISTA ROURE",
+   "camiseta": "25",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58351",
+   "Jug_Sale": "JOAQUIN PAREDES",
+   "CarneEntra": "67704",
+   "Jug_Entra": "RICHARD GERMAN RIBEIROS",
+   "camiseta": "11",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "68287",
+   "Jug_Sale": "CRISTIAN VALENTIN MEDINA",
+   "CarneEntra": "67708",
+   "Jug_Entra": "ALEJO MANEIRO",
+   "camiseta": "80",
+   "minutos": "42"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66149",
+   "Nombre": "NICOLAS JESUS NUÑEZ",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

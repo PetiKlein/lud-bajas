@@ -1,0 +1,277 @@
+{
+ "id": "101537",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 15:30:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "FLORES UNIVERSITARIO",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "331",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-09-05 17:20:00",
+  "Fecha_fin": "2026-09-05 17:20:00",
+  "Locatario": "FLORES UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62142",
+   "Nombre": "GAEL LERCARI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65219",
+   "Nombre": "GASPAR SWINDEN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61527",
+   "Nombre": "MATIAS URIOSTE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62136",
+   "Nombre": "JUAN PEDRO MONTAÑEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62152",
+   "Nombre": "LUCAS POLLERO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62135",
+   "Nombre": "VALENTIN ESPINOSA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59234",
+   "Nombre": "CAMILO RIVAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "54604",
+   "Nombre": "FACUNDO ANDRES BENTANCOR",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68542",
+   "Nombre": "DIEGO ROMAN GONZALEZ",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "57672",
+   "Nombre": "SANTIAGO DIEGO OLAZABAL",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "68345",
+   "Nombre": "FACUNDO BELEN",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56415",
+   "Nombre": "LUCAS AGUSTIN CACERES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59761",
+   "Nombre": "BRUNO LAVIE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66528",
+   "Nombre": "LUCA CANZANI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59555",
+   "Nombre": "JUAN MANUEL BIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62420",
+   "Nombre": "MATIAS LABORDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60337",
+   "Nombre": "MATEO GLISENTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "camiseta": "0",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56180",
+   "Nombre": "SANTIAGO DE OLEA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "58608",
+   "Nombre": "BAUTISTA ANDRES TERRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66778",
+   "Nombre": "SANTIAGO MACEDO",
+   "camiseta": "50",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62135",
+   "Jug_Sale": "VALENTIN ESPINOSA",
+   "CarneEntra": "63030",
+   "Jug_Entra": "FRANCO BERRUTTI",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61527",
+   "Jug_Sale": "MATIAS URIOSTE",
+   "CarneEntra": "62135",
+   "Jug_Entra": "VALENTIN ESPINOSA",
+   "camiseta": "4",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "68345",
+   "Jug_Sale": "FACUNDO BELEN",
+   "CarneEntra": "68367",
+   "Jug_Entra": "JOAQUIN ROMERO",
+   "camiseta": "16",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "68542",
+   "Jug_Sale": "DIEGO ROMAN GONZALEZ",
+   "CarneEntra": "68345",
+   "Jug_Entra": "FACUNDO BELEN",
+   "camiseta": "19",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "62135",
+   "Jug_Sale": "VALENTIN ESPINOSA",
+   "CarneEntra": "61527",
+   "Jug_Entra": "MATIAS URIOSTE",
+   "camiseta": "23",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "57672",
+   "Jug_Sale": "SANTIAGO DIEGO OLAZABAL",
+   "CarneEntra": "68542",
+   "Jug_Entra": "DIEGO ROMAN GONZALEZ",
+   "camiseta": "47",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58608",
+   "Jug_Sale": "BAUTISTA ANDRES TERRA",
+   "CarneEntra": "62547",
+   "Jug_Entra": "GUILERMO DIEGO POMI",
+   "camiseta": "11",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "56180",
+   "Jug_Sale": "SANTIAGO DE OLEA",
+   "CarneEntra": "66610",
+   "Jug_Entra": "FRANCO MAISSONAVE",
+   "camiseta": "8",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "59563",
+   "Jug_Sale": "FEDERICO GUICHON",
+   "CarneEntra": "56611",
+   "Jug_Entra": "SEBASTIAN SAR",
+   "camiseta": "99",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "56305",
+   "Jug_Sale": "FRANCO GLISENTI",
+   "CarneEntra": "62873",
+   "Jug_Entra": "MATEO AGUSTIN ARDENTE",
+   "camiseta": "60",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "66528",
+   "Jug_Sale": "LUCA CANZANI",
+   "CarneEntra": "68070",
+   "Jug_Entra": "JUAN MARTIN LABORDE",
+   "camiseta": "28",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "56180",
+   "Nombre": "SANTIAGO DE OLEA",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56415",
+   "Nombre": "LUCAS AGUSTIN CACERES",
+   "minutos": "69",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,304 @@
+{
+ "id": "101656",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "OBC AZULGRANA.",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "94",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-09-05 13:05:00",
+  "Fecha_fin": "2026-09-05 13:05:00",
+  "Locatario": "OBC AZULGRANA.",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "51960",
+   "Nombre": "FEDERICO VAREIKA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33722",
+   "Nombre": "JUAN IGNACIO MOLINARO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "34993",
+   "Nombre": "GUILLERMO VIVO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "42685",
+   "Nombre": "FRANCISCO DECURNEX",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49021",
+   "Nombre": "JUAN IGNACIO CANESSA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "45119",
+   "Nombre": "MATEO BANDIRALI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42221",
+   "Nombre": "AXEL WILLIAM LINDMAYER",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "44492",
+   "Nombre": "DIEGO JUAN CORALLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "34990",
+   "Nombre": "MARTIN SORONDO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "42816",
+   "Nombre": "ANDRES BUERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "44982",
+   "Nombre": "FEDERICO RUIZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29859",
+   "Nombre": "GUSTAVO GUZMAN AMESPIL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "53121",
+   "Nombre": "ANDRES RUGGIERO",
+   "camiseta": "90",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53245",
+   "Nombre": "JOAQUIN BRUNO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "45854",
+   "Nombre": "JULIAN VELAZQUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "45424",
+   "Nombre": "ANDRES VALLARINO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53130",
+   "Nombre": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57131",
+   "Nombre": "GIANFRANCO DUPONT",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54162",
+   "Nombre": "FACUNDO ENRIQUE RAMIREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61079",
+   "Nombre": "JUAN PABLO ZUBILLAGA",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45119",
+   "Jug_Sale": "MATEO BANDIRALI",
+   "CarneEntra": "51826",
+   "Jug_Entra": "AGUSTIN DEUS",
+   "camiseta": "21",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "33722",
+   "Jug_Sale": "JUAN IGNACIO MOLINARO",
+   "CarneEntra": "40998",
+   "Jug_Entra": "FELIPE FRUGONE",
+   "camiseta": "22",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "44492",
+   "Jug_Sale": "DIEGO JUAN CORALLO",
+   "CarneEntra": "44069",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "23",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "42685",
+   "Jug_Sale": "FRANCISCO DECURNEX",
+   "CarneEntra": "41576",
+   "Jug_Entra": "MARTIN JOSE IMHOF",
+   "camiseta": "19",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "42816",
+   "Jug_Sale": "ANDRES BUERO",
+   "CarneEntra": "55154",
+   "Jug_Entra": "IÑAKI ESTABLE",
+   "camiseta": "4",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "42221",
+   "Jug_Sale": "AXEL WILLIAM LINDMAYER",
+   "CarneEntra": "39033",
+   "Jug_Entra": "IGNACIO TALVI",
+   "camiseta": "98",
+   "minutos": "91"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "45424",
+   "Jug_Sale": "ANDRES VALLARINO",
+   "CarneEntra": "53070",
+   "Jug_Entra": "JUAN IGNACIO MAGRINI",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54162",
+   "Jug_Sale": "FACUNDO ENRIQUE RAMIREZ",
+   "CarneEntra": "66798",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "60",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "57131",
+   "Jug_Sale": "GIANFRANCO DUPONT",
+   "CarneEntra": "58943",
+   "Jug_Entra": "MATIAS DIEGO MENDEZ",
+   "camiseta": "4",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "48803",
+   "Jug_Sale": "MATIAS REVELLO",
+   "CarneEntra": "43136",
+   "Jug_Entra": "GABRIEL JOAQUIN SUAREZ",
+   "camiseta": "30",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61079",
+   "Jug_Sale": "JUAN PABLO ZUBILLAGA",
+   "CarneEntra": "63343",
+   "Jug_Entra": "LORENZO VERON",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "50950",
+   "Jug_Sale": "ISMAEL VILLANUEVA",
+   "CarneEntra": "37903",
+   "Jug_Entra": "MATEO MUJICA",
+   "camiseta": "6",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "53130",
+   "Jug_Sale": "JUAN IGNACIO AISCAR",
+   "CarneEntra": "61669",
+   "Jug_Entra": "NICOLAS BENTANCOR",
+   "camiseta": "29",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "57131",
+   "Nombre": "GIANFRANCO DUPONT",
+   "minutos": "14",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58943",
+   "Nombre": "MATIAS DIEGO MENDEZ",
+   "minutos": "67",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61669",
+   "Nombre": "NICOLAS BENTANCOR",
+   "minutos": "88",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "MARTIN SORONDO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

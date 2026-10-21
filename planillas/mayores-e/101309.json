@@ -1,0 +1,271 @@
+{
+ "id": "101309",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 4,
+ "fechaHora": "2026-08-30 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SUDAMERICA UNIVERSITARIO",
+ "visitante": "CLUB ESTUDIANTES INGENIERIA",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "511",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-08-30 11:00:00",
+  "Fecha_fin": "2026-08-30 11:00:00",
+  "Locatario": "SUDAMERICA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64962",
+   "Nombre": "JUAN BAUTISTA MENDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65969",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "64590",
+   "Nombre": "FAUSTINO VALIENTE",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "63812",
+   "Nombre": "ANDRES OLIVERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40257",
+   "Nombre": "ROQUE MARTIN ANDRADA",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62441",
+   "Nombre": "BRIAN ANTHONY PEREZ",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "59620",
+   "Nombre": "FRANCISCO FERNANDEZ",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "41872",
+   "Nombre": "FACUNDO SILVERA",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "69022",
+   "Nombre": "JUAN MARTIN PATRON",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "56949",
+   "Nombre": "FREDERICK EMANUEL LEITES",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "43111",
+   "Nombre": "JULIAN LEPRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65749",
+   "Nombre": "GARY SAMUEL PIRIZ",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "66687",
+   "Nombre": "PATRICIO ACOSTA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "26541",
+   "Nombre": "FEDERICO MARTIN LABORDE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61450",
+   "Nombre": "MARTIN ROTTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "61452",
+   "Nombre": "NEHITAN CARLOS MAGNO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "33500",
+   "Nombre": "FRANCO CAL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "39386",
+   "Nombre": "AGUSTIN PALLEIRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51303",
+   "Nombre": "FELIPE CASARAVILLA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59309",
+   "Nombre": "MARCOS NAHUEL ARRÙA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56949",
+   "Jug_Sale": "FREDERICK EMANUEL LEITES",
+   "CarneEntra": "63102",
+   "Jug_Entra": "BENJAMIN ACOSTA",
+   "camiseta": "40",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "59620",
+   "Jug_Sale": "FRANCISCO FERNANDEZ",
+   "CarneEntra": "56949",
+   "Jug_Entra": "FREDERICK EMANUEL LEITES",
+   "camiseta": "9",
+   "minutos": "74"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33500",
+   "Jug_Sale": "FRANCO CAL",
+   "CarneEntra": "49812",
+   "Jug_Entra": "MIGUEL ANGEL PASTORINI",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39386",
+   "Jug_Sale": "AGUSTIN PALLEIRO",
+   "CarneEntra": "65902",
+   "Jug_Entra": "FABRIZIO DONATO FERRANTY",
+   "camiseta": "96",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "59309",
+   "Jug_Sale": "MARCOS NAHUEL ARRÙA",
+   "CarneEntra": "68522",
+   "Jug_Entra": "DIEGO HENRRY GADEA",
+   "camiseta": "25",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "66687",
+   "Jug_Sale": "PATRICIO ACOSTA",
+   "CarneEntra": "34656",
+   "Jug_Entra": "MATIAS CERETTA",
+   "camiseta": "9",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "51303",
+   "Jug_Sale": "FELIPE CASARAVILLA",
+   "CarneEntra": "68673",
+   "Jug_Entra": "KEVIN NAHUEL ANTUNEZ",
+   "camiseta": "27",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "43081",
+   "Jug_Sale": "FRANCISCO ORFILIO BETANCOR",
+   "CarneEntra": "39386",
+   "Jug_Entra": "AGUSTIN PALLEIRO",
+   "camiseta": "17",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62441",
+   "Nombre": "BRIAN ANTHONY PEREZ",
+   "minutos": "83",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "39386",
+   "Nombre": "AGUSTIN PALLEIRO",
+   "minutos": "8",
+   "EnContra": "1"
+  },
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68673",
+   "Nombre": "KEVIN NAHUEL ANTUNEZ",
+   "minutos": "89",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

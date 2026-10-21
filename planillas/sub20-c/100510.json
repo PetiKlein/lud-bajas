@@ -1,0 +1,280 @@
+{
+ "id": "100510",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "324",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-27 15:30:00",
+  "Fecha_fin": "2026-06-27 15:30:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65542",
+   "Nombre": "IGNACIO CIRIGLIANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67239",
+   "Nombre": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "61869",
+   "Nombre": "FELIPE DASTUGUE",
+   "camiseta": "84",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64095",
+   "Nombre": "JUAN ANDRES GARCIA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "64099",
+   "Nombre": "JUAN MANUEL CORNEY",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "61069",
+   "Nombre": "VICENTE CASTRO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "67671",
+   "Nombre": "JUAN IGNACIO SÀNCHEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "58624",
+   "Nombre": "JOAQUIN MATIAS NIETO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "63347",
+   "Nombre": "VALENTIN ROBKIN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57239",
+   "Nombre": "THIAGO PENA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "61088",
+   "Nombre": "MAURICIO AGUSTIN RICCA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "64635",
+   "Nombre": "JOAQUIN DUARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59006",
+   "Nombre": "IGNACIO MAYORA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62613",
+   "Nombre": "IGNACIO GODIÑO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "61987",
+   "Nombre": "AGUSTIN NOVO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62811",
+   "Nombre": "TOMAS SULCA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "63190",
+   "Nombre": "MAURO CELIBERTI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "65462",
+   "Nombre": "VALENTINO MARTIN BONILLA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67904",
+   "Nombre": "NICOLAS PEREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66783",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67239",
+   "Jug_Sale": "LEONARDO ENRIQUE CASTIGLIONI",
+   "CarneEntra": "64101",
+   "Jug_Entra": "SANTIAGO GONZALEZ",
+   "camiseta": "97",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57022",
+   "Jug_Sale": "JUAN DIEGO CACERES",
+   "CarneEntra": "67238",
+   "Jug_Entra": "SANTIAGO BALTASAR",
+   "camiseta": "78",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63347",
+   "Jug_Sale": "VALENTIN ROBKIN",
+   "CarneEntra": "58783",
+   "Jug_Entra": "LAUTARO GABRIEL SALLES",
+   "camiseta": "49",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64099",
+   "Jug_Sale": "JUAN MANUEL CORNEY",
+   "CarneEntra": "64501",
+   "Jug_Entra": "DIEGO GONZALEZ",
+   "camiseta": "99",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "58624",
+   "Jug_Sale": "JOAQUIN MATIAS NIETO",
+   "CarneEntra": "67996",
+   "Jug_Entra": "MANUEL DE PAZOS",
+   "camiseta": "81",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "58783",
+   "Jug_Sale": "LAUTARO GABRIEL SALLES",
+   "CarneEntra": "59588",
+   "Jug_Entra": "GERARDO ROCCO BELLO",
+   "camiseta": "17",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "61069",
+   "Jug_Sale": "VICENTE CASTRO",
+   "CarneEntra": "64103",
+   "Jug_Entra": "ENZO YACI",
+   "camiseta": "86",
+   "minutos": "95"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59006",
+   "Jug_Sale": "IGNACIO MAYORA",
+   "CarneEntra": "56448",
+   "Jug_Entra": "SANTIAGO PEREIRA",
+   "camiseta": "8",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "62811",
+   "Jug_Sale": "TOMAS SULCA",
+   "CarneEntra": "64637",
+   "Jug_Entra": "THIAGO ANDRES SOUTO",
+   "camiseta": "20",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58624",
+   "Nombre": "JOAQUIN MATIAS NIETO",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63347",
+   "Nombre": "VALENTIN ROBKIN",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63347",
+   "Nombre": "VALENTIN ROBKIN",
+   "minutos": "36",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61987",
+   "Nombre": "AGUSTIN NOVO",
+   "minutos": "81",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67904",
+   "Nombre": "NICOLAS PEREZ",
+   "minutos": "5",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

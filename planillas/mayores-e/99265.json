@@ -1,0 +1,255 @@
+{
+ "id": "99265",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 6,
+ "fechaHora": "2026-05-24 09:00:00",
+ "cancha": "ESCUELA NAVAL",
+ "local": "DEPORTIVO MITRE",
+ "visitante": "EL CHORRO FUTBOL CLUB",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "523",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "ESCUELA NAVAL",
+  "Fecha_Inicio": "2026-05-24 11:00:00",
+  "Fecha_fin": "2026-05-24 11:00:00",
+  "Locatario": "DEPORTIVO MITRE",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "EL CHORRO FUTBOL CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68634",
+   "Nombre": "PABLO ENRIQUE ALVAREZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "57270",
+   "Nombre": "MATEO BERTOLIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37963",
+   "Nombre": "GUZMAN STEGLICH",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "43354",
+   "Nombre": "FEDERICO BERTOLIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "45966",
+   "Nombre": "SANTIAGO BENTACOR",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53946",
+   "Nombre": "JUAN IGNACIO GODINO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62622",
+   "Nombre": "STEFANO ESPINOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "44077",
+   "Nombre": "AGUSTIN ANDRES OTERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65976",
+   "Nombre": "JOAN LUCAS ROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "25248",
+   "Nombre": "MATIAS BARREIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57732",
+   "Nombre": "SANTIAGO NICOLAS ESTEVEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55387",
+   "Nombre": "FRANCISCO BELLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39462",
+   "Nombre": "SANTIAGO COUTO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "55770",
+   "Nombre": "JUAN IGNACIO RIPOLL",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "51091",
+   "Nombre": "IGNACIO ANGEL MATTERA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "51878",
+   "Nombre": "MATHIAS SCHWARZ",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "48417",
+   "Nombre": "RENZO PITTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "44154",
+   "Nombre": "GASTON BERRIEL",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "45790",
+   "Nombre": "PEDRO BARBARO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "31253",
+   "Nombre": "ADRIAN IGNACIO CAFFARELLI",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68035",
+   "Nombre": "AGUSTIN ANDRES GEBELIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53627",
+   "Nombre": "JUAN MANUEL DELFINO",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43354",
+   "Jug_Sale": "FEDERICO BERTOLIO",
+   "CarneEntra": "45965",
+   "Jug_Entra": "GONZALO MARTIN PEÑA",
+   "camiseta": "20",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "45965",
+   "Jug_Sale": "GONZALO MARTIN PEÑA",
+   "CarneEntra": "32418",
+   "Jug_Entra": "JOSE IGNACIO OLASCOAGA",
+   "camiseta": "17",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39462",
+   "Jug_Sale": "SANTIAGO COUTO",
+   "CarneEntra": "48329",
+   "Jug_Entra": "ANDRES SEBASTIAN CHANG",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31253",
+   "Jug_Sale": "ADRIAN IGNACIO CAFFARELLI",
+   "CarneEntra": "49306",
+   "Jug_Entra": "JEAN PIERRE SOUQUE",
+   "camiseta": "25",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "55770",
+   "Jug_Sale": "JUAN IGNACIO RIPOLL",
+   "CarneEntra": "44103",
+   "Jug_Entra": "RODRIGO LOPEZ",
+   "camiseta": "12",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "45790",
+   "Jug_Sale": "PEDRO BARBARO",
+   "CarneEntra": "51022",
+   "Jug_Entra": "SANTIAGO FORTEZA",
+   "camiseta": "19",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "25248",
+   "Nombre": "MATIAS BARREIRO",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31253",
+   "Nombre": "ADRIAN IGNACIO CAFFARELLI",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48417",
+   "Nombre": "RENZO PITTIN",
+   "minutos": "15",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51022",
+   "Nombre": "SANTIAGO FORTEZA",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SANTIAGO BENTACOR",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

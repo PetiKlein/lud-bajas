@@ -1,0 +1,237 @@
+{
+ "id": "101356",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 13:30:00",
+ "cancha": "SAGRADA FAMILIA",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "272",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "SAGRADA FAMILIA",
+  "Fecha_Inicio": "2026-08-29 15:30:00",
+  "Fecha_fin": "2026-08-29 15:30:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67561",
+   "Nombre": "JOAQUIN MEDINA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58693",
+   "Nombre": "NICOLAS SANTIAGO ALVAREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58953",
+   "Nombre": "THIAGO EPHERRE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "59749",
+   "Nombre": "FACUNDO SORIA HORNOS",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "58954",
+   "Nombre": "JOAQUIN BERMUDEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "56678",
+   "Nombre": "GUILLERMO GABRIEL STUART",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58680",
+   "Nombre": "JOAQUIN AISCAR",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "58679",
+   "Nombre": "JOAQUIN MARZIALI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "58676",
+   "Nombre": "JUAN MANUEL VALDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55791",
+   "Nombre": "NAHUEL AGUSTIN ALVAREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68553",
+   "Nombre": "VALENTIN LEMA",
+   "camiseta": "84",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57239",
+   "Nombre": "THIAGO PENA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "68767",
+   "Nombre": "FRANCISCO MIGUEL LOPEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64635",
+   "Nombre": "JOAQUIN DUARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59006",
+   "Nombre": "IGNACIO MAYORA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62613",
+   "Nombre": "IGNACIO GODIÑO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "61987",
+   "Nombre": "AGUSTIN NOVO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63486",
+   "Nombre": "FEDERICO DAISSON",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64637",
+   "Nombre": "THIAGO ANDRES SOUTO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "64640",
+   "Nombre": "FACUNDO VAZQUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67904",
+   "Nombre": "NICOLAS PEREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66783",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59749",
+   "Jug_Sale": "FACUNDO SORIA HORNOS",
+   "CarneEntra": "55728",
+   "Jug_Entra": "JOAQUIN KUDLIK",
+   "camiseta": "14",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "58954",
+   "Jug_Sale": "JOAQUIN BERMUDEZ",
+   "CarneEntra": "66808",
+   "Jug_Entra": "BRUNO MARTIN BENTANCUR",
+   "camiseta": "21",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "58953",
+   "Jug_Sale": "THIAGO EPHERRE",
+   "CarneEntra": "64409",
+   "Jug_Entra": "LUCIANO SALVADOR ARISMENDI",
+   "camiseta": "25",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "55728",
+   "Jug_Sale": "JOAQUIN KUDLIK",
+   "CarneEntra": "58954",
+   "Jug_Entra": "JOAQUIN BERMUDEZ",
+   "camiseta": "77",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63486",
+   "Jug_Sale": "FEDERICO DAISSON",
+   "CarneEntra": "63190",
+   "Jug_Entra": "MAURO CELIBERTI",
+   "camiseta": "80",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "64640",
+   "Jug_Sale": "FACUNDO VAZQUEZ",
+   "CarneEntra": "65462",
+   "Jug_Entra": "VALENTINO MARTIN BONILLA",
+   "camiseta": "27",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "66783",
+   "Jug_Sale": "JUAN MANUEL RODRIGUEZ",
+   "CarneEntra": "57145",
+   "Jug_Entra": "JOAQUIN GARABEDIAN",
+   "camiseta": "9",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "IGNACIO GODIÑO",
+   "observaciones": ""
+  }
+ ]
+}

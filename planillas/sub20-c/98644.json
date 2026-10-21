@@ -1,0 +1,294 @@
+{
+ "id": "98644",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 15:30:00",
+ "cancha": "COMPLEJO DFC",
+ "local": "DFC",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 5,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "262",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DFC",
+  "Fecha_Inicio": "2026-04-25 17:20:00",
+  "Fecha_fin": "2026-04-25 17:20:00",
+  "Locatario": "DFC",
+  "goles_locatario": "5",
+  "puntos_locatario": "1",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "5",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67601",
+   "Nombre": "CONSTANTINO VIERAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67470",
+   "Nombre": "THIAGO JOEL DOS SANTOS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67598",
+   "Nombre": "THIAGO ALEXANDER LOPEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67590",
+   "Nombre": "GASTON MATEO ALONSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67469",
+   "Nombre": "SANTIAGO DANIEL DE LA LLANA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67480",
+   "Nombre": "MATIAS LUCIANO MOYA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67460",
+   "Nombre": "MATHIAS NAHUEL FAGUNDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56925",
+   "Nombre": "EZEQUIEL LUCAS VIGNOLI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67934",
+   "Nombre": "EZEQUIEL ISMAEL FERNANDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67462",
+   "Nombre": "BLAZ DANCKAR LANGHAIN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67935",
+   "Nombre": "MATIAS GONZALO DUARTE",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66339",
+   "Nombre": "MATEO MARCOS FAZIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59555",
+   "Nombre": "JUAN MANUEL BIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64219",
+   "Nombre": "GASTON MARTINEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "56611",
+   "Nombre": "SEBASTIAN SAR",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62420",
+   "Nombre": "MATIAS LABORDE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "60337",
+   "Nombre": "MATEO GLISENTI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66778",
+   "Nombre": "SANTIAGO MACEDO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "58608",
+   "Nombre": "BAUTISTA ANDRES TERRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57343",
+   "Nombre": "FEDERICO PELUFFO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54757",
+   "Nombre": "LUIS IGNACIO MATTERA",
+   "camiseta": "90",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67460",
+   "Jug_Sale": "MATHIAS NAHUEL FAGUNDEZ",
+   "CarneEntra": "67929",
+   "Jug_Entra": "EMILIANO BURGAINS",
+   "camiseta": "13",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "67470",
+   "Jug_Sale": "THIAGO JOEL DOS SANTOS",
+   "CarneEntra": "67602",
+   "Jug_Entra": "VALENTINO LAUTARO DE ARMAS",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67462",
+   "Jug_Sale": "BLAZ DANCKAR LANGHAIN",
+   "CarneEntra": "67607",
+   "Jug_Entra": "LAUTARO ALEXANDER ALANIS",
+   "camiseta": "19",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "56925",
+   "Jug_Sale": "EZEQUIEL LUCAS VIGNOLI",
+   "CarneEntra": "67465",
+   "Jug_Entra": "IGANCIO CAMEJO",
+   "camiseta": "21",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56611",
+   "Jug_Sale": "SEBASTIAN SAR",
+   "CarneEntra": "56305",
+   "Jug_Entra": "FRANCO GLISENTI",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58608",
+   "Jug_Sale": "BAUTISTA ANDRES TERRA",
+   "CarneEntra": "67885",
+   "Jug_Entra": "THIAGO STROZZI",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67885",
+   "Jug_Sale": "THIAGO STROZZI",
+   "CarneEntra": "66525",
+   "Jug_Entra": "MATIAS QUEIJO",
+   "camiseta": "30",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67469",
+   "Nombre": "SANTIAGO DANIEL DE LA LLANA",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67480",
+   "Nombre": "MATIAS LUCIANO MOYA",
+   "minutos": "35",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67934",
+   "Nombre": "EZEQUIEL ISMAEL FERNANDEZ",
+   "minutos": "1",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67934",
+   "Nombre": "EZEQUIEL ISMAEL FERNANDEZ",
+   "minutos": "23",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67934",
+   "Nombre": "EZEQUIEL ISMAEL FERNANDEZ",
+   "minutos": "51",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "minutos": "56",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57343",
+   "Nombre": "FEDERICO PELUFFO",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58608",
+   "Nombre": "BAUTISTA ANDRES TERRA",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "minutos": "16",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

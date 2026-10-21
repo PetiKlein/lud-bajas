@@ -1,0 +1,238 @@
+{
+ "id": "102596",
+ "categoria": "reserva-a",
+ "serie": "RSAT",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "620",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"A\" TITULO",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-10-03 10:50:00",
+  "Fecha_fin": "2026-10-03 10:50:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53624",
+   "Nombre": "MATEO OURTHE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55476",
+   "Nombre": "IGNACIO MELLO",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "55602",
+   "Nombre": "CAETANO MARRONE",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "45826",
+   "Nombre": "VALENTIN DE LEONARDIS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "40716",
+   "Nombre": "JOAQUIN NICOLAS LESSA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59740",
+   "Nombre": "IGNACIO LOPEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59470",
+   "Nombre": "FABRICIO OLIVERA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39045",
+   "Nombre": "SANTIAGO ASTIGARRAGA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "33559",
+   "Nombre": "JULIO ALEXANDER GURIDI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "37258",
+   "Nombre": "LUIS PEDRO LENGUAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "41575",
+   "Nombre": "MANUEL TERRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "47515",
+   "Nombre": "JUAN MARIA SEIZER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47505",
+   "Nombre": "NICOLAS MARTIN DECKER",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "47503",
+   "Nombre": "FRANCO CHIAPPARA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "39036",
+   "Nombre": "MANUEL LEIVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53930",
+   "Nombre": "MAXIMO RICARDO SEIZER",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "41581",
+   "Nombre": "ALFONSO SIMETO",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55476",
+   "Jug_Sale": "IGNACIO MELLO",
+   "CarneEntra": "55719",
+   "Jug_Entra": "NICOLAS REY",
+   "camiseta": "14",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "53595",
+   "Jug_Sale": "CARLOS GONZALO DANERS",
+   "CarneEntra": "48838",
+   "Jug_Entra": "BRUNO GRAJALES",
+   "camiseta": "27",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47505",
+   "Jug_Sale": "NICOLAS MARTIN DECKER",
+   "CarneEntra": "47508",
+   "Jug_Entra": "HERNAN HARDOY",
+   "camiseta": "39",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "41581",
+   "Jug_Sale": "ALFONSO SIMETO",
+   "CarneEntra": "48369",
+   "Jug_Entra": "LUCA BERTINI",
+   "camiseta": "14",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "39036",
+   "Jug_Sale": "MANUEL LEIVA",
+   "CarneEntra": "47413",
+   "Jug_Entra": "LUCAS MARTIN VILLARONGA",
+   "camiseta": "32",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "37258",
+   "Jug_Sale": "LUIS PEDRO LENGUAS",
+   "CarneEntra": "51653",
+   "Jug_Entra": "JOSE MARIA TEJERA",
+   "camiseta": "18",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "minutos": "33",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "41581",
+   "Nombre": "ALFONSO SIMETO",
+   "minutos": "2",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

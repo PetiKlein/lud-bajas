@@ -1,0 +1,278 @@
+{
+ "id": "98980",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 15:30:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "TROUVILLE UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "158",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-05-16 00:00:00",
+  "Fecha_fin": "2026-05-16 00:00:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "TROUVILLE UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58657",
+   "Nombre": "SANTIAGO CID DE LA PAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58801",
+   "Nombre": "SALVADOR GARCIA LAGOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58600",
+   "Nombre": "JUAN IGNACIO ACOSTA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58601",
+   "Nombre": "LUCAS LENZI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58602",
+   "Nombre": "IGNACIO COSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57598",
+   "Nombre": "LUCAS KEUSHKERIAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58604",
+   "Nombre": "JUAN MARTIN VERZERI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58798",
+   "Nombre": "MATEO FRAGA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58652",
+   "Nombre": "AGUSTIN OXACELHAY",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59721",
+   "Nombre": "AGUSTIN NICOLAS ESPINOSA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54804",
+   "Nombre": "JUAN PEDRO FERNANDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56567",
+   "Nombre": "IGNACIO AGUSTIN CABRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61630",
+   "Nombre": "LUCAS ISMAEL MONZILLO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68629",
+   "Nombre": "MATEO SVARCAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "57502",
+   "Nombre": "LUCA LANDONI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64954",
+   "Nombre": "ENZO LAUTARO DADOMO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67210",
+   "Nombre": "FACUNDO ALVAREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59032",
+   "Nombre": "GONZALO DE FREITAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "66252",
+   "Nombre": "VALENTINO PIZZORNO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67686",
+   "Nombre": "JEREMIAS ALZAIBAR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61628",
+   "Nombre": "TOMAS VAZQUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59296",
+   "Nombre": "LAUTARO MARTIN VERA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59721",
+   "Jug_Sale": "AGUSTIN NICOLAS ESPINOSA",
+   "CarneEntra": "55501",
+   "Jug_Entra": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58601",
+   "Jug_Sale": "LUCAS LENZI",
+   "CarneEntra": "56199",
+   "Jug_Entra": "MATIAS ANDRES MORAES",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57598",
+   "Jug_Sale": "LUCAS KEUSHKERIAN",
+   "CarneEntra": "58655",
+   "Jug_Entra": "MATIAS DONNANGELO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58652",
+   "Jug_Sale": "AGUSTIN OXACELHAY",
+   "CarneEntra": "61256",
+   "Jug_Entra": "FRANCO CHELINI",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58798",
+   "Jug_Sale": "MATEO FRAGA",
+   "CarneEntra": "57342",
+   "Jug_Entra": "FABRIZIO TIERI",
+   "camiseta": "15",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68629",
+   "Jug_Sale": "MATEO SVARCAS",
+   "CarneEntra": "57275",
+   "Jug_Entra": "SANTINO DI PROSSIMO",
+   "camiseta": "7",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "61628",
+   "Jug_Sale": "TOMAS VAZQUEZ",
+   "CarneEntra": "58378",
+   "Jug_Entra": "MANUEL DE LEON",
+   "camiseta": "17",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "67686",
+   "Jug_Sale": "JEREMIAS ALZAIBAR",
+   "CarneEntra": "57180",
+   "Jug_Entra": "SANTIAGO DUPONT",
+   "camiseta": "8",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "66252",
+   "Jug_Sale": "VALENTINO PIZZORNO",
+   "CarneEntra": "67208",
+   "Jug_Entra": "CAMILO PEREZ",
+   "camiseta": "15",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58601",
+   "Nombre": "LUCAS LENZI",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64954",
+   "Nombre": "ENZO LAUTARO DADOMO",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67686",
+   "Nombre": "JEREMIAS ALZAIBAR",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN IGNACIO ACOSTA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "FACUNDO ALVAREZ",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+ "id": "98965",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 15:30:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "CARRASCO POLO CLUB",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "154",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-05-16 17:05:00",
+  "Fecha_fin": "2026-05-16 17:05:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CARRASCO POLO CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59906",
+   "Nombre": "MATEO FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63070",
+   "Nombre": "MATIAS GABRIEL TEIJEIRO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67295",
+   "Nombre": "IVAN GONZALEZ",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "68294",
+   "Nombre": "FEDERICO CLAVARES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63069",
+   "Nombre": "JOAQUIN MADERNI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "67653",
+   "Nombre": "EMILIANO PIETRAFESA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67297",
+   "Nombre": "TIZIANO LANDO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67294",
+   "Nombre": "LIQUEL COLOMBO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65323",
+   "Nombre": "LUCAS ROBERTO IBARRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60952",
+   "Nombre": "JUAN IGNACIO MORATORIO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "63867",
+   "Nombre": "THIAGO BENJAMIN GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64576",
+   "Nombre": "MATEO MACHADO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62494",
+   "Nombre": "FRANCISCO JESUS GUERRERO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "56790",
+   "Nombre": "JUAN BAUTISTA GUEDES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62036",
+   "Nombre": "FRANCO COLMAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59056",
+   "Nombre": "TOMAS MANGINI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59748",
+   "Nombre": "SANTIAGO MENDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55483",
+   "Nombre": "IGNACIO PAGES",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56786",
+   "Nombre": "JUAN DIEGO CASTELLS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60825",
+   "Nombre": "THIAGO NAHUEL CORDERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60513",
+   "Nombre": "GONZALO DE ALMEIDA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "60516",
+   "Nombre": "ENZO BARIZO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63867",
+   "Jug_Sale": "THIAGO BENJAMIN GONZALEZ",
+   "CarneEntra": "67299",
+   "Jug_Entra": "FRANCO NICOLAS PURTSCHER",
+   "camiseta": "38",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65323",
+   "Jug_Sale": "LUCAS ROBERTO IBARRA",
+   "CarneEntra": "64354",
+   "Jug_Entra": "MATEO NARTALLO",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67294",
+   "Jug_Sale": "LIQUEL COLOMBO",
+   "CarneEntra": "67392",
+   "Jug_Entra": "AGUSTIN YAPOR",
+   "camiseta": "17",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "63069",
+   "Jug_Sale": "JOAQUIN MADERNI",
+   "CarneEntra": "65324",
+   "Jug_Entra": "SANTINO MENENDEZ",
+   "camiseta": "20",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "60952",
+   "Jug_Sale": "JUAN IGNACIO MORATORIO",
+   "CarneEntra": "67391",
+   "Jug_Entra": "SANTIAGO SEBASTIAN RDORIGUEZ",
+   "camiseta": "7",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60516",
+   "Jug_Sale": "ENZO BARIZO",
+   "CarneEntra": "57347",
+   "Jug_Entra": "FACUNDO COSTA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60513",
+   "Jug_Sale": "GONZALO DE ALMEIDA",
+   "CarneEntra": "56795",
+   "Jug_Entra": "JUAN BENJAMIN STIRLING",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59056",
+   "Jug_Sale": "TOMAS MANGINI",
+   "CarneEntra": "59058",
+   "Jug_Entra": "VALENTIN MANGINI",
+   "camiseta": "3",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "60825",
+   "Jug_Sale": "THIAGO NAHUEL CORDERO",
+   "CarneEntra": "66104",
+   "Jug_Entra": "ELIAS AARON RODRIGUEZ",
+   "camiseta": "19",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "55483",
+   "Jug_Sale": "IGNACIO PAGES",
+   "CarneEntra": "62037",
+   "Jug_Entra": "JOAQUIN ROLDAN",
+   "camiseta": "6",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "56790",
+   "Jug_Sale": "JUAN BAUTISTA GUEDES",
+   "CarneEntra": "63595",
+   "Jug_Entra": "TIAGO LAZO",
+   "camiseta": "18",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "57347",
+   "Nombre": "FACUNDO COSTA",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57347",
+   "Nombre": "FACUNDO COSTA",
+   "minutos": "76",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "IVAN GONZALEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

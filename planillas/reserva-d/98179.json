@@ -1,0 +1,261 @@
+{
+ "id": "98179",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "POLIDEPORTIVO FAUQUET",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "368",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "POLIDEPORTIVO FAUQUET",
+  "Fecha_Inicio": "2026-04-18 13:00:00",
+  "Fecha_fin": "2026-04-18 13:00:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67481",
+   "Nombre": "DYLAN IVAN VALLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61430",
+   "Nombre": "GASTON NICOLAS DE OLIVEIRA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52388",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61751",
+   "Nombre": "NAHUEL PEREZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64726",
+   "Nombre": "JOSE VALENTIN VILA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65708",
+   "Nombre": "FACUNDO TAROCO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "58675",
+   "Nombre": "CARMELO COCCO",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "62016",
+   "Nombre": "MARCO TADEO CRISTINO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "58911",
+   "Nombre": "NICOLAS MOSQUEIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61420",
+   "Nombre": "DIEGO ALEXANDER GOTTERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62014",
+   "Nombre": "ESTEBAN GABRIEL RODRIGUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54766",
+   "Nombre": "MARCOS FEIT",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46472",
+   "Nombre": "GUILLERMO VON SANDEN",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55262",
+   "Nombre": "GONZALO LEANDRO FERREIRA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "33333",
+   "Nombre": "DIEGO MARTIN CASTIÑEIRAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53289",
+   "Nombre": "BRUNO CRISAFULLI",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "51610",
+   "Nombre": "PABLO VALDOMIR",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "49110",
+   "Nombre": "CAMILO BALIAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "46451",
+   "Nombre": "GONZALO CAMESELLA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55254",
+   "Nombre": "ANDRES GUILLERMO COITO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "57658",
+   "Nombre": "IGNACIO MIERES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "49192",
+   "Nombre": "JUAN MARTIN ROCCA",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58911",
+   "Jug_Sale": "NICOLAS MOSQUEIRA",
+   "CarneEntra": "52685",
+   "Jug_Entra": "PABLO NICOLAS ABREU",
+   "camiseta": "6",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "58675",
+   "Jug_Sale": "CARMELO COCCO",
+   "CarneEntra": "49989",
+   "Jug_Entra": "JOAQUIN NICOLAS JORAJURIA",
+   "camiseta": "10",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "49989",
+   "Jug_Sale": "JOAQUIN NICOLAS JORAJURIA",
+   "CarneEntra": "58675",
+   "Jug_Entra": "CARMELO COCCO",
+   "camiseta": "81",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49110",
+   "Jug_Sale": "CAMILO BALIAN",
+   "CarneEntra": "62069",
+   "Jug_Entra": "SANTIAGO SILVA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51610",
+   "Jug_Sale": "PABLO VALDOMIR",
+   "CarneEntra": "55161",
+   "Jug_Entra": "MATEO GONZALEZ",
+   "camiseta": "3",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "49192",
+   "Jug_Sale": "JUAN MARTIN ROCCA",
+   "CarneEntra": "53662",
+   "Jug_Entra": "LUCAS ONETTO",
+   "camiseta": "88",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "55254",
+   "Jug_Sale": "ANDRES GUILLERMO COITO",
+   "CarneEntra": "58348",
+   "Jug_Entra": "JOAQUIN GUANI",
+   "camiseta": "43",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "46451",
+   "Jug_Sale": "GONZALO CAMESELLA",
+   "CarneEntra": "56794",
+   "Jug_Entra": "BRUNO REY",
+   "camiseta": "81",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "55262",
+   "Jug_Sale": "GONZALO LEANDRO FERREIRA",
+   "CarneEntra": "37751",
+   "Jug_Entra": "AGUSTIN KOSEC",
+   "camiseta": "17",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52388",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "minutos": "81",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65708",
+   "Nombre": "FACUNDO TAROCO",
+   "minutos": "45",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

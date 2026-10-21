@@ -1,0 +1,255 @@
+{
+ "id": "99353",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "51",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-05-30 13:10:00",
+  "Fecha_fin": "2026-05-30 13:10:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41005",
+   "Nombre": "NICOLAS RAFFO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41007",
+   "Nombre": "GERARDO SACCO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39903",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "31878",
+   "Nombre": "MAXIMILIANO SALA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "36474",
+   "Nombre": "FEDERICO ILAN ISRAEL",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "41534",
+   "Nombre": "DIEGO NICOLAS CHIJANE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "48917",
+   "Nombre": "FRANCISCO ALGORTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "47761",
+   "Nombre": "JUAN IGNACIO POTRIE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "49620",
+   "Nombre": "ALEJO ZEFFERINO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "44810",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59470",
+   "Nombre": "FABRICIO OLIVERA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54974",
+   "Nombre": "SANTIAGO BOCAGE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "47413",
+   "Nombre": "LUCAS MARTIN VILLARONGA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "67091",
+   "Nombre": "FACUNDO TORRES",
+   "camiseta": "59",
+   "Capitan": ""
+  },
+  {
+   "carne": "33559",
+   "Nombre": "JULIO ALEXANDER GURIDI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "37258",
+   "Nombre": "LUIS PEDRO LENGUAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "49027",
+   "Nombre": "BENJAMIN LOPEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54584",
+   "Nombre": "BENJAMIN CAPELLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "54590",
+   "Nombre": "ALFONSO MAILHOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "41581",
+   "Nombre": "ALFONSO SIMETO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "37272",
+   "Nombre": "JUAN LUIS IRULEGUY",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44810",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "41009",
+   "Jug_Entra": "BRUNO NICOLAS RAVERA",
+   "camiseta": "52",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "49620",
+   "Jug_Sale": "ALEJO ZEFFERINO",
+   "CarneEntra": "39933",
+   "Jug_Entra": "TOMAS KLEIST",
+   "camiseta": "70",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37258",
+   "Jug_Sale": "LUIS PEDRO LENGUAS",
+   "CarneEntra": "37275",
+   "Jug_Entra": "JOSE MARIA MAÑE",
+   "camiseta": "4",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "54590",
+   "Jug_Sale": "ALFONSO MAILHOS",
+   "CarneEntra": "49032",
+   "Jug_Entra": "LUIS GONZALO VARGAS",
+   "camiseta": "67",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "54974",
+   "Jug_Sale": "SANTIAGO BOCAGE",
+   "CarneEntra": "39223",
+   "Jug_Entra": "SEBASTIAN OTTO MATSCHULAT",
+   "camiseta": "64",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "67091",
+   "Jug_Sale": "FACUNDO TORRES",
+   "CarneEntra": "34986",
+   "Jug_Entra": "FELIPE ANTONIO AZADIAN",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49027",
+   "Jug_Sale": "BENJAMIN LOPEZ",
+   "CarneEntra": "47505",
+   "Jug_Entra": "NICOLAS MARTIN DECKER",
+   "camiseta": "66",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "47413",
+   "Jug_Sale": "LUCAS MARTIN VILLARONGA",
+   "CarneEntra": "62664",
+   "Jug_Entra": "JUAN MARTIN MUÑOZ",
+   "camiseta": "53",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "37258",
+   "Jug_Sale": "LUIS PEDRO LENGUAS",
+   "CarneEntra": "49030",
+   "Jug_Entra": "FRANCISCO MARTINEZ",
+   "camiseta": "70",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47761",
+   "Nombre": "JUAN IGNACIO POTRIE",
+   "minutos": "41",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

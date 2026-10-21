@@ -1,0 +1,240 @@
+{
+ "id": "102764",
+ "categoria": "mayores-e",
+ "serie": "ETA",
+ "fecha": 3,
+ "fechaHora": "2026-10-11 11:15:00",
+ "cancha": "()",
+ "local": "SAN CONO",
+ "visitante": "BODY FACTORY",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "1074",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"E\" TIT. y ASC.",
+  "Cancha": "()",
+  "Fecha_Inicio": "2026-10-11 13:05:00",
+  "Fecha_fin": "2026-10-11 13:05:00",
+  "Locatario": "SAN CONO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "BODY FACTORY",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "34347",
+   "Nombre": "DIEGO MARTIN BALDRIZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "49275",
+   "Nombre": "ALEJO DE GIOBBI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61281",
+   "Nombre": "LUCAS OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59254",
+   "Nombre": "MATIAS NICOLAS AUDIFFRED",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67333",
+   "Nombre": "GASTON EXEQUIEL SARMIENTO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "51990",
+   "Nombre": "LUCAS JOAQUIN DORTA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47089",
+   "Nombre": "GUSTAVO ISMAEL DUARTE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67159",
+   "Nombre": "BRUNO CORREA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "60768",
+   "Nombre": "BRADLEY JESUS COLLAZO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63753",
+   "Nombre": "ESTEBAN MAXIMILIANO SASTRE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51146",
+   "Nombre": "JOSE IGNACIO PIZZINI",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58335",
+   "Nombre": "IVAN LACHAISE",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "68878",
+   "Nombre": "EMILIANO NERES",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "52122",
+   "Nombre": "FRANCO GABRIEL PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "60127",
+   "Nombre": "NAHUEL VIERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "45538",
+   "Nombre": "LUCAS TORRAZZA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "44961",
+   "Nombre": "WALTER RENZO SERVETTI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "43511",
+   "Nombre": "FABIAN AUGUSTO SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "44017",
+   "Nombre": "EDUARDO LUIS SUAREZ",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67303",
+   "Nombre": "DANIEL ANDRES NOVO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "41743",
+   "Nombre": "LUCAS EXEQUIEL DIANESSI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51146",
+   "Jug_Sale": "JOSE IGNACIO PIZZINI",
+   "CarneEntra": "60352",
+   "Jug_Entra": "MARCOS ALEN CALLEJA",
+   "camiseta": "7",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59254",
+   "Jug_Sale": "MATIAS NICOLAS AUDIFFRED",
+   "CarneEntra": "61532",
+   "Jug_Entra": "JUAN IGNACIO OLIVERA",
+   "camiseta": "13",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "63753",
+   "Jug_Sale": "ESTEBAN MAXIMILIANO SASTRE",
+   "CarneEntra": "63361",
+   "Jug_Entra": "JUAN MANUEL GONZALVEZ",
+   "camiseta": "11",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68878",
+   "Jug_Sale": "EMILIANO NERES",
+   "CarneEntra": "52329",
+   "Jug_Entra": "DIEGO ENRIQUE EMENS",
+   "camiseta": "17",
+   "minutos": "22"
+  },
+  {
+   "CarneSale": "67303",
+   "Jug_Sale": "DANIEL ANDRES NOVO",
+   "CarneEntra": "54413",
+   "Jug_Entra": "NICOLAS EMANUEL GOMEZ",
+   "camiseta": "90",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "43511",
+   "Jug_Sale": "FABIAN AUGUSTO SUAREZ",
+   "CarneEntra": "69153",
+   "Jug_Entra": "DENIS NAHUEL MARTIRENA",
+   "camiseta": "11",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "41743",
+   "Jug_Sale": "LUCAS EXEQUIEL DIANESSI",
+   "CarneEntra": "43511",
+   "Jug_Entra": "FABIAN AUGUSTO SUAREZ",
+   "camiseta": "8",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "52122",
+   "Jug_Sale": "FRANCO GABRIEL PEREZ",
+   "CarneEntra": "41743",
+   "Jug_Entra": "LUCAS EXEQUIEL DIANESSI",
+   "camiseta": "10",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

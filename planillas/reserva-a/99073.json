@@ -1,0 +1,289 @@
+{
+ "id": "99073",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "OLD CHRISTIANS CLUB",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "41",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-05-23 13:20:00",
+  "Fecha_fin": "2026-05-23 13:20:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49632",
+   "Nombre": "JUAN IGNACIO TOURNIER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52852",
+   "Nombre": "DIEGO LOPEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "50926",
+   "Nombre": "THOMAS SCHWARZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "41908",
+   "Nombre": "JUAN MARTIN AZADIAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "50128",
+   "Nombre": "JUAN ANDRES GIL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57328",
+   "Nombre": "IÑAKI ODRIOZOLA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "50929",
+   "Nombre": "JUAN MANUEL CASELLA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "camiseta": "91",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "54025",
+   "Nombre": "JOSE IGNACIO ARBILLA",
+   "camiseta": "68",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52821",
+   "Nombre": "FACUNDO STORACE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37259",
+   "Nombre": "IGNACIO MACHADO",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "67291",
+   "Nombre": "AUGUSTO PAULLIER",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "52819",
+   "Nombre": "IÑAKI LARRAECHEA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "42070",
+   "Nombre": "FRANCISCO GUADALUPE",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "30724",
+   "Nombre": "FEDERICO RICARDO MOLINS",
+   "camiseta": "93",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52331",
+   "Nombre": "JOSE PEDRO PARODI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51135",
+   "Nombre": "JOAQUIN FABREGAT",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55392",
+   "Nombre": "SANTIAGO COSTA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48430",
+   "Nombre": "JUAN MARTIN FAVARO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "38",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49632",
+   "Jug_Sale": "JUAN IGNACIO TOURNIER",
+   "CarneEntra": "49156",
+   "Jug_Entra": "MATHIAS SOARES DE LIMA",
+   "camiseta": "28",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "57328",
+   "Jug_Sale": "IÑAKI ODRIOZOLA",
+   "CarneEntra": "55358",
+   "Jug_Entra": "MATTEO REICHERT",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50926",
+   "Jug_Sale": "THOMAS SCHWARZ",
+   "CarneEntra": "52356",
+   "Jug_Entra": "FELIPE ROBAINA",
+   "camiseta": "69",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "41908",
+   "Jug_Sale": "JUAN MARTIN AZADIAN",
+   "CarneEntra": "52853",
+   "Jug_Entra": "NICOLAS SAINTAGNE",
+   "camiseta": "85",
+   "minutos": "66"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30724",
+   "Jug_Sale": "FEDERICO RICARDO MOLINS",
+   "CarneEntra": "37170",
+   "Jug_Entra": "SEBASTIAN REGULES",
+   "camiseta": "71",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "55392",
+   "Jug_Sale": "SANTIAGO COSTA",
+   "CarneEntra": "64683",
+   "Jug_Entra": "ALBERTO FELIPE ROSSO",
+   "camiseta": "62",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "48430",
+   "Jug_Sale": "JUAN MARTIN FAVARO",
+   "CarneEntra": "49655",
+   "Jug_Entra": "HERNAN ALEGRESA",
+   "camiseta": "70",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "42070",
+   "Jug_Sale": "FRANCISCO GUADALUPE",
+   "CarneEntra": "39426",
+   "Jug_Entra": "FRANCO CRISCI",
+   "camiseta": "5",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "51135",
+   "Jug_Sale": "JOAQUIN FABREGAT",
+   "CarneEntra": "46771",
+   "Jug_Entra": "SANTIAGO HAM",
+   "camiseta": "11",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "37259",
+   "Jug_Sale": "IGNACIO MACHADO",
+   "CarneEntra": "32431",
+   "Jug_Entra": "BENJAMIN BUNGE",
+   "camiseta": "94",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "66722",
+   "Jug_Sale": "JOAQUIN RODRIGUEZ",
+   "CarneEntra": "52608",
+   "Jug_Entra": "SANTIAGO MARCELO MACHADO",
+   "camiseta": "28",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "49655",
+   "Nombre": "HERNAN ALEGRESA",
+   "minutos": "69",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55392",
+   "Nombre": "SANTIAGO COSTA",
+   "minutos": "37",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64683",
+   "Nombre": "ALBERTO FELIPE ROSSO",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "minutos": "24",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

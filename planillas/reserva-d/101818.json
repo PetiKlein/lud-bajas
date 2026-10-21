@@ -1,0 +1,289 @@
+{
+ "id": "101818",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 3,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "CERVANTES UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "510",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-12 13:15:00",
+  "Fecha_fin": "2026-09-12 13:15:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CERVANTES UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54088",
+   "Nombre": "GIANFRANCO ROSSI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41215",
+   "Nombre": "NICOLAS BERTRAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "53472",
+   "Nombre": "EMILIANO BASTARRICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54822",
+   "Nombre": "FELIPE CARDENAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49353",
+   "Nombre": "NICOLAS URRETAVIZCAYA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46794",
+   "Nombre": "RAMIRO IVAN GONZALEZ",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45494",
+   "Nombre": "RODRIGO CARLOS BARLA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67256",
+   "Nombre": "RODRIGO VEGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67443",
+   "Nombre": "LUCA GENTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "47607",
+   "Nombre": "ALEX CLARK",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "59275",
+   "Nombre": "JOAQUIN SILVERA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67441",
+   "Nombre": "FACUNDO RANDO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "55193",
+   "Nombre": "BRUNO BUERO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "52723",
+   "Nombre": "FELIPE CARLOS DE CARVALHO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67442",
+   "Nombre": "TOMAS MARTINEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "57959",
+   "Nombre": "SANTINO GUIDA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67255",
+   "Nombre": "MATIAS TEJEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49353",
+   "Jug_Sale": "NICOLAS URRETAVIZCAYA",
+   "CarneEntra": "46907",
+   "Jug_Entra": "ERNESTO BAUMGARTNER",
+   "camiseta": "10",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "46909",
+   "Jug_Sale": "FEDERICO KARDJIAN",
+   "CarneEntra": "55105",
+   "Jug_Entra": "SANTIAGO ROBALLO",
+   "camiseta": "22",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "54822",
+   "Jug_Sale": "FELIPE CARDENAS",
+   "CarneEntra": "52001",
+   "Jug_Entra": "JOSE PEDRO DELGADO",
+   "camiseta": "26",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "46794",
+   "Jug_Sale": "RAMIRO IVAN GONZALEZ",
+   "CarneEntra": "47703",
+   "Jug_Entra": "BRUNO PAULINO",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "41215",
+   "Jug_Sale": "NICOLAS BERTRAN",
+   "CarneEntra": "50059",
+   "Jug_Entra": "FEDERICO VÀZQUEZ",
+   "camiseta": "18",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "54629",
+   "Jug_Sale": "FEDERICO HERNANDEZ",
+   "CarneEntra": "60668",
+   "Jug_Entra": "JOAQUIN IGNACIO PARNIZARI",
+   "camiseta": "28",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67442",
+   "Jug_Sale": "TOMAS MARTINEZ",
+   "CarneEntra": "59265",
+   "Jug_Entra": "MATEO JOAQUIN ECHARTEA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57959",
+   "Jug_Sale": "SANTINO GUIDA",
+   "CarneEntra": "52671",
+   "Jug_Entra": "JUAN MARTIN CANO",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67442",
+   "Jug_Sale": "TOMAS MARTINEZ",
+   "CarneEntra": "59270",
+   "Jug_Entra": "FACUNDO SANTIAGO LUCIANO",
+   "camiseta": "6",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67256",
+   "Jug_Sale": "RODRIGO VEGA",
+   "CarneEntra": "59269",
+   "Jug_Entra": "MIGUEL PEREYRA",
+   "camiseta": "7",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "67441",
+   "Jug_Sale": "FACUNDO RANDO",
+   "CarneEntra": "52924",
+   "Jug_Entra": "AGUSTIN REBOLEDO",
+   "camiseta": "21",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46794",
+   "Nombre": "RAMIRO IVAN GONZALEZ",
+   "minutos": "48",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47703",
+   "Nombre": "BRUNO PAULINO",
+   "minutos": "92",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67442",
+   "Nombre": "TOMAS MARTINEZ",
+   "minutos": "19",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JOAQUIN SILVERA",
+   "observaciones": ""
+  }
+ ]
+}

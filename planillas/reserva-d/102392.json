@@ -1,0 +1,307 @@
+{
+ "id": "102392",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 5,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "YOUNG UNIVERSITARIO",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "517",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-09-26 13:19:00",
+  "Fecha_fin": "2026-09-26 13:19:00",
+  "Locatario": "YOUNG UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57753",
+   "Nombre": "DIEGO ALONSO RAMIREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58823",
+   "Nombre": "JUSTINO LAFLUF",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67395",
+   "Nombre": "VALENTINO SACRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64739",
+   "Nombre": "SANTIAGO SCREMINI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56157",
+   "Nombre": "JEREMIAS SILVEIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "66212",
+   "Nombre": "TOMAS AGUSTIN SANTOS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64742",
+   "Nombre": "GASPAR HERMOSO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67431",
+   "Nombre": "EMILIANO ACOSTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62237",
+   "Nombre": "SANTINO ACOSTA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66499",
+   "Nombre": "LEANDRO HORACIO SELVES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "45823",
+   "Nombre": "AGUSTIN CALLEJAS",
+   "camiseta": "88",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67161",
+   "Nombre": "RODRIGO DURAN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "62868",
+   "Nombre": "TOMAS LICIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "49114",
+   "Nombre": "ALVARO DANIEL CHILDE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "57080",
+   "Nombre": "NICOLAS GEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58013",
+   "Nombre": "IÑAKI GUDE",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "56017",
+   "Nombre": "TIAGO PERDOMO",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "55321",
+   "Nombre": "MATEO AGUSTIN MIRABALLES",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "63477",
+   "Nombre": "JUAN VICENTE AZEVEDO",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56157",
+   "Jug_Sale": "JEREMIAS SILVEIRA",
+   "CarneEntra": "64245",
+   "Jug_Entra": "THIAGO RUPPEL",
+   "camiseta": "19",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "64742",
+   "Jug_Sale": "GASPAR HERMOSO",
+   "CarneEntra": "69117",
+   "Jug_Entra": "FRANCISCO MENENDEZ",
+   "camiseta": "81",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "67431",
+   "Jug_Sale": "EMILIANO ACOSTA",
+   "CarneEntra": "52893",
+   "Jug_Entra": "EZEQUIEL FRANCO",
+   "camiseta": "9",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "64739",
+   "Jug_Sale": "SANTIAGO SCREMINI",
+   "CarneEntra": "62225",
+   "Jug_Entra": "FELIPE GONZALEZ",
+   "camiseta": "2",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "64599",
+   "Jug_Sale": "CRISTIANO MATIAS PIGNATA",
+   "CarneEntra": "64597",
+   "Jug_Entra": "JOAQUIN TUCAT",
+   "camiseta": "19",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67161",
+   "Jug_Sale": "RODRIGO DURAN",
+   "CarneEntra": "69087",
+   "Jug_Entra": "MATEO APOLITO",
+   "camiseta": "22",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "57080",
+   "Jug_Sale": "NICOLAS GEREZ",
+   "CarneEntra": "57107",
+   "Jug_Entra": "ALARIC IAN ROJAS",
+   "camiseta": "10",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "69087",
+   "Jug_Sale": "MATEO APOLITO",
+   "CarneEntra": "69167",
+   "Jug_Entra": "NICOLAS MATIAS SALVO",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57107",
+   "Jug_Sale": "ALARIC IAN ROJAS",
+   "CarneEntra": "57103",
+   "Jug_Entra": "NICOLAS ACOSTA",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "55321",
+   "Jug_Sale": "MATEO AGUSTIN MIRABALLES",
+   "CarneEntra": "69168",
+   "Jug_Entra": "VICTOR MANUEL BATALLA",
+   "camiseta": "99",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63477",
+   "Jug_Sale": "JUAN VICENTE AZEVEDO",
+   "CarneEntra": "57079",
+   "Jug_Entra": "DIEGO DANIEL SANCHEZ",
+   "camiseta": "8",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56157",
+   "Nombre": "JEREMIAS SILVEIRA",
+   "minutos": "2",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62237",
+   "Nombre": "SANTINO ACOSTA",
+   "minutos": "13",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "49114",
+   "Nombre": "ALVARO DANIEL CHILDE",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55321",
+   "Nombre": "MATEO AGUSTIN MIRABALLES",
+   "minutos": "37",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56017",
+   "Nombre": "TIAGO PERDOMO",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "minutos": "62",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "TOMAS AGUSTIN SANTOS",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,284 @@
+{
+ "id": "98235",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "INDEPENDIENTE",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "133",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-04-18 13:10:00",
+  "Fecha_fin": "2026-04-18 13:10:00",
+  "Locatario": "INDEPENDIENTE",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61237",
+   "Nombre": "JOAQUIN HAYMES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48387",
+   "Nombre": "JUAN ANDRES CORREA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "45728",
+   "Nombre": "DIEGO REY",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "42394",
+   "Nombre": "MARTINHO GABRIEL DA COSTA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56420",
+   "Nombre": "LAUTARO SANCHEZ",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "41598",
+   "Nombre": "AGUSTIN TESTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62653",
+   "Nombre": "MATEO DIAZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "65734",
+   "Nombre": "SANTIAGO FLORETTA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "43803",
+   "Nombre": "AGUSTIN GOMEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "48270",
+   "Nombre": "FRANCO MARTIN SANTORO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44846",
+   "Nombre": "ANTONIO JOSE IRAZOQUI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47104",
+   "Nombre": "MATIAS FLORENCIO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48997",
+   "Nombre": "LORENZO NICOLAS RODRIGUEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "43121",
+   "Nombre": "SIRO PIALI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47116",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "43124",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66028",
+   "Nombre": "MATEO AGUSTIN CHAKIYIN",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45728",
+   "Jug_Sale": "DIEGO REY",
+   "CarneEntra": "58968",
+   "Jug_Entra": "NICOLAS CAPECI",
+   "camiseta": "8",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "62653",
+   "Jug_Sale": "MATEO DIAZ",
+   "CarneEntra": "66145",
+   "Jug_Entra": "IGNACIO BERTHEL",
+   "camiseta": "25",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "41598",
+   "Jug_Sale": "AGUSTIN TESTA",
+   "CarneEntra": "57884",
+   "Jug_Entra": "MATEO LAUTARO GONZALEZ",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "42394",
+   "Jug_Sale": "MARTINHO GABRIEL DA COSTA",
+   "CarneEntra": "62653",
+   "Jug_Entra": "MATEO DIAZ",
+   "camiseta": "99",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "42394",
+   "Jug_Sale": "MARTINHO GABRIEL DA COSTA",
+   "CarneEntra": "62549",
+   "Jug_Entra": "LUIS IGNACIO BIDONDO",
+   "camiseta": "32",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "66145",
+   "Jug_Sale": "IGNACIO BERTHEL",
+   "CarneEntra": "45728",
+   "Jug_Entra": "DIEGO REY",
+   "camiseta": "28",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "43124",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "53212",
+   "Jug_Entra": "IONAS PATRICIO JOSPONIS",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66028",
+   "Jug_Sale": "MATEO AGUSTIN CHAKIYIN",
+   "CarneEntra": "68257",
+   "Jug_Entra": "KEVIN NICOLAS CEJAS",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47116",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "39128",
+   "Jug_Entra": "FEDERICO FURQUE",
+   "camiseta": "10",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "54868",
+   "Jug_Sale": "MAXIMILIANO ROMAY",
+   "CarneEntra": "52176",
+   "Jug_Entra": "JUAN MANUEL GONZALEZ",
+   "camiseta": "81",
+   "minutos": "3"
+  },
+  {
+   "CarneSale": "48997",
+   "Jug_Sale": "LORENZO NICOLAS RODRIGUEZ",
+   "CarneEntra": "48970",
+   "Jug_Entra": "SANTIAGO DEL PUERTO",
+   "camiseta": "33",
+   "minutos": "14"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "minutos": "23",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "minutos": "55",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "68257",
+   "Nombre": "KEVIN NICOLAS CEJAS",
+   "minutos": "79",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

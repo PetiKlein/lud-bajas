@@ -1,0 +1,292 @@
+{
+ "id": "102294",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 5,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "CLUB ATLETICO LIMBURGO",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 3,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "582",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-09-26 11:00:00",
+  "Fecha_fin": "2026-09-26 11:00:00",
+  "Locatario": "CLUB ATLETICO LIMBURGO",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67006",
+   "Nombre": "LUIS ANTHONY CENTENO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53151",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "67009",
+   "Nombre": "MATIAS EDUARDO SANCHEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "42809",
+   "Nombre": "EMILIANO WALTER FERREYRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "44079",
+   "Nombre": "FRANCISCO BARRE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "56504",
+   "Nombre": "THIAGO PELLEGRINO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "69125",
+   "Nombre": "IAN CASTILLO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "47345",
+   "Nombre": "JOAQUIN GABRIEL VARELA",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "50881",
+   "Nombre": "THOMAS JESKE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68905",
+   "Nombre": "MATEO IGUINI",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "46385",
+   "Nombre": "FERNANDO EMANUEL FAGALDES",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59728",
+   "Nombre": "ALEJANDRO BOTTO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "62821",
+   "Nombre": "JOAQUIN CHIAPPE",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57069",
+   "Nombre": "FRANCO TERPOLILLI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62075",
+   "Nombre": "SANTIAGO SOSA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "52794",
+   "Nombre": "MAURO LARRROSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "52879",
+   "Nombre": "IGNACIO QUINTANS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "44390",
+   "Nombre": "LEANDRO AGUIAR",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "59772",
+   "Nombre": "MIRKO FELIX FLORA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "40984",
+   "Nombre": "MATHIAS GABRIEL ORTIZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63613",
+   "Nombre": "EUSEBIO CABRAL",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44079",
+   "Jug_Sale": "FRANCISCO BARRE",
+   "CarneEntra": "59742",
+   "Jug_Entra": "MATEO JOSE ONETTO",
+   "camiseta": "15",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "42809",
+   "Jug_Sale": "EMILIANO WALTER FERREYRA",
+   "CarneEntra": "69141",
+   "Jug_Entra": "FACUNDO SANTISO",
+   "camiseta": "13",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "68905",
+   "Jug_Sale": "MATEO IGUINI",
+   "CarneEntra": "62430",
+   "Jug_Entra": "ALEJO MARTIN FONT",
+   "camiseta": "30",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "47345",
+   "Jug_Sale": "JOAQUIN GABRIEL VARELA",
+   "CarneEntra": "68905",
+   "Jug_Entra": "MATEO IGUINI",
+   "camiseta": "88",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57069",
+   "Jug_Sale": "FRANCO TERPOLILLI",
+   "CarneEntra": "59776",
+   "Jug_Entra": "MARTINO LORENZO FLORA",
+   "camiseta": "12",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "59772",
+   "Jug_Sale": "MIRKO FELIX FLORA",
+   "CarneEntra": "62074",
+   "Jug_Entra": "FRANCISCO BURGOS",
+   "camiseta": "28",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "40984",
+   "Jug_Sale": "MATHIAS GABRIEL ORTIZ",
+   "CarneEntra": "56807",
+   "Jug_Entra": "JOAQUIN LUTHAR",
+   "camiseta": "36",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "59765",
+   "Jug_Sale": "SANTIAGO TRIAS",
+   "CarneEntra": "49193",
+   "Jug_Entra": "JUAN PEREZ",
+   "camiseta": "24",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "52879",
+   "Jug_Sale": "IGNACIO QUINTANS",
+   "CarneEntra": "62061",
+   "Jug_Entra": "MAURO CARRERA",
+   "camiseta": "41",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50881",
+   "Nombre": "THOMAS JESKE",
+   "minutos": "1",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50881",
+   "Nombre": "THOMAS JESKE",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50881",
+   "Nombre": "THOMAS JESKE",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "minutos": "37",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "minutos": "74",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59772",
+   "Nombre": "MIRKO FELIX FLORA",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59772",
+   "Nombre": "MIRKO FELIX FLORA",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

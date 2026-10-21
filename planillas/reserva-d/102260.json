@@ -1,0 +1,236 @@
+{
+ "id": "102260",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 5,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "MATURANA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "521",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-26 13:10:00",
+  "Fecha_fin": "2026-09-26 13:10:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "MATURANA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54088",
+   "Nombre": "GIANFRANCO ROSSI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51003",
+   "Nombre": "JOAQUIN DE LOS SANTOS",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "53472",
+   "Nombre": "EMILIANO BASTARRICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54851",
+   "Nombre": "MATIAS MEDEROS",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49353",
+   "Nombre": "NICOLAS URRETAVIZCAYA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46907",
+   "Nombre": "ERNESTO BAUMGARTNER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55560",
+   "Nombre": "JUAN MATEO PELUFO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "52985",
+   "Nombre": "FACUNDO AGUSTIN MARTINEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "41716",
+   "Nombre": "MATEO CASTAGNA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37723",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53762",
+   "Nombre": "MAXIMO VERA",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "47098",
+   "Nombre": "JUAN IGNACIO COITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54861",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55870",
+   "Nombre": "MAURO ORONA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "51163",
+   "Nombre": "MATIAS IVANCICH",
+   "camiseta": "38",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53966",
+   "Jug_Sale": "FELIPE PEREZ",
+   "CarneEntra": "55105",
+   "Jug_Entra": "SANTIAGO ROBALLO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46909",
+   "Jug_Sale": "FEDERICO KARDJIAN",
+   "CarneEntra": "54822",
+   "Jug_Entra": "FELIPE CARDENAS",
+   "camiseta": "20",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "49353",
+   "Jug_Sale": "NICOLAS URRETAVIZCAYA",
+   "CarneEntra": "50059",
+   "Jug_Entra": "FEDERICO VÀZQUEZ",
+   "camiseta": "18",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51163",
+   "Jug_Sale": "MATIAS IVANCICH",
+   "CarneEntra": "37188",
+   "Jug_Entra": "CLAUDIO SEBASTIAN FERREIRA",
+   "camiseta": "26",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "55870",
+   "Jug_Sale": "MAURO ORONA",
+   "CarneEntra": "56622",
+   "Jug_Entra": "GONZALO APKARIAN",
+   "camiseta": "35",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "54861",
+   "Jug_Sale": "FEDERICO GARCIA",
+   "CarneEntra": "52617",
+   "Jug_Entra": "TOMAS ARECIERI",
+   "camiseta": "6",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MAXIMO VERA",
+   "observaciones": ""
+  }
+ ]
+}

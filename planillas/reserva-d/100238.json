@@ -1,0 +1,274 @@
+{
+ "id": "100238",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO 1GOL",
+ "local": "CERVANTES UNIVERSITARIO",
+ "visitante": "ARQUITECTURA JRS.",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "418",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO 1GOL",
+  "Fecha_Inicio": "2026-06-20 13:10:00",
+  "Fecha_fin": "2026-06-20 13:10:00",
+  "Locatario": "CERVANTES UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "ARQUITECTURA JRS.",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66635",
+   "Nombre": "SANTIAGO JAVIER RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67445",
+   "Nombre": "JUAN MARTIN TRIVEL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "47607",
+   "Nombre": "ALEX CLARK",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "59114",
+   "Nombre": "MAXIMILAINO PARDIE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67256",
+   "Nombre": "RODRIGO VEGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52723",
+   "Nombre": "FELIPE CARLOS DE CARVALHO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55193",
+   "Nombre": "BRUNO BUERO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "59273",
+   "Nombre": "PEDRO MALOSETTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63649",
+   "Nombre": "AXEL EDUARDO CANTERO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "67255",
+   "Nombre": "MATIAS TEJEIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67442",
+   "Nombre": "TOMAS MARTINEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67481",
+   "Nombre": "DYLAN IVAN VALLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61751",
+   "Nombre": "NAHUEL PEREZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "52388",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "68588",
+   "Nombre": "ALEXIS GUASCH",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64726",
+   "Nombre": "JOSE VALENTIN VILA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62014",
+   "Nombre": "ESTEBAN GABRIEL RODRIGUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66791",
+   "Nombre": "VICTOR ARMAND PILON",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "58911",
+   "Nombre": "NICOLAS MOSQUEIRA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58912",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61420",
+   "Nombre": "DIEGO ALEXANDER GOTTERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "56535",
+   "Nombre": "FRANCO NICOLAS BARCELO",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59114",
+   "Jug_Sale": "MAXIMILAINO PARDIE",
+   "CarneEntra": "67443",
+   "Jug_Entra": "LUCA GENTA",
+   "camiseta": "32",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "67255",
+   "Jug_Sale": "MATIAS TEJEIRA",
+   "CarneEntra": "52671",
+   "Jug_Entra": "JUAN MARTIN CANO",
+   "camiseta": "9",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "67442",
+   "Jug_Sale": "TOMAS MARTINEZ",
+   "CarneEntra": "67438",
+   "Jug_Entra": "BRUNO MUSETTI",
+   "camiseta": "25",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "67443",
+   "Jug_Sale": "LUCA GENTA",
+   "CarneEntra": "59265",
+   "Jug_Entra": "MATEO JOAQUIN ECHARTEA",
+   "camiseta": "13",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "59273",
+   "Jug_Sale": "PEDRO MALOSETTI",
+   "CarneEntra": "67441",
+   "Jug_Entra": "FACUNDO RANDO",
+   "camiseta": "30",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68588",
+   "Jug_Sale": "ALEXIS GUASCH",
+   "CarneEntra": "62016",
+   "Jug_Entra": "MARCO TADEO CRISTINO",
+   "camiseta": "90",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "62014",
+   "Jug_Sale": "ESTEBAN GABRIEL RODRIGUEZ",
+   "CarneEntra": "65708",
+   "Jug_Entra": "FACUNDO TAROCO",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67481",
+   "Jug_Sale": "DYLAN IVAN VALLE",
+   "CarneEntra": "48790",
+   "Jug_Entra": "JOAQUIN BORUCKI",
+   "camiseta": "2",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58912",
+   "Jug_Sale": "SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "58675",
+   "Jug_Entra": "CARMELO COCCO",
+   "camiseta": "81",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67255",
+   "Nombre": "MATIAS TEJEIRA",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67255",
+   "Nombre": "MATIAS TEJEIRA",
+   "minutos": "35",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56535",
+   "Nombre": "FRANCO NICOLAS BARCELO",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58911",
+   "Nombre": "NICOLAS MOSQUEIRA",
+   "minutos": "57",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

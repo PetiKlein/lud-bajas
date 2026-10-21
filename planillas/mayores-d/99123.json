@@ -1,0 +1,278 @@
+{
+ "id": "99123",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 6,
+ "fechaHora": "2026-05-24 09:00:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "NUMA TURCATTI",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "408",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-05-24 11:00:00",
+  "Fecha_fin": "2026-05-24 11:00:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "NUMA TURCATTI",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44677",
+   "Nombre": "CARLOS FACUNDO MORENO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "68333",
+   "Nombre": "MARTIN STEFANO POCATERRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54838",
+   "Nombre": "AGUSTIN GANACHIPPI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66317",
+   "Nombre": "SANTIAGO PFEIFF",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59641",
+   "Nombre": "SANTIAGO EZEQUIEL ROSA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54839",
+   "Nombre": "NICOLAS ANTELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63846",
+   "Nombre": "JUAN GONZALO JIMENEZ",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "66880",
+   "Nombre": "FELIPE PFEIFF",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50237",
+   "Nombre": "ADRIAN LUIS PEREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59436",
+   "Nombre": "LAUTARO OLVEIRA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37679",
+   "Nombre": "JORGE ANTONIO PONS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47895",
+   "Nombre": "TOMAS BAZAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54622",
+   "Nombre": "JUAN MANUEL CADENAS",
+   "camiseta": "33",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42774",
+   "Nombre": "LUIS ESTEBAN FERMER",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "54090",
+   "Nombre": "HERNAN ARIEL CAÑETE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59482",
+   "Nombre": "FACUNDO ESCALANTE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61334",
+   "Nombre": "ALAN JAVIER VALERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68506",
+   "Nombre": "NICOLAS MENDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50237",
+   "Jug_Sale": "ADRIAN LUIS PEREIRA",
+   "CarneEntra": "54513",
+   "Jug_Entra": "MATIAS MICHEL TORRES",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63846",
+   "Jug_Sale": "JUAN GONZALO JIMENEZ",
+   "CarneEntra": "59389",
+   "Jug_Entra": "RODRIGO GERMAN FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66880",
+   "Jug_Sale": "FELIPE PFEIFF",
+   "CarneEntra": "64768",
+   "Jug_Entra": "DIEGO ANDRES PERDOMO",
+   "camiseta": "13",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "68333",
+   "Jug_Sale": "MARTIN STEFANO POCATERRA",
+   "CarneEntra": "49250",
+   "Jug_Entra": "SANTIAGO ROO",
+   "camiseta": "10",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "31995",
+   "Jug_Sale": "JORGE IGNACIO DIAZ",
+   "CarneEntra": "59385",
+   "Jug_Entra": "PEDRO CAPDEVIELLE",
+   "camiseta": "20",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "59436",
+   "Jug_Sale": "LAUTARO OLVEIRA",
+   "CarneEntra": "54847",
+   "Jug_Entra": "FRANCO GONZALEZ",
+   "camiseta": "19",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "54839",
+   "Jug_Sale": "NICOLAS ANTELO",
+   "CarneEntra": "66727",
+   "Jug_Entra": "DIEGO JAVIER MONTIGLIO",
+   "camiseta": "23",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54090",
+   "Jug_Sale": "HERNAN ARIEL CAÑETE",
+   "CarneEntra": "57177",
+   "Jug_Entra": "IGNACIO GUERRERO",
+   "camiseta": "6",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "minutos": "29",
+   "EnContra": "0"
+  },
+  {
+   "carne": "44677",
+   "Nombre": "CARLOS FACUNDO MORENO",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54513",
+   "Nombre": "MATIAS MICHEL TORRES",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59436",
+   "Nombre": "LAUTARO OLVEIRA",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59436",
+   "Nombre": "LAUTARO OLVEIRA",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "68506",
+   "Nombre": "NICOLAS MENDEZ",
+   "minutos": "43",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

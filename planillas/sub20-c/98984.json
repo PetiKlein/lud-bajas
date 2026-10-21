@@ -1,0 +1,305 @@
+{
+ "id": "98984",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 15:30:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "274",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-05-16 17:25:00",
+  "Fecha_fin": "2026-05-16 17:25:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63266",
+   "Nombre": "JUAN MANUEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62065",
+   "Nombre": "FEDERICO RUBIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56092",
+   "Nombre": "AGUSTIN TELLECHEA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64901",
+   "Nombre": "TOMAS BELTRAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56788",
+   "Nombre": "TOMAS ANGLADA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "60473",
+   "Nombre": "JUAN AGUSTIN LOPEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62063",
+   "Nombre": "RODRIGO RUBIO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56791",
+   "Nombre": "JOAQUIN BRAGLIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65864",
+   "Nombre": "JOAQUIN PATRON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56794",
+   "Nombre": "BRUNO REY",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57870",
+   "Nombre": "SANTINO BARATE",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57025",
+   "Nombre": "FACUNDO AGUSTIN DA ROSA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58693",
+   "Nombre": "NICOLAS SANTIAGO ALVAREZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "58953",
+   "Nombre": "THIAGO EPHERRE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64409",
+   "Nombre": "LUCIANO SALVADOR ARISMENDI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "67875",
+   "Nombre": "TADEO GARCIA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58680",
+   "Nombre": "JOAQUIN AISCAR",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "65918",
+   "Nombre": "XOSE PABLO JALIFE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "55791",
+   "Nombre": "NAHUEL AGUSTIN ALVAREZ",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68553",
+   "Nombre": "VALENTIN LEMA",
+   "camiseta": "84",
+   "Capitan": ""
+  },
+  {
+   "carne": "58950",
+   "Nombre": "NICOLAS MUSCIO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "58676",
+   "Nombre": "JUAN MANUEL VALDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56791",
+   "Jug_Sale": "JOAQUIN BRAGLIA",
+   "CarneEntra": "64102",
+   "Jug_Entra": "FEDERICO ARIZTI",
+   "camiseta": "21",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "57870",
+   "Jug_Sale": "SANTINO BARATE",
+   "CarneEntra": "66149",
+   "Jug_Entra": "NICOLAS JESUS NUÑEZ",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "56788",
+   "Jug_Sale": "TOMAS ANGLADA",
+   "CarneEntra": "66003",
+   "Jug_Entra": "MANUEL BECERRA",
+   "camiseta": "16",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67875",
+   "Jug_Sale": "TADEO GARCIA",
+   "CarneEntra": "59731",
+   "Jug_Entra": "LUCA SPERANZA",
+   "camiseta": "55",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68553",
+   "Jug_Sale": "VALENTIN LEMA",
+   "CarneEntra": "58755",
+   "Jug_Entra": "FELIPE RODRIGUEZ",
+   "camiseta": "4",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "58950",
+   "Jug_Sale": "NICOLAS MUSCIO",
+   "CarneEntra": "66425",
+   "Jug_Entra": "FACUNDO GONZALEZ",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "58676",
+   "Jug_Sale": "JUAN MANUEL VALDEZ",
+   "CarneEntra": "58679",
+   "Jug_Entra": "JOAQUIN MARZIALI",
+   "camiseta": "30",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65918",
+   "Jug_Sale": "XOSE PABLO JALIFE",
+   "CarneEntra": "56678",
+   "Jug_Entra": "GUILLERMO GABRIEL STUART",
+   "camiseta": "8",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "55791",
+   "Jug_Sale": "NAHUEL AGUSTIN ALVAREZ",
+   "CarneEntra": "58936",
+   "Jug_Entra": "FRANCESCO EMILIO PIZARRO",
+   "camiseta": "88",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58693",
+   "Jug_Sale": "NICOLAS SANTIAGO ALVAREZ",
+   "CarneEntra": "59749",
+   "Jug_Entra": "FACUNDO SORIA HORNOS",
+   "camiseta": "76",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56794",
+   "Nombre": "BRUNO REY",
+   "minutos": "29",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65864",
+   "Nombre": "JOAQUIN PATRON",
+   "minutos": "8",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55791",
+   "Nombre": "NAHUEL AGUSTIN ALVAREZ",
+   "minutos": "12",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58676",
+   "Nombre": "JUAN MANUEL VALDEZ",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58680",
+   "Nombre": "JOAQUIN AISCAR",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58950",
+   "Nombre": "NICOLAS MUSCIO",
+   "minutos": "24",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68553",
+   "Nombre": "VALENTIN LEMA",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "AGUSTIN TELLECHEA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

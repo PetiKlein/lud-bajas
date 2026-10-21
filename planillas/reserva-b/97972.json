@@ -1,0 +1,324 @@
+{
+ "id": "97972",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+ "local": "HEBRAICA UNIVERSITARIO",
+ "visitante": "J.M.L.M",
+ "gl": 1,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "123",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+  "Fecha_Inicio": "2026-04-11 13:30:00",
+  "Fecha_fin": "2026-04-11 13:30:00",
+  "Locatario": "HEBRAICA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45517",
+   "Nombre": "MATIAS WAPNIARSKY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58032",
+   "Nombre": "FEDERICO BENATAR",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62767",
+   "Nombre": "MATIAS PINTO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "45511",
+   "Nombre": "LUCAS LEVIN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54690",
+   "Nombre": "SANTIAGO SISIASVILI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49164",
+   "Nombre": "SEBASTIAN AKERMAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41531",
+   "Nombre": "JOAQUIN BELTRAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45775",
+   "Nombre": "FRANCO GIOSA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49924",
+   "Nombre": "FELIPE BAYARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "46923",
+   "Nombre": "MATEO PARPAL",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47534",
+   "Nombre": "SANTIAGO FLEGINSKY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49501",
+   "Nombre": "TOMAS PARPAL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "53105",
+   "Nombre": "FELIPE FRIGERIO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "50933",
+   "Nombre": "SANTIAGO NICOLAS TIZON",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53177",
+   "Nombre": "MANUEL BAYARDO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51589",
+   "Nombre": "LUCAS TROVO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47379",
+   "Nombre": "FEDERICO DANIEL GONZALEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58032",
+   "Jug_Sale": "FEDERICO BENATAR",
+   "CarneEntra": "45526",
+   "Jug_Entra": "EITAN WUHL",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54690",
+   "Jug_Sale": "SANTIAGO SISIASVILI",
+   "CarneEntra": "43828",
+   "Jug_Entra": "BRUNO ALZARADEL",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49164",
+   "Jug_Sale": "SEBASTIAN AKERMAN",
+   "CarneEntra": "54688",
+   "Jug_Entra": "FEDERICO BONOMO",
+   "camiseta": "8",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "45841",
+   "Jug_Sale": "MATIAS TROSTCHANSKY",
+   "CarneEntra": "52405",
+   "Jug_Entra": "ARIEL SUHAMI",
+   "camiseta": "71",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "53835",
+   "Jug_Sale": "MATEO NAHMIAS",
+   "CarneEntra": "48731",
+   "Jug_Entra": "GASTON FRYDLENDER",
+   "camiseta": "23",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "62767",
+   "Jug_Sale": "MATIAS PINTO",
+   "CarneEntra": "47421",
+   "Jug_Entra": "NICOLAS JAKOB",
+   "camiseta": "77",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64338",
+   "Jug_Sale": "LUCAS DICHTENBERG",
+   "CarneEntra": "54683",
+   "Jug_Entra": "THIAGO PELIART",
+   "camiseta": "22",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50933",
+   "Jug_Sale": "SANTIAGO NICOLAS TIZON",
+   "CarneEntra": "43859",
+   "Jug_Entra": "AGUSTIN MOREIRA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47534",
+   "Jug_Sale": "SANTIAGO FLEGINSKY",
+   "CarneEntra": "53104",
+   "Jug_Entra": "FRANCO MESSANO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47379",
+   "Jug_Sale": "FEDERICO DANIEL GONZALEZ",
+   "CarneEntra": "53376",
+   "Jug_Entra": "GUILLERMO WILSON",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53105",
+   "Jug_Sale": "FELIPE FRIGERIO",
+   "CarneEntra": "53190",
+   "Jug_Entra": "SANTINO CARASSALE",
+   "camiseta": "31",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "49924",
+   "Jug_Sale": "FELIPE BAYARDO",
+   "CarneEntra": "46352",
+   "Jug_Entra": "JUAN PABLO COZZO",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50933",
+   "Jug_Sale": "SANTIAGO NICOLAS TIZON",
+   "CarneEntra": "49924",
+   "Jug_Entra": "FELIPE BAYARDO",
+   "camiseta": "4",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "minutos": "30",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "43859",
+   "Nombre": "AGUSTIN MOREIRA",
+   "minutos": "81",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46923",
+   "Nombre": "MATEO PARPAL",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47379",
+   "Nombre": "FEDERICO DANIEL GONZALEZ",
+   "minutos": "7",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47379",
+   "Nombre": "FEDERICO DANIEL GONZALEZ",
+   "minutos": "44",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47534",
+   "Nombre": "SANTIAGO FLEGINSKY",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53177",
+   "Nombre": "MANUEL BAYARDO",
+   "minutos": "31",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

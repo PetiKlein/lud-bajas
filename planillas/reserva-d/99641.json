@@ -1,0 +1,295 @@
+{
+ "id": "99641",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "COMPLEJO 1GOL",
+ "local": "CERVANTES UNIVERSITARIO",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "407",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO 1GOL",
+  "Fecha_Inicio": "2026-06-06 13:10:00",
+  "Fecha_fin": "2026-06-06 13:10:00",
+  "Locatario": "CERVANTES UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64465",
+   "Nombre": "FABRICIO RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59275",
+   "Nombre": "JOAQUIN SILVERA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56094",
+   "Nombre": "GERONIMO TERRA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47607",
+   "Nombre": "ALEX CLARK",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "67443",
+   "Nombre": "LUCA GENTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "59273",
+   "Nombre": "PEDRO MALOSETTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55193",
+   "Nombre": "BRUNO BUERO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67255",
+   "Nombre": "MATIAS TEJEIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "52924",
+   "Nombre": "AGUSTIN REBOLEDO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67438",
+   "Nombre": "BRUNO MUSETTI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "63649",
+   "Nombre": "AXEL EDUARDO CANTERO",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55264",
+   "Nombre": "JERONIMO LARCADE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55254",
+   "Nombre": "ANDRES GUILLERMO COITO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "33333",
+   "Nombre": "DIEGO MARTIN CASTIÑEIRAS",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53289",
+   "Nombre": "BRUNO CRISAFULLI",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "37751",
+   "Nombre": "AGUSTIN KOSEC",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46472",
+   "Nombre": "GUILLERMO VON SANDEN",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "48912",
+   "Nombre": "MATEO HERNAN CARBALLO",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "44081",
+   "Nombre": "SANTIAGO LIZARAZU",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "34547",
+   "Nombre": "NICOLA PRATTO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57658",
+   "Nombre": "IGNACIO MIERES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "49192",
+   "Nombre": "JUAN MARTIN ROCCA",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67438",
+   "Jug_Sale": "BRUNO MUSETTI",
+   "CarneEntra": "67442",
+   "Jug_Entra": "TOMAS MARTINEZ",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52924",
+   "Jug_Sale": "AGUSTIN REBOLEDO",
+   "CarneEntra": "52671",
+   "Jug_Entra": "JUAN MARTIN CANO",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67255",
+   "Jug_Sale": "MATIAS TEJEIRA",
+   "CarneEntra": "59269",
+   "Jug_Entra": "MIGUEL PEREYRA",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "59273",
+   "Jug_Sale": "PEDRO MALOSETTI",
+   "CarneEntra": "67441",
+   "Jug_Entra": "FACUNDO RANDO",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59275",
+   "Jug_Sale": "JOAQUIN SILVERA",
+   "CarneEntra": "63618",
+   "Jug_Entra": "JOAQUIN RAMOS",
+   "camiseta": "27",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "67443",
+   "Jug_Sale": "LUCA GENTA",
+   "CarneEntra": "67438",
+   "Jug_Entra": "BRUNO MUSETTI",
+   "camiseta": "25",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44081",
+   "Jug_Sale": "SANTIAGO LIZARAZU",
+   "CarneEntra": "49110",
+   "Jug_Entra": "CAMILO BALIAN",
+   "camiseta": "33",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "49192",
+   "Jug_Sale": "JUAN MARTIN ROCCA",
+   "CarneEntra": "53662",
+   "Jug_Entra": "LUCAS ONETTO",
+   "camiseta": "88",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "34547",
+   "Jug_Sale": "NICOLA PRATTO",
+   "CarneEntra": "37662",
+   "Jug_Entra": "FELIPE MARCOS CASAROTTI",
+   "camiseta": "12",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "37751",
+   "Jug_Sale": "AGUSTIN KOSEC",
+   "CarneEntra": "46948",
+   "Jug_Entra": "SANTIAGO CAULA",
+   "camiseta": "90",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "57658",
+   "Jug_Sale": "IGNACIO MIERES",
+   "CarneEntra": "52678",
+   "Jug_Entra": "VALENTINO MASONI",
+   "camiseta": "19",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52671",
+   "Nombre": "JUAN MARTIN CANO",
+   "minutos": "94",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59269",
+   "Nombre": "MIGUEL PEREYRA",
+   "minutos": "92",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59273",
+   "Nombre": "PEDRO MALOSETTI",
+   "minutos": "4",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57658",
+   "Nombre": "IGNACIO MIERES",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "BRUNO CRISAFULLI",
+   "observaciones": ""
+  }
+ ]
+}

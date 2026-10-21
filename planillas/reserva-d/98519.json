@@ -1,0 +1,313 @@
+{
+ "id": "98519",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 09:00:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "CLUB ATLETICO LIMBURGO",
+ "visitante": "SAN AGUSTIN",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "443",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-04-25 11:00:00",
+  "Fecha_fin": "2026-04-25 11:00:00",
+  "Locatario": "CLUB ATLETICO LIMBURGO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SAN AGUSTIN",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67006",
+   "Nombre": "LUIS ANTHONY CENTENO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67009",
+   "Nombre": "MATIAS EDUARDO SANCHEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "44079",
+   "Nombre": "FRANCISCO BARRE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "31775",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "40634",
+   "Nombre": "JUAN MANUEL MONTERO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47345",
+   "Nombre": "JOAQUIN GABRIEL VARELA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53255",
+   "Nombre": "LUCAS CRAVIOTTO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54432",
+   "Nombre": "MATEO SOTELO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "45372",
+   "Nombre": "DAVID ROBIDO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48955",
+   "Nombre": "IGNACIO LOPEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40189",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47395",
+   "Nombre": "ALFONSO ALBERTO CANUTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48999",
+   "Nombre": "FEDERICO CHOCHO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54167",
+   "Nombre": "JOAQUIN DECIA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "47603",
+   "Nombre": "DANILO LUMACA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "55271",
+   "Nombre": "IGNACIO BORETTO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "47401",
+   "Nombre": "FELIPE SEXENIAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47398",
+   "Nombre": "FELIPE GALINDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "45699",
+   "Nombre": "IGNACIO FEDERICO ALESINA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "48900",
+   "Nombre": "AGUSTIN DECIA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "51336",
+   "Nombre": "SEBASTIAN ROCHA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "50991",
+   "Nombre": "MAXIMILIANO GAGLIAMONE",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67009",
+   "Jug_Sale": "MATIAS EDUARDO SANCHEZ",
+   "CarneEntra": "45209",
+   "Jug_Entra": "JUAN MARTIN SUEIRO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44079",
+   "Jug_Sale": "FRANCISCO BARRE",
+   "CarneEntra": "51636",
+   "Jug_Entra": "FACUNDO MARSILI",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54432",
+   "Jug_Sale": "MATEO SOTELO",
+   "CarneEntra": "59742",
+   "Jug_Entra": "MATEO JOSE ONETTO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45209",
+   "Jug_Sale": "JUAN MARTIN SUEIRO",
+   "CarneEntra": "41152",
+   "Jug_Entra": "TOMAS PAPARIELLO",
+   "camiseta": "2",
+   "minutos": "5"
+  },
+  {
+   "CarneSale": "45372",
+   "Jug_Sale": "DAVID ROBIDO",
+   "CarneEntra": "51441",
+   "Jug_Entra": "SANTIAGO DERGAZARIAN",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "40634",
+   "Jug_Sale": "JUAN MANUEL MONTERO",
+   "CarneEntra": "43194",
+   "Jug_Entra": "LUCAS MARTINEZ",
+   "camiseta": "18",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "48955",
+   "Jug_Sale": "IGNACIO LOPEZ",
+   "CarneEntra": "40634",
+   "Jug_Entra": "JUAN MANUEL MONTERO",
+   "camiseta": "20",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "47345",
+   "Jug_Sale": "JOAQUIN GABRIEL VARELA",
+   "CarneEntra": "54432",
+   "Jug_Entra": "MATEO SOTELO",
+   "camiseta": "55",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47603",
+   "Jug_Sale": "DANILO LUMACA",
+   "CarneEntra": "48429",
+   "Jug_Entra": "FEDERICO LORENZO LORENZO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48999",
+   "Jug_Sale": "FEDERICO CHOCHO",
+   "CarneEntra": "52348",
+   "Jug_Entra": "MATEO REYES",
+   "camiseta": "18",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "54167",
+   "Jug_Sale": "JOAQUIN DECIA",
+   "CarneEntra": "50985",
+   "Jug_Entra": "SANTIAGO MOCHETTI",
+   "camiseta": "9",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "51336",
+   "Jug_Sale": "SEBASTIAN ROCHA",
+   "CarneEntra": "54126",
+   "Jug_Entra": "ALEJANDRO DIAZ",
+   "camiseta": "57",
+   "minutos": "6"
+  },
+  {
+   "CarneSale": "55271",
+   "Jug_Sale": "IGNACIO BORETTO",
+   "CarneEntra": "48903",
+   "Jug_Entra": "FEDERICO BICA",
+   "camiseta": "50",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "47398",
+   "Jug_Sale": "FELIPE GALINDEZ",
+   "CarneEntra": "55267",
+   "Jug_Entra": "SANTIAGO SAPRIZA",
+   "camiseta": "77",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "45699",
+   "Nombre": "IGNACIO FEDERICO ALESINA",
+   "minutos": "2",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48999",
+   "Nombre": "FEDERICO CHOCHO",
+   "minutos": "6",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54167",
+   "Nombre": "JOAQUIN DECIA",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55267",
+   "Nombre": "SANTIAGO SAPRIZA",
+   "minutos": "93",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

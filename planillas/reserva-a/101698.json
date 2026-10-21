@@ -1,0 +1,300 @@
+{
+ "id": "101698",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "PLAYA HONDA UNIVERSITARIO",
+ "visitante": "TENIS EL PINAR",
+ "gl": 5,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "90",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-09-05 11:00:00",
+  "Fecha_fin": "2026-09-05 11:00:00",
+  "Locatario": "PLAYA HONDA UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53369",
+   "Nombre": "IVAN BARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53845",
+   "Nombre": "MARTIN CURUTCHAGUE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55177",
+   "Nombre": "MARCO PISANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "58715",
+   "Nombre": "JUAN SEBASTIAN RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49922",
+   "Nombre": "ANDRES PIÑEIRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68323",
+   "Nombre": "FEDERICO SOLDEVILA",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "58718",
+   "Nombre": "FRANCISCO DE LOS SANTOS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "68646",
+   "Nombre": "MARTIN GUADALUPE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "58944",
+   "Nombre": "IGNACIO ALGORTA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "48657",
+   "Nombre": "BRUNO CABRERA",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49076",
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "46848",
+   "Nombre": "FACUNDO BERGARA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48656",
+   "Nombre": "LEANDRO GABRIEL TABEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51806",
+   "Nombre": "MATHIAS SEBASTIAN BARRETO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "46830",
+   "Nombre": "JULIAN NESTOR MUHA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58654",
+   "Nombre": "MATIAS NICOLAS BARRIOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "38029",
+   "Nombre": "NICOLAS AMOEDO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48654",
+   "Nombre": "JUAN PABLO LOCATELLI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68323",
+   "Jug_Sale": "FEDERICO SOLDEVILA",
+   "CarneEntra": "62024",
+   "Jug_Entra": "JUAN MANUEL BOCCHI",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49922",
+   "Jug_Sale": "ANDRES PIÑEIRO",
+   "CarneEntra": "49724",
+   "Jug_Entra": "AGUSTIN TAÑO",
+   "camiseta": "27",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "53845",
+   "Jug_Sale": "MARTIN CURUTCHAGUE",
+   "CarneEntra": "56147",
+   "Jug_Entra": "MAURO MATEO NAVARRINE",
+   "camiseta": "45",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58944",
+   "Jug_Sale": "IGNACIO ALGORTA",
+   "CarneEntra": "60673",
+   "Jug_Entra": "EZEQUIEL CASTAINGTS",
+   "camiseta": "34",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "68646",
+   "Jug_Sale": "MARTIN GUADALUPE",
+   "CarneEntra": "53617",
+   "Jug_Entra": "MAXIMILIANO MONTERO",
+   "camiseta": "31",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "55177",
+   "Jug_Sale": "MARCO PISANO",
+   "CarneEntra": "64499",
+   "Jug_Entra": "ULISES FIORI",
+   "camiseta": "35",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "58718",
+   "Jug_Sale": "FRANCISCO DE LOS SANTOS",
+   "CarneEntra": "54805",
+   "Jug_Entra": "MATIAS PALMERO",
+   "camiseta": "3",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "38029",
+   "Jug_Sale": "NICOLAS AMOEDO",
+   "CarneEntra": "45224",
+   "Jug_Entra": "MARTIN NUÑEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46848",
+   "Jug_Sale": "FACUNDO BERGARA",
+   "CarneEntra": "46833",
+   "Jug_Entra": "TOMAS MEDERO",
+   "camiseta": "9",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "46830",
+   "Jug_Sale": "JULIAN NESTOR MUHA",
+   "CarneEntra": "66604",
+   "Jug_Entra": "IGNACIO DOMINGUEZ",
+   "camiseta": "21",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53617",
+   "Nombre": "MAXIMILIANO MONTERO",
+   "minutos": "84",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58944",
+   "Nombre": "IGNACIO ALGORTA",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62024",
+   "Nombre": "JUAN MANUEL BOCCHI",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62024",
+   "Nombre": "JUAN MANUEL BOCCHI",
+   "minutos": "77",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "minutos": "35",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "minutos": "12",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58654",
+   "Nombre": "MATIAS NICOLAS BARRIOS",
+   "minutos": "14",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

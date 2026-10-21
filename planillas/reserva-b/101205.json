@@ -1,0 +1,282 @@
+{
+ "id": "101205",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "COLEGIO SANTA ELENA",
+ "visitante": "OLD CHRISTIANS BLANCO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "145",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-08-29 13:00:00",
+  "Fecha_fin": "2026-08-29 13:00:00",
+  "Locatario": "COLEGIO SANTA ELENA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS BLANCO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62528",
+   "Nombre": "IGNACIO ARIMON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32390",
+   "Nombre": "JUAN PABLO HERRERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "50889",
+   "Nombre": "IGNACIO VIÑAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "34051",
+   "Nombre": "DANIEL MATIAS CASTRO",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "54752",
+   "Nombre": "EMILIANO FRANCISCO MORALES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "63617",
+   "Nombre": "JOAQUIN DOS SANTOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "26828",
+   "Nombre": "JUAN IGNACIO MANERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51604",
+   "Nombre": "JUAN GABRIEL RUSSO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "56435",
+   "Nombre": "AGUSTIN CAMPODONICO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49318",
+   "Nombre": "FABRIZIO BEIROA",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "57202",
+   "Nombre": "JUAN DIEGO VARELA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68857",
+   "Nombre": "FRANCISCO PINTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51235",
+   "Nombre": "JUAN MARQUES",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67430",
+   "Nombre": "ANDRES VILLAR",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52820",
+   "Nombre": "SEBASTIAN CLEMENTE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "52622",
+   "Nombre": "NICOLAS CLEMENTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "46845",
+   "Nombre": "BAUTISTA VINCENT",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46844",
+   "Nombre": "JOSE ANTONIO GONZALEZ BERRO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47292",
+   "Nombre": "NICOLAS JOSE REGUSCI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51134",
+   "Nombre": "TOMAS LAFFITTE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "51502",
+   "Nombre": "DIEGO VIGORITO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54409",
+   "Nombre": "JOAQUIN IRULEGUY",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56435",
+   "Jug_Sale": "AGUSTIN CAMPODONICO",
+   "CarneEntra": "54884",
+   "Jug_Entra": "NAHUEL LOPEZ",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32390",
+   "Jug_Sale": "JUAN PABLO HERRERO",
+   "CarneEntra": "53403",
+   "Jug_Entra": "DIEGO FERNANDO AGUILERA",
+   "camiseta": "20",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "26828",
+   "Jug_Sale": "JUAN IGNACIO MANERA",
+   "CarneEntra": "58170",
+   "Jug_Entra": "EMILIANO NAHUEL PEREZ",
+   "camiseta": "26",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "57202",
+   "Jug_Sale": "JUAN DIEGO VARELA",
+   "CarneEntra": "58402",
+   "Jug_Entra": "LAUTARO GUIDO",
+   "camiseta": "76",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "63617",
+   "Jug_Sale": "JOAQUIN DOS SANTOS",
+   "CarneEntra": "62652",
+   "Jug_Entra": "NAHUEL SILVA",
+   "camiseta": "29",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46845",
+   "Jug_Sale": "BAUTISTA VINCENT",
+   "CarneEntra": "56128",
+   "Jug_Entra": "FRANCESCO SETTIN",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52622",
+   "Jug_Sale": "NICOLAS CLEMENTE",
+   "CarneEntra": "58500",
+   "Jug_Entra": "FACUNDO LAFFITTE",
+   "camiseta": "17",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "51134",
+   "Jug_Sale": "TOMAS LAFFITTE",
+   "CarneEntra": "48918",
+   "Jug_Entra": "JUAN IGNACIO ROSPIDE",
+   "camiseta": "6",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "51502",
+   "Jug_Sale": "DIEGO VIGORITO",
+   "CarneEntra": "42800",
+   "Jug_Entra": "FEDERICO  IGNACIO HERMIDA",
+   "camiseta": "16",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67430",
+   "Jug_Sale": "ANDRES VILLAR",
+   "CarneEntra": "46842",
+   "Jug_Entra": "JUAN MANUEL HERMIDA",
+   "camiseta": "14",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "26828",
+   "Nombre": "JUAN IGNACIO MANERA",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51502",
+   "Nombre": "DIEGO VIGORITO",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51502",
+   "Nombre": "DIEGO VIGORITO",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67430",
+   "Nombre": "ANDRES VILLAR",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

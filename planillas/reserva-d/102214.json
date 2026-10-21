@@ -1,0 +1,268 @@
+{
+ "id": "102214",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 4,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "ELF BLANCO",
+ "visitante": "ISASA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "512",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-09-19 11:00:00",
+  "Fecha_fin": "2026-09-19 11:00:00",
+  "Locatario": "ELF BLANCO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "ISASA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59826",
+   "Nombre": "ALFONSO BADANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40799",
+   "Nombre": "IGNACIO KAPRIELIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "42785",
+   "Nombre": "MARTIN DANIEL PEREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "45874",
+   "Nombre": "LUCAS BURGHI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61002",
+   "Nombre": "PEDRO RAINERI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "36828",
+   "Nombre": "JUAN GIBERT",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55866",
+   "Nombre": "FEDERICO BUHL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "36849",
+   "Nombre": "LUCAS RICARDO VITOLA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "44977",
+   "Nombre": "FABIO PADULA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56278",
+   "Nombre": "NAHUEL MENDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "48529",
+   "Nombre": "MATHEUS FRANCISCO",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54088",
+   "Nombre": "GIANFRANCO ROSSI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41215",
+   "Nombre": "NICOLAS BERTRAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54851",
+   "Nombre": "MATIAS MEDEROS",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "53472",
+   "Nombre": "EMILIANO BASTARRICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49353",
+   "Nombre": "NICOLAS URRETAVIZCAYA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46794",
+   "Nombre": "RAMIRO IVAN GONZALEZ",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42785",
+   "Jug_Sale": "MARTIN DANIEL PEREZ",
+   "CarneEntra": "51919",
+   "Jug_Entra": "SANTIAGO GRAU PEREZ",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56278",
+   "Jug_Sale": "NAHUEL MENDEZ",
+   "CarneEntra": "38746",
+   "Jug_Entra": "JUAN MANUEL PAGOLA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40799",
+   "Jug_Sale": "IGNACIO KAPRIELIAN",
+   "CarneEntra": "48897",
+   "Jug_Entra": "FRANCISCO BARAIBAR",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61002",
+   "Jug_Sale": "PEDRO RAINERI",
+   "CarneEntra": "54929",
+   "Jug_Entra": "MARTIN TALMON",
+   "camiseta": "16",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "55866",
+   "Jug_Sale": "FEDERICO BUHL",
+   "CarneEntra": "46857",
+   "Jug_Entra": "GABRIEL MARTINEZ",
+   "camiseta": "5",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "36828",
+   "Jug_Sale": "JUAN GIBERT",
+   "CarneEntra": "51154",
+   "Jug_Entra": "JUAN JOSE RAMON SCANDROGLIO",
+   "camiseta": "7",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "45874",
+   "Jug_Sale": "LUCAS BURGHI",
+   "CarneEntra": "42785",
+   "Jug_Entra": "MARTIN DANIEL PEREZ",
+   "camiseta": "18",
+   "minutos": "97"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49353",
+   "Jug_Sale": "NICOLAS URRETAVIZCAYA",
+   "CarneEntra": "46907",
+   "Jug_Entra": "ERNESTO BAUMGARTNER",
+   "camiseta": "10",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "54851",
+   "Jug_Sale": "MATIAS MEDEROS",
+   "CarneEntra": "53800",
+   "Jug_Entra": "JUAN PEDRO HOURCADE",
+   "camiseta": "27",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "53966",
+   "Jug_Sale": "FELIPE PEREZ",
+   "CarneEntra": "54822",
+   "Jug_Entra": "FELIPE CARDENAS",
+   "camiseta": "20",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61002",
+   "Nombre": "PEDRO RAINERI",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "MATHEUS FRANCISCO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

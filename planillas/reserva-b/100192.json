@@ -1,0 +1,292 @@
+{
+ "id": "100192",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 10,
+ "fechaHora": "2026-06-18 21:30:00",
+ "cancha": "LA MENNAIS",
+ "local": "J.M.L.M",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "194",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "LA MENNAIS",
+  "Fecha_Inicio": "2026-06-18 23:20:00",
+  "Fecha_fin": "2026-06-18 23:20:00",
+  "Locatario": "J.M.L.M",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41531",
+   "Nombre": "JOAQUIN BELTRAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45775",
+   "Nombre": "FRANCO GIOSA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53105",
+   "Nombre": "FELIPE FRIGERIO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "51505",
+   "Nombre": "MATEO GIOSA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "47534",
+   "Nombre": "SANTIAGO FLEGINSKY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49924",
+   "Nombre": "FELIPE BAYARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53177",
+   "Nombre": "MANUEL BAYARDO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "47817",
+   "Nombre": "CAMILO GILI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53189",
+   "Nombre": "FEDERICO VIDAL",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51589",
+   "Nombre": "LUCAS TROVO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49622",
+   "Nombre": "STEFANO CERTULO",
+   "camiseta": "36",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56673",
+   "Nombre": "EMILIO MAIDANA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "74",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55630",
+   "Nombre": "SEBASTIAN ALEXIS YANES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56779",
+   "Nombre": "JOAQUIN ELOLA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49808",
+   "Nombre": "BRUNO FERNANDEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "47916",
+   "Nombre": "MARTIN MENDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53458",
+   "Nombre": "SANTIAGO SPARKOV",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "55606",
+   "Nombre": "GONZALO CHIESA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "44165",
+   "Nombre": "FEDERICO ABDO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49924",
+   "Jug_Sale": "FELIPE BAYARDO",
+   "CarneEntra": "53104",
+   "Jug_Entra": "FRANCO MESSANO",
+   "camiseta": "42",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "47817",
+   "Jug_Sale": "CAMILO GILI",
+   "CarneEntra": "53376",
+   "Jug_Entra": "GUILLERMO WILSON",
+   "camiseta": "7",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "49622",
+   "Jug_Sale": "STEFANO CERTULO",
+   "CarneEntra": "48293",
+   "Jug_Entra": "RODRIGO VIDAL",
+   "camiseta": "44",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "51505",
+   "Jug_Sale": "MATEO GIOSA",
+   "CarneEntra": "46352",
+   "Jug_Entra": "JUAN PABLO COZZO",
+   "camiseta": "8",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "47534",
+   "Jug_Sale": "SANTIAGO FLEGINSKY",
+   "CarneEntra": "50448",
+   "Jug_Entra": "JUAN FERNANDO COMPANY",
+   "camiseta": "99",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "51589",
+   "Jug_Sale": "LUCAS TROVO",
+   "CarneEntra": "49895",
+   "Jug_Entra": "AGUSTIN GONZALEZ",
+   "camiseta": "49",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56779",
+   "Jug_Sale": "JOAQUIN ELOLA",
+   "CarneEntra": "51278",
+   "Jug_Entra": "GUILLERMO AGUSTIN BELANDO",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44165",
+   "Jug_Sale": "FEDERICO ABDO",
+   "CarneEntra": "47461",
+   "Jug_Entra": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "16",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "47916",
+   "Jug_Sale": "MARTIN MENDEZ",
+   "CarneEntra": "47472",
+   "Jug_Entra": "JUAN PABLO PLA",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "55606",
+   "Jug_Sale": "GONZALO CHIESA",
+   "CarneEntra": "51004",
+   "Jug_Entra": "AGUSTIN NICOLAS CHARLO",
+   "camiseta": "4",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "57184",
+   "Jug_Sale": "MARCO ESTEBAN TORIELLI",
+   "CarneEntra": "67240",
+   "Jug_Entra": "JUAN MARTIN FAUST",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "49808",
+   "Jug_Sale": "BRUNO FERNANDEZ",
+   "CarneEntra": "47453",
+   "Jug_Entra": "FEDERICO IZA",
+   "camiseta": "18",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51589",
+   "Nombre": "LUCAS TROVO",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53177",
+   "Nombre": "MANUEL BAYARDO",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53458",
+   "Nombre": "SANTIAGO SPARKOV",
+   "minutos": "48",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

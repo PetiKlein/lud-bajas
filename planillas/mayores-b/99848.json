@@ -1,0 +1,284 @@
+{
+ "id": "99848",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 8,
+ "fechaHora": "2026-06-07 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "OLIMAR",
+ "visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "179",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-07 11:00:00",
+  "Fecha_fin": "2026-06-07 11:00:00",
+  "Locatario": "OLIMAR",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66110",
+   "Nombre": "MARIO JOAQUIN BOSSIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60364",
+   "Nombre": "ALFONSO NICOLAS ALMEIDA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "38803",
+   "Nombre": "MAURO LAGOMARSINO",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33338",
+   "Nombre": "IGNACIO INDA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "29643",
+   "Nombre": "DARIO CAMPELO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63395",
+   "Nombre": "DIEGO DANIEL DOS SANTOS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "56979",
+   "Nombre": "MAURO DANIEL MIRABALLES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47310",
+   "Nombre": "ANDRES FEDERICO OLIVERA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "60969",
+   "Nombre": "STEVEN LARROSA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64704",
+   "Nombre": "MARTIN LUCIANO ITURRALDE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57724",
+   "Nombre": "GONZALO MARTIN MESPOLET",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32494",
+   "Nombre": "RAMIRO TACHINI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59868",
+   "Nombre": "LUCAS MARICHAL",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "40527",
+   "Nombre": "SANTIAGO LARRALDE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "43591",
+   "Nombre": "BRUNO LENZUE",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56507",
+   "Nombre": "LUCAS OLIVERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56143",
+   "Nombre": "CARLOS ROBERTO SARDEÑA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "32028",
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53965",
+   "Nombre": "BRUNO MICHELENA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47677",
+   "Nombre": "JUAN PABLO SILVIO NICOLETTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "60972",
+   "Nombre": "FELIPE ARBIZA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "52991",
+   "Nombre": "FRANCO MICHELENA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47310",
+   "Jug_Sale": "ANDRES FEDERICO OLIVERA",
+   "CarneEntra": "47177",
+   "Jug_Entra": "BRUNO BRUM",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64704",
+   "Jug_Sale": "MARTIN LUCIANO ITURRALDE",
+   "CarneEntra": "52565",
+   "Jug_Entra": "NAHUEL AGUSTIN VIGNOLO",
+   "camiseta": "10",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "60364",
+   "Jug_Sale": "ALFONSO NICOLAS ALMEIDA",
+   "CarneEntra": "60171",
+   "Jug_Entra": "YONATHAN FACUNDO ALDAVE",
+   "camiseta": "17",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "57724",
+   "Jug_Sale": "GONZALO MARTIN MESPOLET",
+   "CarneEntra": "65333",
+   "Jug_Entra": "LUCAS DIEGO ALVARIZA",
+   "camiseta": "14",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "60969",
+   "Jug_Sale": "STEVEN LARROSA",
+   "CarneEntra": "58424",
+   "Jug_Entra": "ALFONSO DARIO GIMENEZ",
+   "camiseta": "14",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "56979",
+   "Jug_Sale": "MAURO DANIEL MIRABALLES",
+   "CarneEntra": "52566",
+   "Jug_Entra": "EMILIANO GASTON VIGNOLO",
+   "camiseta": "5",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53965",
+   "Jug_Sale": "BRUNO MICHELENA",
+   "CarneEntra": "60073",
+   "Jug_Entra": "MAXIMILIANO CAMBON",
+   "camiseta": "30",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56143",
+   "Jug_Sale": "CARLOS ROBERTO SARDEÑA",
+   "CarneEntra": "52683",
+   "Jug_Entra": "FRANCO CHEMELLO",
+   "camiseta": "4",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "32028",
+   "Jug_Sale": "FACUNDO RODRIGUEZ",
+   "CarneEntra": "63027",
+   "Jug_Entra": "NICOLAS IÑAKY GUERRA",
+   "camiseta": "20",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "40527",
+   "Jug_Sale": "SANTIAGO LARRALDE",
+   "CarneEntra": "29926",
+   "Jug_Entra": "JOAQUIN TEJERIA",
+   "camiseta": "9",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "56507",
+   "Jug_Sale": "LUCAS OLIVERA",
+   "CarneEntra": "57708",
+   "Jug_Entra": "VALENTIN CUÑA",
+   "camiseta": "32",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57724",
+   "Nombre": "GONZALO MARTIN MESPOLET",
+   "minutos": "56",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64704",
+   "Nombre": "MARTIN LUCIANO ITURRALDE",
+   "minutos": "58",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "60972",
+   "Nombre": "FELIPE ARBIZA",
+   "minutos": "61",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

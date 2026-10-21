@@ -1,0 +1,294 @@
+{
+ "id": "99409",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 15:30:00",
+ "cancha": "COMPLEJO DFC",
+ "local": "DFC",
+ "visitante": "FLORES UNIVERSITARIO",
+ "gl": 8,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "292",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DFC",
+  "Fecha_Inicio": "2026-05-30 17:30:00",
+  "Fecha_fin": "2026-05-30 17:30:00",
+  "Locatario": "DFC",
+  "goles_locatario": "8",
+  "puntos_locatario": "3",
+  "Visitante": "FLORES UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63051",
+   "Nombre": "LUCIANO MONTAÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67469",
+   "Nombre": "SANTIAGO DANIEL DE LA LLANA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67602",
+   "Nombre": "VALENTINO LAUTARO DE ARMAS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67598",
+   "Nombre": "THIAGO ALEXANDER LOPEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67604",
+   "Nombre": "IGNACIO GARCIA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67934",
+   "Nombre": "EZEQUIEL ISMAEL FERNANDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68630",
+   "Nombre": "FACUNDO TOMAS GUEVARA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67460",
+   "Nombre": "MATHIAS NAHUEL FAGUNDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67462",
+   "Nombre": "BLAZ DANCKAR LANGHAIN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67932",
+   "Nombre": "BAUTISTA PAZ",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67714",
+   "Nombre": "VALENTIN ALEJANDRO BALLEJOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62152",
+   "Nombre": "LUCAS POLLERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59231",
+   "Nombre": "FACUNDO FABINI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61527",
+   "Nombre": "MATIAS URIOSTE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "62136",
+   "Nombre": "JUAN PEDRO MONTAÑEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65219",
+   "Nombre": "GASPAR SWINDEN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57672",
+   "Nombre": "SANTIAGO DIEGO OLAZABAL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "60655",
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "62142",
+   "Nombre": "GAEL LERCARI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68367",
+   "Nombre": "JOAQUIN ROMERO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67932",
+   "Jug_Sale": "BAUTISTA PAZ",
+   "CarneEntra": "67480",
+   "Jug_Entra": "MATIAS LUCIANO MOYA",
+   "camiseta": "5",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "67462",
+   "Jug_Sale": "BLAZ DANCKAR LANGHAIN",
+   "CarneEntra": "68453",
+   "Jug_Entra": "CONSTANTINO ROBERTSON",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68453",
+   "Jug_Sale": "CONSTANTINO ROBERTSON",
+   "CarneEntra": "67932",
+   "Jug_Entra": "BAUTISTA PAZ",
+   "camiseta": "13",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67464",
+   "Jug_Sale": "VALENTIN SALVADOR ALFARO",
+   "CarneEntra": "56925",
+   "Jug_Entra": "EZEQUIEL LUCAS VIGNOLI",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67604",
+   "Jug_Sale": "IGNACIO GARCIA",
+   "CarneEntra": "67470",
+   "Jug_Entra": "THIAGO JOEL DOS SANTOS",
+   "camiseta": "2",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67934",
+   "Jug_Sale": "EZEQUIEL ISMAEL FERNANDEZ",
+   "CarneEntra": "67462",
+   "Jug_Entra": "BLAZ DANCKAR LANGHAIN",
+   "camiseta": "9",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62136",
+   "Jug_Sale": "JUAN PEDRO MONTAÑEZ",
+   "CarneEntra": "64934",
+   "Jug_Entra": "PEDRO MANUEL CURBELO",
+   "camiseta": "17",
+   "minutos": "55"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67460",
+   "Nombre": "MATHIAS NAHUEL FAGUNDEZ",
+   "minutos": "36",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67462",
+   "Nombre": "BLAZ DANCKAR LANGHAIN",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67480",
+   "Nombre": "MATIAS LUCIANO MOYA",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67934",
+   "Nombre": "EZEQUIEL ISMAEL FERNANDEZ",
+   "minutos": "50",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67934",
+   "Nombre": "EZEQUIEL ISMAEL FERNANDEZ",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67934",
+   "Nombre": "EZEQUIEL ISMAEL FERNANDEZ",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68630",
+   "Nombre": "FACUNDO TOMAS GUEVARA",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68630",
+   "Nombre": "FACUNDO TOMAS GUEVARA",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62142",
+   "Nombre": "GAEL LERCARI",
+   "minutos": "31",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "minutos": "37",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

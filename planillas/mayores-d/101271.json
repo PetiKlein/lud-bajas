@@ -1,0 +1,253 @@
+{
+ "id": "101271",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 4,
+ "fechaHora": "2026-08-30 09:00:00",
+ "cancha": "SAN EUGENIO",
+ "local": "SAN EUGENIO",
+ "visitante": "PERRY SEXTA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "387",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "SAN EUGENIO",
+  "Fecha_Inicio": "2026-08-30 10:50:00",
+  "Fecha_fin": "2026-08-30 10:50:00",
+  "Locatario": "SAN EUGENIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "PERRY SEXTA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68273",
+   "Nombre": "PABLO NICOLAS CARDOZO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "49779",
+   "Nombre": "DAMIAN EZEQUIEL PALADINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53079",
+   "Nombre": "TOMAS FRANCISCO DE LOS SANTOS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "48023",
+   "Nombre": "RAMIRO MACHADO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61746",
+   "Nombre": "SANTIAGO BRAZEIRO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "37223",
+   "Nombre": "MATIAS FUQUES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37566",
+   "Nombre": "FELIPE CARBALLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46963",
+   "Nombre": "MAICON FERNANDO WITTER GOMEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49973",
+   "Nombre": "ELIAS DANIEL PIEGAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48025",
+   "Nombre": "RODRIGO PRUNELL",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "46931",
+   "Nombre": "HUGO ANDRES PIRIZ",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53706",
+   "Nombre": "RAMIRO CABRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44208",
+   "Nombre": "MANUEL AGUSTIN TRAVERSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "45237",
+   "Nombre": "IGNACIO SANTIAGO DORNEL",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "42885",
+   "Nombre": "NICOLAS FALERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66796",
+   "Nombre": "JOAQUIN ANDRES FRENKEL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "61893",
+   "Nombre": "RAMIRO GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "42883",
+   "Nombre": "AGUSTIN LAZARO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46930",
+   "Nombre": "ENZO JAVIER GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59311",
+   "Nombre": "HUGO YANOS GARCIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50525",
+   "Nombre": "SEBASTIAN ANDRES FLORES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "46197",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46963",
+   "Jug_Sale": "MAICON FERNANDO WITTER GOMEZ",
+   "CarneEntra": "59846",
+   "Jug_Entra": "QUEVIN MACHADO",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48023",
+   "Jug_Sale": "RAMIRO MACHADO",
+   "CarneEntra": "46963",
+   "Jug_Entra": "MAICON FERNANDO WITTER GOMEZ",
+   "camiseta": "7",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "48025",
+   "Jug_Sale": "RODRIGO PRUNELL",
+   "CarneEntra": "48023",
+   "Jug_Entra": "RAMIRO MACHADO",
+   "camiseta": "24",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42883",
+   "Jug_Sale": "AGUSTIN LAZARO",
+   "CarneEntra": "49511",
+   "Jug_Entra": "MATIAS DOS SANTOS",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66796",
+   "Jug_Sale": "JOAQUIN ANDRES FRENKEL",
+   "CarneEntra": "67325",
+   "Jug_Entra": "NICOLAS VAZ",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42885",
+   "Jug_Sale": "NICOLAS FALERO",
+   "CarneEntra": "63421",
+   "Jug_Entra": "LUIS ALFONSO ALMADA",
+   "camiseta": "4",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "61893",
+   "Jug_Sale": "RAMIRO GARCIA",
+   "CarneEntra": "63132",
+   "Jug_Entra": "FACUNDO GARCIA",
+   "camiseta": "26",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "50525",
+   "Jug_Sale": "SEBASTIAN ANDRES FLORES",
+   "CarneEntra": "68926",
+   "Jug_Entra": "MAYCOL HARO",
+   "camiseta": "6",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59846",
+   "Nombre": "QUEVIN MACHADO",
+   "minutos": "79",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68273",
+   "Nombre": "PABLO NICOLAS CARDOZO",
+   "minutos": "95",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

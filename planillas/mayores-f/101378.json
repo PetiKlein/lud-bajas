@@ -1,0 +1,272 @@
+{
+ "id": "101378",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 4,
+ "fechaHora": "2026-08-30 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "TACUAREMBO UNIVERSITARIO",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "626",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-08-30 10:50:00",
+  "Fecha_fin": "2026-08-30 10:50:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "TACUAREMBO UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59906",
+   "Nombre": "MATEO FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47551",
+   "Nombre": "PATRICIO COLLAZO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "61822",
+   "Nombre": "LUCAS PEREIRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59036",
+   "Nombre": "FACUNDO ROSADO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57278",
+   "Nombre": "LUCAS REINOSO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56465",
+   "Nombre": "EZEQUIEL MONTIEL",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "62488",
+   "Nombre": "JOAQUIN SEBASTIAN CASAL",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "60958",
+   "Nombre": "FEDERICO MANUELIAN",
+   "camiseta": "99",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53071",
+   "Nombre": "BRUNO ALEJANDRO ARIGON",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60652",
+   "Nombre": "MATIAS VARELA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "54465",
+   "Nombre": "BRUNO POUND",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51532",
+   "Nombre": "JORGE DANIEL SILVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "43770",
+   "Nombre": "IGNACIO JORGE GRUNFELD",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65189",
+   "Nombre": "ANDERSON NAUEL JARA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "65787",
+   "Nombre": "LAUTARO GUZMAN SEGREDO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53798",
+   "Nombre": "GREGG DELBONO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64116",
+   "Nombre": "JUAN MARTIN ANSALDO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64715",
+   "Nombre": "RODRIGO CALDAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64574",
+   "Nombre": "CLEMENT AURELIEN R HOUDELINE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64714",
+   "Nombre": "GONZALO CALDAS",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "56984",
+   "Nombre": "SANTIAGO RAMOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49474",
+   "Nombre": "JUAN IGNACIO DOELLO",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62488",
+   "Jug_Sale": "JOAQUIN SEBASTIAN CASAL",
+   "CarneEntra": "59018",
+   "Jug_Entra": "GONZALO GALEANO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47551",
+   "Jug_Sale": "PATRICIO COLLAZO",
+   "CarneEntra": "59015",
+   "Jug_Entra": "IGNACIO SALVADOR PERDOMO",
+   "camiseta": "16",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "54465",
+   "Jug_Sale": "BRUNO POUND",
+   "CarneEntra": "60142",
+   "Jug_Entra": "JOHEL IELPO",
+   "camiseta": "20",
+   "minutos": "69"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49474",
+   "Jug_Sale": "JUAN IGNACIO DOELLO",
+   "CarneEntra": "68871",
+   "Jug_Entra": "SANTIAGO FIDEL CURBELO",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65787",
+   "Jug_Sale": "LAUTARO GUZMAN SEGREDO",
+   "CarneEntra": "31074",
+   "Jug_Entra": "FERNANDO SEBASTIAN BRIZ",
+   "camiseta": "17",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "64116",
+   "Jug_Sale": "JUAN MARTIN ANSALDO",
+   "CarneEntra": "69050",
+   "Jug_Entra": "DIEGO LUIS VAZQUEZ",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56984",
+   "Jug_Sale": "SANTIAGO RAMOS",
+   "CarneEntra": "64115",
+   "Jug_Entra": "FACUNDO SAGASTA",
+   "camiseta": "23",
+   "minutos": "91"
+  },
+  {
+   "CarneSale": "64714",
+   "Jug_Sale": "GONZALO CALDAS",
+   "CarneEntra": "42678",
+   "Jug_Entra": "WILKER NOEL ARAUJO",
+   "camiseta": "8",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59036",
+   "Nombre": "FACUNDO ROSADO",
+   "minutos": "45",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61822",
+   "Nombre": "LUCAS PEREIRA",
+   "minutos": "1",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "49474",
+   "Nombre": "JUAN IGNACIO DOELLO",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64714",
+   "Nombre": "GONZALO CALDAS",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68871",
+   "Nombre": "SANTIAGO FIDEL CURBELO",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

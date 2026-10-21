@@ -1,0 +1,267 @@
+{
+ "id": "101561",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 12,
+ "fechaHora": "2026-09-06 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "LA CUEVA DEL LOBIZON",
+ "visitante": "KENNEDY UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "689",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-06 11:10:00",
+  "Fecha_fin": "2026-09-06 11:10:00",
+  "Locatario": "LA CUEVA DEL LOBIZON",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "KENNEDY UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66301",
+   "Nombre": "FEDERICO BASTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67307",
+   "Nombre": "VALENTIN ROSTAN",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49830",
+   "Nombre": "PABLO RODRIGUEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "45674",
+   "Nombre": "NAHUEL ENRIQUE RUIZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64965",
+   "Nombre": "EMILIANO ANDRES CABRERA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "49909",
+   "Nombre": "PABLO MAYOBRE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62153",
+   "Nombre": "GASTON GRIEGO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64780",
+   "Nombre": "NAHUEL ROSTAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67448",
+   "Nombre": "JOAQUIN LONG",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47277",
+   "Nombre": "RENATO GERMAN MONCALVO",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28805",
+   "Nombre": "FEDERICO ROSSO",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67182",
+   "Nombre": "RAMIRO FERRAGUT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51376",
+   "Nombre": "RENZO ARRIETA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "52915",
+   "Nombre": "MATEO ESTOUP",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "27135",
+   "Nombre": "JOAQUIN PERI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40537",
+   "Nombre": "ALEJANDRO BAUBETA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "26624",
+   "Nombre": "CAMILO REYES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "53877",
+   "Nombre": "MARCOS BERTINAT",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "52887",
+   "Nombre": "ROMEO ALBORNOZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53614",
+   "Nombre": "TIAGO SALHON",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "50369",
+   "Nombre": "EDGARDO FEDERICO PEÑALVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47710",
+   "Nombre": "JUAN PEDRO SILVA",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47277",
+   "Jug_Sale": "RENATO GERMAN MONCALVO",
+   "CarneEntra": "62178",
+   "Jug_Entra": "MATIAS MURIGUENEZ",
+   "camiseta": "50",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62153",
+   "Jug_Sale": "GASTON GRIEGO",
+   "CarneEntra": "60806",
+   "Jug_Entra": "RODRIGO DAMIAN KAHRS",
+   "camiseta": "7",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "64965",
+   "Jug_Sale": "EMILIANO ANDRES CABRERA",
+   "CarneEntra": "62188",
+   "Jug_Entra": "ALEJANDRO ANTUÑA",
+   "camiseta": "6",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "67448",
+   "Jug_Sale": "JOAQUIN LONG",
+   "CarneEntra": "63244",
+   "Jug_Entra": "AGUSTIN ANTUÑA",
+   "camiseta": "3",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53877",
+   "Jug_Sale": "MARCOS BERTINAT",
+   "CarneEntra": "40991",
+   "Jug_Entra": "MAURICIO ROMANO",
+   "camiseta": "28",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "47710",
+   "Jug_Sale": "JUAN PEDRO SILVA",
+   "CarneEntra": "52978",
+   "Jug_Entra": "GUILLERMO COBAS",
+   "camiseta": "4",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "52887",
+   "Jug_Sale": "ROMEO ALBORNOZ",
+   "CarneEntra": "53877",
+   "Jug_Entra": "MARCOS BERTINAT",
+   "camiseta": "27",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "51376",
+   "Jug_Sale": "RENZO ARRIETA",
+   "CarneEntra": "62290",
+   "Jug_Entra": "MANUEL HERNAN HALLER",
+   "camiseta": "19",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "26624",
+   "Jug_Sale": "CAMILO REYES",
+   "CarneEntra": "55235",
+   "Jug_Entra": "MATEO GENTA",
+   "camiseta": "18",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67307",
+   "Nombre": "VALENTIN ROSTAN",
+   "minutos": "95",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53614",
+   "Nombre": "TIAGO SALHON",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "PABLO MAYOBRE",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

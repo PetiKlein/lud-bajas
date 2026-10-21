@@ -1,0 +1,284 @@
+{
+ "id": "101360",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "SAN PABLO UNIVERSITARIO",
+ "visitante": "JUAN XXIII BLANCO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "266",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-08-29 13:08:00",
+  "Fecha_fin": "2026-08-29 13:08:00",
+  "Locatario": "SAN PABLO UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "JUAN XXIII BLANCO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45571",
+   "Nombre": "JOSE MARIA NUÐEZ",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "51080",
+   "Nombre": "AUGUSTO SECCO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "56705",
+   "Nombre": "AGUSTIN ULISES FAGIANI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63209",
+   "Nombre": "VALENTIN MENDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53751",
+   "Nombre": "FELIPE BELLORA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42736",
+   "Nombre": "SANTIAGO SOCA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56490",
+   "Nombre": "PABLO ANDRES SCOFFONE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56700",
+   "Nombre": "FRANCO DELISANTE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51334",
+   "Nombre": "FRANCISCO ENRIQUE TRIAY",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59329",
+   "Nombre": "MATEO LAUTARO FERNANDEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "47151",
+   "Nombre": "THIAGO QUINTAS",
+   "camiseta": "64",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59263",
+   "Nombre": "MAURO ANDRES RUVERTONI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "59802",
+   "Nombre": "VALENTINO GORAN BARREIRO",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "52477",
+   "Nombre": "MATEO FRANCISCO GONZALEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "58842",
+   "Nombre": "ISMAEL DE DIOS",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "55283",
+   "Nombre": "IGNACIO ZABALETA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "54665",
+   "Nombre": "SANTIAGO PRINA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58861",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "50",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53772",
+   "Nombre": "GIULIANO GAZZOLA",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "61867",
+   "Nombre": "MATEO ALVAREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61875",
+   "Nombre": "MARTIN VITABAR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62489",
+   "Nombre": "FACUNDO PASSEGGI",
+   "camiseta": "69",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51080",
+   "Jug_Sale": "AUGUSTO SECCO",
+   "CarneEntra": "54939",
+   "Jug_Entra": "MAURO PEREIRA DAS NEVES",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51334",
+   "Jug_Sale": "FRANCISCO ENRIQUE TRIAY",
+   "CarneEntra": "52895",
+   "Jug_Entra": "RODRIGO MORANDI",
+   "camiseta": "80",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "56700",
+   "Jug_Sale": "FRANCO DELISANTE",
+   "CarneEntra": "53769",
+   "Jug_Entra": "TIAGO DA SILVA",
+   "camiseta": "15",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "59329",
+   "Jug_Sale": "MATEO LAUTARO FERNANDEZ",
+   "CarneEntra": "66219",
+   "Jug_Entra": "JOAQUIN MENENDEZ",
+   "camiseta": "24",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "42736",
+   "Jug_Sale": "SANTIAGO SOCA",
+   "CarneEntra": "50859",
+   "Jug_Entra": "ROCCO DI LEONE",
+   "camiseta": "16",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "53751",
+   "Jug_Sale": "FELIPE BELLORA",
+   "CarneEntra": "36741",
+   "Jug_Entra": "RODRIGO LEONEL DE LA FUENTE",
+   "camiseta": "20",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52477",
+   "Jug_Sale": "MATEO FRANCISCO GONZALEZ",
+   "CarneEntra": "53468",
+   "Jug_Entra": "TOMAS PACHECO",
+   "camiseta": "6",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "53772",
+   "Jug_Sale": "GIULIANO GAZZOLA",
+   "CarneEntra": "49276",
+   "Jug_Entra": "MATEO TECHEIRA",
+   "camiseta": "15",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "58842",
+   "Jug_Sale": "ISMAEL DE DIOS",
+   "CarneEntra": "48876",
+   "Jug_Entra": "EZEQUIEL FERRARI",
+   "camiseta": "27",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "62489",
+   "Jug_Sale": "FACUNDO PASSEGGI",
+   "CarneEntra": "58047",
+   "Jug_Entra": "ALFONSO RODRIGUEZ",
+   "camiseta": "40",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "61875",
+   "Jug_Sale": "MARTIN VITABAR",
+   "CarneEntra": "42547",
+   "Jug_Entra": "RODRIGO FERNANDEZ",
+   "camiseta": "32",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47151",
+   "Nombre": "THIAGO QUINTAS",
+   "minutos": "1",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53772",
+   "Nombre": "GIULIANO GAZZOLA",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58842",
+   "Nombre": "ISMAEL DE DIOS",
+   "minutos": "18",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

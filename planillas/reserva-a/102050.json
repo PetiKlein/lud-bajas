@@ -1,0 +1,268 @@
+{
+ "id": "102050",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "OBC AZULGRANA.",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "109",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-09-19 13:15:00",
+  "Fecha_fin": "2026-09-19 13:15:00",
+  "Locatario": "OBC AZULGRANA.",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "51960",
+   "Nombre": "FEDERICO VAREIKA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34993",
+   "Nombre": "GUILLERMO VIVO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "42685",
+   "Nombre": "FRANCISCO DECURNEX",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42220",
+   "Nombre": "FEDERICO IGLESIAS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55159",
+   "Nombre": "JUAN IGNACIO REICH",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "45119",
+   "Nombre": "MATEO BANDIRALI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42221",
+   "Nombre": "AXEL WILLIAM LINDMAYER",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49021",
+   "Nombre": "JUAN IGNACIO CANESSA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "44982",
+   "Nombre": "FEDERICO RUIZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "42816",
+   "Nombre": "ANDRES BUERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51137",
+   "Nombre": "JULIO FERMIN BLANCO",
+   "camiseta": "40",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58980",
+   "Nombre": "MATEO PONCE DE LEON",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "50926",
+   "Nombre": "THOMAS SCHWARZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "52853",
+   "Nombre": "NICOLAS SAINTAGNE",
+   "camiseta": "85",
+   "Capitan": ""
+  },
+  {
+   "carne": "37177",
+   "Nombre": "DIEGO GARRONE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "52852",
+   "Nombre": "DIEGO LOPEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "50929",
+   "Nombre": "JUAN MANUEL CASELLA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "55358",
+   "Nombre": "MATTEO REICHERT",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53195",
+   "Nombre": "MATIAS GIGIREY",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "camiseta": "91",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51137",
+   "Jug_Sale": "JULIO FERMIN BLANCO",
+   "CarneEntra": "44492",
+   "Jug_Entra": "DIEGO JUAN CORALLO",
+   "camiseta": "7",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "55159",
+   "Jug_Sale": "JUAN IGNACIO REICH",
+   "CarneEntra": "33722",
+   "Jug_Entra": "JUAN IGNACIO MOLINARO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42221",
+   "Jug_Sale": "AXEL WILLIAM LINDMAYER",
+   "CarneEntra": "43472",
+   "Jug_Entra": "JUAN PEDRO VARGAS",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "45119",
+   "Jug_Sale": "MATEO BANDIRALI",
+   "CarneEntra": "40095",
+   "Jug_Entra": "MATIAS ORIBE",
+   "camiseta": "18",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "44982",
+   "Jug_Sale": "FEDERICO RUIZ",
+   "CarneEntra": "51826",
+   "Jug_Entra": "AGUSTIN DEUS",
+   "camiseta": "21",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50926",
+   "Jug_Sale": "THOMAS SCHWARZ",
+   "CarneEntra": "41908",
+   "Jug_Entra": "JUAN MARTIN AZADIAN",
+   "camiseta": "15",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "52646",
+   "Jug_Sale": "JUAN MARTIN BONFIGLIO",
+   "CarneEntra": "48650",
+   "Jug_Entra": "JUAN IGNACIO CERULLO",
+   "camiseta": "11",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "37177",
+   "Jug_Sale": "DIEGO GARRONE",
+   "CarneEntra": "53442",
+   "Jug_Entra": "JUAN RAMON ARBILLA",
+   "camiseta": "45",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "53195",
+   "Jug_Sale": "MATIAS GIGIREY",
+   "CarneEntra": "53196",
+   "Jug_Entra": "JOAQUIN RESTANO",
+   "camiseta": "66",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "52853",
+   "Jug_Sale": "NICOLAS SAINTAGNE",
+   "CarneEntra": "59109",
+   "Jug_Entra": "SANTIAGO ALVAREZ",
+   "camiseta": "82",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "44982",
+   "Nombre": "FEDERICO RUIZ",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "FRANCISCO DECURNEX",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,283 @@
+{
+ "id": "99374",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "CARRASCO POLO CLUB",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "52",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-05-30 10:52:00",
+  "Fecha_fin": "2026-05-30 10:52:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CARRASCO POLO CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67312",
+   "Nombre": "JUAN ANDRES VIÑOLY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55106",
+   "Nombre": "JOAQUIN PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56963",
+   "Nombre": "LUCAS BERTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55500",
+   "Nombre": "TOMAS KEUROGLIAN",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63582",
+   "Nombre": "ENZO GABRIEL URIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53807",
+   "Nombre": "JUAN PEDRO GOMEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58350",
+   "Nombre": "RAMIRO LEONCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "31292",
+   "Nombre": "SANTIAGO ELIAS GAGGERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "50717",
+   "Nombre": "SANTIAGO VEIGA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60494",
+   "Nombre": "PEDRO ALBERTO LISTA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53730",
+   "Nombre": "RENZO MACHIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44087",
+   "Nombre": "FRANCISCO ROURE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "35238",
+   "Nombre": "JUAN MANUEL AVE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47851",
+   "Nombre": "JUAN IGNACIO URRISA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "24454",
+   "Nombre": "EMILIANO PISANO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56444",
+   "Nombre": "DIOGO LAUTARO DE SOUZA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "49037",
+   "Nombre": "SANTIAGO ROVELLA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49245",
+   "Nombre": "FRANCESCO MASONI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "42512",
+   "Nombre": "NICOLAS BOLGER",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43050",
+   "Nombre": "JOAQUIN COMPANY",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47537",
+   "Nombre": "JOAQUIN CANOBBIO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31292",
+   "Jug_Sale": "SANTIAGO ELIAS GAGGERO",
+   "CarneEntra": "52718",
+   "Jug_Entra": "AGUSTIN CHAIA",
+   "camiseta": "24",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "55106",
+   "Jug_Sale": "JOAQUIN PEREZ",
+   "CarneEntra": "50917",
+   "Jug_Entra": "BRUNO MICELI",
+   "camiseta": "28",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "58507",
+   "Jug_Sale": "VALENTINO MUYANO",
+   "CarneEntra": "40692",
+   "Jug_Entra": "NICOLAS COLLINS",
+   "camiseta": "9",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "53807",
+   "Jug_Sale": "JUAN PEDRO GOMEZ",
+   "CarneEntra": "46910",
+   "Jug_Entra": "FELIPE VERDUN",
+   "camiseta": "15",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "43050",
+   "Jug_Sale": "JOAQUIN COMPANY",
+   "CarneEntra": "57349",
+   "Jug_Entra": "FEDERICO LEON PEREZ",
+   "camiseta": "16",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "49245",
+   "Jug_Sale": "FRANCESCO MASONI",
+   "CarneEntra": "41650",
+   "Jug_Entra": "FELIPE ZAS",
+   "camiseta": "7",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "35238",
+   "Jug_Sale": "JUAN MANUEL AVE",
+   "CarneEntra": "48906",
+   "Jug_Entra": "LUCIANO MANGINI",
+   "camiseta": "11",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "56444",
+   "Jug_Sale": "DIOGO LAUTARO DE SOUZA",
+   "CarneEntra": "36092",
+   "Jug_Entra": "ANDRES GABRIEL DIPOLITO",
+   "camiseta": "4",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "47851",
+   "Jug_Sale": "JUAN IGNACIO URRISA",
+   "CarneEntra": "54900",
+   "Jug_Entra": "TOMAS SANTIAGO VILLANUEVA",
+   "camiseta": "3",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "42512",
+   "Jug_Sale": "NICOLAS BOLGER",
+   "CarneEntra": "54410",
+   "Jug_Entra": "THIAGO TOLVE",
+   "camiseta": "6",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "47537",
+   "Jug_Sale": "JOAQUIN CANOBBIO",
+   "CarneEntra": "58221",
+   "Jug_Entra": "DIEGO ALEJANDRO NOGUERA",
+   "camiseta": "19",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60494",
+   "Nombre": "PEDRO ALBERTO LISTA",
+   "minutos": "63",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "54410",
+   "Nombre": "THIAGO TOLVE",
+   "minutos": "96",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "EMILIANO PISANO",
+   "observaciones": ""
+  }
+ ]
+}

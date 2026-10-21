@@ -1,0 +1,297 @@
+{
+ "id": "99480",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 13:30:00",
+ "cancha": "COLEGIO PIO",
+ "local": "DANUBIO FUTBOL CLUB",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "291",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-05-30 15:20:00",
+  "Fecha_fin": "2026-05-30 15:20:00",
+  "Locatario": "DANUBIO FUTBOL CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62320",
+   "Nombre": "JOAQUIN GABRIEL MEDEROS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67454",
+   "Nombre": "JUAN ANDRES FERNANDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67266",
+   "Nombre": "EZEQUIEL ACUÑA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64043",
+   "Nombre": "ALEX FERNANDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64473",
+   "Nombre": "GIANFRANCO MARCHIORO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64282",
+   "Nombre": "FACUNDO BORCHE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64044",
+   "Nombre": "LORENZO RAVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68597",
+   "Nombre": "MAGUER FAYBAN RIVERO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58023",
+   "Nombre": "MANUEL MENDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60155",
+   "Nombre": "LUCAS JULIAN DIAZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65800",
+   "Nombre": "FACUNDO CORONATO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67561",
+   "Nombre": "JOAQUIN MEDINA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58693",
+   "Nombre": "NICOLAS SANTIAGO ALVAREZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "58680",
+   "Nombre": "JOAQUIN AISCAR",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "59749",
+   "Nombre": "FACUNDO SORIA HORNOS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58755",
+   "Nombre": "FELIPE RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56678",
+   "Nombre": "GUILLERMO GABRIEL STUART",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66810",
+   "Nombre": "MANUEL PEDRO CASTELLANO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55791",
+   "Nombre": "NAHUEL AGUSTIN ALVAREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68553",
+   "Nombre": "VALENTIN LEMA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58950",
+   "Nombre": "NICOLAS MUSCIO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "68552",
+   "Nombre": "GUILLERMO ANDRES GONZALEZ",
+   "camiseta": "76",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60155",
+   "Jug_Sale": "LUCAS JULIAN DIAZ",
+   "CarneEntra": "67453",
+   "Jug_Entra": "ADRIAN STEVEN RAMIREZ",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64043",
+   "Jug_Sale": "ALEX FERNANDEZ",
+   "CarneEntra": "68058",
+   "Jug_Entra": "DIEGO CARRERA",
+   "camiseta": "2",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "64282",
+   "Jug_Sale": "FACUNDO BORCHE",
+   "CarneEntra": "67611",
+   "Jug_Entra": "MARIO GABRIEL SABORIDO",
+   "camiseta": "14",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "65800",
+   "Jug_Sale": "FACUNDO CORONATO",
+   "CarneEntra": "67360",
+   "Jug_Entra": "JOAQUIN GURIDI",
+   "camiseta": "10",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "68597",
+   "Jug_Sale": "MAGUER FAYBAN RIVERO",
+   "CarneEntra": "67452",
+   "Jug_Entra": "ESTEBAN GABRIEL DEL CASTILLO",
+   "camiseta": "12",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58950",
+   "Jug_Sale": "NICOLAS MUSCIO",
+   "CarneEntra": "58679",
+   "Jug_Entra": "JOAQUIN MARZIALI",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56678",
+   "Jug_Sale": "GUILLERMO GABRIEL STUART",
+   "CarneEntra": "65918",
+   "Jug_Entra": "XOSE PABLO JALIFE",
+   "camiseta": "33",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "66810",
+   "Jug_Sale": "MANUEL PEDRO CASTELLANO",
+   "CarneEntra": "58936",
+   "Jug_Entra": "FRANCESCO EMILIO PIZARRO",
+   "camiseta": "88",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "68553",
+   "Jug_Sale": "VALENTIN LEMA",
+   "CarneEntra": "66808",
+   "Jug_Entra": "BRUNO MARTIN BENTANCUR",
+   "camiseta": "42",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "55791",
+   "Jug_Sale": "NAHUEL AGUSTIN ALVAREZ",
+   "CarneEntra": "66425",
+   "Jug_Entra": "FACUNDO GONZALEZ",
+   "camiseta": "9",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "58693",
+   "Jug_Sale": "NICOLAS SANTIAGO ALVAREZ",
+   "CarneEntra": "64527",
+   "Jug_Entra": "FELIPE RAMOS",
+   "camiseta": "20",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "59749",
+   "Jug_Sale": "FACUNDO SORIA HORNOS",
+   "CarneEntra": "58954",
+   "Jug_Entra": "JOAQUIN BERMUDEZ",
+   "camiseta": "77",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65800",
+   "Nombre": "FACUNDO CORONATO",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66810",
+   "Nombre": "MANUEL PEDRO CASTELLANO",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66810",
+   "Nombre": "MANUEL PEDRO CASTELLANO",
+   "minutos": "56",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "GUILLERMO GABRIEL STUART",
+   "observaciones": ""
+  }
+ ]
+}

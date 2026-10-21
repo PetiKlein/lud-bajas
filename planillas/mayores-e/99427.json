@@ -1,0 +1,274 @@
+{
+ "id": "99427",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 7,
+ "fechaHora": "2026-05-31 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "BODY FACTORY",
+ "visitante": "OLD SAMPA CLUB",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "536",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-05-31 11:00:00",
+  "Fecha_fin": "2026-05-31 11:00:00",
+  "Locatario": "BODY FACTORY",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "OLD SAMPA CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61129",
+   "Nombre": "LUIS MIGUEL MORA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47286",
+   "Nombre": "CLAUDIO MAXIMILIANO RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60127",
+   "Nombre": "NAHUEL VIERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57938",
+   "Nombre": "EZEQUIEL PEREZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "44961",
+   "Nombre": "WALTER RENZO SERVETTI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "45538",
+   "Nombre": "LUCAS TORRAZZA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "43511",
+   "Nombre": "FABIAN AUGUSTO SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "41743",
+   "Nombre": "LUCAS EXEQUIEL DIANESSI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "39998",
+   "Nombre": "BRANDON MAVERINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "44017",
+   "Nombre": "EDUARDO LUIS SUAREZ",
+   "camiseta": "48",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49163",
+   "Nombre": "RAMON PINTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33875",
+   "Nombre": "ENRIQUE LEGARIA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64910",
+   "Nombre": "MARCOS GIMENEZ",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "67713",
+   "Nombre": "ALAN ZEBALLOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "21634",
+   "Nombre": "MATIAS CALACHA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "27933",
+   "Nombre": "ENRIQUE CALACHA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "23363",
+   "Nombre": "ALEJANDRO CALACHA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "63135",
+   "Nombre": "SERGIO SILVA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "62689",
+   "Nombre": "DYLAN SANTIAGO CORREA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53207",
+   "Nombre": "CAMILO NICOLAS ROSA",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "67715",
+   "Nombre": "TOMAS GONZALO MARQUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64072",
+   "Jug_Sale": "CHARLES GASTON BORBAS",
+   "CarneEntra": "35440",
+   "Jug_Entra": "DIEGO MARTIN BEGUE",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43511",
+   "Jug_Sale": "FABIAN AUGUSTO SUAREZ",
+   "CarneEntra": "58554",
+   "Jug_Entra": "DIAGO COMESAÑA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47286",
+   "Jug_Sale": "CLAUDIO MAXIMILIANO RODRIGUEZ",
+   "CarneEntra": "43511",
+   "Jug_Entra": "FABIAN AUGUSTO SUAREZ",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "44961",
+   "Jug_Sale": "WALTER RENZO SERVETTI",
+   "CarneEntra": "43506",
+   "Jug_Entra": "IGNACIO PAIS",
+   "camiseta": "31",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "44017",
+   "Jug_Sale": "EDUARDO LUIS SUAREZ",
+   "CarneEntra": "67711",
+   "Jug_Entra": "ISMAEL DESCALZI",
+   "camiseta": "33",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "41743",
+   "Jug_Sale": "LUCAS EXEQUIEL DIANESSI",
+   "CarneEntra": "64072",
+   "Jug_Entra": "CHARLES GASTON BORBAS",
+   "camiseta": "20",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "39998",
+   "Jug_Sale": "BRANDON MAVERINO",
+   "CarneEntra": "67303",
+   "Jug_Entra": "DANIEL ANDRES NOVO",
+   "camiseta": "12",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49163",
+   "Jug_Sale": "RAMON PINTOS",
+   "CarneEntra": "62310",
+   "Jug_Entra": "GONZALO EZEQUIEL LLANOS",
+   "camiseta": "30",
+   "minutos": "2"
+  },
+  {
+   "CarneSale": "27933",
+   "Jug_Sale": "ENRIQUE CALACHA",
+   "CarneEntra": "67715",
+   "Jug_Entra": "TOMAS GONZALO MARQUEZ",
+   "camiseta": "2",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "39998",
+   "Nombre": "BRANDON MAVERINO",
+   "minutos": "29",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "27933",
+   "Nombre": "ENRIQUE CALACHA",
+   "minutos": "67",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63135",
+   "Nombre": "SERGIO SILVA",
+   "minutos": "86",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

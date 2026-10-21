@@ -1,0 +1,294 @@
+{
+ "id": "98653",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR SUB22",
+ "visitante": "NUESTRA SEÑORA DE LOURDES",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "439",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-04-25 00:00:00",
+  "Fecha_fin": "2026-04-25 00:00:00",
+  "Locatario": "TENIS EL PINAR SUB22",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "NUESTRA SEÑORA DE LOURDES",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56171",
+   "Nombre": "MARIANO DANIEL OTTONELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52444",
+   "Nombre": "SEBASTIAN CARBAJAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52625",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51804",
+   "Nombre": "JUAN IGNACIO LEIVA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52634",
+   "Nombre": "JUAN IGNACIO QUINTANA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52629",
+   "Nombre": "SEBASTIAN PIRRI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52413",
+   "Nombre": "SANTIAGO MATEU",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66809",
+   "Nombre": "DAVID JOMAR ROSALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66677",
+   "Nombre": "MARCELO PERRONE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66518",
+   "Nombre": "ANDRES CIRO BELVEDER",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66811",
+   "Nombre": "DANIEL SEBASTIAN GUASTAVINO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65209",
+   "Nombre": "CRISTIAN  DANIEL GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "33320",
+   "Nombre": "MARTIN PAZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67455",
+   "Nombre": "ADRIAN DAVID ACOSTA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61515",
+   "Nombre": "ALAN ACOSTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61192",
+   "Nombre": "FEDERICO MESA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64374",
+   "Nombre": "NAHUEL OHOLEGUY",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67680",
+   "Nombre": "NIKOLAS BASEL",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52634",
+   "Jug_Sale": "JUAN IGNACIO QUINTANA",
+   "CarneEntra": "53641",
+   "Jug_Entra": "FACUNDO ROCHA",
+   "camiseta": "16",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "51804",
+   "Jug_Sale": "JUAN IGNACIO LEIVA",
+   "CarneEntra": "53418",
+   "Jug_Entra": "FACUNDO VARIO",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "52640",
+   "Jug_Sale": "VALENTIN COLOMINAS",
+   "CarneEntra": "61528",
+   "Jug_Entra": "SANTIAGO DAMIAN PEREIRA",
+   "camiseta": "12",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57966",
+   "Jug_Sale": "FRANCISCO LOURTET",
+   "CarneEntra": "66514",
+   "Jug_Entra": "MARTIN DIAZ",
+   "camiseta": "7",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66518",
+   "Jug_Sale": "ANDRES CIRO BELVEDER",
+   "CarneEntra": "64816",
+   "Jug_Entra": "FEDERICO JAVIER BARCELO",
+   "camiseta": "0",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33320",
+   "Jug_Sale": "MARTIN PAZ",
+   "CarneEntra": "61998",
+   "Jug_Entra": "GUZMAN COUSELO",
+   "camiseta": "41",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "66677",
+   "Jug_Sale": "MARCELO PERRONE",
+   "CarneEntra": "64819",
+   "Jug_Entra": "MATEO ALBIN",
+   "camiseta": "15",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "67680",
+   "Jug_Sale": "NIKOLAS BASEL",
+   "CarneEntra": "30973",
+   "Jug_Entra": "MAXIMILIANO PEREYRA",
+   "camiseta": "9",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "64374",
+   "Jug_Sale": "NAHUEL OHOLEGUY",
+   "CarneEntra": "66679",
+   "Jug_Entra": "FACUNDO DAVID POMBO",
+   "camiseta": "17",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "65209",
+   "Jug_Sale": "CRISTIAN  DANIEL GARCIA",
+   "CarneEntra": "64374",
+   "Jug_Entra": "NAHUEL OHOLEGUY",
+   "camiseta": "13",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67680",
+   "Jug_Sale": "NIKOLAS BASEL",
+   "CarneEntra": "64816",
+   "Jug_Entra": "FEDERICO JAVIER BARCELO",
+   "camiseta": "11",
+   "minutos": "64"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "minutos": "51",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52629",
+   "Nombre": "SEBASTIAN PIRRI",
+   "minutos": "66",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "32",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "BENICIO BERTIN",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

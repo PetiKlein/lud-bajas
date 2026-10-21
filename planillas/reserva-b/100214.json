@@ -1,0 +1,284 @@
+{
+ "id": "100214",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "199",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-06-20 11:00:00",
+  "Fecha_fin": "2026-06-20 11:00:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61816",
+   "Nombre": "MATEO RAFAEL BRANAA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50631",
+   "Nombre": "LORENZO ALTAMIRANO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52445",
+   "Nombre": "CARLOS MIGUEL RIVERO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "51554",
+   "Nombre": "FELIPE OURTHE-CABALE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "41837",
+   "Nombre": "FRANCISCO DOMINGO COSCO",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55155",
+   "Nombre": "MATIAS DURAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52792",
+   "Nombre": "PABLO TOMAS SILVA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50725",
+   "Nombre": "JUAN IGNACIO ROSSI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53986",
+   "Nombre": "FRANCO CAMPOY",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "44167",
+   "Nombre": "FEDERICO ERNESTO CHIESA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54936",
+   "Nombre": "CARLOS PEDRO MENDIVE",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56603",
+   "Nombre": "MATEO NICOLAS CASTILLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55499",
+   "Nombre": "IGNACIO DANTE FERNANDEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "42722",
+   "Nombre": "LUCAS MORONI",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63264",
+   "Nombre": "FRANCO SEBASTIAN ISLAS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "36517",
+   "Nombre": "MANUEL MATIAS GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "57611",
+   "Nombre": "EZEQUIEL VILLANUEVA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "54067",
+   "Nombre": "JUAN PABLO LOPEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "49048",
+   "Nombre": "EZEQUIEL ESTEFAN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47391",
+   "Nombre": "SEBASTIAN ESTEBAN BRITOS",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "58004",
+   "Nombre": "TIAGO KAMINIETZKY",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "53428",
+   "Nombre": "JUAN MANUEL BALSAS",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51554",
+   "Jug_Sale": "FELIPE OURTHE-CABALE",
+   "CarneEntra": "62790",
+   "Jug_Entra": "JUAN MARTIN MUÑOZ",
+   "camiseta": "92",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "52445",
+   "Jug_Sale": "CARLOS MIGUEL RIVERO",
+   "CarneEntra": "55157",
+   "Jug_Entra": "DIEGO YAQUINTA",
+   "camiseta": "23",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "50725",
+   "Jug_Sale": "JUAN IGNACIO ROSSI",
+   "CarneEntra": "48911",
+   "Jug_Entra": "THIAGO POPELKA",
+   "camiseta": "22",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "52792",
+   "Jug_Sale": "PABLO TOMAS SILVA",
+   "CarneEntra": "62298",
+   "Jug_Entra": "FRANCO RUSSOMANO",
+   "camiseta": "71",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "53986",
+   "Jug_Sale": "FRANCO CAMPOY",
+   "CarneEntra": "55539",
+   "Jug_Entra": "JUAN ANDRES FERREIRA",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "50631",
+   "Jug_Sale": "LORENZO ALTAMIRANO",
+   "CarneEntra": "53852",
+   "Jug_Entra": "SANTIAGO JOSE MARTI",
+   "camiseta": "5",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "44167",
+   "Jug_Sale": "FEDERICO ERNESTO CHIESA",
+   "CarneEntra": "50624",
+   "Jug_Entra": "FACUNDO GALBARINI",
+   "camiseta": "79",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "36517",
+   "Jug_Sale": "MANUEL MATIAS GONZALEZ",
+   "CarneEntra": "60467",
+   "Jug_Entra": "SIMON FABINI",
+   "camiseta": "42",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "58004",
+   "Jug_Sale": "TIAGO KAMINIETZKY",
+   "CarneEntra": "45303",
+   "Jug_Entra": "SANTIAGO PETROCELLI",
+   "camiseta": "10",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "47391",
+   "Jug_Sale": "SEBASTIAN ESTEBAN BRITOS",
+   "CarneEntra": "34982",
+   "Jug_Entra": "GUILLERMO BURGOS",
+   "camiseta": "19",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "53428",
+   "Jug_Sale": "JUAN MANUEL BALSAS",
+   "CarneEntra": "49225",
+   "Jug_Entra": "MATIAS LOPEZ",
+   "camiseta": "40",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "49048",
+   "Jug_Sale": "EZEQUIEL ESTEFAN",
+   "CarneEntra": "45445",
+   "Jug_Entra": "FEDERICO JESUS AGUILERA",
+   "camiseta": "90",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "44167",
+   "Nombre": "FEDERICO ERNESTO CHIESA",
+   "minutos": "77",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "LUCAS MORONI",
+   "observaciones": ""
+  }
+ ]
+}

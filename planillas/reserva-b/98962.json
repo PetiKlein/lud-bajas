@@ -1,0 +1,285 @@
+{
+ "id": "98962",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "159",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-16 11:10:00",
+  "Fecha_fin": "2026-05-16 11:10:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54675",
+   "Nombre": "EMILIANO SALVO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67394",
+   "Nombre": "SANTIAGO ALEJANDRO ECHEVARRIA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49486",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "43172",
+   "Nombre": "HERNAN YAÑEZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "58853",
+   "Nombre": "FRANCISCO GANDIOLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "48450",
+   "Nombre": "MATEO CORREA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "56837",
+   "Nombre": "RENZO BORGATO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "52613",
+   "Nombre": "JUAN MANUEL BUERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58850",
+   "Nombre": "NICOLAS GANDIOLI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "53601",
+   "Nombre": "JOAQUIN CASAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "57648",
+   "Nombre": "FRANCISCO GUILLEN",
+   "camiseta": "76",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59480",
+   "Nombre": "ENZO LEON FREYER",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "55606",
+   "Nombre": "GONZALO CHIESA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "53458",
+   "Nombre": "SANTIAGO SPARKOV",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49808",
+   "Nombre": "BRUNO FERNANDEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "51785",
+   "Nombre": "SEBASTIAN VIGIL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "51004",
+   "Nombre": "AGUSTIN NICOLAS CHARLO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51278",
+   "Nombre": "GUILLERMO AGUSTIN BELANDO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52613",
+   "Jug_Sale": "JUAN MANUEL BUERO",
+   "CarneEntra": "55078",
+   "Jug_Entra": "JOAQUIN CELIBERTI",
+   "camiseta": "18",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "58853",
+   "Jug_Sale": "FRANCISCO GANDIOLI",
+   "CarneEntra": "63275",
+   "Jug_Entra": "SANTIAGO TOMAS PALACIO",
+   "camiseta": "74",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "57648",
+   "Jug_Sale": "FRANCISCO GUILLEN",
+   "CarneEntra": "52613",
+   "Jug_Entra": "JUAN MANUEL BUERO",
+   "camiseta": "16",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51004",
+   "Jug_Sale": "AGUSTIN NICOLAS CHARLO",
+   "CarneEntra": "47472",
+   "Jug_Entra": "JUAN PABLO PLA",
+   "camiseta": "17",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "51278",
+   "Jug_Sale": "GUILLERMO AGUSTIN BELANDO",
+   "CarneEntra": "56779",
+   "Jug_Entra": "JOAQUIN ELOLA",
+   "camiseta": "11",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "53458",
+   "Jug_Sale": "SANTIAGO SPARKOV",
+   "CarneEntra": "44165",
+   "Jug_Entra": "FEDERICO ABDO",
+   "camiseta": "7",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "59477",
+   "Jug_Sale": "NICOLAS PEDRO STEPANIUK",
+   "CarneEntra": "55630",
+   "Jug_Entra": "SEBASTIAN ALEXIS YANES",
+   "camiseta": "2",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "57184",
+   "Jug_Sale": "MARCO ESTEBAN TORIELLI",
+   "CarneEntra": "52135",
+   "Jug_Entra": "LUCAS FONTES",
+   "camiseta": "15",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "65964",
+   "Jug_Sale": "BRUNO QUINELES",
+   "CarneEntra": "53999",
+   "Jug_Entra": "JUAN IGNACIO PORTA",
+   "camiseta": "69",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "49808",
+   "Jug_Sale": "BRUNO FERNANDEZ",
+   "CarneEntra": "47916",
+   "Jug_Entra": "MARTIN MENDEZ",
+   "camiseta": "16",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43172",
+   "Nombre": "HERNAN YAÑEZ",
+   "minutos": "60",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53458",
+   "Nombre": "SANTIAGO SPARKOV",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55606",
+   "Nombre": "GONZALO CHIESA",
+   "minutos": "71",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "RENZO BORGATO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "FRANCISCO GUILLEN",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

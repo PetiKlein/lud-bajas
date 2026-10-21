@@ -1,0 +1,300 @@
+{
+ "id": "101032",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 15,
+ "fechaHora": "2026-08-16 11:15:00",
+ "cancha": "FUERZA AEREA",
+ "local": "CLUB FUERZA AEREA",
+ "visitante": "FLORES UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "720",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "FUERZA AEREA",
+  "Fecha_Inicio": "2026-08-16 13:10:00",
+  "Fecha_fin": "2026-08-16 13:10:00",
+  "Locatario": "CLUB FUERZA AEREA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "FLORES UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35538",
+   "Nombre": "YAIR EDGAR MORALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32201",
+   "Nombre": "CARLOS ANDRES AGUILERA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "32198",
+   "Nombre": "DIEGO MARTIN ACOSTA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "68927",
+   "Nombre": "THIAGO SAMUEL OXLEY",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "41646",
+   "Nombre": "SEBASTIAN DE MEDINA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63481",
+   "Nombre": "FEDERICO CENA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "35573",
+   "Nombre": "MARTIN DEUS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66704",
+   "Nombre": "MATIAS BENITEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "66213",
+   "Nombre": "GONZALO GUZMAN ANTELO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66393",
+   "Nombre": "IVAN MOREIRA MOREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "60642",
+   "Nombre": "LUCAS FACUNDO CORDERO",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41557",
+   "Nombre": "FABRIZZIO DE ARMAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60137",
+   "Nombre": "ELEAZAR TORRES",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "61817",
+   "Nombre": "JHONATAN BALBINO VIERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58511",
+   "Nombre": "LUCAS MOLINA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "36968",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "41475",
+   "Nombre": "DANIEL TORRES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41494",
+   "Nombre": "SERGIO JAVIER HEREDIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "66471",
+   "Nombre": "FACUNDO ADAN VIERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58510",
+   "Nombre": "NANSEN MAURICIO ALDETA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "41932",
+   "Nombre": "SANTIAGO DONO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "52350",
+   "Nombre": "MATIAS IRAZABAL",
+   "camiseta": "50",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68927",
+   "Jug_Sale": "THIAGO SAMUEL OXLEY",
+   "CarneEntra": "60254",
+   "Jug_Entra": "AXEL RAFAEL DAVILA",
+   "camiseta": "14",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "32201",
+   "Jug_Sale": "CARLOS ANDRES AGUILERA",
+   "CarneEntra": "66328",
+   "Jug_Entra": "ALEX SUAREZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35573",
+   "Jug_Sale": "MARTIN DEUS",
+   "CarneEntra": "67300",
+   "Jug_Entra": "BENJAMIN PEREIRA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66213",
+   "Jug_Sale": "GONZALO GUZMAN ANTELO",
+   "CarneEntra": "57418",
+   "Jug_Entra": "YONATHAN EXEQUIEL ACOSTA",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66704",
+   "Jug_Sale": "MATIAS BENITEZ",
+   "CarneEntra": "46316",
+   "Jug_Entra": "SANTIAGO ROLAN",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "68927",
+   "Jug_Sale": "THIAGO SAMUEL OXLEY",
+   "CarneEntra": "66704",
+   "Jug_Entra": "MATIAS BENITEZ",
+   "camiseta": "19",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "41475",
+   "Jug_Sale": "DANIEL TORRES",
+   "CarneEntra": "42894",
+   "Jug_Entra": "MARTIN POLLERO",
+   "camiseta": "77",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "41932",
+   "Jug_Sale": "SANTIAGO DONO",
+   "CarneEntra": "50321",
+   "Jug_Entra": "FERNANDO AGUSTIN SEVERO",
+   "camiseta": "21",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "60137",
+   "Jug_Sale": "ELEAZAR TORRES",
+   "CarneEntra": "63756",
+   "Jug_Entra": "CAMILO PEREZ",
+   "camiseta": "6",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "41494",
+   "Jug_Sale": "SERGIO JAVIER HEREDIA",
+   "CarneEntra": "37074",
+   "Jug_Entra": "BRUNO SANTIAGO ARBIA",
+   "camiseta": "33",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58510",
+   "Jug_Sale": "NANSEN MAURICIO ALDETA",
+   "CarneEntra": "62231",
+   "Jug_Entra": "SANTIAGO TABACAMBI GUERRA",
+   "camiseta": "11",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "66471",
+   "Jug_Sale": "FACUNDO ADAN VIERA",
+   "CarneEntra": "35341",
+   "Jug_Entra": "BRUNO DAMIAN BUENDIA",
+   "camiseta": "13",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "52350",
+   "Jug_Sale": "MATIAS IRAZABAL",
+   "CarneEntra": "61226",
+   "Jug_Entra": "GUILLERMO BAYARRES",
+   "camiseta": "9",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57418",
+   "Nombre": "YONATHAN EXEQUIEL ACOSTA",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "41932",
+   "Nombre": "SANTIAGO DONO",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58510",
+   "Nombre": "NANSEN MAURICIO ALDETA",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

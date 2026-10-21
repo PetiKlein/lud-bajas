@@ -1,0 +1,305 @@
+{
+ "id": "100569",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 11:15:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "OLIMAR",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "208",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-28 13:05:00",
+  "Fecha_fin": "2026-06-28 13:05:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "OLIMAR",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "40708",
+   "Nombre": "MARTIN GABRIEL COURTOISIE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42681",
+   "Nombre": "SEBASTIAN ANTONIO CURA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "42728",
+   "Nombre": "MATEO SELLANES",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "40714",
+   "Nombre": "PIERRE WYAUX",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "40039",
+   "Nombre": "ANDRES FORTE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31527",
+   "Nombre": "ANDRES BERNARDO LEGNANI",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "47809",
+   "Nombre": "ANDRES PEREIRA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "39007",
+   "Nombre": "IGNACIO ESTEVES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40900",
+   "Nombre": "NICOLAS SAGASTI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "39089",
+   "Nombre": "GONZALO PASQUET",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39836",
+   "Nombre": "NICOLAS ALEJANDRO BORDAGORRI",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57165",
+   "Nombre": "LEANDRO MARTIN BOLDRINI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60171",
+   "Nombre": "YONATHAN FACUNDO ALDAVE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52547",
+   "Nombre": "BRAIAN ANDRES FIERRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38803",
+   "Nombre": "MAURO LAGOMARSINO",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33338",
+   "Nombre": "IGNACIO INDA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56979",
+   "Nombre": "MAURO DANIEL MIRABALLES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65333",
+   "Nombre": "LUCAS DIEGO ALVARIZA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55640",
+   "Nombre": "SANTIAGO SUAREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52565",
+   "Nombre": "NAHUEL AGUSTIN VIGNOLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57724",
+   "Nombre": "GONZALO MARTIN MESPOLET",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "60969",
+   "Nombre": "STEVEN LARROSA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47809",
+   "Jug_Sale": "ANDRES PEREIRA",
+   "CarneEntra": "48649",
+   "Jug_Entra": "MATEO MANDIA",
+   "camiseta": "29",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "40900",
+   "Jug_Sale": "NICOLAS SAGASTI",
+   "CarneEntra": "55187",
+   "Jug_Entra": "IGNACIO ANDRES ALVAREZ",
+   "camiseta": "89",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "39007",
+   "Jug_Sale": "IGNACIO ESTEVES",
+   "CarneEntra": "47809",
+   "Jug_Entra": "ANDRES PEREIRA",
+   "camiseta": "26",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "40039",
+   "Jug_Sale": "ANDRES FORTE",
+   "CarneEntra": "39007",
+   "Jug_Entra": "IGNACIO ESTEVES",
+   "camiseta": "10",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "39836",
+   "Jug_Sale": "NICOLAS ALEJANDRO BORDAGORRI",
+   "CarneEntra": "55355",
+   "Jug_Entra": "FACUNDO BELTRAN",
+   "camiseta": "57",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60969",
+   "Jug_Sale": "STEVEN LARROSA",
+   "CarneEntra": "47310",
+   "Jug_Entra": "ANDRES FEDERICO OLIVERA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65333",
+   "Jug_Sale": "LUCAS DIEGO ALVARIZA",
+   "CarneEntra": "58424",
+   "Jug_Entra": "ALFONSO DARIO GIMENEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60171",
+   "Jug_Sale": "YONATHAN FACUNDO ALDAVE",
+   "CarneEntra": "68478",
+   "Jug_Entra": "FELIPE TARAN",
+   "camiseta": "14",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "52547",
+   "Jug_Sale": "BRAIAN ANDRES FIERRO",
+   "CarneEntra": "68533",
+   "Jug_Entra": "GABRIEL OMAR NUÑEZ",
+   "camiseta": "2",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "56979",
+   "Jug_Sale": "MAURO DANIEL MIRABALLES",
+   "CarneEntra": "52242",
+   "Jug_Entra": "AGUSTIN BICA",
+   "camiseta": "18",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "57724",
+   "Jug_Sale": "GONZALO MARTIN MESPOLET",
+   "CarneEntra": "47177",
+   "Jug_Entra": "BRUNO BRUM",
+   "camiseta": "7",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "39089",
+   "Nombre": "GONZALO PASQUET",
+   "minutos": "18",
+   "EnContra": "0"
+  },
+  {
+   "carne": "39089",
+   "Nombre": "GONZALO PASQUET",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "55187",
+   "Nombre": "IGNACIO ANDRES ALVAREZ",
+   "minutos": "84",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52565",
+   "Nombre": "NAHUEL AGUSTIN VIGNOLO",
+   "minutos": "71",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65333",
+   "Nombre": "LUCAS DIEGO ALVARIZA",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MAURO LAGOMARSINO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "SANTIAGO SUAREZ",
+   "observaciones": ""
+  }
+ ]
+}

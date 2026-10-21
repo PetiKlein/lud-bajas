@@ -1,0 +1,244 @@
+{
+ "id": "100377",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "OBC AZULGRANA.",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "79",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-06-20 13:15:00",
+  "Fecha_fin": "2026-06-20 13:15:00",
+  "Locatario": "OBC AZULGRANA.",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "42152",
+   "Nombre": "RODRIGO GATTO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40998",
+   "Nombre": "FELIPE FRUGONE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "37267",
+   "Nombre": "SANTIAGO CABALLERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "33722",
+   "Nombre": "JUAN IGNACIO MOLINARO",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33845",
+   "Nombre": "CARLOS IGNACIO GRILLO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "34993",
+   "Nombre": "GUILLERMO VIVO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "42839",
+   "Nombre": "GERVASIO DE POSADAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "42221",
+   "Nombre": "AXEL WILLIAM LINDMAYER",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "51137",
+   "Nombre": "JULIO FERMIN BLANCO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "44492",
+   "Nombre": "DIEGO JUAN CORALLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "44982",
+   "Nombre": "FEDERICO RUIZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67312",
+   "Nombre": "JUAN ANDRES VIÑOLY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58350",
+   "Nombre": "RAMIRO LEONCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55500",
+   "Nombre": "TOMAS KEUROGLIAN",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56963",
+   "Nombre": "LUCAS BERTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63582",
+   "Nombre": "ENZO GABRIEL URIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53807",
+   "Nombre": "JUAN PEDRO GOMEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "31292",
+   "Nombre": "SANTIAGO ELIAS GAGGERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "50717",
+   "Nombre": "SANTIAGO VEIGA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "36051",
+   "Nombre": "GONZALO PEREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "40692",
+   "Nombre": "NICOLAS COLLINS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "33845",
+   "Jug_Sale": "CARLOS IGNACIO GRILLO",
+   "CarneEntra": "34987",
+   "Jug_Entra": "SEBASTIAN CAGNOLI",
+   "camiseta": "4",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "44492",
+   "Jug_Sale": "DIEGO JUAN CORALLO",
+   "CarneEntra": "34990",
+   "Jug_Entra": "MARTIN SORONDO",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37267",
+   "Jug_Sale": "SANTIAGO CABALLERO",
+   "CarneEntra": "45119",
+   "Jug_Entra": "MATEO BANDIRALI",
+   "camiseta": "6",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "51137",
+   "Jug_Sale": "JULIO FERMIN BLANCO",
+   "CarneEntra": "44069",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "23",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "42839",
+   "Jug_Sale": "GERVASIO DE POSADAS",
+   "CarneEntra": "54575",
+   "Jug_Entra": "FACUNDO YOUNG",
+   "camiseta": "5",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "40692",
+   "Jug_Sale": "NICOLAS COLLINS",
+   "CarneEntra": "60494",
+   "Jug_Entra": "PEDRO ALBERTO LISTA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58507",
+   "Jug_Sale": "VALENTINO MUYANO",
+   "CarneEntra": "50917",
+   "Jug_Entra": "BRUNO MICELI",
+   "camiseta": "4",
+   "minutos": "60"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "36051",
+   "Nombre": "GONZALO PEREZ",
+   "minutos": "54",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FELIPE FRUGONE",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

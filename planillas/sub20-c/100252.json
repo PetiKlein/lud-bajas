@@ -1,0 +1,300 @@
+{
+ "id": "100252",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 13:30:00",
+ "cancha": "SAGRADA FAMILIA",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "JUAN XXIII",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "317",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "SAGRADA FAMILIA",
+  "Fecha_Inicio": "2026-06-20 15:15:00",
+  "Fecha_fin": "2026-06-20 15:15:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67561",
+   "Nombre": "JOAQUIN MEDINA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58693",
+   "Nombre": "NICOLAS SANTIAGO ALVAREZ",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58953",
+   "Nombre": "THIAGO EPHERRE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "59749",
+   "Nombre": "FACUNDO SORIA HORNOS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58954",
+   "Nombre": "JOAQUIN BERMUDEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "56678",
+   "Nombre": "GUILLERMO GABRIEL STUART",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58936",
+   "Nombre": "FRANCESCO EMILIO PIZARRO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "58676",
+   "Nombre": "JUAN MANUEL VALDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68552",
+   "Nombre": "GUILLERMO ANDRES GONZALEZ",
+   "camiseta": "84",
+   "Capitan": ""
+  },
+  {
+   "carne": "66425",
+   "Nombre": "FACUNDO GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68551",
+   "Nombre": "NICOLAS GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61876",
+   "Nombre": "JOAQUIN DE DIOS",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "67239",
+   "Nombre": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "64095",
+   "Nombre": "JUAN ANDRES GARCIA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "61869",
+   "Nombre": "FELIPE DASTUGUE",
+   "camiseta": "84",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64099",
+   "Nombre": "JUAN MANUEL CORNEY",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "61069",
+   "Nombre": "VICENTE CASTRO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "67671",
+   "Nombre": "JUAN IGNACIO SÀNCHEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58624",
+   "Nombre": "JOAQUIN MATIAS NIETO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "63347",
+   "Nombre": "VALENTIN ROBKIN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58936",
+   "Jug_Sale": "FRANCESCO EMILIO PIZARRO",
+   "CarneEntra": "68553",
+   "Jug_Entra": "VALENTIN LEMA",
+   "camiseta": "76",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "68551",
+   "Jug_Sale": "NICOLAS GARCIA",
+   "CarneEntra": "55791",
+   "Jug_Entra": "NAHUEL AGUSTIN ALVAREZ",
+   "camiseta": "11",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "66425",
+   "Jug_Sale": "FACUNDO GONZALEZ",
+   "CarneEntra": "66810",
+   "Jug_Entra": "MANUEL PEDRO CASTELLANO",
+   "camiseta": "33",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "58676",
+   "Jug_Sale": "JUAN MANUEL VALDEZ",
+   "CarneEntra": "59731",
+   "Jug_Entra": "LUCA SPERANZA",
+   "camiseta": "55",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "58954",
+   "Jug_Sale": "JOAQUIN BERMUDEZ",
+   "CarneEntra": "58679",
+   "Jug_Entra": "JOAQUIN MARZIALI",
+   "camiseta": "30",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "68552",
+   "Jug_Sale": "GUILLERMO ANDRES GONZALEZ",
+   "CarneEntra": "58755",
+   "Jug_Entra": "FELIPE RODRIGUEZ",
+   "camiseta": "4",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58953",
+   "Jug_Sale": "THIAGO EPHERRE",
+   "CarneEntra": "58680",
+   "Jug_Entra": "JOAQUIN AISCAR",
+   "camiseta": "45",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67238",
+   "Jug_Sale": "SANTIAGO BALTASAR",
+   "CarneEntra": "64501",
+   "Jug_Entra": "DIEGO GONZALEZ",
+   "camiseta": "78",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67239",
+   "Jug_Sale": "LEONARDO ENRIQUE CASTIGLIONI",
+   "CarneEntra": "59588",
+   "Jug_Entra": "GERARDO ROCCO BELLO",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "61069",
+   "Jug_Sale": "VICENTE CASTRO",
+   "CarneEntra": "64103",
+   "Jug_Entra": "ENZO YACI",
+   "camiseta": "49",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "63347",
+   "Jug_Sale": "VALENTIN ROBKIN",
+   "CarneEntra": "58783",
+   "Jug_Entra": "LAUTARO GABRIEL SALLES",
+   "camiseta": "11",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "61869",
+   "Jug_Sale": "FELIPE DASTUGUE",
+   "CarneEntra": "61069",
+   "Jug_Entra": "VICENTE CASTRO",
+   "camiseta": "96",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "67669",
+   "Jug_Sale": "FELIPE AGUSTIN PINO",
+   "CarneEntra": "63347",
+   "Jug_Entra": "VALENTIN ROBKIN",
+   "camiseta": "11",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66810",
+   "Nombre": "MANUEL PEDRO CASTELLANO",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68552",
+   "Nombre": "GUILLERMO ANDRES GONZALEZ",
+   "minutos": "12",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58624",
+   "Nombre": "JOAQUIN MATIAS NIETO",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

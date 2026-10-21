@@ -1,0 +1,199 @@
+{
+ "id": "102945",
+ "categoria": "reserva-c",
+ "serie": "RSCPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-17 09:00:00",
+ "cancha": "CAMPO DEP. COLEGIO INGLES",
+ "local": "COLEGIO Y LICEO INGLES",
+ "visitante": "PEÑAROL UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "761",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"C\" PER. y DESC.",
+  "Cancha": "CAMPO DEP. COLEGIO INGLES",
+  "Fecha_Inicio": "2026-10-17 10:50:00",
+  "Fecha_fin": "2026-10-17 10:50:00",
+  "Locatario": "COLEGIO Y LICEO INGLES",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "PEÑAROL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64433",
+   "Nombre": "SANTIAGO LUCAS RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45310",
+   "Nombre": "TOMAS ANTONIO MILAT",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59413",
+   "Nombre": "TIAGO MAIORANO",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "45633",
+   "Nombre": "PABLO AGUIAR",
+   "camiseta": "55",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "36986",
+   "Nombre": "JUAN CRUZ ESTEVEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "39479",
+   "Nombre": "GASTON MUIÑO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "39406",
+   "Nombre": "AGUSTIN FELIPEZ",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "48882",
+   "Nombre": "JUAN IGNACIO APOLO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "48798",
+   "Nombre": "MATIAS ONANDI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "47463",
+   "Nombre": "AGUSTIN ONETTO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "39287",
+   "Nombre": "NICOLAS MONTERO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66297",
+   "Nombre": "CRISTIAN VELOZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66845",
+   "Nombre": "FACUNDO OLIVERA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67842",
+   "Nombre": "FACUNDO GONZALO RODRIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "68868",
+   "Nombre": "EZEQUIEL ENRIQUE LUBARA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57112",
+   "Nombre": "LUCAS MATTEO ANCHETA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66433",
+   "Nombre": "LUCAS TOMAS FERNANDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55028",
+   "Nombre": "JUAN RODRIGUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "66691",
+   "Nombre": "BRUNO ALEXIS ARAUJO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51998",
+   "Nombre": "VICTOR EDUARDO FERREIRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63413",
+   "Nombre": "JUAN IGNACIO MERNIES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68897",
+   "Nombre": "MATHIAS ANDRES LOPEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48798",
+   "Jug_Sale": "MATIAS ONANDI",
+   "CarneEntra": "59406",
+   "Jug_Entra": "FEDERICO CANDAU",
+   "camiseta": "30",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "48882",
+   "Jug_Sale": "JUAN IGNACIO APOLO",
+   "CarneEntra": "52049",
+   "Jug_Entra": "AGUSTIN LAMAS",
+   "camiseta": "18",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "39287",
+   "Jug_Sale": "NICOLAS MONTERO",
+   "CarneEntra": "59393",
+   "Jug_Entra": "SEBASTIAN MACHADO",
+   "camiseta": "7",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

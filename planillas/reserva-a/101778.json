@@ -1,0 +1,256 @@
+{
+ "id": "101778",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "COMPLEJO WOODLANDS SCHOOL",
+ "local": "OLD WOODLANDS CLUB",
+ "visitante": "PLAYA HONDA UNIVERSITARIO",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "104",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO WOODLANDS SCHOOL",
+  "Fecha_Inicio": "2026-09-12 13:15:00",
+  "Fecha_fin": "2026-09-12 13:15:00",
+  "Locatario": "OLD WOODLANDS CLUB",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "PLAYA HONDA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53050",
+   "Nombre": "MATEO BLANCO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "50922",
+   "Nombre": "LUCAS ALEGRE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "53360",
+   "Nombre": "SANTIAGO JORCIN",
+   "camiseta": "53",
+   "Capitan": ""
+  },
+  {
+   "carne": "36920",
+   "Nombre": "JUAN IGNACIO REGO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "43092",
+   "Nombre": "JUAN DIEGO MONTANS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "33370",
+   "Nombre": "SANTIAGO BZUROVSKI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51145",
+   "Nombre": "ALEJANDRO VICTORICA",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "56777",
+   "Nombre": "BRUNO MARIA IRULEGUY",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "53615",
+   "Nombre": "THIAGO BENITES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53647",
+   "Nombre": "MATIAS PINTOS",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "43493",
+   "Nombre": "FEDERICO HAZAN",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53369",
+   "Nombre": "IVAN BARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49724",
+   "Nombre": "AGUSTIN TAÑO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "55177",
+   "Nombre": "MARCO PISANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "58715",
+   "Nombre": "JUAN SEBASTIAN RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "58718",
+   "Nombre": "FRANCISCO DE LOS SANTOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "56147",
+   "Nombre": "MAURO MATEO NAVARRINE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67535",
+   "Nombre": "BENJAMIN DE IZAGUIRRE",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "68646",
+   "Nombre": "MARTIN GUADALUPE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58944",
+   "Nombre": "IGNACIO ALGORTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "camiseta": "36",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "33370",
+   "Jug_Sale": "SANTIAGO BZUROVSKI",
+   "CarneEntra": "48077",
+   "Jug_Entra": "AGUSTIN MARTINEZ",
+   "camiseta": "10",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "53615",
+   "Jug_Sale": "THIAGO BENITES",
+   "CarneEntra": "48036",
+   "Jug_Entra": "SANTIAGO IRULEGUY",
+   "camiseta": "11",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "51145",
+   "Jug_Sale": "ALEJANDRO VICTORICA",
+   "CarneEntra": "39788",
+   "Jug_Entra": "TIM ELBERSE",
+   "camiseta": "34",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "43493",
+   "Jug_Sale": "FEDERICO HAZAN",
+   "CarneEntra": "49627",
+   "Jug_Entra": "THEO FRANCO PIZZINI",
+   "camiseta": "91",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49724",
+   "Jug_Sale": "AGUSTIN TAÑO",
+   "CarneEntra": "62024",
+   "Jug_Entra": "JUAN MANUEL BOCCHI",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56147",
+   "Jug_Sale": "MAURO MATEO NAVARRINE",
+   "CarneEntra": "53617",
+   "Jug_Entra": "MAXIMILIANO MONTERO",
+   "camiseta": "35",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51145",
+   "Nombre": "ALEJANDRO VICTORICA",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53615",
+   "Nombre": "THIAGO BENITES",
+   "minutos": "29",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56777",
+   "Nombre": "BRUNO MARIA IRULEGUY",
+   "minutos": "20",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "minutos": "18",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

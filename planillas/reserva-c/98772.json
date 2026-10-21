@@ -1,0 +1,301 @@
+{
+ "id": "98772",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "CEIBOS CLUB VERDE",
+ "visitante": "SAN PABLO UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "280",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-05-16 11:00:00",
+  "Fecha_fin": "2026-05-16 11:00:00",
+  "Locatario": "CEIBOS CLUB VERDE",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SAN PABLO UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54917",
+   "Nombre": "IGNACIO JOSE LUIS BRAGA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54408",
+   "Nombre": "JUAN DIEGO TARIGO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "50906",
+   "Nombre": "IGNACION PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "50908",
+   "Nombre": "NICOLAS JOSE MOREIRA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61186",
+   "Nombre": "JOAQUIN MARIA FLORES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49360",
+   "Nombre": "TOMAS JOSE TARIGO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49450",
+   "Nombre": "AGUSTIN MATEO MACHADO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54674",
+   "Nombre": "JUAN FRANCISCO TORRES NEGREIRA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47807",
+   "Nombre": "JUAN ANDRES BRATSCHI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "43259",
+   "Nombre": "SANTIAGO MARIA FIGUEREDO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "39059",
+   "Nombre": "GUILLERMO JOSE BARREIRO",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45571",
+   "Nombre": "JOSE MARIA NUÐEZ",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "53751",
+   "Nombre": "FELIPE BELLORA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63209",
+   "Nombre": "VALENTIN MENDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56705",
+   "Nombre": "AGUSTIN ULISES FAGIANI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "51080",
+   "Nombre": "AUGUSTO SECCO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "56700",
+   "Nombre": "FRANCO DELISANTE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "52663",
+   "Nombre": "MARCOS VERNENGO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "42736",
+   "Nombre": "SANTIAGO SOCA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47151",
+   "Nombre": "THIAGO QUINTAS",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "66219",
+   "Nombre": "JOAQUIN MENENDEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "56490",
+   "Nombre": "PABLO ANDRES SCOFFONE",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50908",
+   "Jug_Sale": "NICOLAS JOSE MOREIRA",
+   "CarneEntra": "62490",
+   "Jug_Entra": "NICOLAS MARTIN LOGIURATO",
+   "camiseta": "6",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "47807",
+   "Jug_Sale": "JUAN ANDRES BRATSCHI",
+   "CarneEntra": "68603",
+   "Jug_Entra": "FELIPE ROUCO",
+   "camiseta": "9",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "39059",
+   "Jug_Sale": "GUILLERMO JOSE BARREIRO",
+   "CarneEntra": "62453",
+   "Jug_Entra": "NICOLAS MENDIETA",
+   "camiseta": "15",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "50906",
+   "Jug_Sale": "IGNACION PEREZ",
+   "CarneEntra": "53494",
+   "Jug_Entra": "NICOLAS LUIS SERE",
+   "camiseta": "5",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "43259",
+   "Jug_Sale": "SANTIAGO MARIA FIGUEREDO",
+   "CarneEntra": "46459",
+   "Jug_Entra": "TOMAS SEVERI",
+   "camiseta": "15",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "54674",
+   "Jug_Sale": "JUAN FRANCISCO TORRES NEGREIRA",
+   "CarneEntra": "63757",
+   "Jug_Entra": "IGNACIO ALVAREZ",
+   "camiseta": "48",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63209",
+   "Jug_Sale": "VALENTIN MENDEZ",
+   "CarneEntra": "52895",
+   "Jug_Entra": "RODRIGO MORANDI",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66219",
+   "Jug_Sale": "JOAQUIN MENENDEZ",
+   "CarneEntra": "59329",
+   "Jug_Entra": "MATEO LAUTARO FERNANDEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47151",
+   "Jug_Sale": "THIAGO QUINTAS",
+   "CarneEntra": "45629",
+   "Jug_Entra": "ISMAEL NUÑEZ",
+   "camiseta": "9",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "51080",
+   "Jug_Sale": "AUGUSTO SECCO",
+   "CarneEntra": "53769",
+   "Jug_Entra": "TIAGO DA SILVA",
+   "camiseta": "15",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "56700",
+   "Jug_Sale": "FRANCO DELISANTE",
+   "CarneEntra": "45099",
+   "Jug_Entra": "RENZO RAFAEL SABARROS",
+   "camiseta": "71",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "42736",
+   "Jug_Sale": "SANTIAGO SOCA",
+   "CarneEntra": "56698",
+   "Jug_Entra": "FACUNDO GARCIA",
+   "camiseta": "11",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43259",
+   "Nombre": "SANTIAGO MARIA FIGUEREDO",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49360",
+   "Nombre": "TOMAS JOSE TARIGO",
+   "minutos": "46",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59329",
+   "Nombre": "MATEO LAUTARO FERNANDEZ",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "IGNACION PEREZ",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "JOAQUIN MARIA FLORES",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

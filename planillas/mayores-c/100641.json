@@ -1,0 +1,256 @@
+{
+ "id": "100641",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 09:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "LA BLANQUEADA",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "321",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-06-28 11:00:00",
+  "Fecha_fin": "2026-06-28 11:00:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "LA BLANQUEADA",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53288",
+   "Nombre": "MAIKOL JAVIER MIGLIACCIO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "58729",
+   "Nombre": "MATIAS CAMACHO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "41789",
+   "Nombre": "RODRIGO MARTIN IGLESIAS",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "50211",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "39455",
+   "Nombre": "CARLOS ANDRES DIAZ",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43819",
+   "Nombre": "MARCOS GUGLIUCCI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "49538",
+   "Nombre": "NICOLAS FERREYRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59627",
+   "Nombre": "NICOLAS GARCIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "40923",
+   "Nombre": "IGNACIO SILVA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "57367",
+   "Nombre": "VALENTIN BARRETO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "53802",
+   "Nombre": "RODRIGO CUNEO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "23480",
+   "Nombre": "IGNACIO GASTON BIDEGAIN",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51477",
+   "Nombre": "VICTOR VIERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "48515",
+   "Nombre": "KEVIN NICOLAS HERVADA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "25089",
+   "Nombre": "MAXIMILIANO SILVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47632",
+   "Nombre": "SANTIAGO COLOMBO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "61864",
+   "Nombre": "MAXIMILIANO VELAZQUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "54134",
+   "Nombre": "MARTIN CORTINAS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51528",
+   "Nombre": "CARLOS ALFREDO DUARTE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61296",
+   "Nombre": "JOAQUIN LUCIANO NUÑEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54922",
+   "Nombre": "FABIAN ANDRE IRISARRI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55234",
+   "Nombre": "LUCAS DO VALLE PEIXOTO",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43819",
+   "Jug_Sale": "MARCOS GUGLIUCCI",
+   "CarneEntra": "46909",
+   "Jug_Entra": "FEDERICO KARDJIAN",
+   "camiseta": "81",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "41789",
+   "Jug_Sale": "RODRIGO MARTIN IGLESIAS",
+   "CarneEntra": "59445",
+   "Jug_Entra": "BRUNO ORTEGA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57367",
+   "Jug_Sale": "VALENTIN BARRETO",
+   "CarneEntra": "47179",
+   "Jug_Entra": "DIEGO HERNAN DELGADO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58729",
+   "Jug_Sale": "MATIAS CAMACHO",
+   "CarneEntra": "65595",
+   "Jug_Entra": "EZEQUIEL ALEXANDRE ESCOBAR",
+   "camiseta": "80",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48515",
+   "Jug_Sale": "KEVIN NICOLAS HERVADA",
+   "CarneEntra": "35699",
+   "Jug_Entra": "MAURO BASILE",
+   "camiseta": "13",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "51528",
+   "Jug_Sale": "CARLOS ALFREDO DUARTE",
+   "CarneEntra": "41360",
+   "Jug_Entra": "JUAN IGNACIO OLIVERA",
+   "camiseta": "37",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "minutos": "79",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "48515",
+   "Nombre": "KEVIN NICOLAS HERVADA",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55234",
+   "Nombre": "LUCAS DO VALLE PEIXOTO",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61296",
+   "Nombre": "JOAQUIN LUCIANO NUÑEZ",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61864",
+   "Nombre": "MAXIMILIANO VELAZQUEZ",
+   "minutos": "49",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

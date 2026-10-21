@@ -1,0 +1,308 @@
+{
+ "id": "98942",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR SUB22",
+ "visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+ "gl": 6,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "451",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-05-16 12:45:00",
+  "Fecha_fin": "2026-05-16 12:45:00",
+  "Locatario": "TENIS EL PINAR SUB22",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56171",
+   "Nombre": "MARIANO DANIEL OTTONELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52444",
+   "Nombre": "SEBASTIAN CARBAJAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52629",
+   "Nombre": "SEBASTIAN PIRRI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52625",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52634",
+   "Nombre": "JUAN IGNACIO QUINTANA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53418",
+   "Nombre": "FACUNDO VARIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52413",
+   "Nombre": "SANTIAGO MATEU",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "53357",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62246",
+   "Nombre": "BRUNO MOREIRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "63777",
+   "Nombre": "FRANCO OLMOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64071",
+   "Nombre": "FEDERICO SEBASTIAN BENITEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "64069",
+   "Nombre": "CARLOS DANIEL GUIDOTTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64352",
+   "Nombre": "MARTIN VALVERDE",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "66524",
+   "Nombre": "EZEQUIEL ZANOLLI",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "62984",
+   "Nombre": "FABRIZIO VALVERDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62487",
+   "Nombre": "ALEJO RAMIREZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "59910",
+   "Nombre": "FACUNDO OZMAN PERDOMO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66523",
+   "Nombre": "JUAN LLOPIS",
+   "camiseta": "90",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53418",
+   "Jug_Sale": "FACUNDO VARIO",
+   "CarneEntra": "52632",
+   "Jug_Entra": "AGUSTIN FIRPO",
+   "camiseta": "7",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "52634",
+   "Jug_Sale": "JUAN IGNACIO QUINTANA",
+   "CarneEntra": "66514",
+   "Jug_Entra": "MARTIN DIAZ",
+   "camiseta": "16",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "52444",
+   "Jug_Sale": "SEBASTIAN CARBAJAL",
+   "CarneEntra": "51804",
+   "Jug_Entra": "JUAN IGNACIO LEIVA",
+   "camiseta": "2",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "52413",
+   "Jug_Sale": "SANTIAGO MATEU",
+   "CarneEntra": "61528",
+   "Jug_Entra": "SANTIAGO DAMIAN PEREIRA",
+   "camiseta": "12",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57966",
+   "Jug_Sale": "FRANCISCO LOURTET",
+   "CarneEntra": "49651",
+   "Jug_Entra": "FRANCISCO MUÑOZ",
+   "camiseta": "71",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64352",
+   "Jug_Sale": "MARTIN VALVERDE",
+   "CarneEntra": "39226",
+   "Jug_Entra": "MAURICIO FACUNDO DE LOS SANTOS",
+   "camiseta": "49",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63777",
+   "Jug_Sale": "FRANCO OLMOS",
+   "CarneEntra": "59023",
+   "Jug_Entra": "JOSE IGNACIO TEIJEIRO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66523",
+   "Jug_Sale": "JUAN LLOPIS",
+   "CarneEntra": "59016",
+   "Jug_Entra": "IGNACIO PAULO MORENO",
+   "camiseta": "60",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "64071",
+   "Jug_Sale": "FEDERICO SEBASTIAN BENITEZ",
+   "CarneEntra": "59909",
+   "Jug_Entra": "JUAN MARTIN ALTESOR",
+   "camiseta": "33",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "66524",
+   "Jug_Sale": "EZEQUIEL ZANOLLI",
+   "CarneEntra": "64356",
+   "Jug_Entra": "FACUNDO GASTON LOPEZ",
+   "camiseta": "66",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "54931",
+   "Jug_Sale": "GENARO VALENTIN COLOMBO",
+   "CarneEntra": "59033",
+   "Jug_Entra": "DANILO URES",
+   "camiseta": "12",
+   "minutos": "71"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52413",
+   "Nombre": "SANTIAGO MATEU",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52413",
+   "Nombre": "SANTIAGO MATEU",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "minutos": "66",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "minutos": "73",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53418",
+   "Nombre": "FACUNDO VARIO",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53418",
+   "Nombre": "FACUNDO VARIO",
+   "minutos": "53",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

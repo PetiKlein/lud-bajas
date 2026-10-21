@@ -1,0 +1,284 @@
+{
+ "id": "98831",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "SANTA RITA",
+ "local": "CLUB SEMINARIO",
+ "visitante": "TENIS EL PINAR",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "38",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "SANTA RITA",
+  "Fecha_Inicio": "2026-05-16 13:15:00",
+  "Fecha_fin": "2026-05-16 13:15:00",
+  "Locatario": "CLUB SEMINARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49263",
+   "Nombre": "MARTIN MURAÑA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "42555",
+   "Nombre": "RODRIGO VAZQUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "43035",
+   "Nombre": "LUCAS PIAGGIO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59121",
+   "Nombre": "ARIEL YONHATAN PACHECO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "50787",
+   "Nombre": "JUAN PEDRO ABELLA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "50855",
+   "Nombre": "SEBASTIAN GUILLEN",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52764",
+   "Nombre": "DIEGO BUELA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47800",
+   "Nombre": "MATIAS GARRIDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52457",
+   "Nombre": "SANTIAGO RAUL MAY",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48141",
+   "Nombre": "NICOLAS ANGEL DE LA PEÑA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "58831",
+   "Nombre": "JERONIMO OLASO",
+   "camiseta": "70",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50666",
+   "Nombre": "FACUNDO LAGO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "48653",
+   "Nombre": "MATIAS  BERNARDO VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46848",
+   "Nombre": "FACUNDO BERGARA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "46837",
+   "Nombre": "GIANFRANCO BERRUTTI",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "49076",
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "46830",
+   "Nombre": "JULIAN NESTOR MUHA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "38029",
+   "Nombre": "NICOLAS AMOEDO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "36992",
+   "Nombre": "AGUSTIN RAMOS",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50855",
+   "Jug_Sale": "SEBASTIAN GUILLEN",
+   "CarneEntra": "53659",
+   "Jug_Entra": "ANDRES HERRERA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50787",
+   "Jug_Sale": "JUAN PEDRO ABELLA",
+   "CarneEntra": "37424",
+   "Jug_Entra": "SANTIAGO PEREZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42555",
+   "Jug_Sale": "RODRIGO VAZQUEZ",
+   "CarneEntra": "47678",
+   "Jug_Entra": "PEDRO MACKINNON",
+   "camiseta": "8",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "52764",
+   "Jug_Sale": "DIEGO BUELA",
+   "CarneEntra": "48063",
+   "Jug_Entra": "GENARO CARUSO",
+   "camiseta": "21",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "59121",
+   "Jug_Sale": "ARIEL YONHATAN PACHECO",
+   "CarneEntra": "50787",
+   "Jug_Entra": "JUAN PEDRO ABELLA",
+   "camiseta": "11",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "43035",
+   "Jug_Sale": "LUCAS PIAGGIO",
+   "CarneEntra": "48286",
+   "Jug_Entra": "FRANCISCO AMEIGENDA",
+   "camiseta": "16",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48870",
+   "Jug_Sale": "RENZO FORTI",
+   "CarneEntra": "48796",
+   "Jug_Entra": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45505",
+   "Jug_Sale": "SANTIAGO DANIEL TORRES",
+   "CarneEntra": "34528",
+   "Jug_Entra": "JOAQUIN ANDRES AMOEDO",
+   "camiseta": "9",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "38029",
+   "Jug_Sale": "NICOLAS AMOEDO",
+   "CarneEntra": "48657",
+   "Jug_Entra": "BRUNO CABRERA",
+   "camiseta": "31",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "36992",
+   "Jug_Sale": "AGUSTIN RAMOS",
+   "CarneEntra": "46833",
+   "Jug_Entra": "TOMAS MEDERO",
+   "camiseta": "91",
+   "minutos": "96"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58831",
+   "Nombre": "JERONIMO OLASO",
+   "minutos": "88",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "38029",
+   "Nombre": "NICOLAS AMOEDO",
+   "minutos": "26",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JERONIMO OLASO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "JULIAN NESTOR MUHA",
+   "observaciones": ""
+  }
+ ]
+}

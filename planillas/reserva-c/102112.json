@@ -1,0 +1,260 @@
+{
+ "id": "102112",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "SAN ISIDRO LOMAS",
+ "local": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "visitante": "SAN PABLO UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "349",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "SAN ISIDRO LOMAS",
+  "Fecha_Inicio": "2026-09-19 13:15:00",
+  "Fecha_fin": "2026-09-19 13:15:00",
+  "Locatario": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAN PABLO UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52990",
+   "Nombre": "NICOLAS FEDERICO DIAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56514",
+   "Nombre": "BRUNO DI TOMASSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52357",
+   "Nombre": "BRUNO PASTORINI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55778",
+   "Nombre": "ENZO SEBASTIAN JEREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "40019",
+   "Nombre": "RODRIGO TEJERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "57708",
+   "Nombre": "VALENTIN CUÑA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67716",
+   "Nombre": "FABRIZIO ZANELLI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "69015",
+   "Nombre": "SANTIAGO REMEDIOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "60888",
+   "Nombre": "PABLO VALENTIN DA LUZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61951",
+   "Nombre": "EZEQUIEL BRITOS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59869",
+   "Nombre": "LUKAS BERNARD KASEK",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45571",
+   "Nombre": "JOSE MARIA NUÐEZ",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "54939",
+   "Nombre": "MAURO PEREIRA DAS NEVES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "56705",
+   "Nombre": "AGUSTIN ULISES FAGIANI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "52895",
+   "Nombre": "RODRIGO MORANDI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53751",
+   "Nombre": "FELIPE BELLORA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56490",
+   "Nombre": "PABLO ANDRES SCOFFONE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63209",
+   "Nombre": "VALENTIN MENDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37686",
+   "Nombre": "MARTIN ROMANIELLO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "47151",
+   "Nombre": "THIAGO QUINTAS",
+   "camiseta": "64",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59329",
+   "Nombre": "MATEO LAUTARO FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "47881",
+   "Nombre": "GUILLERMO GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52990",
+   "Jug_Sale": "NICOLAS FEDERICO DIAZ",
+   "CarneEntra": "52781",
+   "Jug_Entra": "MAXIMILIANO ZUNINO",
+   "camiseta": "18",
+   "minutos": "50"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37686",
+   "Jug_Sale": "MARTIN ROMANIELLO",
+   "CarneEntra": "48053",
+   "Jug_Entra": "CAETANO JOAQUIN RODRIGUEZ",
+   "camiseta": "17",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "47151",
+   "Jug_Sale": "THIAGO QUINTAS",
+   "CarneEntra": "56700",
+   "Jug_Entra": "FRANCO DELISANTE",
+   "camiseta": "23",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "54939",
+   "Jug_Sale": "MAURO PEREIRA DAS NEVES",
+   "CarneEntra": "51334",
+   "Jug_Entra": "FRANCISCO ENRIQUE TRIAY",
+   "camiseta": "27",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "59329",
+   "Jug_Sale": "MATEO LAUTARO FERNANDEZ",
+   "CarneEntra": "50859",
+   "Jug_Entra": "ROCCO DI LEONE",
+   "camiseta": "16",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "47881",
+   "Jug_Sale": "GUILLERMO GONZALEZ",
+   "CarneEntra": "53769",
+   "Jug_Entra": "TIAGO DA SILVA",
+   "camiseta": "15",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "63209",
+   "Jug_Sale": "VALENTIN MENDEZ",
+   "CarneEntra": "41050",
+   "Jug_Entra": "NICOLAS PAN",
+   "camiseta": "30",
+   "minutos": "5"
+  },
+  {
+   "CarneSale": "56705",
+   "Jug_Sale": "AGUSTIN ULISES FAGIANI",
+   "CarneEntra": "47881",
+   "Jug_Entra": "GUILLERMO GONZALEZ",
+   "camiseta": "9",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57708",
+   "Nombre": "VALENTIN CUÑA",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47151",
+   "Nombre": "THIAGO QUINTAS",
+   "minutos": "32",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47881",
+   "Nombre": "GUILLERMO GONZALEZ",
+   "minutos": "88",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

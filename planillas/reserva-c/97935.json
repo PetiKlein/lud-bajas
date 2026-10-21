@@ -1,0 +1,306 @@
+{
+ "id": "97935",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "OLD BRENDANS VERDE",
+ "gl": 4,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "243",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-04-11 13:15:00",
+  "Fecha_fin": "2026-04-11 13:15:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "4",
+  "puntos_locatario": "1",
+  "Visitante": "OLD BRENDANS VERDE",
+  "goles_visitante": "4",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54360",
+   "Nombre": "MARCOS NICOLAS ERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52614",
+   "Nombre": "AGUSTIN ALEJANDRO LAIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "44550",
+   "Nombre": "FEDERICO JAVIER DE SIANO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53316",
+   "Nombre": "SANTIAGO NAHUEL NUÑEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "48353",
+   "Nombre": "TOMAS ARAMENDI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56438",
+   "Nombre": "MARTIN CALERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50980",
+   "Nombre": "IGNACIO VELAZQUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51623",
+   "Nombre": "FEDERICO VELAZQUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45050",
+   "Nombre": "NICOLAS HERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53692",
+   "Nombre": "SANTIAGO VILAS",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53394",
+   "Nombre": "DIEGO SABAJ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51458",
+   "Nombre": "TOMAS POLITI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49150",
+   "Nombre": "GASTON SCHMIDT",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58427",
+   "Nombre": "FACUNDO FIORE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "56336",
+   "Nombre": "JUAN IGNACIO BRAGA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "51067",
+   "Nombre": "MARTIN GAUDIO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "57033",
+   "Nombre": "LORENZO URIARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64017",
+   "Nombre": "JUAN IGNACIO MENENDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63834",
+   "Nombre": "BRUNO FEDERICO ENGEL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61804",
+   "Nombre": "JUAN MANUEL ZAMBRANO",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53316",
+   "Jug_Sale": "SANTIAGO NAHUEL NUÑEZ",
+   "CarneEntra": "41360",
+   "Jug_Entra": "JUAN IGNACIO OLIVERA",
+   "camiseta": "37",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53692",
+   "Jug_Sale": "SANTIAGO VILAS",
+   "CarneEntra": "55996",
+   "Jug_Entra": "LUCIANO AGUSTIN ARAMBURU",
+   "camiseta": "44",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "47808",
+   "Jug_Sale": "SANTIAGO FERNANDO IRURTIA",
+   "CarneEntra": "53319",
+   "Jug_Entra": "TOMAS ALFARO",
+   "camiseta": "4",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "53319",
+   "Jug_Sale": "TOMAS ALFARO",
+   "CarneEntra": "53316",
+   "Jug_Entra": "SANTIAGO NAHUEL NUÑEZ",
+   "camiseta": "23",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "45050",
+   "Jug_Sale": "NICOLAS HERNANDEZ",
+   "CarneEntra": "53692",
+   "Jug_Entra": "SANTIAGO VILAS",
+   "camiseta": "19",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51458",
+   "Jug_Sale": "TOMAS POLITI",
+   "CarneEntra": "57835",
+   "Jug_Entra": "ALFONSO ZAMBRANO",
+   "camiseta": "36",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "57033",
+   "Jug_Sale": "LORENZO URIARTE",
+   "CarneEntra": "59197",
+   "Jug_Entra": "GUIDO LISSARDY",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "56336",
+   "Jug_Sale": "JUAN IGNACIO BRAGA",
+   "CarneEntra": "62978",
+   "Jug_Entra": "LUCAS CAPLIVSCHI",
+   "camiseta": "29",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "51174",
+   "Jug_Sale": "LUCA MAXIMO AGGIO",
+   "CarneEntra": "65624",
+   "Jug_Entra": "LORENZO RODRIGUEZ",
+   "camiseta": "4",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "61804",
+   "Jug_Sale": "JUAN MANUEL ZAMBRANO",
+   "CarneEntra": "54756",
+   "Jug_Entra": "ADRIANO MARTIN AGGIO",
+   "camiseta": "55",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "minutos": "58",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "minutos": "36",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54756",
+   "Nombre": "ADRIANO MARTIN AGGIO",
+   "minutos": "86",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61804",
+   "Nombre": "JUAN MANUEL ZAMBRANO",
+   "minutos": "58",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

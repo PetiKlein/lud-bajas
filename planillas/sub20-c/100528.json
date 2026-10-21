@@ -1,0 +1,268 @@
+{
+ "id": "100528",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 15:30:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "MARISTAS DEPORTIVO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "327",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-06-27 17:30:00",
+  "Fecha_fin": "2026-06-27 17:30:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "MARISTAS DEPORTIVO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56415",
+   "Nombre": "LUCAS AGUSTIN CACERES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59761",
+   "Nombre": "BRUNO LAVIE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59555",
+   "Nombre": "JUAN MANUEL BIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62420",
+   "Nombre": "MATIAS LABORDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66528",
+   "Nombre": "LUCA CANZANI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65822",
+   "Nombre": "MATEO GREGORIO GONZALEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "66778",
+   "Nombre": "SANTIAGO MACEDO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "67887",
+   "Nombre": "SANTINO DE COLA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "54757",
+   "Nombre": "LUIS IGNACIO MATTERA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67542",
+   "Nombre": "GONZALO EZEQUIEL EGIRUBELLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60168",
+   "Nombre": "RAFAEL DELGADO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "58971",
+   "Nombre": "GUILLERMO SANTIAGO CABARCOS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "59049",
+   "Nombre": "SANTIAGO CABRERA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66011",
+   "Nombre": "FRANCO MARTIN REY",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63099",
+   "Nombre": "JOAQUIN FERNANDO HERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65867",
+   "Nombre": "FACUNDO AGUSTIN FERNANDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "57414",
+   "Nombre": "VALENTIN MONTADO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59354",
+   "Nombre": "FRANCISCO BULEIN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58726",
+   "Nombre": "CAMILO CORRALES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54757",
+   "Jug_Sale": "LUIS IGNACIO MATTERA",
+   "CarneEntra": "62547",
+   "Jug_Entra": "GUILERMO DIEGO POMI",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65822",
+   "Jug_Sale": "MATEO GREGORIO GONZALEZ",
+   "CarneEntra": "64236",
+   "Jug_Entra": "NICOLAS KRUL",
+   "camiseta": "19",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59354",
+   "Jug_Sale": "FRANCISCO BULEIN",
+   "CarneEntra": "67026",
+   "Jug_Entra": "JUAN PABLO CANEPA",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58971",
+   "Jug_Sale": "GUILLERMO SANTIAGO CABARCOS",
+   "CarneEntra": "62908",
+   "Jug_Entra": "MATHEUS JOSE DE MORAES",
+   "camiseta": "4",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "57414",
+   "Jug_Sale": "VALENTIN MONTADO",
+   "CarneEntra": "58706",
+   "Jug_Entra": "MATIAS ORTIZ",
+   "camiseta": "14",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "60168",
+   "Jug_Sale": "RAFAEL DELGADO",
+   "CarneEntra": "59053",
+   "Jug_Entra": "EZEQUIEL SILVERA",
+   "camiseta": "12",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "65867",
+   "Jug_Sale": "FACUNDO AGUSTIN FERNANDEZ",
+   "CarneEntra": "68220",
+   "Jug_Entra": "GUILLERMO BENTANCOUR",
+   "camiseta": "11",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "58726",
+   "Jug_Sale": "CAMILO CORRALES",
+   "CarneEntra": "58906",
+   "Jug_Entra": "MARTIN MERA",
+   "camiseta": "20",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "61761",
+   "Jug_Sale": "IGNACIO ALGIBAR",
+   "CarneEntra": "67025",
+   "Jug_Entra": "SALVADOR VARELA",
+   "camiseta": "3",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "minutos": "76",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

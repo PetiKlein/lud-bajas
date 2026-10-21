@@ -1,0 +1,291 @@
+{
+ "id": "101170",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "PLAYA HONDA UNIVERSITARIO",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "30",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-08-29 11:00:00",
+  "Fecha_fin": "2026-08-29 11:00:00",
+  "Locatario": "PLAYA HONDA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53369",
+   "Nombre": "IVAN BARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53845",
+   "Nombre": "MARTIN CURUTCHAGUE",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56147",
+   "Nombre": "MAURO MATEO NAVARRINE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "58715",
+   "Nombre": "JUAN SEBASTIAN RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "67535",
+   "Nombre": "BENJAMIN DE IZAGUIRRE",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "67539",
+   "Nombre": "MATIAS NICOLAS RODRIGUEZ",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "68646",
+   "Nombre": "MARTIN GUADALUPE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68323",
+   "Nombre": "FEDERICO SOLDEVILA",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "53617",
+   "Nombre": "MAXIMILIANO MONTERO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "58718",
+   "Nombre": "FRANCISCO DE LOS SANTOS",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53624",
+   "Nombre": "MATEO OURTHE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55602",
+   "Nombre": "CAETANO MARRONE",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49491",
+   "Nombre": "PEDRO GALLO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "49489",
+   "Nombre": "PAOLO PARIANI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68323",
+   "Jug_Sale": "FEDERICO SOLDEVILA",
+   "CarneEntra": "49922",
+   "Jug_Entra": "ANDRES PIÑEIRO",
+   "camiseta": "17",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "53617",
+   "Jug_Sale": "MAXIMILIANO MONTERO",
+   "CarneEntra": "62024",
+   "Jug_Entra": "JUAN MANUEL BOCCHI",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56147",
+   "Jug_Sale": "MAURO MATEO NAVARRINE",
+   "CarneEntra": "55177",
+   "Jug_Entra": "MARCO PISANO",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67539",
+   "Jug_Sale": "MATIAS NICOLAS RODRIGUEZ",
+   "CarneEntra": "60673",
+   "Jug_Entra": "EZEQUIEL CASTAINGTS",
+   "camiseta": "34",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "68646",
+   "Jug_Sale": "MARTIN GUADALUPE",
+   "CarneEntra": "49724",
+   "Jug_Entra": "AGUSTIN TAÑO",
+   "camiseta": "27",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58715",
+   "Jug_Sale": "JUAN SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "54805",
+   "Jug_Entra": "MATIAS PALMERO",
+   "camiseta": "3",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67535",
+   "Jug_Sale": "BENJAMIN DE IZAGUIRRE",
+   "CarneEntra": "67537",
+   "Jug_Entra": "BAUTISTA GARRE",
+   "camiseta": "38",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49489",
+   "Jug_Sale": "PAOLO PARIANI",
+   "CarneEntra": "52811",
+   "Jug_Entra": "FELIPE PERLA",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42059",
+   "Jug_Sale": "RODRIGO FERREIRO",
+   "CarneEntra": "48896",
+   "Jug_Entra": "FACUNDO ALPUIN",
+   "camiseta": "35",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "55602",
+   "Jug_Sale": "CAETANO MARRONE",
+   "CarneEntra": "55160",
+   "Jug_Entra": "JOAQUIN PEÑA",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "49414",
+   "Jug_Sale": "DIEGO GABRIEL HANDALIAN",
+   "CarneEntra": "45826",
+   "Jug_Entra": "VALENTIN DE LEONARDIS",
+   "camiseta": "19",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "68223",
+   "Jug_Sale": "NAHUEL FERNANDEZ",
+   "CarneEntra": "55007",
+   "Jug_Entra": "FACUNDO SERGIO RIGOLI",
+   "camiseta": "12",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55602",
+   "Nombre": "CAETANO MARRONE",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "minutos": "64",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

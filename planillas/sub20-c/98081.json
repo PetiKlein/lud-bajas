@@ -1,0 +1,253 @@
+{
+ "id": "98081",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 15:30:00",
+ "cancha": "LOS TEROS",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "FLORES UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "241",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "LOS TEROS",
+  "Fecha_Inicio": "2026-04-11 17:25:00",
+  "Fecha_fin": "2026-04-11 17:25:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "FLORES UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63543",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62582",
+   "Nombre": "SEBASTIAN ENZO STRATTA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "58727",
+   "Nombre": "JOAQUIN GRACIANO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62586",
+   "Nombre": "LEANDRO MOCCIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62577",
+   "Nombre": "ORI MARTIN FERREIRA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62587",
+   "Nombre": "MATEO ALONSO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55413",
+   "Nombre": "LUCAS OTAÑO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58704",
+   "Nombre": "IGNACIO JAVIER ROMERO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66167",
+   "Nombre": "AGUSTIN BLAS RIVERO",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67714",
+   "Nombre": "VALENTIN ALEJANDRO BALLEJOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62152",
+   "Nombre": "LUCAS POLLERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59231",
+   "Nombre": "FACUNDO FABINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66840",
+   "Nombre": "AGUSTIN CHAPEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "62135",
+   "Nombre": "VALENTIN ESPINOSA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63030",
+   "Nombre": "FRANCO BERRUTTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62136",
+   "Nombre": "JUAN PEDRO MONTAÑEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65219",
+   "Nombre": "GASPAR SWINDEN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60655",
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62582",
+   "Jug_Sale": "SEBASTIAN ENZO STRATTA",
+   "CarneEntra": "67274",
+   "Jug_Entra": "ALVARO PINTOS",
+   "camiseta": "69",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62577",
+   "Jug_Sale": "ORI MARTIN FERREIRA",
+   "CarneEntra": "64173",
+   "Jug_Entra": "SANTIAGO MIRANDA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66167",
+   "Jug_Sale": "AGUSTIN BLAS RIVERO",
+   "CarneEntra": "67621",
+   "Jug_Entra": "SEBASTIAN GRILLO",
+   "camiseta": "14",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "62838",
+   "Jug_Sale": "TADEO ARES",
+   "CarneEntra": "67273",
+   "Jug_Entra": "SANTIAGO ROMAN DALIA",
+   "camiseta": "28",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "55413",
+   "Jug_Sale": "LUCAS OTAÑO",
+   "CarneEntra": "62582",
+   "Jug_Entra": "SEBASTIAN ENZO STRATTA",
+   "camiseta": "26",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "58704",
+   "Jug_Sale": "IGNACIO JAVIER ROMERO",
+   "CarneEntra": "55147",
+   "Jug_Entra": "EDUARDO IVAN UBAL",
+   "camiseta": "17",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "67476",
+   "Jug_Sale": "NICOLAS RIVERO",
+   "CarneEntra": "67477",
+   "Jug_Entra": "IGNACIO FERNANDEZ",
+   "camiseta": "41",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63030",
+   "Jug_Sale": "FRANCO BERRUTTI",
+   "CarneEntra": "54604",
+   "Jug_Entra": "FACUNDO ANDRES BENTANCOR",
+   "camiseta": "14",
+   "minutos": "71"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62582",
+   "Nombre": "SEBASTIAN ENZO STRATTA",
+   "minutos": "83",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66167",
+   "Nombre": "AGUSTIN BLAS RIVERO",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67621",
+   "Nombre": "SEBASTIAN GRILLO",
+   "minutos": "91",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

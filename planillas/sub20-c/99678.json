@@ -1,0 +1,311 @@
+{
+ "id": "99678",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 13:30:00",
+ "cancha": "CAMPUS DEL OESTE",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "JUAN XXIII",
+ "gl": 5,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "300",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CAMPUS DEL OESTE",
+  "Fecha_Inicio": "2026-06-06 15:30:00",
+  "Fecha_fin": "2026-06-06 15:30:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62933",
+   "Nombre": "JUAN DIEGO ACOSTA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "67027",
+   "Nombre": "ARON ESTEVEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "55113",
+   "Nombre": "FRANCISCO FERREYRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63195",
+   "Nombre": "LAUTARO GOBBI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60168",
+   "Nombre": "RAFAEL DELGADO",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "65867",
+   "Nombre": "FACUNDO AGUSTIN FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63099",
+   "Nombre": "JOAQUIN FERNANDO HERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57414",
+   "Nombre": "VALENTIN MONTADO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58726",
+   "Nombre": "CAMILO CORRALES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59354",
+   "Nombre": "FRANCISCO BULEIN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67671",
+   "Nombre": "JUAN IGNACIO SÀNCHEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "59588",
+   "Nombre": "GERARDO ROCCO BELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61869",
+   "Nombre": "FELIPE DASTUGUE",
+   "camiseta": "84",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "58624",
+   "Nombre": "JOAQUIN MATIAS NIETO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "63347",
+   "Nombre": "VALENTIN ROBKIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64101",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "64099",
+   "Nombre": "JUAN MANUEL CORNEY",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "65542",
+   "Nombre": "IGNACIO CIRIGLIANO",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63195",
+   "Jug_Sale": "LAUTARO GOBBI",
+   "CarneEntra": "57371",
+   "Jug_Entra": "FRANCISCO SANTIAGO",
+   "camiseta": "95",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60168",
+   "Jug_Sale": "RAFAEL DELGADO",
+   "CarneEntra": "68220",
+   "Jug_Entra": "GUILLERMO BENTANCOUR",
+   "camiseta": "44",
+   "minutos": "44"
+  },
+  {
+   "CarneSale": "58726",
+   "Jug_Sale": "CAMILO CORRALES",
+   "CarneEntra": "58706",
+   "Jug_Entra": "MATIAS ORTIZ",
+   "camiseta": "9",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "65867",
+   "Jug_Sale": "FACUNDO AGUSTIN FERNANDEZ",
+   "CarneEntra": "58906",
+   "Jug_Entra": "MARTIN MERA",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67027",
+   "Jug_Sale": "ARON ESTEVEZ",
+   "CarneEntra": "67025",
+   "Jug_Entra": "SALVADOR VARELA",
+   "camiseta": "30",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "63099",
+   "Jug_Sale": "JOAQUIN FERNANDO HERNANDEZ",
+   "CarneEntra": "59052",
+   "Jug_Entra": "NICOLAS ANDRES BALDINI",
+   "camiseta": "90",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "59354",
+   "Jug_Sale": "FRANCISCO BULEIN",
+   "CarneEntra": "58971",
+   "Jug_Entra": "GUILLERMO SANTIAGO CABARCOS",
+   "camiseta": "28",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58624",
+   "Jug_Sale": "JOAQUIN MATIAS NIETO",
+   "CarneEntra": "64103",
+   "Jug_Entra": "ENZO YACI",
+   "camiseta": "49",
+   "minutos": "33"
+  },
+  {
+   "CarneSale": "67238",
+   "Jug_Sale": "SANTIAGO BALTASAR",
+   "CarneEntra": "65547",
+   "Jug_Entra": "JOSE IGNACIO LESSA",
+   "camiseta": "19",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "59588",
+   "Jug_Sale": "GERARDO ROCCO BELLO",
+   "CarneEntra": "61876",
+   "Jug_Entra": "JOAQUIN DE DIOS",
+   "camiseta": "52",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "63347",
+   "Jug_Sale": "VALENTIN ROBKIN",
+   "CarneEntra": "67673",
+   "Jug_Entra": "EMILIANO BARBOSA",
+   "camiseta": "78",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "65542",
+   "Jug_Sale": "IGNACIO CIRIGLIANO",
+   "CarneEntra": "67239",
+   "Jug_Entra": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "31",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "57022",
+   "Jug_Sale": "JUAN DIEGO CACERES",
+   "CarneEntra": "59588",
+   "Jug_Entra": "GERARDO ROCCO BELLO",
+   "camiseta": "17",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58726",
+   "Nombre": "CAMILO CORRALES",
+   "minutos": "19",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58726",
+   "Nombre": "CAMILO CORRALES",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58726",
+   "Nombre": "CAMILO CORRALES",
+   "minutos": "35",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59354",
+   "Nombre": "FRANCISCO BULEIN",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "69",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

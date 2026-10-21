@@ -1,0 +1,314 @@
+{
+ "id": "101056",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 4,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "381",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-08-15 11:00:00",
+  "Fecha_fin": "2026-08-15 11:00:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53378",
+   "Nombre": "NICOLAS SILVA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64272",
+   "Nombre": "HERNAN EZEQUIEL PUSCHIASIS",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "52808",
+   "Nombre": "SEBASTIAN USHER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49636",
+   "Nombre": "AGUSTIN ALGORTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "45778",
+   "Nombre": "SANTIAGO BARBEITO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "53171",
+   "Nombre": "FRANCISCO ACUÑA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "56035",
+   "Nombre": "LUIS CARLOS PADRON",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66528",
+   "Nombre": "LUCA CANZANI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "57343",
+   "Nombre": "FEDERICO PELUFFO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55264",
+   "Nombre": "JERONIMO LARCADE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55254",
+   "Nombre": "ANDRES GUILLERMO COITO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "58348",
+   "Nombre": "JOAQUIN GUANI",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "44865",
+   "Nombre": "JOAQUIN AUGUSTO ANDRES",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "37751",
+   "Nombre": "AGUSTIN KOSEC",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49110",
+   "Nombre": "CAMILO BALIAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "46472",
+   "Nombre": "GUILLERMO VON SANDEN",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "44081",
+   "Nombre": "SANTIAGO LIZARAZU",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49172",
+   "Nombre": "MANUEL ANSELMI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "49192",
+   "Nombre": "JUAN MARTIN ROCCA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "46451",
+   "Nombre": "GONZALO CAMESELLA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53171",
+   "Jug_Sale": "FRANCISCO ACUÑA",
+   "CarneEntra": "49279",
+   "Jug_Entra": "MATEO PATRONE",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45778",
+   "Jug_Sale": "SANTIAGO BARBEITO",
+   "CarneEntra": "57035",
+   "Jug_Entra": "FELIPE MONTAÑES",
+   "camiseta": "29",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "53378",
+   "Jug_Sale": "NICOLAS SILVA",
+   "CarneEntra": "48445",
+   "Jug_Entra": "JUAN MANUEL DONDAN",
+   "camiseta": "77",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "64272",
+   "Jug_Sale": "HERNAN EZEQUIEL PUSCHIASIS",
+   "CarneEntra": "52402",
+   "Jug_Entra": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "56035",
+   "Jug_Sale": "LUIS CARLOS PADRON",
+   "CarneEntra": "58608",
+   "Jug_Entra": "BAUTISTA ANDRES TERRA",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57343",
+   "Jug_Sale": "FEDERICO PELUFFO",
+   "CarneEntra": "58665",
+   "Jug_Entra": "TOMAS ALGORTA",
+   "camiseta": "16",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "52808",
+   "Jug_Sale": "SEBASTIAN USHER",
+   "CarneEntra": "53378",
+   "Jug_Entra": "NICOLAS SILVA",
+   "camiseta": "14",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46472",
+   "Jug_Sale": "GUILLERMO VON SANDEN",
+   "CarneEntra": "49178",
+   "Jug_Entra": "MARCEL BEJEREZ",
+   "camiseta": "87",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "49192",
+   "Jug_Sale": "JUAN MARTIN ROCCA",
+   "CarneEntra": "52678",
+   "Jug_Entra": "VALENTINO MASONI",
+   "camiseta": "19",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "55254",
+   "Jug_Sale": "ANDRES GUILLERMO COITO",
+   "CarneEntra": "57658",
+   "Jug_Entra": "IGNACIO MIERES",
+   "camiseta": "22",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "46451",
+   "Jug_Sale": "GONZALO CAMESELLA",
+   "CarneEntra": "50884",
+   "Jug_Entra": "SANTIAGO RUBIO",
+   "camiseta": "77",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "37751",
+   "Jug_Sale": "AGUSTIN KOSEC",
+   "CarneEntra": "46948",
+   "Jug_Entra": "SANTIAGO CAULA",
+   "camiseta": "90",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "49172",
+   "Jug_Sale": "MANUEL ANSELMI",
+   "CarneEntra": "60835",
+   "Jug_Entra": "SEBASTIAN DANILO BAZZINO",
+   "camiseta": "14",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "55254",
+   "Jug_Sale": "ANDRES GUILLERMO COITO",
+   "CarneEntra": "51610",
+   "Jug_Entra": "PABLO VALDOMIR",
+   "camiseta": "99",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58665",
+   "Nombre": "TOMAS ALGORTA",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "44081",
+   "Nombre": "SANTIAGO LIZARAZU",
+   "minutos": "9",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46472",
+   "Nombre": "GUILLERMO VON SANDEN",
+   "minutos": "22",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52678",
+   "Nombre": "VALENTINO MASONI",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

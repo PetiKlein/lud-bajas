@@ -1,0 +1,314 @@
+{
+ "id": "99615",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 09:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "PLAYA HONDA UNIVERSITARIO",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "60",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-06-06 11:00:00",
+  "Fecha_fin": "2026-06-06 11:00:00",
+  "Locatario": "PLAYA HONDA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53369",
+   "Nombre": "IVAN BARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53845",
+   "Nombre": "MARTIN CURUTCHAGUE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55177",
+   "Nombre": "MARCO PISANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58715",
+   "Nombre": "JUAN SEBASTIAN RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "41179",
+   "Nombre": "EUGENIO SUPPARO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56818",
+   "Nombre": "FACUNDO MARCEL RODRIGUEZ",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "67535",
+   "Nombre": "BENJAMIN DE IZAGUIRRE",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "49922",
+   "Nombre": "ANDRES PIÑEIRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67539",
+   "Nombre": "MATIAS NICOLAS RODRIGUEZ",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "camiseta": "36",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56349",
+   "Nombre": "FRANCO CARLOS BARBA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37903",
+   "Nombre": "MATEO MUJICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66798",
+   "Nombre": "SANTIAGO OLIVERA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "56006",
+   "Nombre": "SANTIAGO MAZZONCINI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "53130",
+   "Nombre": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48363",
+   "Nombre": "GERONIMO ABRAHAM PEREZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "57131",
+   "Nombre": "GIANFRANCO DUPONT",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58943",
+   "Nombre": "MATIAS DIEGO MENDEZ",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "53070",
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41179",
+   "Jug_Sale": "EUGENIO SUPPARO",
+   "CarneEntra": "68323",
+   "Jug_Entra": "FEDERICO SOLDEVILA",
+   "camiseta": "48",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "56818",
+   "Jug_Sale": "FACUNDO MARCEL RODRIGUEZ",
+   "CarneEntra": "55064",
+   "Jug_Entra": "GERONIMO LAIN",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67535",
+   "Jug_Sale": "BENJAMIN DE IZAGUIRRE",
+   "CarneEntra": "68646",
+   "Jug_Entra": "MARTIN GUADALUPE",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67539",
+   "Jug_Sale": "MATIAS NICOLAS RODRIGUEZ",
+   "CarneEntra": "56147",
+   "Jug_Entra": "MAURO MATEO NAVARRINE",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "49922",
+   "Jug_Sale": "ANDRES PIÑEIRO",
+   "CarneEntra": "49724",
+   "Jug_Entra": "AGUSTIN TAÑO",
+   "camiseta": "27",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "62123",
+   "Jug_Sale": "LAUTARO ELIAS CATSOURIS",
+   "CarneEntra": "53617",
+   "Jug_Entra": "MAXIMILIANO MONTERO",
+   "camiseta": "31",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "55177",
+   "Jug_Sale": "MARCO PISANO",
+   "CarneEntra": "61152",
+   "Jug_Entra": "DIEGO FRANCISCO CORTES",
+   "camiseta": "45",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37903",
+   "Jug_Sale": "MATEO MUJICA",
+   "CarneEntra": "45424",
+   "Jug_Entra": "ANDRES VALLARINO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66798",
+   "Jug_Sale": "SANTIAGO OLIVERA",
+   "CarneEntra": "54783",
+   "Jug_Entra": "MARTIN SEBASTIAN GONZALEZ",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48363",
+   "Jug_Sale": "GERONIMO ABRAHAM PEREZ",
+   "CarneEntra": "66795",
+   "Jug_Entra": "GERMAN MUJICA",
+   "camiseta": "16",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "57131",
+   "Jug_Sale": "GIANFRANCO DUPONT",
+   "CarneEntra": "61079",
+   "Jug_Entra": "JUAN PABLO ZUBILLAGA",
+   "camiseta": "38",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "56349",
+   "Jug_Sale": "FRANCO CARLOS BARBA",
+   "CarneEntra": "29859",
+   "Jug_Entra": "GUSTAVO GUZMAN AMESPIL",
+   "camiseta": "24",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "48803",
+   "Jug_Sale": "MATIAS REVELLO",
+   "CarneEntra": "63343",
+   "Jug_Entra": "LORENZO VERON",
+   "camiseta": "89",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "58943",
+   "Jug_Sale": "MATIAS DIEGO MENDEZ",
+   "CarneEntra": "45854",
+   "Jug_Entra": "JULIAN VELAZQUEZ",
+   "camiseta": "18",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "minutos": "17",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "48363",
+   "Nombre": "GERONIMO ABRAHAM PEREZ",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53070",
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "minutos": "72",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

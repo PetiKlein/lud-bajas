@@ -1,0 +1,236 @@
+{
+ "id": "102971",
+ "categoria": "sub20-c",
+ "serie": "20CP",
+ "fecha": 4,
+ "fechaHora": "2026-10-17 15:30:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "COLEGIO Y LICEO SANTO DOMINGO",
+ "visitante": "JUAN XXIII",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "516",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"C\" COPA DE PLATA",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-10-17 17:20:00",
+  "Fecha_fin": "2026-10-17 17:20:00",
+  "Locatario": "COLEGIO Y LICEO SANTO DOMINGO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57239",
+   "Nombre": "THIAGO PENA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "64635",
+   "Nombre": "JOAQUIN DUARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "62613",
+   "Nombre": "IGNACIO GODIÑO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "59006",
+   "Nombre": "IGNACIO MAYORA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "59028",
+   "Nombre": "JUAN MARTIN RIOLFO",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "61987",
+   "Nombre": "AGUSTIN NOVO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64637",
+   "Nombre": "THIAGO ANDRES SOUTO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63486",
+   "Nombre": "FEDERICO DAISSON",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57145",
+   "Nombre": "JOAQUIN GARABEDIAN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63190",
+   "Nombre": "MAURO CELIBERTI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "66783",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61876",
+   "Nombre": "JOAQUIN DE DIOS",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64501",
+   "Nombre": "DIEGO GONZALEZ",
+   "camiseta": "78",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "64103",
+   "Nombre": "ENZO YACI",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "64094",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "58624",
+   "Nombre": "JOAQUIN MATIAS NIETO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64101",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "67673",
+   "Nombre": "EMILIANO BARBOSA",
+   "camiseta": "84",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59028",
+   "Jug_Sale": "JUAN MARTIN RIOLFO",
+   "CarneEntra": "54102",
+   "Jug_Entra": "THIAGO ENRIQUE ROMERO",
+   "camiseta": "98",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57145",
+   "Jug_Sale": "JOAQUIN GARABEDIAN",
+   "CarneEntra": "68616",
+   "Jug_Entra": "ANGELO COVIELLO",
+   "camiseta": "21",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "59006",
+   "Jug_Sale": "IGNACIO MAYORA",
+   "CarneEntra": "57145",
+   "Jug_Entra": "JOAQUIN GARABEDIAN",
+   "camiseta": "9",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67673",
+   "Jug_Sale": "EMILIANO BARBOSA",
+   "CarneEntra": "67996",
+   "Jug_Entra": "MANUEL DE PAZOS",
+   "camiseta": "17",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "58624",
+   "Jug_Sale": "JOAQUIN MATIAS NIETO",
+   "CarneEntra": "65547",
+   "Jug_Entra": "JOSE IGNACIO LESSA",
+   "camiseta": "66",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "58783",
+   "Jug_Sale": "LAUTARO GABRIEL SALLES",
+   "CarneEntra": "67673",
+   "Jug_Entra": "EMILIANO BARBOSA",
+   "camiseta": "84",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "THIAGO PENA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

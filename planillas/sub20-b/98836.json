@@ -1,0 +1,284 @@
+{
+ "id": "98836",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 16:00:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "DEPORTIVO LS UNIVERSITARIO",
+ "gl": 4,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "153",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-05-16 17:50:00",
+  "Fecha_fin": "2026-05-16 17:50:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53537",
+   "Nombre": "MATEO VAZQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57805",
+   "Nombre": "MATEO UBERTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "57130",
+   "Nombre": "FELIPE OLMOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61977",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62779",
+   "Nombre": "MIRKO DAMIAN MALAN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "58729",
+   "Nombre": "MATIAS CAMACHO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66420",
+   "Nombre": "VALENTIN GASPAR QUARNETI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56838",
+   "Nombre": "LUCA ALESSANDRO COCINA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63384",
+   "Nombre": "AGUSTIN YERLE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59445",
+   "Nombre": "BRUNO ORTEGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60866",
+   "Nombre": "SANTINO SALAVERRY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59424",
+   "Nombre": "FACUNDO TOMAS GARCIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59545",
+   "Nombre": "EMILIANO JOAQUIN PAREDES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "57849",
+   "Nombre": "FEDERICO MANUEL BOGAO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58225",
+   "Nombre": "GASTON PRILIAC",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "56800",
+   "Nombre": "ELIAS LAUTARO IOVINE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63645",
+   "Nombre": "TOMAS DANIEL MARTINEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56926",
+   "Nombre": "MANUEL NICOLAS COSTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61020",
+   "Nombre": "GONZALO HUERTAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63545",
+   "Nombre": "GONZALO DANIEL GRECIET",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56838",
+   "Jug_Sale": "LUCA ALESSANDRO COCINA",
+   "CarneEntra": "61975",
+   "Jug_Entra": "MARTINHO MACEDO",
+   "camiseta": "90",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "56668",
+   "Jug_Sale": "TADDEO BASSI",
+   "CarneEntra": "56489",
+   "Jug_Entra": "JOAQUIN MUNIZ",
+   "camiseta": "24",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "63384",
+   "Jug_Sale": "AGUSTIN YERLE",
+   "CarneEntra": "66447",
+   "Jug_Entra": "FRANCO SEBASTIAN TECHERA",
+   "camiseta": "5",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58225",
+   "Jug_Sale": "GASTON PRILIAC",
+   "CarneEntra": "59396",
+   "Jug_Entra": "KEVIN NICOLAS BARRERA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61020",
+   "Jug_Sale": "GONZALO HUERTAS",
+   "CarneEntra": "59409",
+   "Jug_Entra": "FRANCO LARROSA",
+   "camiseta": "23",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63645",
+   "Jug_Sale": "TOMAS DANIEL MARTINEZ",
+   "CarneEntra": "59419",
+   "Jug_Entra": "IMANOL FYNN",
+   "camiseta": "88",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63545",
+   "Jug_Sale": "GONZALO DANIEL GRECIET",
+   "CarneEntra": "56421",
+   "Jug_Entra": "DAMIAN DENES",
+   "camiseta": "13",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "56926",
+   "Jug_Sale": "MANUEL NICOLAS COSTA",
+   "CarneEntra": "56930",
+   "Jug_Entra": "LAUTARO PERDOMO",
+   "camiseta": "23",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53537",
+   "Nombre": "MATEO VAZQUEZ",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "minutos": "27",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "minutos": "48",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66420",
+   "Nombre": "VALENTIN GASPAR QUARNETI",
+   "minutos": "84",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56800",
+   "Nombre": "ELIAS LAUTARO IOVINE",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57849",
+   "Nombre": "FEDERICO MANUEL BOGAO",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61020",
+   "Nombre": "GONZALO HUERTAS",
+   "minutos": "32",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

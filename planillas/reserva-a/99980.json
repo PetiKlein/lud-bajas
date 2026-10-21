@@ -1,0 +1,296 @@
+{
+ "id": "99980",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "OLD WOODLANDS CLUB",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "71",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-13 13:15:00",
+  "Fecha_fin": "2026-06-13 13:15:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "OLD WOODLANDS CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58980",
+   "Nombre": "MATEO PONCE DE LEON",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "57328",
+   "Nombre": "IÑAKI ODRIOZOLA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "52356",
+   "Nombre": "FELIPE ROBAINA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "41908",
+   "Nombre": "JUAN MARTIN AZADIAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "40041",
+   "Nombre": "GUILLERMO MARCHESE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50929",
+   "Nombre": "JUAN MANUEL CASELLA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "48650",
+   "Nombre": "JUAN IGNACIO CERULLO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54025",
+   "Nombre": "JOSE IGNACIO ARBILLA",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "camiseta": "96",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65071",
+   "Nombre": "MANUEL FELIPE DOMINGUEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "52783",
+   "Nombre": "DAAN TOMAS ELBERSE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "36920",
+   "Nombre": "JUAN IGNACIO REGO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "53000",
+   "Nombre": "FEDERICO NUÑEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "54724",
+   "Nombre": "MAURICIO DI BELLO",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "33370",
+   "Nombre": "SANTIAGO BZUROVSKI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53647",
+   "Nombre": "MATIAS PINTOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52998",
+   "Nombre": "MARCOS ALVAREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "49153",
+   "Nombre": "SANTIAGO MARTIN OCASO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58593",
+   "Nombre": "ALVARO FACUNDO DEFAUT",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "50731",
+   "Nombre": "FACUNDO MUNUA",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52356",
+   "Jug_Sale": "FELIPE ROBAINA",
+   "CarneEntra": "51193",
+   "Jug_Entra": "FRANCISCO JOSE BAYCE",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41908",
+   "Jug_Sale": "JUAN MARTIN AZADIAN",
+   "CarneEntra": "50128",
+   "Jug_Entra": "JUAN ANDRES GIL",
+   "camiseta": "54",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48650",
+   "Jug_Sale": "JUAN IGNACIO CERULLO",
+   "CarneEntra": "55358",
+   "Jug_Entra": "MATTEO REICHERT",
+   "camiseta": "99",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "48685",
+   "Jug_Sale": "MAURICIO IHARA",
+   "CarneEntra": "53442",
+   "Jug_Entra": "JUAN RAMON ARBILLA",
+   "camiseta": "45",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "50929",
+   "Jug_Sale": "JUAN MANUEL CASELLA",
+   "CarneEntra": "48650",
+   "Jug_Entra": "JUAN IGNACIO CERULLO",
+   "camiseta": "11",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "54025",
+   "Jug_Sale": "JOSE IGNACIO ARBILLA",
+   "CarneEntra": "58855",
+   "Jug_Entra": "JOAQUIN MARTINEZ",
+   "camiseta": "33",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53000",
+   "Jug_Sale": "FEDERICO NUÑEZ",
+   "CarneEntra": "53360",
+   "Jug_Entra": "SANTIAGO JORCIN",
+   "camiseta": "28",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "49153",
+   "Jug_Sale": "SANTIAGO MARTIN OCASO",
+   "CarneEntra": "56777",
+   "Jug_Entra": "BRUNO MARIA IRULEGUY",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58593",
+   "Jug_Sale": "ALVARO FACUNDO DEFAUT",
+   "CarneEntra": "53615",
+   "Jug_Entra": "THIAGO BENITES",
+   "camiseta": "10",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "50731",
+   "Jug_Sale": "FACUNDO MUNUA",
+   "CarneEntra": "51145",
+   "Jug_Entra": "ALEJANDRO VICTORICA",
+   "camiseta": "70",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "58593",
+   "Jug_Sale": "ALVARO FACUNDO DEFAUT",
+   "CarneEntra": "53647",
+   "Jug_Entra": "MATIAS PINTOS",
+   "camiseta": "36",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54025",
+   "Nombre": "JOSE IGNACIO ARBILLA",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "50731",
+   "Nombre": "FACUNDO MUNUA",
+   "minutos": "8",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52998",
+   "Nombre": "MARCOS ALVAREZ",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58593",
+   "Nombre": "ALVARO FACUNDO DEFAUT",
+   "minutos": "11",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,282 @@
+{
+ "id": "97922",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "JUVENTUD MELILLA",
+ "local": "CERVANTES UNIVERSITARIO",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "363",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "JUVENTUD MELILLA",
+  "Fecha_Inicio": "2026-04-11 10:51:00",
+  "Fecha_fin": "2026-04-11 10:51:00",
+  "Locatario": "CERVANTES UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66635",
+   "Nombre": "SANTIAGO JAVIER RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "47607",
+   "Nombre": "ALEX CLARK",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "59275",
+   "Nombre": "JOAQUIN SILVERA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67445",
+   "Nombre": "JUAN MARTIN TRIVEL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52723",
+   "Nombre": "FELIPE CARLOS DE CARVALHO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67255",
+   "Nombre": "MATIAS TEJEIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59273",
+   "Nombre": "PEDRO MALOSETTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67442",
+   "Nombre": "TOMAS MARTINEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "56102",
+   "Nombre": "LAUTARO GABRIEL SIXTO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56101",
+   "Nombre": "SALVADOR AGUSTIN SIXTO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59269",
+   "Nombre": "MIGUEL PEREYRA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42729",
+   "Nombre": "VALENTIN ALEJANDRO FERNANDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49636",
+   "Nombre": "AGUSTIN ALGORTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "52810",
+   "Nombre": "ISMAEL VERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64365",
+   "Nombre": "JUAN BAUTISTA ARRUABARRENA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "45772",
+   "Nombre": "LUCAS POMI",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "53267",
+   "Nombre": "MAXIMO TORNONI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67387",
+   "Nombre": "GONZALO ESTEVES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53171",
+   "Nombre": "FRANCISCO ACUÑA",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56101",
+   "Jug_Sale": "SALVADOR AGUSTIN SIXTO",
+   "CarneEntra": "28295",
+   "Jug_Entra": "MATHÌAS CAMBÒN",
+   "camiseta": "5",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "56102",
+   "Jug_Sale": "LAUTARO GABRIEL SIXTO",
+   "CarneEntra": "52671",
+   "Jug_Entra": "JUAN MARTIN CANO",
+   "camiseta": "9",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "59269",
+   "Jug_Sale": "MIGUEL PEREYRA",
+   "CarneEntra": "63649",
+   "Jug_Entra": "AXEL EDUARDO CANTERO",
+   "camiseta": "29",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "67255",
+   "Jug_Sale": "MATIAS TEJEIRA",
+   "CarneEntra": "52924",
+   "Jug_Entra": "AGUSTIN REBOLEDO",
+   "camiseta": "21",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "67442",
+   "Jug_Sale": "TOMAS MARTINEZ",
+   "CarneEntra": "59120",
+   "Jug_Entra": "SANTIAGO SEGREDO",
+   "camiseta": "10",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "59273",
+   "Jug_Sale": "PEDRO MALOSETTI",
+   "CarneEntra": "67438",
+   "Jug_Entra": "BRUNO MUSETTI",
+   "camiseta": "25",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53267",
+   "Jug_Sale": "MAXIMO TORNONI",
+   "CarneEntra": "53378",
+   "Jug_Entra": "NICOLAS SILVA",
+   "camiseta": "44",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "52184",
+   "Jug_Sale": "DIEGO GIBERT",
+   "CarneEntra": "54722",
+   "Jug_Entra": "LUCAS SCAFARELLI",
+   "camiseta": "17",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "49636",
+   "Jug_Sale": "AGUSTIN ALGORTA",
+   "CarneEntra": "64222",
+   "Jug_Entra": "GONZALO DIAZ",
+   "camiseta": "11",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "45772",
+   "Jug_Sale": "LUCAS POMI",
+   "CarneEntra": "49636",
+   "Jug_Entra": "AGUSTIN ALGORTA",
+   "camiseta": "32",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56101",
+   "Nombre": "SALVADOR AGUSTIN SIXTO",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63649",
+   "Nombre": "AXEL EDUARDO CANTERO",
+   "minutos": "93",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67438",
+   "Nombre": "BRUNO MUSETTI",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "42729",
+   "Nombre": "VALENTIN ALEJANDRO FERNANDEZ",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

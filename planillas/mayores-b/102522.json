@@ -1,0 +1,276 @@
+{
+ "id": "102522",
+ "categoria": "mayores-b",
+ "serie": "BTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-04 11:15:00",
+ "cancha": "SAN ISIDRO LOMAS",
+ "local": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "visitante": "J.M.L.M",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "903",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"B\" TIT. y ASC.",
+  "Cancha": "SAN ISIDRO LOMAS",
+  "Fecha_Inicio": "2026-10-04 13:10:00",
+  "Fecha_fin": "2026-10-04 13:10:00",
+  "Locatario": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67584",
+   "Nombre": "MATIAS SANTIAGO VILLAR",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "60073",
+   "Nombre": "MAXIMILIANO CAMBON",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "52683",
+   "Nombre": "FRANCO CHEMELLO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "43591",
+   "Nombre": "BRUNO LENZUE",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52781",
+   "Nombre": "MAXIMILIANO ZUNINO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47677",
+   "Nombre": "JUAN PABLO SILVIO NICOLETTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56143",
+   "Nombre": "CARLOS ROBERTO SARDEÑA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56507",
+   "Nombre": "LUCAS OLIVERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "32028",
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52991",
+   "Nombre": "FRANCO MICHELENA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "60972",
+   "Nombre": "FELIPE ARBIZA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45776",
+   "Nombre": "NICOLAS DOMINGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24053",
+   "Nombre": "JUAN IGNACIO MORO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51505",
+   "Nombre": "MATEO GIOSA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "45775",
+   "Nombre": "FRANCO GIOSA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "46923",
+   "Nombre": "MATEO PARPAL",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47375",
+   "Nombre": "JOAQUIN MARQUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "46862",
+   "Nombre": "JUAN IGNACIO GARCIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47817",
+   "Nombre": "CAMILO GILI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47379",
+   "Nombre": "FEDERICO DANIEL GONZALEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "43862",
+   "Nombre": "SANTIAGO TORRE",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "46705",
+   "Nombre": "JUAN PABLO GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "32028",
+   "Jug_Sale": "FACUNDO RODRIGUEZ",
+   "CarneEntra": "53965",
+   "Jug_Entra": "BRUNO MICHELENA",
+   "camiseta": "20",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "56507",
+   "Jug_Sale": "LUCAS OLIVERA",
+   "CarneEntra": "63027",
+   "Jug_Entra": "NICOLAS IÑAKY GUERRA",
+   "camiseta": "20",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "60073",
+   "Jug_Sale": "MAXIMILIANO CAMBON",
+   "CarneEntra": "57708",
+   "Jug_Entra": "VALENTIN CUÑA",
+   "camiseta": "23",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "47677",
+   "Jug_Sale": "JUAN PABLO SILVIO NICOLETTI",
+   "CarneEntra": "29926",
+   "Jug_Entra": "JOAQUIN TEJERIA",
+   "camiseta": "9",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "60972",
+   "Jug_Sale": "FELIPE ARBIZA",
+   "CarneEntra": "60073",
+   "Jug_Entra": "MAXIMILIANO CAMBON",
+   "camiseta": "40",
+   "minutos": "92"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47379",
+   "Jug_Sale": "FEDERICO DANIEL GONZALEZ",
+   "CarneEntra": "51589",
+   "Jug_Entra": "LUCAS TROVO",
+   "camiseta": "10",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "43862",
+   "Jug_Sale": "SANTIAGO TORRE",
+   "CarneEntra": "54192",
+   "Jug_Entra": "FEDERICO PEREZ",
+   "camiseta": "8",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "46705",
+   "Jug_Sale": "JUAN PABLO GONZALEZ",
+   "CarneEntra": "52806",
+   "Jug_Entra": "SANTIAGO LUIS",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "47817",
+   "Jug_Sale": "CAMILO GILI",
+   "CarneEntra": "47184",
+   "Jug_Entra": "NICOLAS FLEGINSKY",
+   "camiseta": "37",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "47375",
+   "Jug_Sale": "JOAQUIN MARQUEZ",
+   "CarneEntra": "41952",
+   "Jug_Entra": "JUAN IGNACIO SENATORE",
+   "camiseta": "80",
+   "minutos": "94"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47677",
+   "Nombre": "JUAN PABLO SILVIO NICOLETTI",
+   "minutos": "56",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45775",
+   "Nombre": "FRANCO GIOSA",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52806",
+   "Nombre": "SANTIAGO LUIS",
+   "minutos": "91",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

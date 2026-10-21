@@ -1,0 +1,300 @@
+{
+ "id": "100009",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:10:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "OLIMAR",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "191",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-14 11:15:00",
+  "Fecha_fin": "2026-06-14 11:15:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "OLIMAR",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65017",
+   "Nombre": "DIEGO GUSTAVO VERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55158",
+   "Nombre": "LAUTARO LUJAN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52859",
+   "Nombre": "ALEN DOMINGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "45761",
+   "Nombre": "FELIPE VIERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53726",
+   "Nombre": "IVAN ANDRES GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "35178",
+   "Nombre": "ANDRES GARCIA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62298",
+   "Nombre": "FRANCO RUSSOMANO",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "62790",
+   "Nombre": "JUAN MARTIN MUÑOZ",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "50993",
+   "Nombre": "SANTIAGO DURAN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "50625",
+   "Nombre": "IGNACIO GARCIA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "37683",
+   "Nombre": "PABLO GASTON OLIVERA",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57165",
+   "Nombre": "LEANDRO MARTIN BOLDRINI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "29643",
+   "Nombre": "DARIO CAMPELO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "38803",
+   "Nombre": "MAURO LAGOMARSINO",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33338",
+   "Nombre": "IGNACIO INDA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60364",
+   "Nombre": "ALFONSO NICOLAS ALMEIDA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52565",
+   "Nombre": "NAHUEL AGUSTIN VIGNOLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65333",
+   "Nombre": "LUCAS DIEGO ALVARIZA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60969",
+   "Nombre": "STEVEN LARROSA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57724",
+   "Nombre": "GONZALO MARTIN MESPOLET",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "47310",
+   "Nombre": "ANDRES FEDERICO OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63395",
+   "Nombre": "DIEGO DANIEL DOS SANTOS",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50993",
+   "Jug_Sale": "SANTIAGO DURAN",
+   "CarneEntra": "45724",
+   "Jug_Entra": "NICOLAS POLLERO",
+   "camiseta": "9",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "62298",
+   "Jug_Sale": "FRANCO RUSSOMANO",
+   "CarneEntra": "54614",
+   "Jug_Entra": "FRANCISCO NUÑEZ",
+   "camiseta": "10",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "37683",
+   "Jug_Sale": "PABLO GASTON OLIVERA",
+   "CarneEntra": "56955",
+   "Jug_Entra": "PAULINO JERONIMO PERDOMO",
+   "camiseta": "70",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "50625",
+   "Jug_Sale": "IGNACIO GARCIA",
+   "CarneEntra": "49504",
+   "Jug_Entra": "VALENTIN OPER",
+   "camiseta": "25",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "62790",
+   "Jug_Sale": "JUAN MARTIN MUÑOZ",
+   "CarneEntra": "59224",
+   "Jug_Entra": "MATIAS LEMBO",
+   "camiseta": "51",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56955",
+   "Jug_Sale": "PAULINO JERONIMO PERDOMO",
+   "CarneEntra": "39016",
+   "Jug_Entra": "SANTIAGO JACOBO",
+   "camiseta": "10",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "29643",
+   "Jug_Sale": "DARIO CAMPELO",
+   "CarneEntra": "60171",
+   "Jug_Entra": "YONATHAN FACUNDO ALDAVE",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65333",
+   "Jug_Sale": "LUCAS DIEGO ALVARIZA",
+   "CarneEntra": "47177",
+   "Jug_Entra": "BRUNO BRUM",
+   "camiseta": "7",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "52565",
+   "Jug_Sale": "NAHUEL AGUSTIN VIGNOLO",
+   "CarneEntra": "55640",
+   "Jug_Entra": "SANTIAGO SUAREZ",
+   "camiseta": "17",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "57724",
+   "Jug_Sale": "GONZALO MARTIN MESPOLET",
+   "CarneEntra": "64704",
+   "Jug_Entra": "MARTIN LUCIANO ITURRALDE",
+   "camiseta": "9",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "60969",
+   "Jug_Sale": "STEVEN LARROSA",
+   "CarneEntra": "58424",
+   "Jug_Entra": "ALFONSO DARIO GIMENEZ",
+   "camiseta": "19",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "63395",
+   "Jug_Sale": "DIEGO DANIEL DOS SANTOS",
+   "CarneEntra": "52566",
+   "Jug_Entra": "EMILIANO GASTON VIGNOLO",
+   "camiseta": "14",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "47310",
+   "Jug_Sale": "ANDRES FEDERICO OLIVERA",
+   "CarneEntra": "62466",
+   "Jug_Entra": "FERNANDO ALEXIS ACOSTA",
+   "camiseta": "16",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50625",
+   "Nombre": "IGNACIO GARCIA",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50993",
+   "Nombre": "SANTIAGO DURAN",
+   "minutos": "6",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57724",
+   "Nombre": "GONZALO MARTIN MESPOLET",
+   "minutos": "43",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

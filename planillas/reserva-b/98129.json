@@ -1,0 +1,273 @@
+{
+ "id": "98129",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "HARAS CUC",
+ "local": "OLD CHRISTIANS VERDE",
+ "visitante": "CLUB UNIVERSIDAD CATOLICA",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "122",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "HARAS CUC",
+  "Fecha_Inicio": "2026-04-11 11:00:00",
+  "Fecha_fin": "2026-04-11 11:00:00",
+  "Locatario": "OLD CHRISTIANS VERDE",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "36895",
+   "Nombre": "GUILLERMO LAURNAGA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35673",
+   "Nombre": "ALBERTO JERONIMO NOGUERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52623",
+   "Nombre": "ALEJO PARODI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67388",
+   "Nombre": "SANTIAGO BERTORELLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53757",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "44029",
+   "Nombre": "TOMAS SANTIAGO SLINGER",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "37067",
+   "Nombre": "TOMAS BERRO",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "53976",
+   "Nombre": "MATEO STORACE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56746",
+   "Nombre": "JOAQUIN REINANTE",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "49487",
+   "Nombre": "FACUNDO MARTIN CRUCE",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "46366",
+   "Nombre": "IGNACIO MESIAS",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47663",
+   "Nombre": "ANTHONE IVAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58896",
+   "Nombre": "JUAN ANTONIO GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "33299",
+   "Nombre": "GUILLERMO BRUNO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "60895",
+   "Nombre": "TOMAS ANDRES OTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56909",
+   "Nombre": "JOAQUIN NICOLAS NAVAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57516",
+   "Nombre": "SANTIAGO SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64594",
+   "Nombre": "LUCAS NAHUEL MOREIRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51756",
+   "Nombre": "JUAN IGNACIO PERTUSSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "55714",
+   "Nombre": "FELIPE LOVATTO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63608",
+   "Nombre": "PABLO MARI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56746",
+   "Jug_Sale": "JOAQUIN REINANTE",
+   "CarneEntra": "55214",
+   "Jug_Entra": "BAUTISTA RAFAEL LADOUX",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49487",
+   "Jug_Sale": "FACUNDO MARTIN CRUCE",
+   "CarneEntra": "51736",
+   "Jug_Entra": "PEDRO HINSCH",
+   "camiseta": "32",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "53976",
+   "Jug_Sale": "MATEO STORACE",
+   "CarneEntra": "39754",
+   "Jug_Entra": "JOAQUIN FEDERICO SLINGER",
+   "camiseta": "36",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "37067",
+   "Jug_Sale": "TOMAS BERRO",
+   "CarneEntra": "37178",
+   "Jug_Entra": "FELIPE BUYSAN",
+   "camiseta": "10",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57516",
+   "Jug_Sale": "SANTIAGO SUAREZ",
+   "CarneEntra": "46926",
+   "Jug_Entra": "MATIAS ANDRES MUNIZ",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64594",
+   "Jug_Sale": "LUCAS NAHUEL MOREIRA",
+   "CarneEntra": "39373",
+   "Jug_Entra": "EMILIANO BERRETA",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56909",
+   "Jug_Sale": "JOAQUIN NICOLAS NAVAS",
+   "CarneEntra": "61141",
+   "Jug_Entra": "ADRIAN IGNACIO GALVAN",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "33299",
+   "Jug_Sale": "GUILLERMO BRUNO",
+   "CarneEntra": "50220",
+   "Jug_Entra": "RAMIRO CHOCHO",
+   "camiseta": "22",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "63608",
+   "Jug_Sale": "PABLO MARI",
+   "CarneEntra": "64594",
+   "Jug_Entra": "LUCAS NAHUEL MOREIRA",
+   "camiseta": "5",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53976",
+   "Nombre": "MATEO STORACE",
+   "minutos": "9",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63608",
+   "Nombre": "PABLO MARI",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "IGNACIO MESIAS",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,281 @@
+{
+ "id": "100957",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 15,
+ "fechaHora": "2026-08-16 09:00:00",
+ "cancha": "ESCUELA NAVAL",
+ "local": "DEPORTIVO MITRE",
+ "visitante": "JEAN PIAGET",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "598",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "ESCUELA NAVAL",
+  "Fecha_Inicio": "2026-08-16 11:10:00",
+  "Fecha_fin": "2026-08-16 11:10:00",
+  "Locatario": "DEPORTIVO MITRE",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "JEAN PIAGET",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47389",
+   "Nombre": "SEBASTIAN SILVA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "65976",
+   "Nombre": "JOAN LUCAS ROSA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57270",
+   "Nombre": "MATEO BERTOLIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37963",
+   "Nombre": "GUZMAN STEGLICH",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "43739",
+   "Nombre": "JUAN ANDRES GUARINO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "66857",
+   "Nombre": "JUAN ANDRES CRUJEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "44077",
+   "Nombre": "AGUSTIN ANDRES OTERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62622",
+   "Nombre": "STEFANO ESPINOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53946",
+   "Nombre": "JUAN IGNACIO GODINO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25248",
+   "Nombre": "MATIAS BARREIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57732",
+   "Nombre": "SANTIAGO NICOLAS ESTEVEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59037",
+   "Nombre": "WILDER NAHUEL RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65824",
+   "Nombre": "MATHIAS ALEXIS TRAJTENBERG",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "35512",
+   "Nombre": "AGUSTIN PEDRO PUIG",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "43721",
+   "Nombre": "BRUNO RIVERO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "16030",
+   "Nombre": "CARLOS MAURO MATHIEU",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61830",
+   "Nombre": "FEDERICO LAVISTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62360",
+   "Nombre": "MATHIAS NAHUEL MORALES",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61882",
+   "Nombre": "SIMON DUTRA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67684",
+   "Nombre": "SEBASTIAN ALEJANDRO PEREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53239",
+   "Nombre": "MARIANO FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "56281",
+   "Nombre": "PABLO RAUL LUCAS",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57732",
+   "Jug_Sale": "SANTIAGO NICOLAS ESTEVEZ",
+   "CarneEntra": "55740",
+   "Jug_Entra": "FACUNDO NAHUEL GONZALEZ",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43739",
+   "Jug_Sale": "JUAN ANDRES GUARINO",
+   "CarneEntra": "43957",
+   "Jug_Entra": "DIEGO MARTIN MAGALLANES",
+   "camiseta": "2",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "37963",
+   "Jug_Sale": "GUZMAN STEGLICH",
+   "CarneEntra": "45054",
+   "Jug_Entra": "IGNACIO CABRERA",
+   "camiseta": "13",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "66857",
+   "Jug_Sale": "JUAN ANDRES CRUJEIRA",
+   "CarneEntra": "32418",
+   "Jug_Entra": "JOSE IGNACIO OLASCOAGA",
+   "camiseta": "7",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61882",
+   "Jug_Sale": "SIMON DUTRA",
+   "CarneEntra": "68692",
+   "Jug_Entra": "GUILLERMO DA COSTA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61830",
+   "Jug_Sale": "FEDERICO LAVISTA",
+   "CarneEntra": "66227",
+   "Jug_Entra": "ALEXANDER CASTELLI",
+   "camiseta": "35",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56281",
+   "Jug_Sale": "PABLO RAUL LUCAS",
+   "CarneEntra": "65466",
+   "Jug_Entra": "CESAR DANILO TELLECHEA",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "53239",
+   "Jug_Sale": "MARIANO FERNANDEZ",
+   "CarneEntra": "65022",
+   "Jug_Entra": "MATIAS DAMIAN DELIA",
+   "camiseta": "13",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "67684",
+   "Jug_Sale": "SEBASTIAN ALEJANDRO PEREZ",
+   "CarneEntra": "66226",
+   "Jug_Entra": "FEDERICO MARTIN RAMOS",
+   "camiseta": "32",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "68692",
+   "Jug_Sale": "GUILLERMO DA COSTA",
+   "CarneEntra": "56281",
+   "Jug_Entra": "PABLO RAUL LUCAS",
+   "camiseta": "10",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "32418",
+   "Nombre": "JOSE IGNACIO OLASCOAGA",
+   "minutos": "95",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53946",
+   "Nombre": "JUAN IGNACIO GODINO",
+   "minutos": "92",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "68692",
+   "Nombre": "GUILLERMO DA COSTA",
+   "minutos": "19",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "AGUSTIN PEDRO PUIG",
+   "observaciones": ""
+  }
+ ]
+}

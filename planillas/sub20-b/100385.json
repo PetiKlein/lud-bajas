@@ -1,0 +1,276 @@
+{
+ "id": "100385",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "ARQUITECTURA JRS.",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "196",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-20 15:40:00",
+  "Fecha_fin": "2026-06-20 15:40:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ARQUITECTURA JRS.",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59432",
+   "Nombre": "EDUARDO NAHUEL VELAZCO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56766",
+   "Nombre": "THIAGO PALLAS",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65701",
+   "Nombre": "RAMIRO GOMEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "59399",
+   "Nombre": "SANTIAGO LEAL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54791",
+   "Nombre": "JUAN MARTIN CAMMARANO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "54790",
+   "Nombre": "EMILIANO MARTIN PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62729",
+   "Nombre": "GIOVANNI FABRIZIO TORALES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "62731",
+   "Nombre": "TOMAS TAVAREZ",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "55162",
+   "Nombre": "FELIPE PAROLIN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "55882",
+   "Nombre": "FACUNDO MARTIN CASALAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55168",
+   "Nombre": "MARTIN VILARRUBI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67481",
+   "Nombre": "DYLAN IVAN VALLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53333",
+   "Nombre": "SANTIAGO JOSE LUJAMBIO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54652",
+   "Nombre": "VICENTE MARTIN ALVES",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "54913",
+   "Nombre": "ISMAEL BONNECARRERE",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58643",
+   "Nombre": "MATEO ESPIGA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61753",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61682",
+   "Nombre": "CLAUDIO MAXIMO AGUIAR",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64078",
+   "Nombre": "JOAQUIN GRACIA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "64728",
+   "Nombre": "ESTEBAN JONAS BORGES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64730",
+   "Nombre": "JUAN IGNACIO ACUÑA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57993",
+   "Nombre": "MATEO SOCA",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56766",
+   "Jug_Sale": "THIAGO PALLAS",
+   "CarneEntra": "68482",
+   "Jug_Entra": "MATTEO GIUDICE",
+   "camiseta": "55",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65701",
+   "Jug_Sale": "RAMIRO GOMEZ",
+   "CarneEntra": "67576",
+   "Jug_Entra": "MATEO GIARDELLO",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54791",
+   "Jug_Sale": "JUAN MARTIN CAMMARANO",
+   "CarneEntra": "62732",
+   "Jug_Entra": "JOAQUIN AFONSO",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62731",
+   "Jug_Sale": "TOMAS TAVAREZ",
+   "CarneEntra": "59208",
+   "Jug_Entra": "MARTIN POLANCO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55168",
+   "Jug_Sale": "MARTIN VILARRUBI",
+   "CarneEntra": "56776",
+   "Jug_Entra": "RODRIGO BOTTA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55162",
+   "Jug_Sale": "FELIPE PAROLIN",
+   "CarneEntra": "58067",
+   "Jug_Entra": "EMILIO VACCARO",
+   "camiseta": "23",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "59399",
+   "Jug_Sale": "SANTIAGO LEAL",
+   "CarneEntra": "54791",
+   "Jug_Entra": "JUAN MARTIN CAMMARANO",
+   "camiseta": "19",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61682",
+   "Jug_Sale": "CLAUDIO MAXIMO AGUIAR",
+   "CarneEntra": "59938",
+   "Jug_Entra": "DIEGO DAVID BARCELO",
+   "camiseta": "11",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "57993",
+   "Jug_Sale": "MATEO SOCA",
+   "CarneEntra": "56755",
+   "Jug_Entra": "PABLO MARTIN ABREU",
+   "camiseta": "23",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64730",
+   "Jug_Sale": "JUAN IGNACIO ACUÑA",
+   "CarneEntra": "63561",
+   "Jug_Entra": "ISAAC ENRIQUE LUCES",
+   "camiseta": "10",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "61753",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "57950",
+   "Jug_Entra": "BRUNO GARAY",
+   "camiseta": "30",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "61753",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "minutos": "58",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ESTEBAN JONAS BORGES",
+   "observaciones": ""
+  }
+ ]
+}

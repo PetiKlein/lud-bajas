@@ -1,0 +1,261 @@
+{
+ "id": "102548",
+ "categoria": "mayores-f",
+ "serie": "FTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-04 11:15:00",
+ "cancha": "MICROSULES",
+ "local": "VETERINARIA UNIVERSITARIO",
+ "visitante": "ESCUELA MILITAR",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "1126",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"F\" TIT. y ASC.",
+  "Cancha": "MICROSULES",
+  "Fecha_Inicio": "2026-10-04 13:05:00",
+  "Fecha_fin": "2026-10-04 13:05:00",
+  "Locatario": "VETERINARIA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ESCUELA MILITAR",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "46530",
+   "Nombre": "ENRIQUE FLETCHER",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67096",
+   "Nombre": "FRANCO AGUSTIN IRURETA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "63479",
+   "Nombre": "DIEGO MARTIN GODAY",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "46440",
+   "Nombre": "ANDERSON JAURIBIGUERRI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54029",
+   "Nombre": "MANUEL ALEJANDRO GALIANI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66044",
+   "Nombre": "FAUSTO VELAZQUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65933",
+   "Nombre": "FACUNDO FROZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "47237",
+   "Nombre": "GUILLERMO VALENTINO ZAPATA",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "68984",
+   "Nombre": "CARLOS SILVERA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65779",
+   "Nombre": "CESAR AGUSTIN QUEVEDO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "38891",
+   "Nombre": "RODRIGO MARTIN LOPEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64893",
+   "Nombre": "JUAN PEREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64897",
+   "Nombre": "AGUSTIN GULARTE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54486",
+   "Nombre": "FEDERICO UMPIERREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66802",
+   "Nombre": "BRANDON SASTRE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66803",
+   "Nombre": "GONZALO RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56615",
+   "Nombre": "GASTON MELO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52738",
+   "Nombre": "JHON CASTAÑO",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68786",
+   "Nombre": "MARTIN SALDAÑA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "59450",
+   "Nombre": "ENZO OTEGUI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68943",
+   "Nombre": "MAURO CORBO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66804",
+   "Nombre": "GUILLERMO IFRAN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68984",
+   "Jug_Sale": "CARLOS SILVERA",
+   "CarneEntra": "68011",
+   "Jug_Entra": "DIOGO TRISTAN ALONSO",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66044",
+   "Jug_Sale": "FAUSTO VELAZQUEZ",
+   "CarneEntra": "51897",
+   "Jug_Entra": "SANTIAGO DE FREITAS",
+   "camiseta": "8",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "65779",
+   "Jug_Sale": "CESAR AGUSTIN QUEVEDO",
+   "CarneEntra": "68984",
+   "Jug_Entra": "CARLOS SILVERA",
+   "camiseta": "12",
+   "minutos": "66"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54486",
+   "Jug_Sale": "FEDERICO UMPIERREZ",
+   "CarneEntra": "68942",
+   "Jug_Entra": "LORENZO ALONSO",
+   "camiseta": "15",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "66804",
+   "Jug_Sale": "GUILLERMO IFRAN",
+   "CarneEntra": "64900",
+   "Jug_Entra": "ELBIO RODRIGUES",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68943",
+   "Jug_Sale": "MAURO CORBO",
+   "CarneEntra": "66804",
+   "Jug_Entra": "GUILLERMO IFRAN",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "68786",
+   "Jug_Sale": "MARTIN SALDAÑA",
+   "CarneEntra": "68943",
+   "Jug_Entra": "MAURO CORBO",
+   "camiseta": "13",
+   "minutos": "49"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65779",
+   "Nombre": "CESAR AGUSTIN QUEVEDO",
+   "minutos": "12",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59450",
+   "Nombre": "ENZO OTEGUI",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64900",
+   "Nombre": "ELBIO RODRIGUES",
+   "minutos": "58",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FAUSTO VELAZQUEZ",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "FRANCO AGUSTIN IRURETA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

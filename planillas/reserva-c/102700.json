@@ -1,0 +1,272 @@
+{
+ "id": "102700",
+ "categoria": "reserva-c",
+ "serie": "RSCPD",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 11:15:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "LA BLANQUEADA",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "765",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"C\" PER. y DESC.",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-10-10 13:20:00",
+  "Fecha_fin": "2026-10-10 13:20:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "LA BLANQUEADA",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58491",
+   "Nombre": "FACUNDO SIMON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66777",
+   "Nombre": "SANTIAGO DAVRIEUX",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49283",
+   "Nombre": "SANTIAGO BARBOZA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "54928",
+   "Nombre": "ISMAEL IMPERIAL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "39198",
+   "Nombre": "MAXIMILIANO LUIS NICOLETTA",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64138",
+   "Nombre": "DILAN NAHUEL GARCIA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "39680",
+   "Nombre": "FELIX ANDRES FORASTIER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51082",
+   "Nombre": "IGNACIO LUIS JAUNSOLO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53979",
+   "Nombre": "GIANCARLO GRENNO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51935",
+   "Nombre": "SANTIAGO PAGANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35220",
+   "Nombre": "LUCIANO LOPEZ",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68751",
+   "Nombre": "BRUNO MANUEL MENA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "54193",
+   "Nombre": "GASTON LOMBARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51381",
+   "Nombre": "DIEGO MARTIN SUAREZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "47468",
+   "Nombre": "IGNACIO ANIDAPE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56438",
+   "Nombre": "MARTIN CALERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52034",
+   "Nombre": "DANIEL BLANCHARD",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53316",
+   "Nombre": "SANTIAGO NAHUEL NUÑEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "55228",
+   "Nombre": "CRISTIAN ADRIAN LEMOS",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66777",
+   "Jug_Sale": "SANTIAGO DAVRIEUX",
+   "CarneEntra": "51208",
+   "Jug_Entra": "JOAQUIN ALFONSO BECERRA",
+   "camiseta": "8",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "51082",
+   "Jug_Sale": "IGNACIO LUIS JAUNSOLO",
+   "CarneEntra": "55092",
+   "Jug_Entra": "FRANCO ADRIAN CABRERA",
+   "camiseta": "41",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "54928",
+   "Jug_Sale": "ISMAEL IMPERIAL",
+   "CarneEntra": "69059",
+   "Jug_Entra": "JAIME RUIZ",
+   "camiseta": "28",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "53979",
+   "Jug_Sale": "GIANCARLO GRENNO",
+   "CarneEntra": "51090",
+   "Jug_Entra": "JUAN IGNACIO RUSSO",
+   "camiseta": "7",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55228",
+   "Jug_Sale": "CRISTIAN ADRIAN LEMOS",
+   "CarneEntra": "56437",
+   "Jug_Entra": "FEDERICO PAOLINO",
+   "camiseta": "18",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "53316",
+   "Jug_Sale": "SANTIAGO NAHUEL NUÑEZ",
+   "CarneEntra": "62312",
+   "Jug_Entra": "MARCELO JAVIER SPANO",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56438",
+   "Jug_Sale": "MARTIN CALERO",
+   "CarneEntra": "69111",
+   "Jug_Entra": "ENZO MARTIN MENA",
+   "camiseta": "16",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "35220",
+   "Jug_Sale": "LUCIANO LOPEZ",
+   "CarneEntra": "55228",
+   "Jug_Entra": "CRISTIAN ADRIAN LEMOS",
+   "camiseta": "25",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "39680",
+   "Nombre": "FELIX ANDRES FORASTIER",
+   "minutos": "23",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51082",
+   "Nombre": "IGNACIO LUIS JAUNSOLO",
+   "minutos": "17",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53979",
+   "Nombre": "GIANCARLO GRENNO",
+   "minutos": "1",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52034",
+   "Nombre": "DANIEL BLANCHARD",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56438",
+   "Nombre": "MARTIN CALERO",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

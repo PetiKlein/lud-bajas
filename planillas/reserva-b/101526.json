@@ -1,0 +1,286 @@
+{
+ "id": "101526",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "211",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-09-05 13:00:00",
+  "Fecha_fin": "2026-09-05 13:00:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55015",
+   "Nombre": "FRANCISCO GRAMPIN",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51734",
+   "Nombre": "NAHUEL JAVIER BALSAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64208",
+   "Nombre": "JOAQUIN REPETTO",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "59323",
+   "Nombre": "MARCOS DA SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56289",
+   "Nombre": "SANTIAGO BAIS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "55138",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51216",
+   "Nombre": "IGNACIO ARRIOLA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "60774",
+   "Nombre": "MATEO COMBA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "50809",
+   "Nombre": "MARTIN GAITAN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "47766",
+   "Nombre": "MARCOS SANTIAGO HOLLANDER",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64209",
+   "Nombre": "AGUSTIN MORALES",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "44165",
+   "Nombre": "FEDERICO ABDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67240",
+   "Nombre": "JUAN MARTIN FAUST",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49808",
+   "Nombre": "BRUNO FERNANDEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "59480",
+   "Nombre": "ENZO LEON FREYER",
+   "camiseta": "57",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56779",
+   "Nombre": "JOAQUIN ELOLA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53458",
+   "Nombre": "SANTIAGO SPARKOV",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "43748",
+   "Nombre": "MATHIAS LUIS BOZZOLASCO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47766",
+   "Jug_Sale": "MARCOS SANTIAGO HOLLANDER",
+   "CarneEntra": "51217",
+   "Jug_Entra": "SANTIAGO MARTIN FRAGOSO",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "55138",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "57390",
+   "Jug_Entra": "SANTIAGO ANDRES LOPEZ",
+   "camiseta": "47",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "50809",
+   "Jug_Sale": "MARTIN GAITAN",
+   "CarneEntra": "50858",
+   "Jug_Entra": "TOMAS  JOAQUIN IBARRA",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56289",
+   "Jug_Sale": "SANTIAGO BAIS",
+   "CarneEntra": "18896",
+   "Jug_Entra": "GASTON RAMOS",
+   "camiseta": "28",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "60774",
+   "Jug_Sale": "MATEO COMBA",
+   "CarneEntra": "50770",
+   "Jug_Entra": "SANTIAGO IGNACIO FILGUEIRAS",
+   "camiseta": "6",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44165",
+   "Jug_Sale": "FEDERICO ABDO",
+   "CarneEntra": "49781",
+   "Jug_Entra": "TADEO BERTOLOTTI",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56779",
+   "Jug_Sale": "JOAQUIN ELOLA",
+   "CarneEntra": "53447",
+   "Jug_Entra": "SANTIAGO RAMON URQUIZA",
+   "camiseta": "21",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "67240",
+   "Jug_Sale": "JUAN MARTIN FAUST",
+   "CarneEntra": "51004",
+   "Jug_Entra": "AGUSTIN NICOLAS CHARLO",
+   "camiseta": "4",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "57184",
+   "Jug_Sale": "MARCO ESTEBAN TORIELLI",
+   "CarneEntra": "55606",
+   "Jug_Entra": "GONZALO CHIESA",
+   "camiseta": "10",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "43748",
+   "Jug_Sale": "MATHIAS LUIS BOZZOLASCO",
+   "CarneEntra": "62269",
+   "Jug_Entra": "SEBASTIAN GEHR",
+   "camiseta": "29",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "49808",
+   "Jug_Sale": "BRUNO FERNANDEZ",
+   "CarneEntra": "47916",
+   "Jug_Entra": "MARTIN MENDEZ",
+   "camiseta": "16",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "53458",
+   "Jug_Sale": "SANTIAGO SPARKOV",
+   "CarneEntra": "49808",
+   "Jug_Entra": "BRUNO FERNANDEZ",
+   "camiseta": "34",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51217",
+   "Nombre": "SANTIAGO MARTIN FRAGOSO",
+   "minutos": "69",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "49808",
+   "Nombre": "BRUNO FERNANDEZ",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

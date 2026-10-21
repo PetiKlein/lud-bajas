@@ -1,0 +1,313 @@
+{
+ "id": "101255",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 15:30:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "JUAN XXIII",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "266",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-08-29 17:24:00",
+  "Fecha_fin": "2026-08-29 17:24:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56600",
+   "Nombre": "SANTIAGO REYES",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "55355",
+   "Nombre": "FACUNDO BELTRAN",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "62631",
+   "Nombre": "JOAQUIN ARMANDO PIRIZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "62637",
+   "Nombre": "AGUSTIN GAVEL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52675",
+   "Nombre": "SANTIAGO CANAN",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "56156",
+   "Nombre": "FRANCO SANTIAGO BOTTINI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55187",
+   "Nombre": "IGNACIO ANDRES ALVAREZ",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "56108",
+   "Nombre": "IGNACIO CACHON",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "56606",
+   "Nombre": "MATIAS GONZALEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56841",
+   "Nombre": "FELIPE NICOLAS LOPEZ",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "56201",
+   "Nombre": "MATEO BONFIGLIO",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61876",
+   "Nombre": "JOAQUIN DE DIOS",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "64103",
+   "Nombre": "ENZO YACI",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "59588",
+   "Nombre": "GERARDO ROCCO BELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64099",
+   "Nombre": "JUAN MANUEL CORNEY",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "67671",
+   "Nombre": "JUAN IGNACIO SÀNCHEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58624",
+   "Nombre": "JOAQUIN MATIAS NIETO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64095",
+   "Nombre": "JUAN ANDRES GARCIA",
+   "camiseta": "51",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55355",
+   "Jug_Sale": "FACUNDO BELTRAN",
+   "CarneEntra": "56602",
+   "Jug_Entra": "MATEO HORACK",
+   "camiseta": "96",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "55187",
+   "Jug_Sale": "IGNACIO ANDRES ALVAREZ",
+   "CarneEntra": "62952",
+   "Jug_Entra": "JUAN PEDRO ANGENSCHEIDT",
+   "camiseta": "4",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "56108",
+   "Jug_Sale": "IGNACIO CACHON",
+   "CarneEntra": "55191",
+   "Jug_Entra": "FEDERICO SAINTAGNE",
+   "camiseta": "14",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "56841",
+   "Jug_Sale": "FELIPE NICOLAS LOPEZ",
+   "CarneEntra": "66255",
+   "Jug_Entra": "GUILLERMO ADOLPH",
+   "camiseta": "15",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "52675",
+   "Jug_Sale": "SANTIAGO CANAN",
+   "CarneEntra": "54996",
+   "Jug_Entra": "AGUSTIN VOLKER RESTANO",
+   "camiseta": "66",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "62631",
+   "Jug_Sale": "JOAQUIN ARMANDO PIRIZ",
+   "CarneEntra": "54749",
+   "Jug_Entra": "MARKO HEINZ SCHWARZ",
+   "camiseta": "41",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56156",
+   "Jug_Sale": "FRANCO SANTIAGO BOTTINI",
+   "CarneEntra": "68750",
+   "Jug_Entra": "EMILIANO OLIVERA",
+   "camiseta": "21",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64103",
+   "Jug_Sale": "ENZO YACI",
+   "CarneEntra": "67239",
+   "Jug_Entra": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "72",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58783",
+   "Jug_Sale": "LAUTARO GABRIEL SALLES",
+   "CarneEntra": "61869",
+   "Jug_Entra": "FELIPE DASTUGUE",
+   "camiseta": "84",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67669",
+   "Jug_Sale": "FELIPE AGUSTIN PINO",
+   "CarneEntra": "64101",
+   "Jug_Entra": "SANTIAGO GONZALEZ",
+   "camiseta": "97",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64099",
+   "Jug_Sale": "JUAN MANUEL CORNEY",
+   "CarneEntra": "67675",
+   "Jug_Entra": "MATEO MAURO GONZALEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59588",
+   "Jug_Sale": "GERARDO ROCCO BELLO",
+   "CarneEntra": "65547",
+   "Jug_Entra": "JOSE IGNACIO LESSA",
+   "camiseta": "18",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67671",
+   "Jug_Sale": "JUAN IGNACIO SÀNCHEZ",
+   "CarneEntra": "64501",
+   "Jug_Entra": "DIEGO GONZALEZ",
+   "camiseta": "14",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "58624",
+   "Jug_Sale": "JOAQUIN MATIAS NIETO",
+   "CarneEntra": "67241",
+   "Jug_Entra": "FRANCO AGUSTIN POMBO",
+   "camiseta": "13",
+   "minutos": "61"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56108",
+   "Nombre": "IGNACIO CACHON",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56201",
+   "Nombre": "MATEO BONFIGLIO",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56201",
+   "Nombre": "MATEO BONFIGLIO",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56841",
+   "Nombre": "FELIPE NICOLAS LOPEZ",
+   "minutos": "37",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

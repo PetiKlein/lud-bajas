@@ -1,0 +1,296 @@
+{
+ "id": "101083",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "234",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-08-15 13:05:00",
+  "Fecha_fin": "2026-08-15 13:05:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54675",
+   "Nombre": "EMILIANO SALVO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "52613",
+   "Nombre": "JUAN MANUEL BUERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53728",
+   "Nombre": "NICOLAS MIGUEL DE OCAMPO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "49486",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58853",
+   "Nombre": "FRANCISCO GANDIOLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "57648",
+   "Nombre": "FRANCISCO GUILLEN",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "51507",
+   "Nombre": "MATEO BERTOLA",
+   "camiseta": "67",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49422",
+   "Nombre": "MARTIN ESTEBAN DECIA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "55078",
+   "Nombre": "JOAQUIN CELIBERTI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53601",
+   "Nombre": "JOAQUIN CASAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47802",
+   "Nombre": "FACUNDO MARTIN PEREIRA",
+   "camiseta": "37",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57193",
+   "Nombre": "FRANCO GABRIEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36517",
+   "Nombre": "MANUEL MATIAS GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "42722",
+   "Nombre": "LUCAS MORONI",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55499",
+   "Nombre": "IGNACIO DANTE FERNANDEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "41121",
+   "Nombre": "ALVARO CANO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63264",
+   "Nombre": "FRANCO SEBASTIAN ISLAS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "57611",
+   "Nombre": "EZEQUIEL VILLANUEVA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "49048",
+   "Nombre": "EZEQUIEL ESTEFAN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47391",
+   "Nombre": "SEBASTIAN ESTEBAN BRITOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "34982",
+   "Nombre": "GUILLERMO BURGOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "52052",
+   "Nombre": "FEDERICO DUTRA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57648",
+   "Jug_Sale": "FRANCISCO GUILLEN",
+   "CarneEntra": "54670",
+   "Jug_Entra": "BRUNO NICOLAS LARRIEU",
+   "camiseta": "24",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "55078",
+   "Jug_Sale": "JOAQUIN CELIBERTI",
+   "CarneEntra": "47200",
+   "Jug_Entra": "JOAQUIN VILLAR",
+   "camiseta": "30",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58853",
+   "Jug_Sale": "FRANCISCO GANDIOLI",
+   "CarneEntra": "55078",
+   "Jug_Entra": "JOAQUIN CELIBERTI",
+   "camiseta": "18",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "53601",
+   "Jug_Sale": "JOAQUIN CASAS",
+   "CarneEntra": "58837",
+   "Jug_Entra": "JUAN MANUEL VARELA",
+   "camiseta": "99",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "36517",
+   "Jug_Sale": "MANUEL MATIAS GONZALEZ",
+   "CarneEntra": "63398",
+   "Jug_Entra": "BRUNO ANDRES CIAPPESONI",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55499",
+   "Jug_Sale": "IGNACIO DANTE FERNANDEZ",
+   "CarneEntra": "39027",
+   "Jug_Entra": "BRUNO CICATIELLO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34982",
+   "Jug_Sale": "GUILLERMO BURGOS",
+   "CarneEntra": "45303",
+   "Jug_Entra": "SANTIAGO PETROCELLI",
+   "camiseta": "10",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "63264",
+   "Jug_Sale": "FRANCO SEBASTIAN ISLAS",
+   "CarneEntra": "39323",
+   "Jug_Entra": "IGNACIO MILLER",
+   "camiseta": "14",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "47391",
+   "Jug_Sale": "SEBASTIAN ESTEBAN BRITOS",
+   "CarneEntra": "58028",
+   "Jug_Entra": "TOMAS VASSALLUCCI",
+   "camiseta": "28",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "49048",
+   "Jug_Sale": "EZEQUIEL ESTEFAN",
+   "CarneEntra": "58004",
+   "Jug_Entra": "TIAGO KAMINIETZKY",
+   "camiseta": "66",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "41121",
+   "Jug_Sale": "ALVARO CANO",
+   "CarneEntra": "35183",
+   "Jug_Entra": "LORENZO MORONI",
+   "camiseta": "34",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47802",
+   "Nombre": "FACUNDO MARTIN PEREIRA",
+   "minutos": "62",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "34982",
+   "Nombre": "GUILLERMO BURGOS",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49048",
+   "Nombre": "EZEQUIEL ESTEFAN",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49048",
+   "Nombre": "EZEQUIEL ESTEFAN",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52052",
+   "Nombre": "FEDERICO DUTRA",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

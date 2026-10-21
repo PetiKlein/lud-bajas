@@ -1,0 +1,309 @@
+{
+ "id": "100260",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "OLD CHRISTIANS CLUB",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "73",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-06-20 13:10:00",
+  "Fecha_fin": "2026-06-20 13:10:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "OLD CHRISTIANS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "48654",
+   "Nombre": "JUAN PABLO LOCATELLI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "49076",
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "48653",
+   "Nombre": "MATIAS  BERNARDO VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "50666",
+   "Nombre": "FACUNDO LAGO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "48657",
+   "Nombre": "BRUNO CABRERA",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46830",
+   "Nombre": "JULIAN NESTOR MUHA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "52631",
+   "Nombre": "SANTIAGO DANILO TARDEO",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52821",
+   "Nombre": "FACUNDO STORACE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37259",
+   "Nombre": "IGNACIO MACHADO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67291",
+   "Nombre": "AUGUSTO PAULLIER",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "38310",
+   "Nombre": "FEDERICO PONTE",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "42070",
+   "Nombre": "FRANCISCO GUADALUPE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "30724",
+   "Nombre": "FEDERICO RICARDO MOLINS",
+   "camiseta": "93",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35115",
+   "Nombre": "JUAN PEDRO BELO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "40765",
+   "Nombre": "JUAN DIEGO GONZALEZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "64683",
+   "Nombre": "ALBERTO FELIPE ROSSO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "56908",
+   "Nombre": "GUILLERMO HOUNIE",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48654",
+   "Jug_Sale": "JUAN PABLO LOCATELLI",
+   "CarneEntra": "46837",
+   "Jug_Entra": "GIANFRANCO BERRUTTI",
+   "camiseta": "49",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "46830",
+   "Jug_Sale": "JULIAN NESTOR MUHA",
+   "CarneEntra": "48656",
+   "Jug_Entra": "LEANDRO GABRIEL TABEIRA",
+   "camiseta": "11",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "46830",
+   "Jug_Sale": "JULIAN NESTOR MUHA",
+   "CarneEntra": "46848",
+   "Jug_Entra": "FACUNDO BERGARA",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "48653",
+   "Jug_Sale": "MATIAS  BERNARDO VAZQUEZ",
+   "CarneEntra": "46834",
+   "Jug_Entra": "FRANCO MOITIÑO",
+   "camiseta": "3",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "52631",
+   "Jug_Sale": "SANTIAGO DANILO TARDEO",
+   "CarneEntra": "66604",
+   "Jug_Entra": "IGNACIO DOMINGUEZ",
+   "camiseta": "29",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56908",
+   "Jug_Sale": "GUILLERMO HOUNIE",
+   "CarneEntra": "49655",
+   "Jug_Entra": "HERNAN ALEGRESA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40765",
+   "Jug_Sale": "JUAN DIEGO GONZALEZ",
+   "CarneEntra": "39426",
+   "Jug_Entra": "FRANCO CRISCI",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42070",
+   "Jug_Sale": "FRANCISCO GUADALUPE",
+   "CarneEntra": "46771",
+   "Jug_Entra": "SANTIAGO HAM",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64683",
+   "Jug_Sale": "ALBERTO FELIPE ROSSO",
+   "CarneEntra": "53214",
+   "Jug_Entra": "MANUEL PARODI",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "30724",
+   "Jug_Sale": "FEDERICO RICARDO MOLINS",
+   "CarneEntra": "37170",
+   "Jug_Entra": "SEBASTIAN REGULES",
+   "camiseta": "71",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "35115",
+   "Jug_Sale": "JUAN PEDRO BELO",
+   "CarneEntra": "52608",
+   "Jug_Entra": "SANTIAGO MARCELO MACHADO",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "37259",
+   "Jug_Sale": "IGNACIO MACHADO",
+   "CarneEntra": "32431",
+   "Jug_Entra": "BENJAMIN BUNGE",
+   "camiseta": "94",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "minutos": "77",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52631",
+   "Nombre": "SANTIAGO DANILO TARDEO",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52631",
+   "Nombre": "SANTIAGO DANILO TARDEO",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "39426",
+   "Nombre": "FRANCO CRISCI",
+   "minutos": "57",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "RENZO FORTI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

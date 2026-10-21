@@ -1,0 +1,246 @@
+{
+ "id": "102403",
+ "categoria": "sub20-c",
+ "serie": "20CP",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 15:30:00",
+ "cancha": "LOS TEROS",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "PALLOTTI UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "504",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"C\" COPA DE PLATA",
+  "Cancha": "LOS TEROS",
+  "Fecha_Inicio": "2026-09-26 17:15:00",
+  "Fecha_fin": "2026-09-26 17:15:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "PALLOTTI UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63543",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55147",
+   "Nombre": "EDUARDO IVAN UBAL",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "68858",
+   "Nombre": "THIAGO COGOY",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62586",
+   "Nombre": "LEANDRO MOCCIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67274",
+   "Nombre": "ALVARO PINTOS",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "62587",
+   "Nombre": "MATEO ALONSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64173",
+   "Nombre": "SANTIAGO MIRANDA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62577",
+   "Nombre": "ORI MARTIN FERREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55413",
+   "Nombre": "LUCAS OTAÑO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "58704",
+   "Nombre": "IGNACIO JAVIER ROMERO",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67694",
+   "Nombre": "EMILIANO ISMAEL PEREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "69098",
+   "Nombre": "LUIS ALEJANDRO ROJO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67707",
+   "Nombre": "LUCAS THIAGO RODRIGUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67708",
+   "Nombre": "ALEJO MANEIRO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67696",
+   "Nombre": "JUAN MARTIN BANIZI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "69161",
+   "Nombre": "FELIPE ABEIRO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "60750",
+   "Nombre": "LUCAS AGUSTIN BILBAO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68654",
+   "Nombre": "FEDERICO LORENZO Y LOSADA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67704",
+   "Nombre": "RICHARD GERMAN RIBEIROS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58351",
+   "Nombre": "JOAQUIN PAREDES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64173",
+   "Jug_Sale": "SANTIAGO MIRANDA",
+   "CarneEntra": "67273",
+   "Jug_Entra": "SANTIAGO ROMAN DALIA",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62586",
+   "Jug_Sale": "LEANDRO MOCCIA",
+   "CarneEntra": "64173",
+   "Jug_Entra": "SANTIAGO MIRANDA",
+   "camiseta": "23",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64173",
+   "Jug_Sale": "SANTIAGO MIRANDA",
+   "CarneEntra": "62586",
+   "Jug_Entra": "LEANDRO MOCCIA",
+   "camiseta": "2",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68654",
+   "Jug_Sale": "FEDERICO LORENZO Y LOSADA",
+   "CarneEntra": "68288",
+   "Jug_Entra": "GABRIEL SEGOVIA",
+   "camiseta": "7",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "58351",
+   "Jug_Sale": "JOAQUIN PAREDES",
+   "CarneEntra": "67709",
+   "Jug_Entra": "SANTIAGO SOUZA",
+   "camiseta": "19",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "68288",
+   "Jug_Sale": "GABRIEL SEGOVIA",
+   "CarneEntra": "58351",
+   "Jug_Entra": "JOAQUIN PAREDES",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65910",
+   "Jug_Sale": "FACUNDO EMMANUEL BENITEZ",
+   "CarneEntra": "68654",
+   "Jug_Entra": "FEDERICO LORENZO Y LOSADA",
+   "camiseta": "21",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62587",
+   "Nombre": "MATEO ALONSO",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67704",
+   "Nombre": "RICHARD GERMAN RIBEIROS",
+   "minutos": "21",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

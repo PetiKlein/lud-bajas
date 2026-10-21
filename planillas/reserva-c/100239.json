@@ -1,0 +1,276 @@
+{
+ "id": "100239",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "SAN EUGENIO",
+ "local": "SAN EUGENIO",
+ "visitante": "JUAN XXIII BLANCO",
+ "gl": 6,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "317",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "SAN EUGENIO",
+  "Fecha_Inicio": "2026-06-20 13:10:00",
+  "Fecha_fin": "2026-06-20 13:10:00",
+  "Locatario": "SAN EUGENIO",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "JUAN XXIII BLANCO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68273",
+   "Nombre": "PABLO NICOLAS CARDOZO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "61743",
+   "Nombre": "KAWE ALAMON",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64443",
+   "Nombre": "ENZO JESUS RODRIGUEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "56001",
+   "Nombre": "GERMAN NICOLAS DEL PINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62851",
+   "Nombre": "FACUNDO CHAIA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "49999",
+   "Nombre": "LEONARDO NICOLAS RIBEIRO",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "59342",
+   "Nombre": "MATIAS MARTINS",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62046",
+   "Nombre": "MAURICIO LAPORTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "63708",
+   "Nombre": "ANTHONY YAEL BRITOS",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "62047",
+   "Nombre": "RAMIRO SALVADOR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59263",
+   "Nombre": "MAURO ANDRES RUVERTONI",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59802",
+   "Nombre": "VALENTINO GORAN BARREIRO",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "58576",
+   "Nombre": "RAFAEL ENRIQUE BARRENECHEA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58842",
+   "Nombre": "ISMAEL DE DIOS",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "55283",
+   "Nombre": "IGNACIO ZABALETA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "53468",
+   "Nombre": "TOMAS PACHECO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54665",
+   "Nombre": "SANTIAGO PRINA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58861",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "61875",
+   "Nombre": "MARTIN VITABAR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53772",
+   "Nombre": "GIULIANO GAZZOLA",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "51708",
+   "Nombre": "AGUSTIN FERRES",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49999",
+   "Jug_Sale": "LEONARDO NICOLAS RIBEIRO",
+   "CarneEntra": "54129",
+   "Jug_Entra": "GUILLERMO MATHEUS DA COL",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61743",
+   "Jug_Sale": "KAWE ALAMON",
+   "CarneEntra": "62042",
+   "Jug_Entra": "LUCAS AGUSTIN VIANNA",
+   "camiseta": "80",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54665",
+   "Jug_Sale": "SANTIAGO PRINA",
+   "CarneEntra": "55468",
+   "Jug_Entra": "MANUEL EPSTEIN",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58842",
+   "Jug_Sale": "ISMAEL DE DIOS",
+   "CarneEntra": "61867",
+   "Jug_Entra": "MATEO ALVAREZ",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "53772",
+   "Jug_Sale": "GIULIANO GAZZOLA",
+   "CarneEntra": "58047",
+   "Jug_Entra": "ALFONSO RODRIGUEZ",
+   "camiseta": "40",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "58861",
+   "Jug_Sale": "SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "66793",
+   "Jug_Entra": "MATEO PICHERNO",
+   "camiseta": "91",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "55283",
+   "Jug_Sale": "IGNACIO ZABALETA",
+   "CarneEntra": "52477",
+   "Jug_Entra": "MATEO FRANCISCO GONZALEZ",
+   "camiseta": "33",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59342",
+   "Nombre": "MATIAS MARTINS",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63708",
+   "Nombre": "ANTHONY YAEL BRITOS",
+   "minutos": "88",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "minutos": "50",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "minutos": "51",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "minutos": "63",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64448",
+   "Nombre": "WILLIAMS QUINTANA",
+   "minutos": "78",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53468",
+   "Nombre": "TOMAS PACHECO",
+   "minutos": "20",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

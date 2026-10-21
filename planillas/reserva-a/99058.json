@@ -1,0 +1,277 @@
+{
+ "id": "99058",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "OLD BOYS CLUB",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "47",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-05-23 13:15:00",
+  "Fecha_fin": "2026-05-23 13:15:00",
+  "Locatario": "OLD BOYS CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59470",
+   "Nombre": "FABRICIO OLIVERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67091",
+   "Nombre": "FACUNDO TORRES",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "33559",
+   "Nombre": "JULIO ALEXANDER GURIDI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "37258",
+   "Nombre": "LUIS PEDRO LENGUAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "38391",
+   "Nombre": "NICOLAS MARIA RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47413",
+   "Nombre": "LUCAS MARTIN VILLARONGA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49027",
+   "Nombre": "BENJAMIN LOPEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54584",
+   "Nombre": "BENJAMIN CAPELLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "54590",
+   "Nombre": "ALFONSO MAILHOS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53930",
+   "Nombre": "MAXIMO RICARDO SEIZER",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "26972",
+   "Nombre": "JUAN MANUEL MUSETTI",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "14032",
+   "Nombre": "MARIANO MALLO",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55602",
+   "Nombre": "CAETANO MARRONE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48896",
+   "Nombre": "FACUNDO ALPUIN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46886",
+   "Nombre": "FEDERICO BOCCARDO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "38391",
+   "Jug_Sale": "NICOLAS MARIA RODRIGUEZ",
+   "CarneEntra": "54974",
+   "Jug_Entra": "SANTIAGO BOCAGE",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53930",
+   "Jug_Sale": "MAXIMO RICARDO SEIZER",
+   "CarneEntra": "41581",
+   "Jug_Entra": "ALFONSO SIMETO",
+   "camiseta": "33",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54590",
+   "Jug_Sale": "ALFONSO MAILHOS",
+   "CarneEntra": "49032",
+   "Jug_Entra": "LUIS GONZALO VARGAS",
+   "camiseta": "97",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49027",
+   "Jug_Sale": "BENJAMIN LOPEZ",
+   "CarneEntra": "54586",
+   "Jug_Entra": "FRANCISCO SCASSO",
+   "camiseta": "79",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "37258",
+   "Jug_Sale": "LUIS PEDRO LENGUAS",
+   "CarneEntra": "34986",
+   "Jug_Entra": "FELIPE ANTONIO AZADIAN",
+   "camiseta": "17",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "33559",
+   "Jug_Sale": "JULIO ALEXANDER GURIDI",
+   "CarneEntra": "37275",
+   "Jug_Entra": "JOSE MARIA MAÑE",
+   "camiseta": "4",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "26972",
+   "Jug_Sale": "JUAN MANUEL MUSETTI",
+   "CarneEntra": "48369",
+   "Jug_Entra": "LUCA BERTINI",
+   "camiseta": "14",
+   "minutos": "74"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55602",
+   "Jug_Sale": "CAETANO MARRONE",
+   "CarneEntra": "48838",
+   "Jug_Entra": "BRUNO GRAJALES",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46886",
+   "Jug_Sale": "FEDERICO BOCCARDO",
+   "CarneEntra": "43856",
+   "Jug_Entra": "AGUSTIN NOVELLI",
+   "camiseta": "70",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "42290",
+   "Jug_Sale": "PABLO JOAQUIN PARADO",
+   "CarneEntra": "49489",
+   "Jug_Entra": "PAOLO PARIANI",
+   "camiseta": "8",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "53595",
+   "Jug_Sale": "CARLOS GONZALO DANERS",
+   "CarneEntra": "55160",
+   "Jug_Entra": "JOAQUIN PEÑA",
+   "camiseta": "10",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "26972",
+   "Nombre": "JUAN MANUEL MUSETTI",
+   "minutos": "17",
+   "EnContra": "0"
+  },
+  {
+   "carne": "26972",
+   "Nombre": "JUAN MANUEL MUSETTI",
+   "minutos": "42",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

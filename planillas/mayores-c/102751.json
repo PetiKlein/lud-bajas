@@ -1,0 +1,247 @@
+{
+ "id": "102751",
+ "categoria": "mayores-c",
+ "serie": "CTA",
+ "fecha": 3,
+ "fechaHora": "2026-10-11 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "961",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"C\" TIT. y ASC.",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-11 11:00:00",
+  "Fecha_fin": "2026-10-11 11:00:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23480",
+   "Nombre": "IGNACIO GASTON BIDEGAIN",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47632",
+   "Nombre": "SANTIAGO COLOMBO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "33639",
+   "Nombre": "RICARDO ANDRES BAYARDI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "35699",
+   "Nombre": "MAURO BASILE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62312",
+   "Nombre": "MARCELO JAVIER SPANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54134",
+   "Nombre": "MARTIN CORTINAS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48353",
+   "Nombre": "TOMAS ARAMENDI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56437",
+   "Nombre": "FEDERICO PAOLINO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61296",
+   "Nombre": "JOAQUIN LUCIANO NUÑEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54922",
+   "Nombre": "FABIAN ANDRE IRISARRI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55234",
+   "Nombre": "LUCAS DO VALLE PEIXOTO",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60725",
+   "Nombre": "ALESSANDRO EZEQUIEL PEREIRA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "42937",
+   "Nombre": "DIEGO PENINO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61268",
+   "Nombre": "DIEGO MARTIN MURAÑA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "41088",
+   "Nombre": "PEDRO MOREIRA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "49735",
+   "Nombre": "HECTOR GASTON RODRIGUEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26828",
+   "Nombre": "JUAN IGNACIO MANERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51604",
+   "Nombre": "JUAN GABRIEL RUSSO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "33869",
+   "Nombre": "JOAQUIN DANIEL GARCIA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "56715",
+   "Nombre": "GERMAN MÜLLER",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "32511",
+   "Nombre": "MATHIAS TORRES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "44549",
+   "Nombre": "SANTIAGO MARTIN RIBEIRO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55234",
+   "Jug_Sale": "LUCAS DO VALLE PEIXOTO",
+   "CarneEntra": "38912",
+   "Jug_Entra": "CESAR LUIS PIEDRABUENA",
+   "camiseta": "30",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "33639",
+   "Jug_Sale": "RICARDO ANDRES BAYARDI",
+   "CarneEntra": "55234",
+   "Jug_Entra": "LUCAS DO VALLE PEIXOTO",
+   "camiseta": "22",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "56437",
+   "Jug_Sale": "FEDERICO PAOLINO",
+   "CarneEntra": "48515",
+   "Jug_Entra": "KEVIN NICOLAS HERVADA",
+   "camiseta": "27",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42937",
+   "Jug_Sale": "DIEGO PENINO",
+   "CarneEntra": "45390",
+   "Jug_Entra": "MATHIAS PILIPAUSKAS",
+   "camiseta": "19",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "26828",
+   "Jug_Sale": "JUAN IGNACIO MANERA",
+   "CarneEntra": "54752",
+   "Jug_Entra": "EMILIANO FRANCISCO MORALES",
+   "camiseta": "22",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "32511",
+   "Jug_Sale": "MATHIAS TORRES",
+   "CarneEntra": "58031",
+   "Jug_Entra": "MATEO NICOLAS CODINA",
+   "camiseta": "8",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "56715",
+   "Jug_Sale": "GERMAN MÜLLER",
+   "CarneEntra": "50889",
+   "Jug_Entra": "IGNACIO VIÑAS",
+   "camiseta": "23",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "44549",
+   "Jug_Sale": "SANTIAGO MARTIN RIBEIRO",
+   "CarneEntra": "66258",
+   "Jug_Entra": "LEANDRO PEREZ",
+   "camiseta": "2",
+   "minutos": "94"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "44549",
+   "Nombre": "SANTIAGO MARTIN RIBEIRO",
+   "minutos": "37",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

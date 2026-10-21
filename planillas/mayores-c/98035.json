@@ -1,0 +1,253 @@
+{
+ "id": "98035",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 1,
+ "fechaHora": "2026-04-12 09:00:00",
+ "cancha": "POLIDEPORTIVO FAUQUET",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "POCO SITIO PLAYA VERDE",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "245",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "POLIDEPORTIVO FAUQUET",
+  "Fecha_Inicio": "2026-04-12 10:50:00",
+  "Fecha_fin": "2026-04-12 10:50:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "POCO SITIO PLAYA VERDE",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "48791",
+   "Nombre": "JOAQUIN ALFREDO ALVES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52388",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66540",
+   "Nombre": "GUILLERMO EMANUEL SILVERA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "58808",
+   "Nombre": "JUAN ANDRES VIDART",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59558",
+   "Nombre": "ENZO AGUSTIN BARTOLIC",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53302",
+   "Nombre": "FEDERICO MONTGOMERY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "50997",
+   "Nombre": "MARTIN FERREIRA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55921",
+   "Nombre": "SEBASTIAN CAMPOS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52391",
+   "Nombre": "MATIAS PIÑEYRUA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "46916",
+   "Nombre": "MATIAS BERNI",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57974",
+   "Nombre": "FRANCO GONZALEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "50792",
+   "Nombre": "LUCA BARCELO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50788",
+   "Nombre": "JUAN ANDRES VARELA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "50790",
+   "Nombre": "JOAQUIN ANDRES GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "44983",
+   "Nombre": "JUAN IGNACIO PIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "43678",
+   "Nombre": "GONZALO ALBA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "48391",
+   "Nombre": "GENARO FRANCO",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "47787",
+   "Nombre": "JUAN PEDRO DOMINGUEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "56209",
+   "Nombre": "EMILIANO DI LASCIO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "36872",
+   "Nombre": "FEDERICO LUIS BISCARDI",
+   "camiseta": "41",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41351",
+   "Nombre": "GONZALO RUBEN YIZMEYIAN",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "39100",
+   "Nombre": "TOMAS IGNACIO MANGGIAROTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46916",
+   "Jug_Sale": "MATIAS BERNI",
+   "CarneEntra": "58911",
+   "Jug_Entra": "NICOLAS MOSQUEIRA",
+   "camiseta": "49",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "55921",
+   "Jug_Sale": "SEBASTIAN CAMPOS",
+   "CarneEntra": "64848",
+   "Jug_Entra": "SANTIAGO GARCIA",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "59558",
+   "Jug_Sale": "ENZO AGUSTIN BARTOLIC",
+   "CarneEntra": "54911",
+   "Jug_Entra": "LEANDRO PIÑEYRUA",
+   "camiseta": "13",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57974",
+   "Jug_Sale": "FRANCO GONZALEZ",
+   "CarneEntra": "51914",
+   "Jug_Entra": "JOAQUIN GARCIA",
+   "camiseta": "6",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47787",
+   "Jug_Sale": "JUAN PEDRO DOMINGUEZ",
+   "CarneEntra": "40179",
+   "Jug_Entra": "AGUSTIN FERNANDO GARABEDIAN",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48391",
+   "Jug_Sale": "GENARO FRANCO",
+   "CarneEntra": "48913",
+   "Jug_Entra": "FEDERICO JOAQUIN OCAMPO",
+   "camiseta": "36",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "43678",
+   "Jug_Sale": "GONZALO ALBA",
+   "CarneEntra": "67011",
+   "Jug_Entra": "FACUNDO SORIA",
+   "camiseta": "91",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "39100",
+   "Jug_Sale": "TOMAS IGNACIO MANGGIAROTTI",
+   "CarneEntra": "41070",
+   "Jug_Entra": "MATEO BIQUE",
+   "camiseta": "23",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56209",
+   "Jug_Sale": "EMILIANO DI LASCIO",
+   "CarneEntra": "48391",
+   "Jug_Entra": "GENARO FRANCO",
+   "camiseta": "37",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "MATIAS PIÑEYRUA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

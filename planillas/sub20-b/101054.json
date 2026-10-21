@@ -1,0 +1,257 @@
+{
+ "id": "101054",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 15:30:00",
+ "cancha": "ELBIO FERNANDEZ",
+ "local": "ELBIO FERNANDEZ",
+ "visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "237",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "ELBIO FERNANDEZ",
+  "Fecha_Inicio": "2026-08-15 17:30:00",
+  "Fecha_fin": "2026-08-15 17:30:00",
+  "Locatario": "ELBIO FERNANDEZ",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56673",
+   "Nombre": "EMILIO MAIDANA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66347",
+   "Nombre": "LEONIDAS ALEJANDRO VARELA",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "56674",
+   "Nombre": "JOAQUIN PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55183",
+   "Nombre": "IGNACIO RODOLFO GUERRA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "63519",
+   "Nombre": "IGNACIO PAIS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56151",
+   "Nombre": "BENJAMIN CANO",
+   "camiseta": "63",
+   "Capitan": ""
+  },
+  {
+   "carne": "56117",
+   "Nombre": "MAURICIO NANDE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "60817",
+   "Nombre": "JOAQUIN MIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66382",
+   "Nombre": "JULEN AITOR IGARZA MIERES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64373",
+   "Nombre": "EDUARDO SABINO RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56014",
+   "Nombre": "JUAN FRANCISCO MARQUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59906",
+   "Nombre": "MATEO FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68985",
+   "Nombre": "TADEO ASUAGA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59218",
+   "Nombre": "AGUSTIN GRAJALES",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "68657",
+   "Nombre": "LUIS EDUARDO GONZALEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "63069",
+   "Nombre": "JOAQUIN MADERNI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "67653",
+   "Nombre": "EMILIANO PIETRAFESA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67297",
+   "Nombre": "TIZIANO LANDO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "60952",
+   "Nombre": "JUAN IGNACIO MORATORIO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "67294",
+   "Nombre": "LIQUEL COLOMBO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64354",
+   "Nombre": "MATEO NARTALLO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55183",
+   "Jug_Sale": "IGNACIO RODOLFO GUERRA",
+   "CarneEntra": "56946",
+   "Jug_Entra": "THIAGO RAFAEL BIANCHI",
+   "camiseta": "73",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63519",
+   "Jug_Sale": "IGNACIO PAIS",
+   "CarneEntra": "64537",
+   "Jug_Entra": "GIULIANO FRANCO",
+   "camiseta": "18",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "64373",
+   "Jug_Sale": "EDUARDO SABINO RODRIGUEZ",
+   "CarneEntra": "62751",
+   "Jug_Entra": "JOAQUIN LANDO",
+   "camiseta": "44",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64354",
+   "Jug_Sale": "MATEO NARTALLO",
+   "CarneEntra": "68294",
+   "Jug_Entra": "FEDERICO CLAVARES",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63069",
+   "Jug_Sale": "JOAQUIN MADERNI",
+   "CarneEntra": "65926",
+   "Jug_Entra": "JUAN MANUEL CORREA",
+   "camiseta": "22",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "68657",
+   "Jug_Sale": "LUIS EDUARDO GONZALEZ",
+   "CarneEntra": "59515",
+   "Jug_Entra": "FRANCO FEDERICO DENIS",
+   "camiseta": "37",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67653",
+   "Jug_Sale": "EMILIANO PIETRAFESA",
+   "CarneEntra": "67299",
+   "Jug_Entra": "FRANCO NICOLAS PURTSCHER",
+   "camiseta": "38",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56014",
+   "Nombre": "JUAN FRANCISCO MARQUEZ",
+   "minutos": "61",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56151",
+   "Nombre": "BENJAMIN CANO",
+   "minutos": "18",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67297",
+   "Nombre": "TIZIANO LANDO",
+   "minutos": "8",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67297",
+   "Nombre": "TIZIANO LANDO",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MATEO NARTALLO",
+   "observaciones": ""
+  }
+ ]
+}

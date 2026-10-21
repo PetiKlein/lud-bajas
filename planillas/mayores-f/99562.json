@@ -1,0 +1,263 @@
+{
+ "id": "99562",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 7,
+ "fechaHora": "2026-05-31 09:00:00",
+ "cancha": "ESCUELA MILITAR (TOLEDO)",
+ "local": "ESCUELA MILITAR",
+ "visitante": "PAYSANDU UNVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "650",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "ESCUELA MILITAR (TOLEDO)",
+  "Fecha_Inicio": "2026-05-31 11:00:00",
+  "Fecha_fin": "2026-05-31 11:00:00",
+  "Locatario": "ESCUELA MILITAR",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "PAYSANDU UNVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64893",
+   "Nombre": "JUAN PEREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63704",
+   "Nombre": "LUIS DIAZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67374",
+   "Nombre": "LUCAS GULARTE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59133",
+   "Nombre": "FACUNDO ALONSO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62007",
+   "Nombre": "LAUREANO CASTILLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62296",
+   "Nombre": "BRUNO DIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46964",
+   "Nombre": "VALENTIN ARANCET",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63159",
+   "Nombre": "ISMAEL EMILIANO VIEGA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "52738",
+   "Nombre": "JHON CASTAÑO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59450",
+   "Nombre": "ENZO OTEGUI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63113",
+   "Nombre": "AGUSTIN DIAZ",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37852",
+   "Nombre": "GUSTAVO JAVIER NIETO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52509",
+   "Nombre": "SERGIO EMILIANO ALCIATURI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55343",
+   "Nombre": "MATEO SCHOLDERLE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58186",
+   "Nombre": "GUSTAVO SEBASTIAN OTATTI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "60936",
+   "Nombre": "CIRO AGESTA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59336",
+   "Nombre": "FACUNDO ALEXANDER BENTANCUR",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49770",
+   "Nombre": "ERNESTO FERRARIS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "45774",
+   "Nombre": "JUAN PABLO URRUTY",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59331",
+   "Nombre": "BRANDON GABRIEL CORREA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "37855",
+   "Nombre": "ENZO GIULIANO COCCARO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "42441",
+   "Nombre": "WASHINGTON EMANUEL BODEANT",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59133",
+   "Jug_Sale": "FACUNDO ALONSO",
+   "CarneEntra": "64897",
+   "Jug_Entra": "AGUSTIN GULARTE",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63159",
+   "Jug_Sale": "ISMAEL EMILIANO VIEGA",
+   "CarneEntra": "64895",
+   "Jug_Entra": "GUILLERMO RODRIGUEZ",
+   "camiseta": "17",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "63159",
+   "Jug_Sale": "ISMAEL EMILIANO VIEGA",
+   "CarneEntra": "67377",
+   "Jug_Entra": "SANTIAGO CORREA",
+   "camiseta": "20",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42441",
+   "Jug_Sale": "WASHINGTON EMANUEL BODEANT",
+   "CarneEntra": "46307",
+   "Jug_Entra": "CARLOS MARCELO GIANOTTI",
+   "camiseta": "9",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "59336",
+   "Jug_Sale": "FACUNDO ALEXANDER BENTANCUR",
+   "CarneEntra": "26535",
+   "Jug_Entra": "FELIPE BONET",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52509",
+   "Jug_Sale": "SERGIO EMILIANO ALCIATURI",
+   "CarneEntra": "35416",
+   "Jug_Entra": "ENRIQUE CABO",
+   "camiseta": "2",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "60936",
+   "Jug_Sale": "CIRO AGESTA",
+   "CarneEntra": "53227",
+   "Jug_Entra": "JUAN MANUEL ESPINDOLA",
+   "camiseta": "11",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62007",
+   "Nombre": "LAUREANO CASTILLO",
+   "minutos": "50",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63159",
+   "Nombre": "ISMAEL EMILIANO VIEGA",
+   "minutos": "41",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46307",
+   "Nombre": "CARLOS MARCELO GIANOTTI",
+   "minutos": "76",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52509",
+   "Nombre": "SERGIO EMILIANO ALCIATURI",
+   "minutos": "66",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "BRUNO DIAS",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

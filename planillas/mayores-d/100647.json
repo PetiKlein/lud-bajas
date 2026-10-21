@@ -1,0 +1,268 @@
+{
+ "id": "100647",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "UNIVERSITARIO VERONES",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "441",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-06-28 11:00:00",
+  "Fecha_fin": "2026-06-28 11:00:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "UNIVERSITARIO VERONES",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53480",
+   "Nombre": "LEANDRO NICOLAS MATOSAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50924",
+   "Nombre": "FRANCO STELLA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63471",
+   "Nombre": "DIEGO PORTELA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66165",
+   "Nombre": "JOAQUIN MATEU",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "54546",
+   "Nombre": "MARTIN PENA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46463",
+   "Nombre": "FEDERICO MELA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63643",
+   "Nombre": "MATEO FAULORD",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64686",
+   "Nombre": "EMANUEL NICOLAS PARIS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67259",
+   "Nombre": "MANUEL NICOLAS TELIZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67490",
+   "Nombre": "LUCAS EDUARDO PEREZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "53588",
+   "Nombre": "DIEGO NICOLAS CAVALLERO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56990",
+   "Nombre": "ELIAS JOAQUIN MARICHAL",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "60485",
+   "Nombre": "NICOLAS CABRERA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59441",
+   "Nombre": "GAEL SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68105",
+   "Nombre": "HIOJAN GABRIEL GUILLENEA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64344",
+   "Nombre": "FACUNDO NICOLAS BETARTE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64342",
+   "Nombre": "JOAQUIN RIOS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68739",
+   "Nombre": "LEANDRO TOBIAS GOL",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66012",
+   "Nombre": "NAHUEL CHIJANE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63503",
+   "Nombre": "FRANCO DELEON",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "38946",
+   "Nombre": "SANTIAGO ANTONELLI",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67440",
+   "Nombre": "NICOLAS IGLESIAS",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67259",
+   "Jug_Sale": "MANUEL NICOLAS TELIZ",
+   "CarneEntra": "68708",
+   "Jug_Entra": "CAMILO OUDRI",
+   "camiseta": "17",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "54546",
+   "Jug_Sale": "MARTIN PENA",
+   "CarneEntra": "40883",
+   "Jug_Entra": "GONZALO SISMONDI",
+   "camiseta": "3",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64686",
+   "Jug_Sale": "EMANUEL NICOLAS PARIS",
+   "CarneEntra": "63593",
+   "Jug_Entra": "AGUSTIN ALEXANDER SERNA",
+   "camiseta": "2",
+   "minutos": "92"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68105",
+   "Jug_Sale": "HIOJAN GABRIEL GUILLENEA",
+   "CarneEntra": "60532",
+   "Jug_Entra": "MANUEL FELIPE PEREIRA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60485",
+   "Jug_Sale": "NICOLAS CABRERA",
+   "CarneEntra": "62818",
+   "Jug_Entra": "SANTIAGO VECOÑA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64342",
+   "Jug_Sale": "JOAQUIN RIOS",
+   "CarneEntra": "21518",
+   "Jug_Entra": "RAUL MAXIMILIANO QUINTANA",
+   "camiseta": "10",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "66012",
+   "Jug_Sale": "NAHUEL CHIJANE",
+   "CarneEntra": "33390",
+   "Jug_Entra": "MAURIZIO ADINOLFI",
+   "camiseta": "11",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "63503",
+   "Jug_Sale": "FRANCO DELEON",
+   "CarneEntra": "41767",
+   "Jug_Entra": "JOHNATAN EDGARD AMARO",
+   "camiseta": "20",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "59441",
+   "Jug_Sale": "GAEL SUAREZ",
+   "CarneEntra": "60485",
+   "Jug_Entra": "NICOLAS CABRERA",
+   "camiseta": "19",
+   "minutos": "42"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46463",
+   "Nombre": "FEDERICO MELA",
+   "minutos": "50",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53588",
+   "Nombre": "DIEGO NICOLAS CAVALLERO",
+   "minutos": "54",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64342",
+   "Nombre": "JOAQUIN RIOS",
+   "minutos": "68",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

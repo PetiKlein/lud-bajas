@@ -1,0 +1,338 @@
+{
+ "id": "98206",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "ISASA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "367",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-04-18 13:10:00",
+  "Fecha_fin": "2026-04-18 13:10:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "ISASA UNIVERSITARIO",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64690",
+   "Nombre": "ANTONY URIEL FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48893",
+   "Nombre": "EMILIANO TELLECHEA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "46889",
+   "Nombre": "MARCO ANTONIO SANTULLO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "55569",
+   "Nombre": "TOMAS NEGREIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "54111",
+   "Nombre": "FACUNDO ALVAREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54908",
+   "Nombre": "JOAQUIN BROMBAUER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58541",
+   "Nombre": "RODRIGO SEBABSTIAN CABRERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50343",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51124",
+   "Nombre": "FRANCISCO RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "55296",
+   "Nombre": "MATEO VAZQUEZ",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54088",
+   "Nombre": "GIANFRANCO ROSSI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67692",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "43558",
+   "Nombre": "GASTON ALVAREZ DE RON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "41215",
+   "Nombre": "NICOLAS BERTRAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49353",
+   "Nombre": "NICOLAS URRETAVIZCAYA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46794",
+   "Nombre": "RAMIRO IVAN GONZALEZ",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46907",
+   "Nombre": "ERNESTO BAUMGARTNER",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55105",
+   "Nombre": "SANTIAGO ROBALLO",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55569",
+   "Jug_Sale": "TOMAS NEGREIRA",
+   "CarneEntra": "55029",
+   "Jug_Entra": "BRUNO MENDEZ",
+   "camiseta": "76",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "58541",
+   "Jug_Sale": "RODRIGO SEBABSTIAN CABRERA",
+   "CarneEntra": "49420",
+   "Jug_Entra": "JUAN MANUEL GRANERO",
+   "camiseta": "6",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "54111",
+   "Jug_Sale": "FACUNDO ALVAREZ",
+   "CarneEntra": "59514",
+   "Jug_Entra": "FELIPE CALVO",
+   "camiseta": "14",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "46889",
+   "Jug_Sale": "MARCO ANTONIO SANTULLO",
+   "CarneEntra": "54905",
+   "Jug_Entra": "SANTIAGO LIMA",
+   "camiseta": "5",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "55296",
+   "Jug_Sale": "MATEO VAZQUEZ",
+   "CarneEntra": "54902",
+   "Jug_Entra": "SEBASTIAN LUCIARDI",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "50343",
+   "Jug_Sale": "TOMAS PEREZ",
+   "CarneEntra": "55179",
+   "Jug_Entra": "SANTIAGO COUTO",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "51124",
+   "Jug_Sale": "FRANCISCO RODRIGUEZ",
+   "CarneEntra": "66628",
+   "Jug_Entra": "GERMAN BENTOS",
+   "camiseta": "22",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53966",
+   "Jug_Sale": "FELIPE PEREZ",
+   "CarneEntra": "46909",
+   "Jug_Entra": "FEDERICO KARDJIAN",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43558",
+   "Jug_Sale": "GASTON ALVAREZ DE RON",
+   "CarneEntra": "53800",
+   "Jug_Entra": "JUAN PEDRO HOURCADE",
+   "camiseta": "30",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "49353",
+   "Jug_Sale": "NICOLAS URRETAVIZCAYA",
+   "CarneEntra": "50059",
+   "Jug_Entra": "FEDERICO VÀZQUEZ",
+   "camiseta": "21",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "55105",
+   "Jug_Sale": "SANTIAGO ROBALLO",
+   "CarneEntra": "52587",
+   "Jug_Entra": "MARCELINO PEREZ",
+   "camiseta": "16",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "49355",
+   "Jug_Sale": "FACUNDO VALENTIN ALLES",
+   "CarneEntra": "52001",
+   "Jug_Entra": "JOSE PEDRO DELGADO",
+   "camiseta": "17",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "46907",
+   "Jug_Sale": "ERNESTO BAUMGARTNER",
+   "CarneEntra": "54851",
+   "Jug_Entra": "MATIAS MEDEROS",
+   "camiseta": "37",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "67692",
+   "Jug_Sale": "AGUSTIN GONZALEZ",
+   "CarneEntra": "60668",
+   "Jug_Entra": "JOAQUIN IGNACIO PARNIZARI",
+   "camiseta": "51",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50343",
+   "Nombre": "TOMAS PEREZ",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "minutos": "66",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46794",
+   "Nombre": "RAMIRO IVAN GONZALEZ",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46794",
+   "Nombre": "RAMIRO IVAN GONZALEZ",
+   "minutos": "7",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46907",
+   "Nombre": "ERNESTO BAUMGARTNER",
+   "minutos": "44",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52587",
+   "Nombre": "MARCELINO PEREZ",
+   "minutos": "78",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52587",
+   "Nombre": "MARCELINO PEREZ",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "minutos": "51",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

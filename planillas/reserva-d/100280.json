@@ -1,0 +1,288 @@
+{
+ "id": "100280",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "YOUNG UNIVERSITARIO",
+ "visitante": "ISASA UNIVERSITARIO",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "415",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-06-20 13:25:00",
+  "Fecha_fin": "2026-06-20 13:25:00",
+  "Locatario": "YOUNG UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "ISASA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66386",
+   "Nombre": "FRANCISCO CONSTANTIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66758",
+   "Nombre": "ANTHONY FACCIO",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66136",
+   "Nombre": "ALFONSO MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60311",
+   "Nombre": "ROMAN JOSE SCREMINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67395",
+   "Nombre": "VALENTINO SACRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64245",
+   "Nombre": "THIAGO RUPPEL",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66169",
+   "Nombre": "ALEJO ANDRES AIZPUN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67431",
+   "Nombre": "EMILIANO ACOSTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "65774",
+   "Nombre": "TOMAS BANEGA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57011",
+   "Nombre": "SEBASTIAN BONILLA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "41215",
+   "Nombre": "NICOLAS BERTRAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "43558",
+   "Nombre": "GASTON ALVAREZ DE RON",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53800",
+   "Nombre": "JUAN PEDRO HOURCADE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54840",
+   "Nombre": "FACUNDO RIBA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "46907",
+   "Nombre": "ERNESTO BAUMGARTNER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "55105",
+   "Nombre": "SANTIAGO ROBALLO",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65774",
+   "Jug_Sale": "TOMAS BANEGA",
+   "CarneEntra": "64742",
+   "Jug_Entra": "GASPAR HERMOSO",
+   "camiseta": "27",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "66169",
+   "Jug_Sale": "ALEJO ANDRES AIZPUN",
+   "CarneEntra": "64739",
+   "Jug_Entra": "SANTIAGO SCREMINI",
+   "camiseta": "16",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "67431",
+   "Jug_Sale": "EMILIANO ACOSTA",
+   "CarneEntra": "56157",
+   "Jug_Entra": "JEREMIAS SILVEIRA",
+   "camiseta": "17",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "64592",
+   "Jug_Sale": "GERONIMO VANZINI",
+   "CarneEntra": "62225",
+   "Jug_Entra": "FELIPE GONZALEZ",
+   "camiseta": "2",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "65774",
+   "Jug_Sale": "TOMAS BANEGA",
+   "CarneEntra": "52893",
+   "Jug_Entra": "EZEQUIEL FRANCO",
+   "camiseta": "27",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54840",
+   "Jug_Sale": "FACUNDO RIBA",
+   "CarneEntra": "54629",
+   "Jug_Entra": "FEDERICO HERNANDEZ",
+   "camiseta": "11",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "53800",
+   "Jug_Sale": "JUAN PEDRO HOURCADE",
+   "CarneEntra": "54822",
+   "Jug_Entra": "FELIPE CARDENAS",
+   "camiseta": "20",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "46909",
+   "Jug_Sale": "FEDERICO KARDJIAN",
+   "CarneEntra": "54851",
+   "Jug_Entra": "MATIAS MEDEROS",
+   "camiseta": "37",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "43558",
+   "Jug_Sale": "GASTON ALVAREZ DE RON",
+   "CarneEntra": "67692",
+   "Jug_Entra": "AGUSTIN GONZALEZ",
+   "camiseta": "13",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "49355",
+   "Jug_Sale": "FACUNDO VALENTIN ALLES",
+   "CarneEntra": "60668",
+   "Jug_Entra": "JOAQUIN IGNACIO PARNIZARI",
+   "camiseta": "88",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64742",
+   "Nombre": "GASPAR HERMOSO",
+   "minutos": "63",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67431",
+   "Nombre": "EMILIANO ACOSTA",
+   "minutos": "29",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "minutos": "48",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,289 @@
+{
+ "id": "101114",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 15,
+ "fechaHora": "2026-08-19 22:00:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "OLD BRENDANS CLUB",
+ "visitante": "CENTRO CRISTOBAL COLON",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "234",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-08-19 00:00:00",
+  "Fecha_fin": "2026-08-19 00:00:00",
+  "Locatario": "OLD BRENDANS CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CENTRO CRISTOBAL COLON",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "21036",
+   "Nombre": "JUAN AGUSTIN MURIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45840",
+   "Nombre": "FELIPE DOMINGO FERNANDEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "45306",
+   "Nombre": "JUAN PEDRO TERRENO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "39879",
+   "Nombre": "IGNACIO ADINOLFI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49225",
+   "Nombre": "MATIAS LOPEZ",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "42626",
+   "Nombre": "FRANCISCO DOS SANTOS ALVEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53390",
+   "Nombre": "JUAN MANUEL ECHEVERRY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60013",
+   "Nombre": "JOAQUIN DI CAPRIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "51443",
+   "Nombre": "MATEO DAVID BONIFACIO",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "50131",
+   "Nombre": "LUCAS CALISTRO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "36033",
+   "Nombre": "FEDERICO FENOCCHI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44959",
+   "Nombre": "FEDERICO NICOLAS COLMAN",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "47768",
+   "Nombre": "BRUNO COLLAZO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "37953",
+   "Nombre": "NICOLAS JORGE CANER",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "43481",
+   "Nombre": "MANUEL HORACIO FERNANDEZ",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50099",
+   "Nombre": "ISMAEL LUZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "45345",
+   "Nombre": "JOAQUIN EASTMAN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58770",
+   "Nombre": "MATEO EASTMAN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "44705",
+   "Nombre": "CAMILO INTHAMOUSSU",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "41683",
+   "Nombre": "AGUSTIN SOLARI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "28478",
+   "Nombre": "MATIAS LOVESIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67324",
+   "Nombre": "FRANCO VALIENTE",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45840",
+   "Jug_Sale": "FELIPE DOMINGO FERNANDEZ",
+   "CarneEntra": "63398",
+   "Jug_Entra": "BRUNO ANDRES CIAPPESONI",
+   "camiseta": "37",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "50131",
+   "Jug_Sale": "LUCAS CALISTRO",
+   "CarneEntra": "53398",
+   "Jug_Entra": "MARTINO RAIMONDO",
+   "camiseta": "50",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42626",
+   "Jug_Sale": "FRANCISCO DOS SANTOS ALVEZ",
+   "CarneEntra": "58479",
+   "Jug_Entra": "TOMAS TELLERIA",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53390",
+   "Jug_Sale": "JUAN MANUEL ECHEVERRY",
+   "CarneEntra": "54067",
+   "Jug_Entra": "JUAN PABLO LOPEZ",
+   "camiseta": "7",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "49225",
+   "Jug_Sale": "MATIAS LOPEZ",
+   "CarneEntra": "52454",
+   "Jug_Entra": "FRANCO SOTO",
+   "camiseta": "32",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "51443",
+   "Jug_Sale": "MATEO DAVID BONIFACIO",
+   "CarneEntra": "45303",
+   "Jug_Entra": "SANTIAGO PETROCELLI",
+   "camiseta": "10",
+   "minutos": "63"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44705",
+   "Jug_Sale": "CAMILO INTHAMOUSSU",
+   "CarneEntra": "55648",
+   "Jug_Entra": "DIEGO MONTERO",
+   "camiseta": "70",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "67324",
+   "Jug_Sale": "FRANCO VALIENTE",
+   "CarneEntra": "59519",
+   "Jug_Entra": "THOMAS EZEQUIEL MENDIBERRE",
+   "camiseta": "18",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "28478",
+   "Jug_Sale": "MATIAS LOVESIO",
+   "CarneEntra": "46154",
+   "Jug_Entra": "RODRIGO LUZ",
+   "camiseta": "58",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "45345",
+   "Jug_Sale": "JOAQUIN EASTMAN",
+   "CarneEntra": "45347",
+   "Jug_Entra": "GERONIMO ANDRES ARGON",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41683",
+   "Jug_Sale": "AGUSTIN SOLARI",
+   "CarneEntra": "63570",
+   "Jug_Entra": "JUAN SEBASTIAN CORONEL",
+   "camiseta": "17",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "36033",
+   "Nombre": "FEDERICO FENOCCHI",
+   "minutos": "54",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53398",
+   "Nombre": "MARTINO RAIMONDO",
+   "minutos": "89",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "44705",
+   "Nombre": "CAMILO INTHAMOUSSU",
+   "minutos": "40",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "BRUNO COLLAZO",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,289 @@
+{
+ "id": "102467",
+ "categoria": "reserva-b",
+ "serie": "RSBTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "ST. BRENDANS",
+ "local": "OLD BRENDANS CLUB",
+ "visitante": "J.M.L.M",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "674",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" TIT. y ASC.",
+  "Cancha": "ST. BRENDANS",
+  "Fecha_Inicio": "2026-10-03 10:50:00",
+  "Fecha_fin": "2026-10-03 10:50:00",
+  "Locatario": "OLD BRENDANS CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57193",
+   "Nombre": "FRANCO GABRIEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36517",
+   "Nombre": "MANUEL MATIAS GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "42722",
+   "Nombre": "LUCAS MORONI",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39397",
+   "Nombre": "GERMAN VIERA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "55499",
+   "Nombre": "IGNACIO DANTE FERNANDEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "41121",
+   "Nombre": "ALVARO CANO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "39323",
+   "Nombre": "IGNACIO MILLER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57611",
+   "Nombre": "EZEQUIEL VILLANUEVA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "49048",
+   "Nombre": "EZEQUIEL ESTEFAN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "34982",
+   "Nombre": "GUILLERMO BURGOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "53428",
+   "Nombre": "JUAN MANUEL BALSAS",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41531",
+   "Nombre": "JOAQUIN BELTRAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54001",
+   "Nombre": "AGUSTIN DANIEL LLUBERAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53190",
+   "Nombre": "SANTINO CARASSALE",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53105",
+   "Nombre": "FELIPE FRIGERIO",
+   "camiseta": "88",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47534",
+   "Nombre": "SANTIAGO FLEGINSKY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49924",
+   "Nombre": "FELIPE BAYARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "50933",
+   "Nombre": "SANTIAGO NICOLAS TIZON",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "49501",
+   "Nombre": "TOMAS PARPAL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "47817",
+   "Nombre": "CAMILO GILI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "50448",
+   "Nombre": "JUAN FERNANDO COMPANY",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52806",
+   "Nombre": "SANTIAGO LUIS",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "36517",
+   "Jug_Sale": "MANUEL MATIAS GONZALEZ",
+   "CarneEntra": "43891",
+   "Jug_Entra": "DIEGO LOPEZ",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41121",
+   "Jug_Sale": "ALVARO CANO",
+   "CarneEntra": "43887",
+   "Jug_Entra": "SANTIAGO JAIME CALLANDER",
+   "camiseta": "52",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34982",
+   "Jug_Sale": "GUILLERMO BURGOS",
+   "CarneEntra": "39018",
+   "Jug_Entra": "MAURO KARABELNIK",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55499",
+   "Jug_Sale": "IGNACIO DANTE FERNANDEZ",
+   "CarneEntra": "35183",
+   "Jug_Entra": "LORENZO MORONI",
+   "camiseta": "90",
+   "minutos": "68"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47817",
+   "Jug_Sale": "CAMILO GILI",
+   "CarneEntra": "47184",
+   "Jug_Entra": "NICOLAS FLEGINSKY",
+   "camiseta": "37",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50448",
+   "Jug_Sale": "JUAN FERNANDO COMPANY",
+   "CarneEntra": "54192",
+   "Jug_Entra": "FEDERICO PEREZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52806",
+   "Jug_Sale": "SANTIAGO LUIS",
+   "CarneEntra": "53376",
+   "Jug_Entra": "GUILLERMO WILSON",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "49924",
+   "Jug_Sale": "FELIPE BAYARDO",
+   "CarneEntra": "53104",
+   "Jug_Entra": "FRANCO MESSANO",
+   "camiseta": "42",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "54001",
+   "Jug_Sale": "AGUSTIN DANIEL LLUBERAS",
+   "CarneEntra": "53189",
+   "Jug_Entra": "FEDERICO VIDAL",
+   "camiseta": "77",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "50933",
+   "Jug_Sale": "SANTIAGO NICOLAS TIZON",
+   "CarneEntra": "48839",
+   "Jug_Entra": "MARTIN FERNANDEZ",
+   "camiseta": "18",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "49501",
+   "Jug_Sale": "TOMAS PARPAL",
+   "CarneEntra": "54718",
+   "Jug_Entra": "IGNACIO TORRES",
+   "camiseta": "47",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "50448",
+   "Nombre": "JUAN FERNANDO COMPANY",
+   "minutos": "24",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52806",
+   "Nombre": "SANTIAGO LUIS",
+   "minutos": "22",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52806",
+   "Nombre": "SANTIAGO LUIS",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54192",
+   "Nombre": "FEDERICO PEREZ",
+   "minutos": "49",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

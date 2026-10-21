@@ -1,0 +1,291 @@
+{
+ "id": "98643",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "CEIBOS CLUB",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "24",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-25 13:00:00",
+  "Fecha_fin": "2026-04-25 13:00:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CEIBOS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41778",
+   "Nombre": "NICOLAS MACCIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54783",
+   "Nombre": "MARTIN SEBASTIAN GONZALEZ",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "41609",
+   "Nombre": "FACUNDO VILLAR",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "37903",
+   "Nombre": "MATEO MUJICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53130",
+   "Nombre": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53070",
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "57131",
+   "Nombre": "GIANFRANCO DUPONT",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53121",
+   "Nombre": "ANDRES RUGGIERO",
+   "camiseta": "90",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "24481",
+   "Nombre": "AGUSTIN LISORIO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "41897",
+   "Nombre": "IGNACIO CABRERA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "53926",
+   "Nombre": "JUAN MARTIN CABRERA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "41651",
+   "Nombre": "JOSE MIGUEL MARTIRENA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "43274",
+   "Nombre": "RAFAEL MONESTIER",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "22639",
+   "Nombre": "SANTIAGO MARIA GONZALEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53505",
+   "Nombre": "SANTIAGO LOPEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "32388",
+   "Nombre": "AGUSTIN CALVO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "23902",
+   "Nombre": "ENRIQUE MARTIN BOIX",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "46925",
+   "Nombre": "ATILIO FRANCISCO NARANCIO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51136",
+   "Nombre": "JOAQUIN NARANCIO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54783",
+   "Jug_Sale": "MARTIN SEBASTIAN GONZALEZ",
+   "CarneEntra": "53245",
+   "Jug_Entra": "JOAQUIN BRUNO",
+   "camiseta": "11",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "57131",
+   "Jug_Sale": "GIANFRANCO DUPONT",
+   "CarneEntra": "45854",
+   "Jug_Entra": "JULIAN VELAZQUEZ",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "53130",
+   "Jug_Sale": "JUAN IGNACIO AISCAR",
+   "CarneEntra": "45424",
+   "Jug_Entra": "ANDRES VALLARINO",
+   "camiseta": "7",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "50950",
+   "Jug_Sale": "ISMAEL VILLANUEVA",
+   "CarneEntra": "66798",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "61",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "53121",
+   "Jug_Sale": "ANDRES RUGGIERO",
+   "CarneEntra": "66795",
+   "Jug_Entra": "GERMAN MUJICA",
+   "camiseta": "68",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "48803",
+   "Jug_Sale": "MATIAS REVELLO",
+   "CarneEntra": "43136",
+   "Jug_Entra": "GABRIEL JOAQUIN SUAREZ",
+   "camiseta": "30",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51136",
+   "Jug_Sale": "JOAQUIN NARANCIO",
+   "CarneEntra": "50493",
+   "Jug_Entra": "FRANCISCO MARIA PREVE",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53926",
+   "Jug_Sale": "JUAN MARTIN CABRERA",
+   "CarneEntra": "44948",
+   "Jug_Entra": "MAURICIO AZNAREZ",
+   "camiseta": "16",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "46925",
+   "Jug_Sale": "ATILIO FRANCISCO NARANCIO",
+   "CarneEntra": "41605",
+   "Jug_Entra": "NICOLAS MURO",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "43274",
+   "Jug_Sale": "RAFAEL MONESTIER",
+   "CarneEntra": "54407",
+   "Jug_Entra": "FRANCISCO ETCHEGOIMBERRY",
+   "camiseta": "5",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "53505",
+   "Jug_Sale": "SANTIAGO LOPEZ",
+   "CarneEntra": "54403",
+   "Jug_Entra": "IGNACIO GIMENEZ",
+   "camiseta": "19",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "32388",
+   "Jug_Sale": "AGUSTIN CALVO",
+   "CarneEntra": "50878",
+   "Jug_Entra": "JOAQUIN PORTEIRO",
+   "camiseta": "10",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "minutos": "22",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46925",
+   "Nombre": "ATILIO FRANCISCO NARANCIO",
+   "minutos": "26",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "SANTIAGO MARIA GONZALEZ",
+   "observaciones": ""
+  }
+ ]
+}

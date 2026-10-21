@@ -1,0 +1,291 @@
+{
+ "id": "100287",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 10,
+ "fechaHora": "2026-06-21 09:00:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "CLUB UNIVERSIDAD CATOLICA",
+ "visitante": "J.M.L.M",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "200",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-06-21 10:45:00",
+  "Fecha_fin": "2026-06-21 10:45:00",
+  "Locatario": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58893",
+   "Nombre": "LUCAS AGUSTIN RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "34367",
+   "Nombre": "JUAN MARTIN LEMA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "32460",
+   "Nombre": "AUGUSTO BARRIOS",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39855",
+   "Nombre": "MARTIN CAMPOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "32373",
+   "Nombre": "AGUSTIN OLIVERI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "38087",
+   "Nombre": "MARIANO CORTIZAS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "63597",
+   "Nombre": "SANTIAGO ECHEVERRIA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "34231",
+   "Nombre": "SEBASTIAN NICOLAS RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "49524",
+   "Nombre": "EMILIANO AMANKAY ALTEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "63107",
+   "Nombre": "MATEO NUÑEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40253",
+   "Nombre": "FACUNDO MARTINEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41531",
+   "Nombre": "JOAQUIN BELTRAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24053",
+   "Nombre": "JUAN IGNACIO MORO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "54001",
+   "Nombre": "AGUSTIN DANIEL LLUBERAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51505",
+   "Nombre": "MATEO GIOSA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "46862",
+   "Nombre": "JUAN IGNACIO GARCIA",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47817",
+   "Nombre": "CAMILO GILI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "47375",
+   "Nombre": "JOAQUIN MARQUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54192",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47534",
+   "Nombre": "SANTIAGO FLEGINSKY",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "49622",
+   "Nombre": "STEFANO CERTULO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "46705",
+   "Nombre": "JUAN PABLO GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "38087",
+   "Jug_Sale": "MARIANO CORTIZAS",
+   "CarneEntra": "45788",
+   "Jug_Entra": "NICOLAS ALEJANDRO MARTINEZ",
+   "camiseta": "8",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "49524",
+   "Jug_Sale": "EMILIANO AMANKAY ALTEZ",
+   "CarneEntra": "62289",
+   "Jug_Entra": "JEREMIAS RUIZ DIAZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34231",
+   "Jug_Sale": "SEBASTIAN NICOLAS RODRIGUEZ",
+   "CarneEntra": "54369",
+   "Jug_Entra": "JONATHAN AGUSTÌN REY",
+   "camiseta": "17",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "39855",
+   "Jug_Sale": "MARTIN CAMPOS",
+   "CarneEntra": "54349",
+   "Jug_Entra": "DIEGO FERNANDEZ",
+   "camiseta": "55",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "63597",
+   "Jug_Sale": "SANTIAGO ECHEVERRIA",
+   "CarneEntra": "34600",
+   "Jug_Entra": "STEFANO VITTORIO CAMAROTE",
+   "camiseta": "2",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24053",
+   "Jug_Sale": "JUAN IGNACIO MORO",
+   "CarneEntra": "45775",
+   "Jug_Entra": "FRANCO GIOSA",
+   "camiseta": "0",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47534",
+   "Jug_Sale": "SANTIAGO FLEGINSKY",
+   "CarneEntra": "53177",
+   "Jug_Entra": "MANUEL BAYARDO",
+   "camiseta": "12",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "49622",
+   "Jug_Sale": "STEFANO CERTULO",
+   "CarneEntra": "51589",
+   "Jug_Entra": "LUCAS TROVO",
+   "camiseta": "10",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "46705",
+   "Jug_Sale": "JUAN PABLO GONZALEZ",
+   "CarneEntra": "31285",
+   "Jug_Entra": "FRANCISCO DELLA SANTA",
+   "camiseta": "80",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "47375",
+   "Jug_Sale": "JOAQUIN MARQUEZ",
+   "CarneEntra": "41952",
+   "Jug_Entra": "JUAN IGNACIO SENATORE",
+   "camiseta": "23",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "54192",
+   "Jug_Sale": "FEDERICO PEREZ",
+   "CarneEntra": "38900",
+   "Jug_Entra": "GONZALO SCHIAFFARINO",
+   "camiseta": "7",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "47817",
+   "Jug_Sale": "CAMILO GILI",
+   "CarneEntra": "47184",
+   "Jug_Entra": "NICOLAS FLEGINSKY",
+   "camiseta": "27",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "49622",
+   "Nombre": "STEFANO CERTULO",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49622",
+   "Nombre": "STEFANO CERTULO",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54001",
+   "Nombre": "AGUSTIN DANIEL LLUBERAS",
+   "minutos": "10",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

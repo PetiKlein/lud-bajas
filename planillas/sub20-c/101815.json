@@ -1,0 +1,256 @@
+{
+ "id": "101815",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 15:30:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "MONTEVIDEO COLLEGE",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "340",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-09-12 17:15:00",
+  "Fecha_fin": "2026-09-12 17:15:00",
+  "Locatario": "MONTEVIDEO COLLEGE",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66348",
+   "Nombre": "FELIPE DE BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64410",
+   "Nombre": "JUAN ANTONIO QUINTAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59185",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67433",
+   "Nombre": "IGNACIO STANHAM",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66401",
+   "Nombre": "FACUNDO SUAREZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58567",
+   "Nombre": "NAHUEL DAVID REBELLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64761",
+   "Nombre": "MATIAS NICOLAS DARRE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "62874",
+   "Nombre": "JUAN MANUEL CARBONE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63442",
+   "Nombre": "MATEO FONT",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "66402",
+   "Nombre": "ANTONY DANIEL CARDOZO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68560",
+   "Nombre": "FELIPE MINO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63266",
+   "Nombre": "JUAN MANUEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56788",
+   "Nombre": "TOMAS ANGLADA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66003",
+   "Nombre": "MANUEL BECERRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62065",
+   "Nombre": "FEDERICO RUBIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64901",
+   "Nombre": "TOMAS BELTRAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64096",
+   "Nombre": "NICOLAS ANDRES ESTIBEN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56791",
+   "Nombre": "JOAQUIN BRAGLIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65864",
+   "Nombre": "JOAQUIN PATRON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62062",
+   "Nombre": "AFONSO COSTA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62063",
+   "Nombre": "RODRIGO RUBIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57870",
+   "Nombre": "SANTINO BARATE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64761",
+   "Jug_Sale": "MATIAS NICOLAS DARRE",
+   "CarneEntra": "66020",
+   "Jug_Entra": "FACUNDO DOMINGUEZ",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62874",
+   "Jug_Sale": "JUAN MANUEL CARBONE",
+   "CarneEntra": "61650",
+   "Jug_Entra": "MATIAS MARQUEZ",
+   "camiseta": "21",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "68560",
+   "Jug_Sale": "FELIPE MINO",
+   "CarneEntra": "60187",
+   "Jug_Entra": "JUAN MANUEL NEBEL",
+   "camiseta": "3",
+   "minutos": "94"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64096",
+   "Jug_Sale": "NICOLAS ANDRES ESTIBEN",
+   "CarneEntra": "60473",
+   "Jug_Entra": "JUAN AGUSTIN LOPEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57870",
+   "Jug_Sale": "SANTINO BARATE",
+   "CarneEntra": "56092",
+   "Jug_Entra": "AGUSTIN TELLECHEA",
+   "camiseta": "99",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "66003",
+   "Jug_Sale": "MANUEL BECERRA",
+   "CarneEntra": "65555",
+   "Jug_Entra": "JOAQUIN MEDINA",
+   "camiseta": "19",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "65864",
+   "Jug_Sale": "JOAQUIN PATRON",
+   "CarneEntra": "64097",
+   "Jug_Entra": "JUAN IGNACIO ESTIBEN",
+   "camiseta": "7",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "56788",
+   "Jug_Sale": "TOMAS ANGLADA",
+   "CarneEntra": "56794",
+   "Jug_Entra": "BRUNO REY",
+   "camiseta": "11",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63442",
+   "Nombre": "MATEO FONT",
+   "minutos": "72",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "RODRIGO RUBIO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "JUAN MANUEL LOPEZ",
+   "observaciones": ""
+  }
+ ]
+}

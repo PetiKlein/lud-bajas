@@ -1,0 +1,254 @@
+{
+ "id": "102128",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 14,
+ "fechaHora": "2026-09-20 09:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "FLORES UNIVERSITARIO",
+ "visitante": "LA CUEVA DEL LOBIZON",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "706",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-09-20 11:00:00",
+  "Fecha_fin": "2026-09-20 11:00:00",
+  "Locatario": "FLORES UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "LA CUEVA DEL LOBIZON",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41557",
+   "Nombre": "FABRIZZIO DE ARMAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36968",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58511",
+   "Nombre": "LUCAS MOLINA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50321",
+   "Nombre": "FERNANDO AGUSTIN SEVERO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63756",
+   "Nombre": "CAMILO PEREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63589",
+   "Nombre": "JOSE PABLO MARTINEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "41475",
+   "Nombre": "DANIEL TORRES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41494",
+   "Nombre": "SERGIO JAVIER HEREDIA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42894",
+   "Nombre": "MARTIN POLLERO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "58510",
+   "Nombre": "NANSEN MAURICIO ALDETA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62231",
+   "Nombre": "SANTIAGO TABACAMBI GUERRA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66301",
+   "Nombre": "FEDERICO BASTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45674",
+   "Nombre": "NAHUEL ENRIQUE RUIZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49830",
+   "Nombre": "PABLO RODRIGUEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "64965",
+   "Nombre": "EMILIANO ANDRES CABRERA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "67307",
+   "Nombre": "VALENTIN ROSTAN",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64780",
+   "Nombre": "NAHUEL ROSTAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "44941",
+   "Nombre": "LEANDRO NICOLAS ALVAREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62153",
+   "Nombre": "GASTON GRIEGO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62178",
+   "Nombre": "MATIAS MURIGUENEZ",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "47277",
+   "Nombre": "RENATO GERMAN MONCALVO",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60806",
+   "Nombre": "RODRIGO DAMIAN KAHRS",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63589",
+   "Jug_Sale": "JOSE PABLO MARTINEZ",
+   "CarneEntra": "66471",
+   "Jug_Entra": "FACUNDO ADAN VIERA",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63756",
+   "Jug_Sale": "CAMILO PEREZ",
+   "CarneEntra": "32746",
+   "Jug_Entra": "CRISTHIAN ADRIAN BRAZ",
+   "camiseta": "15",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62153",
+   "Jug_Sale": "GASTON GRIEGO",
+   "CarneEntra": "61062",
+   "Jug_Entra": "AGUSTIN PEREZ",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64965",
+   "Jug_Sale": "EMILIANO ANDRES CABRERA",
+   "CarneEntra": "64781",
+   "Jug_Entra": "RODRIGO MANUEL SASSO",
+   "camiseta": "36",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "45674",
+   "Jug_Sale": "NAHUEL ENRIQUE RUIZ",
+   "CarneEntra": "64965",
+   "Jug_Entra": "EMILIANO ANDRES CABRERA",
+   "camiseta": "31",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62231",
+   "Nombre": "SANTIAGO TABACAMBI GUERRA",
+   "minutos": "51",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62231",
+   "Nombre": "SANTIAGO TABACAMBI GUERRA",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47277",
+   "Nombre": "RENATO GERMAN MONCALVO",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47277",
+   "Nombre": "RENATO GERMAN MONCALVO",
+   "minutos": "69",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47277",
+   "Nombre": "RENATO GERMAN MONCALVO",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62153",
+   "Nombre": "GASTON GRIEGO",
+   "minutos": "62",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

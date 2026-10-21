@@ -1,0 +1,285 @@
+{
+ "id": "99055",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "LATINO FUTBOL CLUB",
+ "visitante": "YAGUARI",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "395",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-05-23 13:10:00",
+  "Fecha_fin": "2026-05-23 13:10:00",
+  "Locatario": "LATINO FUTBOL CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "YAGUARI",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56822",
+   "Nombre": "JUAN IGNACIO TELLECHEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49193",
+   "Nombre": "JUAN PEREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "40984",
+   "Nombre": "MATHIAS GABRIEL ORTIZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56807",
+   "Nombre": "JOAQUIN LUTHAR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59776",
+   "Nombre": "MARTINO LORENZO FLORA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62074",
+   "Nombre": "FRANCISCO BURGOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55316",
+   "Nombre": "LUCIANO VICINO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49189",
+   "Nombre": "MANU BERVEJILLO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42311",
+   "Nombre": "DIEGO MATIAS VIZCARRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46887",
+   "Nombre": "TOMAS MACHADO",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "30521",
+   "Nombre": "AGUSTIN PEDRO BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45639",
+   "Nombre": "PATRICIO CORREA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65852",
+   "Nombre": "BAUTISTA DIBOT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "39081",
+   "Nombre": "IGNACIO EASTMAN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "55076",
+   "Nombre": "SIMON RUSSI",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "46411",
+   "Nombre": "DIEGO LENCINA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59170",
+   "Nombre": "FRANCISCO SANTAMARIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "55776",
+   "Nombre": "ALFONSO MARTINO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "55068",
+   "Nombre": "JUAN IGNACIO GUERRERO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "55063",
+   "Nombre": "FELIPE VELAZQUEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "54378",
+   "Nombre": "NICOLAS VAZQUEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62074",
+   "Jug_Sale": "FRANCISCO BURGOS",
+   "CarneEntra": "37816",
+   "Jug_Entra": "EMILIANO PABLO BONINI",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59776",
+   "Jug_Sale": "MARTINO LORENZO FLORA",
+   "CarneEntra": "62075",
+   "Jug_Entra": "SANTIAGO SOSA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42311",
+   "Jug_Sale": "DIEGO MATIAS VIZCARRA",
+   "CarneEntra": "59772",
+   "Jug_Entra": "MIRKO FELIX FLORA",
+   "camiseta": "30",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "55316",
+   "Jug_Sale": "LUCIANO VICINO",
+   "CarneEntra": "59787",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "18",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "59765",
+   "Jug_Sale": "SANTIAGO TRIAS",
+   "CarneEntra": "52794",
+   "Jug_Entra": "MAURO LARRROSA",
+   "camiseta": "19",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56807",
+   "Jug_Sale": "JOAQUIN LUTHAR",
+   "CarneEntra": "62064",
+   "Jug_Entra": "PEDRO DAVEREDE",
+   "camiseta": "5",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "49193",
+   "Jug_Sale": "JUAN PEREZ",
+   "CarneEntra": "56044",
+   "Jug_Entra": "GABRIEL ENRIQUE CHACON",
+   "camiseta": "8",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46411",
+   "Jug_Sale": "DIEGO LENCINA",
+   "CarneEntra": "63110",
+   "Jug_Entra": "VICENTE MARTINEZ HAEDO",
+   "camiseta": "65",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55068",
+   "Jug_Sale": "JUAN IGNACIO GUERRERO",
+   "CarneEntra": "68653",
+   "Jug_Entra": "CARLOS CABALLERO",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59170",
+   "Jug_Sale": "FRANCISCO SANTAMARIA",
+   "CarneEntra": "51073",
+   "Jug_Entra": "GASTON PALERMO",
+   "camiseta": "6",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "55063",
+   "Jug_Sale": "FELIPE VELAZQUEZ",
+   "CarneEntra": "40641",
+   "Jug_Entra": "MANUEL CAMPANELLA",
+   "camiseta": "23",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "55776",
+   "Jug_Sale": "ALFONSO MARTINO",
+   "CarneEntra": "55080",
+   "Jug_Entra": "FRANCISCO CERONI",
+   "camiseta": "18",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "63110",
+   "Nombre": "VICENTE MARTINEZ HAEDO",
+   "minutos": "78",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68653",
+   "Nombre": "CARLOS CABALLERO",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

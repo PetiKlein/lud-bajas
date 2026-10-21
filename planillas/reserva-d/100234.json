@@ -1,0 +1,247 @@
+{
+ "id": "100234",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "YAGUARI",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "420",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-20 13:05:00",
+  "Fecha_fin": "2026-06-20 13:05:00",
+  "Locatario": "YAGUARI",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "30521",
+   "Nombre": "AGUSTIN PEDRO BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45639",
+   "Nombre": "PATRICIO CORREA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65852",
+   "Nombre": "BAUTISTA DIBOT",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "39081",
+   "Nombre": "IGNACIO EASTMAN",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "55076",
+   "Nombre": "SIMON RUSSI",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "59170",
+   "Nombre": "FRANCISCO SANTAMARIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "55776",
+   "Nombre": "ALFONSO MARTINO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "64265",
+   "Nombre": "DIEGO CALLEROS",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "39047",
+   "Nombre": "MAXIMILIANO ALEXIS ROSE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63110",
+   "Nombre": "VICENTE MARTINEZ HAEDO",
+   "camiseta": "65",
+   "Capitan": ""
+  },
+  {
+   "carne": "54378",
+   "Nombre": "NICOLAS VAZQUEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55264",
+   "Nombre": "JERONIMO LARCADE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46472",
+   "Nombre": "GUILLERMO VON SANDEN",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58348",
+   "Nombre": "JOAQUIN GUANI",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "53289",
+   "Nombre": "BRUNO CRISAFULLI",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "46948",
+   "Nombre": "SANTIAGO CAULA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "49110",
+   "Nombre": "CAMILO BALIAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "44081",
+   "Nombre": "SANTIAGO LIZARAZU",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "34547",
+   "Nombre": "NICOLA PRATTO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57658",
+   "Nombre": "IGNACIO MIERES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "49192",
+   "Nombre": "JUAN MARTIN ROCCA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "49172",
+   "Nombre": "MANUEL ANSELMI",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55776",
+   "Jug_Sale": "ALFONSO MARTINO",
+   "CarneEntra": "40963",
+   "Jug_Entra": "JUAN DIEGO GOMEZ",
+   "camiseta": "49",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "63110",
+   "Jug_Sale": "VICENTE MARTINEZ HAEDO",
+   "CarneEntra": "46411",
+   "Jug_Entra": "DIEGO LENCINA",
+   "camiseta": "15",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "45639",
+   "Jug_Sale": "PATRICIO CORREA",
+   "CarneEntra": "55080",
+   "Jug_Entra": "FRANCISCO CERONI",
+   "camiseta": "18",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "55076",
+   "Jug_Sale": "SIMON RUSSI",
+   "CarneEntra": "47708",
+   "Jug_Entra": "GASTON PINTOS",
+   "camiseta": "50",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "59170",
+   "Jug_Sale": "FRANCISCO SANTAMARIA",
+   "CarneEntra": "68817",
+   "Jug_Entra": "SANTIAGO UMPIERREZ",
+   "camiseta": "16",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49192",
+   "Jug_Sale": "JUAN MARTIN ROCCA",
+   "CarneEntra": "52678",
+   "Jug_Entra": "VALENTINO MASONI",
+   "camiseta": "19",
+   "minutos": "16"
+  },
+  {
+   "CarneSale": "57658",
+   "Jug_Sale": "IGNACIO MIERES",
+   "CarneEntra": "46451",
+   "Jug_Entra": "GONZALO CAMESELLA",
+   "camiseta": "16",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "49172",
+   "Jug_Sale": "MANUEL ANSELMI",
+   "CarneEntra": "53662",
+   "Jug_Entra": "LUCAS ONETTO",
+   "camiseta": "88",
+   "minutos": "36"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "49192",
+   "Nombre": "JUAN MARTIN ROCCA",
+   "minutos": "10",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

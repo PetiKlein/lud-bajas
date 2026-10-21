@@ -1,0 +1,274 @@
+{
+ "id": "99963",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "DANUBIO FUTBOL CLUB",
+ "visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "306",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-13 10:55:00",
+  "Fecha_fin": "2026-06-13 10:55:00",
+  "Locatario": "DANUBIO FUTBOL CLUB",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62320",
+   "Nombre": "JOAQUIN GABRIEL MEDEROS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66120",
+   "Nombre": "AGUSTIN CALZADA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56300",
+   "Nombre": "NICOLAS CARDOZO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51293",
+   "Nombre": "JUAN MARTIN CABALLERO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "42691",
+   "Nombre": "MAXIMILIANO MUNDIN",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63923",
+   "Nombre": "ADRIAN MOREIRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55067",
+   "Nombre": "NICOLAS MAURO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62542",
+   "Nombre": "FERNANDO ISMAEL MARTINEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "46276",
+   "Nombre": "FRANCO GUSTAVO MARFEI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61832",
+   "Nombre": "AGUSTIN FRANCA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58566",
+   "Nombre": "RAMIRO GERMAN CAPELLI",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52990",
+   "Nombre": "NICOLAS FEDERICO DIAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40019",
+   "Nombre": "RODRIGO TEJERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "46898",
+   "Nombre": "PABLO PRADO",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52772",
+   "Nombre": "IGNACIO ELIZEIRE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "60073",
+   "Nombre": "MAXIMILIANO CAMBON",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "52987",
+   "Nombre": "RENZO GUZMAN RAMAGLI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57708",
+   "Nombre": "VALENTIN CUÑA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61951",
+   "Nombre": "EZEQUIEL BRITOS",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52775",
+   "Nombre": "BRIAN EMANUEL MADERA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59869",
+   "Nombre": "LUKAS BERNARD KASEK",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "52771",
+   "Nombre": "NICOLAS ANDRES CUENCA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46276",
+   "Jug_Sale": "FRANCO GUSTAVO MARFEI",
+   "CarneEntra": "58647",
+   "Jug_Entra": "DIEGO FERNANDO MORALES",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56300",
+   "Jug_Sale": "NICOLAS CARDOZO",
+   "CarneEntra": "63586",
+   "Jug_Entra": "EMILIANO ARREGUI",
+   "camiseta": "7",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "63923",
+   "Jug_Sale": "ADRIAN MOREIRA",
+   "CarneEntra": "62347",
+   "Jug_Entra": "JUAN MATEO LARREA",
+   "camiseta": "19",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "66120",
+   "Jug_Sale": "AGUSTIN CALZADA",
+   "CarneEntra": "64143",
+   "Jug_Entra": "ALFONSO GONZALEZ",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58566",
+   "Jug_Sale": "RAMIRO GERMAN CAPELLI",
+   "CarneEntra": "54780",
+   "Jug_Entra": "ESTEBAN DANIEL VAZQUEZ",
+   "camiseta": "9",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61951",
+   "Jug_Sale": "EZEQUIEL BRITOS",
+   "CarneEntra": "40527",
+   "Jug_Entra": "SANTIAGO LARRALDE",
+   "camiseta": "99",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "59869",
+   "Jug_Sale": "LUKAS BERNARD KASEK",
+   "CarneEntra": "67716",
+   "Jug_Entra": "FABRIZIO ZANELLI",
+   "camiseta": "15",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "60073",
+   "Jug_Sale": "MAXIMILIANO CAMBON",
+   "CarneEntra": "56514",
+   "Jug_Entra": "BRUNO DI TOMASSO",
+   "camiseta": "17",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "52771",
+   "Jug_Sale": "NICOLAS ANDRES CUENCA",
+   "CarneEntra": "61951",
+   "Jug_Entra": "EZEQUIEL BRITOS",
+   "camiseta": "24",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46276",
+   "Nombre": "FRANCO GUSTAVO MARFEI",
+   "minutos": "42",
+   "EnContra": "0"
+  },
+  {
+   "carne": "46276",
+   "Nombre": "FRANCO GUSTAVO MARFEI",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58566",
+   "Nombre": "RAMIRO GERMAN CAPELLI",
+   "minutos": "39",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52775",
+   "Nombre": "BRIAN EMANUEL MADERA",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

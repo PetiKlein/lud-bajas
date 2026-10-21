@@ -1,0 +1,300 @@
+{
+ "id": "101909",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 3,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "CLUB FUERZA AEREA",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "569",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-09-12 13:15:00",
+  "Fecha_fin": "2026-09-12 13:15:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB FUERZA AEREA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54722",
+   "Nombre": "LUCAS SCAFARELLI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66528",
+   "Nombre": "LUCA CANZANI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "52402",
+   "Nombre": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45778",
+   "Nombre": "SANTIAGO BARBEITO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52808",
+   "Nombre": "SEBASTIAN USHER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56035",
+   "Nombre": "LUIS CARLOS PADRON",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67387",
+   "Nombre": "GONZALO ESTEVES",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "57343",
+   "Nombre": "FEDERICO PELUFFO",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "50053",
+   "Nombre": "DAMIAN BARBITTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65781",
+   "Nombre": "AXEL NAHUEL PIMENTEL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "46892",
+   "Nombre": "JUAN PABLO DE MEDINA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67252",
+   "Nombre": "ROBERT MARCELO MEHARU",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63084",
+   "Nombre": "KEVIN NICOLAS LAVALLEJA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67300",
+   "Nombre": "BENJAMIN PEREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47191",
+   "Nombre": "CARLOS FACUNDO CABRERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63083",
+   "Nombre": "DIEGO NICOLAS GRACES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46851",
+   "Nombre": "GASTON RAFAEL MOIRANO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67305",
+   "Nombre": "MATHIAS NICOLAS DE LA FUENTE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "46852",
+   "Nombre": "ALEXIS AMOROSO",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66528",
+   "Jug_Sale": "LUCA CANZANI",
+   "CarneEntra": "64740",
+   "Jug_Entra": "EMILIANO VANZINI",
+   "camiseta": "11",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "45778",
+   "Jug_Sale": "SANTIAGO BARBEITO",
+   "CarneEntra": "53267",
+   "Jug_Entra": "MAXIMO TORNONI",
+   "camiseta": "80",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "52808",
+   "Jug_Sale": "SEBASTIAN USHER",
+   "CarneEntra": "53378",
+   "Jug_Entra": "NICOLAS SILVA",
+   "camiseta": "19",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "52184",
+   "Jug_Sale": "DIEGO GIBERT",
+   "CarneEntra": "58665",
+   "Jug_Entra": "TOMAS ALGORTA",
+   "camiseta": "31",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57343",
+   "Jug_Sale": "FEDERICO PELUFFO",
+   "CarneEntra": "45931",
+   "Jug_Entra": "MATEO DI MARCO",
+   "camiseta": "51",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56035",
+   "Jug_Sale": "LUIS CARLOS PADRON",
+   "CarneEntra": "68074",
+   "Jug_Entra": "NICOLAS RODRIGUEZ",
+   "camiseta": "11",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "43337",
+   "Jug_Sale": "JUAN MANUEL URTIAGA",
+   "CarneEntra": "62873",
+   "Jug_Entra": "MATEO AGUSTIN ARDENTE",
+   "camiseta": "31",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65781",
+   "Jug_Sale": "AXEL NAHUEL PIMENTEL",
+   "CarneEntra": "30083",
+   "Jug_Entra": "MATHIAS AYRTON FUIDIO",
+   "camiseta": "94",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46852",
+   "Jug_Sale": "ALEXIS AMOROSO",
+   "CarneEntra": "67892",
+   "Jug_Entra": "VALENTIN DECIMA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46851",
+   "Jug_Sale": "GASTON RAFAEL MOIRANO",
+   "CarneEntra": "69094",
+   "Jug_Entra": "MATIAS GONZALO FRANCOLINO",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63083",
+   "Jug_Sale": "DIEGO NICOLAS GRACES",
+   "CarneEntra": "60254",
+   "Jug_Entra": "AXEL RAFAEL DAVILA",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47191",
+   "Jug_Sale": "CARLOS FACUNDO CABRERA",
+   "CarneEntra": "60718",
+   "Jug_Entra": "ALEXANDER ENRIQUE LOPEZ",
+   "camiseta": "69",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "67305",
+   "Jug_Sale": "MATHIAS NICOLAS DE LA FUENTE",
+   "CarneEntra": "63480",
+   "Jug_Entra": "SERGI YONATAN FERNANDEZ",
+   "camiseta": "29",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67300",
+   "Jug_Sale": "BENJAMIN PEREIRA",
+   "CarneEntra": "37472",
+   "Jug_Entra": "SANTIAGO CLEMENTE",
+   "camiseta": "23",
+   "minutos": "60"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "minutos": "48",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ROBERT MARCELO MEHARU",
+   "observaciones": ""
+  }
+ ]
+}

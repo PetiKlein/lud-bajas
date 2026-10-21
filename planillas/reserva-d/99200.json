@@ -1,0 +1,314 @@
+{
+ "id": "99200",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "MATURANA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "462",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-05-23 11:00:00",
+  "Fecha_fin": "2026-05-23 11:00:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "MATURANA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62246",
+   "Nombre": "BRUNO MOREIRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "53204",
+   "Nombre": "ARON SPINELLI",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "64069",
+   "Nombre": "CARLOS DANIEL GUIDOTTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61821",
+   "Nombre": "RICARDO MARTIN ROBLEDO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59910",
+   "Nombre": "FACUNDO OZMAN PERDOMO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62488",
+   "Nombre": "JOAQUIN SEBASTIAN CASAL",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "62984",
+   "Nombre": "FABRIZIO VALVERDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65085",
+   "Nombre": "FRANCO DIEGO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "62487",
+   "Nombre": "ALEJO RAMIREZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66523",
+   "Nombre": "JUAN LLOPIS",
+   "camiseta": "90",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44518",
+   "Nombre": "MATIAS DA ROSA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "60622",
+   "Nombre": "TOMAS FELIPPONE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "60781",
+   "Nombre": "JUAN JOSE NOGUEIRA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53762",
+   "Nombre": "MAXIMO VERA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "56781",
+   "Nombre": "FACUNDO MENENDEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37723",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55560",
+   "Nombre": "JUAN MATEO PELUFO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47098",
+   "Nombre": "JUAN IGNACIO COITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49541",
+   "Nombre": "PABLO FERNANDO MOREIRA",
+   "camiseta": "69",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66523",
+   "Jug_Sale": "JUAN LLOPIS",
+   "CarneEntra": "56409",
+   "Jug_Entra": "THIAGO FABIAN NICHELE",
+   "camiseta": "70",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "62246",
+   "Jug_Sale": "BRUNO MOREIRA",
+   "CarneEntra": "63538",
+   "Jug_Entra": "LAUTARO NICOLAS MIRABALLE",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54931",
+   "Jug_Sale": "GENARO VALENTIN COLOMBO",
+   "CarneEntra": "59016",
+   "Jug_Entra": "IGNACIO PAULO MORENO",
+   "camiseta": "60",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "61821",
+   "Jug_Sale": "RICARDO MARTIN ROBLEDO",
+   "CarneEntra": "59023",
+   "Jug_Entra": "JOSE IGNACIO TEIJEIRO",
+   "camiseta": "4",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "53204",
+   "Jug_Sale": "ARON SPINELLI",
+   "CarneEntra": "59027",
+   "Jug_Entra": "RODRIGO IGNACIO VILAS",
+   "camiseta": "88",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "59910",
+   "Jug_Sale": "FACUNDO OZMAN PERDOMO",
+   "CarneEntra": "39226",
+   "Jug_Entra": "MAURICIO FACUNDO DE LOS SANTOS",
+   "camiseta": "49",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "62488",
+   "Jug_Sale": "JOAQUIN SEBASTIAN CASAL",
+   "CarneEntra": "63777",
+   "Jug_Entra": "FRANCO OLMOS",
+   "camiseta": "30",
+   "minutos": "91"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60781",
+   "Jug_Sale": "JUAN JOSE NOGUEIRA",
+   "CarneEntra": "57542",
+   "Jug_Entra": "DIEGO SEBASTIAN DUSIO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53762",
+   "Jug_Sale": "MAXIMO VERA",
+   "CarneEntra": "54861",
+   "Jug_Entra": "FEDERICO GARCIA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49541",
+   "Jug_Sale": "PABLO FERNANDO MOREIRA",
+   "CarneEntra": "58677",
+   "Jug_Entra": "BRUNO TRAVERSA",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60622",
+   "Jug_Sale": "TOMAS FELIPPONE",
+   "CarneEntra": "57624",
+   "Jug_Entra": "MANUEL THIAGO MARTINEZ",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56781",
+   "Jug_Sale": "FACUNDO MENENDEZ",
+   "CarneEntra": "56624",
+   "Jug_Entra": "MATEO CAUTES",
+   "camiseta": "16",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "55560",
+   "Jug_Sale": "JUAN MATEO PELUFO",
+   "CarneEntra": "64795",
+   "Jug_Entra": "SANTIAGO VARELA",
+   "camiseta": "50",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "37723",
+   "Jug_Sale": "MARTIN PRATO",
+   "CarneEntra": "55202",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "29",
+   "minutos": "69"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56409",
+   "Nombre": "THIAGO FABIAN NICHELE",
+   "minutos": "63",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56409",
+   "Nombre": "THIAGO FABIAN NICHELE",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "minutos": "20",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60781",
+   "Nombre": "JUAN JOSE NOGUEIRA",
+   "minutos": "19",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,290 @@
+{
+ "id": "101232",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "ELBIO FERNANDEZ",
+ "local": "ELBIO FERNANDEZ",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "147",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "ELBIO FERNANDEZ",
+  "Fecha_Inicio": "2026-08-29 13:25:00",
+  "Fecha_fin": "2026-08-29 13:25:00",
+  "Locatario": "ELBIO FERNANDEZ",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59480",
+   "Nombre": "ENZO LEON FREYER",
+   "camiseta": "57",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53447",
+   "Nombre": "SANTIAGO RAMON URQUIZA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "55630",
+   "Nombre": "SEBASTIAN ALEXIS YANES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "56779",
+   "Nombre": "JOAQUIN ELOLA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49781",
+   "Nombre": "TADEO BERTOLOTTI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "44165",
+   "Nombre": "FEDERICO ABDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67240",
+   "Nombre": "JUAN MARTIN FAUST",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53508",
+   "Nombre": "TIAGO NICOLAS LOSADA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59694",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47728",
+   "Nombre": "FELIPE RAMA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "44402",
+   "Nombre": "SEBASTIAN RISSO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58930",
+   "Nombre": "FRANCISCO ARRIETA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "39418",
+   "Nombre": "RODRIGO BONSIGNORE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "55660",
+   "Nombre": "THIAGO FURTADO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61433",
+   "Nombre": "FRANCISCO PUCCIARELLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49143",
+   "Nombre": "SANTIAGO PAIS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "44106",
+   "Nombre": "SANTIAGO RIUS",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46937",
+   "Nombre": "MARTIN ROBATTO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56779",
+   "Jug_Sale": "JOAQUIN ELOLA",
+   "CarneEntra": "51278",
+   "Jug_Entra": "GUILLERMO AGUSTIN BELANDO",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53447",
+   "Jug_Sale": "SANTIAGO RAMON URQUIZA",
+   "CarneEntra": "49808",
+   "Jug_Entra": "BRUNO FERNANDEZ",
+   "camiseta": "34",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "49781",
+   "Jug_Sale": "TADEO BERTOLOTTI",
+   "CarneEntra": "66361",
+   "Jug_Entra": "MAXIMILIANO RATTO",
+   "camiseta": "8",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "67240",
+   "Jug_Sale": "JUAN MARTIN FAUST",
+   "CarneEntra": "53458",
+   "Jug_Entra": "SANTIAGO SPARKOV",
+   "camiseta": "27",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "44165",
+   "Jug_Sale": "FEDERICO ABDO",
+   "CarneEntra": "55606",
+   "Jug_Entra": "GONZALO CHIESA",
+   "camiseta": "10",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "55630",
+   "Jug_Sale": "SEBASTIAN ALEXIS YANES",
+   "CarneEntra": "43748",
+   "Jug_Entra": "MATHIAS LUIS BOZZOLASCO",
+   "camiseta": "88",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "59477",
+   "Jug_Sale": "NICOLAS PEDRO STEPANIUK",
+   "CarneEntra": "51004",
+   "Jug_Entra": "AGUSTIN NICOLAS CHARLO",
+   "camiseta": "41",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44402",
+   "Jug_Sale": "SEBASTIAN RISSO",
+   "CarneEntra": "44984",
+   "Jug_Entra": "NICOLAS TOMAS GALANTE",
+   "camiseta": "10",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61433",
+   "Jug_Sale": "FRANCISCO PUCCIARELLI",
+   "CarneEntra": "53951",
+   "Jug_Entra": "THIAGO NERGUIZIAN",
+   "camiseta": "22",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49143",
+   "Jug_Sale": "SANTIAGO PAIS",
+   "CarneEntra": "44123",
+   "Jug_Entra": "FEDERICO RIELLA",
+   "camiseta": "3",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58930",
+   "Jug_Sale": "FRANCISCO ARRIETA",
+   "CarneEntra": "60924",
+   "Jug_Entra": "GERONIMO SOUMASTRE",
+   "camiseta": "15",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "minutos": "51",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51278",
+   "Nombre": "GUILLERMO AGUSTIN BELANDO",
+   "minutos": "8",
+   "EnContra": "0"
+  },
+  {
+   "carne": "55606",
+   "Nombre": "GONZALO CHIESA",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "44106",
+   "Nombre": "SANTIAGO RIUS",
+   "minutos": "43",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

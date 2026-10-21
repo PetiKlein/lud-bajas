@@ -1,0 +1,272 @@
+{
+ "id": "102962",
+ "categoria": "reserva-b",
+ "serie": "RSBPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-17 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "OLD IVY",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "705",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" PER. y DESC.",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-17 13:00:00",
+  "Fecha_fin": "2026-10-17 13:00:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "OLD IVY",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55015",
+   "Nombre": "FRANCISCO GRAMPIN",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55389",
+   "Nombre": "RODRIGO NAHUEL RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64208",
+   "Nombre": "JOAQUIN REPETTO",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "59323",
+   "Nombre": "MARCOS DA SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56289",
+   "Nombre": "SANTIAGO BAIS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "54819",
+   "Nombre": "FACUNDO FERRARI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51216",
+   "Nombre": "IGNACIO ARRIOLA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "60774",
+   "Nombre": "MATEO COMBA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "50809",
+   "Nombre": "MARTIN GAITAN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "47766",
+   "Nombre": "MARCOS SANTIAGO HOLLANDER",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64209",
+   "Nombre": "AGUSTIN MORALES",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "43339",
+   "Nombre": "THIAGO MAHIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "42603",
+   "Nombre": "MATEO INGOLD",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66390",
+   "Nombre": "JOAQUIN SANTINO FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "47939",
+   "Nombre": "JUAN FRANCISCO DE LOS SANTOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "56372",
+   "Nombre": "ALFONSO CARDELINO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "65191",
+   "Nombre": "FRANCISCO BENITEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "45601",
+   "Nombre": "JUAN BAUTISTA VILLARONGA",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "53694",
+   "Nombre": "FELIPE SEGUNDO VARELA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "48007",
+   "Nombre": "VALENTIN MIER",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "41720",
+   "Nombre": "MATIAS MENGOT",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51216",
+   "Jug_Sale": "IGNACIO ARRIOLA",
+   "CarneEntra": "55021",
+   "Jug_Entra": "TOMAS BICA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55389",
+   "Jug_Sale": "RODRIGO NAHUEL RODRIGUEZ",
+   "CarneEntra": "51734",
+   "Jug_Entra": "NAHUEL JAVIER BALSAS",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47766",
+   "Jug_Sale": "MARCOS SANTIAGO HOLLANDER",
+   "CarneEntra": "47590",
+   "Jug_Entra": "IGNACIO SILVA",
+   "camiseta": "9",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56289",
+   "Jug_Sale": "SANTIAGO BAIS",
+   "CarneEntra": "50770",
+   "Jug_Entra": "SANTIAGO IGNACIO FILGUEIRAS",
+   "camiseta": "6",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60774",
+   "Jug_Sale": "MATEO COMBA",
+   "CarneEntra": "57390",
+   "Jug_Entra": "SANTIAGO ANDRES LOPEZ",
+   "camiseta": "47",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "50809",
+   "Jug_Sale": "MARTIN GAITAN",
+   "CarneEntra": "56291",
+   "Jug_Entra": "GUILLERMO CABALLERO",
+   "camiseta": "90",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53694",
+   "Jug_Sale": "FELIPE SEGUNDO VARELA",
+   "CarneEntra": "47829",
+   "Jug_Entra": "RAFAEL RUBEN GAIMARI",
+   "camiseta": "21",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "48007",
+   "Jug_Sale": "VALENTIN MIER",
+   "CarneEntra": "66623",
+   "Jug_Entra": "IGNACIO CUMELLAS",
+   "camiseta": "16",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "45601",
+   "Jug_Sale": "JUAN BAUTISTA VILLARONGA",
+   "CarneEntra": "61290",
+   "Jug_Entra": "FERNANDO BENITEZ",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47829",
+   "Jug_Sale": "RAFAEL RUBEN GAIMARI",
+   "CarneEntra": "45591",
+   "Jug_Entra": "FEDERICO DEAKIN",
+   "camiseta": "22",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "42603",
+   "Jug_Sale": "MATEO INGOLD",
+   "CarneEntra": "47831",
+   "Jug_Entra": "SANTIAGO ARIASI",
+   "camiseta": "76",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "41720",
+   "Jug_Sale": "MATIAS MENGOT",
+   "CarneEntra": "59182",
+   "Jug_Entra": "MATEO DENIS",
+   "camiseta": "27",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

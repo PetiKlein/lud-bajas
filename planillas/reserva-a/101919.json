@@ -1,0 +1,290 @@
+{
+ "id": "101919",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 09:00:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS AZUL",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "102",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-09-12 10:55:00",
+  "Fecha_fin": "2026-09-12 10:55:00",
+  "Locatario": "OLD CHRISTIANS AZUL",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55226",
+   "Nombre": "ALFONSO DEL CASTILLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53219",
+   "Nombre": "JOAQUIN LARRAECHA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "37171",
+   "Nombre": "MATEO DIEGO BLENGIO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "52606",
+   "Nombre": "JUAN DIEGO CALABUIG",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46346",
+   "Nombre": "FELIPE BARRERE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "35068",
+   "Nombre": "MATEO DI LORENZO",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "52396",
+   "Nombre": "TOMAS DI LORENZO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "32400",
+   "Nombre": "MATIAS DANIEL RIOS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "42262",
+   "Nombre": "FELIPE LOPEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "63476",
+   "Nombre": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "camiseta": "97",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59470",
+   "Nombre": "FABRICIO OLIVERA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48390",
+   "Nombre": "GERONIMO ALVARES",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "33559",
+   "Nombre": "JULIO ALEXANDER GURIDI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "37258",
+   "Nombre": "LUIS PEDRO LENGUAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "54974",
+   "Nombre": "SANTIAGO BOCAGE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "39036",
+   "Nombre": "MANUEL LEIVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51827",
+   "Nombre": "PHILIPPE JUDE",
+   "camiseta": "53",
+   "Capitan": ""
+  },
+  {
+   "carne": "55702",
+   "Nombre": "FRANCISCO APARICIO BUSTILLO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "47503",
+   "Nombre": "FRANCO CHIAPPARA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "48369",
+   "Nombre": "LUCA BERTINI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53930",
+   "Nombre": "MAXIMO RICARDO SEIZER",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "37171",
+   "Jug_Sale": "MATEO DIEGO BLENGIO",
+   "CarneEntra": "41003",
+   "Jug_Entra": "FEDERICO BARRIOS",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46346",
+   "Jug_Sale": "FELIPE BARRERE",
+   "CarneEntra": "54053",
+   "Jug_Entra": "FRANCO BUYSAN",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42262",
+   "Jug_Sale": "FELIPE LOPEZ",
+   "CarneEntra": "42263",
+   "Jug_Entra": "JUAN MARTIN ROMANIELLO",
+   "camiseta": "10",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52396",
+   "Jug_Sale": "TOMAS DI LORENZO",
+   "CarneEntra": "54771",
+   "Jug_Entra": "MARTIN MIHALIK",
+   "camiseta": "7",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "52606",
+   "Jug_Sale": "JUAN DIEGO CALABUIG",
+   "CarneEntra": "63805",
+   "Jug_Entra": "FRANCISCO GOMARA",
+   "camiseta": "55",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55702",
+   "Jug_Sale": "FRANCISCO APARICIO BUSTILLO",
+   "CarneEntra": "47508",
+   "Jug_Entra": "HERNAN HARDOY",
+   "camiseta": "39",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "48369",
+   "Jug_Sale": "LUCA BERTINI",
+   "CarneEntra": "41581",
+   "Jug_Entra": "ALFONSO SIMETO",
+   "camiseta": "33",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "54974",
+   "Jug_Sale": "SANTIAGO BOCAGE",
+   "CarneEntra": "29671",
+   "Jug_Entra": "MARTIN GUSTAVO GUERRA",
+   "camiseta": "22",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "53930",
+   "Jug_Sale": "MAXIMO RICARDO SEIZER",
+   "CarneEntra": "47513",
+   "Jug_Entra": "MAXIMO VARGAS",
+   "camiseta": "88",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "39036",
+   "Jug_Sale": "MANUEL LEIVA",
+   "CarneEntra": "47515",
+   "Jug_Entra": "JUAN MARIA SEIZER",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "47503",
+   "Jug_Sale": "FRANCO CHIAPPARA",
+   "CarneEntra": "47505",
+   "Jug_Entra": "NICOLAS MARTIN DECKER",
+   "camiseta": "66",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35068",
+   "Nombre": "MATEO DI LORENZO",
+   "minutos": "84",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "minutos": "37",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "48369",
+   "Nombre": "LUCA BERTINI",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53930",
+   "Nombre": "MAXIMO RICARDO SEIZER",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

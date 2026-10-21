@@ -1,0 +1,301 @@
+{
+ "id": "98606",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 13:30:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "MARISTAS DEPORTIVO",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "259",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-25 15:40:00",
+  "Fecha_fin": "2026-04-25 15:40:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "MARISTAS DEPORTIVO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63266",
+   "Nombre": "JUAN MANUEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56788",
+   "Nombre": "TOMAS ANGLADA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "65555",
+   "Nombre": "JOAQUIN MEDINA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66003",
+   "Nombre": "MANUEL BECERRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64901",
+   "Nombre": "TOMAS BELTRAN",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "66149",
+   "Nombre": "NICOLAS JESUS NUÑEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62063",
+   "Nombre": "RODRIGO RUBIO",
+   "camiseta": "99",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64097",
+   "Nombre": "JUAN IGNACIO ESTIBEN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "65864",
+   "Nombre": "JOAQUIN PATRON",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "56794",
+   "Nombre": "BRUNO REY",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "56092",
+   "Nombre": "AGUSTIN TELLECHEA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67542",
+   "Nombre": "GONZALO EZEQUIEL EGIRUBELLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67028",
+   "Nombre": "JULIAN MONTADO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "63195",
+   "Nombre": "LAUTARO GOBBI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55113",
+   "Nombre": "FRANCISCO FERREYRA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66011",
+   "Nombre": "FRANCO MARTIN REY",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "63099",
+   "Nombre": "JOAQUIN FERNANDO HERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65867",
+   "Nombre": "FACUNDO AGUSTIN FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57414",
+   "Nombre": "VALENTIN MONTADO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67026",
+   "Nombre": "JUAN PABLO CANEPA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59354",
+   "Nombre": "FRANCISCO BULEIN",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64097",
+   "Jug_Sale": "JUAN IGNACIO ESTIBEN",
+   "CarneEntra": "62069",
+   "Jug_Entra": "SANTIAGO SILVA",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66003",
+   "Jug_Sale": "MANUEL BECERRA",
+   "CarneEntra": "62065",
+   "Jug_Entra": "FEDERICO RUBIO",
+   "camiseta": "55",
+   "minutos": "0"
+  },
+  {
+   "CarneSale": "66149",
+   "Jug_Sale": "NICOLAS JESUS NUÑEZ",
+   "CarneEntra": "57870",
+   "Jug_Entra": "SANTINO BARATE",
+   "camiseta": "91",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "56092",
+   "Jug_Sale": "AGUSTIN TELLECHEA",
+   "CarneEntra": "64096",
+   "Jug_Entra": "NICOLAS ANDRES ESTIBEN",
+   "camiseta": "13",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67028",
+   "Jug_Sale": "JULIAN MONTADO",
+   "CarneEntra": "67027",
+   "Jug_Entra": "ARON ESTEVEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63099",
+   "Jug_Sale": "JOAQUIN FERNANDO HERNANDEZ",
+   "CarneEntra": "58706",
+   "Jug_Entra": "MATIAS ORTIZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59354",
+   "Jug_Sale": "FRANCISCO BULEIN",
+   "CarneEntra": "58971",
+   "Jug_Entra": "GUILLERMO SANTIAGO CABARCOS",
+   "camiseta": "13",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "65867",
+   "Jug_Sale": "FACUNDO AGUSTIN FERNANDEZ",
+   "CarneEntra": "58726",
+   "Jug_Entra": "CAMILO CORRALES",
+   "camiseta": "18",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "63195",
+   "Jug_Sale": "LAUTARO GOBBI",
+   "CarneEntra": "58906",
+   "Jug_Entra": "MARTIN MERA",
+   "camiseta": "20",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "67026",
+   "Jug_Sale": "JUAN PABLO CANEPA",
+   "CarneEntra": "67032",
+   "Jug_Entra": "ALAN JOEL ALONSO",
+   "camiseta": "95",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "57414",
+   "Jug_Sale": "VALENTIN MONTADO",
+   "CarneEntra": "67025",
+   "Jug_Entra": "SALVADOR VARELA",
+   "camiseta": "28",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62063",
+   "Nombre": "RODRIGO RUBIO",
+   "minutos": "55",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58906",
+   "Nombre": "MARTIN MERA",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59354",
+   "Nombre": "FRANCISCO BULEIN",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67026",
+   "Nombre": "JUAN PABLO CANEPA",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67026",
+   "Nombre": "JUAN PABLO CANEPA",
+   "minutos": "17",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JOAQUIN MEDINA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

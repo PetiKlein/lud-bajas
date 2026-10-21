@@ -1,0 +1,281 @@
+{
+ "id": "99000",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 5,
+ "fechaHora": "2026-05-17 11:15:00",
+ "cancha": "JACKSONVILLE",
+ "local": "UNIVERSITARIO VERONES",
+ "visitante": "YOUNG UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "396",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "JACKSONVILLE",
+  "Fecha_Inicio": "2026-05-17 13:05:00",
+  "Fecha_fin": "2026-05-17 13:05:00",
+  "Locatario": "UNIVERSITARIO VERONES",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "YOUNG UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59610",
+   "Nombre": "NICOLAS SEBASTIAN RIOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55294",
+   "Nombre": "ANTHONY GERARDO ACOSTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64342",
+   "Nombre": "JOAQUIN RIOS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "59441",
+   "Nombre": "GAEL SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "38946",
+   "Nombre": "SANTIAGO ANTONELLI",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30236",
+   "Nombre": "FERNADO QUINTANA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63503",
+   "Nombre": "FRANCO DELEON",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66012",
+   "Nombre": "NAHUEL CHIJANE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61984",
+   "Nombre": "UMBERTO RIJO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64027",
+   "Nombre": "LUCA VECOÑA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "31340",
+   "Nombre": "ADRIAN CRHISTIAN DELEON",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68364",
+   "Nombre": "SANTIAGO PEREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "52791",
+   "Nombre": "MATIAS NICOLAS DAVYT",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59242",
+   "Nombre": "NICOLAS ALVEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67326",
+   "Nombre": "MAXIMO VILA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57721",
+   "Nombre": "ESTEBAN DAVID GAGAUZ",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66216",
+   "Nombre": "TABARE FACUNDO RAMOS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "55884",
+   "Nombre": "JOAQUIN VIÑOLY",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67306",
+   "Nombre": "JOSE SEBASTIAN GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "63874",
+   "Nombre": "MATIAS GONZALEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "64593",
+   "Nombre": "VICENTE GERFAUO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "60721",
+   "Nombre": "APARICIO CHIESA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64342",
+   "Jug_Sale": "JOAQUIN RIOS",
+   "CarneEntra": "42931",
+   "Jug_Entra": "BRUNO POSE",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64027",
+   "Jug_Sale": "LUCA VECOÑA",
+   "CarneEntra": "64344",
+   "Jug_Entra": "FACUNDO NICOLAS BETARTE",
+   "camiseta": "18",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "55294",
+   "Jug_Sale": "ANTHONY GERARDO ACOSTA",
+   "CarneEntra": "64347",
+   "Jug_Entra": "ENZO GASTON PRIETO",
+   "camiseta": "4",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61984",
+   "Jug_Sale": "UMBERTO RIJO",
+   "CarneEntra": "66307",
+   "Jug_Entra": "ETIENNE SERPA",
+   "camiseta": "15",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67306",
+   "Jug_Sale": "JOSE SEBASTIAN GARCIA",
+   "CarneEntra": "58825",
+   "Jug_Entra": "GONZALO FERNANDEZ",
+   "camiseta": "20",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "66216",
+   "Jug_Sale": "TABARE FACUNDO RAMOS",
+   "CarneEntra": "58636",
+   "Jug_Entra": "JUAN PEDRO SABIO",
+   "camiseta": "24",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60721",
+   "Jug_Sale": "APARICIO CHIESA",
+   "CarneEntra": "52353",
+   "Jug_Entra": "JUAN MARTIN TERRA",
+   "camiseta": "9",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "63874",
+   "Jug_Sale": "MATIAS GONZALEZ",
+   "CarneEntra": "56157",
+   "Jug_Entra": "JEREMIAS SILVEIRA",
+   "camiseta": "26",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64593",
+   "Jug_Sale": "VICENTE GERFAUO",
+   "CarneEntra": "62237",
+   "Jug_Entra": "SANTINO ACOSTA",
+   "camiseta": "33",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "59242",
+   "Jug_Sale": "NICOLAS ALVEZ",
+   "CarneEntra": "61038",
+   "Jug_Entra": "CONRADO HEINZE",
+   "camiseta": "18",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64344",
+   "Nombre": "FACUNDO NICOLAS BETARTE",
+   "minutos": "78",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55884",
+   "Nombre": "JOAQUIN VIÑOLY",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57721",
+   "Nombre": "ESTEBAN DAVID GAGAUZ",
+   "minutos": "94",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SANTIAGO ANTONELLI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

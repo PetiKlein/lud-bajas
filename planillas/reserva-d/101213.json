@@ -1,0 +1,303 @@
+{
+ "id": "101213",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 1,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "COLEGIO ARETEIA",
+ "local": "DEP.de la C. ARETEIA BIMBULLY",
+ "visitante": "MATURANA UNIVERSITARIO",
+ "gl": 5,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "495",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COLEGIO ARETEIA",
+  "Fecha_Inicio": "2026-08-29 00:00:00",
+  "Fecha_fin": "2026-08-29 00:00:00",
+  "Locatario": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "MATURANA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66499",
+   "Nombre": "LEANDRO HORACIO SELVES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "45823",
+   "Nombre": "AGUSTIN CALLEJAS",
+   "camiseta": "88",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58055",
+   "Nombre": "GONZALO FABRICIO BASSO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "62868",
+   "Nombre": "TOMAS LICIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58366",
+   "Nombre": "MARCO MARCELO BORDON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "57080",
+   "Nombre": "NICOLAS GEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58013",
+   "Nombre": "IÑAKI GUDE",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67726",
+   "Nombre": "ROMAN EZEQUIEL SENA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "56017",
+   "Nombre": "TIAGO PERDOMO",
+   "camiseta": "38",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57897",
+   "Nombre": "FACUNDO TORRES",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "55560",
+   "Nombre": "JUAN MATEO PELUFO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "37723",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52985",
+   "Nombre": "FACUNDO AGUSTIN MARTINEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47098",
+   "Nombre": "JUAN IGNACIO COITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56781",
+   "Nombre": "FACUNDO MENENDEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51163",
+   "Nombre": "MATIAS IVANCICH",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "54861",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "37188",
+   "Nombre": "CLAUDIO SEBASTIAN FERREIRA",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45823",
+   "Jug_Sale": "AGUSTIN CALLEJAS",
+   "CarneEntra": "48947",
+   "Jug_Entra": "ALEXIS QUINTAN",
+   "camiseta": "37",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67726",
+   "Jug_Sale": "ROMAN EZEQUIEL SENA",
+   "CarneEntra": "49074",
+   "Jug_Entra": "FRANCO VITOLA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58298",
+   "Jug_Sale": "DAVID ILUTOVICH",
+   "CarneEntra": "68804",
+   "Jug_Entra": "FACUNDO R RIVERO",
+   "camiseta": "28",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "59893",
+   "Jug_Sale": "GERONIMO MANUEL ACOSTA",
+   "CarneEntra": "58176",
+   "Jug_Entra": "LUCAS ALVAREZ",
+   "camiseta": "22",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "57080",
+   "Jug_Sale": "NICOLAS GEREZ",
+   "CarneEntra": "57103",
+   "Jug_Entra": "NICOLAS ACOSTA",
+   "camiseta": "5",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "49074",
+   "Jug_Sale": "FRANCO VITOLA",
+   "CarneEntra": "55321",
+   "Jug_Entra": "MATEO AGUSTIN MIRABALLES",
+   "camiseta": "50",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "56017",
+   "Jug_Sale": "TIAGO PERDOMO",
+   "CarneEntra": "57079",
+   "Jug_Entra": "DIEGO DANIEL SANCHEZ",
+   "camiseta": "8",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55560",
+   "Jug_Sale": "JUAN MATEO PELUFO",
+   "CarneEntra": "57542",
+   "Jug_Entra": "DIEGO SEBASTIAN DUSIO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47098",
+   "Jug_Sale": "JUAN IGNACIO COITO",
+   "CarneEntra": "57624",
+   "Jug_Entra": "MANUEL THIAGO MARTINEZ",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54861",
+   "Jug_Sale": "FEDERICO GARCIA",
+   "CarneEntra": "56624",
+   "Jug_Entra": "MATEO CAUTES",
+   "camiseta": "16",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "37188",
+   "Jug_Sale": "CLAUDIO SEBASTIAN FERREIRA",
+   "CarneEntra": "48268",
+   "Jug_Entra": "ERNESTO MATIAS PEREYRA",
+   "camiseta": "22",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "37723",
+   "Jug_Sale": "MARTIN PRATO",
+   "CarneEntra": "52618",
+   "Jug_Entra": "ALEX FERREIRA",
+   "camiseta": "11",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57080",
+   "Nombre": "NICOLAS GEREZ",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68804",
+   "Nombre": "FACUNDO R RIVERO",
+   "minutos": "74",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

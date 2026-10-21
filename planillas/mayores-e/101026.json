@@ -1,0 +1,221 @@
+{
+ "id": "101026",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 15,
+ "fechaHora": "2026-08-16 11:15:00",
+ "cancha": "ST PATRICKS",
+ "local": "OLD SAMPA CLUB",
+ "visitante": "CLUB ESTUDIANTES INGENIERIA",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "597",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "ST PATRICKS",
+  "Fecha_Inicio": "2026-08-16 13:00:00",
+  "Fecha_fin": "2026-08-16 13:00:00",
+  "Locatario": "OLD SAMPA CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "27933",
+   "Nombre": "ENRIQUE CALACHA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68424",
+   "Nombre": "GABRIEL NICOLAS GONZALEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67713",
+   "Nombre": "ALAN ZEBALLOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62689",
+   "Nombre": "DYLAN SANTIAGO CORREA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63135",
+   "Nombre": "SERGIO SILVA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "21634",
+   "Nombre": "MATIAS CALACHA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23363",
+   "Nombre": "ALEJANDRO CALACHA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "63788",
+   "Nombre": "PEDRO JESUS FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67715",
+   "Nombre": "TOMAS GONZALO MARQUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "24792",
+   "Nombre": "VALENTIN LLANO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64910",
+   "Nombre": "MARCOS GIMENEZ",
+   "camiseta": "55",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "43111",
+   "Nombre": "JULIAN LEPRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "66687",
+   "Nombre": "PATRICIO ACOSTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66875",
+   "Nombre": "GIULIANO CHELONI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49812",
+   "Nombre": "MIGUEL ANGEL PASTORINI",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61450",
+   "Nombre": "MARTIN ROTTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "26541",
+   "Nombre": "FEDERICO MARTIN LABORDE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61452",
+   "Nombre": "NEHITAN CARLOS MAGNO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51303",
+   "Nombre": "FELIPE CASARAVILLA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39386",
+   "Nombre": "AGUSTIN PALLEIRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "33500",
+   "Nombre": "FRANCO CAL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59309",
+   "Nombre": "MARCOS NAHUEL ARRÙA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68424",
+   "Jug_Sale": "GABRIEL NICOLAS GONZALEZ",
+   "CarneEntra": "53207",
+   "Jug_Entra": "CAMILO NICOLAS ROSA",
+   "camiseta": "3",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "67713",
+   "Jug_Sale": "ALAN ZEBALLOS",
+   "CarneEntra": "68424",
+   "Jug_Entra": "GABRIEL NICOLAS GONZALEZ",
+   "camiseta": "13",
+   "minutos": "66"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51303",
+   "Jug_Sale": "FELIPE CASARAVILLA",
+   "CarneEntra": "59310",
+   "Jug_Entra": "GONZALO COLMAN",
+   "camiseta": "67",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "26541",
+   "Jug_Sale": "FEDERICO MARTIN LABORDE",
+   "CarneEntra": "65902",
+   "Jug_Entra": "FABRIZIO DONATO FERRANTY",
+   "camiseta": "96",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "33500",
+   "Jug_Sale": "FRANCO CAL",
+   "CarneEntra": "34656",
+   "Jug_Entra": "MATIAS CERETTA",
+   "camiseta": "19",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "VALENTIN LLANO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

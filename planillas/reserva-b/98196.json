@@ -1,0 +1,300 @@
+{
+ "id": "98196",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:30:00",
+ "cancha": "ELBIO FERNANDEZ",
+ "local": "ELBIO FERNANDEZ",
+ "visitante": "OLD IVY",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "132",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "ELBIO FERNANDEZ",
+  "Fecha_Inicio": "2026-04-18 15:15:00",
+  "Fecha_fin": "2026-04-18 15:15:00",
+  "Locatario": "ELBIO FERNANDEZ",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "OLD IVY",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59480",
+   "Nombre": "ENZO LEON FREYER",
+   "camiseta": "57",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "56779",
+   "Nombre": "JOAQUIN ELOLA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51785",
+   "Nombre": "SEBASTIAN VIGIL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "49808",
+   "Nombre": "BRUNO FERNANDEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "55665",
+   "Nombre": "MATIAS VALSANGIACOMO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53458",
+   "Nombre": "SANTIAGO SPARKOV",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47916",
+   "Nombre": "MARTIN MENDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53709",
+   "Nombre": "VARTAN TCHEKMEDYIAN",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "41711",
+   "Nombre": "MANUEL BORGIA",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47826",
+   "Nombre": "JUAN DIEGO AMESTOY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66390",
+   "Nombre": "JOAQUIN SANTINO FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54763",
+   "Nombre": "JUAN BAUTISTA CROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66871",
+   "Nombre": "JUAN MANUEL COLMAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48008",
+   "Nombre": "SANTIAGO DABO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "62015",
+   "Nombre": "GASTON BARRIOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "37430",
+   "Nombre": "MARTIN VAZQUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "39134",
+   "Nombre": "MATIAS ORSI",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55665",
+   "Jug_Sale": "MATIAS VALSANGIACOMO",
+   "CarneEntra": "55729",
+   "Jug_Entra": "EDGAR ORLANDO GONZALEZ",
+   "camiseta": "18",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "65964",
+   "Jug_Sale": "BRUNO QUINELES",
+   "CarneEntra": "55606",
+   "Jug_Entra": "GONZALO CHIESA",
+   "camiseta": "10",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "47916",
+   "Jug_Sale": "MARTIN MENDEZ",
+   "CarneEntra": "51004",
+   "Jug_Entra": "AGUSTIN NICOLAS CHARLO",
+   "camiseta": "4",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "56779",
+   "Jug_Sale": "JOAQUIN ELOLA",
+   "CarneEntra": "47472",
+   "Jug_Entra": "JUAN PABLO PLA",
+   "camiseta": "17",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "53458",
+   "Jug_Sale": "SANTIAGO SPARKOV",
+   "CarneEntra": "51278",
+   "Jug_Entra": "GUILLERMO AGUSTIN BELANDO",
+   "camiseta": "20",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "59477",
+   "Jug_Sale": "NICOLAS PEDRO STEPANIUK",
+   "CarneEntra": "55630",
+   "Jug_Entra": "SEBASTIAN ALEXIS YANES",
+   "camiseta": "2",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "57184",
+   "Jug_Sale": "MARCO ESTEBAN TORIELLI",
+   "CarneEntra": "44165",
+   "Jug_Entra": "FEDERICO ABDO",
+   "camiseta": "7",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47826",
+   "Jug_Sale": "JUAN DIEGO AMESTOY",
+   "CarneEntra": "42664",
+   "Jug_Entra": "LUIS EDUARDO TOPOLANSKY",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39134",
+   "Jug_Sale": "MATIAS ORSI",
+   "CarneEntra": "47939",
+   "Jug_Entra": "JUAN FRANCISCO DE LOS SANTOS",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49105",
+   "Jug_Sale": "NICOLAS CASAMAYOU",
+   "CarneEntra": "59616",
+   "Jug_Entra": "MATIAS DAMIAN",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "62015",
+   "Jug_Sale": "GASTON BARRIOS",
+   "CarneEntra": "59609",
+   "Jug_Entra": "FRANCISCO RUBIO",
+   "camiseta": "47",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "37430",
+   "Jug_Sale": "MARTIN VAZQUEZ",
+   "CarneEntra": "37327",
+   "Jug_Entra": "FEDERICO DIEGO BAUZA",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "54763",
+   "Jug_Sale": "JUAN BAUTISTA CROSA",
+   "CarneEntra": "47829",
+   "Jug_Entra": "RAFAEL RUBEN GAIMARI",
+   "camiseta": "4",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "minutos": "37",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56779",
+   "Nombre": "JOAQUIN ELOLA",
+   "minutos": "34",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66871",
+   "Nombre": "JUAN MANUEL COLMAN",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

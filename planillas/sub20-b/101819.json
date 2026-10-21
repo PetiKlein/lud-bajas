@@ -1,0 +1,208 @@
+{
+ "id": "101819",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 15:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "217",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-12 17:20:00",
+  "Fecha_fin": "2026-09-12 17:20:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53537",
+   "Nombre": "MATEO VAZQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61977",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56489",
+   "Nombre": "JOAQUIN MUNIZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "57805",
+   "Nombre": "MATEO UBERTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66420",
+   "Nombre": "VALENTIN GASPAR QUARNETI",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "58729",
+   "Nombre": "MATIAS CAMACHO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56838",
+   "Nombre": "LUCA ALESSANDRO COCINA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68916",
+   "Nombre": "THIAGO MOMBRU",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "63384",
+   "Nombre": "AGUSTIN YERLE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59445",
+   "Nombre": "BRUNO ORTEGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62694",
+   "Nombre": "NOAH ELIAS LEFKARITIS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "58409",
+   "Nombre": "LUCIANO CABRERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58135",
+   "Nombre": "TIAGO JULIEN ALVAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56434",
+   "Nombre": "FACUNDO ALONZO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64978",
+   "Nombre": "FELIPE DOS SANTOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "56319",
+   "Nombre": "CRISTIAN LOPEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64476",
+   "Nombre": "BRUNO ALFARO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "63760",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68956",
+   "Nombre": "LUCAS ROMAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62457",
+   "Nombre": "JUAN MANUEL NOCERINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58031",
+   "Nombre": "MATEO NICOLAS CODINA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63384",
+   "Jug_Sale": "AGUSTIN YERLE",
+   "CarneEntra": "57367",
+   "Jug_Entra": "VALENTIN BARRETO",
+   "camiseta": "99",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "68916",
+   "Jug_Sale": "THIAGO MOMBRU",
+   "CarneEntra": "58731",
+   "Jug_Entra": "JULIAN ALEJANDRO NUÑEZ",
+   "camiseta": "8",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64978",
+   "Jug_Sale": "FELIPE DOS SANTOS",
+   "CarneEntra": "58169",
+   "Jug_Entra": "LUCA MATEO CIPILIANO",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58135",
+   "Jug_Sale": "TIAGO JULIEN ALVAREZ",
+   "CarneEntra": "58136",
+   "Jug_Entra": "MATEO BENSASSON",
+   "camiseta": "5",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

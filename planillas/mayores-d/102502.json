@@ -1,0 +1,266 @@
+{
+ "id": "102502",
+ "categoria": "mayores-d",
+ "serie": "DPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-04 09:00:00",
+ "cancha": "SAN EUGENIO",
+ "local": "SAN EUGENIO",
+ "visitante": "UNIVERSITARIO VERONES",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "1183",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"D\" PERM. y DESC.",
+  "Cancha": "SAN EUGENIO",
+  "Fecha_Inicio": "2026-10-04 11:00:00",
+  "Fecha_fin": "2026-10-04 11:00:00",
+  "Locatario": "SAN EUGENIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "UNIVERSITARIO VERONES",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61018",
+   "Nombre": "MATEO RAMON GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49779",
+   "Nombre": "DAMIAN EZEQUIEL PALADINO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "53079",
+   "Nombre": "TOMAS FRANCISCO DE LOS SANTOS",
+   "camiseta": "42",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46931",
+   "Nombre": "HUGO ANDRES PIRIZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "59857",
+   "Nombre": "FEDERICO BALAO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "37223",
+   "Nombre": "MATIAS FUQUES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66321",
+   "Nombre": "RUBEN ANSELMO PAZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "59342",
+   "Nombre": "MATIAS MARTINS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "37566",
+   "Nombre": "FELIPE CARBALLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47175",
+   "Nombre": "GUILLERMO CARBALLO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62046",
+   "Nombre": "MAURICIO LAPORTE",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56990",
+   "Nombre": "ELIAS JOAQUIN MARICHAL",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "42931",
+   "Nombre": "BRUNO POSE",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55294",
+   "Nombre": "ANTHONY GERARDO ACOSTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66012",
+   "Nombre": "NAHUEL CHIJANE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38946",
+   "Nombre": "SANTIAGO ANTONELLI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64027",
+   "Nombre": "LUCA VECOÑA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66126",
+   "Nombre": "CARLOS IGNACIO PINTOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50246",
+   "Nombre": "NICOLAS SEBASTIAN AMARAL",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "30236",
+   "Nombre": "FERNADO QUINTANA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64344",
+   "Nombre": "FACUNDO NICOLAS BETARTE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64342",
+   "Nombre": "JOAQUIN RIOS",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59857",
+   "Jug_Sale": "FEDERICO BALAO",
+   "CarneEntra": "53118",
+   "Jug_Entra": "ALVARO MARTIN PINTOS",
+   "camiseta": "32",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "66321",
+   "Jug_Sale": "RUBEN ANSELMO PAZ",
+   "CarneEntra": "62851",
+   "Jug_Entra": "FACUNDO CHAIA",
+   "camiseta": "22",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "62046",
+   "Jug_Sale": "MAURICIO LAPORTE",
+   "CarneEntra": "62839",
+   "Jug_Entra": "IRVIN FACUNDO SOSA",
+   "camiseta": "18",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "59342",
+   "Jug_Sale": "MATIAS MARTINS",
+   "CarneEntra": "62696",
+   "Jug_Entra": "MATEO NAHUEL COSTA",
+   "camiseta": "46",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "49779",
+   "Jug_Sale": "DAMIAN EZEQUIEL PALADINO",
+   "CarneEntra": "37223",
+   "Jug_Entra": "MATIAS FUQUES",
+   "camiseta": "80",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50246",
+   "Jug_Sale": "NICOLAS SEBASTIAN AMARAL",
+   "CarneEntra": "60485",
+   "Jug_Entra": "NICOLAS CABRERA",
+   "camiseta": "22",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "64027",
+   "Jug_Sale": "LUCA VECOÑA",
+   "CarneEntra": "68739",
+   "Jug_Entra": "LEANDRO TOBIAS GOL",
+   "camiseta": "7",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "55294",
+   "Jug_Sale": "ANTHONY GERARDO ACOSTA",
+   "CarneEntra": "64347",
+   "Jug_Entra": "ENZO GASTON PRIETO",
+   "camiseta": "19",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46931",
+   "Nombre": "HUGO ANDRES PIRIZ",
+   "minutos": "93",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47175",
+   "Nombre": "GUILLERMO CARBALLO",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47175",
+   "Nombre": "GUILLERMO CARBALLO",
+   "minutos": "39",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64342",
+   "Nombre": "JOAQUIN RIOS",
+   "minutos": "45",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

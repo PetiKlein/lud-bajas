@@ -1,0 +1,288 @@
+{
+ "id": "98524",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "CENTRO  ALTO RENDIMIENTO",
+ "local": "DEP.de la C. ARETEIA BIMBULLY",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "442",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "CENTRO  ALTO RENDIMIENTO",
+  "Fecha_Inicio": "2026-04-25 13:00:00",
+  "Fecha_fin": "2026-04-25 13:00:00",
+  "Locatario": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66499",
+   "Nombre": "LEANDRO HORACIO SELVES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48947",
+   "Nombre": "ALEXIS QUINTAN",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "67161",
+   "Nombre": "RODRIGO DURAN",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "58176",
+   "Nombre": "LUCAS ALVAREZ",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "66498",
+   "Nombre": "FACUNDO ECHEVERRIA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "58366",
+   "Nombre": "MARCO MARCELO BORDON",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45823",
+   "Nombre": "AGUSTIN CALLEJAS",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "58013",
+   "Nombre": "IÑAKI GUDE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "49074",
+   "Nombre": "FRANCO VITOLA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "55321",
+   "Nombre": "MATEO AGUSTIN MIRABALLES",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56973",
+   "Nombre": "LUCAS CORREA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53351",
+   "Nombre": "IGNACIO GIL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67277",
+   "Nombre": "JUAN ANDRES COTELO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55484",
+   "Nombre": "GUILLERMO URIA",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "51803",
+   "Nombre": "SEBASTIAN TRONCOSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64777",
+   "Nombre": "IVAN VEGOVICH",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48947",
+   "Jug_Sale": "ALEXIS QUINTAN",
+   "CarneEntra": "59893",
+   "Jug_Entra": "GERONIMO MANUEL ACOSTA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58176",
+   "Jug_Sale": "LUCAS ALVAREZ",
+   "CarneEntra": "68198",
+   "Jug_Entra": "FACUNDO CABRERA",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66498",
+   "Jug_Sale": "FACUNDO ECHEVERRIA",
+   "CarneEntra": "62868",
+   "Jug_Entra": "TOMAS LICIO",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49074",
+   "Jug_Sale": "FRANCO VITOLA",
+   "CarneEntra": "51760",
+   "Jug_Entra": "FABIAN VIBANCO",
+   "camiseta": "8",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "58298",
+   "Jug_Sale": "DAVID ILUTOVICH",
+   "CarneEntra": "54073",
+   "Jug_Entra": "JUAN MANUEL FERNANDEZ",
+   "camiseta": "49",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58366",
+   "Jug_Sale": "MARCO MARCELO BORDON",
+   "CarneEntra": "49114",
+   "Jug_Entra": "ALVARO DANIEL CHILDE",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "55321",
+   "Jug_Sale": "MATEO AGUSTIN MIRABALLES",
+   "CarneEntra": "57103",
+   "Jug_Entra": "NICOLAS ACOSTA",
+   "camiseta": "13",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59752",
+   "Jug_Sale": "RAMIRO LOPEZ",
+   "CarneEntra": "67275",
+   "Jug_Entra": "MATEO MORALES",
+   "camiseta": "99",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "63304",
+   "Jug_Sale": "FRANCO MANUEL ROZINCHIN",
+   "CarneEntra": "67276",
+   "Jug_Entra": "FRANCOIS BURDIAT",
+   "camiseta": "97",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55484",
+   "Jug_Sale": "GUILLERMO URIA",
+   "CarneEntra": "67475",
+   "Jug_Entra": "BRUNO MATEOS",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64777",
+   "Jug_Sale": "IVAN VEGOVICH",
+   "CarneEntra": "63818",
+   "Jug_Entra": "MARTIN LARDITO",
+   "camiseta": "27",
+   "minutos": "50"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58366",
+   "Nombre": "MARCO MARCELO BORDON",
+   "minutos": "26",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68198",
+   "Nombre": "FACUNDO CABRERA",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "IGNACIO SLINGER",
+   "observaciones": ""
+  }
+ ]
+}

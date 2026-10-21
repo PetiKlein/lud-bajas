@@ -1,0 +1,240 @@
+{
+ "id": "101001",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS BLANCO",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "233",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-08-15 10:40:00",
+  "Fecha_fin": "2026-08-15 10:40:00",
+  "Locatario": "OLD CHRISTIANS BLANCO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68857",
+   "Nombre": "FRANCISCO PINTOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58500",
+   "Nombre": "FACUNDO LAFFITTE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "44039",
+   "Nombre": "ALEJANDRO FYNN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51235",
+   "Nombre": "JUAN MARQUES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67430",
+   "Nombre": "ANDRES VILLAR",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67427",
+   "Nombre": "LUCAS DE ACHAVAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46844",
+   "Nombre": "JOSE ANTONIO GONZALEZ BERRO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47292",
+   "Nombre": "NICOLAS JOSE REGUSCI",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "52607",
+   "Nombre": "GUZMAN ARECHAVALETA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "51134",
+   "Nombre": "TOMAS LAFFITTE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54409",
+   "Nombre": "JOAQUIN IRULEGUY",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53508",
+   "Nombre": "TIAGO NICOLAS LOSADA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53951",
+   "Nombre": "THIAGO NERGUIZIAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "44123",
+   "Nombre": "FEDERICO RIELLA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "44106",
+   "Nombre": "SANTIAGO RIUS",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "44097",
+   "Nombre": "NICOLAS LABASTIE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59694",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45038",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "47728",
+   "Nombre": "FELIPE RAMA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "58930",
+   "Nombre": "FRANCISCO ARRIETA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46937",
+   "Nombre": "MARTIN ROBATTO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "44402",
+   "Nombre": "SEBASTIAN RISSO",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58500",
+   "Jug_Sale": "FACUNDO LAFFITTE",
+   "CarneEntra": "52820",
+   "Jug_Entra": "SEBASTIAN CLEMENTE",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67427",
+   "Jug_Sale": "LUCAS DE ACHAVAL",
+   "CarneEntra": "56128",
+   "Jug_Entra": "FRANCESCO SETTIN",
+   "camiseta": "23",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "44039",
+   "Jug_Sale": "ALEJANDRO FYNN",
+   "CarneEntra": "52622",
+   "Jug_Entra": "NICOLAS CLEMENTE",
+   "camiseta": "77",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "47292",
+   "Jug_Sale": "NICOLAS JOSE REGUSCI",
+   "CarneEntra": "42800",
+   "Jug_Entra": "FEDERICO  IGNACIO HERMIDA",
+   "camiseta": "16",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "52607",
+   "Jug_Sale": "GUZMAN ARECHAVALETA",
+   "CarneEntra": "46842",
+   "Jug_Entra": "JUAN MANUEL HERMIDA",
+   "camiseta": "19",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44402",
+   "Jug_Sale": "SEBASTIAN RISSO",
+   "CarneEntra": "55660",
+   "Jug_Entra": "THIAGO FURTADO",
+   "camiseta": "9",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "45038",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "53671",
+   "Jug_Entra": "MATEO SCARRONE",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58930",
+   "Jug_Sale": "FRANCISCO ARRIETA",
+   "CarneEntra": "44141",
+   "Jug_Entra": "IGNACIO RAMIRO LOPEZ",
+   "camiseta": "18",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

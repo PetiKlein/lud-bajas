@@ -1,0 +1,295 @@
+{
+ "id": "99368",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "FUERZA AEREA",
+ "local": "CLUB FUERZA AEREA",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "402",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "FUERZA AEREA",
+  "Fecha_Inicio": "2026-05-30 13:05:00",
+  "Fecha_fin": "2026-05-30 13:05:00",
+  "Locatario": "CLUB FUERZA AEREA",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35538",
+   "Nombre": "YAIR EDGAR MORALES",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63084",
+   "Nombre": "KEVIN NICOLAS LAVALLEJA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "30093",
+   "Nombre": "FERNANDO GABRIEL DE MEDINA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46892",
+   "Nombre": "JUAN PABLO DE MEDINA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65781",
+   "Nombre": "AXEL NAHUEL PIMENTEL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "63083",
+   "Nombre": "DIEGO NICOLAS GRACES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "47191",
+   "Nombre": "CARLOS FACUNDO CABRERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "24285",
+   "Nombre": "ALBERTO DE MEDINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67252",
+   "Nombre": "ROBERT MARCELO MEHARU",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64721",
+   "Nombre": "BRUNO LUCIANO DELGADO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "57856",
+   "Nombre": "MAXIMO TOLEDO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45772",
+   "Nombre": "LUCAS POMI",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53378",
+   "Nombre": "NICOLAS SILVA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64365",
+   "Nombre": "JUAN BAUTISTA ARRUABARRENA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "64272",
+   "Nombre": "HERNAN EZEQUIEL PUSCHIASIS",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "54722",
+   "Nombre": "LUCAS SCAFARELLI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "53267",
+   "Nombre": "MAXIMO TORNONI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "45778",
+   "Nombre": "SANTIAGO BARBEITO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53171",
+   "Nombre": "FRANCISCO ACUÑA",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47191",
+   "Jug_Sale": "CARLOS FACUNDO CABRERA",
+   "CarneEntra": "30083",
+   "Jug_Entra": "MATHIAS AYRTON FUIDIO",
+   "camiseta": "94",
+   "minutos": "29"
+  },
+  {
+   "CarneSale": "64721",
+   "Jug_Sale": "BRUNO LUCIANO DELGADO",
+   "CarneEntra": "67305",
+   "Jug_Entra": "MATHIAS NICOLAS DE LA FUENTE",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67252",
+   "Jug_Sale": "ROBERT MARCELO MEHARU",
+   "CarneEntra": "67305",
+   "Jug_Entra": "MATHIAS NICOLAS DE LA FUENTE",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24285",
+   "Jug_Sale": "ALBERTO DE MEDINA",
+   "CarneEntra": "32378",
+   "Jug_Entra": "SEBASTIAN CLEMENTE",
+   "camiseta": "10",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "30093",
+   "Jug_Sale": "FERNANDO GABRIEL DE MEDINA",
+   "CarneEntra": "67892",
+   "Jug_Entra": "VALENTIN DECIMA",
+   "camiseta": "26",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "47191",
+   "Jug_Sale": "CARLOS FACUNDO CABRERA",
+   "CarneEntra": "68313",
+   "Jug_Entra": "MAURICIO JAVIER VIERA",
+   "camiseta": "94",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65781",
+   "Jug_Sale": "AXEL NAHUEL PIMENTEL",
+   "CarneEntra": "46852",
+   "Jug_Entra": "ALEXIS AMOROSO",
+   "camiseta": "19",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53171",
+   "Jug_Sale": "FRANCISCO ACUÑA",
+   "CarneEntra": "57035",
+   "Jug_Entra": "FELIPE MONTAÑES",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53267",
+   "Jug_Sale": "MAXIMO TORNONI",
+   "CarneEntra": "68074",
+   "Jug_Entra": "NICOLAS RODRIGUEZ",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53378",
+   "Jug_Sale": "NICOLAS SILVA",
+   "CarneEntra": "56035",
+   "Jug_Entra": "LUIS CARLOS PADRON",
+   "camiseta": "13",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "54722",
+   "Jug_Sale": "LUCAS SCAFARELLI",
+   "CarneEntra": "48445",
+   "Jug_Entra": "JUAN MANUEL DONDAN",
+   "camiseta": "83",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "64365",
+   "Jug_Sale": "JUAN BAUTISTA ARRUABARRENA",
+   "CarneEntra": "52810",
+   "Jug_Entra": "ISMAEL VERA",
+   "camiseta": "30",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "52184",
+   "Jug_Sale": "DIEGO GIBERT",
+   "CarneEntra": "52402",
+   "Jug_Entra": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "45772",
+   "Jug_Sale": "LUCAS POMI",
+   "CarneEntra": "68070",
+   "Jug_Entra": "JUAN MARTIN LABORDE",
+   "camiseta": "3",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57856",
+   "Nombre": "MAXIMO TOLEDO",
+   "minutos": "83",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,274 @@
+{
+ "id": "102062",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 4,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "SPORT 11",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "516",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "SPORT 11",
+  "Fecha_Inicio": "2026-09-19 13:00:00",
+  "Fecha_fin": "2026-09-19 13:00:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67481",
+   "Nombre": "DYLAN IVAN VALLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64726",
+   "Nombre": "JOSE VALENTIN VILA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "69020",
+   "Nombre": "ADRIAN ESTEBAN RIBAS",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "61430",
+   "Nombre": "GASTON NICOLAS DE OLIVEIRA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61751",
+   "Nombre": "NAHUEL PEREZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "58912",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58911",
+   "Nombre": "NICOLAS MOSQUEIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52388",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "48790",
+   "Nombre": "JOAQUIN BORUCKI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61420",
+   "Nombre": "DIEGO ALEXANDER GOTTERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "56535",
+   "Nombre": "FRANCO NICOLAS BARCELO",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66499",
+   "Nombre": "LEANDRO HORACIO SELVES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "45823",
+   "Nombre": "AGUSTIN CALLEJAS",
+   "camiseta": "88",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "69087",
+   "Nombre": "MATEO APOLITO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "62868",
+   "Nombre": "TOMAS LICIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "49114",
+   "Nombre": "ALVARO DANIEL CHILDE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "58013",
+   "Nombre": "IÑAKI GUDE",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "68198",
+   "Nombre": "FACUNDO CABRERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57079",
+   "Nombre": "DIEGO DANIEL SANCHEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56017",
+   "Nombre": "TIAGO PERDOMO",
+   "camiseta": "38",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58912",
+   "Jug_Sale": "SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "62014",
+   "Jug_Entra": "ESTEBAN GABRIEL RODRIGUEZ",
+   "camiseta": "11",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "48790",
+   "Jug_Sale": "JOAQUIN BORUCKI",
+   "CarneEntra": "62016",
+   "Jug_Entra": "MARCO TADEO CRISTINO",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52388",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "58912",
+   "Jug_Entra": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "61420",
+   "Jug_Sale": "DIEGO ALEXANDER GOTTERO",
+   "CarneEntra": "65708",
+   "Jug_Entra": "FACUNDO TAROCO",
+   "camiseta": "99",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "56535",
+   "Jug_Sale": "FRANCO NICOLAS BARCELO",
+   "CarneEntra": "58675",
+   "Jug_Entra": "CARMELO COCCO",
+   "camiseta": "81",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "62014",
+   "Jug_Sale": "ESTEBAN GABRIEL RODRIGUEZ",
+   "CarneEntra": "48790",
+   "Jug_Entra": "JOAQUIN BORUCKI",
+   "camiseta": "2",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "69087",
+   "Jug_Sale": "MATEO APOLITO",
+   "CarneEntra": "58176",
+   "Jug_Entra": "LUCAS ALVAREZ",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57079",
+   "Jug_Sale": "DIEGO DANIEL SANCHEZ",
+   "CarneEntra": "55321",
+   "Jug_Entra": "MATEO AGUSTIN MIRABALLES",
+   "camiseta": "50",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58298",
+   "Jug_Sale": "DAVID ILUTOVICH",
+   "CarneEntra": "64271",
+   "Jug_Entra": "THIAGO OTERO",
+   "camiseta": "34",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "69020",
+   "Nombre": "ADRIAN ESTEBAN RIBAS",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "69020",
+   "Nombre": "ADRIAN ESTEBAN RIBAS",
+   "minutos": "69",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58013",
+   "Nombre": "IÑAKI GUDE",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68198",
+   "Nombre": "FACUNDO CABRERA",
+   "minutos": "1",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

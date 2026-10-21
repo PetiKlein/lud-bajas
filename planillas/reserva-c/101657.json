@@ -1,0 +1,293 @@
+{
+ "id": "101657",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "SEMINARIO UNIVERSITARIO",
+ "visitante": "CENTRO CRISTOBAL COLON",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "330",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-09-05 13:10:00",
+  "Fecha_fin": "2026-09-05 13:10:00",
+  "Locatario": "SEMINARIO UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CENTRO CRISTOBAL COLON",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52841",
+   "Nombre": "ALFONSO LEMA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50779",
+   "Nombre": "JUAN IGNACIO FERREIRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59290",
+   "Nombre": "LUIS FELIPE SUSENA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51012",
+   "Nombre": "JUAN JOSE GENTILE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56835",
+   "Nombre": "JUAN IGNACIO URRETAVIZCAYA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53404",
+   "Nombre": "FRANCO BONAVOGLIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62273",
+   "Nombre": "SANTIAGO CABRERA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53657",
+   "Nombre": "MATEO PERTUSSO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "50807",
+   "Nombre": "JOSE DOMINGO MARTINELLI",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52843",
+   "Nombre": "JUAN ANDRES RAMIREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "51014",
+   "Nombre": "FANCISCO QUIJANO",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64261",
+   "Nombre": "SANTIAGO HERRERA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "50423",
+   "Nombre": "MARTIN GARCIA",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62352",
+   "Nombre": "SANTIAGO RICCONE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59792",
+   "Nombre": "MATEO ARMANDO OLIVERA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "61602",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "56887",
+   "Nombre": "JUAN MANUEL MASEDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "50976",
+   "Nombre": "NICOLAS EZEQUIEL GUTIERREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57654",
+   "Nombre": "DONATO NOCETTI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62131",
+   "Nombre": "GONZALO RICCONE",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "62681",
+   "Nombre": "SANTIAGO PERAZZA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55648",
+   "Nombre": "DIEGO MONTERO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62273",
+   "Jug_Sale": "SANTIAGO CABRERA",
+   "CarneEntra": "52955",
+   "Jug_Entra": "VALENTIN IGNACIO GONZALEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59290",
+   "Jug_Sale": "LUIS FELIPE SUSENA",
+   "CarneEntra": "68564",
+   "Jug_Entra": "JOAQUIN URRUTIA",
+   "camiseta": "22",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "51014",
+   "Jug_Sale": "FANCISCO QUIJANO",
+   "CarneEntra": "62623",
+   "Jug_Entra": "AGUSTIN CORTABARRIA",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "53657",
+   "Jug_Sale": "MATEO PERTUSSO",
+   "CarneEntra": "50860",
+   "Jug_Entra": "JUAN IGNACIO SAPELLO",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "53404",
+   "Jug_Sale": "FRANCO BONAVOGLIA",
+   "CarneEntra": "50796",
+   "Jug_Entra": "JUAN MARTIN MACHADO",
+   "camiseta": "17",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "56835",
+   "Jug_Sale": "JUAN IGNACIO URRETAVIZCAYA",
+   "CarneEntra": "50800",
+   "Jug_Entra": "FELIPE MIGUEL GIRO",
+   "camiseta": "18",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50423",
+   "Jug_Sale": "MARTIN GARCIA",
+   "CarneEntra": "67324",
+   "Jug_Entra": "FRANCO VALIENTE",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57654",
+   "Jug_Sale": "DONATO NOCETTI",
+   "CarneEntra": "61897",
+   "Jug_Entra": "MATIAS MARCELO VERO",
+   "camiseta": "12",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "61602",
+   "Jug_Sale": "JOAQUIN FERNANDEZ",
+   "CarneEntra": "62359",
+   "Jug_Entra": "MATHIAS GOMEZ",
+   "camiseta": "18",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "50976",
+   "Jug_Sale": "NICOLAS EZEQUIEL GUTIERREZ",
+   "CarneEntra": "63517",
+   "Jug_Entra": "FELIPE FERREIRA",
+   "camiseta": "99",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "62681",
+   "Jug_Sale": "SANTIAGO PERAZZA",
+   "CarneEntra": "58071",
+   "Jug_Entra": "FELIPE IRIGOYEN",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "62131",
+   "Jug_Sale": "GONZALO RICCONE",
+   "CarneEntra": "64472",
+   "Jug_Entra": "JUAN MARTIN SUCAZES",
+   "camiseta": "23",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "56887",
+   "Jug_Sale": "JUAN MANUEL MASEDA",
+   "CarneEntra": "58397",
+   "Jug_Entra": "FACUNDO NAHUEL PIOLI",
+   "camiseta": "21",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "50976",
+   "Nombre": "NICOLAS EZEQUIEL GUTIERREZ",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62681",
+   "Nombre": "SANTIAGO PERAZZA",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

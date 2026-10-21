@@ -1,0 +1,332 @@
+{
+ "id": "99375",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "HEBRAICA UNIVERSITARIO",
+ "gl": 6,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "170",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-05-30 13:15:00",
+  "Fecha_fin": "2026-05-30 13:15:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "HEBRAICA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44846",
+   "Nombre": "ANTONIO JOSE IRAZOQUI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47104",
+   "Nombre": "MATIAS FLORENCIO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "47675",
+   "Nombre": "MAURICIO DIEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43121",
+   "Nombre": "SIRO PIALI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "43124",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "39128",
+   "Nombre": "FEDERICO FURQUE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66028",
+   "Nombre": "MATEO AGUSTIN CHAKIYIN",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45517",
+   "Nombre": "MATIAS WAPNIARSKY",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "45526",
+   "Nombre": "EITAN WUHL",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "52946",
+   "Nombre": "SEBASTIAN LICHT",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47421",
+   "Nombre": "NICOLAS JAKOB",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59244",
+   "Nombre": "AGUSTÌN PILAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54753",
+   "Nombre": "JOAQUIN BANEWUR",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "47247",
+   "Nombre": "ARIEL SOBOL",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "39128",
+   "Jug_Sale": "FEDERICO FURQUE",
+   "CarneEntra": "56033",
+   "Jug_Entra": "ALEXIS DAVID FLORES",
+   "camiseta": "22",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "47104",
+   "Jug_Sale": "MATIAS FLORENCIO",
+   "CarneEntra": "53690",
+   "Jug_Entra": "MARCOS DANIEL AREVALO",
+   "camiseta": "47",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "66028",
+   "Jug_Sale": "MATEO AGUSTIN CHAKIYIN",
+   "CarneEntra": "46518",
+   "Jug_Entra": "MAURO GERMAN GRECCO",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54617",
+   "Jug_Sale": "TOMAS DIAZ",
+   "CarneEntra": "54068",
+   "Jug_Entra": "JOAQUIN SANTIAGO PERDOMO",
+   "camiseta": "33",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "54868",
+   "Jug_Sale": "MAXIMILIANO ROMAY",
+   "CarneEntra": "53475",
+   "Jug_Entra": "IANN BRUCE COLET",
+   "camiseta": "28",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "43124",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "52176",
+   "Jug_Entra": "JUAN MANUEL GONZALEZ",
+   "camiseta": "19",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "47675",
+   "Jug_Sale": "MAURICIO DIEZ",
+   "CarneEntra": "55022",
+   "Jug_Entra": "ANDRES NAHUEL LAGOS",
+   "camiseta": "9",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47421",
+   "Jug_Sale": "NICOLAS JAKOB",
+   "CarneEntra": "62767",
+   "Jug_Entra": "MATIAS PINTO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47247",
+   "Jug_Sale": "ARIEL SOBOL",
+   "CarneEntra": "43828",
+   "Jug_Entra": "BRUNO ALZARADEL",
+   "camiseta": "20",
+   "minutos": "47"
+  },
+  {
+   "CarneSale": "54753",
+   "Jug_Sale": "JOAQUIN BANEWUR",
+   "CarneEntra": "58032",
+   "Jug_Entra": "FEDERICO BENATAR",
+   "camiseta": "13",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "52946",
+   "Jug_Sale": "SEBASTIAN LICHT",
+   "CarneEntra": "54690",
+   "Jug_Entra": "SANTIAGO SISIASVILI",
+   "camiseta": "2",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59244",
+   "Jug_Sale": "AGUSTÌN PILAS",
+   "CarneEntra": "54683",
+   "Jug_Entra": "THIAGO PELIART",
+   "camiseta": "22",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "64338",
+   "Jug_Sale": "LUCAS DICHTENBERG",
+   "CarneEntra": "47937",
+   "Jug_Entra": "NICOLAS LEVIN",
+   "camiseta": "15",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "53835",
+   "Jug_Sale": "MATEO NAHMIAS",
+   "CarneEntra": "54688",
+   "Jug_Entra": "FEDERICO BONOMO",
+   "camiseta": "81",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43121",
+   "Nombre": "SIRO PIALI",
+   "minutos": "76",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "81",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53690",
+   "Nombre": "MARCOS DANIEL AREVALO",
+   "minutos": "57",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56033",
+   "Nombre": "ALEXIS DAVID FLORES",
+   "minutos": "52",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56033",
+   "Nombre": "ALEXIS DAVID FLORES",
+   "minutos": "62",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "minutos": "31",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,306 @@
+{
+ "id": "98518",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "WANDERERS",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "258",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-04-25 13:00:00",
+  "Fecha_fin": "2026-04-25 13:00:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54360",
+   "Nombre": "MARCOS NICOLAS ERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52614",
+   "Nombre": "AGUSTIN ALEJANDRO LAIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "44550",
+   "Nombre": "FEDERICO JAVIER DE SIANO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49915",
+   "Nombre": "GASTON GUTIERREZ",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56438",
+   "Nombre": "MARTIN CALERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51623",
+   "Nombre": "FEDERICO VELAZQUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47468",
+   "Nombre": "IGNACIO ANIDAPE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53167",
+   "Nombre": "LUCA CORRALES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "35220",
+   "Nombre": "LUCIANO LOPEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "50980",
+   "Nombre": "IGNACIO VELAZQUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57434",
+   "Nombre": "GONZALO ANDRES SANGUINETTI",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "60235",
+   "Nombre": "FEDERICO JOSE GONZALEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "45274",
+   "Nombre": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67260",
+   "Nombre": "AGUSTIN TERMEZANA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "55308",
+   "Nombre": "JUAN MARTIN MALDONADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55367",
+   "Nombre": "LEOPOLDO RIVA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "46875",
+   "Nombre": "RODRIGO MAURICIO FELDMAN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68296",
+   "Nombre": "SANTIAGO CUELLO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "56583",
+   "Nombre": "MARCOS ARRASPIDE",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "46318",
+   "Nombre": "FACUNDO DEBENEDETTI",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "43616",
+   "Nombre": "SANTIAGO VEGLIO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51623",
+   "Jug_Sale": "FEDERICO VELAZQUEZ",
+   "CarneEntra": "48353",
+   "Jug_Entra": "TOMAS ARAMENDI",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44550",
+   "Jug_Sale": "FEDERICO JAVIER DE SIANO",
+   "CarneEntra": "50374",
+   "Jug_Entra": "ADRIAN MANUEL FERNANDEZ",
+   "camiseta": "21",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56438",
+   "Jug_Sale": "MARTIN CALERO",
+   "CarneEntra": "45050",
+   "Jug_Entra": "NICOLAS HERNANDEZ",
+   "camiseta": "87",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52614",
+   "Jug_Sale": "AGUSTIN ALEJANDRO LAIN",
+   "CarneEntra": "53316",
+   "Jug_Entra": "SANTIAGO NAHUEL NUÑEZ",
+   "camiseta": "23",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "47808",
+   "Jug_Sale": "SANTIAGO FERNANDO IRURTIA",
+   "CarneEntra": "50979",
+   "Jug_Entra": "MATIAS TOURNIER",
+   "camiseta": "37",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "35220",
+   "Jug_Sale": "LUCIANO LOPEZ",
+   "CarneEntra": "54872",
+   "Jug_Entra": "LAUTARO EMILIANO MENDEZ",
+   "camiseta": "14",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56583",
+   "Jug_Sale": "MARCOS ARRASPIDE",
+   "CarneEntra": "59160",
+   "Jug_Entra": "ALEXANDER PIREZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60235",
+   "Jug_Sale": "FEDERICO JOSE GONZALEZ",
+   "CarneEntra": "66823",
+   "Jug_Entra": "JOSE PABLO ANTUNEZ",
+   "camiseta": "40",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "46318",
+   "Jug_Sale": "FACUNDO DEBENEDETTI",
+   "CarneEntra": "59917",
+   "Jug_Entra": "LUCAS BALTAZAR GARCIA",
+   "camiseta": "61",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68296",
+   "Jug_Sale": "SANTIAGO CUELLO",
+   "CarneEntra": "66607",
+   "Jug_Entra": "ALEXIS COLO",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46875",
+   "Jug_Sale": "RODRIGO MAURICIO FELDMAN",
+   "CarneEntra": "56589",
+   "Jug_Entra": "DARIO EMANUEL ARCHONDO",
+   "camiseta": "99",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "55308",
+   "Jug_Sale": "JUAN MARTIN MALDONADO",
+   "CarneEntra": "66824",
+   "Jug_Entra": "GABRIEL HERNANDEZ",
+   "camiseta": "18",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "45274",
+   "Jug_Sale": "ALEJANDRO GABRIEL MORALES",
+   "CarneEntra": "45708",
+   "Jug_Entra": "GUILLERMO ANDREOLI",
+   "camiseta": "63",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51623",
+   "Nombre": "FEDERICO VELAZQUEZ",
+   "minutos": "26",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45274",
+   "Nombre": "ALEJANDRO GABRIEL MORALES",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55367",
+   "Nombre": "LEOPOLDO RIVA",
+   "minutos": "63",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59917",
+   "Nombre": "LUCAS BALTAZAR GARCIA",
+   "minutos": "77",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

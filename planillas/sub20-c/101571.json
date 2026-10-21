@@ -1,0 +1,320 @@
+{
+ "id": "101571",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 15:30:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "PALLOTTI UNIVERSITARIO",
+ "visitante": "CLUB SOC. y DEP. LA CHISPA",
+ "gl": 1,
+ "gv": 8,
+ "detalle": {
+  "nro_partido": "335",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-09-05 17:15:00",
+  "Fecha_fin": "2026-09-05 17:15:00",
+  "Locatario": "PALLOTTI UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB SOC. y DEP. LA CHISPA",
+  "goles_visitante": "8",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68288",
+   "Nombre": "GABRIEL SEGOVIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58096",
+   "Nombre": "SANTIAGO LUNGO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67706",
+   "Nombre": "ALEJANDRO SEBASTIAN PEREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67699",
+   "Nombre": "EMILIANO MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67707",
+   "Nombre": "LUCAS THIAGO RODRIGUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "60750",
+   "Nombre": "LUCAS AGUSTIN BILBAO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58351",
+   "Nombre": "JOAQUIN PAREDES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67704",
+   "Nombre": "RICHARD GERMAN RIBEIROS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68654",
+   "Nombre": "FEDERICO LORENZO Y LOSADA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "69098",
+   "Nombre": "LUIS ALEJANDRO ROJO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68828",
+   "Nombre": "THIAGO MARIN",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "68890",
+   "Nombre": "RICARDO TESORE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67534",
+   "Nombre": "BYRON QUILIMAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "69083",
+   "Nombre": "ERIC FACUNDO ESCOBAR",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67531",
+   "Nombre": "BRIAN OLIVERA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68213",
+   "Nombre": "MAXIMILIANO SOTO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67530",
+   "Nombre": "FRANCISCO SUAREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "69005",
+   "Nombre": "MATIAS GADEA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68698",
+   "Nombre": "MATIAS MACHADO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67524",
+   "Nombre": "LUCAS GALIANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67522",
+   "Nombre": "THIAGO VIERA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67707",
+   "Jug_Sale": "LUCAS THIAGO RODRIGUEZ",
+   "CarneEntra": "69099",
+   "Jug_Entra": "MANUEL CALVO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65910",
+   "Jug_Sale": "FACUNDO EMMANUEL BENITEZ",
+   "CarneEntra": "67708",
+   "Jug_Entra": "ALEJO MANEIRO",
+   "camiseta": "27",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "69098",
+   "Jug_Sale": "LUIS ALEJANDRO ROJO",
+   "CarneEntra": "60488",
+   "Jug_Entra": "FRANCISCO JESUS CUADRO",
+   "camiseta": "3",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "67704",
+   "Jug_Sale": "RICHARD GERMAN RIBEIROS",
+   "CarneEntra": "67710",
+   "Jug_Entra": "GONZALO SEBASTIAN PEREIRA",
+   "camiseta": "60",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68828",
+   "Jug_Sale": "THIAGO MARIN",
+   "CarneEntra": "67528",
+   "Jug_Entra": "NICOLAS SAAVEDRA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "69005",
+   "Jug_Sale": "MATIAS GADEA",
+   "CarneEntra": "69007",
+   "Jug_Entra": "KEVIN FERNANDEZ",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68213",
+   "Jug_Sale": "MAXIMILIANO SOTO",
+   "CarneEntra": "68695",
+   "Jug_Entra": "JEAN PIERRE MACHADO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67522",
+   "Jug_Sale": "THIAGO VIERA",
+   "CarneEntra": "68890",
+   "Jug_Entra": "RICARDO TESORE",
+   "camiseta": "4",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "68698",
+   "Jug_Sale": "MATIAS MACHADO",
+   "CarneEntra": "69006",
+   "Jug_Entra": "WAGNER VAZQUES",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "68890",
+   "Jug_Sale": "RICARDO TESORE",
+   "CarneEntra": "69005",
+   "Jug_Entra": "MATIAS GADEA",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67534",
+   "Jug_Sale": "BYRON QUILIMAS",
+   "CarneEntra": "69033",
+   "Jug_Entra": "AXEL GUSTAVO FRANCISCO",
+   "camiseta": "14",
+   "minutos": "60"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "69099",
+   "Nombre": "MANUEL CALVO",
+   "minutos": "86",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67522",
+   "Nombre": "THIAGO VIERA",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67524",
+   "Nombre": "LUCAS GALIANO",
+   "minutos": "78",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67528",
+   "Nombre": "NICOLAS SAAVEDRA",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67528",
+   "Nombre": "NICOLAS SAAVEDRA",
+   "minutos": "84",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67534",
+   "Nombre": "BYRON QUILIMAS",
+   "minutos": "13",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68698",
+   "Nombre": "MATIAS MACHADO",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "69007",
+   "Nombre": "KEVIN FERNANDEZ",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "69083",
+   "Nombre": "ERIC FACUNDO ESCOBAR",
+   "minutos": "82",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,303 @@
+{
+ "id": "102097",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 15:30:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "FLORES UNIVERSITARIO",
+ "visitante": "COLEGIO SAN ISIDRO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "346",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-09-19 17:05:00",
+  "Fecha_fin": "2026-09-19 17:05:00",
+  "Locatario": "FLORES UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO SAN ISIDRO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67714",
+   "Nombre": "VALENTIN ALEJANDRO BALLEJOS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "61527",
+   "Nombre": "MATIAS URIOSTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57672",
+   "Nombre": "SANTIAGO DIEGO OLAZABAL",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "54604",
+   "Nombre": "FACUNDO ANDRES BENTANCOR",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62136",
+   "Nombre": "JUAN PEDRO MONTAÑEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59234",
+   "Nombre": "CAMILO RIVAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60655",
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "62142",
+   "Nombre": "GAEL LERCARI",
+   "camiseta": "67",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63030",
+   "Nombre": "FRANCO BERRUTTI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "68367",
+   "Nombre": "JOAQUIN ROMERO",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66240",
+   "Nombre": "FELIPE ROMAN BOVIO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61123",
+   "Nombre": "GONZALO NAHUEL MELO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68015",
+   "Nombre": "GUILLERMO NICOLAS MOREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "60951",
+   "Nombre": "JOAQUIN LARA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67016",
+   "Nombre": "MARTIN NAHUEL AMARAL",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "59228",
+   "Nombre": "EMILIANO MAESTRO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "62219",
+   "Nombre": "MATEO BERRIEL",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61125",
+   "Nombre": "JOAQUIN LOPEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63499",
+   "Nombre": "JUAN FRANCISCO ARISPE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68355",
+   "Nombre": "GERMAN DONATO LUCAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "59215",
+   "Nombre": "SANTIAGO GABRIEL SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60655",
+   "Jug_Sale": "MATTHIAS SEBASTIAN LAUBE",
+   "CarneEntra": "57324",
+   "Jug_Entra": "TOMAS ALVAREZ",
+   "camiseta": "99",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "61527",
+   "Jug_Sale": "MATIAS URIOSTE",
+   "CarneEntra": "65759",
+   "Jug_Entra": "ROCCO SALVAGNO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62142",
+   "Jug_Sale": "GAEL LERCARI",
+   "CarneEntra": "60655",
+   "Jug_Entra": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63030",
+   "Jug_Sale": "FRANCO BERRUTTI",
+   "CarneEntra": "62142",
+   "Jug_Entra": "GAEL LERCARI",
+   "camiseta": "67",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "65759",
+   "Jug_Sale": "ROCCO SALVAGNO",
+   "CarneEntra": "61527",
+   "Jug_Entra": "MATIAS URIOSTE",
+   "camiseta": "19",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "61527",
+   "Jug_Sale": "MATIAS URIOSTE",
+   "CarneEntra": "63030",
+   "Jug_Entra": "FRANCO BERRUTTI",
+   "camiseta": "33",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "59234",
+   "Jug_Sale": "CAMILO RIVAS",
+   "CarneEntra": "61527",
+   "Jug_Entra": "MATIAS URIOSTE",
+   "camiseta": "19",
+   "minutos": "94"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59228",
+   "Jug_Sale": "EMILIANO MAESTRO",
+   "CarneEntra": "64525",
+   "Jug_Entra": "FRANCISCO LARA",
+   "camiseta": "14",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "60951",
+   "Jug_Sale": "JOAQUIN LARA",
+   "CarneEntra": "61124",
+   "Jug_Entra": "BENJAMIN LOPEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68355",
+   "Jug_Sale": "GERMAN DONATO LUCAS",
+   "CarneEntra": "67500",
+   "Jug_Entra": "IGNACIO SPINOGLIO",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59215",
+   "Jug_Sale": "SANTIAGO GABRIEL SOSA",
+   "CarneEntra": "69151",
+   "Jug_Entra": "MATIAS GUARINI",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68015",
+   "Jug_Sale": "GUILLERMO NICOLAS MOREIRA",
+   "CarneEntra": "60777",
+   "Jug_Entra": "FACUNDO LOZANO",
+   "camiseta": "4",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57672",
+   "Nombre": "SANTIAGO DIEGO OLAZABAL",
+   "minutos": "29",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59234",
+   "Nombre": "CAMILO RIVAS",
+   "minutos": "95",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63499",
+   "Nombre": "JUAN FRANCISCO ARISPE",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64525",
+   "Nombre": "FRANCISCO LARA",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JOAQUIN LOPEZ",
+   "observaciones": ""
+  }
+ ]
+}

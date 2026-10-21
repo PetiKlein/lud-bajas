@@ -1,0 +1,317 @@
+{
+ "id": "101219",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 1,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "CAMPO MARISTAS DEPORTIVO",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "ISASA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "498",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "CAMPO MARISTAS DEPORTIVO",
+  "Fecha_Inicio": "2026-08-29 13:00:00",
+  "Fecha_fin": "2026-08-29 13:00:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "ISASA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59350",
+   "Nombre": "GASTON NUÑEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66164",
+   "Nombre": "NICOLAS AYESTARAN",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "56682",
+   "Nombre": "DIEGO RAHI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "47861",
+   "Nombre": "FRANCO DE LOS SANTOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56508",
+   "Nombre": "MATEO GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "66621",
+   "Nombre": "NAIM BLANCO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "46422",
+   "Nombre": "GONZALO IÑAKI DE PENA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66232",
+   "Nombre": "LUCAS MAURICIO CARTAGENA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55117",
+   "Nombre": "GUILLERMO VALLE LISBOA",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58255",
+   "Nombre": "AGUSTIN DIAZ",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "61778",
+   "Nombre": "EDINSON MAXIMILIANO DIAZ",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54088",
+   "Nombre": "GIANFRANCO ROSSI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "51003",
+   "Nombre": "JOAQUIN DE LOS SANTOS",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "53800",
+   "Nombre": "JUAN PEDRO HOURCADE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "43558",
+   "Nombre": "GASTON ALVAREZ DE RON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49353",
+   "Nombre": "NICOLAS URRETAVIZCAYA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "47961",
+   "Nombre": "AGUSTIN OLIVERA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66232",
+   "Jug_Sale": "LUCAS MAURICIO CARTAGENA",
+   "CarneEntra": "63478",
+   "Jug_Entra": "MICHAEL NAHUEL PAIS",
+   "camiseta": "93",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "46422",
+   "Jug_Sale": "GONZALO IÑAKI DE PENA",
+   "CarneEntra": "44376",
+   "Jug_Entra": "JOAQUIN NADRUZ",
+   "camiseta": "16",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61778",
+   "Jug_Sale": "EDINSON MAXIMILIANO DIAZ",
+   "CarneEntra": "47785",
+   "Jug_Entra": "FILIPPO RADICCIONI",
+   "camiseta": "80",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "66164",
+   "Jug_Sale": "NICOLAS AYESTARAN",
+   "CarneEntra": "50844",
+   "Jug_Entra": "BRUNO MARTIN PALACIO",
+   "camiseta": "87",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66621",
+   "Jug_Sale": "NAIM BLANCO",
+   "CarneEntra": "66232",
+   "Jug_Entra": "LUCAS MAURICIO CARTAGENA",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56508",
+   "Jug_Sale": "MATEO GARCIA",
+   "CarneEntra": "69053",
+   "Jug_Entra": "IVAN ARIEL MELO",
+   "camiseta": "22",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51003",
+   "Jug_Sale": "JOAQUIN DE LOS SANTOS",
+   "CarneEntra": "52587",
+   "Jug_Entra": "MARCELINO PEREZ",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53800",
+   "Jug_Sale": "JUAN PEDRO HOURCADE",
+   "CarneEntra": "54851",
+   "Jug_Entra": "MATIAS MEDEROS",
+   "camiseta": "37",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "47961",
+   "Jug_Sale": "AGUSTIN OLIVERA",
+   "CarneEntra": "46794",
+   "Jug_Entra": "RAMIRO IVAN GONZALEZ",
+   "camiseta": "13",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "49353",
+   "Jug_Sale": "NICOLAS URRETAVIZCAYA",
+   "CarneEntra": "52001",
+   "Jug_Entra": "JOSE PEDRO DELGADO",
+   "camiseta": "26",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "53966",
+   "Jug_Sale": "FELIPE PEREZ",
+   "CarneEntra": "53472",
+   "Jug_Entra": "EMILIANO BASTARRICA",
+   "camiseta": "6",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "46909",
+   "Jug_Sale": "FEDERICO KARDJIAN",
+   "CarneEntra": "60668",
+   "Jug_Entra": "JOAQUIN IGNACIO PARNIZARI",
+   "camiseta": "23",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "54629",
+   "Jug_Sale": "FEDERICO HERNANDEZ",
+   "CarneEntra": "47703",
+   "Jug_Entra": "BRUNO PAULINO",
+   "camiseta": "9",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47861",
+   "Nombre": "FRANCO DE LOS SANTOS",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63478",
+   "Nombre": "MICHAEL NAHUEL PAIS",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "minutos": "78",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53472",
+   "Nombre": "EMILIANO BASTARRICA",
+   "minutos": "97",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "minutos": "47",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "AGUSTIN DIAZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

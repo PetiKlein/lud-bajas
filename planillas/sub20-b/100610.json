@@ -1,0 +1,299 @@
+{
+ "id": "100610",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 15:30:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "203",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-06-27 00:00:00",
+  "Fecha_fin": "2026-06-27 00:00:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58657",
+   "Nombre": "SANTIAGO CID DE LA PAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56199",
+   "Nombre": "MATIAS ANDRES MORAES",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58600",
+   "Nombre": "JUAN IGNACIO ACOSTA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "58801",
+   "Nombre": "SALVADOR GARCIA LAGOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58652",
+   "Nombre": "AGUSTIN OXACELHAY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58602",
+   "Nombre": "IGNACIO COSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58604",
+   "Nombre": "JUAN MARTIN VERZERI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58798",
+   "Nombre": "MATEO FRAGA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57598",
+   "Nombre": "LUCAS KEUSHKERIAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61256",
+   "Nombre": "FRANCO CHELINI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "58502",
+   "Nombre": "TIZIANO VILA",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59906",
+   "Nombre": "MATEO FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59515",
+   "Nombre": "FRANCO FEDERICO DENIS",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "68294",
+   "Nombre": "FEDERICO CLAVARES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63070",
+   "Nombre": "MATIAS GABRIEL TEIJEIRO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67295",
+   "Nombre": "IVAN GONZALEZ",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "67653",
+   "Nombre": "EMILIANO PIETRAFESA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67297",
+   "Nombre": "TIZIANO LANDO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67294",
+   "Nombre": "LIQUEL COLOMBO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63867",
+   "Nombre": "THIAGO BENJAMIN GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60952",
+   "Nombre": "JUAN IGNACIO MORATORIO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "67391",
+   "Nombre": "SANTIAGO SEBASTIAN RDORIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61256",
+   "Jug_Sale": "FRANCO CHELINI",
+   "CarneEntra": "57601",
+   "Jug_Entra": "RODRIGO INFANTOZZI",
+   "camiseta": "26",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "58798",
+   "Jug_Sale": "MATEO FRAGA",
+   "CarneEntra": "59274",
+   "Jug_Entra": "MATEO VOLPI",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58652",
+   "Jug_Sale": "AGUSTIN OXACELHAY",
+   "CarneEntra": "58609",
+   "Jug_Entra": "PATRICIO GIOVANNI GAROFOLO",
+   "camiseta": "19",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58600",
+   "Jug_Sale": "JUAN IGNACIO ACOSTA",
+   "CarneEntra": "58601",
+   "Jug_Entra": "LUCAS LENZI",
+   "camiseta": "6",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58502",
+   "Jug_Sale": "TIZIANO VILA",
+   "CarneEntra": "57599",
+   "Jug_Entra": "MANUEL AVILA",
+   "camiseta": "16",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57598",
+   "Jug_Sale": "LUCAS KEUSHKERIAN",
+   "CarneEntra": "57632",
+   "Jug_Entra": "AGUSTIN MANTERO",
+   "camiseta": "22",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67391",
+   "Jug_Sale": "SANTIAGO SEBASTIAN RDORIGUEZ",
+   "CarneEntra": "64353",
+   "Jug_Entra": "THIAGO JOAQUIN SERRATTO",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59515",
+   "Jug_Sale": "FRANCO FEDERICO DENIS",
+   "CarneEntra": "67299",
+   "Jug_Entra": "FRANCO NICOLAS PURTSCHER",
+   "camiseta": "38",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63070",
+   "Jug_Sale": "MATIAS GABRIEL TEIJEIRO",
+   "CarneEntra": "59218",
+   "Jug_Entra": "AGUSTIN GRAJALES",
+   "camiseta": "33",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "67297",
+   "Jug_Sale": "TIZIANO LANDO",
+   "CarneEntra": "65324",
+   "Jug_Entra": "SANTINO MENENDEZ",
+   "camiseta": "20",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63867",
+   "Jug_Sale": "THIAGO BENJAMIN GONZALEZ",
+   "CarneEntra": "64354",
+   "Jug_Entra": "MATEO NARTALLO",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "60952",
+   "Jug_Sale": "JUAN IGNACIO MORATORIO",
+   "CarneEntra": "63867",
+   "Jug_Entra": "THIAGO BENJAMIN GONZALEZ",
+   "camiseta": "9",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "67294",
+   "Jug_Sale": "LIQUEL COLOMBO",
+   "CarneEntra": "67391",
+   "Jug_Entra": "SANTIAGO SEBASTIAN RDORIGUEZ",
+   "camiseta": "7",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57601",
+   "Nombre": "RODRIGO INFANTOZZI",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58604",
+   "Nombre": "JUAN MARTIN VERZERI",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58798",
+   "Nombre": "MATEO FRAGA",
+   "minutos": "71",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

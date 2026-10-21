@@ -1,0 +1,293 @@
+{
+ "id": "98509",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 15:30:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "OLD IVY",
+ "visitante": "TROUVILLE UNIVERSITARIO",
+ "gl": 6,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "141",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-25 17:30:00",
+  "Fecha_fin": "2026-04-25 17:30:00",
+  "Locatario": "OLD IVY",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "TROUVILLE UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67616",
+   "Nombre": "JUAN MARTIN REYES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "67380",
+   "Nombre": "JUAN PEDRO MENINI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "59611",
+   "Nombre": "FEDERICO MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57161",
+   "Nombre": "JUAN FRANCISCO SONEIRA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59182",
+   "Nombre": "MATEO DENIS",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59609",
+   "Nombre": "FRANCISCO RUBIO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "64391",
+   "Nombre": "JUAN BAUTISTA IRIARTE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67379",
+   "Nombre": "JUAN PEDRO LUQUE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55486",
+   "Nombre": "ISMAEL CASTRO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59616",
+   "Nombre": "MATIAS DAMIAN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57162",
+   "Nombre": "PHILIP MC GREGOR",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56567",
+   "Nombre": "IGNACIO AGUSTIN CABRERA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61628",
+   "Nombre": "TOMAS VAZQUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59296",
+   "Nombre": "LAUTARO MARTIN VERA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66252",
+   "Nombre": "VALENTINO PIZZORNO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67686",
+   "Nombre": "JEREMIAS ALZAIBAR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57180",
+   "Nombre": "SANTIAGO DUPONT",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68285",
+   "Nombre": "IGNACIO FONTES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66441",
+   "Nombre": "EZEQUIEL ADRIAN GOMEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59032",
+   "Nombre": "GONZALO DE FREITAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64954",
+   "Nombre": "ENZO LAUTARO DADOMO",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "67208",
+   "Nombre": "CAMILO PEREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64391",
+   "Jug_Sale": "JUAN BAUTISTA IRIARTE",
+   "CarneEntra": "60663",
+   "Jug_Entra": "ALFONSO PORRAS",
+   "camiseta": "33",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "67379",
+   "Jug_Sale": "JUAN PEDRO LUQUE",
+   "CarneEntra": "67457",
+   "Jug_Entra": "GIOVANNI RAIMONDI",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "57162",
+   "Jug_Sale": "PHILIP MC GREGOR",
+   "CarneEntra": "59614",
+   "Jug_Entra": "TOMAS HORJALES",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "59609",
+   "Jug_Sale": "FRANCISCO RUBIO",
+   "CarneEntra": "66625",
+   "Jug_Entra": "NICOLAS QUINTANA",
+   "camiseta": "21",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "57161",
+   "Jug_Sale": "JUAN FRANCISCO SONEIRA",
+   "CarneEntra": "57951",
+   "Jug_Entra": "JUAN GUILLERMO MARTINEZ",
+   "camiseta": "21",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59616",
+   "Jug_Sale": "MATIAS DAMIAN",
+   "CarneEntra": "64703",
+   "Jug_Entra": "SANTIAGO VILLAVICENCIO",
+   "camiseta": "28",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "59611",
+   "Jug_Sale": "FEDERICO MARTINEZ",
+   "CarneEntra": "67458",
+   "Jug_Entra": "MATIAS GARCIA",
+   "camiseta": "17",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57180",
+   "Jug_Sale": "SANTIAGO DUPONT",
+   "CarneEntra": "62236",
+   "Jug_Entra": "AGUSTIN LOPEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68285",
+   "Jug_Sale": "IGNACIO FONTES",
+   "CarneEntra": "68289",
+   "Jug_Entra": "THIAGO EZEQUIEL BRUN",
+   "camiseta": "18",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "61628",
+   "Jug_Sale": "TOMAS VAZQUEZ",
+   "CarneEntra": "67690",
+   "Jug_Entra": "BENJAMIN KOUYMTCHIAN",
+   "camiseta": "5",
+   "minutos": "56"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57162",
+   "Nombre": "PHILIP MC GREGOR",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59616",
+   "Nombre": "MATIAS DAMIAN",
+   "minutos": "16",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59616",
+   "Nombre": "MATIAS DAMIAN",
+   "minutos": "24",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59616",
+   "Nombre": "MATIAS DAMIAN",
+   "minutos": "50",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59616",
+   "Nombre": "MATIAS DAMIAN",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67379",
+   "Nombre": "JUAN PEDRO LUQUE",
+   "minutos": "6",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

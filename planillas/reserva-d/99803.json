@@ -1,0 +1,300 @@
+{
+ "id": "99803",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "CIUDAD DEPORTIVA ZONA LAB",
+ "local": "SAN CONO",
+ "visitante": "SAN AGUSTIN",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "470",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "CIUDAD DEPORTIVA ZONA LAB",
+  "Fecha_Inicio": "2026-06-06 13:10:00",
+  "Fecha_fin": "2026-06-06 13:10:00",
+  "Locatario": "SAN CONO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAN AGUSTIN",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "43063",
+   "Nombre": "JOAQUIN MATTEO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66467",
+   "Nombre": "DIEGO LOTTI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "61524",
+   "Nombre": "SEBASTIAN ENZO GUISADO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "57266",
+   "Nombre": "JUAN MANUEL SANGUINE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "55354",
+   "Nombre": "JAIRO ALI ARAQUE",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "61320",
+   "Nombre": "JONATAN NAHUEL MORA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61529",
+   "Nombre": "MATEO FERREIRA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61531",
+   "Nombre": "GONZALO GABRIEL BERRUTTI",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63261",
+   "Nombre": "NICOLAS SANGUINE",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "61532",
+   "Nombre": "JUAN IGNACIO OLIVERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67799",
+   "Nombre": "FELIPE RUIZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47395",
+   "Nombre": "ALFONSO ALBERTO CANUTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47401",
+   "Nombre": "FELIPE SEXENIAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55175",
+   "Nombre": "BENJAMIN HERRAN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "55271",
+   "Nombre": "IGNACIO BORETTO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "45699",
+   "Nombre": "IGNACIO FEDERICO ALESINA",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "48900",
+   "Nombre": "AGUSTIN DECIA",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "51339",
+   "Nombre": "FACUNDO VACZY",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "48999",
+   "Nombre": "FEDERICO CHOCHO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50991",
+   "Nombre": "MAXIMILIANO GAGLIAMONE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47398",
+   "Nombre": "FELIPE GALINDEZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "54167",
+   "Nombre": "JOAQUIN DECIA",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67799",
+   "Jug_Sale": "FELIPE RUIZ",
+   "CarneEntra": "61942",
+   "Jug_Entra": "AGUSTIN EZEQUIEL DE LOS REYES",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61529",
+   "Jug_Sale": "MATEO FERREIRA",
+   "CarneEntra": "64654",
+   "Jug_Entra": "GASTON ZAMBRAN",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61320",
+   "Jug_Sale": "JONATAN NAHUEL MORA",
+   "CarneEntra": "23009",
+   "Jug_Entra": "RODRIGO DE PAULA",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "61524",
+   "Jug_Sale": "SEBASTIAN ENZO GUISADO",
+   "CarneEntra": "66113",
+   "Jug_Entra": "BRYAN OLAIZOLA",
+   "camiseta": "42",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "61532",
+   "Jug_Sale": "JUAN IGNACIO OLIVERA",
+   "CarneEntra": "66469",
+   "Jug_Entra": "DANIEL ANDRES LAUREANO",
+   "camiseta": "34",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "66467",
+   "Jug_Sale": "DIEGO LOTTI",
+   "CarneEntra": "61529",
+   "Jug_Entra": "MATEO FERREIRA",
+   "camiseta": "9",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "45699",
+   "Jug_Sale": "IGNACIO FEDERICO ALESINA",
+   "CarneEntra": "52348",
+   "Jug_Entra": "MATEO REYES",
+   "camiseta": "17",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "55271",
+   "Jug_Sale": "IGNACIO BORETTO",
+   "CarneEntra": "48903",
+   "Jug_Entra": "FEDERICO BICA",
+   "camiseta": "2",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "48999",
+   "Jug_Sale": "FEDERICO CHOCHO",
+   "CarneEntra": "51336",
+   "Jug_Entra": "SEBASTIAN ROCHA",
+   "camiseta": "16",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "54167",
+   "Jug_Sale": "JOAQUIN DECIA",
+   "CarneEntra": "54126",
+   "Jug_Entra": "ALEJANDRO DIAZ",
+   "camiseta": "44",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "51339",
+   "Jug_Sale": "FACUNDO VACZY",
+   "CarneEntra": "50985",
+   "Jug_Entra": "SANTIAGO MOCHETTI",
+   "camiseta": "24",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "48900",
+   "Jug_Sale": "AGUSTIN DECIA",
+   "CarneEntra": "55267",
+   "Jug_Entra": "SANTIAGO SAPRIZA",
+   "camiseta": "15",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "50991",
+   "Jug_Sale": "MAXIMILIANO GAGLIAMONE",
+   "CarneEntra": "47603",
+   "Jug_Entra": "DANILO LUMACA",
+   "camiseta": "19",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63261",
+   "Nombre": "NICOLAS SANGUINE",
+   "minutos": "76",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "48999",
+   "Nombre": "FEDERICO CHOCHO",
+   "minutos": "37",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55175",
+   "Nombre": "BENJAMIN HERRAN",
+   "minutos": "1",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

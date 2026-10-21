@@ -1,0 +1,257 @@
+{
+ "id": "102497",
+ "categoria": "sub20-c",
+ "serie": "20CP",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 15:30:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "MONTEVIDEO COLLEGE",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "506",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"C\" COPA DE PLATA",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-10-03 17:30:00",
+  "Fecha_fin": "2026-10-03 17:30:00",
+  "Locatario": "MONTEVIDEO COLLEGE",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66348",
+   "Nombre": "FELIPE DE BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64410",
+   "Nombre": "JUAN ANTONIO QUINTAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "60187",
+   "Nombre": "JUAN MANUEL NEBEL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59185",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62329",
+   "Nombre": "FACUNDO ABELENDA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58777",
+   "Nombre": "RODRIGO GONZALEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62874",
+   "Nombre": "JUAN MANUEL CARBONE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67433",
+   "Nombre": "IGNACIO STANHAM",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66020",
+   "Nombre": "FACUNDO DOMINGUEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "64762",
+   "Nombre": "NICOLAS VILLA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68560",
+   "Nombre": "FELIPE MINO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63543",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68858",
+   "Nombre": "THIAGO COGOY",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55147",
+   "Nombre": "EDUARDO IVAN UBAL",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "62586",
+   "Nombre": "LEANDRO MOCCIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62577",
+   "Nombre": "ORI MARTIN FERREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62587",
+   "Nombre": "MATEO ALONSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58704",
+   "Nombre": "IGNACIO JAVIER ROMERO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "camiseta": "40",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62582",
+   "Nombre": "SEBASTIAN ENZO STRATTA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "55413",
+   "Nombre": "LUCAS OTAÑO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62874",
+   "Jug_Sale": "JUAN MANUEL CARBONE",
+   "CarneEntra": "58567",
+   "Jug_Entra": "NAHUEL DAVID REBELLO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62329",
+   "Jug_Sale": "FACUNDO ABELENDA",
+   "CarneEntra": "64761",
+   "Jug_Entra": "MATIAS NICOLAS DARRE",
+   "camiseta": "48",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "58777",
+   "Jug_Sale": "RODRIGO GONZALEZ",
+   "CarneEntra": "64913",
+   "Jug_Entra": "JUAN MANUEL FERRERI",
+   "camiseta": "21",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64410",
+   "Jug_Sale": "JUAN ANTONIO QUINTAS",
+   "CarneEntra": "62141",
+   "Jug_Entra": "JOAQUIN FAJARDO",
+   "camiseta": "5",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62586",
+   "Jug_Sale": "LEANDRO MOCCIA",
+   "CarneEntra": "64173",
+   "Jug_Entra": "SANTIAGO MIRANDA",
+   "camiseta": "23",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "55413",
+   "Jug_Sale": "LUCAS OTAÑO",
+   "CarneEntra": "67274",
+   "Jug_Entra": "ALVARO PINTOS",
+   "camiseta": "33",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "62582",
+   "Jug_Sale": "SEBASTIAN ENZO STRATTA",
+   "CarneEntra": "67273",
+   "Jug_Entra": "SANTIAGO ROMAN DALIA",
+   "camiseta": "36",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58567",
+   "Nombre": "NAHUEL DAVID REBELLO",
+   "minutos": "92",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55413",
+   "Nombre": "LUCAS OTAÑO",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58704",
+   "Nombre": "IGNACIO JAVIER ROMERO",
+   "minutos": "61",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN MANUEL NEBEL",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

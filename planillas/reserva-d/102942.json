@@ -1,0 +1,288 @@
+{
+ "id": "102942",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 7,
+ "fechaHora": "2026-10-17 09:00:00",
+ "cancha": "()",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "NUESTRA SEÑORA DE LOURDES",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "589",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "()",
+  "Fecha_Inicio": "2026-10-17 10:50:00",
+  "Fecha_fin": "2026-10-17 10:50:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "NUESTRA SEÑORA DE LOURDES",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49636",
+   "Nombre": "AGUSTIN ALGORTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "62873",
+   "Nombre": "MATEO AGUSTIN ARDENTE",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "64272",
+   "Nombre": "HERNAN EZEQUIEL PUSCHIASIS",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "54722",
+   "Nombre": "LUCAS SCAFARELLI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "45778",
+   "Nombre": "SANTIAGO BARBEITO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "53267",
+   "Nombre": "MAXIMO TORNONI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53386",
+   "Nombre": "AGUSTIN CALVO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "42729",
+   "Nombre": "VALENTIN ALEJANDRO FERNANDEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "67387",
+   "Nombre": "GONZALO ESTEVES",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "69221",
+   "Nombre": "SANTIAGO PAJARES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "69145",
+   "Nombre": "LUCAS NAHUEL MENDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65209",
+   "Nombre": "CRISTIAN  DANIEL GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64203",
+   "Nombre": "GUILLERMO ORTIZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "69095",
+   "Nombre": "LUCAS EZEQUIEL ARAMBILLETE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "68663",
+   "Nombre": "ARIEL ACOSTA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54946",
+   "Nombre": "FRANCO VICENTE CIFUENTES",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33603",
+   "Nombre": "JUAN IGNACIO SELVES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "27059",
+   "Nombre": "RODRIGO WALTER NIETO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67455",
+   "Nombre": "ADRIAN DAVID ACOSTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "30973",
+   "Nombre": "MAXIMILIANO PEREYRA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49636",
+   "Jug_Sale": "AGUSTIN ALGORTA",
+   "CarneEntra": "53378",
+   "Jug_Entra": "NICOLAS SILVA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45778",
+   "Jug_Sale": "SANTIAGO BARBEITO",
+   "CarneEntra": "52808",
+   "Jug_Entra": "SEBASTIAN USHER",
+   "camiseta": "5",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "54722",
+   "Jug_Sale": "LUCAS SCAFARELLI",
+   "CarneEntra": "53171",
+   "Jug_Entra": "FRANCISCO ACUÑA",
+   "camiseta": "33",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "53386",
+   "Jug_Sale": "AGUSTIN CALVO",
+   "CarneEntra": "58665",
+   "Jug_Entra": "TOMAS ALGORTA",
+   "camiseta": "32",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "64272",
+   "Jug_Sale": "HERNAN EZEQUIEL PUSCHIASIS",
+   "CarneEntra": "52402",
+   "Jug_Entra": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "52184",
+   "Jug_Sale": "DIEGO GIBERT",
+   "CarneEntra": "53623",
+   "Jug_Entra": "IGNACIO AÑON",
+   "camiseta": "18",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "42729",
+   "Jug_Sale": "VALENTIN ALEJANDRO FERNANDEZ",
+   "CarneEntra": "56611",
+   "Jug_Entra": "SEBASTIAN SAR",
+   "camiseta": "94",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "27059",
+   "Jug_Sale": "RODRIGO WALTER NIETO",
+   "CarneEntra": "66809",
+   "Jug_Entra": "DAVID JOMAR ROSALES",
+   "camiseta": "5",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "30973",
+   "Jug_Sale": "MAXIMILIANO PEREYRA",
+   "CarneEntra": "27059",
+   "Jug_Entra": "RODRIGO WALTER NIETO",
+   "camiseta": "7",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "69145",
+   "Jug_Sale": "LUCAS NAHUEL MENDEZ",
+   "CarneEntra": "68941",
+   "Jug_Entra": "GERONIMO FIGUEIRA",
+   "camiseta": "15",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "27059",
+   "Jug_Sale": "RODRIGO WALTER NIETO",
+   "CarneEntra": "69145",
+   "Jug_Entra": "LUCAS NAHUEL MENDEZ",
+   "camiseta": "17",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "33603",
+   "Jug_Sale": "JUAN IGNACIO SELVES",
+   "CarneEntra": "30973",
+   "Jug_Entra": "MAXIMILIANO PEREYRA",
+   "camiseta": "80",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67387",
+   "Nombre": "GONZALO ESTEVES",
+   "minutos": "84",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FRANCO VICENTE CIFUENTES",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "RODRIGO WALTER NIETO",
+   "observaciones": ""
+  }
+ ]
+}

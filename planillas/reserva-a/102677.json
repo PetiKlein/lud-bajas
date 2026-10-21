@@ -1,0 +1,320 @@
+{
+ "id": "102677",
+ "categoria": "reserva-a",
+ "serie": "RSAPD",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 09:00:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "CEIBOS CLUB",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 4,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "651",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"A\" PER. y DESC.",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-10-10 11:00:00",
+  "Fecha_fin": "2026-10-10 11:00:00",
+  "Locatario": "CEIBOS CLUB",
+  "goles_locatario": "4",
+  "puntos_locatario": "1",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53017",
+   "Nombre": "ALFONSO GIMENEZ",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41897",
+   "Nombre": "IGNACIO CABRERA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "43274",
+   "Nombre": "RAFAEL MONESTIER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "41605",
+   "Nombre": "NICOLAS MURO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "41651",
+   "Nombre": "JOSE MIGUEL MARTIRENA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "41411",
+   "Nombre": "JOAQUIN ALEJANDRO GOMEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "53505",
+   "Nombre": "SANTIAGO LOPEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "46925",
+   "Nombre": "ATILIO FRANCISCO NARANCIO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "23902",
+   "Nombre": "ENRIQUE MARTIN BOIX",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53926",
+   "Nombre": "JUAN MARTIN CABRERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54403",
+   "Nombre": "IGNACIO GIMENEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58980",
+   "Nombre": "MATEO PONCE DE LEON",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "41908",
+   "Nombre": "JUAN MARTIN AZADIAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52853",
+   "Nombre": "NICOLAS SAINTAGNE",
+   "camiseta": "85",
+   "Capitan": ""
+  },
+  {
+   "carne": "53196",
+   "Nombre": "JOAQUIN RESTANO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "50128",
+   "Nombre": "JUAN ANDRES GIL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "50929",
+   "Nombre": "JUAN MANUEL CASELLA",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "55358",
+   "Nombre": "MATTEO REICHERT",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "camiseta": "91",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54025",
+   "Nombre": "JOSE IGNACIO ARBILLA",
+   "camiseta": "68",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23902",
+   "Jug_Sale": "ENRIQUE MARTIN BOIX",
+   "CarneEntra": "51833",
+   "Jug_Entra": "THIAGO TORANZA",
+   "camiseta": "20",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "41411",
+   "Jug_Sale": "JOAQUIN ALEJANDRO GOMEZ",
+   "CarneEntra": "53744",
+   "Jug_Entra": "JUAN ANDRES ECHEGOYEN",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "46925",
+   "Jug_Sale": "ATILIO FRANCISCO NARANCIO",
+   "CarneEntra": "51136",
+   "Jug_Entra": "JOAQUIN NARANCIO",
+   "camiseta": "6",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "53505",
+   "Jug_Sale": "SANTIAGO LOPEZ",
+   "CarneEntra": "41411",
+   "Jug_Entra": "JOAQUIN ALEJANDRO GOMEZ",
+   "camiseta": "16",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "43274",
+   "Jug_Sale": "RAFAEL MONESTIER",
+   "CarneEntra": "41405",
+   "Jug_Entra": "GONZALO VARELA",
+   "camiseta": "10",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50929",
+   "Jug_Sale": "JUAN MANUEL CASELLA",
+   "CarneEntra": "43219",
+   "Jug_Entra": "GUZMAN LORENZO",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54025",
+   "Jug_Sale": "JOSE IGNACIO ARBILLA",
+   "CarneEntra": "59109",
+   "Jug_Entra": "SANTIAGO ALVAREZ",
+   "camiseta": "82",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "50128",
+   "Jug_Sale": "JUAN ANDRES GIL",
+   "CarneEntra": "53195",
+   "Jug_Entra": "MATIAS GIGIREY",
+   "camiseta": "25",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "41908",
+   "Jug_Sale": "JUAN MARTIN AZADIAN",
+   "CarneEntra": "53442",
+   "Jug_Entra": "JUAN RAMON ARBILLA",
+   "camiseta": "45",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "52646",
+   "Jug_Sale": "JUAN MARTIN BONFIGLIO",
+   "CarneEntra": "39803",
+   "Jug_Entra": "TEO NICOLAS BUDAKER",
+   "camiseta": "32",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23902",
+   "Nombre": "ENRIQUE MARTIN BOIX",
+   "minutos": "61",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51136",
+   "Nombre": "JOAQUIN NARANCIO",
+   "minutos": "76",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53505",
+   "Nombre": "SANTIAGO LOPEZ",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53744",
+   "Nombre": "JUAN ANDRES ECHEGOYEN",
+   "minutos": "86",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "minutos": "69",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "minutos": "95",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53442",
+   "Nombre": "JUAN RAMON ARBILLA",
+   "minutos": "96",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "IGNACIO CABRERA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "NICOLAS SAINTAGNE",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "MATTEO REICHERT",
+   "observaciones": ""
+  }
+ ]
+}

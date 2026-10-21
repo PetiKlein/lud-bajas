@@ -1,0 +1,285 @@
+{
+ "id": "98639",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS CLUB",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "17",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-04-25 13:05:00",
+  "Fecha_fin": "2026-04-25 13:05:00",
+  "Locatario": "OLD CHRISTIANS CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "51657",
+   "Nombre": "FELIPE PEREYRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42070",
+   "Nombre": "FRANCISCO GUADALUPE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67291",
+   "Nombre": "AUGUSTO PAULLIER",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "52819",
+   "Nombre": "IÑAKI LARRAECHEA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51135",
+   "Nombre": "JOAQUIN FABREGAT",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "33856",
+   "Nombre": "FEDERICO CHIANCONE",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "50902",
+   "Nombre": "SANTIAGO VINCENT",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52331",
+   "Nombre": "JOSE PEDRO PARODI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "42069",
+   "Nombre": "MATEO GIOIA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "64683",
+   "Nombre": "ALBERTO FELIPE ROSSO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59470",
+   "Nombre": "FABRICIO OLIVERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37258",
+   "Nombre": "LUIS PEDRO LENGUAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "33559",
+   "Nombre": "JULIO ALEXANDER GURIDI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "34986",
+   "Nombre": "FELIPE ANTONIO AZADIAN",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48390",
+   "Nombre": "GERONIMO ALVARES",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "56273",
+   "Nombre": "ALEXIS BRUCE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "47508",
+   "Nombre": "HERNAN HARDOY",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "47513",
+   "Nombre": "MAXIMO VARGAS",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "54580",
+   "Nombre": "JUAN CARLOS VIDIELLA",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "53930",
+   "Nombre": "MAXIMO RICARDO SEIZER",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "41581",
+   "Nombre": "ALFONSO SIMETO",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51135",
+   "Jug_Sale": "JOAQUIN FABREGAT",
+   "CarneEntra": "37259",
+   "Jug_Entra": "IGNACIO MACHADO",
+   "camiseta": "51",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "66722",
+   "Jug_Sale": "JOAQUIN RODRIGUEZ",
+   "CarneEntra": "53214",
+   "Jug_Entra": "MANUEL PARODI",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "42069",
+   "Jug_Sale": "MATEO GIOIA",
+   "CarneEntra": "55392",
+   "Jug_Entra": "SANTIAGO COSTA",
+   "camiseta": "28",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "42070",
+   "Jug_Sale": "FRANCISCO GUADALUPE",
+   "CarneEntra": "40763",
+   "Jug_Entra": "MATEO VINCENT",
+   "camiseta": "94",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "52819",
+   "Jug_Sale": "IÑAKI LARRAECHEA",
+   "CarneEntra": "37170",
+   "Jug_Entra": "SEBASTIAN REGULES",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64683",
+   "Jug_Sale": "ALBERTO FELIPE ROSSO",
+   "CarneEntra": "49655",
+   "Jug_Entra": "HERNAN ALEGRESA",
+   "camiseta": "70",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "50902",
+   "Jug_Sale": "SANTIAGO VINCENT",
+   "CarneEntra": "39426",
+   "Jug_Entra": "FRANCO CRISCI",
+   "camiseta": "5",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56273",
+   "Jug_Sale": "ALEXIS BRUCE",
+   "CarneEntra": "54586",
+   "Jug_Entra": "FRANCISCO SCASSO",
+   "camiseta": "79",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "41581",
+   "Jug_Sale": "ALFONSO SIMETO",
+   "CarneEntra": "49032",
+   "Jug_Entra": "LUIS GONZALO VARGAS",
+   "camiseta": "97",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "54580",
+   "Jug_Sale": "JUAN CARLOS VIDIELLA",
+   "CarneEntra": "54590",
+   "Jug_Entra": "ALFONSO MAILHOS",
+   "camiseta": "30",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "48390",
+   "Jug_Sale": "GERONIMO ALVARES",
+   "CarneEntra": "54974",
+   "Jug_Entra": "SANTIAGO BOCAGE",
+   "camiseta": "27",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "47508",
+   "Jug_Sale": "HERNAN HARDOY",
+   "CarneEntra": "49027",
+   "Jug_Entra": "BENJAMIN LOPEZ",
+   "camiseta": "21",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "42069",
+   "Nombre": "MATEO GIOIA",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52331",
+   "Nombre": "JOSE PEDRO PARODI",
+   "minutos": "42",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

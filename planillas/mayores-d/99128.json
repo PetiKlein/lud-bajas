@@ -1,0 +1,304 @@
+{
+ "id": "99128",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 6,
+ "fechaHora": "2026-05-24 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "DEPORTIVO MORON",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "401",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-05-24 11:00:00",
+  "Fecha_fin": "2026-05-24 11:00:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO MORON",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "50667",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26563",
+   "Nombre": "EDGARDO NOVO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52165",
+   "Nombre": "ALFONSO GARCIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55533",
+   "Nombre": "EZEQUIEL HERNAN PRADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51695",
+   "Nombre": "EZEQUIEL NAHUEL MENDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48308",
+   "Nombre": "GASTON MAZZO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51263",
+   "Nombre": "IGNACIO ALEJO FERRARI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "46783",
+   "Nombre": "NICOLAS CANOURA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49080",
+   "Nombre": "IGNACIO MOUGAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51584",
+   "Nombre": "RENZO ADRIAN CICCARIELLO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "55536",
+   "Nombre": "FACUNDO GABRIEL PRADO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53480",
+   "Nombre": "LEANDRO NICOLAS MATOSAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50924",
+   "Nombre": "FRANCO STELLA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64200",
+   "Nombre": "MATEO NICOLAS CORRENGGIA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "66165",
+   "Nombre": "JOAQUIN MATEU",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "54546",
+   "Nombre": "MARTIN PENA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46463",
+   "Nombre": "FEDERICO MELA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56718",
+   "Nombre": "RAMIRO BENTANCOR",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67490",
+   "Nombre": "LUCAS EDUARDO PEREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63620",
+   "Nombre": "ALEJANDRO MANUEL MIRANDETTE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53588",
+   "Nombre": "DIEGO NICOLAS CAVALLERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "31693",
+   "Nombre": "GASTON COPPOLA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55536",
+   "Jug_Sale": "FACUNDO GABRIEL PRADO",
+   "CarneEntra": "66456",
+   "Jug_Entra": "GERARDO SEBASTIAN GULARTE",
+   "camiseta": "13",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "26563",
+   "Jug_Sale": "EDGARDO NOVO",
+   "CarneEntra": "67688",
+   "Jug_Entra": "LUCAS DE RITIS",
+   "camiseta": "7",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "51584",
+   "Jug_Sale": "RENZO ADRIAN CICCARIELLO",
+   "CarneEntra": "42739",
+   "Jug_Entra": "GONZALO GABRIEL BIANCHI",
+   "camiseta": "19",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "52165",
+   "Jug_Sale": "ALFONSO GARCIA",
+   "CarneEntra": "57123",
+   "Jug_Entra": "PABLO FERREIRA",
+   "camiseta": "8",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "49080",
+   "Jug_Sale": "IGNACIO MOUGAN",
+   "CarneEntra": "47278",
+   "Jug_Entra": "CHRISTIAN GABRIEL MONTEDEOCAR",
+   "camiseta": "4",
+   "minutos": "71"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54546",
+   "Jug_Sale": "MARTIN PENA",
+   "CarneEntra": "40883",
+   "Jug_Entra": "GONZALO SISMONDI",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63620",
+   "Jug_Sale": "ALEJANDRO MANUEL MIRANDETTE",
+   "CarneEntra": "67259",
+   "Jug_Entra": "MANUEL NICOLAS TELIZ",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31693",
+   "Jug_Sale": "GASTON COPPOLA",
+   "CarneEntra": "68660",
+   "Jug_Entra": "RENATO LUZARDO",
+   "camiseta": "24",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67490",
+   "Jug_Sale": "LUCAS EDUARDO PEREZ",
+   "CarneEntra": "63643",
+   "Jug_Entra": "MATEO FAULORD",
+   "camiseta": "18",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64200",
+   "Jug_Sale": "MATEO NICOLAS CORRENGGIA",
+   "CarneEntra": "37313",
+   "Jug_Entra": "AGUSTIN DANIEL GOROSTIDI",
+   "camiseta": "13",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "50924",
+   "Jug_Sale": "FRANCO STELLA",
+   "CarneEntra": "68656",
+   "Jug_Entra": "JULIAN SANCHEZ",
+   "camiseta": "77",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "53588",
+   "Jug_Sale": "DIEGO NICOLAS CAVALLERO",
+   "CarneEntra": "63593",
+   "Jug_Entra": "AGUSTIN ALEXANDER SERNA",
+   "camiseta": "19",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48308",
+   "Nombre": "GASTON MAZZO",
+   "minutos": "76",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46463",
+   "Nombre": "FEDERICO MELA",
+   "minutos": "4",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63643",
+   "Nombre": "MATEO FAULORD",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67259",
+   "Nombre": "MANUEL NICOLAS TELIZ",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67490",
+   "Nombre": "LUCAS EDUARDO PEREZ",
+   "minutos": "43",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

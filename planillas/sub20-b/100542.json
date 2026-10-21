@@ -1,0 +1,276 @@
+{
+ "id": "100542",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "DEPORTIVO LS UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "204",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-27 15:30:00",
+  "Fecha_fin": "2026-06-27 15:30:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56441",
+   "Nombre": "IGNACIO PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55402",
+   "Nombre": "GUILLERMO PAGANI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56445",
+   "Nombre": "AGUSTIN ANTONIO FRANCESE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59715",
+   "Nombre": "AGUSTIN SECO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "56451",
+   "Nombre": "JUAN BAUTISTA RUIZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59383",
+   "Nombre": "MANUEL QUARTINO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53297",
+   "Nombre": "BENJAMIN SOBRINO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59394",
+   "Nombre": "MARTIN MORRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "57607",
+   "Nombre": "DILAN AGUSTIN TORRES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53309",
+   "Nombre": "LUCIO GUALANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53315",
+   "Nombre": "SANTIAGO CIOFFI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60866",
+   "Nombre": "SANTINO SALAVERRY",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56930",
+   "Nombre": "LAUTARO PERDOMO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "59424",
+   "Nombre": "FACUNDO TOMAS GARCIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59396",
+   "Nombre": "KEVIN NICOLAS BARRERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59434",
+   "Nombre": "IGNACIO HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56800",
+   "Nombre": "ELIAS LAUTARO IOVINE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63545",
+   "Nombre": "GONZALO DANIEL GRECIET",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59419",
+   "Nombre": "IMANOL FYNN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59409",
+   "Nombre": "FRANCO LARROSA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "58544",
+   "Nombre": "PATRICIO SANGUINETTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55402",
+   "Jug_Sale": "GUILLERMO PAGANI",
+   "CarneEntra": "68339",
+   "Jug_Entra": "DANILO PREDARI",
+   "camiseta": "16",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "59383",
+   "Jug_Sale": "MANUEL QUARTINO",
+   "CarneEntra": "68245",
+   "Jug_Entra": "RENZO MADAMO",
+   "camiseta": "4",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "59394",
+   "Jug_Sale": "MARTIN MORRA",
+   "CarneEntra": "67308",
+   "Jug_Entra": "PAOLO MITCHELL ELIAS",
+   "camiseta": "43",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59409",
+   "Jug_Sale": "FRANCO LARROSA",
+   "CarneEntra": "63645",
+   "Jug_Entra": "TOMAS DANIEL MARTINEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59434",
+   "Jug_Sale": "IGNACIO HERNANDEZ",
+   "CarneEntra": "59545",
+   "Jug_Entra": "EMILIANO JOAQUIN PAREDES",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59419",
+   "Jug_Sale": "IMANOL FYNN",
+   "CarneEntra": "56926",
+   "Jug_Entra": "MANUEL NICOLAS COSTA",
+   "camiseta": "81",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63545",
+   "Jug_Sale": "GONZALO DANIEL GRECIET",
+   "CarneEntra": "56419",
+   "Jug_Entra": "JUAN MANUEL VERA",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58544",
+   "Jug_Sale": "PATRICIO SANGUINETTI",
+   "CarneEntra": "63545",
+   "Jug_Entra": "GONZALO DANIEL GRECIET",
+   "camiseta": "7",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53315",
+   "Nombre": "SANTIAGO CIOFFI",
+   "minutos": "24",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "minutos": "36",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56419",
+   "Nombre": "JUAN MANUEL VERA",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63645",
+   "Nombre": "TOMAS DANIEL MARTINEZ",
+   "minutos": "92",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "AGUSTIN ANTONIO FRANCESE",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "LAUTARO PERDOMO",
+   "observaciones": ""
+  }
+ ]
+}

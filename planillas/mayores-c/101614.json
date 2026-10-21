@@ -1,0 +1,252 @@
+{
+ "id": "101614",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 12,
+ "fechaHora": "2026-09-06 11:25:00",
+ "cancha": "ACADEMIA",
+ "local": "A.E.B.U",
+ "visitante": "CLUB SOCIAL PIEDRAS BLANCAS",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "333",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "ACADEMIA",
+  "Fecha_Inicio": "2026-09-06 13:16:00",
+  "Fecha_fin": "2026-09-06 13:16:00",
+  "Locatario": "A.E.B.U",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB SOCIAL PIEDRAS BLANCAS",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "48225",
+   "Nombre": "GERMAN CORREA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37147",
+   "Nombre": "SANTIAGO GOMEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "35508",
+   "Nombre": "AGUSTIN CORNU",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "40928",
+   "Nombre": "SANTIAGO SARACHU",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43521",
+   "Nombre": "PABLO JOAQUIN COLINET",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59845",
+   "Nombre": "IGNACIOB SOSA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67657",
+   "Nombre": "ANDRES ADOLFO BANEGA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "49181",
+   "Nombre": "MATEO URIBE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "37229",
+   "Nombre": "MATIAS JOSE RIESTRA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67656",
+   "Nombre": "GUILLERMO ALPUIN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66174",
+   "Nombre": "RODRIGO EZEQUIEL VENIER",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65762",
+   "Nombre": "CHRISTIAN EDUARDO ALTEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "61173",
+   "Nombre": "MARCOS ELEUTERIO ACUÑA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "69030",
+   "Nombre": "ANDRES DAVID MORALES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64065",
+   "Nombre": "EMANUEL DIAZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "54623",
+   "Nombre": "CHRISTIAN LEONARDO SANGUINETTI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "28987",
+   "Nombre": "JONATHAN CAJARAVILLA",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65763",
+   "Nombre": "JESSE JOEL BATISTA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "33350",
+   "Nombre": "SEBASTIAN ANDRES PEÑA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "49841",
+   "Nombre": "ALEXIS DANIEL TROTTA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "33653",
+   "Nombre": "MAICOL ALEXIS COMAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35404",
+   "Nombre": "SANTIAGO GASTON POMBO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43521",
+   "Jug_Sale": "PABLO JOAQUIN COLINET",
+   "CarneEntra": "37292",
+   "Jug_Entra": "RODRIGO SANTOS",
+   "camiseta": "21",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "49181",
+   "Jug_Sale": "MATEO URIBE",
+   "CarneEntra": "67655",
+   "Jug_Entra": "MATIAS ALEJANDRO BRAIDA",
+   "camiseta": "20",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "37229",
+   "Jug_Sale": "MATIAS JOSE RIESTRA",
+   "CarneEntra": "68591",
+   "Jug_Entra": "FRANCO VERA",
+   "camiseta": "27",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33350",
+   "Jug_Sale": "SEBASTIAN ANDRES PEÑA",
+   "CarneEntra": "63712",
+   "Jug_Entra": "LUCAS GABRIEL DE BRUN",
+   "camiseta": "17",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "33653",
+   "Jug_Sale": "MAICOL ALEXIS COMAS",
+   "CarneEntra": "56557",
+   "Jug_Entra": "FRANCO LA BARBERA",
+   "camiseta": "12",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61173",
+   "Jug_Sale": "MARCOS ELEUTERIO ACUÑA",
+   "CarneEntra": "63862",
+   "Jug_Entra": "ITAN ROMAN MANEIRO",
+   "camiseta": "21",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64065",
+   "Jug_Sale": "EMANUEL DIAZ",
+   "CarneEntra": "56546",
+   "Jug_Entra": "MATEO ALEJANDRO BONFANTINI",
+   "camiseta": "7",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35508",
+   "Nombre": "AGUSTIN CORNU",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67656",
+   "Nombre": "GUILLERMO ALPUIN",
+   "minutos": "94",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "65763",
+   "Nombre": "JESSE JOEL BATISTA",
+   "minutos": "23",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

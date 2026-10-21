@@ -1,0 +1,244 @@
+{
+ "id": "101536",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 15:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SANTA ELENA LAGOMAR",
+ "visitante": "ISASA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "209",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-05 17:30:00",
+  "Fecha_fin": "2026-09-05 17:30:00",
+  "Locatario": "SANTA ELENA LAGOMAR",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ISASA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61170",
+   "Nombre": "THIAGO HANDERSSON",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "56495",
+   "Nombre": "BAUTISTA MATEO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57807",
+   "Nombre": "BENJAMIN BARLOCCI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "55586",
+   "Nombre": "IGNACIO MOREIRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56497",
+   "Nombre": "LORENZO ILLIONE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "55645",
+   "Nombre": "GASTON VIERA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65117",
+   "Nombre": "MATEO FEDERICO GALVEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "55737",
+   "Nombre": "AGUSTIN MONZA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61323",
+   "Nombre": "SANTINO MIGUEL VILA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58300",
+   "Nombre": "GUILLERMO MAICHE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "60633",
+   "Nombre": "MIRKO ANGEL IBARBURU",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53537",
+   "Nombre": "MATEO VAZQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64257",
+   "Nombre": "JUAN MARTÌN GRAU",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61977",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56489",
+   "Nombre": "JOAQUIN MUNIZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "66420",
+   "Nombre": "VALENTIN GASPAR QUARNETI",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "58729",
+   "Nombre": "MATIAS CAMACHO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63384",
+   "Nombre": "AGUSTIN YERLE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66447",
+   "Nombre": "FRANCO SEBASTIAN TECHERA",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "56838",
+   "Nombre": "LUCA ALESSANDRO COCINA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59445",
+   "Nombre": "BRUNO ORTEGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55737",
+   "Jug_Sale": "AGUSTIN MONZA",
+   "CarneEntra": "54597",
+   "Jug_Entra": "MAXIMO EXEQUIEL BERGERO",
+   "camiseta": "7",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "57807",
+   "Jug_Sale": "BENJAMIN BARLOCCI",
+   "CarneEntra": "56496",
+   "Jug_Entra": "MANUEL MULA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60633",
+   "Jug_Sale": "MIRKO ANGEL IBARBURU",
+   "CarneEntra": "57455",
+   "Jug_Entra": "DEVIN NOAH SALDAÑA",
+   "camiseta": "17",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66447",
+   "Jug_Sale": "FRANCO SEBASTIAN TECHERA",
+   "CarneEntra": "58731",
+   "Jug_Entra": "JULIAN ALEJANDRO NUÑEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56838",
+   "Jug_Sale": "LUCA ALESSANDRO COCINA",
+   "CarneEntra": "68916",
+   "Jug_Entra": "THIAGO MOMBRU",
+   "camiseta": "32",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "64257",
+   "Jug_Sale": "JUAN MARTÌN GRAU",
+   "CarneEntra": "58730",
+   "Jug_Entra": "JULIAN MARTIN MARMOL",
+   "camiseta": "5",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56497",
+   "Nombre": "LORENZO ILLIONE",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

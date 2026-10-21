@@ -1,0 +1,286 @@
+{
+ "id": "100255",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "OLD IVY",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "200",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-06-20 13:05:00",
+  "Fecha_fin": "2026-06-20 13:05:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "OLD IVY",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44846",
+   "Nombre": "ANTONIO JOSE IRAZOQUI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47104",
+   "Nombre": "MATIAS FLORENCIO",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47675",
+   "Nombre": "MAURICIO DIEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "50494",
+   "Nombre": "ALEJO EZEQUIEL MOSQUERA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "46518",
+   "Nombre": "MAURO GERMAN GRECCO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "43124",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "56033",
+   "Nombre": "ALEXIS DAVID FLORES",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "43339",
+   "Nombre": "THIAGO MAHIA",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40245",
+   "Nombre": "DIEGO FERNANDEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "47826",
+   "Nombre": "JUAN DIEGO AMESTOY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66390",
+   "Nombre": "JOAQUIN SANTINO FERNANDEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "56372",
+   "Nombre": "ALFONSO CARDELINO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "62012",
+   "Nombre": "FRANCISCO FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "48008",
+   "Nombre": "SANTIAGO DABO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "45601",
+   "Nombre": "JUAN BAUTISTA VILLARONGA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54916",
+   "Nombre": "FELIPE VILLARONGA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "47829",
+   "Nombre": "RAFAEL RUBEN GAIMARI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "41720",
+   "Nombre": "MATIAS MENGOT",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50494",
+   "Jug_Sale": "ALEJO EZEQUIEL MOSQUERA",
+   "CarneEntra": "64611",
+   "Jug_Entra": "FEDERICO PITA",
+   "camiseta": "33",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "43124",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "59646",
+   "Jug_Entra": "FABRICIO NICOLAS RAMOS",
+   "camiseta": "80",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "54868",
+   "Jug_Sale": "MAXIMILIANO ROMAY",
+   "CarneEntra": "54068",
+   "Jug_Entra": "JOAQUIN SANTIAGO PERDOMO",
+   "camiseta": "66",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "46518",
+   "Jug_Sale": "MAURO GERMAN GRECCO",
+   "CarneEntra": "53475",
+   "Jug_Entra": "IANN BRUCE COLET",
+   "camiseta": "28",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "56033",
+   "Jug_Sale": "ALEXIS DAVID FLORES",
+   "CarneEntra": "66028",
+   "Jug_Entra": "MATEO AGUSTIN CHAKIYIN",
+   "camiseta": "18",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "47104",
+   "Jug_Sale": "MATIAS FLORENCIO",
+   "CarneEntra": "48970",
+   "Jug_Entra": "SANTIAGO DEL PUERTO",
+   "camiseta": "14",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47829",
+   "Jug_Sale": "RAFAEL RUBEN GAIMARI",
+   "CarneEntra": "62015",
+   "Jug_Entra": "GASTON BARRIOS",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47826",
+   "Jug_Sale": "JUAN DIEGO AMESTOY",
+   "CarneEntra": "52937",
+   "Jug_Entra": "IGNACIO GARCIA",
+   "camiseta": "41",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "54916",
+   "Jug_Sale": "FELIPE VILLARONGA",
+   "CarneEntra": "49685",
+   "Jug_Entra": "JOAQUIN BUYSAN",
+   "camiseta": "31",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "40245",
+   "Jug_Sale": "DIEGO FERNANDEZ",
+   "CarneEntra": "65191",
+   "Jug_Entra": "FRANCISCO BENITEZ",
+   "camiseta": "35",
+   "minutos": "68"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "1",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JUAN BAUTISTA VILLARONGA",
+   "observaciones": ""
+  }
+ ]
+}

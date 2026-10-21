@@ -1,0 +1,285 @@
+{
+ "id": "100612",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "COLEGIO SANTA ELENA",
+ "visitante": "OLD CHRISTIANS VERDE",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "205",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-06-27 13:20:00",
+  "Fecha_fin": "2026-06-27 13:20:00",
+  "Locatario": "COLEGIO SANTA ELENA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS VERDE",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60725",
+   "Nombre": "ALESSANDRO EZEQUIEL PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62652",
+   "Nombre": "NAHUEL SILVA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "50889",
+   "Nombre": "IGNACIO VIÑAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "45390",
+   "Nombre": "MATHIAS PILIPAUSKAS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54752",
+   "Nombre": "EMILIANO FRANCISCO MORALES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "63710",
+   "Nombre": "DIEGO ALEJANDRO RECARTE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "58170",
+   "Nombre": "EMILIANO NAHUEL PEREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56435",
+   "Nombre": "AGUSTIN CAMPODONICO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53403",
+   "Nombre": "DIEGO FERNANDO AGUILERA",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51322",
+   "Nombre": "JUAN MANUEL HERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58402",
+   "Nombre": "LAUTARO GUIDO",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46366",
+   "Nombre": "IGNACIO MESIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35673",
+   "Nombre": "ALBERTO JERONIMO NOGUERA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67388",
+   "Nombre": "SANTIAGO BERTORELLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51736",
+   "Nombre": "PEDRO HINSCH",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "53757",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "44029",
+   "Nombre": "TOMAS SANTIAGO SLINGER",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "49487",
+   "Nombre": "FACUNDO MARTIN CRUCE",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "60425",
+   "Nombre": "FACUNDO STURLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53976",
+   "Nombre": "MATEO STORACE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39754",
+   "Nombre": "JOAQUIN FEDERICO SLINGER",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "55214",
+   "Nombre": "BAUTISTA RAFAEL LADOUX",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58170",
+   "Jug_Sale": "EMILIANO NAHUEL PEREZ",
+   "CarneEntra": "32511",
+   "Jug_Entra": "MATHIAS TORRES",
+   "camiseta": "10",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56435",
+   "Jug_Sale": "AGUSTIN CAMPODONICO",
+   "CarneEntra": "54884",
+   "Jug_Entra": "NAHUEL LOPEZ",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "45390",
+   "Jug_Sale": "MATHIAS PILIPAUSKAS",
+   "CarneEntra": "49174",
+   "Jug_Entra": "EMILIANO MATIAS PACIELLO",
+   "camiseta": "11",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "63710",
+   "Jug_Sale": "DIEGO ALEJANDRO RECARTE",
+   "CarneEntra": "58170",
+   "Jug_Entra": "EMILIANO NAHUEL PEREZ",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "50889",
+   "Jug_Sale": "IGNACIO VIÑAS",
+   "CarneEntra": "56435",
+   "Jug_Entra": "AGUSTIN CAMPODONICO",
+   "camiseta": "10",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67388",
+   "Jug_Sale": "SANTIAGO BERTORELLI",
+   "CarneEntra": "52623",
+   "Jug_Entra": "ALEJO PARODI",
+   "camiseta": "12",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "53976",
+   "Jug_Sale": "MATEO STORACE",
+   "CarneEntra": "56746",
+   "Jug_Entra": "JOAQUIN REINANTE",
+   "camiseta": "3",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "60425",
+   "Jug_Sale": "FACUNDO STURLA",
+   "CarneEntra": "54878",
+   "Jug_Entra": "SANTIAGO MOREIRA",
+   "camiseta": "9",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "39754",
+   "Jug_Sale": "JOAQUIN FEDERICO SLINGER",
+   "CarneEntra": "48580",
+   "Jug_Entra": "JUAN PABLO FERNANDEZ",
+   "camiseta": "5",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "55214",
+   "Jug_Sale": "BAUTISTA RAFAEL LADOUX",
+   "CarneEntra": "52966",
+   "Jug_Entra": "LUCAS FRANCISCO PRESSO",
+   "camiseta": "11",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53403",
+   "Nombre": "DIEGO FERNANDO AGUILERA",
+   "minutos": "9",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "35673",
+   "Nombre": "ALBERTO JERONIMO NOGUERA",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49487",
+   "Nombre": "FACUNDO MARTIN CRUCE",
+   "minutos": "58",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "NAHUEL SILVA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "LAUTARO GUIDO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

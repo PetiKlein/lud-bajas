@@ -1,0 +1,307 @@
+{
+ "id": "98919",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 5,
+ "fechaHora": "2026-05-17 09:00:00",
+ "cancha": "COMPLEJO INGENIERO DEL CAMPO",
+ "local": "DANUBIO FUTBOL CLUB",
+ "visitante": "WOLFRAMIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "277",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO INGENIERO DEL CAMPO",
+  "Fecha_Inicio": "2026-05-17 11:00:00",
+  "Fecha_fin": "2026-05-17 11:00:00",
+  "Locatario": "DANUBIO FUTBOL CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "WOLFRAMIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54040",
+   "Nombre": "FELIPE MIÑOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39619",
+   "Nombre": "CRISTHIAN AGUSTIN ANADON",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58614",
+   "Nombre": "DIEGO ALLENDE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67591",
+   "Nombre": "JOSE LUIS MONTAÑES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59163",
+   "Nombre": "FEDERICO ISMAEL MENDOZA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62542",
+   "Nombre": "FERNANDO ISMAEL MARTINEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "40962",
+   "Nombre": "JUAN MANUEL MARQUES",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58584",
+   "Nombre": "GABRIEL TOLEDO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "39775",
+   "Nombre": "MARTIN REY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54780",
+   "Nombre": "ESTEBAN DANIEL VAZQUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62347",
+   "Nombre": "JUAN MATEO LARREA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64460",
+   "Nombre": "JOSE JOAQUIN CUADRADO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64859",
+   "Nombre": "GONZALO FERREIRA",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "43818",
+   "Nombre": "JOSE NICOLAS BESSON",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54706",
+   "Nombre": "JUAN DIEGO SUNDBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "51268",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "45611",
+   "Nombre": "FRANCISCO FERREIRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64457",
+   "Nombre": "EMILIANO TORT",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "46882",
+   "Nombre": "AGUSTIN BURIAN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "46445",
+   "Nombre": "GERMAN ODONNELL MORALES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58707",
+   "Nombre": "GUZMAN MAZZEI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67001",
+   "Nombre": "GERVASIO MUÑOZ",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62347",
+   "Jug_Sale": "JUAN MATEO LARREA",
+   "CarneEntra": "52961",
+   "Jug_Entra": "MATIAS GERMAN ALVAREZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40962",
+   "Jug_Sale": "JUAN MANUEL MARQUES",
+   "CarneEntra": "44036",
+   "Jug_Entra": "ANDRES DE FREITES",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67591",
+   "Jug_Sale": "JOSE LUIS MONTAÑES",
+   "CarneEntra": "61361",
+   "Jug_Entra": "NAHUEL EZEQUIEL PEDRANZINI",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "54780",
+   "Jug_Sale": "ESTEBAN DANIEL VAZQUEZ",
+   "CarneEntra": "42691",
+   "Jug_Entra": "MAXIMILIANO MUNDIN",
+   "camiseta": "21",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "58614",
+   "Jug_Sale": "DIEGO ALLENDE",
+   "CarneEntra": "54393",
+   "Jug_Entra": "KEVIN SEBASTIAN LUDUEÑA",
+   "camiseta": "17",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "45611",
+   "Jug_Sale": "FRANCISCO FERREIRA",
+   "CarneEntra": "42746",
+   "Jug_Entra": "SANTIAGO SORRIBAS",
+   "camiseta": "44",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "51268",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "38351",
+   "Jug_Entra": "FACUNDO SORRIBAS",
+   "camiseta": "14",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "46882",
+   "Jug_Sale": "AGUSTIN BURIAN",
+   "CarneEntra": "56034",
+   "Jug_Entra": "AGUSTIN MENDES",
+   "camiseta": "6",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58707",
+   "Jug_Sale": "GUZMAN MAZZEI",
+   "CarneEntra": "67262",
+   "Jug_Entra": "MARCELO FEDERICO BERNI",
+   "camiseta": "15",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "67001",
+   "Jug_Sale": "GERVASIO MUÑOZ",
+   "CarneEntra": "67002",
+   "Jug_Entra": "VICENTE RICAGNI",
+   "camiseta": "47",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64859",
+   "Jug_Sale": "GONZALO FERREIRA",
+   "CarneEntra": "36328",
+   "Jug_Entra": "MARTIN BRUSCHERA",
+   "camiseta": "31",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "46445",
+   "Jug_Sale": "GERMAN ODONNELL MORALES",
+   "CarneEntra": "52078",
+   "Jug_Entra": "JUAN IGNACIO MENDEZ",
+   "camiseta": "99",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "39775",
+   "Nombre": "MARTIN REY",
+   "minutos": "88",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52961",
+   "Nombre": "MATIAS GERMAN ALVAREZ",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58707",
+   "Nombre": "GUZMAN MAZZEI",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58707",
+   "Nombre": "GUZMAN MAZZEI",
+   "minutos": "64",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GABRIEL TOLEDO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "FERNANDO ISMAEL MARTINEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

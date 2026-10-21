@@ -1,0 +1,310 @@
+{
+ "id": "101249",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 15:30:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "CLUB SOC. y DEP. LA CHISPA",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "267",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-08-29 17:30:00",
+  "Fecha_fin": "2026-08-29 17:30:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB SOC. y DEP. LA CHISPA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56415",
+   "Nombre": "LUCAS AGUSTIN CACERES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59761",
+   "Nombre": "BRUNO LAVIE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59555",
+   "Nombre": "JUAN MANUEL BIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64219",
+   "Nombre": "GASTON MARTINEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60337",
+   "Nombre": "MATEO GLISENTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62420",
+   "Nombre": "MATIAS LABORDE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "66778",
+   "Nombre": "SANTIAGO MACEDO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "54757",
+   "Nombre": "LUIS IGNACIO MATTERA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60554",
+   "Nombre": "JUAN PATRICIO MOSCA",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57685",
+   "Nombre": "KAEL LUZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "68828",
+   "Nombre": "THIAGO MARIN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "68698",
+   "Nombre": "MATIAS MACHADO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67534",
+   "Nombre": "BYRON QUILIMAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68890",
+   "Nombre": "RICARDO TESORE",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "68695",
+   "Nombre": "JEAN PIERRE MACHADO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67524",
+   "Nombre": "LUCAS GALIANO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "69006",
+   "Nombre": "WAGNER VAZQUES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "69033",
+   "Nombre": "AXEL GUSTAVO FRANCISCO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "69007",
+   "Nombre": "KEVIN FERNANDEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "68213",
+   "Nombre": "MAXIMILIANO SOTO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66778",
+   "Jug_Sale": "SANTIAGO MACEDO",
+   "CarneEntra": "67887",
+   "Jug_Entra": "SANTINO DE COLA",
+   "camiseta": "18",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "59761",
+   "Jug_Sale": "BRUNO LAVIE",
+   "CarneEntra": "56180",
+   "Jug_Entra": "SANTIAGO DE OLEA",
+   "camiseta": "86",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "54757",
+   "Jug_Sale": "LUIS IGNACIO MATTERA",
+   "CarneEntra": "64236",
+   "Jug_Entra": "NICOLAS KRUL",
+   "camiseta": "19",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "62420",
+   "Jug_Sale": "MATIAS LABORDE",
+   "CarneEntra": "66610",
+   "Jug_Entra": "FRANCO MAISSONAVE",
+   "camiseta": "81",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "59563",
+   "Jug_Sale": "FEDERICO GUICHON",
+   "CarneEntra": "62873",
+   "Jug_Entra": "MATEO AGUSTIN ARDENTE",
+   "camiseta": "60",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56305",
+   "Jug_Sale": "FRANCO GLISENTI",
+   "CarneEntra": "56611",
+   "Jug_Entra": "SEBASTIAN SAR",
+   "camiseta": "69",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "60554",
+   "Jug_Sale": "JUAN PATRICIO MOSCA",
+   "CarneEntra": "66525",
+   "Jug_Entra": "MATIAS QUEIJO",
+   "camiseta": "32",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "69006",
+   "Jug_Sale": "WAGNER VAZQUES",
+   "CarneEntra": "67528",
+   "Jug_Entra": "NICOLAS SAAVEDRA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68828",
+   "Jug_Sale": "THIAGO MARIN",
+   "CarneEntra": "67530",
+   "Jug_Entra": "FRANCISCO SUAREZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "69033",
+   "Jug_Sale": "AXEL GUSTAVO FRANCISCO",
+   "CarneEntra": "68828",
+   "Jug_Entra": "THIAGO MARIN",
+   "camiseta": "16",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "69007",
+   "Jug_Sale": "KEVIN FERNANDEZ",
+   "CarneEntra": "69008",
+   "Jug_Entra": "MATIAS IVAN FLEITAS",
+   "camiseta": "13",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67534",
+   "Jug_Sale": "BYRON QUILIMAS",
+   "CarneEntra": "69006",
+   "Jug_Entra": "WAGNER VAZQUES",
+   "camiseta": "18",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54757",
+   "Nombre": "LUIS IGNACIO MATTERA",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "minutos": "72",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60554",
+   "Nombre": "JUAN PATRICIO MOSCA",
+   "minutos": "70",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67528",
+   "Nombre": "NICOLAS SAAVEDRA",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

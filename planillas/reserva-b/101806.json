@@ -1,0 +1,271 @@
+{
+ "id": "101806",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "ELBIO FERNANDEZ",
+ "local": "ELBIO FERNANDEZ",
+ "visitante": "OLD CHRISTIANS VERDE",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "222",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "ELBIO FERNANDEZ",
+  "Fecha_Inicio": "2026-09-12 13:12:00",
+  "Fecha_fin": "2026-09-12 13:12:00",
+  "Locatario": "ELBIO FERNANDEZ",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "OLD CHRISTIANS VERDE",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59480",
+   "Nombre": "ENZO LEON FREYER",
+   "camiseta": "57",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51278",
+   "Nombre": "GUILLERMO AGUSTIN BELANDO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "55630",
+   "Nombre": "SEBASTIAN ALEXIS YANES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67240",
+   "Nombre": "JUAN MARTIN FAUST",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49808",
+   "Nombre": "BRUNO FERNANDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49781",
+   "Nombre": "TADEO BERTOLOTTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "44165",
+   "Nombre": "FEDERICO ABDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47916",
+   "Nombre": "MARTIN MENDEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68491",
+   "Nombre": "MARCOS SEIGAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67388",
+   "Nombre": "SANTIAGO BERTORELLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "35673",
+   "Nombre": "ALBERTO JERONIMO NOGUERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52623",
+   "Nombre": "ALEJO PARODI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "51736",
+   "Nombre": "PEDRO HINSCH",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "44029",
+   "Nombre": "TOMAS SANTIAGO SLINGER",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "37067",
+   "Nombre": "TOMAS BERRO",
+   "camiseta": "93",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49487",
+   "Nombre": "FACUNDO MARTIN CRUCE",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "56746",
+   "Nombre": "JOAQUIN REINANTE",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "39754",
+   "Nombre": "JOAQUIN FEDERICO SLINGER",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "55214",
+   "Nombre": "BAUTISTA RAFAEL LADOUX",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67240",
+   "Jug_Sale": "JUAN MARTIN FAUST",
+   "CarneEntra": "51793",
+   "Jug_Entra": "GERONIMO BREMERMANN",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55630",
+   "Jug_Sale": "SEBASTIAN ALEXIS YANES",
+   "CarneEntra": "43748",
+   "Jug_Entra": "MATHIAS LUIS BOZZOLASCO",
+   "camiseta": "12",
+   "minutos": "47"
+  },
+  {
+   "CarneSale": "44165",
+   "Jug_Sale": "FEDERICO ABDO",
+   "CarneEntra": "52014",
+   "Jug_Entra": "MARTIN SORIA",
+   "camiseta": "14",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "57184",
+   "Jug_Sale": "MARCO ESTEBAN TORIELLI",
+   "CarneEntra": "51004",
+   "Jug_Entra": "AGUSTIN NICOLAS CHARLO",
+   "camiseta": "5",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "47916",
+   "Jug_Sale": "MARTIN MENDEZ",
+   "CarneEntra": "66361",
+   "Jug_Entra": "MAXIMILIANO RATTO",
+   "camiseta": "19",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "49781",
+   "Jug_Sale": "TADEO BERTOLOTTI",
+   "CarneEntra": "52135",
+   "Jug_Entra": "LUCAS FONTES",
+   "camiseta": "13",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "51793",
+   "Jug_Sale": "GERONIMO BREMERMANN",
+   "CarneEntra": "67243",
+   "Jug_Entra": "SEBASTIAN ROSSO",
+   "camiseta": "6",
+   "minutos": "98"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49487",
+   "Jug_Sale": "FACUNDO MARTIN CRUCE",
+   "CarneEntra": "60425",
+   "Jug_Entra": "FACUNDO STURLA",
+   "camiseta": "2",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "67388",
+   "Jug_Sale": "SANTIAGO BERTORELLI",
+   "CarneEntra": "53757",
+   "Jug_Entra": "JOAQUIN FERNANDEZ",
+   "camiseta": "23",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "37067",
+   "Jug_Sale": "TOMAS BERRO",
+   "CarneEntra": "54878",
+   "Jug_Entra": "SANTIAGO MOREIRA",
+   "camiseta": "9",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "39754",
+   "Jug_Sale": "JOAQUIN FEDERICO SLINGER",
+   "CarneEntra": "52966",
+   "Jug_Entra": "LUCAS FRANCISCO PRESSO",
+   "camiseta": "34",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "minutos": "20",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

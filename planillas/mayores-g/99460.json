@@ -1,0 +1,299 @@
+{
+ "id": "99460",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 7,
+ "fechaHora": "2026-05-31 11:15:00",
+ "cancha": "CAMPUS DEL OESTE",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "APENAS UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "769",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "CAMPUS DEL OESTE",
+  "Fecha_Inicio": "2026-05-31 13:20:00",
+  "Fecha_fin": "2026-05-31 13:20:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "APENAS UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59350",
+   "Nombre": "GASTON NUÑEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56670",
+   "Nombre": "FEDERICO SALVA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55113",
+   "Nombre": "FRANCISCO FERREYRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56013",
+   "Nombre": "LEANDRO DELFINO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "47861",
+   "Nombre": "FRANCO DE LOS SANTOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49161",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57338",
+   "Nombre": "AKEEM JORGE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "55117",
+   "Nombre": "GUILLERMO VALLE LISBOA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47785",
+   "Nombre": "FILIPPO RADICCIONI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "63380",
+   "Nombre": "JUAN LENA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "camiseta": "90",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66171",
+   "Nombre": "LAUTARO RIVERO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63979",
+   "Nombre": "AGUSTIN ARBIZA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "49003",
+   "Nombre": "SANTIAGO DELLACQUA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64452",
+   "Nombre": "BRUNO MATHIAS AIRES",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64155",
+   "Nombre": "GONZALO DIAZ",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "32393",
+   "Nombre": "GASTON ROBERTO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "41376",
+   "Nombre": "GASTON NAPOLI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "49322",
+   "Nombre": "JOAQUIN SAAVEDRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "38000",
+   "Nombre": "AGUSTIN MINUTTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66464",
+   "Nombre": "GERMAN CIBILS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "63692",
+   "Nombre": "TOMAS ANGELO LATRONICO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63380",
+   "Jug_Sale": "JUAN LENA",
+   "CarneEntra": "46034",
+   "Jug_Entra": "APARICIO PEDRO MACHADO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47785",
+   "Jug_Sale": "FILIPPO RADICCIONI",
+   "CarneEntra": "47999",
+   "Jug_Entra": "DIEGO BOUZON",
+   "camiseta": "32",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "57338",
+   "Jug_Sale": "AKEEM JORGE",
+   "CarneEntra": "60732",
+   "Jug_Entra": "SEBASTIAN LAPORTE",
+   "camiseta": "19",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "48010",
+   "Jug_Sale": "FABRICIO VERDIAS",
+   "CarneEntra": "56987",
+   "Jug_Entra": "ALVARO MARQUEZ",
+   "camiseta": "16",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "47861",
+   "Jug_Sale": "FRANCO DE LOS SANTOS",
+   "CarneEntra": "45830",
+   "Jug_Entra": "MATEO ALFONSO ORDOÑEZ",
+   "camiseta": "23",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "55117",
+   "Jug_Sale": "GUILLERMO VALLE LISBOA",
+   "CarneEntra": "52973",
+   "Jug_Entra": "MATIAS LEONARDO ALVES",
+   "camiseta": "29",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "49161",
+   "Jug_Sale": "MATEO RODRIGUEZ",
+   "CarneEntra": "46422",
+   "Jug_Entra": "GONZALO IÑAKI DE PENA",
+   "camiseta": "8",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63979",
+   "Jug_Sale": "AGUSTIN ARBIZA",
+   "CarneEntra": "66392",
+   "Jug_Entra": "AGUSTIN PEREYRA",
+   "camiseta": "94",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49322",
+   "Jug_Sale": "JOAQUIN SAAVEDRA",
+   "CarneEntra": "68423",
+   "Jug_Entra": "VALENTINO RODRIGUEZ",
+   "camiseta": "99",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "63692",
+   "Jug_Sale": "TOMAS ANGELO LATRONICO",
+   "CarneEntra": "37503",
+   "Jug_Entra": "NICOLAS RODRIGO BRANDI",
+   "camiseta": "10",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "41376",
+   "Jug_Sale": "GASTON NAPOLI",
+   "CarneEntra": "48249",
+   "Jug_Entra": "PABLO EZEQUIEL GOMEZ",
+   "camiseta": "41",
+   "minutos": "68"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49161",
+   "Nombre": "MATEO RODRIGUEZ",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "38000",
+   "Nombre": "AGUSTIN MINUTTI",
+   "minutos": "37",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66464",
+   "Nombre": "GERMAN CIBILS",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "GASTON NAPOLI",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "SANTIAGO DELLACQUA",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "id": "100467",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "CEIBOS CLUB",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "85",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-06-27 11:00:00",
+  "Fecha_fin": "2026-06-27 11:00:00",
+  "Locatario": "CEIBOS CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68416",
+   "Nombre": "FACUNDO DARIO SOUZA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53926",
+   "Nombre": "JUAN MARTIN CABRERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "41651",
+   "Nombre": "JOSE MIGUEL MARTIRENA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "41605",
+   "Nombre": "NICOLAS MURO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "43274",
+   "Nombre": "RAFAEL MONESTIER",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "32388",
+   "Nombre": "AGUSTIN CALVO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "22639",
+   "Nombre": "SANTIAGO MARIA GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "41411",
+   "Nombre": "JOAQUIN ALEJANDRO GOMEZ",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46925",
+   "Nombre": "ATILIO FRANCISCO NARANCIO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23902",
+   "Nombre": "ENRIQUE MARTIN BOIX",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63459",
+   "Nombre": "PATRICIO MENGOT",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59470",
+   "Nombre": "FABRICIO OLIVERA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "29671",
+   "Nombre": "MARTIN GUSTAVO GUERRA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "33559",
+   "Nombre": "JULIO ALEXANDER GURIDI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "48390",
+   "Nombre": "GERONIMO ALVARES",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "47413",
+   "Nombre": "LUCAS MARTIN VILLARONGA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "37272",
+   "Nombre": "JUAN LUIS IRULEGUY",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "54584",
+   "Nombre": "BENJAMIN CAPELLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "47508",
+   "Nombre": "HERNAN HARDOY",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "49032",
+   "Nombre": "LUIS GONZALO VARGAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "41581",
+   "Nombre": "ALFONSO SIMETO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "53930",
+   "Nombre": "MAXIMO RICARDO SEIZER",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46925",
+   "Jug_Sale": "ATILIO FRANCISCO NARANCIO",
+   "CarneEntra": "51136",
+   "Jug_Entra": "JOAQUIN NARANCIO",
+   "camiseta": "21",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "23902",
+   "Jug_Sale": "ENRIQUE MARTIN BOIX",
+   "CarneEntra": "43260",
+   "Jug_Entra": "JUAN DIEGO TORRES NEGREIRA",
+   "camiseta": "10",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "41411",
+   "Jug_Sale": "JOAQUIN ALEJANDRO GOMEZ",
+   "CarneEntra": "54407",
+   "Jug_Entra": "FRANCISCO ETCHEGOIMBERRY",
+   "camiseta": "4",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37272",
+   "Jug_Sale": "JUAN LUIS IRULEGUY",
+   "CarneEntra": "39036",
+   "Jug_Entra": "MANUEL LEIVA",
+   "camiseta": "5",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "49032",
+   "Jug_Sale": "LUIS GONZALO VARGAS",
+   "CarneEntra": "45241",
+   "Jug_Entra": "JUAN FERMIN REMEDI",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "53930",
+   "Jug_Sale": "MAXIMO RICARDO SEIZER",
+   "CarneEntra": "54580",
+   "Jug_Entra": "JUAN CARLOS VIDIELLA",
+   "camiseta": "49",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "41581",
+   "Jug_Sale": "ALFONSO SIMETO",
+   "CarneEntra": "54590",
+   "Jug_Entra": "ALFONSO MAILHOS",
+   "camiseta": "30",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "29671",
+   "Jug_Sale": "MARTIN GUSTAVO GUERRA",
+   "CarneEntra": "34986",
+   "Jug_Entra": "FELIPE ANTONIO AZADIAN",
+   "camiseta": "17",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "54584",
+   "Jug_Sale": "BENJAMIN CAPELLI",
+   "CarneEntra": "39223",
+   "Jug_Entra": "SEBASTIAN OTTO MATSCHULAT",
+   "camiseta": "64",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "48390",
+   "Jug_Sale": "GERONIMO ALVARES",
+   "CarneEntra": "54586",
+   "Jug_Entra": "FRANCISCO SCASSO",
+   "camiseta": "74",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "41581",
+   "Nombre": "ALFONSO SIMETO",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45241",
+   "Nombre": "JUAN FERMIN REMEDI",
+   "minutos": "89",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53930",
+   "Nombre": "MAXIMO RICARDO SEIZER",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

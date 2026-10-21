@@ -1,0 +1,278 @@
+{
+ "id": "100553",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "BODY FACTORY",
+ "visitante": "SUDAMERICA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "566",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-28 11:00:00",
+  "Fecha_fin": "2026-06-28 11:00:00",
+  "Locatario": "BODY FACTORY",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "SUDAMERICA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61129",
+   "Nombre": "LUIS MIGUEL MORA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67303",
+   "Nombre": "DANIEL ANDRES NOVO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "44961",
+   "Nombre": "WALTER RENZO SERVETTI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "43511",
+   "Nombre": "FABIAN AUGUSTO SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60127",
+   "Nombre": "NAHUEL VIERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52329",
+   "Nombre": "DIEGO ENRIQUE EMENS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "47286",
+   "Nombre": "CLAUDIO MAXIMILIANO RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41743",
+   "Nombre": "LUCAS EXEQUIEL DIANESSI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "43506",
+   "Nombre": "IGNACIO PAIS",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "39998",
+   "Nombre": "BRANDON MAVERINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64962",
+   "Nombre": "JUAN BAUTISTA MENDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63812",
+   "Nombre": "ANDRES OLIVERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65969",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "40257",
+   "Nombre": "ROQUE MARTIN ANDRADA",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54089",
+   "Nombre": "PABLO GOROSO",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "62441",
+   "Nombre": "BRIAN ANTHONY PEREZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "64961",
+   "Nombre": "JUAN PABLO ALVAREZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "63103",
+   "Nombre": "CAETANO MATEO SPANO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "62438",
+   "Nombre": "FACUNDO BARRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63102",
+   "Nombre": "BENJAMIN ACOSTA",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "44638",
+   "Nombre": "WALTER SANTIAGO SEGOVIA",
+   "camiseta": "44",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41743",
+   "Jug_Sale": "LUCAS EXEQUIEL DIANESSI",
+   "CarneEntra": "35440",
+   "Jug_Entra": "DIEGO MARTIN BEGUE",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44961",
+   "Jug_Sale": "WALTER RENZO SERVETTI",
+   "CarneEntra": "68878",
+   "Jug_Entra": "EMILIANO NERES",
+   "camiseta": "91",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67303",
+   "Jug_Sale": "DANIEL ANDRES NOVO",
+   "CarneEntra": "67711",
+   "Jug_Entra": "ISMAEL DESCALZI",
+   "camiseta": "33",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "47286",
+   "Jug_Sale": "CLAUDIO MAXIMILIANO RODRIGUEZ",
+   "CarneEntra": "42480",
+   "Jug_Entra": "FACUNDO ABAD",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "43511",
+   "Jug_Sale": "FABIAN AUGUSTO SUAREZ",
+   "CarneEntra": "44017",
+   "Jug_Entra": "EDUARDO LUIS SUAREZ",
+   "camiseta": "48",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "64072",
+   "Jug_Sale": "CHARLES GASTON BORBAS",
+   "CarneEntra": "41743",
+   "Jug_Entra": "LUCAS EXEQUIEL DIANESSI",
+   "camiseta": "10",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63102",
+   "Jug_Sale": "BENJAMIN ACOSTA",
+   "CarneEntra": "57061",
+   "Jug_Entra": "CLAUDIO ABOAL",
+   "camiseta": "51",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "64961",
+   "Jug_Sale": "JUAN PABLO ALVAREZ",
+   "CarneEntra": "40236",
+   "Jug_Entra": "SANTIAGO MARTINEZ",
+   "camiseta": "37",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "63103",
+   "Jug_Sale": "CAETANO MATEO SPANO",
+   "CarneEntra": "56949",
+   "Jug_Entra": "FREDERICK EMANUEL LEITES",
+   "camiseta": "9",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "54089",
+   "Jug_Sale": "PABLO GOROSO",
+   "CarneEntra": "56355",
+   "Jug_Entra": "IVAN VLADIMIR HERNANDEZ",
+   "camiseta": "8",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "62438",
+   "Jug_Sale": "FACUNDO BARRO",
+   "CarneEntra": "63103",
+   "Jug_Entra": "CAETANO MATEO SPANO",
+   "camiseta": "50",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "42480",
+   "Nombre": "FACUNDO ABAD",
+   "minutos": "63",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57061",
+   "Nombre": "CLAUDIO ABOAL",
+   "minutos": "94",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

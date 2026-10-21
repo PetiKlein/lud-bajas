@@ -1,0 +1,247 @@
+{
+ "id": "102490",
+ "categoria": "sub20-b",
+ "serie": "20BTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 15:30:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "DEPORTIVO LS UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "421",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"B\" TITULO",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-10-03 17:15:00",
+  "Fecha_fin": "2026-10-03 17:15:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53537",
+   "Nombre": "MATEO VAZQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64257",
+   "Nombre": "JUAN MARTÌN GRAU",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "56489",
+   "Nombre": "JOAQUIN MUNIZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61977",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "57805",
+   "Nombre": "MATEO UBERTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58729",
+   "Nombre": "MATIAS CAMACHO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63384",
+   "Nombre": "AGUSTIN YERLE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68916",
+   "Nombre": "THIAGO MOMBRU",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "56838",
+   "Nombre": "LUCA ALESSANDRO COCINA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59445",
+   "Nombre": "BRUNO ORTEGA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "56668",
+   "Nombre": "TADDEO BASSI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60866",
+   "Nombre": "SANTINO SALAVERRY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59396",
+   "Nombre": "KEVIN NICOLAS BARRERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59545",
+   "Nombre": "EMILIANO JOAQUIN PAREDES",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59424",
+   "Nombre": "FACUNDO TOMAS GARCIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "63703",
+   "Nombre": "MATHIAS AGUSTIN LOPEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56800",
+   "Nombre": "ELIAS LAUTARO IOVINE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61020",
+   "Nombre": "GONZALO HUERTAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56419",
+   "Nombre": "JUAN MANUEL VERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63545",
+   "Nombre": "GONZALO DANIEL GRECIET",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58544",
+   "Nombre": "PATRICIO SANGUINETTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64257",
+   "Jug_Sale": "JUAN MARTÌN GRAU",
+   "CarneEntra": "66420",
+   "Jug_Entra": "VALENTIN GASPAR QUARNETI",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59445",
+   "Jug_Sale": "BRUNO ORTEGA",
+   "CarneEntra": "58731",
+   "Jug_Entra": "JULIAN ALEJANDRO NUÑEZ",
+   "camiseta": "8",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63384",
+   "Jug_Sale": "AGUSTIN YERLE",
+   "CarneEntra": "68033",
+   "Jug_Entra": "FRANCO MARTINEZ",
+   "camiseta": "3",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "56489",
+   "Jug_Sale": "JOAQUIN MUNIZ",
+   "CarneEntra": "62779",
+   "Jug_Entra": "MIRKO DAMIAN MALAN",
+   "camiseta": "7",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61020",
+   "Jug_Sale": "GONZALO HUERTAS",
+   "CarneEntra": "63645",
+   "Jug_Entra": "TOMAS DANIEL MARTINEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63545",
+   "Jug_Sale": "GONZALO DANIEL GRECIET",
+   "CarneEntra": "58965",
+   "Jug_Entra": "SEBASTIAN SANGUINETT",
+   "camiseta": "31",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "59424",
+   "Jug_Sale": "FACUNDO TOMAS GARCIA",
+   "CarneEntra": "58225",
+   "Jug_Entra": "GASTON PRILIAC",
+   "camiseta": "48",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58544",
+   "Jug_Sale": "PATRICIO SANGUINETTI",
+   "CarneEntra": "56421",
+   "Jug_Entra": "DAMIAN DENES",
+   "camiseta": "31",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57805",
+   "Nombre": "MATEO UBERTI",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,283 @@
+{
+ "id": "99153",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 6,
+ "fechaHora": "2026-05-24 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "YOUNG UNIVERSITARIO",
+ "visitante": "PEÑAROL UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "405",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-05-24 13:10:00",
+  "Fecha_fin": "2026-05-24 13:10:00",
+  "Locatario": "YOUNG UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "PEÑAROL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68364",
+   "Nombre": "SANTIAGO PEREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "52791",
+   "Nombre": "MATIAS NICOLAS DAVYT",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59242",
+   "Nombre": "NICOLAS ALVEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67326",
+   "Nombre": "MAXIMO VILA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57721",
+   "Nombre": "ESTEBAN DAVID GAGAUZ",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66216",
+   "Nombre": "TABARE FACUNDO RAMOS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "55884",
+   "Nombre": "JOAQUIN VIÑOLY",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64593",
+   "Nombre": "VICENTE GERFAUO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63874",
+   "Nombre": "MATIAS GONZALEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "58825",
+   "Nombre": "GONZALO FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52353",
+   "Nombre": "JUAN MARTIN TERRA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66992",
+   "Nombre": "MATHIAS ALEXANDER MONTIEL",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "55825",
+   "Nombre": "NAHUEL MANZANARES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66845",
+   "Nombre": "FACUNDO OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66848",
+   "Nombre": "FACUNDO CHIFFONE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57112",
+   "Nombre": "LUCAS MATTEO ANCHETA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63413",
+   "Nombre": "JUAN IGNACIO MERNIES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "49170",
+   "Nombre": "BRUNO EMILIANO BERMUDEZ",
+   "camiseta": "28",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56541",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55275",
+   "Nombre": "SEBASTIAN ELTON GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64480",
+   "Nombre": "MAXIMO FABRICIO NIEVAS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "55028",
+   "Nombre": "JUAN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52353",
+   "Jug_Sale": "JUAN MARTIN TERRA",
+   "CarneEntra": "56157",
+   "Jug_Entra": "JEREMIAS SILVEIRA",
+   "camiseta": "26",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "64593",
+   "Jug_Sale": "VICENTE GERFAUO",
+   "CarneEntra": "56709",
+   "Jug_Entra": "TEOFILO ARROSA",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58825",
+   "Jug_Sale": "GONZALO FERNANDEZ",
+   "CarneEntra": "62237",
+   "Jug_Entra": "SANTINO ACOSTA",
+   "camiseta": "33",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "52791",
+   "Jug_Sale": "MATIAS NICOLAS DAVYT",
+   "CarneEntra": "66757",
+   "Jug_Entra": "MAXIMO CAIRUS",
+   "camiseta": "30",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "66216",
+   "Jug_Sale": "TABARE FACUNDO RAMOS",
+   "CarneEntra": "66212",
+   "Jug_Entra": "TOMAS AGUSTIN SANTOS",
+   "camiseta": "29",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "63874",
+   "Jug_Sale": "MATIAS GONZALEZ",
+   "CarneEntra": "66169",
+   "Jug_Entra": "ALEJO ANDRES AIZPUN",
+   "camiseta": "10",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55275",
+   "Jug_Sale": "SEBASTIAN ELTON GONZALEZ",
+   "CarneEntra": "49095",
+   "Jug_Entra": "GIANLUCA BATTISTIN",
+   "camiseta": "6",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "63413",
+   "Jug_Sale": "JUAN IGNACIO MERNIES",
+   "CarneEntra": "51998",
+   "Jug_Entra": "VICTOR EDUARDO FERREIRA",
+   "camiseta": "20",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "55825",
+   "Jug_Sale": "NAHUEL MANZANARES",
+   "CarneEntra": "63828",
+   "Jug_Entra": "MAXIMILIANO LOPEZ",
+   "camiseta": "15",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "49170",
+   "Jug_Sale": "BRUNO EMILIANO BERMUDEZ",
+   "CarneEntra": "37829",
+   "Jug_Entra": "EMILIANO MESSINA",
+   "camiseta": "29",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "49095",
+   "Jug_Sale": "GIANLUCA BATTISTIN",
+   "CarneEntra": "55825",
+   "Jug_Entra": "NAHUEL MANZANARES",
+   "camiseta": "25",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52353",
+   "Nombre": "JUAN MARTIN TERRA",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "55884",
+   "Nombre": "JOAQUIN VIÑOLY",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57721",
+   "Nombre": "ESTEBAN DAVID GAGAUZ",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

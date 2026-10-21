@@ -1,0 +1,323 @@
+{
+ "id": "100613",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "425",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-06-27 13:10:00",
+  "Fecha_fin": "2026-06-27 13:10:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62873",
+   "Nombre": "MATEO AGUSTIN ARDENTE",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "52810",
+   "Nombre": "ISMAEL VERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "54722",
+   "Nombre": "LUCAS SCAFARELLI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "68074",
+   "Nombre": "NICOLAS RODRIGUEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53623",
+   "Nombre": "IGNACIO AÑON",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "48445",
+   "Nombre": "JUAN MANUEL DONDAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52402",
+   "Nombre": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49636",
+   "Nombre": "AGUSTIN ALGORTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "60461",
+   "Nombre": "BAUTISTA LOPEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56822",
+   "Nombre": "JUAN IGNACIO TELLECHEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "camiseta": "58",
+   "Capitan": ""
+  },
+  {
+   "carne": "59776",
+   "Nombre": "MARTINO LORENZO FLORA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59772",
+   "Nombre": "MIRKO FELIX FLORA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "52794",
+   "Nombre": "MAURO LARRROSA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62064",
+   "Nombre": "PEDRO DAVEREDE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56044",
+   "Nombre": "GABRIEL ENRIQUE CHACON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "40984",
+   "Nombre": "MATHIAS GABRIEL ORTIZ",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42311",
+   "Nombre": "DIEGO MATIAS VIZCARRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46887",
+   "Nombre": "TOMAS MACHADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62075",
+   "Nombre": "SANTIAGO SOSA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62873",
+   "Jug_Sale": "MATEO AGUSTIN ARDENTE",
+   "CarneEntra": "53267",
+   "Jug_Entra": "MAXIMO TORNONI",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52810",
+   "Jug_Sale": "ISMAEL VERA",
+   "CarneEntra": "66525",
+   "Jug_Entra": "MATIAS QUEIJO",
+   "camiseta": "38",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "49636",
+   "Jug_Sale": "AGUSTIN ALGORTA",
+   "CarneEntra": "64365",
+   "Jug_Entra": "JUAN BAUTISTA ARRUABARRENA",
+   "camiseta": "90",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "52402",
+   "Jug_Sale": "PEDRO SCHELOTTO",
+   "CarneEntra": "64236",
+   "Jug_Entra": "NICOLAS KRUL",
+   "camiseta": "19",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "53623",
+   "Jug_Sale": "IGNACIO AÑON",
+   "CarneEntra": "65822",
+   "Jug_Entra": "MATEO GREGORIO GONZALEZ",
+   "camiseta": "17",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "48445",
+   "Jug_Sale": "JUAN MANUEL DONDAN",
+   "CarneEntra": "53623",
+   "Jug_Entra": "IGNACIO AÑON",
+   "camiseta": "75",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46887",
+   "Jug_Sale": "TOMAS MACHADO",
+   "CarneEntra": "62821",
+   "Jug_Entra": "JOAQUIN CHIAPPE",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56044",
+   "Jug_Sale": "GABRIEL ENRIQUE CHACON",
+   "CarneEntra": "44741",
+   "Jug_Entra": "DAMIAN DREYER",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59776",
+   "Jug_Sale": "MARTINO LORENZO FLORA",
+   "CarneEntra": "49193",
+   "Jug_Entra": "JUAN PEREZ",
+   "camiseta": "24",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "62064",
+   "Jug_Sale": "PEDRO DAVEREDE",
+   "CarneEntra": "62907",
+   "Jug_Entra": "IGNACIO TELESCA",
+   "camiseta": "19",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "52794",
+   "Jug_Sale": "MAURO LARRROSA",
+   "CarneEntra": "62061",
+   "Jug_Entra": "MAURO CARRERA",
+   "camiseta": "28",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "59772",
+   "Jug_Sale": "MIRKO FELIX FLORA",
+   "CarneEntra": "49260",
+   "Jug_Entra": "GUILLERMO JAVIER HERVI",
+   "camiseta": "55",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "59765",
+   "Jug_Sale": "SANTIAGO TRIAS",
+   "CarneEntra": "64109",
+   "Jug_Entra": "MATHIAS GABRIEL ALVAREZ",
+   "camiseta": "15",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53623",
+   "Nombre": "IGNACIO AÑON",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53623",
+   "Nombre": "IGNACIO AÑON",
+   "minutos": "42",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "42311",
+   "Nombre": "DIEGO MATIAS VIZCARRA",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "minutos": "28",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "minutos": "74",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN PEREIRA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

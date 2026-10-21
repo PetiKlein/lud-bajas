@@ -1,0 +1,281 @@
+{
+ "id": "101924",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 3,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "TENIS EL PINAR SUB22",
+ "visitante": "MATURANA UNIVERSITARIO",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "508",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-12 13:15:00",
+  "Fecha_fin": "2026-09-12 13:15:00",
+  "Locatario": "TENIS EL PINAR SUB22",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "MATURANA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56171",
+   "Nombre": "MARIANO DANIEL OTTONELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52625",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "51804",
+   "Nombre": "JUAN IGNACIO LEIVA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52634",
+   "Nombre": "JUAN IGNACIO QUINTANA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66514",
+   "Nombre": "MARTIN DIAZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58083",
+   "Nombre": "IGNACIO FACUNDO RICOBALDI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53418",
+   "Nombre": "FACUNDO VARIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64795",
+   "Nombre": "SANTIAGO VARELA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47098",
+   "Nombre": "JUAN IGNACIO COITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52985",
+   "Nombre": "FACUNDO AGUSTIN MARTINEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "55560",
+   "Nombre": "JUAN MATEO PELUFO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "37188",
+   "Nombre": "CLAUDIO SEBASTIAN FERREIRA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "54861",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41716",
+   "Nombre": "MATEO CASTAGNA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "55870",
+   "Nombre": "MAURO ORONA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53762",
+   "Nombre": "MAXIMO VERA",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52633",
+   "Jug_Sale": "BENICIO BERTIN",
+   "CarneEntra": "53357",
+   "Jug_Entra": "JUAN MANUEL TRUJILLO",
+   "camiseta": "21",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "66514",
+   "Jug_Sale": "MARTIN DIAZ",
+   "CarneEntra": "52413",
+   "Jug_Entra": "SANTIAGO MATEU",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53418",
+   "Jug_Sale": "FACUNDO VARIO",
+   "CarneEntra": "61528",
+   "Jug_Entra": "SANTIAGO DAMIAN PEREIRA",
+   "camiseta": "16",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "52640",
+   "Jug_Sale": "VALENTIN COLOMINAS",
+   "CarneEntra": "53641",
+   "Jug_Entra": "FACUNDO ROCHA",
+   "camiseta": "20",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "57966",
+   "Jug_Sale": "FRANCISCO LOURTET",
+   "CarneEntra": "52444",
+   "Jug_Entra": "SEBASTIAN CARBAJAL",
+   "camiseta": "3",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55560",
+   "Jug_Sale": "JUAN MATEO PELUFO",
+   "CarneEntra": "51163",
+   "Jug_Entra": "MATIAS IVANCICH",
+   "camiseta": "38",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37188",
+   "Jug_Sale": "CLAUDIO SEBASTIAN FERREIRA",
+   "CarneEntra": "48268",
+   "Jug_Entra": "ERNESTO MATIAS PEREYRA",
+   "camiseta": "22",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "53762",
+   "Jug_Sale": "MAXIMO VERA",
+   "CarneEntra": "49541",
+   "Jug_Entra": "PABLO FERNANDO MOREIRA",
+   "camiseta": "69",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "47098",
+   "Jug_Sale": "JUAN IGNACIO COITO",
+   "CarneEntra": "55202",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "29",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "41716",
+   "Jug_Sale": "MATEO CASTAGNA",
+   "CarneEntra": "52619",
+   "Jug_Entra": "LUCAS GUERRI",
+   "camiseta": "11",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51804",
+   "Nombre": "JUAN IGNACIO LEIVA",
+   "minutos": "57",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52413",
+   "Nombre": "SANTIAGO MATEU",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "52",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "72",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

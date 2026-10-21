@@ -1,0 +1,313 @@
+{
+ "id": "101218",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 1,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "SAN CONO",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "559",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-08-29 10:45:00",
+  "Fecha_fin": "2026-08-29 10:45:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "SAN CONO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "45778",
+   "Nombre": "SANTIAGO BARBEITO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "53378",
+   "Nombre": "NICOLAS SILVA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52808",
+   "Nombre": "SEBASTIAN USHER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49279",
+   "Nombre": "MATEO PATRONE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52402",
+   "Nombre": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66528",
+   "Nombre": "LUCA CANZANI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "43333",
+   "Nombre": "SANTIAGO GASTON DE LORENZI",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "56035",
+   "Nombre": "LUIS CARLOS PADRON",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67387",
+   "Nombre": "GONZALO ESTEVES",
+   "camiseta": "40",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "43063",
+   "Nombre": "JOAQUIN MATTEO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "61099",
+   "Nombre": "AGUSTIN BARRIOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61524",
+   "Nombre": "SEBASTIAN ENZO GUISADO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64654",
+   "Nombre": "GASTON ZAMBRAN",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "69063",
+   "Nombre": "LUCAS NAHUEL ORTIZ",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "61529",
+   "Nombre": "MATEO FERREIRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55354",
+   "Nombre": "JAIRO ALI ARAQUE",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "61942",
+   "Nombre": "AGUSTIN EZEQUIEL DE LOS REYES",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "63261",
+   "Nombre": "NICOLAS SANGUINE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61532",
+   "Nombre": "JUAN IGNACIO OLIVERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63753",
+   "Nombre": "ESTEBAN MAXIMILIANO SASTRE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56035",
+   "Jug_Sale": "LUIS CARLOS PADRON",
+   "CarneEntra": "45786",
+   "Jug_Entra": "KEVIN TAUBER",
+   "camiseta": "7",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "52402",
+   "Jug_Sale": "PEDRO SCHELOTTO",
+   "CarneEntra": "49636",
+   "Jug_Entra": "AGUSTIN ALGORTA",
+   "camiseta": "32",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "52808",
+   "Jug_Sale": "SEBASTIAN USHER",
+   "CarneEntra": "57343",
+   "Jug_Entra": "FEDERICO PELUFFO",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "45778",
+   "Jug_Sale": "SANTIAGO BARBEITO",
+   "CarneEntra": "53267",
+   "Jug_Entra": "MAXIMO TORNONI",
+   "camiseta": "80",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "66528",
+   "Jug_Sale": "LUCA CANZANI",
+   "CarneEntra": "52184",
+   "Jug_Entra": "DIEGO GIBERT",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "43333",
+   "Jug_Sale": "SANTIAGO GASTON DE LORENZI",
+   "CarneEntra": "45931",
+   "Jug_Entra": "MATEO DI MARCO",
+   "camiseta": "61",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "43337",
+   "Jug_Sale": "JUAN MANUEL URTIAGA",
+   "CarneEntra": "53171",
+   "Jug_Entra": "FRANCISCO ACUÑA",
+   "camiseta": "33",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61529",
+   "Jug_Sale": "MATEO FERREIRA",
+   "CarneEntra": "65388",
+   "Jug_Entra": "JOAQUIN ROMAN MOREIRA",
+   "camiseta": "70",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "69063",
+   "Jug_Sale": "LUCAS NAHUEL ORTIZ",
+   "CarneEntra": "57266",
+   "Jug_Entra": "JUAN MANUEL SANGUINE",
+   "camiseta": "81",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61942",
+   "Jug_Sale": "AGUSTIN EZEQUIEL DE LOS REYES",
+   "CarneEntra": "23009",
+   "Jug_Entra": "RODRIGO DE PAULA",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "55354",
+   "Jug_Sale": "JAIRO ALI ARAQUE",
+   "CarneEntra": "65386",
+   "Jug_Entra": "RAMIRO MOREIRA",
+   "camiseta": "20",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "61524",
+   "Jug_Sale": "SEBASTIAN ENZO GUISADO",
+   "CarneEntra": "60354",
+   "Jug_Entra": "MANUEL MAGNIN",
+   "camiseta": "6",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "61532",
+   "Jug_Sale": "JUAN IGNACIO OLIVERA",
+   "CarneEntra": "66113",
+   "Jug_Entra": "BRYAN OLAIZOLA",
+   "camiseta": "42",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "63753",
+   "Jug_Sale": "ESTEBAN MAXIMILIANO SASTRE",
+   "CarneEntra": "66469",
+   "Jug_Entra": "DANIEL ANDRES LAUREANO",
+   "camiseta": "34",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45786",
+   "Nombre": "KEVIN TAUBER",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "45786",
+   "Nombre": "KEVIN TAUBER",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49279",
+   "Nombre": "MATEO PATRONE",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "minutos": "83",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

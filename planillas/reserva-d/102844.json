@@ -1,0 +1,294 @@
+{
+ "id": "102844",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 7,
+ "fechaHora": "2026-10-10 11:15:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR SUB22",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "530",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-10-10 13:15:00",
+  "Fecha_fin": "2026-10-10 13:15:00",
+  "Locatario": "TENIS EL PINAR SUB22",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56171",
+   "Nombre": "MARIANO DANIEL OTTONELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52625",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51804",
+   "Nombre": "JUAN IGNACIO LEIVA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53658",
+   "Nombre": "JOAQUIN VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53418",
+   "Nombre": "FACUNDO VARIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58083",
+   "Nombre": "IGNACIO FACUNDO RICOBALDI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66499",
+   "Nombre": "LEANDRO HORACIO SELVES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "camiseta": "66",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67161",
+   "Nombre": "RODRIGO DURAN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "58055",
+   "Nombre": "GONZALO FABRICIO BASSO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "62868",
+   "Nombre": "TOMAS LICIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58366",
+   "Nombre": "MARCO MARCELO BORDON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "58013",
+   "Nombre": "IÑAKI GUDE",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "57080",
+   "Nombre": "NICOLAS GEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57079",
+   "Nombre": "DIEGO DANIEL SANCHEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56017",
+   "Nombre": "TIAGO PERDOMO",
+   "camiseta": "38",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52633",
+   "Jug_Sale": "BENICIO BERTIN",
+   "CarneEntra": "61528",
+   "Jug_Entra": "SANTIAGO DAMIAN PEREIRA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53418",
+   "Jug_Sale": "FACUNDO VARIO",
+   "CarneEntra": "53357",
+   "Jug_Entra": "JUAN MANUEL TRUJILLO",
+   "camiseta": "19",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52632",
+   "Jug_Sale": "AGUSTIN FIRPO",
+   "CarneEntra": "53641",
+   "Jug_Entra": "FACUNDO ROCHA",
+   "camiseta": "20",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56017",
+   "Jug_Sale": "TIAGO PERDOMO",
+   "CarneEntra": "59892",
+   "Jug_Entra": "MARTIN COITIÑO",
+   "camiseta": "22",
+   "minutos": "16"
+  },
+  {
+   "CarneSale": "57079",
+   "Jug_Sale": "DIEGO DANIEL SANCHEZ",
+   "CarneEntra": "60705",
+   "Jug_Entra": "THIAGO BAZAN",
+   "camiseta": "26",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "57080",
+   "Jug_Sale": "NICOLAS GEREZ",
+   "CarneEntra": "49114",
+   "Jug_Entra": "ALVARO DANIEL CHILDE",
+   "camiseta": "33",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "59893",
+   "Jug_Sale": "GERONIMO MANUEL ACOSTA",
+   "CarneEntra": "68198",
+   "Jug_Entra": "FACUNDO CABRERA",
+   "camiseta": "30",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "67161",
+   "Jug_Sale": "RODRIGO DURAN",
+   "CarneEntra": "69087",
+   "Jug_Entra": "MATEO APOLITO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58055",
+   "Jug_Sale": "GONZALO FABRICIO BASSO",
+   "CarneEntra": "48947",
+   "Jug_Entra": "ALEXIS QUINTAN",
+   "camiseta": "37",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58298",
+   "Jug_Sale": "DAVID ILUTOVICH",
+   "CarneEntra": "69167",
+   "Jug_Entra": "NICOLAS MATIAS SALVO",
+   "camiseta": "90",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53641",
+   "Nombre": "FACUNDO ROCHA",
+   "minutos": "83",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58083",
+   "Nombre": "IGNACIO FACUNDO RICOBALDI",
+   "minutos": "60",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

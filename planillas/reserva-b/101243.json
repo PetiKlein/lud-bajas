@@ -1,0 +1,230 @@
+{
+ "id": "101243",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "OLD CHRISTIANS VERDE",
+ "visitante": "HEBRAICA UNIVERSITARIO",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "152",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-08-29 13:16:00",
+  "Fecha_fin": "2026-08-29 13:16:00",
+  "Locatario": "OLD CHRISTIANS VERDE",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "HEBRAICA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68491",
+   "Nombre": "MARCOS SEIGAL",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51736",
+   "Nombre": "PEDRO HINSCH",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "44029",
+   "Nombre": "TOMAS SANTIAGO SLINGER",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "49487",
+   "Nombre": "FACUNDO MARTIN CRUCE",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "39754",
+   "Nombre": "JOAQUIN FEDERICO SLINGER",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "48580",
+   "Nombre": "JUAN PABLO FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54878",
+   "Nombre": "SANTIAGO MOREIRA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "54879",
+   "Nombre": "MARCOS VALDES",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60726",
+   "Nombre": "FACUNDO NOVELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45511",
+   "Nombre": "LUCAS LEVIN",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "54690",
+   "Nombre": "SANTIAGO SISIASVILI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52946",
+   "Nombre": "SEBASTIAN LICHT",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "37317",
+   "Nombre": "MAURICIO WAITER",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54753",
+   "Nombre": "JOAQUIN BANEWUR",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [],
+ "cambiosV": [
+  {
+   "CarneSale": "53835",
+   "Jug_Sale": "MATEO NAHMIAS",
+   "CarneEntra": "52405",
+   "Jug_Entra": "ARIEL SUHAMI",
+   "camiseta": "71",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "52946",
+   "Jug_Sale": "SEBASTIAN LICHT",
+   "CarneEntra": "47421",
+   "Jug_Entra": "NICOLAS JAKOB",
+   "camiseta": "77",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "54753",
+   "Jug_Sale": "JOAQUIN BANEWUR",
+   "CarneEntra": "48732",
+   "Jug_Entra": "ILAN CAMONA",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56384",
+   "Jug_Sale": "MATIAS SZAFRAN",
+   "CarneEntra": "54688",
+   "Jug_Entra": "FEDERICO BONOMO",
+   "camiseta": "8",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "45511",
+   "Jug_Sale": "LUCAS LEVIN",
+   "CarneEntra": "47247",
+   "Jug_Entra": "ARIEL SOBOL",
+   "camiseta": "81",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "54690",
+   "Jug_Sale": "SANTIAGO SISIASVILI",
+   "CarneEntra": "48731",
+   "Jug_Entra": "GASTON FRYDLENDER",
+   "camiseta": "23",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "39754",
+   "Nombre": "JOAQUIN FEDERICO SLINGER",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49487",
+   "Nombre": "FACUNDO MARTIN CRUCE",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68491",
+   "Nombre": "MARCOS SEIGAL",
+   "minutos": "31",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68491",
+   "Nombre": "MARCOS SEIGAL",
+   "minutos": "39",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

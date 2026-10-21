@@ -1,0 +1,292 @@
+{
+ "id": "99071",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "TAPE",
+ "visitante": "OBC AZULGRANA.",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "48",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-05-23 12:53:00",
+  "Fecha_fin": "2026-05-23 12:53:00",
+  "Locatario": "TAPE",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OBC AZULGRANA.",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45549",
+   "Nombre": "JOSE FACUNDO FONSECA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35226",
+   "Nombre": "JUAN MANUEL STRAUCH",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "37326",
+   "Nombre": "JUAN INCIARTE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65015",
+   "Nombre": "VALENTIN BISIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64545",
+   "Nombre": "RODRIGO ESTEBAN GONZALEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64757",
+   "Nombre": "MARTIN VILLALBA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "48432",
+   "Nombre": "MATIAS HERNAN CASTRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53801",
+   "Nombre": "JUAN MANUEL VILDOZOLA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "55777",
+   "Nombre": "LEANDRO MARCELO ERLE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "58314",
+   "Nombre": "JOAQUIN MENESES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "31774",
+   "Nombre": "MARTIN INCIARTE",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "42152",
+   "Nombre": "RODRIGO GATTO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34993",
+   "Nombre": "GUILLERMO VIVO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "42685",
+   "Nombre": "FRANCISCO DECURNEX",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49021",
+   "Nombre": "JUAN IGNACIO CANESSA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33722",
+   "Nombre": "JUAN IGNACIO MOLINARO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "51137",
+   "Nombre": "JULIO FERMIN BLANCO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "40998",
+   "Nombre": "FELIPE FRUGONE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "44492",
+   "Nombre": "DIEGO JUAN CORALLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "43472",
+   "Nombre": "JUAN PEDRO VARGAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "42816",
+   "Nombre": "ANDRES BUERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "44982",
+   "Nombre": "FEDERICO RUIZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55777",
+   "Jug_Sale": "LEANDRO MARCELO ERLE",
+   "CarneEntra": "65008",
+   "Jug_Entra": "JUAN DIEGO JACQUES",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31774",
+   "Jug_Sale": "MARTIN INCIARTE",
+   "CarneEntra": "66853",
+   "Jug_Entra": "MARCELO JAVIER RUIZ",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35226",
+   "Jug_Sale": "JUAN MANUEL STRAUCH",
+   "CarneEntra": "56347",
+   "Jug_Entra": "JUAN SANTANNA",
+   "camiseta": "27",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "58314",
+   "Jug_Sale": "JOAQUIN MENESES",
+   "CarneEntra": "62245",
+   "Jug_Entra": "GONZALO VILLALBA",
+   "camiseta": "3",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "48432",
+   "Jug_Sale": "MATIAS HERNAN CASTRO",
+   "CarneEntra": "59186",
+   "Jug_Entra": "PEDRO BOCKING",
+   "camiseta": "6",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "37326",
+   "Jug_Sale": "JUAN INCIARTE",
+   "CarneEntra": "59462",
+   "Jug_Entra": "BAUTISTA BELGERI",
+   "camiseta": "45",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "64757",
+   "Jug_Sale": "MARTIN VILLALBA",
+   "CarneEntra": "65012",
+   "Jug_Entra": "JUAN MARTIN IFRAN",
+   "camiseta": "17",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42685",
+   "Jug_Sale": "FRANCISCO DECURNEX",
+   "CarneEntra": "42221",
+   "Jug_Entra": "AXEL WILLIAM LINDMAYER",
+   "camiseta": "27",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "51137",
+   "Jug_Sale": "JULIO FERMIN BLANCO",
+   "CarneEntra": "34804",
+   "Jug_Entra": "TOMAS GOMENSORO",
+   "camiseta": "25",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "44982",
+   "Jug_Sale": "FEDERICO RUIZ",
+   "CarneEntra": "44069",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "23",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "43472",
+   "Jug_Sale": "JUAN PEDRO VARGAS",
+   "CarneEntra": "41576",
+   "Jug_Entra": "MARTIN JOSE IMHOF",
+   "camiseta": "19",
+   "minutos": "92"
+  },
+  {
+   "CarneSale": "44492",
+   "Jug_Sale": "DIEGO JUAN CORALLO",
+   "CarneEntra": "34987",
+   "Jug_Entra": "SEBASTIAN CAGNOLI",
+   "camiseta": "4",
+   "minutos": "92"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "31774",
+   "Nombre": "MARTIN INCIARTE",
+   "minutos": "4",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "42816",
+   "Nombre": "ANDRES BUERO",
+   "minutos": "89",
+   "EnContra": "1"
+  },
+  {
+   "carne": "43472",
+   "Nombre": "JUAN PEDRO VARGAS",
+   "minutos": "77",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

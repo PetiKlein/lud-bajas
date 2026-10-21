@@ -1,0 +1,295 @@
+{
+ "id": "99406",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:35:00",
+ "cancha": "COLEGIO ARETEIA",
+ "local": "DEP.de la C. ARETEIA BIMBULLY",
+ "visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "464",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COLEGIO ARETEIA",
+  "Fecha_Inicio": "2026-05-30 13:20:00",
+  "Fecha_fin": "2026-05-30 13:20:00",
+  "Locatario": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66499",
+   "Nombre": "LEANDRO HORACIO SELVES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "45823",
+   "Nombre": "AGUSTIN CALLEJAS",
+   "camiseta": "88",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67727",
+   "Nombre": "CARLOS DANIEL BONINO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "66498",
+   "Nombre": "FACUNDO ECHEVERRIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "49114",
+   "Nombre": "ALVARO DANIEL CHILDE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "58366",
+   "Nombre": "MARCO MARCELO BORDON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "57080",
+   "Nombre": "NICOLAS GEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51599",
+   "Nombre": "JUAN SEBASTIAN DE VARGAS",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "68198",
+   "Nombre": "FACUNDO CABRERA",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62246",
+   "Nombre": "BRUNO MOREIRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "53204",
+   "Nombre": "ARON SPINELLI",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "64069",
+   "Nombre": "CARLOS DANIEL GUIDOTTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64071",
+   "Nombre": "FEDERICO SEBASTIAN BENITEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "59910",
+   "Nombre": "FACUNDO OZMAN PERDOMO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62487",
+   "Nombre": "ALEJO RAMIREZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "65085",
+   "Nombre": "FRANCO DIEGO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "62984",
+   "Nombre": "FABRIZIO VALVERDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39226",
+   "Nombre": "MAURICIO FACUNDO DE LOS SANTOS",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61823",
+   "Nombre": "GERMAN RIVAS",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67727",
+   "Jug_Sale": "CARLOS DANIEL BONINO",
+   "CarneEntra": "58237",
+   "Jug_Entra": "VALENTINO LORENZI",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51599",
+   "Jug_Sale": "JUAN SEBASTIAN DE VARGAS",
+   "CarneEntra": "49074",
+   "Jug_Entra": "FRANCO VITOLA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57080",
+   "Jug_Sale": "NICOLAS GEREZ",
+   "CarneEntra": "57103",
+   "Jug_Entra": "NICOLAS ACOSTA",
+   "camiseta": "5",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "58298",
+   "Jug_Sale": "DAVID ILUTOVICH",
+   "CarneEntra": "62868",
+   "Jug_Entra": "TOMAS LICIO",
+   "camiseta": "21",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "49074",
+   "Jug_Sale": "FRANCO VITOLA",
+   "CarneEntra": "57079",
+   "Jug_Entra": "DIEGO DANIEL SANCHEZ",
+   "camiseta": "8",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "68198",
+   "Jug_Sale": "FACUNDO CABRERA",
+   "CarneEntra": "48947",
+   "Jug_Entra": "ALEXIS QUINTAN",
+   "camiseta": "37",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "66498",
+   "Jug_Sale": "FACUNDO ECHEVERRIA",
+   "CarneEntra": "64474",
+   "Jug_Entra": "JUAN MANUEL ARIAS",
+   "camiseta": "16",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62246",
+   "Jug_Sale": "BRUNO MOREIRA",
+   "CarneEntra": "63538",
+   "Jug_Entra": "LAUTARO NICOLAS MIRABALLE",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39226",
+   "Jug_Sale": "MAURICIO FACUNDO DE LOS SANTOS",
+   "CarneEntra": "59027",
+   "Jug_Entra": "RODRIGO IGNACIO VILAS",
+   "camiseta": "88",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "65085",
+   "Jug_Sale": "FRANCO DIEGO",
+   "CarneEntra": "59016",
+   "Jug_Entra": "IGNACIO PAULO MORENO",
+   "camiseta": "60",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "61823",
+   "Jug_Sale": "GERMAN RIVAS",
+   "CarneEntra": "59033",
+   "Jug_Entra": "DANILO URES",
+   "camiseta": "12",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "59910",
+   "Jug_Sale": "FACUNDO OZMAN PERDOMO",
+   "CarneEntra": "63777",
+   "Jug_Entra": "FRANCO OLMOS",
+   "camiseta": "30",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "64071",
+   "Jug_Sale": "FEDERICO SEBASTIAN BENITEZ",
+   "CarneEntra": "64352",
+   "Jug_Entra": "MARTIN VALVERDE",
+   "camiseta": "67",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62984",
+   "Jug_Sale": "FABRIZIO VALVERDE",
+   "CarneEntra": "63627",
+   "Jug_Entra": "VALENTIN CABRERA",
+   "camiseta": "39",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67727",
+   "Nombre": "CARLOS DANIEL BONINO",
+   "minutos": "19",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

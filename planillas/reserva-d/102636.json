@@ -1,0 +1,320 @@
+{
+ "id": "102636",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 6,
+ "fechaHora": "2026-10-06 21:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "YAGUARI",
+ "visitante": "NUESTRA SEÑORA DE LOURDES",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "588",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-10-06 22:50:00",
+  "Fecha_fin": "2026-10-06 22:50:00",
+  "Locatario": "YAGUARI",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "NUESTRA SEÑORA DE LOURDES",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "39264",
+   "Nombre": "BRUNO MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39047",
+   "Nombre": "MAXIMILIANO ALEXIS ROSE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "33375",
+   "Nombre": "JOSE IGNACIO SAENZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55076",
+   "Nombre": "SIMON RUSSI",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "39081",
+   "Nombre": "IGNACIO EASTMAN",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55776",
+   "Nombre": "ALFONSO MARTINO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "59170",
+   "Nombre": "FRANCISCO SANTAMARIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "40963",
+   "Nombre": "JUAN DIEGO GOMEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "64265",
+   "Nombre": "DIEGO CALLEROS",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "51078",
+   "Nombre": "FRANCISCO AMOZA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54378",
+   "Nombre": "NICOLAS VAZQUEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68719",
+   "Nombre": "IGNACIO AGUSTIN VALENTE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68941",
+   "Nombre": "GERONIMO FIGUEIRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65209",
+   "Nombre": "CRISTIAN  DANIEL GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64203",
+   "Nombre": "GUILLERMO ORTIZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68663",
+   "Nombre": "ARIEL ACOSTA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54946",
+   "Nombre": "FRANCO VICENTE CIFUENTES",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66809",
+   "Nombre": "DAVID JOMAR ROSALES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "69145",
+   "Nombre": "LUCAS NAHUEL MENDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61515",
+   "Nombre": "ALAN ACOSTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67455",
+   "Nombre": "ADRIAN DAVID ACOSTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "30973",
+   "Nombre": "MAXIMILIANO PEREYRA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59170",
+   "Jug_Sale": "FRANCISCO SANTAMARIA",
+   "CarneEntra": "55080",
+   "Jug_Entra": "FRANCISCO CERONI",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51078",
+   "Jug_Sale": "FRANCISCO AMOZA",
+   "CarneEntra": "45639",
+   "Jug_Entra": "PATRICIO CORREA",
+   "camiseta": "17",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "40963",
+   "Jug_Sale": "JUAN DIEGO GOMEZ",
+   "CarneEntra": "63110",
+   "Jug_Entra": "VICENTE MARTINEZ HAEDO",
+   "camiseta": "65",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "55076",
+   "Jug_Sale": "SIMON RUSSI",
+   "CarneEntra": "47708",
+   "Jug_Entra": "GASTON PINTOS",
+   "camiseta": "36",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "55776",
+   "Jug_Sale": "ALFONSO MARTINO",
+   "CarneEntra": "51903",
+   "Jug_Entra": "MANUEL CALLEROS",
+   "camiseta": "34",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64265",
+   "Jug_Sale": "DIEGO CALLEROS",
+   "CarneEntra": "58191",
+   "Jug_Entra": "SANTINO AMOZA",
+   "camiseta": "12",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "54378",
+   "Jug_Sale": "NICOLAS VAZQUEZ",
+   "CarneEntra": "51075",
+   "Jug_Entra": "TOMAS AMEIXEIRAS",
+   "camiseta": "70",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68941",
+   "Jug_Sale": "GERONIMO FIGUEIRA",
+   "CarneEntra": "66025",
+   "Jug_Entra": "MANUEL ARTURO MACERO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65209",
+   "Jug_Sale": "CRISTIAN  DANIEL GARCIA",
+   "CarneEntra": "27059",
+   "Jug_Entra": "RODRIGO WALTER NIETO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66809",
+   "Jug_Sale": "DAVID JOMAR ROSALES",
+   "CarneEntra": "63406",
+   "Jug_Entra": "TIAGO LORENCIO",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30973",
+   "Jug_Sale": "MAXIMILIANO PEREYRA",
+   "CarneEntra": "33603",
+   "Jug_Entra": "JUAN IGNACIO SELVES",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "69145",
+   "Jug_Sale": "LUCAS NAHUEL MENDEZ",
+   "CarneEntra": "64817",
+   "Jug_Entra": "SANTIAGO DIAS",
+   "camiseta": "6",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "68663",
+   "Jug_Sale": "ARIEL ACOSTA",
+   "CarneEntra": "69221",
+   "Jug_Entra": "SANTIAGO PAJARES",
+   "camiseta": "3",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67455",
+   "Jug_Sale": "ADRIAN DAVID ACOSTA",
+   "CarneEntra": "30182",
+   "Jug_Entra": "TELMO CANABARRO",
+   "camiseta": "13",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54378",
+   "Nombre": "NICOLAS VAZQUEZ",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "55076",
+   "Nombre": "SIMON RUSSI",
+   "minutos": "18",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63110",
+   "Nombre": "VICENTE MARTINEZ HAEDO",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64265",
+   "Nombre": "DIEGO CALLEROS",
+   "minutos": "31",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67455",
+   "Nombre": "ADRIAN DAVID ACOSTA",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

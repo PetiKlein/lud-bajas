@@ -1,0 +1,290 @@
+{
+ "id": "100889",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "PLAYA HONDA UNIVERSITARIO",
+ "visitante": "CARRASCO POLO CLUB",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "120",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-08-15 11:00:00",
+  "Fecha_fin": "2026-08-15 11:00:00",
+  "Locatario": "PLAYA HONDA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "CARRASCO POLO CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53369",
+   "Nombre": "IVAN BARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53845",
+   "Nombre": "MARTIN CURUTCHAGUE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55177",
+   "Nombre": "MARCO PISANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "58715",
+   "Nombre": "JUAN SEBASTIAN RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "41179",
+   "Nombre": "EUGENIO SUPPARO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49922",
+   "Nombre": "ANDRES PIÑEIRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68646",
+   "Nombre": "MARTIN GUADALUPE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68323",
+   "Nombre": "FEDERICO SOLDEVILA",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "67539",
+   "Nombre": "MATIAS NICOLAS RODRIGUEZ",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "camiseta": "36",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53730",
+   "Nombre": "RENZO MACHIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49037",
+   "Nombre": "SANTIAGO ROVELLA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53865",
+   "Nombre": "JOAQUIN RETHEMIAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "40972",
+   "Nombre": "FRANCISCO TRONCOSO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "36092",
+   "Nombre": "ANDRES GABRIEL DIPOLITO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "42512",
+   "Nombre": "NICOLAS BOLGER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "41650",
+   "Nombre": "FELIPE ZAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "35208",
+   "Nombre": "JUAN SEGUNDO MASPOLI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54897",
+   "Nombre": "THIAGO HERNANDEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54410",
+   "Nombre": "THIAGO TOLVE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "44668",
+   "Nombre": "GONZALO COMPANY",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52880",
+   "Jug_Sale": "RODOLFO RODRIGUEZ",
+   "CarneEntra": "64499",
+   "Jug_Entra": "ULISES FIORI",
+   "camiseta": "35",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "49922",
+   "Jug_Sale": "ANDRES PIÑEIRO",
+   "CarneEntra": "62024",
+   "Jug_Entra": "JUAN MANUEL BOCCHI",
+   "camiseta": "41",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "68646",
+   "Jug_Sale": "MARTIN GUADALUPE",
+   "CarneEntra": "67535",
+   "Jug_Entra": "BENJAMIN DE IZAGUIRRE",
+   "camiseta": "44",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67539",
+   "Jug_Sale": "MATIAS NICOLAS RODRIGUEZ",
+   "CarneEntra": "67537",
+   "Jug_Entra": "BAUTISTA GARRE",
+   "camiseta": "38",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49037",
+   "Jug_Sale": "SANTIAGO ROVELLA",
+   "CarneEntra": "47851",
+   "Jug_Entra": "JUAN IGNACIO URRISA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53865",
+   "Jug_Sale": "JOAQUIN RETHEMIAS",
+   "CarneEntra": "44087",
+   "Jug_Entra": "FRANCISCO ROURE",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41650",
+   "Jug_Sale": "FELIPE ZAS",
+   "CarneEntra": "47537",
+   "Jug_Entra": "JOAQUIN CANOBBIO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54410",
+   "Jug_Sale": "THIAGO TOLVE",
+   "CarneEntra": "40176",
+   "Jug_Entra": "JUAN PABLO RICO",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36092",
+   "Jug_Sale": "ANDRES GABRIEL DIPOLITO",
+   "CarneEntra": "49091",
+   "Jug_Entra": "MATEO ROSA",
+   "camiseta": "4",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "40972",
+   "Jug_Sale": "FRANCISCO TRONCOSO",
+   "CarneEntra": "54900",
+   "Jug_Entra": "TOMAS SANTIAGO VILLANUEVA",
+   "camiseta": "3",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "54897",
+   "Jug_Sale": "THIAGO HERNANDEZ",
+   "CarneEntra": "48906",
+   "Jug_Entra": "LUCIANO MANGINI",
+   "camiseta": "16",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67539",
+   "Nombre": "MATIAS NICOLAS RODRIGUEZ",
+   "minutos": "28",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47537",
+   "Nombre": "JOAQUIN CANOBBIO",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47537",
+   "Nombre": "JOAQUIN CANOBBIO",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

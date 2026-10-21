@@ -1,0 +1,291 @@
+{
+ "id": "99191",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "LA MENNAIS",
+ "local": "J.M.L.M",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "164",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "LA MENNAIS",
+  "Fecha_Inicio": "2026-05-23 13:15:00",
+  "Fecha_fin": "2026-05-23 13:15:00",
+  "Locatario": "J.M.L.M",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41531",
+   "Nombre": "JOAQUIN BELTRAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45775",
+   "Nombre": "FRANCO GIOSA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "46923",
+   "Nombre": "MATEO PARPAL",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53105",
+   "Nombre": "FELIPE FRIGERIO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "49924",
+   "Nombre": "FELIPE BAYARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47534",
+   "Nombre": "SANTIAGO FLEGINSKY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49501",
+   "Nombre": "TOMAS PARPAL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "50933",
+   "Nombre": "SANTIAGO NICOLAS TIZON",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53177",
+   "Nombre": "MANUEL BAYARDO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51589",
+   "Nombre": "LUCAS TROVO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49622",
+   "Nombre": "STEFANO CERTULO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51110",
+   "Nombre": "GUILLERMO LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44097",
+   "Nombre": "NICOLAS LABASTIE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50931",
+   "Nombre": "SANTIAGO AVILA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49143",
+   "Nombre": "SANTIAGO PAIS",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51112",
+   "Nombre": "MATEO AGUSTIN MARTINEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "60923",
+   "Nombre": "GERMAN IÑAKI BIDEGAIN",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59694",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45038",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53671",
+   "Nombre": "MATEO SCARRONE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "45319",
+   "Nombre": "FRANCO BALSAMO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55660",
+   "Nombre": "THIAGO FURTADO",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50933",
+   "Jug_Sale": "SANTIAGO NICOLAS TIZON",
+   "CarneEntra": "47817",
+   "Jug_Entra": "CAMILO GILI",
+   "camiseta": "25",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "53177",
+   "Jug_Sale": "MANUEL BAYARDO",
+   "CarneEntra": "53376",
+   "Jug_Entra": "GUILLERMO WILSON",
+   "camiseta": "44",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "49924",
+   "Jug_Sale": "FELIPE BAYARDO",
+   "CarneEntra": "53104",
+   "Jug_Entra": "FRANCO MESSANO",
+   "camiseta": "22",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "49622",
+   "Jug_Sale": "STEFANO CERTULO",
+   "CarneEntra": "53190",
+   "Jug_Entra": "SANTINO CARASSALE",
+   "camiseta": "31",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "50933",
+   "Jug_Sale": "SANTIAGO NICOLAS TIZON",
+   "CarneEntra": "53189",
+   "Jug_Entra": "FEDERICO VIDAL",
+   "camiseta": "17",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "47534",
+   "Jug_Sale": "SANTIAGO FLEGINSKY",
+   "CarneEntra": "46352",
+   "Jug_Entra": "JUAN PABLO COZZO",
+   "camiseta": "8",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "51589",
+   "Jug_Sale": "LUCAS TROVO",
+   "CarneEntra": "49895",
+   "Jug_Entra": "AGUSTIN GONZALEZ",
+   "camiseta": "31",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51112",
+   "Jug_Sale": "MATEO AGUSTIN MARTINEZ",
+   "CarneEntra": "47728",
+   "Jug_Entra": "FELIPE RAMA",
+   "camiseta": "5",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "53671",
+   "Jug_Sale": "MATEO SCARRONE",
+   "CarneEntra": "55501",
+   "Jug_Entra": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45319",
+   "Jug_Sale": "FRANCO BALSAMO",
+   "CarneEntra": "51116",
+   "Jug_Entra": "JUAN BAUTISTA REY",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55660",
+   "Jug_Sale": "THIAGO FURTADO",
+   "CarneEntra": "54954",
+   "Jug_Entra": "NICOLAS ROBATTO",
+   "camiseta": "16",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "45038",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "58401",
+   "Jug_Entra": "LUCAS PEDREIRA",
+   "camiseta": "14",
+   "minutos": "63"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45775",
+   "Nombre": "FRANCO GIOSA",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49622",
+   "Nombre": "STEFANO CERTULO",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51589",
+   "Nombre": "LUCAS TROVO",
+   "minutos": "3",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

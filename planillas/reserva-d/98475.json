@@ -1,0 +1,314 @@
+{
+ "id": "98475",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "CAMPUS DEL OESTE",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "YOUNG UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "375",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "CAMPUS DEL OESTE",
+  "Fecha_Inicio": "2026-04-25 13:00:00",
+  "Fecha_fin": "2026-04-25 13:00:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "YOUNG UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44935",
+   "Nombre": "FERNANDO NICOLAS MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66164",
+   "Nombre": "NICOLAS AYESTARAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55121",
+   "Nombre": "AGUSTIN FRAGA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56682",
+   "Nombre": "DIEGO RAHI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "56508",
+   "Nombre": "MATEO GARCIA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66232",
+   "Nombre": "LUCAS MAURICIO CARTAGENA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66621",
+   "Nombre": "NAIM BLANCO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66624",
+   "Nombre": "VALENTIN HUGO MENDIZABAL",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61763",
+   "Nombre": "MATEO CASTRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61778",
+   "Nombre": "EDINSON MAXIMILIANO DIAZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "55117",
+   "Nombre": "GUILLERMO VALLE LISBOA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68364",
+   "Nombre": "SANTIAGO PEREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66758",
+   "Nombre": "ANTHONY FACCIO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "66136",
+   "Nombre": "ALFONSO MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "60311",
+   "Nombre": "ROMAN JOSE SCREMINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67786",
+   "Nombre": "IGNACIO BALLEJO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62237",
+   "Nombre": "SANTINO ACOSTA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66169",
+   "Nombre": "ALEJO ANDRES AIZPUN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52893",
+   "Nombre": "EZEQUIEL FRANCO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61778",
+   "Jug_Sale": "EDINSON MAXIMILIANO DIAZ",
+   "CarneEntra": "56224",
+   "Jug_Entra": "SANTIAGO DANIEL CASCO",
+   "camiseta": "7",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "66621",
+   "Jug_Sale": "NAIM BLANCO",
+   "CarneEntra": "61758",
+   "Jug_Entra": "SANTIAGO MAZZA",
+   "camiseta": "20",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "66621",
+   "Jug_Sale": "NAIM BLANCO",
+   "CarneEntra": "59908",
+   "Jug_Entra": "EZEQUIEL VALLARI",
+   "camiseta": "13",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "61763",
+   "Jug_Sale": "MATEO CASTRO",
+   "CarneEntra": "61756",
+   "Jug_Entra": "LUCAS DANIEL PEREZ",
+   "camiseta": "16",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "66232",
+   "Jug_Sale": "LUCAS MAURICIO CARTAGENA",
+   "CarneEntra": "55120",
+   "Jug_Entra": "EMILIANO GERLA",
+   "camiseta": "25",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "56508",
+   "Jug_Sale": "MATEO GARCIA",
+   "CarneEntra": "55077",
+   "Jug_Entra": "EMANUEL DA LUZ",
+   "camiseta": "17",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "66624",
+   "Jug_Sale": "VALENTIN HUGO MENDIZABAL",
+   "CarneEntra": "65825",
+   "Jug_Entra": "DIEGO FERRES",
+   "camiseta": "19",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66169",
+   "Jug_Sale": "ALEJO ANDRES AIZPUN",
+   "CarneEntra": "56709",
+   "Jug_Entra": "TEOFILO ARROSA",
+   "camiseta": "8",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "62237",
+   "Jug_Sale": "SANTINO ACOSTA",
+   "CarneEntra": "56157",
+   "Jug_Entra": "JEREMIAS SILVEIRA",
+   "camiseta": "17",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "52893",
+   "Jug_Sale": "EZEQUIEL FRANCO",
+   "CarneEntra": "67431",
+   "Jug_Entra": "EMILIANO ACOSTA",
+   "camiseta": "23",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "59693",
+   "Jug_Sale": "TOMAS CONSTANTIN",
+   "CarneEntra": "47012",
+   "Jug_Entra": "SANTIAGO ANDRES IZAGUIRRE",
+   "camiseta": "30",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "64592",
+   "Jug_Sale": "GERONIMO VANZINI",
+   "CarneEntra": "67395",
+   "Jug_Entra": "VALENTINO SACRA",
+   "camiseta": "4",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "67786",
+   "Jug_Sale": "IGNACIO BALLEJO",
+   "CarneEntra": "65774",
+   "Jug_Entra": "TOMAS BANEGA",
+   "camiseta": "18",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "64599",
+   "Jug_Sale": "CRISTIANO MATIAS PIGNATA",
+   "CarneEntra": "62225",
+   "Jug_Entra": "FELIPE GONZALEZ",
+   "camiseta": "2",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55117",
+   "Nombre": "GUILLERMO VALLE LISBOA",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56709",
+   "Nombre": "TEOFILO ARROSA",
+   "minutos": "88",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "minutos": "25",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66169",
+   "Nombre": "ALEJO ANDRES AIZPUN",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

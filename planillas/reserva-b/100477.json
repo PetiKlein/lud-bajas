@@ -1,0 +1,284 @@
+{
+ "id": "100477",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "SAN JUAN BAUTISTA",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "203",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-06-27 13:05:00",
+  "Fecha_fin": "2026-06-27 13:05:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SAN JUAN BAUTISTA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56362",
+   "Nombre": "IGNACIO FABEIRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44106",
+   "Nombre": "SANTIAGO RIUS",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55660",
+   "Nombre": "THIAGO FURTADO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "38502",
+   "Nombre": "JUAN PABLO MASLLORENS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "46937",
+   "Nombre": "MARTIN ROBATTO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59694",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47728",
+   "Nombre": "FELIPE RAMA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "44097",
+   "Nombre": "NICOLAS LABASTIE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57049",
+   "Nombre": "NICOLAS RUBEN CASCO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53951",
+   "Nombre": "THIAGO NERGUIZIAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "45319",
+   "Nombre": "FRANCO BALSAMO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61816",
+   "Nombre": "MATEO RAFAEL BRANAA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50631",
+   "Nombre": "LORENZO ALTAMIRANO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52445",
+   "Nombre": "CARLOS MIGUEL RIVERO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "55157",
+   "Nombre": "DIEGO YAQUINTA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "55539",
+   "Nombre": "JUAN ANDRES FERREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50725",
+   "Nombre": "JUAN IGNACIO ROSSI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52792",
+   "Nombre": "PABLO TOMAS SILVA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62298",
+   "Nombre": "FRANCO RUSSOMANO",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "55155",
+   "Nombre": "MATIAS DURAN",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54936",
+   "Nombre": "CARLOS PEDRO MENDIVE",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "44167",
+   "Nombre": "FEDERICO ERNESTO CHIESA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57049",
+   "Jug_Sale": "NICOLAS RUBEN CASCO",
+   "CarneEntra": "50931",
+   "Jug_Entra": "SANTIAGO AVILA",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45319",
+   "Jug_Sale": "FRANCO BALSAMO",
+   "CarneEntra": "51116",
+   "Jug_Entra": "JUAN BAUTISTA REY",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "38502",
+   "Jug_Sale": "JUAN PABLO MASLLORENS",
+   "CarneEntra": "39418",
+   "Jug_Entra": "RODRIGO BONSIGNORE",
+   "camiseta": "26",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "44106",
+   "Jug_Sale": "SANTIAGO RIUS",
+   "CarneEntra": "51114",
+   "Jug_Entra": "FACUNDO DIAZ",
+   "camiseta": "11",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "53951",
+   "Jug_Sale": "THIAGO NERGUIZIAN",
+   "CarneEntra": "61433",
+   "Jug_Entra": "FRANCISCO PUCCIARELLI",
+   "camiseta": "16",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "47728",
+   "Jug_Sale": "FELIPE RAMA",
+   "CarneEntra": "46935",
+   "Jug_Entra": "MATEO PASSARINO",
+   "camiseta": "30",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55539",
+   "Jug_Sale": "JUAN ANDRES FERREIRA",
+   "CarneEntra": "62790",
+   "Jug_Entra": "JUAN MARTIN MUÑOZ",
+   "camiseta": "92",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50725",
+   "Jug_Sale": "JUAN IGNACIO ROSSI",
+   "CarneEntra": "55134",
+   "Jug_Entra": "NICOLAS COSTANTE",
+   "camiseta": "11",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "52445",
+   "Jug_Sale": "CARLOS MIGUEL RIVERO",
+   "CarneEntra": "53738",
+   "Jug_Entra": "DIEGO ZIMMERMAN",
+   "camiseta": "12",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "52792",
+   "Jug_Sale": "PABLO TOMAS SILVA",
+   "CarneEntra": "50624",
+   "Jug_Entra": "FACUNDO GALBARINI",
+   "camiseta": "79",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "55157",
+   "Jug_Sale": "DIEGO YAQUINTA",
+   "CarneEntra": "53236",
+   "Jug_Entra": "AGUSTIN MATONTE",
+   "camiseta": "14",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "39418",
+   "Nombre": "RODRIGO BONSIGNORE",
+   "minutos": "92",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59694",
+   "Nombre": "FELIPE CASTRO",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "44167",
+   "Nombre": "FEDERICO ERNESTO CHIESA",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,294 @@
+{
+ "id": "100478",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "CARRASCO POLO CLUB",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "86",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-27 13:10:00",
+  "Fecha_fin": "2026-06-27 13:10:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CARRASCO POLO CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47812",
+   "Nombre": "IÑAKI ALEJANDRO GARCIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "40041",
+   "Nombre": "GUILLERMO MARCHESE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "41908",
+   "Nombre": "JUAN MARTIN AZADIAN",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40978",
+   "Nombre": "FEDERICO TOMAS MARTINEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "48342",
+   "Nombre": "IGNACIO IHARA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "57328",
+   "Nombre": "IÑAKI ODRIOZOLA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "54025",
+   "Nombre": "JOSE IGNACIO ARBILLA",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "55358",
+   "Nombre": "MATTEO REICHERT",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "53442",
+   "Nombre": "JUAN RAMON ARBILLA",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53730",
+   "Nombre": "RENZO MACHIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49037",
+   "Nombre": "SANTIAGO ROVELLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40972",
+   "Nombre": "FRANCISCO TRONCOSO",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "44087",
+   "Nombre": "FRANCISCO ROURE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "36092",
+   "Nombre": "ANDRES GABRIEL DIPOLITO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42512",
+   "Nombre": "NICOLAS BOLGER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "41650",
+   "Nombre": "FELIPE ZAS",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54897",
+   "Nombre": "THIAGO HERNANDEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "43050",
+   "Nombre": "JOAQUIN COMPANY",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "54410",
+   "Nombre": "THIAGO TOLVE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47851",
+   "Nombre": "JUAN IGNACIO URRISA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55358",
+   "Jug_Sale": "MATTEO REICHERT",
+   "CarneEntra": "59473",
+   "Jug_Entra": "SANTIAGO OUTERELO",
+   "camiseta": "88",
+   "minutos": "18"
+  },
+  {
+   "CarneSale": "40041",
+   "Jug_Sale": "GUILLERMO MARCHESE",
+   "CarneEntra": "52356",
+   "Jug_Entra": "FELIPE ROBAINA",
+   "camiseta": "69",
+   "minutos": "18"
+  },
+  {
+   "CarneSale": "52646",
+   "Jug_Sale": "JUAN MARTIN BONFIGLIO",
+   "CarneEntra": "59109",
+   "Jug_Entra": "SANTIAGO ALVAREZ",
+   "camiseta": "82",
+   "minutos": "95"
+  },
+  {
+   "CarneSale": "53442",
+   "Jug_Sale": "JUAN RAMON ARBILLA",
+   "CarneEntra": "28952",
+   "Jug_Entra": "SASHA ALEXANDER ANEFF",
+   "camiseta": "91",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54025",
+   "Jug_Sale": "JOSE IGNACIO ARBILLA",
+   "CarneEntra": "52646",
+   "Jug_Entra": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "45",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "57328",
+   "Jug_Sale": "IÑAKI ODRIOZOLA",
+   "CarneEntra": "53442",
+   "Jug_Entra": "JUAN RAMON ARBILLA",
+   "camiseta": "45",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54410",
+   "Jug_Sale": "THIAGO TOLVE",
+   "CarneEntra": "44668",
+   "Jug_Entra": "GONZALO COMPANY",
+   "camiseta": "10",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "54897",
+   "Jug_Sale": "THIAGO HERNANDEZ",
+   "CarneEntra": "48906",
+   "Jug_Entra": "LUCIANO MANGINI",
+   "camiseta": "11",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "43050",
+   "Jug_Sale": "JOAQUIN COMPANY",
+   "CarneEntra": "59446",
+   "Jug_Entra": "SANTIAGO SARTI",
+   "camiseta": "9",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "41650",
+   "Jug_Sale": "FELIPE ZAS",
+   "CarneEntra": "49091",
+   "Jug_Entra": "MATEO ROSA",
+   "camiseta": "4",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "36092",
+   "Jug_Sale": "ANDRES GABRIEL DIPOLITO",
+   "CarneEntra": "62494",
+   "Jug_Entra": "FRANCISCO JESUS GUERRERO",
+   "camiseta": "17",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "47851",
+   "Jug_Sale": "JUAN IGNACIO URRISA",
+   "CarneEntra": "31890",
+   "Jug_Entra": "GASTON SAINT-HUBERT",
+   "camiseta": "18",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "42512",
+   "Jug_Sale": "NICOLAS BOLGER",
+   "CarneEntra": "57349",
+   "Jug_Entra": "FEDERICO LEON PEREZ",
+   "camiseta": "19",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "minutos": "73",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "43050",
+   "Nombre": "JOAQUIN COMPANY",
+   "minutos": "17",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,306 @@
+{
+ "id": "98115",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "COMPLEJO LOS CARDALES",
+ "local": "NUMA TURCATTI",
+ "visitante": "JUAN XXIII BLANCO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "248",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LOS CARDALES",
+  "Fecha_Inicio": "2026-04-11 13:00:00",
+  "Fecha_fin": "2026-04-11 13:00:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "JUAN XXIII BLANCO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61786",
+   "Nombre": "MATIAS TRINIDAD",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48424",
+   "Nombre": "IGNACIO ROURE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53304",
+   "Nombre": "LUCAS ALVEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "49283",
+   "Nombre": "SANTIAGO BARBOZA",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67175",
+   "Nombre": "FACUNDO AGUSTIN DUARTE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61334",
+   "Nombre": "ALAN JAVIER VALERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "51090",
+   "Nombre": "JUAN IGNACIO RUSSO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "36530",
+   "Nombre": "MATIAS IROLDI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "55283",
+   "Nombre": "IGNACIO ZABALETA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "59802",
+   "Nombre": "VALENTINO GORAN BARREIRO",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "58842",
+   "Nombre": "ISMAEL DE DIOS",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "58867",
+   "Nombre": "BRUNO MARASCO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58861",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "54665",
+   "Nombre": "SANTIAGO PRINA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46955",
+   "Nombre": "FRANCISCO ARTURO CACERES",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "42547",
+   "Nombre": "RODRIGO FERNANDEZ",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "62489",
+   "Nombre": "FACUNDO PASSEGGI",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "51708",
+   "Nombre": "AGUSTIN FERRES",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49283",
+   "Jug_Sale": "SANTIAGO BARBOZA",
+   "CarneEntra": "54928",
+   "Jug_Entra": "ISMAEL IMPERIAL",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67175",
+   "Jug_Sale": "FACUNDO AGUSTIN DUARTE",
+   "CarneEntra": "65468",
+   "Jug_Entra": "IVAN LAUTARO MORALES",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51090",
+   "Jug_Sale": "JUAN IGNACIO RUSSO",
+   "CarneEntra": "55415",
+   "Jug_Entra": "BRYAN NAHUEL PEREYRA",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53304",
+   "Jug_Sale": "LUCAS ALVEZ",
+   "CarneEntra": "67627",
+   "Jug_Entra": "AGUSTIN MARENCO",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "48424",
+   "Jug_Sale": "IGNACIO ROURE",
+   "CarneEntra": "66777",
+   "Jug_Entra": "SANTIAGO DAVRIEUX",
+   "camiseta": "12",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "57177",
+   "Jug_Sale": "IGNACIO GUERRERO",
+   "CarneEntra": "67175",
+   "Jug_Entra": "FACUNDO AGUSTIN DUARTE",
+   "camiseta": "16",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58867",
+   "Jug_Sale": "BRUNO MARASCO",
+   "CarneEntra": "48876",
+   "Jug_Entra": "EZEQUIEL FERRARI",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51708",
+   "Jug_Sale": "AGUSTIN FERRES",
+   "CarneEntra": "55468",
+   "Jug_Entra": "MANUEL EPSTEIN",
+   "camiseta": "90",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "62489",
+   "Jug_Sale": "FACUNDO PASSEGGI",
+   "CarneEntra": "59101",
+   "Jug_Entra": "JULIAN RIVERON",
+   "camiseta": "66",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "46955",
+   "Jug_Sale": "FRANCISCO ARTURO CACERES",
+   "CarneEntra": "61875",
+   "Jug_Entra": "MARTIN VITABAR",
+   "camiseta": "10",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "55283",
+   "Jug_Sale": "IGNACIO ZABALETA",
+   "CarneEntra": "66793",
+   "Jug_Entra": "MATEO PICHERNO",
+   "camiseta": "32",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "59802",
+   "Jug_Sale": "VALENTINO GORAN BARREIRO",
+   "CarneEntra": "53468",
+   "Jug_Entra": "TOMAS PACHECO",
+   "camiseta": "6",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "42547",
+   "Jug_Sale": "RODRIGO FERNANDEZ",
+   "CarneEntra": "61867",
+   "Jug_Entra": "MATEO ALVAREZ",
+   "camiseta": "18",
+   "minutos": "69"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61334",
+   "Nombre": "ALAN JAVIER VALERA",
+   "minutos": "92",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51708",
+   "Nombre": "AGUSTIN FERRES",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51708",
+   "Nombre": "AGUSTIN FERRES",
+   "minutos": "42",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

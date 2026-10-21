@@ -1,0 +1,296 @@
+{
+ "id": "102511",
+ "categoria": "mayores-e",
+ "serie": "ETA",
+ "fecha": 2,
+ "fechaHora": "2026-10-04 09:00:00",
+ "cancha": "ESCUELA NAVAL",
+ "local": "DEPORTIVO MITRE",
+ "visitante": "CAFU",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "1070",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"E\" TIT. y ASC.",
+  "Cancha": "ESCUELA NAVAL",
+  "Fecha_Inicio": "2026-10-04 11:00:00",
+  "Fecha_fin": "2026-10-04 11:00:00",
+  "Locatario": "DEPORTIVO MITRE",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "CAFU",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47389",
+   "Nombre": "SEBASTIAN SILVA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55740",
+   "Nombre": "FACUNDO NAHUEL GONZALEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "57270",
+   "Nombre": "MATEO BERTOLIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37963",
+   "Nombre": "GUZMAN STEGLICH",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "43739",
+   "Nombre": "JUAN ANDRES GUARINO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65976",
+   "Nombre": "JOAN LUCAS ROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "44077",
+   "Nombre": "AGUSTIN ANDRES OTERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62622",
+   "Nombre": "STEFANO ESPINOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53946",
+   "Nombre": "JUAN IGNACIO GODINO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25248",
+   "Nombre": "MATIAS BARREIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68727",
+   "Nombre": "THEO DA SILVA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51727",
+   "Nombre": "MARCOS CARRION",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51170",
+   "Nombre": "NICOLAS FLORIAN GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "29538",
+   "Nombre": "MATIAS DA CUNHA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "55620",
+   "Nombre": "LUCAS BRITOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56736",
+   "Nombre": "JUAN ESPINA",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "54698",
+   "Nombre": "SEBASTIAN MARCOS GONZALEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "17871",
+   "Nombre": "FEDERICO LUIS LECUEDER",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66200",
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65477",
+   "Nombre": "JULIO GAEL MATTOS",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "25248",
+   "Jug_Sale": "MATIAS BARREIRO",
+   "CarneEntra": "66857",
+   "Jug_Entra": "JUAN ANDRES CRUJEIRA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43739",
+   "Jug_Sale": "JUAN ANDRES GUARINO",
+   "CarneEntra": "45966",
+   "Jug_Entra": "SANTIAGO BENTACOR",
+   "camiseta": "16",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "53946",
+   "Jug_Sale": "JUAN IGNACIO GODINO",
+   "CarneEntra": "69158",
+   "Jug_Entra": "OSCAR ALEJANDRO CARDOSO",
+   "camiseta": "3",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "44077",
+   "Jug_Sale": "AGUSTIN ANDRES OTERO",
+   "CarneEntra": "57732",
+   "Jug_Entra": "SANTIAGO NICOLAS ESTEVEZ",
+   "camiseta": "21",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "65976",
+   "Jug_Sale": "JOAN LUCAS ROSA",
+   "CarneEntra": "32418",
+   "Jug_Entra": "JOSE IGNACIO OLASCOAGA",
+   "camiseta": "14",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "68727",
+   "Jug_Sale": "THEO DA SILVA",
+   "CarneEntra": "43957",
+   "Jug_Entra": "DIEGO MARTIN MAGALLANES",
+   "camiseta": "22",
+   "minutos": "91"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "29538",
+   "Jug_Sale": "MATIAS DA CUNHA",
+   "CarneEntra": "67408",
+   "Jug_Entra": "MATEO LIMA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56736",
+   "Jug_Sale": "JUAN ESPINA",
+   "CarneEntra": "52901",
+   "Jug_Entra": "SALVADOR BURGOS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17871",
+   "Jug_Sale": "FEDERICO LUIS LECUEDER",
+   "CarneEntra": "35456",
+   "Jug_Entra": "NICOLAS CAVASSA",
+   "camiseta": "27",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "32399",
+   "Jug_Sale": "IGNACIO LECUEDER",
+   "CarneEntra": "53761",
+   "Jug_Entra": "EMILIANO GASPAR TRUJILLO",
+   "camiseta": "18",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "65477",
+   "Jug_Sale": "JULIO GAEL MATTOS",
+   "CarneEntra": "55960",
+   "Jug_Entra": "LUCAS BERNARDO BARJAS",
+   "camiseta": "22",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53946",
+   "Nombre": "JUAN IGNACIO GODINO",
+   "minutos": "57",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65976",
+   "Nombre": "JOAN LUCAS ROSA",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68727",
+   "Nombre": "THEO DA SILVA",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68727",
+   "Nombre": "THEO DA SILVA",
+   "minutos": "30",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

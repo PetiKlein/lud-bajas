@@ -1,0 +1,245 @@
+{
+ "id": "100339",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 10,
+ "fechaHora": "2026-06-21 11:15:00",
+ "cancha": "MICROSULES",
+ "local": "VETERINARIA UNIVERSITARIO",
+ "visitante": "KENNEDY UNIVERSITARIO",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "673",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "MICROSULES",
+  "Fecha_Inicio": "2026-06-21 13:10:00",
+  "Fecha_fin": "2026-06-21 13:10:00",
+  "Locatario": "VETERINARIA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "KENNEDY UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "40490",
+   "Nombre": "IGNACIO GUTIERREZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "42405",
+   "Nombre": "ALEJANDRO  SEBASTIAN GARCIA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63479",
+   "Nombre": "DIEGO MARTIN GODAY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62121",
+   "Nombre": "ALVARO SEBASTIAN CAWEN",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54399",
+   "Nombre": "LEANDRO EMANUEL PLA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62120",
+   "Nombre": "CRISTIAN SANCHEZ",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "51900",
+   "Nombre": "PABLO SEBASTIAN PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "38891",
+   "Nombre": "RODRIGO MARTIN LOPEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47237",
+   "Nombre": "GUILLERMO VALENTINO ZAPATA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53459",
+   "Nombre": "LUCIANO JAURIBIGUERRI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39902",
+   "Nombre": "AGUSTIN DIAZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67182",
+   "Nombre": "RAMIRO FERRAGUT",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "40537",
+   "Nombre": "ALEJANDRO BAUBETA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "52915",
+   "Nombre": "MATEO ESTOUP",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67181",
+   "Nombre": "FACUNDO GOROSO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52887",
+   "Nombre": "ROMEO ALBORNOZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "50369",
+   "Nombre": "EDGARDO FEDERICO PEÑALVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53614",
+   "Nombre": "TIAGO SALHON",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "26624",
+   "Nombre": "CAMILO REYES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "27135",
+   "Nombre": "JOAQUIN PERI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53877",
+   "Nombre": "MARCOS BERTINAT",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "40991",
+   "Nombre": "MAURICIO ROMANO",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54399",
+   "Jug_Sale": "LEANDRO EMANUEL PLA",
+   "CarneEntra": "63594",
+   "Jug_Entra": "GUILLERMO YOEL SOCA",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39902",
+   "Jug_Sale": "AGUSTIN DIAZ",
+   "CarneEntra": "68011",
+   "Jug_Entra": "DIOGO TRISTAN ALONSO",
+   "camiseta": "22",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52915",
+   "Jug_Sale": "MATEO ESTOUP",
+   "CarneEntra": "29282",
+   "Jug_Entra": "DIEGO ANDRES HERNANDEZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52887",
+   "Jug_Sale": "ROMEO ALBORNOZ",
+   "CarneEntra": "62290",
+   "Jug_Entra": "MANUEL HERNAN HALLER",
+   "camiseta": "19",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47237",
+   "Nombre": "GUILLERMO VALENTINO ZAPATA",
+   "minutos": "86",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53459",
+   "Nombre": "LUCIANO JAURIBIGUERRI",
+   "minutos": "31",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63479",
+   "Nombre": "DIEGO MARTIN GODAY",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "29282",
+   "Nombre": "DIEGO ANDRES HERNANDEZ",
+   "minutos": "89",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53614",
+   "Nombre": "TIAGO SALHON",
+   "minutos": "17",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GUILLERMO VALENTINO ZAPATA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

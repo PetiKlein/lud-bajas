@@ -1,0 +1,302 @@
+{
+ "id": "100513",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "421",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-27 13:10:00",
+  "Fecha_fin": "2026-06-27 13:10:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57011",
+   "Nombre": "SEBASTIAN BONILLA",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "41215",
+   "Nombre": "NICOLAS BERTRAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67692",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "53800",
+   "Nombre": "JUAN PEDRO HOURCADE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53472",
+   "Nombre": "EMILIANO BASTARRICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46907",
+   "Nombre": "ERNESTO BAUMGARTNER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54766",
+   "Nombre": "MARCOS FEIT",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46472",
+   "Nombre": "GUILLERMO VON SANDEN",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58348",
+   "Nombre": "JOAQUIN GUANI",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "53289",
+   "Nombre": "BRUNO CRISAFULLI",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "46948",
+   "Nombre": "SANTIAGO CAULA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "44081",
+   "Nombre": "SANTIAGO LIZARAZU",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49110",
+   "Nombre": "CAMILO BALIAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "34547",
+   "Nombre": "NICOLA PRATTO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49172",
+   "Nombre": "MANUEL ANSELMI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "49192",
+   "Nombre": "JUAN MARTIN ROCCA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "57658",
+   "Nombre": "IGNACIO MIERES",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67692",
+   "Jug_Sale": "AGUSTIN GONZALEZ",
+   "CarneEntra": "43558",
+   "Jug_Entra": "GASTON ALVAREZ DE RON",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "53472",
+   "Jug_Sale": "EMILIANO BASTARRICA",
+   "CarneEntra": "52001",
+   "Jug_Entra": "JOSE PEDRO DELGADO",
+   "camiseta": "26",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "46907",
+   "Jug_Sale": "ERNESTO BAUMGARTNER",
+   "CarneEntra": "54822",
+   "Jug_Entra": "FELIPE CARDENAS",
+   "camiseta": "1",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "49355",
+   "Jug_Sale": "FACUNDO VALENTIN ALLES",
+   "CarneEntra": "60668",
+   "Jug_Entra": "JOAQUIN IGNACIO PARNIZARI",
+   "camiseta": "28",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "53966",
+   "Jug_Sale": "FELIPE PEREZ",
+   "CarneEntra": "49355",
+   "Jug_Entra": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44081",
+   "Jug_Sale": "SANTIAGO LIZARAZU",
+   "CarneEntra": "33929",
+   "Jug_Entra": "FRANCISCO MARIZCURRENA",
+   "camiseta": "89",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "49192",
+   "Jug_Sale": "JUAN MARTIN ROCCA",
+   "CarneEntra": "52678",
+   "Jug_Entra": "VALENTINO MASONI",
+   "camiseta": "19",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "49172",
+   "Jug_Sale": "MANUEL ANSELMI",
+   "CarneEntra": "37662",
+   "Jug_Entra": "FELIPE MARCOS CASAROTTI",
+   "camiseta": "12",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "57658",
+   "Jug_Sale": "IGNACIO MIERES",
+   "CarneEntra": "50884",
+   "Jug_Entra": "SANTIAGO RUBIO",
+   "camiseta": "77",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "34547",
+   "Jug_Sale": "NICOLA PRATTO",
+   "CarneEntra": "53662",
+   "Jug_Entra": "LUCAS ONETTO",
+   "camiseta": "88",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "46948",
+   "Jug_Sale": "SANTIAGO CAULA",
+   "CarneEntra": "46451",
+   "Jug_Entra": "GONZALO CAMESELLA",
+   "camiseta": "16",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "37662",
+   "Nombre": "FELIPE MARCOS CASAROTTI",
+   "minutos": "86",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46948",
+   "Nombre": "SANTIAGO CAULA",
+   "minutos": "54",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49172",
+   "Nombre": "MANUEL ANSELMI",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49172",
+   "Nombre": "MANUEL ANSELMI",
+   "minutos": "49",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

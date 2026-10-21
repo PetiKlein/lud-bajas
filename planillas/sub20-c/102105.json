@@ -1,0 +1,283 @@
+{
+ "id": "102105",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 13:30:00",
+ "cancha": "CAMPO MARISTAS DEPORTIVO",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 7,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "345",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CAMPO MARISTAS DEPORTIVO",
+  "Fecha_Inicio": "2026-09-19 15:20:00",
+  "Fecha_fin": "2026-09-19 15:20:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "7",
+  "puntos_locatario": "3",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68722",
+   "Nombre": "FABRICIO MANUEL RABELA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67027",
+   "Nombre": "ARON ESTEVEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55113",
+   "Nombre": "FRANCISCO FERREYRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57371",
+   "Nombre": "FRANCISCO SANTIAGO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66011",
+   "Nombre": "FRANCO MARTIN REY",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63099",
+   "Nombre": "JOAQUIN FERNANDO HERNANDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57414",
+   "Nombre": "VALENTIN MONTADO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67026",
+   "Nombre": "JUAN PABLO CANEPA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "58706",
+   "Nombre": "MATIAS ORTIZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68220",
+   "Nombre": "GUILLERMO BENTANCOUR",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63543",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67274",
+   "Nombre": "ALVARO PINTOS",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "58727",
+   "Nombre": "JOAQUIN GRACIANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62586",
+   "Nombre": "LEANDRO MOCCIA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62577",
+   "Nombre": "ORI MARTIN FERREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62587",
+   "Nombre": "MATEO ALONSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58704",
+   "Nombre": "IGNACIO JAVIER ROMERO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64173",
+   "Nombre": "SANTIAGO MIRANDA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62582",
+   "Nombre": "SEBASTIAN ENZO STRATTA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "68623",
+   "Nombre": "GUILLERMO MARTINEZ",
+   "camiseta": "76",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67027",
+   "Jug_Sale": "ARON ESTEVEZ",
+   "CarneEntra": "63195",
+   "Jug_Entra": "LAUTARO GOBBI",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68220",
+   "Jug_Sale": "GUILLERMO BENTANCOUR",
+   "CarneEntra": "68593",
+   "Jug_Entra": "FACUNDO DANIEL ESNAL",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57371",
+   "Jug_Sale": "FRANCISCO SANTIAGO",
+   "CarneEntra": "60168",
+   "Jug_Entra": "RAFAEL DELGADO",
+   "camiseta": "12",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "63099",
+   "Jug_Sale": "JOAQUIN FERNANDO HERNANDEZ",
+   "CarneEntra": "60829",
+   "Jug_Entra": "SANTIAGO MORALES",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "57414",
+   "Jug_Sale": "VALENTIN MONTADO",
+   "CarneEntra": "59052",
+   "Jug_Entra": "NICOLAS ANDRES BALDINI",
+   "camiseta": "25",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "58706",
+   "Jug_Sale": "MATIAS ORTIZ",
+   "CarneEntra": "67028",
+   "Jug_Entra": "JULIAN MONTADO",
+   "camiseta": "4",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "66011",
+   "Jug_Sale": "FRANCO MARTIN REY",
+   "CarneEntra": "57338",
+   "Jug_Entra": "AKEEM JORGE",
+   "camiseta": "18",
+   "minutos": "63"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68623",
+   "Jug_Sale": "GUILLERMO MARTINEZ",
+   "CarneEntra": "67621",
+   "Jug_Entra": "SEBASTIAN GRILLO",
+   "camiseta": "67",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58706",
+   "Nombre": "MATIAS ORTIZ",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58706",
+   "Nombre": "MATIAS ORTIZ",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60829",
+   "Nombre": "SANTIAGO MORALES",
+   "minutos": "68",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "77",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67027",
+   "Nombre": "ARON ESTEVEZ",
+   "minutos": "63",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68593",
+   "Nombre": "FACUNDO DANIEL ESNAL",
+   "minutos": "88",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,283 @@
+{
+ "id": "99999",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "306",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-14 10:55:00",
+  "Fecha_fin": "2026-06-14 10:55:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23480",
+   "Nombre": "IGNACIO GASTON BIDEGAIN",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48515",
+   "Nombre": "KEVIN NICOLAS HERVADA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "47632",
+   "Nombre": "SANTIAGO COLOMBO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "51528",
+   "Nombre": "CARLOS ALFREDO DUARTE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61296",
+   "Nombre": "JOAQUIN LUCIANO NUÑEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54134",
+   "Nombre": "MARTIN CORTINAS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61864",
+   "Nombre": "MAXIMILIANO VELAZQUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "55234",
+   "Nombre": "LUCAS DO VALLE PEIXOTO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "54922",
+   "Nombre": "FABIAN ANDRE IRISARRI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51477",
+   "Nombre": "VICTOR VIERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "25089",
+   "Nombre": "MAXIMILIANO SILVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60725",
+   "Nombre": "ALESSANDRO EZEQUIEL PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45390",
+   "Nombre": "MATHIAS PILIPAUSKAS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "61268",
+   "Nombre": "DIEGO MARTIN MURAÑA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "41088",
+   "Nombre": "PEDRO MOREIRA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "49735",
+   "Nombre": "HECTOR GASTON RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "51604",
+   "Nombre": "JUAN GABRIEL RUSSO",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "33869",
+   "Nombre": "JOAQUIN DANIEL GARCIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "41791",
+   "Nombre": "SANTIAGO MARTIN GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "42936",
+   "Nombre": "LEANDRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "32511",
+   "Nombre": "MATHIAS TORRES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "44549",
+   "Nombre": "SANTIAGO MARTIN RIBEIRO",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54922",
+   "Jug_Sale": "FABIAN ANDRE IRISARRI",
+   "CarneEntra": "56437",
+   "Jug_Entra": "FEDERICO PAOLINO",
+   "camiseta": "10",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "61296",
+   "Jug_Sale": "JOAQUIN LUCIANO NUÑEZ",
+   "CarneEntra": "41360",
+   "Jug_Entra": "JUAN IGNACIO OLIVERA",
+   "camiseta": "37",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "25089",
+   "Jug_Sale": "MAXIMILIANO SILVERA",
+   "CarneEntra": "51381",
+   "Jug_Entra": "DIEGO MARTIN SUAREZ",
+   "camiseta": "36",
+   "minutos": "92"
+  },
+  {
+   "CarneSale": "51528",
+   "Jug_Sale": "CARLOS ALFREDO DUARTE",
+   "CarneEntra": "53297",
+   "Jug_Entra": "BENJAMIN SOBRINO",
+   "camiseta": "10",
+   "minutos": "92"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "32511",
+   "Jug_Sale": "MATHIAS TORRES",
+   "CarneEntra": "30970",
+   "Jug_Entra": "SANTIAGO RIVAS",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45390",
+   "Jug_Sale": "MATHIAS PILIPAUSKAS",
+   "CarneEntra": "42937",
+   "Jug_Entra": "DIEGO PENINO",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51604",
+   "Jug_Sale": "JUAN GABRIEL RUSSO",
+   "CarneEntra": "53403",
+   "Jug_Entra": "DIEGO FERNANDO AGUILERA",
+   "camiseta": "20",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "42936",
+   "Jug_Sale": "LEANDRO LOPEZ",
+   "CarneEntra": "42381",
+   "Jug_Entra": "CRISTIAN JOEL VIERA",
+   "camiseta": "13",
+   "minutos": "74"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51528",
+   "Nombre": "CARLOS ALFREDO DUARTE",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54922",
+   "Nombre": "FABIAN ANDRE IRISARRI",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54922",
+   "Nombre": "FABIAN ANDRE IRISARRI",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56437",
+   "Nombre": "FEDERICO PAOLINO",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "42936",
+   "Nombre": "LEANDRO LOPEZ",
+   "minutos": "16",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53403",
+   "Nombre": "DIEGO FERNANDO AGUILERA",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "DIEGO MARTIN MURAÑA",
+   "observaciones": ""
+  }
+ ]
+}

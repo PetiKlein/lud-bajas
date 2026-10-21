@@ -1,0 +1,300 @@
+{
+ "id": "98207",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "OLD CHRISTIANS CLUB",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "9",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-18 13:11:00",
+  "Fecha_fin": "2026-04-18 13:11:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "OLD CHRISTIANS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41778",
+   "Nombre": "NICOLAS MACCIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45854",
+   "Nombre": "JULIAN VELAZQUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63138",
+   "Nombre": "MATIAS RAFAEL CORREA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "64055",
+   "Nombre": "LAUTHARO MANUEL GUGLIELMONE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "37903",
+   "Nombre": "MATEO MUJICA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66798",
+   "Nombre": "SANTIAGO OLIVERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "48363",
+   "Nombre": "GERONIMO ABRAHAM PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54783",
+   "Nombre": "MARTIN SEBASTIAN GONZALEZ",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "53070",
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52821",
+   "Nombre": "FACUNDO STORACE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33856",
+   "Nombre": "FEDERICO CHIANCONE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "52819",
+   "Nombre": "IÑAKI LARRAECHEA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52608",
+   "Nombre": "SANTIAGO MARCELO MACHADO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "51135",
+   "Nombre": "JOAQUIN FABREGAT",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "52331",
+   "Nombre": "JOSE PEDRO PARODI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "30724",
+   "Nombre": "FEDERICO RICARDO MOLINS",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "55392",
+   "Nombre": "SANTIAGO COSTA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42069",
+   "Nombre": "MATEO GIOIA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "49655",
+   "Nombre": "HERNAN ALEGRESA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64683",
+   "Nombre": "ALBERTO FELIPE ROSSO",
+   "camiseta": "62",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45854",
+   "Jug_Sale": "JULIAN VELAZQUEZ",
+   "CarneEntra": "43136",
+   "Jug_Entra": "GABRIEL JOAQUIN SUAREZ",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50950",
+   "Jug_Sale": "ISMAEL VILLANUEVA",
+   "CarneEntra": "53130",
+   "Jug_Entra": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66798",
+   "Jug_Sale": "SANTIAGO OLIVERA",
+   "CarneEntra": "41609",
+   "Jug_Entra": "FACUNDO VILLAR",
+   "camiseta": "22",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "54783",
+   "Jug_Sale": "MARTIN SEBASTIAN GONZALEZ",
+   "CarneEntra": "66795",
+   "Jug_Entra": "GERMAN MUJICA",
+   "camiseta": "98",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "48363",
+   "Jug_Sale": "GERONIMO ABRAHAM PEREZ",
+   "CarneEntra": "66465",
+   "Jug_Entra": "HECTOR AGUSTIN VEGA",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "53070",
+   "Jug_Sale": "JUAN IGNACIO MAGRINI",
+   "CarneEntra": "63343",
+   "Jug_Entra": "LORENZO VERON",
+   "camiseta": "44",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "48803",
+   "Jug_Sale": "MATIAS REVELLO",
+   "CarneEntra": "45424",
+   "Jug_Entra": "ANDRES VALLARINO",
+   "camiseta": "18",
+   "minutos": "3"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52608",
+   "Jug_Sale": "SANTIAGO MARCELO MACHADO",
+   "CarneEntra": "67291",
+   "Jug_Entra": "AUGUSTO PAULLIER",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30724",
+   "Jug_Sale": "FEDERICO RICARDO MOLINS",
+   "CarneEntra": "66722",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "38",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "42069",
+   "Jug_Sale": "MATEO GIOIA",
+   "CarneEntra": "48430",
+   "Jug_Entra": "JUAN MARTIN FAVARO",
+   "camiseta": "7",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "51135",
+   "Jug_Sale": "JOAQUIN FABREGAT",
+   "CarneEntra": "38310",
+   "Jug_Entra": "FEDERICO PONTE",
+   "camiseta": "95",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "52331",
+   "Jug_Sale": "JOSE PEDRO PARODI",
+   "CarneEntra": "40763",
+   "Jug_Entra": "MATEO VINCENT",
+   "camiseta": "99",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "52819",
+   "Jug_Sale": "IÑAKI LARRAECHEA",
+   "CarneEntra": "42070",
+   "Jug_Entra": "FRANCISCO GUADALUPE",
+   "camiseta": "61",
+   "minutos": "71"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53070",
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55392",
+   "Nombre": "SANTIAGO COSTA",
+   "minutos": "42",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

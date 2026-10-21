@@ -1,0 +1,276 @@
+{
+ "id": "99426",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 7,
+ "fechaHora": "2026-05-31 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "NUMA TURCATTI",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "409",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-05-31 11:00:00",
+  "Fecha_fin": "2026-05-31 11:00:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "NUMA TURCATTI",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53480",
+   "Nombre": "LEANDRO NICOLAS MATOSAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50924",
+   "Nombre": "FRANCO STELLA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63471",
+   "Nombre": "DIEGO PORTELA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66165",
+   "Nombre": "JOAQUIN MATEU",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56718",
+   "Nombre": "RAMIRO BENTANCOR",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "40883",
+   "Nombre": "GONZALO SISMONDI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58051",
+   "Nombre": "FRANCISCO PERRONE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "63643",
+   "Nombre": "MATEO FAULORD",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "46463",
+   "Nombre": "FEDERICO MELA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67490",
+   "Nombre": "LUCAS EDUARDO PEREZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "53588",
+   "Nombre": "DIEGO NICOLAS CAVALLERO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37679",
+   "Nombre": "JORGE ANTONIO PONS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47895",
+   "Nombre": "TOMAS BAZAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54622",
+   "Nombre": "JUAN MANUEL CADENAS",
+   "camiseta": "33",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42774",
+   "Nombre": "LUIS ESTEBAN FERMER",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "68505",
+   "Nombre": "IGNACIO DANIEL MENDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59482",
+   "Nombre": "FACUNDO ESCALANTE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61334",
+   "Nombre": "ALAN JAVIER VALERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68506",
+   "Nombre": "NICOLAS MENDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50924",
+   "Jug_Sale": "FRANCO STELLA",
+   "CarneEntra": "67259",
+   "Jug_Entra": "MANUEL NICOLAS TELIZ",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40883",
+   "Jug_Sale": "GONZALO SISMONDI",
+   "CarneEntra": "54546",
+   "Jug_Entra": "MARTIN PENA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46463",
+   "Jug_Sale": "FEDERICO MELA",
+   "CarneEntra": "64686",
+   "Jug_Entra": "EMANUEL NICOLAS PARIS",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67490",
+   "Jug_Sale": "LUCAS EDUARDO PEREZ",
+   "CarneEntra": "64944",
+   "Jug_Entra": "VALENTINO DECIA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63643",
+   "Jug_Sale": "MATEO FAULORD",
+   "CarneEntra": "68708",
+   "Jug_Entra": "CAMILO OUDRI",
+   "camiseta": "17",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "53588",
+   "Jug_Sale": "DIEGO NICOLAS CAVALLERO",
+   "CarneEntra": "31693",
+   "Jug_Entra": "GASTON COPPOLA",
+   "camiseta": "11",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "58051",
+   "Jug_Sale": "FRANCISCO PERRONE",
+   "CarneEntra": "66306",
+   "Jug_Entra": "FEDERICO RODRIGUEZ",
+   "camiseta": "21",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55412",
+   "Jug_Sale": "DIEGO OTAÑO",
+   "CarneEntra": "54090",
+   "Jug_Entra": "HERNAN ARIEL CAÑETE",
+   "camiseta": "8",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "68505",
+   "Jug_Sale": "IGNACIO DANIEL MENDEZ",
+   "CarneEntra": "39680",
+   "Jug_Entra": "FELIX ANDRES FORASTIER",
+   "camiseta": "14",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "59482",
+   "Jug_Sale": "FACUNDO ESCALANTE",
+   "CarneEntra": "68505",
+   "Jug_Entra": "IGNACIO DANIEL MENDEZ",
+   "camiseta": "4",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "68506",
+   "Jug_Sale": "NICOLAS MENDEZ",
+   "CarneEntra": "59482",
+   "Jug_Entra": "FACUNDO ESCALANTE",
+   "camiseta": "9",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "minutos": "15",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ALAN JAVIER VALERA",
+   "observaciones": ""
+  }
+ ]
+}

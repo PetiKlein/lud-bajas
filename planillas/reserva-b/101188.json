@@ -1,0 +1,298 @@
+{
+ "id": "101188",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "CLUB UNIVERSIDAD CATOLICA",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "150",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-08-29 11:00:00",
+  "Fecha_fin": "2026-08-29 11:00:00",
+  "Locatario": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47663",
+   "Nombre": "ANTHONE IVAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58896",
+   "Nombre": "JUAN ANTONIO GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68982",
+   "Nombre": "JOAQUIN EZEQUIEL FERREIRA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "33299",
+   "Nombre": "GUILLERMO BRUNO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "55010",
+   "Nombre": "TOMAS MIRABAL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "60895",
+   "Nombre": "TOMAS ANDRES OTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51756",
+   "Nombre": "JUAN IGNACIO PERTUSSO",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55714",
+   "Nombre": "FELIPE LOVATTO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46926",
+   "Nombre": "MATIAS ANDRES MUNIZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "63608",
+   "Nombre": "PABLO MARI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56381",
+   "Nombre": "THIAGO NICOLAS ROMANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53690",
+   "Nombre": "MARCOS DANIEL AREVALO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "47675",
+   "Nombre": "MAURICIO DIEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68952",
+   "Nombre": "MAXIMILIANO EZEQUIEL PIRIZ",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43121",
+   "Nombre": "SIRO PIALI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46518",
+   "Nombre": "MAURO GERMAN GRECCO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "43124",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "66028",
+   "Nombre": "MATEO AGUSTIN CHAKIYIN",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68982",
+   "Jug_Sale": "JOAQUIN EZEQUIEL FERREIRA",
+   "CarneEntra": "59798",
+   "Jug_Entra": "MARTIN RIOS",
+   "camiseta": "8",
+   "minutos": "22"
+  },
+  {
+   "CarneSale": "63608",
+   "Jug_Sale": "PABLO MARI",
+   "CarneEntra": "51402",
+   "Jug_Entra": "JUAN PEDRO PERDOMO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53606",
+   "Jug_Sale": "GUILLERMO ANDRES REBOLLO",
+   "CarneEntra": "53198",
+   "Jug_Entra": "DIEGO LAGAZETA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55714",
+   "Jug_Sale": "FELIPE LOVATTO",
+   "CarneEntra": "64990",
+   "Jug_Entra": "ISMAEL PUGLIA",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46926",
+   "Jug_Sale": "MATIAS ANDRES MUNIZ",
+   "CarneEntra": "40445",
+   "Jug_Entra": "JUAN VICENTE CAVALLERI",
+   "camiseta": "18",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "33299",
+   "Jug_Sale": "GUILLERMO BRUNO",
+   "CarneEntra": "56909",
+   "Jug_Entra": "JOAQUIN NICOLAS NAVAS",
+   "camiseta": "6",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66028",
+   "Jug_Sale": "MATEO AGUSTIN CHAKIYIN",
+   "CarneEntra": "56033",
+   "Jug_Entra": "ALEXIS DAVID FLORES",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43121",
+   "Jug_Sale": "SIRO PIALI",
+   "CarneEntra": "47116",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "12",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "43124",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "59646",
+   "Jug_Entra": "FABRICIO NICOLAS RAMOS",
+   "camiseta": "80",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "53690",
+   "Jug_Sale": "MARCOS DANIEL AREVALO",
+   "CarneEntra": "47101",
+   "Jug_Entra": "IGNACIO DANIELO PERDOMO",
+   "camiseta": "55",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "46518",
+   "Jug_Sale": "MAURO GERMAN GRECCO",
+   "CarneEntra": "50494",
+   "Jug_Entra": "ALEJO EZEQUIEL MOSQUERA",
+   "camiseta": "47",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "54868",
+   "Jug_Sale": "MAXIMILIANO ROMAY",
+   "CarneEntra": "55022",
+   "Jug_Entra": "ANDRES NAHUEL LAGOS",
+   "camiseta": "19",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "40445",
+   "Nombre": "JUAN VICENTE CAVALLERI",
+   "minutos": "83",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "minutos": "76",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

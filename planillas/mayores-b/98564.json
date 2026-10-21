@@ -1,0 +1,288 @@
+{
+ "id": "98564",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 3,
+ "fechaHora": "2026-04-26 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "CITY PARK",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "139",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-26 13:15:00",
+  "Fecha_fin": "2026-04-26 13:15:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CITY PARK",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41778",
+   "Nombre": "NICOLAS MACCIO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63138",
+   "Nombre": "MATIAS RAFAEL CORREA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "46744",
+   "Nombre": "JOAQUIN CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56006",
+   "Nombre": "SANTIAGO MAZZONCINI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "42288",
+   "Nombre": "MATIAS EMANUEL BERNAT",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "41375",
+   "Nombre": "SANTIAGO FALERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55634",
+   "Nombre": "SANTIAGO EMANUEL OJEDA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55636",
+   "Nombre": "IGNACIO IRISARRI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "45562",
+   "Nombre": "FRANCO MÜLLER",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "49888",
+   "Nombre": "MANUEL DOGLIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "66465",
+   "Nombre": "HECTOR AGUSTIN VEGA",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39513",
+   "Nombre": "AGUSTIN BETANCOR",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33967",
+   "Nombre": "ANDRES YAFFE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "40368",
+   "Nombre": "PEDRO COSTA",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55443",
+   "Nombre": "AGUSTIN NICOLAS DE LOS SANTOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42966",
+   "Nombre": "LEONARDO MARTIN SAMPEREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "44229",
+   "Nombre": "MAURO DIDIER BORGES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "37077",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "52463",
+   "Nombre": "FACUNDO ALZAIBAR",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47650",
+   "Nombre": "LUCAS TRINIDAD",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "32802",
+   "Nombre": "SANTIAGO FUENTES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58113",
+   "Nombre": "BRUNO AGUSTIN ACOSTA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42288",
+   "Jug_Sale": "MATIAS EMANUEL BERNAT",
+   "CarneEntra": "53121",
+   "Jug_Entra": "ANDRES RUGGIERO",
+   "camiseta": "95",
+   "minutos": "39"
+  },
+  {
+   "CarneSale": "66465",
+   "Jug_Sale": "HECTOR AGUSTIN VEGA",
+   "CarneEntra": "54043",
+   "Jug_Entra": "RODRIGO VALENTIN CASTILLO",
+   "camiseta": "78",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49888",
+   "Jug_Sale": "MANUEL DOGLIO",
+   "CarneEntra": "53130",
+   "Jug_Entra": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "55636",
+   "Jug_Sale": "IGNACIO IRISARRI",
+   "CarneEntra": "64055",
+   "Jug_Entra": "LAUTHARO MANUEL GUGLIELMONE",
+   "camiseta": "28",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "45562",
+   "Jug_Sale": "FRANCO MÜLLER",
+   "CarneEntra": "53070",
+   "Jug_Entra": "JUAN IGNACIO MAGRINI",
+   "camiseta": "25",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37077",
+   "Jug_Sale": "MATEO RODRIGUEZ",
+   "CarneEntra": "39313",
+   "Jug_Entra": "AGUSTIN PEREZ",
+   "camiseta": "16",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "52463",
+   "Jug_Sale": "FACUNDO ALZAIBAR",
+   "CarneEntra": "33386",
+   "Jug_Entra": "JUAN IGNACIO PAREDES",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "47650",
+   "Jug_Sale": "LUCAS TRINIDAD",
+   "CarneEntra": "38481",
+   "Jug_Entra": "AGUSTIN MATEO RUIZ",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "44229",
+   "Jug_Sale": "MAURO DIDIER BORGES",
+   "CarneEntra": "52463",
+   "Jug_Entra": "FACUNDO ALZAIBAR",
+   "camiseta": "20",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "33967",
+   "Jug_Sale": "ANDRES YAFFE",
+   "CarneEntra": "47650",
+   "Jug_Entra": "LUCAS TRINIDAD",
+   "camiseta": "14",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55636",
+   "Nombre": "IGNACIO IRISARRI",
+   "minutos": "23",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56006",
+   "Nombre": "SANTIAGO MAZZONCINI",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66465",
+   "Nombre": "HECTOR AGUSTIN VEGA",
+   "minutos": "18",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "40368",
+   "Nombre": "PEDRO COSTA",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58113",
+   "Nombre": "BRUNO AGUSTIN ACOSTA",
+   "minutos": "31",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,303 @@
+{
+ "id": "98436",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 09:00:00",
+ "cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+ "local": "PEÑAROL UNIVERSITARIO",
+ "visitante": "OLD BRENDANS VERDE",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "260",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+  "Fecha_Inicio": "2026-04-25 11:10:00",
+  "Fecha_fin": "2026-04-25 11:10:00",
+  "Locatario": "PEÑAROL UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS VERDE",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68431",
+   "Nombre": "ISMAEL MATIAS PALLEIRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63652",
+   "Nombre": "WILKER DANIEL MARTINEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66094",
+   "Nombre": "SANTIAGO JOEL MACHADO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61101",
+   "Nombre": "MATIAS NICOLAS GARCIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66433",
+   "Nombre": "LUCAS TOMAS FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49095",
+   "Nombre": "GIANLUCA BATTISTIN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56541",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66630",
+   "Nombre": "FRANCISCO PEREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63677",
+   "Nombre": "IAN MAXIMILIANO POLERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51998",
+   "Nombre": "VICTOR EDUARDO FERREIRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65783",
+   "Nombre": "BRUNO IGNACIO ALVAREZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57719",
+   "Nombre": "TOMAS LORENZO FASCIOLI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "51458",
+   "Nombre": "TOMAS POLITI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "51985",
+   "Nombre": "FEDERICO NICOLAS ENGEL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55229",
+   "Nombre": "JUAN SEGUNDO CASTELLS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "56336",
+   "Nombre": "JUAN IGNACIO BRAGA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49150",
+   "Nombre": "GASTON SCHMIDT",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "51067",
+   "Nombre": "MARTIN GAUDIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57033",
+   "Nombre": "LORENZO URIARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53400",
+   "Nombre": "FACUNDO VILLARREAL",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63834",
+   "Nombre": "BRUNO FEDERICO ENGEL",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68431",
+   "Jug_Sale": "ISMAEL MATIAS PALLEIRO",
+   "CarneEntra": "66992",
+   "Jug_Entra": "MATHIAS ALEXANDER MONTIEL",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49095",
+   "Jug_Sale": "GIANLUCA BATTISTIN",
+   "CarneEntra": "67839",
+   "Jug_Entra": "KEVIN IGNACIO BRUSCIANO",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65783",
+   "Jug_Sale": "BRUNO IGNACIO ALVAREZ",
+   "CarneEntra": "63828",
+   "Jug_Entra": "MAXIMILIANO LOPEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66094",
+   "Jug_Sale": "SANTIAGO JOEL MACHADO",
+   "CarneEntra": "66691",
+   "Jug_Entra": "BRUNO ALEXIS ARAUJO",
+   "camiseta": "5",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "66433",
+   "Jug_Sale": "LUCAS TOMAS FERNANDEZ",
+   "CarneEntra": "65783",
+   "Jug_Entra": "BRUNO IGNACIO ALVAREZ",
+   "camiseta": "19",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51458",
+   "Jug_Sale": "TOMAS POLITI",
+   "CarneEntra": "51996",
+   "Jug_Entra": "JOAQUIN OLT",
+   "camiseta": "21",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "55229",
+   "Jug_Sale": "JUAN SEGUNDO CASTELLS",
+   "CarneEntra": "53394",
+   "Jug_Entra": "DIEGO SABAJ",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51996",
+   "Jug_Sale": "JOAQUIN OLT",
+   "CarneEntra": "58816",
+   "Jug_Entra": "GUILLERMO SOTO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53400",
+   "Jug_Sale": "FACUNDO VILLARREAL",
+   "CarneEntra": "54756",
+   "Jug_Entra": "ADRIANO MARTIN AGGIO",
+   "camiseta": "7",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "56336",
+   "Jug_Sale": "JUAN IGNACIO BRAGA",
+   "CarneEntra": "55605",
+   "Jug_Entra": "BAUTISTA PARODI",
+   "camiseta": "20",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "51174",
+   "Jug_Sale": "LUCA MAXIMO AGGIO",
+   "CarneEntra": "56472",
+   "Jug_Entra": "FACUNDO ASTIAZARAN",
+   "camiseta": "26",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "51067",
+   "Jug_Sale": "MARTIN GAUDIO",
+   "CarneEntra": "64549",
+   "Jug_Entra": "IÑAKI GONZALEZ",
+   "camiseta": "12",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "minutos": "28",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "minutos": "5",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54756",
+   "Nombre": "ADRIANO MARTIN AGGIO",
+   "minutos": "88",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63834",
+   "Nombre": "BRUNO FEDERICO ENGEL",
+   "minutos": "67",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

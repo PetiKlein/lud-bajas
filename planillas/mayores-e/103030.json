@@ -1,0 +1,310 @@
+{
+ "id": "103030",
+ "categoria": "mayores-e",
+ "serie": "ETA",
+ "fecha": 4,
+ "fechaHora": "2026-10-18 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "BODY FACTORY",
+ "visitante": "CAFU",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "1079",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"E\" TIT. y ASC.",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-10-18 11:07:00",
+  "Fecha_fin": "2026-10-18 11:07:00",
+  "Locatario": "BODY FACTORY",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "CAFU",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61129",
+   "Nombre": "LUIS MIGUEL MORA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66188",
+   "Nombre": "JUAN DIEGO NOZAR",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "39998",
+   "Nombre": "BRANDON MAVERINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "47286",
+   "Nombre": "CLAUDIO MAXIMILIANO RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43506",
+   "Nombre": "IGNACIO PAIS",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "45538",
+   "Nombre": "LUCAS TORRAZZA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "41743",
+   "Nombre": "LUCAS EXEQUIEL DIANESSI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "44961",
+   "Nombre": "WALTER RENZO SERVETTI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52122",
+   "Nombre": "FRANCO GABRIEL PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "35440",
+   "Nombre": "DIEGO MARTIN BEGUE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "44017",
+   "Nombre": "EDUARDO LUIS SUAREZ",
+   "camiseta": "48",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51727",
+   "Nombre": "MARCOS CARRION",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "29538",
+   "Nombre": "MATIAS DA CUNHA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "51170",
+   "Nombre": "NICOLAS FLORIAN GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35456",
+   "Nombre": "NICOLAS CAVASSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "56736",
+   "Nombre": "JUAN ESPINA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55620",
+   "Nombre": "LUCAS BRITOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "54698",
+   "Nombre": "SEBASTIAN MARCOS GONZALEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "17871",
+   "Nombre": "FEDERICO LUIS LECUEDER",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66200",
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44961",
+   "Jug_Sale": "WALTER RENZO SERVETTI",
+   "CarneEntra": "60127",
+   "Jug_Entra": "NAHUEL VIERA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52122",
+   "Jug_Sale": "FRANCO GABRIEL PEREZ",
+   "CarneEntra": "42480",
+   "Jug_Entra": "FACUNDO ABAD",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35440",
+   "Jug_Sale": "DIEGO MARTIN BEGUE",
+   "CarneEntra": "64072",
+   "Jug_Entra": "CHARLES GASTON BORBAS",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45538",
+   "Jug_Sale": "LUCAS TORRAZZA",
+   "CarneEntra": "43511",
+   "Jug_Entra": "FABIAN AUGUSTO SUAREZ",
+   "camiseta": "8",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "39998",
+   "Jug_Sale": "BRANDON MAVERINO",
+   "CarneEntra": "67711",
+   "Jug_Entra": "ISMAEL DESCALZI",
+   "camiseta": "23",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "41743",
+   "Jug_Sale": "LUCAS EXEQUIEL DIANESSI",
+   "CarneEntra": "69153",
+   "Jug_Entra": "DENIS NAHUEL MARTIRENA",
+   "camiseta": "47",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "35456",
+   "Jug_Sale": "NICOLAS CAVASSA",
+   "CarneEntra": "67408",
+   "Jug_Entra": "MATEO LIMA",
+   "camiseta": "3",
+   "minutos": "19"
+  },
+  {
+   "CarneSale": "17871",
+   "Jug_Sale": "FEDERICO LUIS LECUEDER",
+   "CarneEntra": "65477",
+   "Jug_Entra": "JULIO GAEL MATTOS",
+   "camiseta": "15",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "32399",
+   "Jug_Sale": "IGNACIO LECUEDER",
+   "CarneEntra": "37957",
+   "Jug_Entra": "ANDRES CURBELO",
+   "camiseta": "71",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29538",
+   "Jug_Sale": "MATIAS DA CUNHA",
+   "CarneEntra": "52901",
+   "Jug_Entra": "SALVADOR BURGOS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34500",
+   "Jug_Sale": "RODRIGO GABRIEL ANGELOTTI",
+   "CarneEntra": "59451",
+   "Jug_Entra": "AGUSTIN MERILES",
+   "camiseta": "20",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "17871",
+   "Jug_Sale": "FEDERICO LUIS LECUEDER",
+   "CarneEntra": "53761",
+   "Jug_Entra": "EMILIANO GASPAR TRUJILLO",
+   "camiseta": "6",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "39998",
+   "Nombre": "BRANDON MAVERINO",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "42480",
+   "Nombre": "FACUNDO ABAD",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60127",
+   "Nombre": "NAHUEL VIERA",
+   "minutos": "49",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61129",
+   "Nombre": "LUIS MIGUEL MORA",
+   "minutos": "86",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55620",
+   "Nombre": "LUCAS BRITOS",
+   "minutos": "56",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,288 @@
+{
+ "id": "100333",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 10,
+ "fechaHora": "2026-06-21 11:15:00",
+ "cancha": "CAMPO DEP. COLEGIO INGLES",
+ "local": "COLEGIO Y LICEO INGLES",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "317",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "CAMPO DEP. COLEGIO INGLES",
+  "Fecha_Inicio": "2026-06-21 00:00:00",
+  "Fecha_fin": "2026-06-21 00:00:00",
+  "Locatario": "COLEGIO Y LICEO INGLES",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44112",
+   "Nombre": "FRANCO RUSSO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47631",
+   "Nombre": "MAURO GAMBETTA",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "45310",
+   "Nombre": "TOMAS ANTONIO MILAT",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45570",
+   "Nombre": "PEDRO MILAT",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47716",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "46227",
+   "Nombre": "JOAQUIN MUÑOZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "56019",
+   "Nombre": "JUAN MANUEL BAZZINO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "59398",
+   "Nombre": "ALFONSO IBARRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49342",
+   "Nombre": "MATEO JOAQUIN FERNANDEZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "45992",
+   "Nombre": "SANTIAGO CAUBARRERE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "47635",
+   "Nombre": "MATEO BURGHI",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51110",
+   "Nombre": "GUILLERMO LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40627",
+   "Nombre": "ALVARO JAVIER AMORENA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "41022",
+   "Nombre": "SANTIAGO ROSSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "60923",
+   "Nombre": "GERMAN IÑAKI BIDEGAIN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64431",
+   "Nombre": "FRANCO JOSUE CASCALLARES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "44086",
+   "Nombre": "GASTON NICOLAS PERE",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56357",
+   "Nombre": "SEBASTIAN PARDO IRIONDO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "49151",
+   "Nombre": "LUCAS MOREIRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52832",
+   "Nombre": "FELIPE ROBATTO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "39055",
+   "Nombre": "LUCAS MARTIN CASTIGLIONI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59267",
+   "Nombre": "JOAQUIN GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47716",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "26911",
+   "Jug_Entra": "BRUNO GIANCARLO GENTILE",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59398",
+   "Jug_Sale": "ALFONSO IBARRA",
+   "CarneEntra": "47463",
+   "Jug_Entra": "AGUSTIN ONETTO",
+   "camiseta": "12",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "46227",
+   "Jug_Sale": "JOAQUIN MUÑOZ",
+   "CarneEntra": "46109",
+   "Jug_Entra": "JOAQUIN REBUFFO",
+   "camiseta": "4",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "49342",
+   "Jug_Sale": "MATEO JOAQUIN FERNANDEZ",
+   "CarneEntra": "59393",
+   "Jug_Entra": "SEBASTIAN MACHADO",
+   "camiseta": "71",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "47631",
+   "Jug_Sale": "MAURO GAMBETTA",
+   "CarneEntra": "39406",
+   "Jug_Entra": "AGUSTIN FELIPEZ",
+   "camiseta": "50",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44086",
+   "Jug_Sale": "GASTON NICOLAS PERE",
+   "CarneEntra": "41107",
+   "Jug_Entra": "MATIAS ANTONIO OXACELHAY",
+   "camiseta": "10",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "59267",
+   "Jug_Sale": "JOAQUIN GARCIA",
+   "CarneEntra": "39029",
+   "Jug_Entra": "FELIPE DIAZ ARNESTO",
+   "camiseta": "20",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "52832",
+   "Jug_Sale": "FELIPE ROBATTO",
+   "CarneEntra": "44088",
+   "Jug_Entra": "FACUNDO DELGADO",
+   "camiseta": "11",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "60923",
+   "Jug_Sale": "GERMAN IÑAKI BIDEGAIN",
+   "CarneEntra": "46937",
+   "Jug_Entra": "MARTIN ROBATTO",
+   "camiseta": "7",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "64431",
+   "Jug_Sale": "FRANCO JOSUE CASCALLARES",
+   "CarneEntra": "49119",
+   "Jug_Entra": "TOMAS CALDERAZZO",
+   "camiseta": "5",
+   "minutos": "74"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45992",
+   "Nombre": "SANTIAGO CAUBARRERE",
+   "minutos": "88",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "39055",
+   "Nombre": "LUCAS MARTIN CASTIGLIONI",
+   "minutos": "31",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52832",
+   "Nombre": "FELIPE ROBATTO",
+   "minutos": "2",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52832",
+   "Nombre": "FELIPE ROBATTO",
+   "minutos": "4",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59267",
+   "Nombre": "JOAQUIN GARCIA",
+   "minutos": "34",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

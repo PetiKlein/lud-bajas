@@ -1,0 +1,277 @@
+{
+ "id": "97930",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "LATINO FUTBOL CLUB",
+ "visitante": "YOUNG UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "362",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-11 13:20:00",
+  "Fecha_fin": "2026-04-11 13:20:00",
+  "Locatario": "LATINO FUTBOL CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "YOUNG UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59728",
+   "Nombre": "ALEJANDRO BOTTO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40984",
+   "Nombre": "MATHIAS GABRIEL ORTIZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56807",
+   "Nombre": "JOAQUIN LUTHAR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62061",
+   "Nombre": "MAURO CARRERA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62074",
+   "Nombre": "FRANCISCO BURGOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42311",
+   "Nombre": "DIEGO MATIAS VIZCARRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59787",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "49189",
+   "Nombre": "MANU BERVEJILLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49193",
+   "Nombre": "JUAN PEREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "62075",
+   "Nombre": "SANTIAGO SOSA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "62907",
+   "Nombre": "IGNACIO TELESCA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66386",
+   "Nombre": "FRANCISCO CONSTANTIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58823",
+   "Nombre": "JUSTINO LAFLUF",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66758",
+   "Nombre": "ANTHONY FACCIO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66136",
+   "Nombre": "ALFONSO MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "61038",
+   "Nombre": "CONRADO HEINZE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56337",
+   "Nombre": "IVAN HARTWICH",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "66169",
+   "Nombre": "ALEJO ANDRES AIZPUN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "50094",
+   "Nombre": "NICOLAS MARIA ACOSTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49189",
+   "Jug_Sale": "MANU BERVEJILLO",
+   "CarneEntra": "43741",
+   "Jug_Entra": "SANTIAGO ALVES",
+   "camiseta": "14",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "56807",
+   "Jug_Sale": "JOAQUIN LUTHAR",
+   "CarneEntra": "59776",
+   "Jug_Entra": "MARTINO LORENZO FLORA",
+   "camiseta": "7",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "49193",
+   "Jug_Sale": "JUAN PEREZ",
+   "CarneEntra": "62064",
+   "Jug_Entra": "PEDRO DAVEREDE",
+   "camiseta": "5",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "62061",
+   "Jug_Sale": "MAURO CARRERA",
+   "CarneEntra": "46887",
+   "Jug_Entra": "TOMAS MACHADO",
+   "camiseta": "15",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "62075",
+   "Jug_Sale": "SANTIAGO SOSA",
+   "CarneEntra": "44390",
+   "Jug_Entra": "LEANDRO AGUIAR",
+   "camiseta": "13",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56337",
+   "Jug_Sale": "IVAN HARTWICH",
+   "CarneEntra": "56157",
+   "Jug_Entra": "JEREMIAS SILVEIRA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50094",
+   "Jug_Sale": "NICOLAS MARIA ACOSTA",
+   "CarneEntra": "62237",
+   "Jug_Entra": "SANTINO ACOSTA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58823",
+   "Jug_Sale": "JUSTINO LAFLUF",
+   "CarneEntra": "64597",
+   "Jug_Entra": "JOAQUIN TUCAT",
+   "camiseta": "19",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "64592",
+   "Jug_Sale": "GERONIMO VANZINI",
+   "CarneEntra": "58825",
+   "Jug_Entra": "GONZALO FERNANDEZ",
+   "camiseta": "8",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "66169",
+   "Jug_Sale": "ALEJO ANDRES AIZPUN",
+   "CarneEntra": "66216",
+   "Jug_Entra": "TABARE FACUNDO RAMOS",
+   "camiseta": "22",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "59693",
+   "Jug_Sale": "TOMAS CONSTANTIN",
+   "CarneEntra": "64739",
+   "Jug_Entra": "SANTIAGO SCREMINI",
+   "camiseta": "16",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "64599",
+   "Jug_Sale": "CRISTIANO MATIAS PIGNATA",
+   "CarneEntra": "52893",
+   "Jug_Entra": "EZEQUIEL FRANCO",
+   "camiseta": "9",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

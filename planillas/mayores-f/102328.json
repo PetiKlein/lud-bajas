@@ -1,0 +1,271 @@
+{
+ "id": "102328",
+ "categoria": "mayores-f",
+ "serie": "FTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-27 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "BELLA UNION UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "1122",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"F\" TIT. y ASC.",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-09-27 10:55:00",
+  "Fecha_fin": "2026-09-27 10:55:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "BELLA UNION UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59906",
+   "Nombre": "MATEO FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67299",
+   "Nombre": "FRANCO NICOLAS PURTSCHER",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "57278",
+   "Nombre": "LUCAS REINOSO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56465",
+   "Nombre": "EZEQUIEL MONTIEL",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "60958",
+   "Nombre": "FEDERICO MANUELIAN",
+   "camiseta": "99",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "36368",
+   "Nombre": "MARCOS MANUEL QUEIROZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "47551",
+   "Nombre": "PATRICIO COLLAZO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "62488",
+   "Nombre": "JOAQUIN SEBASTIAN CASAL",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60652",
+   "Nombre": "MATIAS VARELA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "54465",
+   "Nombre": "BRUNO POUND",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60893",
+   "Nombre": "LEONARDO GABRIEL PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56169",
+   "Nombre": "MAXIMILIANO LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68480",
+   "Nombre": "MAIKOL MACIEL",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "57139",
+   "Nombre": "ELBIO YONATAN FERREIRA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66284",
+   "Nombre": "JUAN IGNACIO BARCELLOS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "60851",
+   "Nombre": "IGNACIO DUARTE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61006",
+   "Nombre": "MAICKOL GABRIEL MACHADO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "51809",
+   "Nombre": "ALEXANDRE GABRIEL DIAZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "61184",
+   "Nombre": "ELVIS BELTRAN SILVA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49701",
+   "Nombre": "CRISTIAN CARBALLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "45449",
+   "Nombre": "MANUEL QUINTANA",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "36368",
+   "Jug_Sale": "MARCOS MANUEL QUEIROZ",
+   "CarneEntra": "61822",
+   "Jug_Entra": "LUCAS PEREIRA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62488",
+   "Jug_Sale": "JOAQUIN SEBASTIAN CASAL",
+   "CarneEntra": "44997",
+   "Jug_Entra": "NICOLAS GEYMONAT",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54931",
+   "Jug_Sale": "GENARO VALENTIN COLOMBO",
+   "CarneEntra": "59036",
+   "Jug_Entra": "FACUNDO ROSADO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44997",
+   "Jug_Sale": "NICOLAS GEYMONAT",
+   "CarneEntra": "59907",
+   "Jug_Entra": "LUCIANO GONZALEZ",
+   "camiseta": "7",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "47551",
+   "Jug_Sale": "PATRICIO COLLAZO",
+   "CarneEntra": "59910",
+   "Jug_Entra": "FACUNDO OZMAN PERDOMO",
+   "camiseta": "12",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "54465",
+   "Jug_Sale": "BRUNO POUND",
+   "CarneEntra": "59027",
+   "Jug_Entra": "RODRIGO IGNACIO VILAS",
+   "camiseta": "6",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "45449",
+   "Jug_Sale": "MANUEL QUINTANA",
+   "CarneEntra": "64725",
+   "Jug_Entra": "JUAN ROBERTO CAPIZAN",
+   "camiseta": "22",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "61006",
+   "Jug_Sale": "MAICKOL GABRIEL MACHADO",
+   "CarneEntra": "53075",
+   "Jug_Entra": "NAHUEL NICOLAS BONINO",
+   "camiseta": "16",
+   "minutos": "8"
+  },
+  {
+   "CarneSale": "60851",
+   "Jug_Sale": "IGNACIO DUARTE",
+   "CarneEntra": "64360",
+   "Jug_Entra": "RODRIGO ANDRES SILVEIRA",
+   "camiseta": "86",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "49701",
+   "Jug_Sale": "CRISTIAN CARBALLO",
+   "CarneEntra": "49700",
+   "Jug_Entra": "LEANDRO MARTIN SARASUA",
+   "camiseta": "20",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "57139",
+   "Jug_Sale": "ELBIO YONATAN FERREIRA",
+   "CarneEntra": "49457",
+   "Jug_Entra": "FACUNDO PEREIRA",
+   "camiseta": "2",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60652",
+   "Nombre": "MATIAS VARELA",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

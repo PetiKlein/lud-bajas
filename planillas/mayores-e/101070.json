@@ -1,0 +1,274 @@
+{
+ "id": "101070",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 15,
+ "fechaHora": "2026-08-16 11:15:00",
+ "cancha": "LOS TEROS",
+ "local": "EL CHORRO FUTBOL CLUB",
+ "visitante": "SAN CONO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "594",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "LOS TEROS",
+  "Fecha_Inicio": "2026-08-16 13:15:00",
+  "Fecha_fin": "2026-08-16 13:15:00",
+  "Locatario": "EL CHORRO FUTBOL CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "SAN CONO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60685",
+   "Nombre": "MATEO HEROSA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54094",
+   "Nombre": "MARTIN ALVARIZA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "48329",
+   "Nombre": "ANDRES SEBASTIAN CHANG",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "44154",
+   "Nombre": "GASTON BERRIEL",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51878",
+   "Nombre": "MATHIAS SCHWARZ",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "48417",
+   "Nombre": "RENZO PITTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55770",
+   "Nombre": "JUAN IGNACIO RIPOLL",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "45790",
+   "Nombre": "PEDRO BARBARO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "31253",
+   "Nombre": "ADRIAN IGNACIO CAFFARELLI",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68035",
+   "Nombre": "AGUSTIN ANDRES GEBELIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53627",
+   "Nombre": "JUAN MANUEL DELFINO",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "34347",
+   "Nombre": "DIEGO MARTIN BALDRIZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59254",
+   "Nombre": "MATIAS NICOLAS AUDIFFRED",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67333",
+   "Nombre": "GASTON EXEQUIEL SARMIENTO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "51990",
+   "Nombre": "LUCAS JOAQUIN DORTA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49275",
+   "Nombre": "ALEJO DE GIOBBI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51146",
+   "Nombre": "JOSE IGNACIO PIZZINI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61281",
+   "Nombre": "LUCAS OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59011",
+   "Nombre": "NAHUEL ACOSTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "47089",
+   "Nombre": "GUSTAVO ISMAEL DUARTE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60768",
+   "Nombre": "BRADLEY JESUS COLLAZO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63261",
+   "Nombre": "NICOLAS SANGUINE",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54094",
+   "Jug_Sale": "MARTIN ALVARIZA",
+   "CarneEntra": "52862",
+   "Jug_Entra": "FACUNDO ROMERO",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45790",
+   "Jug_Sale": "PEDRO BARBARO",
+   "CarneEntra": "43462",
+   "Jug_Entra": "JUAN IGNACIO GUADALUPE",
+   "camiseta": "17",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "55770",
+   "Jug_Sale": "JUAN IGNACIO RIPOLL",
+   "CarneEntra": "45790",
+   "Jug_Entra": "PEDRO BARBARO",
+   "camiseta": "10",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "48329",
+   "Jug_Sale": "ANDRES SEBASTIAN CHANG",
+   "CarneEntra": "56369",
+   "Jug_Entra": "NICOLAS CADENAZZI",
+   "camiseta": "26",
+   "minutos": "94"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61281",
+   "Jug_Sale": "LUCAS OLIVERA",
+   "CarneEntra": "67159",
+   "Jug_Entra": "BRUNO CORREA",
+   "camiseta": "42",
+   "minutos": "7"
+  },
+  {
+   "CarneSale": "51146",
+   "Jug_Sale": "JOSE IGNACIO PIZZINI",
+   "CarneEntra": "60352",
+   "Jug_Entra": "MARCOS ALEN CALLEJA",
+   "camiseta": "7",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "63261",
+   "Jug_Sale": "NICOLAS SANGUINE",
+   "CarneEntra": "61281",
+   "Jug_Entra": "LUCAS OLIVERA",
+   "camiseta": "8",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "59011",
+   "Jug_Sale": "NAHUEL ACOSTA",
+   "CarneEntra": "61531",
+   "Jug_Entra": "GONZALO GABRIEL BERRUTTI",
+   "camiseta": "11",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "47089",
+   "Jug_Sale": "GUSTAVO ISMAEL DUARTE",
+   "CarneEntra": "61532",
+   "Jug_Entra": "JUAN IGNACIO OLIVERA",
+   "camiseta": "13",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "31253",
+   "Nombre": "ADRIAN IGNACIO CAFFARELLI",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "45790",
+   "Nombre": "PEDRO BARBARO",
+   "minutos": "2",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51990",
+   "Nombre": "LUCAS JOAQUIN DORTA",
+   "minutos": "32",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63261",
+   "Nombre": "NICOLAS SANGUINE",
+   "minutos": "23",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

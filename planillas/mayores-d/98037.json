@@ -1,0 +1,300 @@
+{
+ "id": "98037",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 1,
+ "fechaHora": "2026-04-12 09:00:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "363",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-04-12 11:00:00",
+  "Fecha_fin": "2026-04-12 11:00:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44677",
+   "Nombre": "CARLOS FACUNDO MORENO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "45466",
+   "Nombre": "AGUSTIN CALABUIG",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "54838",
+   "Nombre": "AGUSTIN GANACHIPPI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66317",
+   "Nombre": "SANTIAGO PFEIFF",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59641",
+   "Nombre": "SANTIAGO EZEQUIEL ROSA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63846",
+   "Nombre": "JUAN GONZALO JIMENEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54839",
+   "Nombre": "NICOLAS ANTELO",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "50237",
+   "Nombre": "ADRIAN LUIS PEREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "43621",
+   "Nombre": "DIEGO MARTIN BOUZAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54846",
+   "Nombre": "JUAN IGNACIO VAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56822",
+   "Nombre": "JUAN IGNACIO TELLECHEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48878",
+   "Nombre": "JUAN JOSE CERVIERI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49737",
+   "Nombre": "MATIAS ACQUARONE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "39543",
+   "Nombre": "RAFAEL VELAZCO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54729",
+   "Nombre": "FRANCISCO MANUEL IGLESIAS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "42780",
+   "Nombre": "IGNACIO DARWIN GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "40130",
+   "Nombre": "SANTIAGO VISCAY",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54731",
+   "Nombre": "GERONIMO GAIERO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "43423",
+   "Nombre": "BRAULIO CAPAGORRY",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63613",
+   "Nombre": "EUSEBIO CABRAL",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "53922",
+   "Nombre": "IGNACIO FERNANDEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43621",
+   "Jug_Sale": "DIEGO MARTIN BOUZAS",
+   "CarneEntra": "54513",
+   "Jug_Entra": "MATIAS MICHEL TORRES",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63846",
+   "Jug_Sale": "JUAN GONZALO JIMENEZ",
+   "CarneEntra": "65879",
+   "Jug_Entra": "NAHUEL OLIVETTO",
+   "camiseta": "18",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "50237",
+   "Jug_Sale": "ADRIAN LUIS PEREIRA",
+   "CarneEntra": "52322",
+   "Jug_Entra": "GASTON MOZEJKO",
+   "camiseta": "15",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "59641",
+   "Jug_Sale": "SANTIAGO EZEQUIEL ROSA",
+   "CarneEntra": "65354",
+   "Jug_Entra": "JULIAN COHENAR",
+   "camiseta": "16",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "54839",
+   "Jug_Sale": "NICOLAS ANTELO",
+   "CarneEntra": "59389",
+   "Jug_Entra": "RODRIGO GERMAN FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "54846",
+   "Jug_Sale": "JUAN IGNACIO VAZ",
+   "CarneEntra": "49250",
+   "Jug_Entra": "SANTIAGO ROO",
+   "camiseta": "27",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "31995",
+   "Jug_Sale": "JORGE IGNACIO DIAZ",
+   "CarneEntra": "55263",
+   "Jug_Entra": "FACUNDO CARRARA",
+   "camiseta": "19",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42780",
+   "Jug_Sale": "IGNACIO DARWIN GONZALEZ",
+   "CarneEntra": "44470",
+   "Jug_Entra": "AGUSTIN GABRIEL SILVA",
+   "camiseta": "7",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "63613",
+   "Jug_Sale": "EUSEBIO CABRAL",
+   "CarneEntra": "45162",
+   "Jug_Entra": "IGNACIO MONFORT",
+   "camiseta": "22",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "48878",
+   "Jug_Sale": "JUAN JOSE CERVIERI",
+   "CarneEntra": "37816",
+   "Jug_Entra": "EMILIANO PABLO BONINI",
+   "camiseta": "31",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "40130",
+   "Jug_Sale": "SANTIAGO VISCAY",
+   "CarneEntra": "62706",
+   "Jug_Entra": "FACUNDO RAMA",
+   "camiseta": "4",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "43423",
+   "Jug_Sale": "BRAULIO CAPAGORRY",
+   "CarneEntra": "55316",
+   "Jug_Entra": "LUCIANO VICINO",
+   "camiseta": "30",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "54731",
+   "Jug_Sale": "GERONIMO GAIERO",
+   "CarneEntra": "45255",
+   "Jug_Entra": "NICOLAS VISCAY",
+   "camiseta": "15",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "53922",
+   "Jug_Sale": "IGNACIO FERNANDEZ",
+   "CarneEntra": "59787",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "18",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54846",
+   "Nombre": "JUAN IGNACIO VAZ",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "RAFAEL VELAZCO",
+   "observaciones": ""
+  }
+ ]
+}

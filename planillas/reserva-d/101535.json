@@ -1,0 +1,264 @@
+{
+ "id": "101535",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 2,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "YAGUARI",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "567",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-09-05 00:00:00",
+  "Fecha_fin": "2026-09-05 00:00:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "YAGUARI",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "50871",
+   "Nombre": "FEDERICO BRUGNOLI",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48893",
+   "Nombre": "EMILIANO TELLECHEA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "54111",
+   "Nombre": "FACUNDO ALVAREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "57246",
+   "Nombre": "FRANCO MOURGLIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54905",
+   "Nombre": "SANTIAGO LIMA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55200",
+   "Nombre": "MAURO MATEO HERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54908",
+   "Nombre": "JOAQUIN BROMBAUER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51124",
+   "Nombre": "FRANCISCO RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54902",
+   "Nombre": "SEBASTIAN LUCIARDI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "50343",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39264",
+   "Nombre": "BRUNO MARTINEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "65852",
+   "Nombre": "BAUTISTA DIBOT",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "39081",
+   "Nombre": "IGNACIO EASTMAN",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "55076",
+   "Nombre": "SIMON RUSSI",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "55080",
+   "Nombre": "FRANCISCO CERONI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59170",
+   "Nombre": "FRANCISCO SANTAMARIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "51073",
+   "Nombre": "GASTON PALERMO",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40963",
+   "Nombre": "JUAN DIEGO GOMEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "68817",
+   "Nombre": "SANTIAGO UMPIERREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64265",
+   "Nombre": "DIEGO CALLEROS",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "59647",
+   "Nombre": "TIMOTEO APARICIO MARTINO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48893",
+   "Jug_Sale": "EMILIANO TELLECHEA",
+   "CarneEntra": "49420",
+   "Jug_Entra": "JUAN MANUEL GRANERO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54902",
+   "Jug_Sale": "SEBASTIAN LUCIARDI",
+   "CarneEntra": "58090",
+   "Jug_Entra": "SANTIAGO DE OLIVERA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55200",
+   "Jug_Sale": "MAURO MATEO HERNANDEZ",
+   "CarneEntra": "58541",
+   "Jug_Entra": "RODRIGO SEBABSTIAN CABRERA",
+   "camiseta": "20",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "50343",
+   "Jug_Sale": "TOMAS PEREZ",
+   "CarneEntra": "55569",
+   "Jug_Entra": "TOMAS NEGREIRA",
+   "camiseta": "17",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "51124",
+   "Jug_Sale": "FRANCISCO RODRIGUEZ",
+   "CarneEntra": "55179",
+   "Jug_Entra": "SANTIAGO COUTO",
+   "camiseta": "18",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "53294",
+   "Jug_Sale": "AGUSTIN SANTIÑAQUE",
+   "CarneEntra": "55296",
+   "Jug_Entra": "MATEO VAZQUEZ",
+   "camiseta": "19",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "54905",
+   "Jug_Sale": "SANTIAGO LIMA",
+   "CarneEntra": "50596",
+   "Jug_Entra": "SANTIAGO VINAGRE",
+   "camiseta": "15",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59647",
+   "Jug_Sale": "TIMOTEO APARICIO MARTINO",
+   "CarneEntra": "55776",
+   "Jug_Entra": "ALFONSO MARTINO",
+   "camiseta": "33",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "64265",
+   "Jug_Sale": "DIEGO CALLEROS",
+   "CarneEntra": "54378",
+   "Jug_Entra": "NICOLAS VAZQUEZ",
+   "camiseta": "77",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "55080",
+   "Jug_Sale": "FRANCISCO CERONI",
+   "CarneEntra": "45639",
+   "Jug_Entra": "PATRICIO CORREA",
+   "camiseta": "17",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "59170",
+   "Jug_Sale": "FRANCISCO SANTAMARIA",
+   "CarneEntra": "61793",
+   "Jug_Entra": "JOHEL PORTELA",
+   "camiseta": "80",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

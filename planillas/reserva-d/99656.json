@@ -1,0 +1,293 @@
+{
+ "id": "99656",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "YOUNG UNIVERSITARIO",
+ "visitante": "CLUB FUERZA AEREA",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "404",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-06-06 13:10:00",
+  "Fecha_fin": "2026-06-06 13:10:00",
+  "Locatario": "YOUNG UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB FUERZA AEREA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59239",
+   "Nombre": "NICOLAS VILA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62225",
+   "Nombre": "FELIPE GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66136",
+   "Nombre": "ALFONSO MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67786",
+   "Nombre": "IGNACIO BALLEJO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64245",
+   "Nombre": "THIAGO RUPPEL",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67395",
+   "Nombre": "VALENTINO SACRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66169",
+   "Nombre": "ALEJO ANDRES AIZPUN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "52893",
+   "Nombre": "EZEQUIEL FRANCO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46851",
+   "Nombre": "GASTON RAFAEL MOIRANO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65781",
+   "Nombre": "AXEL NAHUEL PIMENTEL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "30093",
+   "Nombre": "FERNANDO GABRIEL DE MEDINA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46892",
+   "Nombre": "JUAN PABLO DE MEDINA",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "63084",
+   "Nombre": "KEVIN NICOLAS LAVALLEJA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "24285",
+   "Nombre": "ALBERTO DE MEDINA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "30083",
+   "Nombre": "MATHIAS AYRTON FUIDIO",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "67252",
+   "Nombre": "ROBERT MARCELO MEHARU",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63083",
+   "Nombre": "DIEGO NICOLAS GRACES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "57856",
+   "Nombre": "MAXIMO TOLEDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64721",
+   "Nombre": "BRUNO LUCIANO DELGADO",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62225",
+   "Jug_Sale": "FELIPE GONZALEZ",
+   "CarneEntra": "51511",
+   "Jug_Entra": "AGUSTIN NICOLAS SANTANA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52893",
+   "Jug_Sale": "EZEQUIEL FRANCO",
+   "CarneEntra": "56157",
+   "Jug_Entra": "JEREMIAS SILVEIRA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64245",
+   "Jug_Sale": "THIAGO RUPPEL",
+   "CarneEntra": "47012",
+   "Jug_Entra": "SANTIAGO ANDRES IZAGUIRRE",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67786",
+   "Jug_Sale": "IGNACIO BALLEJO",
+   "CarneEntra": "64742",
+   "Jug_Entra": "GASPAR HERMOSO",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64592",
+   "Jug_Sale": "GERONIMO VANZINI",
+   "CarneEntra": "62428",
+   "Jug_Entra": "HENRRY RIOS",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66169",
+   "Jug_Sale": "ALEJO ANDRES AIZPUN",
+   "CarneEntra": "29823",
+   "Jug_Entra": "JOVAN ANDRES KLARIC",
+   "camiseta": "28",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30093",
+   "Jug_Sale": "FERNANDO GABRIEL DE MEDINA",
+   "CarneEntra": "60254",
+   "Jug_Entra": "AXEL RAFAEL DAVILA",
+   "camiseta": "21",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "67252",
+   "Jug_Sale": "ROBERT MARCELO MEHARU",
+   "CarneEntra": "67892",
+   "Jug_Entra": "VALENTIN DECIMA",
+   "camiseta": "18",
+   "minutos": "36"
+  },
+  {
+   "CarneSale": "64721",
+   "Jug_Sale": "BRUNO LUCIANO DELGADO",
+   "CarneEntra": "67305",
+   "Jug_Entra": "MATHIAS NICOLAS DE LA FUENTE",
+   "camiseta": "30",
+   "minutos": "36"
+  },
+  {
+   "CarneSale": "30083",
+   "Jug_Sale": "MATHIAS AYRTON FUIDIO",
+   "CarneEntra": "37472",
+   "Jug_Entra": "SANTIAGO CLEMENTE",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63083",
+   "Jug_Sale": "DIEGO NICOLAS GRACES",
+   "CarneEntra": "55096",
+   "Jug_Entra": "MATIAS GIMENEZ",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65781",
+   "Jug_Sale": "AXEL NAHUEL PIMENTEL",
+   "CarneEntra": "46852",
+   "Jug_Entra": "ALEXIS AMOROSO",
+   "camiseta": "6",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "46892",
+   "Jug_Sale": "JUAN PABLO DE MEDINA",
+   "CarneEntra": "47191",
+   "Jug_Entra": "CARLOS FACUNDO CABRERA",
+   "camiseta": "5",
+   "minutos": "61"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64245",
+   "Nombre": "THIAGO RUPPEL",
+   "minutos": "43",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,328 @@
+{
+ "id": "99645",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "TENIS EL PINAR SUB22",
+ "gl": 1,
+ "gv": 9,
+ "detalle": {
+  "nro_partido": "469",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-06-06 00:00:00",
+  "Fecha_fin": "2026-06-06 00:00:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "TENIS EL PINAR SUB22",
+  "goles_visitante": "9",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56973",
+   "Nombre": "LUCAS CORREA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62443",
+   "Nombre": "JUAN SEBASTIAN RUMBO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53351",
+   "Nombre": "IGNACIO GIL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67277",
+   "Nombre": "JUAN ANDRES COTELO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "51803",
+   "Nombre": "SEBASTIAN TRONCOSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "55484",
+   "Nombre": "GUILLERMO URIA",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "53826",
+   "Nombre": "JUAN IGNACIO SOSA DIAS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "63818",
+   "Nombre": "MARTIN LARDITO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67275",
+   "Nombre": "MATEO MORALES",
+   "camiseta": "92",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56171",
+   "Nombre": "MARIANO DANIEL OTTONELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52444",
+   "Nombre": "SEBASTIAN CARBAJAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52625",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51804",
+   "Nombre": "JUAN IGNACIO LEIVA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52634",
+   "Nombre": "JUAN IGNACIO QUINTANA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58083",
+   "Nombre": "IGNACIO FACUNDO RICOBALDI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53826",
+   "Jug_Sale": "JUAN IGNACIO SOSA DIAS",
+   "CarneEntra": "64777",
+   "Jug_Entra": "IVAN VEGOVICH",
+   "camiseta": "24",
+   "minutos": "13"
+  },
+  {
+   "CarneSale": "63818",
+   "Jug_Sale": "MARTIN LARDITO",
+   "CarneEntra": "64764",
+   "Jug_Entra": "SANTIAGO SANCHEZ",
+   "camiseta": "42",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "67277",
+   "Jug_Sale": "JUAN ANDRES COTELO",
+   "CarneEntra": "52787",
+   "Jug_Entra": "IGNACIO SLINGER",
+   "camiseta": "69",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67275",
+   "Jug_Sale": "MATEO MORALES",
+   "CarneEntra": "62585",
+   "Jug_Entra": "ANDRES CAETANO PORCILE",
+   "camiseta": "90",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "59752",
+   "Jug_Sale": "RAMIRO LOPEZ",
+   "CarneEntra": "64252",
+   "Jug_Entra": "SANTIAGO BORRELLI",
+   "camiseta": "16",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "51803",
+   "Jug_Sale": "SEBASTIAN TRONCOSO",
+   "CarneEntra": "68624",
+   "Jug_Entra": "JUAN MANUEL MEDEYROS",
+   "camiseta": "32",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52634",
+   "Jug_Sale": "JUAN IGNACIO QUINTANA",
+   "CarneEntra": "61528",
+   "Jug_Entra": "SANTIAGO DAMIAN PEREIRA",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52640",
+   "Jug_Sale": "VALENTIN COLOMINAS",
+   "CarneEntra": "66514",
+   "Jug_Entra": "MARTIN DIAZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52444",
+   "Jug_Sale": "SEBASTIAN CARBAJAL",
+   "CarneEntra": "52629",
+   "Jug_Entra": "SEBASTIAN PIRRI",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57966",
+   "Jug_Sale": "FRANCISCO LOURTET",
+   "CarneEntra": "53418",
+   "Jug_Entra": "FACUNDO VARIO",
+   "camiseta": "15",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "minutos": "39",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51804",
+   "Nombre": "JUAN IGNACIO LEIVA",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "minutos": "4",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "minutos": "3",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "4",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53418",
+   "Nombre": "FACUNDO VARIO",
+   "minutos": "79",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61528",
+   "Nombre": "SANTIAGO DAMIAN PEREIRA",
+   "minutos": "44",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GUILLERMO URIA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "AGUSTIN FIRPO",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "id": "98826",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "COLEGIO PIO",
+ "local": "DANUBIO FUTBOL CLUB",
+ "visitante": "SEMINARIO UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "276",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-05-16 13:00:00",
+  "Fecha_fin": "2026-05-16 13:00:00",
+  "Locatario": "DANUBIO FUTBOL CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SEMINARIO UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67271",
+   "Nombre": "GASTON GIMENEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61832",
+   "Nombre": "AGUSTIN FRANCA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56300",
+   "Nombre": "NICOLAS CARDOZO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54393",
+   "Nombre": "KEVIN SEBASTIAN LUDUEÑA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66995",
+   "Nombre": "LAUTARO AMAYA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "55067",
+   "Nombre": "NICOLAS MAURO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63923",
+   "Nombre": "ADRIAN MOREIRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66120",
+   "Nombre": "AGUSTIN CALZADA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63586",
+   "Nombre": "EMILIANO ARREGUI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58566",
+   "Nombre": "RAMIRO GERMAN CAPELLI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64143",
+   "Nombre": "ALFONSO GONZALEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52841",
+   "Nombre": "ALFONSO LEMA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "50779",
+   "Nombre": "JUAN IGNACIO FERREIRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59290",
+   "Nombre": "LUIS FELIPE SUSENA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51012",
+   "Nombre": "JUAN JOSE GENTILE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56835",
+   "Nombre": "JUAN IGNACIO URRETAVIZCAYA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53404",
+   "Nombre": "FRANCO BONAVOGLIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53657",
+   "Nombre": "MATEO PERTUSSO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52756",
+   "Nombre": "RODRIGO SIENRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55504",
+   "Nombre": "JUAN SANTIAGO GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "52843",
+   "Nombre": "JUAN ANDRES RAMIREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "50807",
+   "Nombre": "JOSE DOMINGO MARTINELLI",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67271",
+   "Jug_Sale": "GASTON GIMENEZ",
+   "CarneEntra": "30402",
+   "Jug_Entra": "GONZALO MARTIN PERALTA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66120",
+   "Jug_Sale": "AGUSTIN CALZADA",
+   "CarneEntra": "46276",
+   "Jug_Entra": "FRANCO GUSTAVO MARFEI",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58566",
+   "Jug_Sale": "RAMIRO GERMAN CAPELLI",
+   "CarneEntra": "54780",
+   "Jug_Entra": "ESTEBAN DANIEL VAZQUEZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63586",
+   "Jug_Sale": "EMILIANO ARREGUI",
+   "CarneEntra": "62347",
+   "Jug_Entra": "JUAN MATEO LARREA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56300",
+   "Jug_Sale": "NICOLAS CARDOZO",
+   "CarneEntra": "58614",
+   "Jug_Entra": "DIEGO ALLENDE",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46276",
+   "Jug_Sale": "FRANCO GUSTAVO MARFEI",
+   "CarneEntra": "58647",
+   "Jug_Entra": "DIEGO FERNANDO MORALES",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64143",
+   "Jug_Sale": "ALFONSO GONZALEZ",
+   "CarneEntra": "66120",
+   "Jug_Entra": "AGUSTIN CALZADA",
+   "camiseta": "5",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59290",
+   "Jug_Sale": "LUIS FELIPE SUSENA",
+   "CarneEntra": "50784",
+   "Jug_Entra": "FRANCO PASCALE",
+   "camiseta": "3",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "52756",
+   "Jug_Sale": "RODRIGO SIENRA",
+   "CarneEntra": "62273",
+   "Jug_Entra": "SANTIAGO CABRERA",
+   "camiseta": "16",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "50807",
+   "Jug_Sale": "JOSE DOMINGO MARTINELLI",
+   "CarneEntra": "51014",
+   "Jug_Entra": "FANCISCO QUIJANO",
+   "camiseta": "8",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58566",
+   "Nombre": "RAMIRO GERMAN CAPELLI",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58566",
+   "Nombre": "RAMIRO GERMAN CAPELLI",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52843",
+   "Nombre": "JUAN ANDRES RAMIREZ",
+   "minutos": "59",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

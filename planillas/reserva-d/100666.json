@@ -1,0 +1,307 @@
+{
+ "id": "100666",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 11,
+ "fechaHora": "2026-07-02 21:00:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "SAN CONO",
+ "visitante": "ELF BLANCO",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "492",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-07-02 23:00:00",
+  "Fecha_fin": "2026-07-02 23:00:00",
+  "Locatario": "SAN CONO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ELF BLANCO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "43063",
+   "Nombre": "JOAQUIN MATTEO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "63261",
+   "Nombre": "NICOLAS SANGUINE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59011",
+   "Nombre": "NAHUEL ACOSTA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57266",
+   "Nombre": "JUAN MANUEL SANGUINE",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "61532",
+   "Nombre": "JUAN IGNACIO OLIVERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "60352",
+   "Nombre": "MARCOS ALEN CALLEJA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61942",
+   "Nombre": "AGUSTIN EZEQUIEL DE LOS REYES",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61531",
+   "Nombre": "GONZALO GABRIEL BERRUTTI",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64654",
+   "Nombre": "GASTON ZAMBRAN",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61099",
+   "Nombre": "AGUSTIN BARRIOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66467",
+   "Nombre": "DIEGO LOTTI",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59826",
+   "Nombre": "ALFONSO BADANO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50709",
+   "Nombre": "LORENZO MAZZUCCHELLI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "46857",
+   "Nombre": "GABRIEL MARTINEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47715",
+   "Nombre": "PHILIPPE CHAPT",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56278",
+   "Nombre": "NAHUEL MENDEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "57205",
+   "Nombre": "DIAGO COSTA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66787",
+   "Nombre": "EZEQUIEL HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "40799",
+   "Nombre": "IGNACIO KAPRIELIAN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51154",
+   "Nombre": "JUAN JOSE RAMON SCANDROGLIO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "45874",
+   "Nombre": "LUCAS BURGHI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "38746",
+   "Nombre": "JUAN MANUEL PAGOLA",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61942",
+   "Jug_Sale": "AGUSTIN EZEQUIEL DE LOS REYES",
+   "CarneEntra": "55354",
+   "Jug_Entra": "JAIRO ALI ARAQUE",
+   "camiseta": "41",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "57266",
+   "Jug_Sale": "JUAN MANUEL SANGUINE",
+   "CarneEntra": "63753",
+   "Jug_Entra": "ESTEBAN MAXIMILIANO SASTRE",
+   "camiseta": "15",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "66467",
+   "Jug_Sale": "DIEGO LOTTI",
+   "CarneEntra": "61524",
+   "Jug_Entra": "SEBASTIAN ENZO GUISADO",
+   "camiseta": "71",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "60352",
+   "Jug_Sale": "MARCOS ALEN CALLEJA",
+   "CarneEntra": "59003",
+   "Jug_Entra": "FACUNDO MATTEO",
+   "camiseta": "4",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "63261",
+   "Jug_Sale": "NICOLAS SANGUINE",
+   "CarneEntra": "23009",
+   "Jug_Entra": "RODRIGO DE PAULA",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59011",
+   "Jug_Sale": "NAHUEL ACOSTA",
+   "CarneEntra": "61529",
+   "Jug_Entra": "MATEO FERREIRA",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61531",
+   "Jug_Sale": "GONZALO GABRIEL BERRUTTI",
+   "CarneEntra": "66469",
+   "Jug_Entra": "DANIEL ANDRES LAUREANO",
+   "camiseta": "34",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50709",
+   "Jug_Sale": "LORENZO MAZZUCCHELLI",
+   "CarneEntra": "57927",
+   "Jug_Entra": "MATEO TIO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47715",
+   "Jug_Sale": "PHILIPPE CHAPT",
+   "CarneEntra": "55866",
+   "Jug_Entra": "FEDERICO BUHL",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66787",
+   "Jug_Sale": "EZEQUIEL HERNANDEZ",
+   "CarneEntra": "51720",
+   "Jug_Entra": "OCTAVIO BERRUTI",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40799",
+   "Jug_Sale": "IGNACIO KAPRIELIAN",
+   "CarneEntra": "61002",
+   "Jug_Entra": "PEDRO RAINERI",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51154",
+   "Jug_Sale": "JUAN JOSE RAMON SCANDROGLIO",
+   "CarneEntra": "45878",
+   "Jug_Entra": "NICOLAS PEREZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46857",
+   "Jug_Sale": "GABRIEL MARTINEZ",
+   "CarneEntra": "51919",
+   "Jug_Entra": "SANTIAGO GRAU PEREZ",
+   "camiseta": "17",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "45874",
+   "Jug_Sale": "LUCAS BURGHI",
+   "CarneEntra": "40646",
+   "Jug_Entra": "JOAQUIN MATIAS DE LEON",
+   "camiseta": "8",
+   "minutos": "63"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "38746",
+   "Nombre": "JUAN MANUEL PAGOLA",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45878",
+   "Nombre": "NICOLAS PEREZ",
+   "minutos": "89",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61002",
+   "Nombre": "PEDRO RAINERI",
+   "minutos": "83",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

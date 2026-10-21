@@ -1,0 +1,316 @@
+{
+ "id": "98060",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 1,
+ "fechaHora": "2026-04-12 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "SAN PABLO UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "246",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-04-12 11:00:00",
+  "Fecha_fin": "2026-04-12 11:00:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "SAN PABLO UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23480",
+   "Nombre": "IGNACIO GASTON BIDEGAIN",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51528",
+   "Nombre": "CARLOS ALFREDO DUARTE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61296",
+   "Nombre": "JOAQUIN LUCIANO NUÑEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54134",
+   "Nombre": "MARTIN CORTINAS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55234",
+   "Nombre": "LUCAS DO VALLE PEIXOTO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59249",
+   "Nombre": "AGUSTIN CAMPON",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61864",
+   "Nombre": "MAXIMILIANO VELAZQUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "33639",
+   "Nombre": "RICARDO ANDRES BAYARDI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "47632",
+   "Nombre": "SANTIAGO COLOMBO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "25089",
+   "Nombre": "MAXIMILIANO SILVERA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53167",
+   "Nombre": "LUCA CORRALES",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45571",
+   "Nombre": "JOSE MARIA NUÐEZ",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "51780",
+   "Nombre": "JOSE PEDRO TERRA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "47377",
+   "Nombre": "MARCOS CAPRILE",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52895",
+   "Nombre": "RODRIGO MORANDI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "51330",
+   "Nombre": "BRUNO NAHUEL GONZALEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "63301",
+   "Nombre": "LEANDRO ALEXIS PELUFFO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "55944",
+   "Nombre": "JULIAN GONZALEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "62715",
+   "Nombre": "FACUNDO HERNANDEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "56493",
+   "Nombre": "SEBASTIAN MANGANELLI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "66026",
+   "Nombre": "JOAQUIN GIRAUDIN",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53769",
+   "Nombre": "TIAGO DA SILVA",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51528",
+   "Jug_Sale": "CARLOS ALFREDO DUARTE",
+   "CarneEntra": "54922",
+   "Jug_Entra": "FABIAN ANDRE IRISARRI",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61296",
+   "Jug_Sale": "JOAQUIN LUCIANO NUÑEZ",
+   "CarneEntra": "51477",
+   "Jug_Entra": "VICTOR VIERA",
+   "camiseta": "5",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "55234",
+   "Jug_Sale": "LUCAS DO VALLE PEIXOTO",
+   "CarneEntra": "38912",
+   "Jug_Entra": "CESAR LUIS PIEDRABUENA",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61864",
+   "Jug_Sale": "MAXIMILIANO VELAZQUEZ",
+   "CarneEntra": "56437",
+   "Jug_Entra": "FEDERICO PAOLINO",
+   "camiseta": "11",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "54134",
+   "Jug_Sale": "MARTIN CORTINAS",
+   "CarneEntra": "23208",
+   "Jug_Entra": "PABLO BRANDO",
+   "camiseta": "21",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "53167",
+   "Jug_Sale": "LUCA CORRALES",
+   "CarneEntra": "35220",
+   "Jug_Entra": "LUCIANO LOPEZ",
+   "camiseta": "36",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51330",
+   "Jug_Sale": "BRUNO NAHUEL GONZALEZ",
+   "CarneEntra": "50763",
+   "Jug_Entra": "IGNACIO MORENO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53769",
+   "Jug_Sale": "TIAGO DA SILVA",
+   "CarneEntra": "37686",
+   "Jug_Entra": "MARTIN ROMANIELLO",
+   "camiseta": "80",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52895",
+   "Jug_Sale": "RODRIGO MORANDI",
+   "CarneEntra": "52663",
+   "Jug_Entra": "MARCOS VERNENGO",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "55944",
+   "Jug_Sale": "JULIAN GONZALEZ",
+   "CarneEntra": "62915",
+   "Jug_Entra": "MATEO RODRIGUEZ",
+   "camiseta": "47",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63301",
+   "Jug_Sale": "LEANDRO ALEXIS PELUFFO",
+   "CarneEntra": "47151",
+   "Jug_Entra": "THIAGO QUINTAS",
+   "camiseta": "94",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "56493",
+   "Jug_Sale": "SEBASTIAN MANGANELLI",
+   "CarneEntra": "51330",
+   "Jug_Entra": "BRUNO NAHUEL GONZALEZ",
+   "camiseta": "25",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "47377",
+   "Jug_Sale": "MARCOS CAPRILE",
+   "CarneEntra": "51329",
+   "Jug_Entra": "MARTIN CHAVES",
+   "camiseta": "42",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51528",
+   "Nombre": "CARLOS ALFREDO DUARTE",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "55234",
+   "Nombre": "LUCAS DO VALLE PEIXOTO",
+   "minutos": "29",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51330",
+   "Nombre": "BRUNO NAHUEL GONZALEZ",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51780",
+   "Nombre": "JOSE PEDRO TERRA",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "RICARDO ANDRES BAYARDI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "JULIAN GONZALEZ",
+   "observaciones": ""
+  }
+ ]
+}

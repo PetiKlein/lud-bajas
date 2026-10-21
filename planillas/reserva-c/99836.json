@@ -1,0 +1,285 @@
+{
+ "id": "99836",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "303",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-06 13:00:00",
+  "Fecha_fin": "2026-06-06 13:00:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54360",
+   "Nombre": "MARCOS NICOLAS ERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54193",
+   "Nombre": "GASTON LOMBARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "44550",
+   "Nombre": "FEDERICO JAVIER DE SIANO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49915",
+   "Nombre": "GASTON GUTIERREZ",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53316",
+   "Nombre": "SANTIAGO NAHUEL NUÑEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "55996",
+   "Nombre": "LUCIANO AGUSTIN ARAMBURU",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "48353",
+   "Nombre": "TOMAS ARAMENDI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "50980",
+   "Nombre": "IGNACIO VELAZQUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "35220",
+   "Nombre": "LUCIANO LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51381",
+   "Nombre": "DIEGO MARTIN SUAREZ",
+   "camiseta": "36",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56712",
+   "Nombre": "RENZO LESCANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61832",
+   "Nombre": "AGUSTIN FRANCA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56300",
+   "Nombre": "NICOLAS CARDOZO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "51293",
+   "Nombre": "JUAN MARTIN CABALLERO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58647",
+   "Nombre": "DIEGO FERNANDO MORALES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63923",
+   "Nombre": "ADRIAN MOREIRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66120",
+   "Nombre": "AGUSTIN CALZADA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "42691",
+   "Nombre": "MAXIMILIANO MUNDIN",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62347",
+   "Nombre": "JUAN MATEO LARREA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "46276",
+   "Nombre": "FRANCO GUSTAVO MARFEI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "58566",
+   "Nombre": "RAMIRO GERMAN CAPELLI",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48353",
+   "Jug_Sale": "TOMAS ARAMENDI",
+   "CarneEntra": "41360",
+   "Jug_Entra": "JUAN IGNACIO OLIVERA",
+   "camiseta": "37",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "54193",
+   "Jug_Sale": "GASTON LOMBARDO",
+   "CarneEntra": "51477",
+   "Jug_Entra": "VICTOR VIERA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49915",
+   "Jug_Sale": "GASTON GUTIERREZ",
+   "CarneEntra": "56438",
+   "Jug_Entra": "MARTIN CALERO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53316",
+   "Jug_Sale": "SANTIAGO NAHUEL NUÑEZ",
+   "CarneEntra": "52614",
+   "Jug_Entra": "AGUSTIN ALEJANDRO LAIN",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44550",
+   "Jug_Sale": "FEDERICO JAVIER DE SIANO",
+   "CarneEntra": "68751",
+   "Jug_Entra": "BRUNO MANUEL MENA",
+   "camiseta": "19",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "50980",
+   "Jug_Sale": "IGNACIO VELAZQUEZ",
+   "CarneEntra": "54872",
+   "Jug_Entra": "LAUTARO EMILIANO MENDEZ",
+   "camiseta": "87",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46276",
+   "Jug_Sale": "FRANCO GUSTAVO MARFEI",
+   "CarneEntra": "64143",
+   "Jug_Entra": "ALFONSO GONZALEZ",
+   "camiseta": "11",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "62347",
+   "Jug_Sale": "JUAN MATEO LARREA",
+   "CarneEntra": "58023",
+   "Jug_Entra": "MANUEL MENDEZ",
+   "camiseta": "6",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "58566",
+   "Jug_Sale": "RAMIRO GERMAN CAPELLI",
+   "CarneEntra": "54780",
+   "Jug_Entra": "ESTEBAN DANIEL VAZQUEZ",
+   "camiseta": "9",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55996",
+   "Nombre": "LUCIANO AGUSTIN ARAMBURU",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46276",
+   "Nombre": "FRANCO GUSTAVO MARFEI",
+   "minutos": "24",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46276",
+   "Nombre": "FRANCO GUSTAVO MARFEI",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58566",
+   "Nombre": "RAMIRO GERMAN CAPELLI",
+   "minutos": "22",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66120",
+   "Nombre": "AGUSTIN CALZADA",
+   "minutos": "2",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "MARCOS NICOLAS ERNANDEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

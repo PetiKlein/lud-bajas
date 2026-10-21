@@ -1,0 +1,283 @@
+{
+ "id": "100540",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "ST. BRENDANS",
+ "local": "OLD BRENDANS CLUB",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "202",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "ST. BRENDANS",
+  "Fecha_Inicio": "2026-06-27 11:00:00",
+  "Fecha_fin": "2026-06-27 11:00:00",
+  "Locatario": "OLD BRENDANS CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56603",
+   "Nombre": "MATEO NICOLAS CASTILLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36517",
+   "Nombre": "MANUEL MATIAS GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "55499",
+   "Nombre": "IGNACIO DANTE FERNANDEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "47391",
+   "Nombre": "SEBASTIAN ESTEBAN BRITOS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "58004",
+   "Nombre": "TIAGO KAMINIETZKY",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "49048",
+   "Nombre": "EZEQUIEL ESTEFAN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63264",
+   "Nombre": "FRANCO SEBASTIAN ISLAS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "57611",
+   "Nombre": "EZEQUIEL VILLANUEVA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "53428",
+   "Nombre": "JUAN MANUEL BALSAS",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60715",
+   "Nombre": "FACUNDO MATHIAS ISLAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "45840",
+   "Nombre": "FELIPE DOMINGO FERNANDEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44846",
+   "Nombre": "ANTONIO JOSE IRAZOQUI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47104",
+   "Nombre": "MATIAS FLORENCIO",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47675",
+   "Nombre": "MAURICIO DIEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "43124",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "46518",
+   "Nombre": "MAURO GERMAN GRECCO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64611",
+   "Nombre": "FEDERICO PITA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "56033",
+   "Nombre": "ALEXIS DAVID FLORES",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47391",
+   "Jug_Sale": "SEBASTIAN ESTEBAN BRITOS",
+   "CarneEntra": "45303",
+   "Jug_Entra": "SANTIAGO PETROCELLI",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49048",
+   "Jug_Sale": "EZEQUIEL ESTEFAN",
+   "CarneEntra": "54067",
+   "Jug_Entra": "JUAN PABLO LOPEZ",
+   "camiseta": "72",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57611",
+   "Jug_Sale": "EZEQUIEL VILLANUEVA",
+   "CarneEntra": "57838",
+   "Jug_Entra": "SANTINO DANTONIO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45840",
+   "Jug_Sale": "FELIPE DOMINGO FERNANDEZ",
+   "CarneEntra": "39323",
+   "Jug_Entra": "IGNACIO MILLER",
+   "camiseta": "14",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "60715",
+   "Jug_Sale": "FACUNDO MATHIAS ISLAS",
+   "CarneEntra": "53907",
+   "Jug_Entra": "RODRIGO ANDRES CLAVIJO",
+   "camiseta": "26",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "53428",
+   "Jug_Sale": "JUAN MANUEL BALSAS",
+   "CarneEntra": "34982",
+   "Jug_Entra": "GUILLERMO BURGOS",
+   "camiseta": "19",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "58004",
+   "Jug_Sale": "TIAGO KAMINIETZKY",
+   "CarneEntra": "45445",
+   "Jug_Entra": "FEDERICO JESUS AGUILERA",
+   "camiseta": "90",
+   "minutos": "59"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56033",
+   "Jug_Sale": "ALEXIS DAVID FLORES",
+   "CarneEntra": "68257",
+   "Jug_Entra": "KEVIN NICOLAS CEJAS",
+   "camiseta": "7",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "43124",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "59646",
+   "Jug_Entra": "FABRICIO NICOLAS RAMOS",
+   "camiseta": "80",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "54868",
+   "Jug_Sale": "MAXIMILIANO ROMAY",
+   "CarneEntra": "55022",
+   "Jug_Entra": "ANDRES NAHUEL LAGOS",
+   "camiseta": "19",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "46518",
+   "Jug_Sale": "MAURO GERMAN GRECCO",
+   "CarneEntra": "66028",
+   "Jug_Entra": "MATEO AGUSTIN CHAKIYIN",
+   "camiseta": "18",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56033",
+   "Nombre": "ALEXIS DAVID FLORES",
+   "minutos": "26",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

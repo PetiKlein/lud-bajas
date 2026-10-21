@@ -1,0 +1,302 @@
+{
+ "id": "97993",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "HARAS CUC",
+ "local": "OLD CHRISTIANS CLUB",
+ "visitante": "CARRASCO POLO CLUB",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "1",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "HARAS CUC",
+  "Fecha_Inicio": "2026-04-11 13:30:00",
+  "Fecha_fin": "2026-04-11 13:30:00",
+  "Locatario": "OLD CHRISTIANS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CARRASCO POLO CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52821",
+   "Nombre": "FACUNDO STORACE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51135",
+   "Nombre": "JOAQUIN FABREGAT",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "52819",
+   "Nombre": "IÑAKI LARRAECHEA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "42070",
+   "Nombre": "FRANCISCO GUADALUPE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "40763",
+   "Nombre": "MATEO VINCENT",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "52331",
+   "Nombre": "JOSE PEDRO PARODI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "42069",
+   "Nombre": "MATEO GIOIA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "30724",
+   "Nombre": "FEDERICO RICARDO MOLINS",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "53214",
+   "Nombre": "MANUEL PARODI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49655",
+   "Nombre": "HERNAN ALEGRESA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "48430",
+   "Nombre": "JUAN MARTIN FAVARO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53730",
+   "Nombre": "RENZO MACHIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48906",
+   "Nombre": "LUCIANO MANGINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49091",
+   "Nombre": "MATEO ROSA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49037",
+   "Nombre": "SANTIAGO ROVELLA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "40972",
+   "Nombre": "FRANCISCO TRONCOSO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "49245",
+   "Nombre": "FRANCESCO MASONI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "42512",
+   "Nombre": "NICOLAS BOLGER",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "47851",
+   "Nombre": "JUAN IGNACIO URRISA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53865",
+   "Nombre": "JOAQUIN RETHEMIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35208",
+   "Nombre": "JUAN SEGUNDO MASPOLI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "40176",
+   "Nombre": "JUAN PABLO RICO",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52331",
+   "Jug_Sale": "JOSE PEDRO PARODI",
+   "CarneEntra": "52608",
+   "Jug_Entra": "SANTIAGO MARCELO MACHADO",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42070",
+   "Jug_Sale": "FRANCISCO GUADALUPE",
+   "CarneEntra": "64683",
+   "Jug_Entra": "ALBERTO FELIPE ROSSO",
+   "camiseta": "62",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48430",
+   "Jug_Sale": "JUAN MARTIN FAVARO",
+   "CarneEntra": "55392",
+   "Jug_Entra": "SANTIAGO COSTA",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "51135",
+   "Jug_Sale": "JOAQUIN FABREGAT",
+   "CarneEntra": "56866",
+   "Jug_Entra": "MATEO AGUIRRE",
+   "camiseta": "16",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49655",
+   "Jug_Sale": "HERNAN ALEGRESA",
+   "CarneEntra": "66722",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "38",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "42069",
+   "Jug_Sale": "MATEO GIOIA",
+   "CarneEntra": "67291",
+   "Jug_Entra": "AUGUSTO PAULLIER",
+   "camiseta": "13",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "30724",
+   "Jug_Sale": "FEDERICO RICARDO MOLINS",
+   "CarneEntra": "52331",
+   "Jug_Entra": "JOSE PEDRO PARODI",
+   "camiseta": "18",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47851",
+   "Jug_Sale": "JUAN IGNACIO URRISA",
+   "CarneEntra": "57349",
+   "Jug_Entra": "FEDERICO LEON PEREZ",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42512",
+   "Jug_Sale": "NICOLAS BOLGER",
+   "CarneEntra": "54897",
+   "Jug_Entra": "THIAGO HERNANDEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48906",
+   "Jug_Sale": "LUCIANO MANGINI",
+   "CarneEntra": "56444",
+   "Jug_Entra": "DIOGO LAUTARO DE SOUZA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40176",
+   "Jug_Sale": "JUAN PABLO RICO",
+   "CarneEntra": "41650",
+   "Jug_Entra": "FELIPE ZAS",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53865",
+   "Jug_Sale": "JOAQUIN RETHEMIAS",
+   "CarneEntra": "41892",
+   "Jug_Entra": "JOAQUIN DIAZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49245",
+   "Jug_Sale": "FRANCESCO MASONI",
+   "CarneEntra": "58221",
+   "Jug_Entra": "DIEGO ALEJANDRO NOGUERA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49091",
+   "Jug_Sale": "MATEO ROSA",
+   "CarneEntra": "31890",
+   "Jug_Entra": "GASTON SAINT-HUBERT",
+   "camiseta": "13",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64683",
+   "Nombre": "ALBERTO FELIPE ROSSO",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47851",
+   "Nombre": "JUAN IGNACIO URRISA",
+   "minutos": "30",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

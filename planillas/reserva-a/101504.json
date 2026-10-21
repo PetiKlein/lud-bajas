@@ -1,0 +1,300 @@
+{
+ "id": "101504",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "COMPLEJO WOODLANDS SCHOOL",
+ "local": "OLD WOODLANDS CLUB",
+ "visitante": "OLD CHRISTIANS CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "89",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO WOODLANDS SCHOOL",
+  "Fecha_Inicio": "2026-09-05 13:15:00",
+  "Fecha_fin": "2026-09-05 13:15:00",
+  "Locatario": "OLD WOODLANDS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65071",
+   "Nombre": "MANUEL FELIPE DOMINGUEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "43493",
+   "Nombre": "FEDERICO HAZAN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51145",
+   "Nombre": "ALEJANDRO VICTORICA",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "56777",
+   "Nombre": "BRUNO MARIA IRULEGUY",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "35153",
+   "Nombre": "JUAN PEDRO FALCO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "48036",
+   "Nombre": "SANTIAGO IRULEGUY",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "36920",
+   "Nombre": "JUAN IGNACIO REGO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "33370",
+   "Nombre": "SANTIAGO BZUROVSKI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53647",
+   "Nombre": "MATIAS PINTOS",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "50731",
+   "Nombre": "FACUNDO MUNUA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "35167",
+   "Nombre": "JUAN MARTIN AROCENA",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "48037",
+   "Nombre": "MATEO FABREGAT",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52819",
+   "Nombre": "IÑAKI LARRAECHEA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "37170",
+   "Nombre": "SEBASTIAN REGULES",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "38310",
+   "Nombre": "FEDERICO PONTE",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "52608",
+   "Nombre": "SANTIAGO MARCELO MACHADO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "51135",
+   "Nombre": "JOAQUIN FABREGAT",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "30724",
+   "Nombre": "FEDERICO RICARDO MOLINS",
+   "camiseta": "93",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52331",
+   "Nombre": "JOSE PEDRO PARODI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "50902",
+   "Nombre": "SANTIAGO VINCENT",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "55118",
+   "Nombre": "JUAN PABLO MOREIRA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "38",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "36920",
+   "Jug_Sale": "JUAN IGNACIO REGO",
+   "CarneEntra": "36816",
+   "Jug_Entra": "MARTIN COLELLA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35167",
+   "Jug_Sale": "JUAN MARTIN AROCENA",
+   "CarneEntra": "48077",
+   "Jug_Entra": "AGUSTIN MARTINEZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35153",
+   "Jug_Sale": "JUAN PEDRO FALCO",
+   "CarneEntra": "48827",
+   "Jug_Entra": "TOMAS HAZAN",
+   "camiseta": "91",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "48036",
+   "Jug_Sale": "SANTIAGO IRULEGUY",
+   "CarneEntra": "48843",
+   "Jug_Entra": "SANTIAGO PEYROUS",
+   "camiseta": "66",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "50731",
+   "Jug_Sale": "FACUNDO MUNUA",
+   "CarneEntra": "49929",
+   "Jug_Entra": "ALBERTO GALLINAL",
+   "camiseta": "11",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "53647",
+   "Jug_Sale": "MATIAS PINTOS",
+   "CarneEntra": "60620",
+   "Jug_Entra": "MANUEL PEREYRA",
+   "camiseta": "99",
+   "minutos": "91"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30724",
+   "Jug_Sale": "FEDERICO RICARDO MOLINS",
+   "CarneEntra": "53214",
+   "Jug_Entra": "MANUEL PARODI",
+   "camiseta": "17",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "52608",
+   "Jug_Sale": "SANTIAGO MARCELO MACHADO",
+   "CarneEntra": "50841",
+   "Jug_Entra": "SANTOS JUAN HOUNIE",
+   "camiseta": "3",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "55118",
+   "Jug_Sale": "JUAN PABLO MOREIRA",
+   "CarneEntra": "67291",
+   "Jug_Entra": "AUGUSTO PAULLIER",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "66722",
+   "Jug_Sale": "JOAQUIN RODRIGUEZ",
+   "CarneEntra": "49655",
+   "Jug_Entra": "HERNAN ALEGRESA",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "52331",
+   "Jug_Sale": "JOSE PEDRO PARODI",
+   "CarneEntra": "39426",
+   "Jug_Entra": "FRANCO CRISCI",
+   "camiseta": "91",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "52819",
+   "Jug_Sale": "IÑAKI LARRAECHEA",
+   "CarneEntra": "48430",
+   "Jug_Entra": "JUAN MARTIN FAVARO",
+   "camiseta": "7",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "50902",
+   "Jug_Sale": "SANTIAGO VINCENT",
+   "CarneEntra": "66722",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "38",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "33370",
+   "Nombre": "SANTIAGO BZUROVSKI",
+   "minutos": "43",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "30724",
+   "Nombre": "FEDERICO RICARDO MOLINS",
+   "minutos": "56",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55118",
+   "Nombre": "JUAN PABLO MOREIRA",
+   "minutos": "43",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,306 @@
+{
+ "id": "100484",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "SAN PABLO UNIVERSITARIO",
+ "visitante": "WANDERERS",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "326",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-06-27 13:15:00",
+  "Fecha_fin": "2026-06-27 13:15:00",
+  "Locatario": "SAN PABLO UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45571",
+   "Nombre": "JOSE MARIA NUÐEZ",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "56705",
+   "Nombre": "AGUSTIN ULISES FAGIANI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "56490",
+   "Nombre": "PABLO ANDRES SCOFFONE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42736",
+   "Nombre": "SANTIAGO SOCA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63209",
+   "Nombre": "VALENTIN MENDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56700",
+   "Nombre": "FRANCO DELISANTE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51080",
+   "Nombre": "AUGUSTO SECCO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "39248",
+   "Nombre": "GONZALO GINEL",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "51334",
+   "Nombre": "FRANCISCO ENRIQUE TRIAY",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "52663",
+   "Nombre": "MARCOS VERNENGO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "47151",
+   "Nombre": "THIAGO QUINTAS",
+   "camiseta": "64",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57434",
+   "Nombre": "GONZALO ANDRES SANGUINETTI",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "56583",
+   "Nombre": "MARCOS ARRASPIDE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "66823",
+   "Nombre": "JOSE PABLO ANTUNEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "63241",
+   "Nombre": "TOMAS CALVO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "59160",
+   "Nombre": "ALEXANDER PIREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55308",
+   "Nombre": "JUAN MARTIN MALDONADO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "66824",
+   "Nombre": "GABRIEL HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "63183",
+   "Nombre": "MATEO REDIN",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "46940",
+   "Nombre": "SANTIAGO JOSE ZAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "45274",
+   "Nombre": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67264",
+   "Nombre": "IGNACIO KWAME MACHADO",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "39248",
+   "Jug_Sale": "GONZALO GINEL",
+   "CarneEntra": "48053",
+   "Jug_Entra": "CAETANO JOAQUIN RODRIGUEZ",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47151",
+   "Jug_Sale": "THIAGO QUINTAS",
+   "CarneEntra": "52895",
+   "Jug_Entra": "RODRIGO MORANDI",
+   "camiseta": "80",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "42736",
+   "Jug_Sale": "SANTIAGO SOCA",
+   "CarneEntra": "45629",
+   "Jug_Entra": "ISMAEL NUÑEZ",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "56490",
+   "Jug_Sale": "PABLO ANDRES SCOFFONE",
+   "CarneEntra": "53769",
+   "Jug_Entra": "TIAGO DA SILVA",
+   "camiseta": "15",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "51080",
+   "Jug_Sale": "AUGUSTO SECCO",
+   "CarneEntra": "53751",
+   "Jug_Entra": "FELIPE BELLORA",
+   "camiseta": "6",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "51334",
+   "Jug_Sale": "FRANCISCO ENRIQUE TRIAY",
+   "CarneEntra": "66219",
+   "Jug_Entra": "JOAQUIN MENENDEZ",
+   "camiseta": "24",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "52663",
+   "Jug_Sale": "MARCOS VERNENGO",
+   "CarneEntra": "36741",
+   "Jug_Entra": "RODRIGO LEONEL DE LA FUENTE",
+   "camiseta": "2",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63183",
+   "Jug_Sale": "MATEO REDIN",
+   "CarneEntra": "56589",
+   "Jug_Entra": "DARIO EMANUEL ARCHONDO",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67264",
+   "Jug_Sale": "IGNACIO KWAME MACHADO",
+   "CarneEntra": "46318",
+   "Jug_Entra": "FACUNDO DEBENEDETTI",
+   "camiseta": "92",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56583",
+   "Jug_Sale": "MARCOS ARRASPIDE",
+   "CarneEntra": "59917",
+   "Jug_Entra": "LUCAS BALTAZAR GARCIA",
+   "camiseta": "61",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63241",
+   "Jug_Sale": "TOMAS CALVO",
+   "CarneEntra": "67693",
+   "Jug_Entra": "ANDRES ELIAS MEJIA",
+   "camiseta": "22",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "46940",
+   "Jug_Sale": "SANTIAGO JOSE ZAS",
+   "CarneEntra": "45708",
+   "Jug_Entra": "GUILLERMO ANDREOLI",
+   "camiseta": "63",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "55308",
+   "Jug_Sale": "JUAN MARTIN MALDONADO",
+   "CarneEntra": "63183",
+   "Jug_Entra": "MATEO REDIN",
+   "camiseta": "27",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51334",
+   "Nombre": "FRANCISCO ENRIQUE TRIAY",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51334",
+   "Nombre": "FRANCISCO ENRIQUE TRIAY",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51334",
+   "Nombre": "FRANCISCO ENRIQUE TRIAY",
+   "minutos": "22",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46318",
+   "Nombre": "FACUNDO DEBENEDETTI",
+   "minutos": "51",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,323 @@
+{
+ "id": "98001",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "TENIS EL PINAR SUB22",
+ "visitante": "ELF BLANCO",
+ "gl": 7,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "427",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-11 13:10:00",
+  "Fecha_fin": "2026-04-11 13:10:00",
+  "Locatario": "TENIS EL PINAR SUB22",
+  "goles_locatario": "7",
+  "puntos_locatario": "3",
+  "Visitante": "ELF BLANCO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56171",
+   "Nombre": "MARIANO DANIEL OTTONELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "52444",
+   "Nombre": "SEBASTIAN CARBAJAL",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52625",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52629",
+   "Nombre": "SEBASTIAN PIRRI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53658",
+   "Nombre": "JOAQUIN VAZQUEZ",
+   "camiseta": "85",
+   "Capitan": ""
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53357",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60898",
+   "Nombre": "JOAQUIN TRIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36828",
+   "Nombre": "JUAN GIBERT",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54929",
+   "Nombre": "MARTIN TALMON",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "51919",
+   "Nombre": "SANTIAGO GRAU PEREZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "50711",
+   "Nombre": "JOAQUIN GABRIEL PASTORINI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52531",
+   "Nombre": "MARCO ELIO SCALA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "43441",
+   "Nombre": "SERGIO DANIEL STELLA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61002",
+   "Nombre": "PEDRO RAINERI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "45878",
+   "Nombre": "NICOLAS PEREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "44977",
+   "Nombre": "FABIO PADULA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "40799",
+   "Nombre": "IGNACIO KAPRIELIAN",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53658",
+   "Jug_Sale": "JOAQUIN VAZQUEZ",
+   "CarneEntra": "66514",
+   "Jug_Entra": "MARTIN DIAZ",
+   "camiseta": "3",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "52633",
+   "Jug_Sale": "BENICIO BERTIN",
+   "CarneEntra": "52413",
+   "Jug_Entra": "SANTIAGO MATEU",
+   "camiseta": "7",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "53357",
+   "Jug_Sale": "JUAN MANUEL TRUJILLO",
+   "CarneEntra": "51804",
+   "Jug_Entra": "JUAN IGNACIO LEIVA",
+   "camiseta": "13",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "52632",
+   "Jug_Sale": "AGUSTIN FIRPO",
+   "CarneEntra": "61528",
+   "Jug_Entra": "SANTIAGO DAMIAN PEREIRA",
+   "camiseta": "70",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "52444",
+   "Jug_Sale": "SEBASTIAN CARBAJAL",
+   "CarneEntra": "56188",
+   "Jug_Entra": "THIAGO NAHUEL ROLAND",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "57966",
+   "Jug_Sale": "FRANCISCO LOURTET",
+   "CarneEntra": "58656",
+   "Jug_Entra": "SANTIAGO VALENTIN BARBOZA",
+   "camiseta": "21",
+   "minutos": "68"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52531",
+   "Jug_Sale": "MARCO ELIO SCALA",
+   "CarneEntra": "38746",
+   "Jug_Entra": "JUAN MANUEL PAGOLA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61002",
+   "Jug_Sale": "PEDRO RAINERI",
+   "CarneEntra": "48529",
+   "Jug_Entra": "MATHEUS FRANCISCO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40799",
+   "Jug_Sale": "IGNACIO KAPRIELIAN",
+   "CarneEntra": "55866",
+   "Jug_Entra": "FEDERICO BUHL",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51919",
+   "Jug_Sale": "SANTIAGO GRAU PEREZ",
+   "CarneEntra": "45874",
+   "Jug_Entra": "LUCAS BURGHI",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50711",
+   "Jug_Sale": "JOAQUIN GABRIEL PASTORINI",
+   "CarneEntra": "59812",
+   "Jug_Entra": "FRANCO EMANUEL NUÑEZ",
+   "camiseta": "26",
+   "minutos": "8"
+  },
+  {
+   "CarneSale": "45878",
+   "Jug_Sale": "NICOLAS PEREZ",
+   "CarneEntra": "51154",
+   "Jug_Entra": "JUAN JOSE RAMON SCANDROGLIO",
+   "camiseta": "17",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "36828",
+   "Jug_Sale": "JUAN GIBERT",
+   "CarneEntra": "46857",
+   "Jug_Entra": "GABRIEL MARTINEZ",
+   "camiseta": "5",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52413",
+   "Nombre": "SANTIAGO MATEU",
+   "minutos": "89",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "minutos": "34",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "minutos": "42",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "minutos": "50",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "minutos": "36",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53357",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

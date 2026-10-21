@@ -1,0 +1,324 @@
+{
+ "id": "102709",
+ "categoria": "sub20-c",
+ "serie": "20CP",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "DFC",
+ "gl": 4,
+ "gv": 7,
+ "detalle": {
+  "nro_partido": "510",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"C\" COPA DE PLATA",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-10 15:30:00",
+  "Fecha_fin": "2026-10-10 15:30:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "4",
+  "puntos_locatario": "0",
+  "Visitante": "DFC",
+  "goles_visitante": "7",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61876",
+   "Nombre": "JOAQUIN DE DIOS",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "67239",
+   "Nombre": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "64103",
+   "Nombre": "ENZO YACI",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "64095",
+   "Nombre": "JUAN ANDRES GARCIA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "61069",
+   "Nombre": "VICENTE CASTRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67671",
+   "Nombre": "JUAN IGNACIO SÀNCHEZ",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "58624",
+   "Nombre": "JOAQUIN MATIAS NIETO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63051",
+   "Nombre": "LUCIANO MONTAÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67932",
+   "Nombre": "BAUTISTA PAZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67598",
+   "Nombre": "THIAGO ALEXANDER LOPEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67602",
+   "Nombre": "VALENTINO LAUTARO DE ARMAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68630",
+   "Nombre": "FACUNDO TOMAS GUEVARA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68183",
+   "Nombre": "JOAQUIN JOAQUIN",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67600",
+   "Nombre": "BRUNO NICOLAS YACQUE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67590",
+   "Nombre": "GASTON MATEO ALONSO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67607",
+   "Nombre": "LAUTARO ALEXANDER ALANIS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67462",
+   "Nombre": "BLAZ DANCKAR LANGHAIN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64103",
+   "Jug_Sale": "ENZO YACI",
+   "CarneEntra": "59588",
+   "Jug_Entra": "GERARDO ROCCO BELLO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67238",
+   "Jug_Sale": "SANTIAGO BALTASAR",
+   "CarneEntra": "67673",
+   "Jug_Entra": "EMILIANO BARBOSA",
+   "camiseta": "84",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "64095",
+   "Jug_Sale": "JUAN ANDRES GARCIA",
+   "CarneEntra": "64103",
+   "Jug_Entra": "ENZO YACI",
+   "camiseta": "49",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67607",
+   "Jug_Sale": "LAUTARO ALEXANDER ALANIS",
+   "CarneEntra": "67609",
+   "Jug_Entra": "NICOLAS RAUL PEREIRO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67600",
+   "Jug_Sale": "BRUNO NICOLAS YACQUE",
+   "CarneEntra": "67470",
+   "Jug_Entra": "THIAGO JOEL DOS SANTOS",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67462",
+   "Jug_Sale": "BLAZ DANCKAR LANGHAIN",
+   "CarneEntra": "56925",
+   "Jug_Entra": "EZEQUIEL LUCAS VIGNOLI",
+   "camiseta": "7",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67464",
+   "Jug_Sale": "VALENTIN SALVADOR ALFARO",
+   "CarneEntra": "68911",
+   "Jug_Entra": "SANTIAGO AGUSTIN ESCARCENA",
+   "camiseta": "13",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67600",
+   "Jug_Sale": "BRUNO NICOLAS YACQUE",
+   "CarneEntra": "67462",
+   "Jug_Entra": "BLAZ DANCKAR LANGHAIN",
+   "camiseta": "9",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "67590",
+   "Jug_Sale": "GASTON MATEO ALONSO",
+   "CarneEntra": "67465",
+   "Jug_Entra": "IGANCIO CAMEJO",
+   "camiseta": "17",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "56925",
+   "Jug_Sale": "EZEQUIEL LUCAS VIGNOLI",
+   "CarneEntra": "68964",
+   "Jug_Entra": "BENJAMIN DANIEL CALCAÑO",
+   "camiseta": "5",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58624",
+   "Nombre": "JOAQUIN MATIAS NIETO",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64095",
+   "Nombre": "JUAN ANDRES GARCIA",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "minutos": "45",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67673",
+   "Nombre": "EMILIANO BARBOSA",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67462",
+   "Nombre": "BLAZ DANCKAR LANGHAIN",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67590",
+   "Nombre": "GASTON MATEO ALONSO",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67590",
+   "Nombre": "GASTON MATEO ALONSO",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67602",
+   "Nombre": "VALENTINO LAUTARO DE ARMAS",
+   "minutos": "48",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

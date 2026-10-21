@@ -1,0 +1,287 @@
+{
+ "id": "101432",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 4,
+ "fechaHora": "2026-08-30 11:15:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "CEIBOS CLUB",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "152",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-08-30 13:16:00",
+  "Fecha_fin": "2026-08-30 13:16:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CEIBOS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "49711",
+   "Nombre": "SANTIAGO CABRERA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "49011",
+   "Nombre": "SANTIAGO GALLO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54739",
+   "Nombre": "IÑAKI LOPEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "43858",
+   "Nombre": "DIEGO OMAR MOREIRA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66481",
+   "Nombre": "WILLIAM WAGNER KLINGENDER",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62370",
+   "Nombre": "CHRISTIAN ALEJANDRO ROSSI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "37685",
+   "Nombre": "MATIAS LUIS IZQUIERDO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48838",
+   "Nombre": "BRUNO GRAJALES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49709",
+   "Nombre": "FELIPE CABRERA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "45727",
+   "Nombre": "FRANCO SENRA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53017",
+   "Nombre": "ALFONSO GIMENEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60669",
+   "Nombre": "ISMAEL MAESO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56663",
+   "Nombre": "IGNACIO SERE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67223",
+   "Nombre": "MARIANO DIAZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56664",
+   "Nombre": "SANTIAGO MIGUEL ROCCA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50651",
+   "Nombre": "JUAN PEDRO IRURETA-GOYENA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53507",
+   "Nombre": "PATRICK HOBBINS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58164",
+   "Nombre": "SANTIAGO PONS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67617",
+   "Nombre": "RODRIGO LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55123",
+   "Nombre": "RAFAEL MARIANO BERAMENDI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60875",
+   "Nombre": "ALFONSO FERBER",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49011",
+   "Jug_Sale": "SANTIAGO GALLO",
+   "CarneEntra": "53624",
+   "Jug_Entra": "MATEO OURTHE",
+   "camiseta": "2",
+   "minutos": "11"
+  },
+  {
+   "CarneSale": "49711",
+   "Jug_Sale": "SANTIAGO CABRERA",
+   "CarneEntra": "51151",
+   "Jug_Entra": "SANTIAGO MOREIRA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45727",
+   "Jug_Sale": "FRANCO SENRA",
+   "CarneEntra": "49491",
+   "Jug_Entra": "PEDRO GALLO",
+   "camiseta": "55",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48838",
+   "Jug_Sale": "BRUNO GRAJALES",
+   "CarneEntra": "49414",
+   "Jug_Entra": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "66",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "62370",
+   "Jug_Sale": "CHRISTIAN ALEJANDRO ROSSI",
+   "CarneEntra": "52811",
+   "Jug_Entra": "FELIPE PERLA",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "43858",
+   "Jug_Sale": "DIEGO OMAR MOREIRA",
+   "CarneEntra": "49766",
+   "Jug_Entra": "JUAN SALHON",
+   "camiseta": "69",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "37685",
+   "Jug_Sale": "MATIAS LUIS IZQUIERDO",
+   "CarneEntra": "54738",
+   "Jug_Entra": "THIAGO MORLAN",
+   "camiseta": "5",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55123",
+   "Jug_Sale": "RAFAEL MARIANO BERAMENDI",
+   "CarneEntra": "56580",
+   "Jug_Entra": "RODRIGO FERNANDEZ",
+   "camiseta": "4",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56664",
+   "Jug_Sale": "SANTIAGO MIGUEL ROCCA",
+   "CarneEntra": "63078",
+   "Jug_Entra": "FEDERICO CASTELLS",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67617",
+   "Jug_Sale": "RODRIGO LOPEZ",
+   "CarneEntra": "61844",
+   "Jug_Entra": "GERONIMO RODRIGO",
+   "camiseta": "21",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "60875",
+   "Jug_Sale": "ALFONSO FERBER",
+   "CarneEntra": "57406",
+   "Jug_Entra": "JUAN MARTIN SZELAGOWSKI",
+   "camiseta": "15",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "58164",
+   "Jug_Sale": "SANTIAGO PONS",
+   "CarneEntra": "62071",
+   "Jug_Entra": "JOAQUIN MARIA BARTOL",
+   "camiseta": "16",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "50651",
+   "Jug_Sale": "JUAN PEDRO IRURETA-GOYENA",
+   "CarneEntra": "43260",
+   "Jug_Entra": "JUAN DIEGO TORRES NEGREIRA",
+   "camiseta": "18",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "50651",
+   "Nombre": "JUAN PEDRO IRURETA-GOYENA",
+   "minutos": "97",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

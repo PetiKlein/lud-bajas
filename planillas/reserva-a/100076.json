@@ -1,0 +1,286 @@
+{
+ "id": "100076",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 09:00:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS AZUL",
+ "visitante": "TENIS EL PINAR",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "72",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-06-13 11:00:00",
+  "Fecha_fin": "2026-06-13 11:00:00",
+  "Locatario": "OLD CHRISTIANS AZUL",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55226",
+   "Nombre": "ALFONSO DEL CASTILLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41003",
+   "Nombre": "FEDERICO BARRIOS",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39425",
+   "Nombre": "SANTIAGO MARAFFI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "43762",
+   "Nombre": "ALFONSO MARQUES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52396",
+   "Nombre": "TOMAS DI LORENZO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "52355",
+   "Nombre": "SANTIAGO PAZ RODRIGUEZ",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "54480",
+   "Nombre": "FACUNDO BELO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "53219",
+   "Nombre": "JOAQUIN LARRAECHA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "63476",
+   "Nombre": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "42262",
+   "Nombre": "FELIPE LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "37187",
+   "Nombre": "GUILLERMO DEAL",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "50899",
+   "Nombre": "EMILIANO CABRERA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "48653",
+   "Nombre": "MATIAS  BERNARDO VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49076",
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "50666",
+   "Nombre": "FACUNDO LAGO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "48657",
+   "Nombre": "BRUNO CABRERA",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48654",
+   "Nombre": "JUAN PABLO LOCATELLI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "46848",
+   "Nombre": "FACUNDO BERGARA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "37187",
+   "Jug_Sale": "GUILLERMO DEAL",
+   "CarneEntra": "39601",
+   "Jug_Entra": "NICOLAS OEHLER",
+   "camiseta": "14",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "42262",
+   "Jug_Sale": "FELIPE LOPEZ",
+   "CarneEntra": "62462",
+   "Jug_Entra": "JUAN GABRIEL ALVAREZ",
+   "camiseta": "97",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "63476",
+   "Jug_Sale": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "CarneEntra": "55216",
+   "Jug_Entra": "GASPAR HUGHES",
+   "camiseta": "91",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "43762",
+   "Jug_Sale": "ALFONSO MARQUES",
+   "CarneEntra": "52606",
+   "Jug_Entra": "JUAN DIEGO CALABUIG",
+   "camiseta": "5",
+   "minutos": "91"
+  },
+  {
+   "CarneSale": "54480",
+   "Jug_Sale": "FACUNDO BELO",
+   "CarneEntra": "37171",
+   "Jug_Entra": "MATEO DIEGO BLENGIO",
+   "camiseta": "18",
+   "minutos": "91"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50666",
+   "Jug_Sale": "FACUNDO LAGO",
+   "CarneEntra": "66515",
+   "Jug_Entra": "FELIPE ANTONIO REGUEIRO",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48653",
+   "Jug_Sale": "MATIAS  BERNARDO VAZQUEZ",
+   "CarneEntra": "66604",
+   "Jug_Entra": "IGNACIO DOMINGUEZ",
+   "camiseta": "29",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "48870",
+   "Jug_Sale": "RENZO FORTI",
+   "CarneEntra": "56166",
+   "Jug_Entra": "MARTIN NICOLAS GOMEZ",
+   "camiseta": "10",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "49076",
+   "Jug_Sale": "SANTIAGO NICOLAS D’ANGELO",
+   "CarneEntra": "46830",
+   "Jug_Entra": "JULIAN NESTOR MUHA",
+   "camiseta": "9",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52396",
+   "Nombre": "TOMAS DI LORENZO",
+   "minutos": "48",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "minutos": "76",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63476",
+   "Nombre": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "minutos": "36",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63476",
+   "Nombre": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "minutos": "56",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "48654",
+   "Nombre": "JUAN PABLO LOCATELLI",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "minutos": "9",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

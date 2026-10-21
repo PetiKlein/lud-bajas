@@ -1,0 +1,236 @@
+{
+ "id": "100130",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 11:15:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "C.A.L.I.",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "309",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-06-14 13:15:00",
+  "Fecha_fin": "2026-06-14 13:15:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "C.A.L.I.",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55466",
+   "Nombre": "RODRIGO ALEJANDRO ANIDO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40627",
+   "Nombre": "ALVARO JAVIER AMORENA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "41022",
+   "Nombre": "SANTIAGO ROSSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "60923",
+   "Nombre": "GERMAN IÑAKI BIDEGAIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64431",
+   "Nombre": "FRANCO JOSUE CASCALLARES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "44086",
+   "Nombre": "GASTON NICOLAS PERE",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41107",
+   "Nombre": "MATIAS ANTONIO OXACELHAY",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49151",
+   "Nombre": "LUCAS MOREIRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52832",
+   "Nombre": "FELIPE ROBATTO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "39055",
+   "Nombre": "LUCAS MARTIN CASTIGLIONI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59267",
+   "Nombre": "JOAQUIN GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46206",
+   "Nombre": "FEDERICO FERNANDEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "20722",
+   "Nombre": "JUAN MANUEL GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65901",
+   "Nombre": "CONRADO VALENZUELA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67281",
+   "Nombre": "SEBASTIAN  MANUEL RIOS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "33831",
+   "Nombre": "FACUNDO MOREIRA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54565",
+   "Nombre": "SEBASTIAN FEDERICO ALTEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39442",
+   "Nombre": "GUZMAN GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "44411",
+   "Nombre": "BRAHIAN ANDRES CRUZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "66338",
+   "Nombre": "MATIAS ANDRES GONZALEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49861",
+   "Nombre": "NICOLAS CARLOS ALTEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64641",
+   "Nombre": "LEANDRO DELGADO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59267",
+   "Jug_Sale": "JOAQUIN GARCIA",
+   "CarneEntra": "44088",
+   "Jug_Entra": "FACUNDO DELGADO",
+   "camiseta": "11",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "39055",
+   "Jug_Sale": "LUCAS MARTIN CASTIGLIONI",
+   "CarneEntra": "56357",
+   "Jug_Entra": "SEBASTIAN PARDO IRIONDO",
+   "camiseta": "21",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64641",
+   "Jug_Sale": "LEANDRO DELGADO",
+   "CarneEntra": "60794",
+   "Jug_Entra": "JUAN IGNACIO VIGLIONE",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "39442",
+   "Jug_Sale": "GUZMAN GONZALEZ",
+   "CarneEntra": "64632",
+   "Jug_Entra": "FELIPE MARTIN DINARDI",
+   "camiseta": "27",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "44411",
+   "Jug_Sale": "BRAHIAN ANDRES CRUZ",
+   "CarneEntra": "39442",
+   "Jug_Entra": "GUZMAN GONZALEZ",
+   "camiseta": "15",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52832",
+   "Nombre": "FELIPE ROBATTO",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59267",
+   "Nombre": "JOAQUIN GARCIA",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "44411",
+   "Nombre": "BRAHIAN ANDRES CRUZ",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

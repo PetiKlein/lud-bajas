@@ -1,0 +1,262 @@
+{
+ "id": "102712",
+ "categoria": "reserva-b",
+ "serie": "RSBTA",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "J.M.L.M",
+ "visitante": "HEBRAICA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "678",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" TIT. y ASC.",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-10-10 13:10:00",
+  "Fecha_fin": "2026-10-10 13:10:00",
+  "Locatario": "J.M.L.M",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "HEBRAICA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41531",
+   "Nombre": "JOAQUIN BELTRAN",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53104",
+   "Nombre": "FRANCO MESSANO",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "53190",
+   "Nombre": "SANTINO CARASSALE",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53105",
+   "Nombre": "FELIPE FRIGERIO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "54001",
+   "Nombre": "AGUSTIN DANIEL LLUBERAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54192",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50933",
+   "Nombre": "SANTIAGO NICOLAS TIZON",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "49501",
+   "Nombre": "TOMAS PARPAL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "53184",
+   "Nombre": "DIEGO DOMINGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "50448",
+   "Nombre": "JUAN FERNANDO COMPANY",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52806",
+   "Nombre": "SANTIAGO LUIS",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45517",
+   "Nombre": "MATIAS WAPNIARSKY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61200",
+   "Nombre": "ARY GUSTAVO RABINO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "45511",
+   "Nombre": "LUCAS LEVIN",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59244",
+   "Nombre": "AGUSTÌN PILAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47255",
+   "Nombre": "ALAN SKORKA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "37317",
+   "Nombre": "MAURICIO WAITER",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53184",
+   "Jug_Sale": "DIEGO DOMINGUEZ",
+   "CarneEntra": "48839",
+   "Jug_Entra": "MARTIN FERNANDEZ",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50448",
+   "Jug_Sale": "JUAN FERNANDO COMPANY",
+   "CarneEntra": "53376",
+   "Jug_Entra": "GUILLERMO WILSON",
+   "camiseta": "7",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "54001",
+   "Jug_Sale": "AGUSTIN DANIEL LLUBERAS",
+   "CarneEntra": "53189",
+   "Jug_Entra": "FEDERICO VIDAL",
+   "camiseta": "77",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "49501",
+   "Jug_Sale": "TOMAS PARPAL",
+   "CarneEntra": "46923",
+   "Jug_Entra": "MATEO PARPAL",
+   "camiseta": "23",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47255",
+   "Jug_Sale": "ALAN SKORKA",
+   "CarneEntra": "54753",
+   "Jug_Entra": "JOAQUIN BANEWUR",
+   "camiseta": "25",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "53835",
+   "Jug_Sale": "MATEO NAHMIAS",
+   "CarneEntra": "52405",
+   "Jug_Entra": "ARIEL SUHAMI",
+   "camiseta": "71",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "59244",
+   "Jug_Sale": "AGUSTÌN PILAS",
+   "CarneEntra": "47247",
+   "Jug_Entra": "ARIEL SOBOL",
+   "camiseta": "8",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "45511",
+   "Jug_Sale": "LUCAS LEVIN",
+   "CarneEntra": "54690",
+   "Jug_Entra": "SANTIAGO SISIASVILI",
+   "camiseta": "2",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "61200",
+   "Jug_Sale": "ARY GUSTAVO RABINO",
+   "CarneEntra": "45526",
+   "Jug_Entra": "EITAN WUHL",
+   "camiseta": "80",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54192",
+   "Nombre": "FEDERICO PEREZ",
+   "minutos": "61",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "54753",
+   "Nombre": "JOAQUIN BANEWUR",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

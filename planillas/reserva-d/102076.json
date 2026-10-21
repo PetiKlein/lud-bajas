@@ -1,0 +1,286 @@
+{
+ "id": "102076",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 4,
+ "fechaHora": "2026-09-19 11:30:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "TENIS EL PINAR SUB22",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "514",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-09-19 13:25:00",
+  "Fecha_fin": "2026-09-19 13:25:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "TENIS EL PINAR SUB22",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "37751",
+   "Nombre": "AGUSTIN KOSEC",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58348",
+   "Nombre": "JOAQUIN GUANI",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "55254",
+   "Nombre": "ANDRES GUILLERMO COITO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "44865",
+   "Nombre": "JOAQUIN AUGUSTO ANDRES",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "53289",
+   "Nombre": "BRUNO CRISAFULLI",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "33333",
+   "Nombre": "DIEGO MARTIN CASTIÑEIRAS",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49110",
+   "Nombre": "CAMILO BALIAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "34547",
+   "Nombre": "NICOLA PRATTO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49172",
+   "Nombre": "MANUEL ANSELMI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "37662",
+   "Nombre": "FELIPE MARCOS CASAROTTI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "51610",
+   "Nombre": "PABLO VALDOMIR",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56171",
+   "Nombre": "MARIANO DANIEL OTTONELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52444",
+   "Nombre": "SEBASTIAN CARBAJAL",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "52625",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "51804",
+   "Nombre": "JUAN IGNACIO LEIVA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52634",
+   "Nombre": "JUAN IGNACIO QUINTANA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53418",
+   "Nombre": "FACUNDO VARIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49110",
+   "Jug_Sale": "CAMILO BALIAN",
+   "CarneEntra": "51224",
+   "Jug_Entra": "DIEGO MARTINEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53289",
+   "Jug_Sale": "BRUNO CRISAFULLI",
+   "CarneEntra": "46948",
+   "Jug_Entra": "SANTIAGO CAULA",
+   "camiseta": "90",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "51610",
+   "Jug_Sale": "PABLO VALDOMIR",
+   "CarneEntra": "50884",
+   "Jug_Entra": "SANTIAGO RUBIO",
+   "camiseta": "77",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "44865",
+   "Jug_Sale": "JOAQUIN AUGUSTO ANDRES",
+   "CarneEntra": "60835",
+   "Jug_Entra": "SEBASTIAN DANILO BAZZINO",
+   "camiseta": "19",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "58348",
+   "Jug_Sale": "JOAQUIN GUANI",
+   "CarneEntra": "52678",
+   "Jug_Entra": "VALENTINO MASONI",
+   "camiseta": "99",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "49172",
+   "Jug_Sale": "MANUEL ANSELMI",
+   "CarneEntra": "49192",
+   "Jug_Entra": "JUAN MARTIN ROCCA",
+   "camiseta": "29",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52640",
+   "Jug_Sale": "VALENTIN COLOMINAS",
+   "CarneEntra": "58083",
+   "Jug_Entra": "IGNACIO FACUNDO RICOBALDI",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "53418",
+   "Jug_Sale": "FACUNDO VARIO",
+   "CarneEntra": "61528",
+   "Jug_Entra": "SANTIAGO DAMIAN PEREIRA",
+   "camiseta": "16",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "52633",
+   "Jug_Sale": "BENICIO BERTIN",
+   "CarneEntra": "53357",
+   "Jug_Entra": "JUAN MANUEL TRUJILLO",
+   "camiseta": "9",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "34547",
+   "Nombre": "NICOLA PRATTO",
+   "minutos": "87",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49172",
+   "Nombre": "MANUEL ANSELMI",
+   "minutos": "66",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51610",
+   "Nombre": "PABLO VALDOMIR",
+   "minutos": "38",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "minutos": "74",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "22",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53418",
+   "Nombre": "FACUNDO VARIO",
+   "minutos": "54",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

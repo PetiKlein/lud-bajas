@@ -1,0 +1,266 @@
+{
+ "id": "99285",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 6,
+ "fechaHora": "2026-05-24 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MARISCAL NASAZZI",
+ "visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "763",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-24 13:04:00",
+  "Fecha_fin": "2026-05-24 13:04:00",
+  "Locatario": "MARISCAL NASAZZI",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67573",
+   "Nombre": "MATEO PORTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52483",
+   "Nombre": "MATIAS FEDERICO BATISTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "42994",
+   "Nombre": "GERONIMO PESCE",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51406",
+   "Nombre": "SEBASTIAN RADICCIONI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "50536",
+   "Nombre": "JUAN BAUTISTA LORENZO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67153",
+   "Nombre": "DIEGO AGORIO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "42438",
+   "Nombre": "JUAN PABLO PIQUEREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "42298",
+   "Nombre": "ANDRES FABIAN CARRASCO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "40623",
+   "Nombre": "FRANCISCO PEREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "43688",
+   "Nombre": "LUIS ALVAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52185",
+   "Nombre": "SANTIAGO BARQUIN",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54102",
+   "Nombre": "THIAGO ENRIQUE ROMERO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "56459",
+   "Nombre": "JORGE PABLO SZOLLOSSY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51462",
+   "Nombre": "NAHUEL PICO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "65695",
+   "Nombre": "GONZALO FACELLO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "44090",
+   "Nombre": "PABLO KALEMKERIAN",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "65346",
+   "Nombre": "GUILLERMO CUMELLAS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "58921",
+   "Nombre": "LEANDRO ANDRES GRIGNETTI",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "68053",
+   "Nombre": "NAHUEL MODERNELL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "45143",
+   "Nombre": "NICOLAS GALEANO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64941",
+   "Nombre": "TOMAS VAZQUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "46846",
+   "Nombre": "SEBASTIAN MATTA",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42298",
+   "Jug_Sale": "ANDRES FABIAN CARRASCO",
+   "CarneEntra": "40620",
+   "Jug_Entra": "JOAQUIN MANUEL GARCIA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52185",
+   "Jug_Sale": "SANTIAGO BARQUIN",
+   "CarneEntra": "52674",
+   "Jug_Entra": "JOAQUIN BELLO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52483",
+   "Jug_Sale": "MATIAS FEDERICO BATISTA",
+   "CarneEntra": "52928",
+   "Jug_Entra": "LEANDRO ITURRALDE",
+   "camiseta": "3",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "42438",
+   "Jug_Sale": "JUAN PABLO PIQUEREZ",
+   "CarneEntra": "42298",
+   "Jug_Entra": "ANDRES FABIAN CARRASCO",
+   "camiseta": "6",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64941",
+   "Jug_Sale": "TOMAS VAZQUEZ",
+   "CarneEntra": "59251",
+   "Jug_Entra": "BRYAN EZEQUIEL LATORRE",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "65695",
+   "Jug_Sale": "GONZALO FACELLO",
+   "CarneEntra": "64643",
+   "Jug_Entra": "ANDRES VIGO",
+   "camiseta": "4",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "68053",
+   "Jug_Sale": "NAHUEL MODERNELL",
+   "CarneEntra": "53206",
+   "Jug_Entra": "GASTON GALEANO",
+   "camiseta": "10",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "46846",
+   "Jug_Sale": "SEBASTIAN MATTA",
+   "CarneEntra": "66554",
+   "Jug_Entra": "JOAQUIN APARICIO",
+   "camiseta": "21",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43688",
+   "Nombre": "LUIS ALVAREZ",
+   "minutos": "44",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46846",
+   "Nombre": "SEBASTIAN MATTA",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46846",
+   "Nombre": "SEBASTIAN MATTA",
+   "minutos": "83",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51462",
+   "Nombre": "NAHUEL PICO",
+   "minutos": "53",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

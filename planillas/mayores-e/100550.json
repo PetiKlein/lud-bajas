@@ -1,0 +1,277 @@
+{
+ "id": "100550",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 09:00:00",
+ "cancha": "COMPLEJO 1GOL",
+ "local": "CERVANTES UNIVERSITARIO",
+ "visitante": "UT SERVIAM",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "561",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO 1GOL",
+  "Fecha_Inicio": "2026-06-28 11:00:00",
+  "Fecha_fin": "2026-06-28 11:00:00",
+  "Locatario": "CERVANTES UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "UT SERVIAM",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64465",
+   "Nombre": "FABRICIO RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "34257",
+   "Nombre": "JUAN FELIPE CARDINAL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "51413",
+   "Nombre": "RODRIGO MARTINEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65301",
+   "Nombre": "RAMIRO SEBASTIAN ZIPITRIA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "45764",
+   "Nombre": "MATIAS BUGARIN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "52723",
+   "Nombre": "FELIPE CARLOS DE CARVALHO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55193",
+   "Nombre": "BRUNO BUERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49052",
+   "Nombre": "GIANLUCA COSTANTINI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "50459",
+   "Nombre": "DAMIAN CAO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "31726",
+   "Nombre": "DIEGO MARTIN RODRIGUEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "58888",
+   "Nombre": "RUBEN JAVIER BARRIOS",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66664",
+   "Nombre": "RODRIGO ZABALETT",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "36337",
+   "Nombre": "MATIAS NICOLAS SILVEYRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42325",
+   "Nombre": "NICOLAS RODRIGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "40626",
+   "Nombre": "JOAQUIN PRADERI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "52610",
+   "Nombre": "VALENTIN FEDERICO ANTOGNAZZA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "36862",
+   "Nombre": "ANDRES EDUARDO CAMPON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "51453",
+   "Nombre": "DIEGO OCHOA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61818",
+   "Nombre": "MANUEL SALVO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "47153",
+   "Nombre": "ALEJO CUEVAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "36852",
+   "Nombre": "JUAN ANDRES BERTELLI",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "41816",
+   "Nombre": "GUILLERMO LUIS MAY",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45764",
+   "Jug_Sale": "MATIAS BUGARIN",
+   "CarneEntra": "51155",
+   "Jug_Entra": "SANTIAGO FURMAN",
+   "camiseta": "6",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "31726",
+   "Jug_Sale": "DIEGO MARTIN RODRIGUEZ",
+   "CarneEntra": "59247",
+   "Jug_Entra": "EDEL FERIE",
+   "camiseta": "9",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58888",
+   "Jug_Sale": "RUBEN JAVIER BARRIOS",
+   "CarneEntra": "63167",
+   "Jug_Entra": "LUCAS BORGES",
+   "camiseta": "13",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "52723",
+   "Jug_Sale": "FELIPE CARLOS DE CARVALHO",
+   "CarneEntra": "61839",
+   "Jug_Entra": "IGNACIO SEBASTIAN OVANDO",
+   "camiseta": "20",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42325",
+   "Jug_Sale": "NICOLAS RODRIGUEZ",
+   "CarneEntra": "44900",
+   "Jug_Entra": "PEDRO DANIEL FEUER",
+   "camiseta": "4",
+   "minutos": "5"
+  },
+  {
+   "CarneSale": "52610",
+   "Jug_Sale": "VALENTIN FEDERICO ANTOGNAZZA",
+   "CarneEntra": "44913",
+   "Jug_Entra": "JOAQUIN BELTRAN",
+   "camiseta": "81",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61818",
+   "Jug_Sale": "MANUEL SALVO",
+   "CarneEntra": "39806",
+   "Jug_Entra": "TEOFILO SANGUINETTI",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66664",
+   "Jug_Sale": "RODRIGO ZABALETT",
+   "CarneEntra": "66665",
+   "Jug_Entra": "LUIS ISMAEL UMPIERREZ",
+   "camiseta": "14",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50459",
+   "Nombre": "DAMIAN CAO",
+   "minutos": "4",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50459",
+   "Nombre": "DAMIAN CAO",
+   "minutos": "27",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58888",
+   "Nombre": "RUBEN JAVIER BARRIOS",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "41816",
+   "Nombre": "GUILLERMO LUIS MAY",
+   "minutos": "37",
+   "EnContra": "1"
+  },
+  {
+   "carne": "41816",
+   "Nombre": "GUILLERMO LUIS MAY",
+   "minutos": "38",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JUAN ANDRES BERTELLI",
+   "observaciones": ""
+  }
+ ]
+}

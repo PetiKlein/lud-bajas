@@ -1,0 +1,290 @@
+{
+ "id": "101672",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 12,
+ "fechaHora": "2026-09-06 11:30:00",
+ "cancha": "ESCUELA NAVAL",
+ "local": "ESCUELA NAVAL",
+ "visitante": "ESPARTA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "696",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "ESCUELA NAVAL",
+  "Fecha_Inicio": "2026-09-06 13:22:00",
+  "Fecha_fin": "2026-09-06 13:22:00",
+  "Locatario": "ESCUELA NAVAL",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "ESPARTA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67100",
+   "Nombre": "FABRICCIO EMANUEL MELNECIUC",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62686",
+   "Nombre": "HECTRO ELIAS CORBO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59559",
+   "Nombre": "GONZALO MARTINEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68274",
+   "Nombre": "JUAN MARTIN FLORES",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "66435",
+   "Nombre": "LAUTARO DE LEON",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66055",
+   "Nombre": "SANTIAGO NAHUEL CORREA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "64983",
+   "Nombre": "TIMOTEO BENJAMIN ROMAN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62580",
+   "Nombre": "JOAQUIN ADRIAN VALS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67094",
+   "Nombre": "NICOLAS DANIEL DE MELLO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "60938",
+   "Nombre": "FRANCO VEZZOSO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "67101",
+   "Nombre": "FACUNDO RUBEN GOMEZ",
+   "camiseta": "41",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37571",
+   "Nombre": "ANDRES FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59481",
+   "Nombre": "JUAN MANUEL BARROS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42201",
+   "Nombre": "FRANCO ANTONIO DI BELLO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "34001",
+   "Nombre": "IGNACIO SOUZA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61792",
+   "Nombre": "HERNAN ARAUJO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53456",
+   "Nombre": "AGUSTIN SANDE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59397",
+   "Nombre": "HUGO ATILIO TRIUNFO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "32432",
+   "Nombre": "KEVIN ARIEL WINIARSKI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "40833",
+   "Nombre": "RODRIGO BOVINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49284",
+   "Nombre": "FELIPE ARRICAR",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67169",
+   "Nombre": "NICLAS SANTIAGO AVELLANEDA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60938",
+   "Jug_Sale": "FRANCO VEZZOSO",
+   "CarneEntra": "67103",
+   "Jug_Entra": "EMANUEL ABDIEL DE GRACIA",
+   "camiseta": "12",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "62580",
+   "Jug_Sale": "JOAQUIN ADRIAN VALS",
+   "CarneEntra": "59927",
+   "Jug_Entra": "ANDERSON YOEL AGUIRRE",
+   "camiseta": "24",
+   "minutos": "12"
+  },
+  {
+   "CarneSale": "66055",
+   "Jug_Sale": "SANTIAGO NAHUEL CORREA",
+   "CarneEntra": "62580",
+   "Jug_Entra": "JOAQUIN ADRIAN VALS",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67094",
+   "Jug_Sale": "NICOLAS DANIEL DE MELLO",
+   "CarneEntra": "65999",
+   "Jug_Entra": "LEANDRO DI PASCUA",
+   "camiseta": "71",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68274",
+   "Jug_Sale": "JUAN MARTIN FLORES",
+   "CarneEntra": "67094",
+   "Jug_Entra": "NICOLAS DANIEL DE MELLO",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "59559",
+   "Jug_Sale": "GONZALO MARTINEZ",
+   "CarneEntra": "60938",
+   "Jug_Entra": "FRANCO VEZZOSO",
+   "camiseta": "55",
+   "minutos": "13"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "34001",
+   "Jug_Sale": "IGNACIO SOUZA",
+   "CarneEntra": "66097",
+   "Jug_Entra": "FEDERICO LEMA",
+   "camiseta": "23",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "40833",
+   "Jug_Sale": "RODRIGO BOVINO",
+   "CarneEntra": "66223",
+   "Jug_Entra": "FACUNDO CHIAZZARO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67169",
+   "Jug_Sale": "NICLAS SANTIAGO AVELLANEDA",
+   "CarneEntra": "40833",
+   "Jug_Entra": "RODRIGO BOVINO",
+   "camiseta": "11",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62686",
+   "Nombre": "HECTRO ELIAS CORBO",
+   "minutos": "23",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62686",
+   "Nombre": "HECTRO ELIAS CORBO",
+   "minutos": "28",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "32432",
+   "Nombre": "KEVIN ARIEL WINIARSKI",
+   "minutos": "84",
+   "EnContra": "1"
+  },
+  {
+   "carne": "42201",
+   "Nombre": "FRANCO ANTONIO DI BELLO",
+   "minutos": "61",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49284",
+   "Nombre": "FELIPE ARRICAR",
+   "minutos": "76",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "TIMOTEO BENJAMIN ROMAN",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "NICLAS SANTIAGO AVELLANEDA",
+   "observaciones": ""
+  }
+ ]
+}

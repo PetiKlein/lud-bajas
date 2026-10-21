@@ -1,0 +1,305 @@
+{
+ "id": "99998",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "PALLOTTI UNIVERSITARIO",
+ "visitante": "CLUB FUERZA AEREA",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "670",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-06-14 11:00:00",
+  "Fecha_fin": "2026-06-14 11:00:00",
+  "Locatario": "PALLOTTI UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB FUERZA AEREA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67597",
+   "Nombre": "PABLO FACUNDO BATTAGLIESE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "42915",
+   "Nombre": "IVAN LAGO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "43148",
+   "Nombre": "ELAL CAMILO SANS",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37050",
+   "Nombre": "FABRIZIO ZANONI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54030",
+   "Nombre": "GASTON MACHADO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58351",
+   "Nombre": "JOAQUIN PAREDES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48519",
+   "Nombre": "NICOLAS ERNESTO SUBERBIE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "55085",
+   "Nombre": "MATIAS LIÑARES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46260",
+   "Nombre": "JUAN MANUEL SAN MARTIN",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "43145",
+   "Nombre": "JOAQUIN MATEO RODRIGUEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "43150",
+   "Nombre": "TOMAS DILEMA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "35538",
+   "Nombre": "YAIR EDGAR MORALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32201",
+   "Nombre": "CARLOS ANDRES AGUILERA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "35573",
+   "Nombre": "MARTIN DEUS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "47194",
+   "Nombre": "MARIO FEDERICO SIVERIO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "41646",
+   "Nombre": "SEBASTIAN DE MEDINA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60254",
+   "Nombre": "AXEL RAFAEL DAVILA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66704",
+   "Nombre": "MATIAS BENITEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "32198",
+   "Nombre": "DIEGO MARTIN ACOSTA",
+   "camiseta": "77",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63481",
+   "Nombre": "FEDERICO CENA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51915",
+   "Nombre": "EMILIANO DESEVO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "60642",
+   "Nombre": "LUCAS FACUNDO CORDERO",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58351",
+   "Jug_Sale": "JOAQUIN PAREDES",
+   "CarneEntra": "37919",
+   "Jug_Entra": "DIEGO MARTIN GONZALEZ",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46260",
+   "Jug_Sale": "JUAN MANUEL SAN MARTIN",
+   "CarneEntra": "45268",
+   "Jug_Entra": "FACUNDO ALANIZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54030",
+   "Jug_Sale": "GASTON MACHADO",
+   "CarneEntra": "58096",
+   "Jug_Entra": "SANTIAGO LUNGO",
+   "camiseta": "23",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "55085",
+   "Jug_Sale": "MATIAS LIÑARES",
+   "CarneEntra": "45027",
+   "Jug_Entra": "MARCELO HERNANDEZ",
+   "camiseta": "24",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "43145",
+   "Jug_Sale": "JOAQUIN MATEO RODRIGUEZ",
+   "CarneEntra": "50495",
+   "Jug_Entra": "EMILIANO ALANIZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48519",
+   "Jug_Sale": "NICOLAS ERNESTO SUBERBIE",
+   "CarneEntra": "42510",
+   "Jug_Entra": "AGUSTIN ANSORENA",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37050",
+   "Jug_Sale": "FABRIZIO ZANONI",
+   "CarneEntra": "52466",
+   "Jug_Entra": "GUZMAN VERDIAS",
+   "camiseta": "0",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63481",
+   "Jug_Sale": "FEDERICO CENA",
+   "CarneEntra": "46316",
+   "Jug_Entra": "SANTIAGO ROLAN",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32198",
+   "Jug_Sale": "DIEGO MARTIN ACOSTA",
+   "CarneEntra": "66213",
+   "Jug_Entra": "GONZALO GUZMAN ANTELO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51915",
+   "Jug_Sale": "EMILIANO DESEVO",
+   "CarneEntra": "54199",
+   "Jug_Entra": "ALEXANDER SATURNO PRESA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47194",
+   "Jug_Sale": "MARIO FEDERICO SIVERIO",
+   "CarneEntra": "67300",
+   "Jug_Entra": "BENJAMIN PEREIRA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35573",
+   "Jug_Sale": "MARTIN DEUS",
+   "CarneEntra": "32198",
+   "Jug_Entra": "DIEGO MARTIN ACOSTA",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32198",
+   "Jug_Sale": "DIEGO MARTIN ACOSTA",
+   "CarneEntra": "47194",
+   "Jug_Entra": "MARIO FEDERICO SIVERIO",
+   "camiseta": "6",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43145",
+   "Nombre": "JOAQUIN MATEO RODRIGUEZ",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "43145",
+   "Nombre": "JOAQUIN MATEO RODRIGUEZ",
+   "minutos": "17",
+   "EnContra": "0"
+  },
+  {
+   "carne": "43145",
+   "Nombre": "JOAQUIN MATEO RODRIGUEZ",
+   "minutos": "56",
+   "EnContra": "0"
+  },
+  {
+   "carne": "43150",
+   "Nombre": "TOMAS DILEMA",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

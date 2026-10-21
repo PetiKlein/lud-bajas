@@ -1,0 +1,275 @@
+{
+ "id": "98862",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 5,
+ "fechaHora": "2026-05-17 09:00:00",
+ "cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+ "local": "PEÑAROL UNIVERSITARIO",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "397",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+  "Fecha_Inicio": "2026-05-17 00:00:00",
+  "Fecha_fin": "2026-05-17 00:00:00",
+  "Locatario": "PEÑAROL UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66992",
+   "Nombre": "MATHIAS ALEXANDER MONTIEL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55825",
+   "Nombre": "NAHUEL MANZANARES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53137",
+   "Nombre": "CHRISTIAN ADRIAN FALCON",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54542",
+   "Nombre": "FACUNDO PEREYRA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "65783",
+   "Nombre": "BRUNO IGNACIO ALVAREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66845",
+   "Nombre": "FACUNDO OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49820",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "56541",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55275",
+   "Nombre": "SEBASTIAN ELTON GONZALEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "64480",
+   "Nombre": "MAXIMO FABRICIO NIEVAS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "55028",
+   "Nombre": "JUAN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56822",
+   "Nombre": "JUAN IGNACIO TELLECHEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "43741",
+   "Nombre": "SANTIAGO ALVES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62706",
+   "Nombre": "FACUNDO RAMA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49737",
+   "Nombre": "MATIAS ACQUARONE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54729",
+   "Nombre": "FRANCISCO MANUEL IGLESIAS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "41594",
+   "Nombre": "GUILLERMO CHALES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63613",
+   "Nombre": "EUSEBIO CABRAL",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "40130",
+   "Nombre": "SANTIAGO VISCAY",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54731",
+   "Nombre": "GERONIMO GAIERO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "45162",
+   "Nombre": "IGNACIO MONFORT",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53922",
+   "Nombre": "IGNACIO FERNANDEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54542",
+   "Jug_Sale": "FACUNDO PEREYRA",
+   "CarneEntra": "66630",
+   "Jug_Entra": "FRANCISCO PEREZ",
+   "camiseta": "4",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "55275",
+   "Jug_Sale": "SEBASTIAN ELTON GONZALEZ",
+   "CarneEntra": "54542",
+   "Jug_Entra": "FACUNDO PEREYRA",
+   "camiseta": "2",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "55825",
+   "Jug_Sale": "NAHUEL MANZANARES",
+   "CarneEntra": "55275",
+   "Jug_Entra": "SEBASTIAN ELTON GONZALEZ",
+   "camiseta": "10",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53922",
+   "Jug_Sale": "IGNACIO FERNANDEZ",
+   "CarneEntra": "44470",
+   "Jug_Entra": "AGUSTIN GABRIEL SILVA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43741",
+   "Jug_Sale": "SANTIAGO ALVES",
+   "CarneEntra": "48878",
+   "Jug_Entra": "JUAN JOSE CERVIERI",
+   "camiseta": "15",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "62706",
+   "Jug_Sale": "FACUNDO RAMA",
+   "CarneEntra": "37816",
+   "Jug_Entra": "EMILIANO PABLO BONINI",
+   "camiseta": "31",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "41594",
+   "Jug_Sale": "GUILLERMO CHALES",
+   "CarneEntra": "55316",
+   "Jug_Entra": "LUCIANO VICINO",
+   "camiseta": "17",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "54731",
+   "Jug_Sale": "GERONIMO GAIERO",
+   "CarneEntra": "46887",
+   "Jug_Entra": "TOMAS MACHADO",
+   "camiseta": "75",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "45162",
+   "Jug_Sale": "IGNACIO MONFORT",
+   "CarneEntra": "42311",
+   "Jug_Entra": "DIEGO MATIAS VIZCARRA",
+   "camiseta": "10",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "49737",
+   "Jug_Sale": "MATIAS ACQUARONE",
+   "CarneEntra": "37033",
+   "Jug_Entra": "VICENTE GONZALEZ-ARNAO",
+   "camiseta": "13",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "41594",
+   "Nombre": "GUILLERMO CHALES",
+   "minutos": "72",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45162",
+   "Nombre": "IGNACIO MONFORT",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63613",
+   "Nombre": "EUSEBIO CABRAL",
+   "minutos": "35",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

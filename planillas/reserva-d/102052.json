@@ -1,0 +1,276 @@
+{
+ "id": "102052",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 4,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "MARISTAS DEPORTIVO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "513",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-09-19 13:05:00",
+  "Fecha_fin": "2026-09-19 13:05:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "MARISTAS DEPORTIVO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55202",
+   "Nombre": "SANTIAGO OLIVERA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "56622",
+   "Nombre": "GONZALO APKARIAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "56626",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "58751",
+   "Nombre": "FRANCISCO ANTONIO VILLAGRAN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "48268",
+   "Nombre": "ERNESTO MATIAS PEREYRA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47098",
+   "Nombre": "JUAN IGNACIO COITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55560",
+   "Nombre": "JUAN MATEO PELUFO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54861",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41716",
+   "Nombre": "MATEO CASTAGNA",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59350",
+   "Nombre": "GASTON NUÑEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66164",
+   "Nombre": "NICOLAS AYESTARAN",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "56508",
+   "Nombre": "MATEO GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56682",
+   "Nombre": "DIEGO RAHI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "60732",
+   "Nombre": "SEBASTIAN LAPORTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "46422",
+   "Nombre": "GONZALO IÑAKI DE PENA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66621",
+   "Nombre": "NAIM BLANCO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "56224",
+   "Nombre": "SANTIAGO DANIEL CASCO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "58255",
+   "Nombre": "AGUSTIN DIAZ",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "61778",
+   "Nombre": "EDINSON MAXIMILIANO DIAZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "46034",
+   "Nombre": "APARICIO PEDRO MACHADO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48268",
+   "Jug_Sale": "ERNESTO MATIAS PEREYRA",
+   "CarneEntra": "49541",
+   "Jug_Entra": "PABLO FERNANDO MOREIRA",
+   "camiseta": "69",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "56622",
+   "Jug_Sale": "GONZALO APKARIAN",
+   "CarneEntra": "44518",
+   "Jug_Entra": "MATIAS DA ROSA",
+   "camiseta": "99",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "58751",
+   "Jug_Sale": "FRANCISCO ANTONIO VILLAGRAN",
+   "CarneEntra": "52618",
+   "Jug_Entra": "ALEX FERREIRA",
+   "camiseta": "33",
+   "minutos": "66"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56508",
+   "Jug_Sale": "MATEO GARCIA",
+   "CarneEntra": "55117",
+   "Jug_Entra": "GUILLERMO VALLE LISBOA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56224",
+   "Jug_Sale": "SANTIAGO DANIEL CASCO",
+   "CarneEntra": "68986",
+   "Jug_Entra": "BRUNO EDUARDO MELGAREJO",
+   "camiseta": "30",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "58255",
+   "Jug_Sale": "AGUSTIN DIAZ",
+   "CarneEntra": "61756",
+   "Jug_Entra": "LUCAS DANIEL PEREZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61778",
+   "Jug_Sale": "EDINSON MAXIMILIANO DIAZ",
+   "CarneEntra": "69142",
+   "Jug_Entra": "MATEO PEREZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66621",
+   "Jug_Sale": "NAIM BLANCO",
+   "CarneEntra": "66232",
+   "Jug_Entra": "LUCAS MAURICIO CARTAGENA",
+   "camiseta": "25",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "46422",
+   "Jug_Sale": "GONZALO IÑAKI DE PENA",
+   "CarneEntra": "66624",
+   "Jug_Entra": "VALENTIN HUGO MENDIZABAL",
+   "camiseta": "42",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "46034",
+   "Jug_Sale": "APARICIO PEDRO MACHADO",
+   "CarneEntra": "55121",
+   "Jug_Entra": "AGUSTIN FRAGA",
+   "camiseta": "37",
+   "minutos": "63"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58751",
+   "Nombre": "FRANCISCO ANTONIO VILLAGRAN",
+   "minutos": "17",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "69142",
+   "Nombre": "MATEO PEREZ",
+   "minutos": "77",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,255 @@
+{
+ "id": "102674",
+ "categoria": "reserva-a",
+ "serie": "RSAT",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 09:00:00",
+ "cancha": "COMPLEJO WOODLANDS SCHOOL",
+ "local": "OLD WOODLANDS CLUB",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "624",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"A\" TITULO",
+  "Cancha": "COMPLEJO WOODLANDS SCHOOL",
+  "Fecha_Inicio": "2026-10-10 11:00:00",
+  "Fecha_fin": "2026-10-10 11:00:00",
+  "Locatario": "OLD WOODLANDS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65071",
+   "Nombre": "MANUEL FELIPE DOMINGUEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "53360",
+   "Nombre": "SANTIAGO JORCIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "43493",
+   "Nombre": "FEDERICO HAZAN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "41001",
+   "Nombre": "DIEGO DABEZIES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "33370",
+   "Nombre": "SANTIAGO BZUROVSKI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53647",
+   "Nombre": "MATIAS PINTOS",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "35167",
+   "Nombre": "JUAN MARTIN AROCENA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53615",
+   "Nombre": "THIAGO BENITES",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "50731",
+   "Nombre": "FACUNDO MUNUA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "51145",
+   "Nombre": "ALEJANDRO VICTORICA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "56777",
+   "Nombre": "BRUNO MARIA IRULEGUY",
+   "camiseta": "71",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "48273",
+   "Nombre": "SORIA PALLERO DIEGO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53624",
+   "Nombre": "MATEO OURTHE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55602",
+   "Nombre": "CAETANO MARRONE",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "55476",
+   "Nombre": "IGNACIO MELLO",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "52811",
+   "Nombre": "FELIPE PERLA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53360",
+   "Jug_Sale": "SANTIAGO JORCIN",
+   "CarneEntra": "39788",
+   "Jug_Entra": "TIM ELBERSE",
+   "camiseta": "38",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56777",
+   "Jug_Sale": "BRUNO MARIA IRULEGUY",
+   "CarneEntra": "50922",
+   "Jug_Entra": "LUCAS ALEGRE",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53615",
+   "Jug_Sale": "THIAGO BENITES",
+   "CarneEntra": "65309",
+   "Jug_Entra": "TIAGO SANTAMARIA",
+   "camiseta": "32",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "50731",
+   "Jug_Sale": "FACUNDO MUNUA",
+   "CarneEntra": "38249",
+   "Jug_Entra": "TOMAS FALCO",
+   "camiseta": "16",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "35167",
+   "Jug_Sale": "JUAN MARTIN AROCENA",
+   "CarneEntra": "36920",
+   "Jug_Entra": "JUAN IGNACIO REGO",
+   "camiseta": "44",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "51145",
+   "Jug_Sale": "ALEJANDRO VICTORICA",
+   "CarneEntra": "48036",
+   "Jug_Entra": "SANTIAGO IRULEGUY",
+   "camiseta": "11",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49766",
+   "Jug_Sale": "JUAN SALHON",
+   "CarneEntra": "47736",
+   "Jug_Entra": "TOMAS CONDE",
+   "camiseta": "16",
+   "minutos": "16"
+  },
+  {
+   "CarneSale": "42290",
+   "Jug_Sale": "PABLO JOAQUIN PARADO",
+   "CarneEntra": "55719",
+   "Jug_Entra": "NICOLAS REY",
+   "camiseta": "14",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "49414",
+   "Jug_Sale": "DIEGO GABRIEL HANDALIAN",
+   "CarneEntra": "55160",
+   "Jug_Entra": "JOAQUIN PEÑA",
+   "camiseta": "10",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51145",
+   "Nombre": "ALEJANDRO VICTORICA",
+   "minutos": "56",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

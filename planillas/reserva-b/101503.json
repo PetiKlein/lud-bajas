@@ -1,0 +1,282 @@
+{
+ "id": "101503",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:30:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "JUAN XXIII",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "214",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-09-05 13:25:00",
+  "Fecha_fin": "2026-09-05 13:25:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61816",
+   "Nombre": "MATEO RAFAEL BRANAA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55157",
+   "Nombre": "DIEGO YAQUINTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "42677",
+   "Nombre": "DIEGO ALBERTO CLAVIJO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51554",
+   "Nombre": "FELIPE OURTHE-CABALE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41837",
+   "Nombre": "FRANCISCO DOMINGO COSCO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55155",
+   "Nombre": "MATIAS DURAN",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "52792",
+   "Nombre": "PABLO TOMAS SILVA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "50725",
+   "Nombre": "JUAN IGNACIO ROSSI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "55539",
+   "Nombre": "JUAN ANDRES FERREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54936",
+   "Nombre": "CARLOS PEDRO MENDIVE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "44167",
+   "Nombre": "FEDERICO ERNESTO CHIESA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54675",
+   "Nombre": "EMILIANO SALVO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53728",
+   "Nombre": "NICOLAS MIGUEL DE OCAMPO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "49486",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41717",
+   "Nombre": "SANTIAGO PEREYRA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58853",
+   "Nombre": "FRANCISCO GANDIOLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "55078",
+   "Nombre": "JOAQUIN CELIBERTI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "48450",
+   "Nombre": "MATEO CORREA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "62975",
+   "Nombre": "FRANCO ANDRES MIRAFIORE",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "52613",
+   "Nombre": "JUAN MANUEL BUERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53601",
+   "Nombre": "JOAQUIN CASAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47802",
+   "Nombre": "FACUNDO MARTIN PEREIRA",
+   "camiseta": "37",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42677",
+   "Jug_Sale": "DIEGO ALBERTO CLAVIJO",
+   "CarneEntra": "49505",
+   "Jug_Entra": "JUAN MANUEL SALA",
+   "camiseta": "17",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "54936",
+   "Jug_Sale": "CARLOS PEDRO MENDIVE",
+   "CarneEntra": "53986",
+   "Jug_Entra": "FRANCO CAMPOY",
+   "camiseta": "10",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "52792",
+   "Jug_Sale": "PABLO TOMAS SILVA",
+   "CarneEntra": "52445",
+   "Jug_Entra": "CARLOS MIGUEL RIVERO",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "50725",
+   "Jug_Sale": "JUAN IGNACIO ROSSI",
+   "CarneEntra": "52856",
+   "Jug_Entra": "MARCO RODRIGUEZ",
+   "camiseta": "11",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "55539",
+   "Jug_Sale": "JUAN ANDRES FERREIRA",
+   "CarneEntra": "50624",
+   "Jug_Entra": "FACUNDO GALBARINI",
+   "camiseta": "21",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "51554",
+   "Jug_Sale": "FELIPE OURTHE-CABALE",
+   "CarneEntra": "53852",
+   "Jug_Entra": "SANTIAGO JOSE MARTI",
+   "camiseta": "2",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62975",
+   "Jug_Sale": "FRANCO ANDRES MIRAFIORE",
+   "CarneEntra": "55233",
+   "Jug_Entra": "DANTE PEÑA",
+   "camiseta": "81",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48450",
+   "Jug_Sale": "MATEO CORREA",
+   "CarneEntra": "57648",
+   "Jug_Entra": "FRANCISCO GUILLEN",
+   "camiseta": "76",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "41717",
+   "Jug_Sale": "SANTIAGO PEREYRA",
+   "CarneEntra": "62975",
+   "Jug_Entra": "FRANCO ANDRES MIRAFIORE",
+   "camiseta": "29",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "53601",
+   "Jug_Sale": "JOAQUIN CASAS",
+   "CarneEntra": "47200",
+   "Jug_Entra": "JOAQUIN VILLAR",
+   "camiseta": "36",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49505",
+   "Nombre": "JUAN MANUEL SALA",
+   "minutos": "72",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50624",
+   "Nombre": "FACUNDO GALBARINI",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53601",
+   "Nombre": "JOAQUIN CASAS",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57648",
+   "Nombre": "FRANCISCO GUILLEN",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

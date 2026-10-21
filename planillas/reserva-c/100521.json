@@ -1,0 +1,315 @@
+{
+ "id": "100521",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "E.L.F.",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "321",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-06-27 11:00:00",
+  "Fecha_fin": "2026-06-27 11:00:00",
+  "Locatario": "E.L.F.",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41722",
+   "Nombre": "NICOLAS FREYER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45411",
+   "Nombre": "MAXIMILIANO PARODI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52276",
+   "Nombre": "SANTIAGO CARAVIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56280",
+   "Nombre": "SEBASTIAN MACHIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "41367",
+   "Nombre": "FRANCISCO BARTESAGHI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "49458",
+   "Nombre": "GUZMAN RODRIGUEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "43242",
+   "Nombre": "FRANCO PASARISA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "43672",
+   "Nombre": "ALEJO CORRADI",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48949",
+   "Nombre": "IGNACIO JOSE PALLAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "42786",
+   "Nombre": "MATEO CORRADI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47483",
+   "Nombre": "EMMANUEL KAKLOUK",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67271",
+   "Nombre": "GASTON GIMENEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51293",
+   "Nombre": "JUAN MARTIN CABALLERO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56300",
+   "Nombre": "NICOLAS CARDOZO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54393",
+   "Nombre": "KEVIN SEBASTIAN LUDUEÑA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42691",
+   "Nombre": "MAXIMILIANO MUNDIN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "66120",
+   "Nombre": "AGUSTIN CALZADA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63923",
+   "Nombre": "ADRIAN MOREIRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55067",
+   "Nombre": "NICOLAS MAURO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64143",
+   "Nombre": "ALFONSO GONZALEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58566",
+   "Nombre": "RAMIRO GERMAN CAPELLI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "46276",
+   "Nombre": "FRANCO GUSTAVO MARFEI",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43242",
+   "Jug_Sale": "FRANCO PASARISA",
+   "CarneEntra": "40768",
+   "Jug_Entra": "GERMAN PAZOS",
+   "camiseta": "15",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "52276",
+   "Jug_Sale": "SANTIAGO CARAVIA",
+   "CarneEntra": "49456",
+   "Jug_Entra": "IGNACIO ANTONIO CARNEIRO",
+   "camiseta": "7",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "49458",
+   "Jug_Sale": "GUZMAN RODRIGUEZ",
+   "CarneEntra": "46978",
+   "Jug_Entra": "IGNACIO TASSANI",
+   "camiseta": "18",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "42786",
+   "Jug_Sale": "MATEO CORRADI",
+   "CarneEntra": "38540",
+   "Jug_Entra": "JOAQUIN SAEZ",
+   "camiseta": "12",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "47483",
+   "Jug_Sale": "EMMANUEL KAKLOUK",
+   "CarneEntra": "40561",
+   "Jug_Entra": "AGUSTIN ETCHEGARAY",
+   "camiseta": "13",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "43672",
+   "Jug_Sale": "ALEJO CORRADI",
+   "CarneEntra": "44457",
+   "Jug_Entra": "BRUNO GIORDANO",
+   "camiseta": "5",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "56280",
+   "Jug_Sale": "SEBASTIAN MACHIN",
+   "CarneEntra": "47469",
+   "Jug_Entra": "MATEO AGUILAR",
+   "camiseta": "17",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46276",
+   "Jug_Sale": "FRANCO GUSTAVO MARFEI",
+   "CarneEntra": "66995",
+   "Jug_Entra": "LAUTARO AMAYA",
+   "camiseta": "20",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "66120",
+   "Jug_Sale": "AGUSTIN CALZADA",
+   "CarneEntra": "61361",
+   "Jug_Entra": "NAHUEL EZEQUIEL PEDRANZINI",
+   "camiseta": "13",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "56300",
+   "Jug_Sale": "NICOLAS CARDOZO",
+   "CarneEntra": "63586",
+   "Jug_Entra": "EMILIANO ARREGUI",
+   "camiseta": "7",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "58566",
+   "Jug_Sale": "RAMIRO GERMAN CAPELLI",
+   "CarneEntra": "54780",
+   "Jug_Entra": "ESTEBAN DANIEL VAZQUEZ",
+   "camiseta": "9",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "63923",
+   "Jug_Sale": "ADRIAN MOREIRA",
+   "CarneEntra": "58647",
+   "Jug_Entra": "DIEGO FERNANDO MORALES",
+   "camiseta": "14",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "51293",
+   "Jug_Sale": "JUAN MARTIN CABALLERO",
+   "CarneEntra": "56300",
+   "Jug_Entra": "NICOLAS CARDOZO",
+   "camiseta": "2",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "38540",
+   "Nombre": "JOAQUIN SAEZ",
+   "minutos": "66",
+   "EnContra": "0"
+  },
+  {
+   "carne": "44457",
+   "Nombre": "BRUNO GIORDANO",
+   "minutos": "81",
+   "EnContra": "0"
+  },
+  {
+   "carne": "44457",
+   "Nombre": "BRUNO GIORDANO",
+   "minutos": "87",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49458",
+   "Nombre": "GUZMAN RODRIGUEZ",
+   "minutos": "16",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "FRANCISCO BARTESAGHI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "NICOLAS MAURO RODRIGUEZ",
+   "observaciones": ""
+  }
+ ]
+}

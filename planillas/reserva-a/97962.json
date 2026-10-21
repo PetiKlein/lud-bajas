@@ -1,0 +1,311 @@
+{
+ "id": "97962",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "OLD CHRISTIANS AZUL",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "5",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-04-11 00:00:00",
+  "Fecha_fin": "2026-04-11 00:00:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS AZUL",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55007",
+   "Nombre": "FACUNDO SERGIO RIGOLI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49489",
+   "Nombre": "PAOLO PARIANI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53624",
+   "Nombre": "MATEO OURTHE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55476",
+   "Nombre": "IGNACIO MELLO",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60967",
+   "Nombre": "JUAN FRANCISCO ARRETCHE",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39597",
+   "Nombre": "JUAN MANUEL VIGORITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41003",
+   "Nombre": "FEDERICO BARRIOS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "53219",
+   "Nombre": "JOAQUIN LARRAECHA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "37171",
+   "Nombre": "MATEO DIEGO BLENGIO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "54053",
+   "Nombre": "FRANCO BUYSAN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "42263",
+   "Nombre": "JUAN MARTIN ROMANIELLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52355",
+   "Nombre": "SANTIAGO PAZ RODRIGUEZ",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "51886",
+   "Nombre": "LUCAS ALONSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "32400",
+   "Nombre": "MATIAS DANIEL RIOS",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "37187",
+   "Nombre": "GUILLERMO DEAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "camiseta": "97",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60967",
+   "Jug_Sale": "JUAN FRANCISCO ARRETCHE",
+   "CarneEntra": "48838",
+   "Jug_Entra": "BRUNO GRAJALES",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55476",
+   "Jug_Sale": "IGNACIO MELLO",
+   "CarneEntra": "46886",
+   "Jug_Entra": "FEDERICO BOCCARDO",
+   "camiseta": "80",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "54738",
+   "Jug_Sale": "THIAGO MORLAN",
+   "CarneEntra": "55160",
+   "Jug_Entra": "JOAQUIN PEÑA",
+   "camiseta": "10",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "42290",
+   "Jug_Sale": "PABLO JOAQUIN PARADO",
+   "CarneEntra": "45826",
+   "Jug_Entra": "VALENTIN DE LEONARDIS",
+   "camiseta": "19",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "49766",
+   "Jug_Sale": "JUAN SALHON",
+   "CarneEntra": "47736",
+   "Jug_Entra": "TOMAS CONDE",
+   "camiseta": "16",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "45826",
+   "Jug_Sale": "VALENTIN DE LEONARDIS",
+   "CarneEntra": "42290",
+   "Jug_Entra": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51886",
+   "Jug_Sale": "LUCAS ALONSO",
+   "CarneEntra": "63476",
+   "Jug_Entra": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "camiseta": "19",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "37187",
+   "Jug_Sale": "GUILLERMO DEAL",
+   "CarneEntra": "58078",
+   "Jug_Entra": "JUAN CORTABARRIA",
+   "camiseta": "4",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "41003",
+   "Jug_Sale": "FEDERICO BARRIOS",
+   "CarneEntra": "54480",
+   "Jug_Entra": "FACUNDO BELO",
+   "camiseta": "30",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "54053",
+   "Jug_Sale": "FRANCO BUYSAN",
+   "CarneEntra": "39425",
+   "Jug_Entra": "SANTIAGO MARAFFI",
+   "camiseta": "31",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "32400",
+   "Jug_Sale": "MATIAS DANIEL RIOS",
+   "CarneEntra": "46346",
+   "Jug_Entra": "FELIPE BARRERE",
+   "camiseta": "6",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "37171",
+   "Jug_Sale": "MATEO DIEGO BLENGIO",
+   "CarneEntra": "43762",
+   "Jug_Entra": "ALFONSO MARQUES",
+   "camiseta": "3",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "53219",
+   "Jug_Sale": "JOAQUIN LARRAECHA",
+   "CarneEntra": "52606",
+   "Jug_Entra": "JUAN DIEGO CALABUIG",
+   "camiseta": "5",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "32400",
+   "Nombre": "MATIAS DANIEL RIOS",
+   "minutos": "32",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32400",
+   "Nombre": "MATIAS DANIEL RIOS",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "37187",
+   "Nombre": "GUILLERMO DEAL",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52355",
+   "Nombre": "SANTIAGO PAZ RODRIGUEZ",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "minutos": "88",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

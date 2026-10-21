@@ -1,0 +1,269 @@
+{
+ "id": "100145",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "CENTRO GALLEGO",
+ "local": "CENTRO GALLEGO",
+ "visitante": "CLUB ATLETICO BELLA VISTA",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "787",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "CENTRO GALLEGO",
+  "Fecha_Inicio": "2026-06-14 10:55:00",
+  "Fecha_fin": "2026-06-14 10:55:00",
+  "Locatario": "CENTRO GALLEGO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ATLETICO BELLA VISTA",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67565",
+   "Nombre": "SEBASTIAN MACHIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46319",
+   "Nombre": "SERGIO MATIAS MARTINEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49913",
+   "Nombre": "SEBASTIAN PAZOS",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "67399",
+   "Nombre": "FACUNDO DANIEL VILA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64778",
+   "Nombre": "IGNACIO TABARE CLAVIJO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68699",
+   "Nombre": "FACUNDO CASTRO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "37457",
+   "Nombre": "GERMAN AUGUSTO FRASCHINI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66263",
+   "Nombre": "JOAQUIN MANUEL MUÑOZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55318",
+   "Nombre": "CARLOS FLEITAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46504",
+   "Nombre": "KEVIN RAFAEL JAURETCHE",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43060",
+   "Nombre": "FACUNDO DE MARIA",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63854",
+   "Nombre": "MATIAS MIGUEL GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51792",
+   "Nombre": "LEANDRO CLAVIJO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "44758",
+   "Nombre": "ALEJO PEREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67270",
+   "Nombre": "MARTINO ROCCO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58227",
+   "Nombre": "IGNACIO EMANNUEL SILVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "59858",
+   "Nombre": "RODRIGO IVAN CASAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56487",
+   "Nombre": "MAURICIO NEHEMIAS VIERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59072",
+   "Nombre": "SANTIAGO AGUSTIN ALMEIDA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49537",
+   "Nombre": "MATIAS GERMAN CONSTENLA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "38596",
+   "Nombre": "GERMAN DARIO ACUÑA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63851",
+   "Nombre": "JEDI MAXIMILIANO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68699",
+   "Jug_Sale": "FACUNDO CASTRO",
+   "CarneEntra": "63976",
+   "Jug_Entra": "THIAGO ESCUDERO",
+   "camiseta": "32",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "49913",
+   "Jug_Sale": "SEBASTIAN PAZOS",
+   "CarneEntra": "51991",
+   "Jug_Entra": "CRISTIAN ANTONY BRITO",
+   "camiseta": "5",
+   "minutos": "47"
+  },
+  {
+   "CarneSale": "67399",
+   "Jug_Sale": "FACUNDO DANIEL VILA",
+   "CarneEntra": "39957",
+   "Jug_Entra": "MATIAS ROCCO",
+   "camiseta": "3",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63851",
+   "Jug_Sale": "JEDI MAXIMILIANO RODRIGUEZ",
+   "CarneEntra": "67286",
+   "Jug_Entra": "ALEJANDRO EZEQUIEL PEREZ",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38596",
+   "Jug_Sale": "GERMAN DARIO ACUÑA",
+   "CarneEntra": "67285",
+   "Jug_Entra": "DILAN ANDRES SALDIAS",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "59858",
+   "Jug_Sale": "RODRIGO IVAN CASAS",
+   "CarneEntra": "64653",
+   "Jug_Entra": "BRAULIO TOMAS MATTOS",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "49537",
+   "Jug_Sale": "MATIAS GERMAN CONSTENLA",
+   "CarneEntra": "68759",
+   "Jug_Entra": "JOAQUIN ANDRES MARTINEZ",
+   "camiseta": "22",
+   "minutos": "94"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46504",
+   "Nombre": "KEVIN RAFAEL JAURETCHE",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "46504",
+   "Nombre": "KEVIN RAFAEL JAURETCHE",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "38596",
+   "Nombre": "GERMAN DARIO ACUÑA",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56487",
+   "Nombre": "MAURICIO NEHEMIAS VIERA",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67270",
+   "Nombre": "MARTINO ROCCO",
+   "minutos": "84",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SERGIO MATIAS MARTINEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

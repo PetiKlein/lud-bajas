@@ -1,0 +1,311 @@
+{
+ "id": "99703",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 15:30:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "OLD IVY",
+ "gl": 5,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "183",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-06-06 18:00:00",
+  "Fecha_fin": "2026-06-06 18:00:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "OLD IVY",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60866",
+   "Nombre": "SANTINO SALAVERRY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59424",
+   "Nombre": "FACUNDO TOMAS GARCIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59545",
+   "Nombre": "EMILIANO JOAQUIN PAREDES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59396",
+   "Nombre": "KEVIN NICOLAS BARRERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56800",
+   "Nombre": "ELIAS LAUTARO IOVINE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57849",
+   "Nombre": "FEDERICO MANUEL BOGAO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "63645",
+   "Nombre": "TOMAS DANIEL MARTINEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "59419",
+   "Nombre": "IMANOL FYNN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58544",
+   "Nombre": "PATRICIO SANGUINETTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59409",
+   "Nombre": "FRANCO LARROSA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67616",
+   "Nombre": "JUAN MARTIN REYES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62771",
+   "Nombre": "FRANCISCO AROCENA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "59611",
+   "Nombre": "FEDERICO MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57161",
+   "Nombre": "JUAN FRANCISCO SONEIRA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60169",
+   "Nombre": "ROCCO JORGE LOBLOWITZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "60663",
+   "Nombre": "ALFONSO PORRAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67457",
+   "Nombre": "GIOVANNI RAIMONDI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59609",
+   "Nombre": "FRANCISCO RUBIO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "59614",
+   "Nombre": "TOMAS HORJALES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59182",
+   "Nombre": "MATEO DENIS",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59616",
+   "Nombre": "MATIAS DAMIAN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59409",
+   "Jug_Sale": "FRANCO LARROSA",
+   "CarneEntra": "56926",
+   "Jug_Entra": "MANUEL NICOLAS COSTA",
+   "camiseta": "81",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58544",
+   "Jug_Sale": "PATRICIO SANGUINETTI",
+   "CarneEntra": "63545",
+   "Jug_Entra": "GONZALO DANIEL GRECIET",
+   "camiseta": "7",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59419",
+   "Jug_Sale": "IMANOL FYNN",
+   "CarneEntra": "61020",
+   "Jug_Entra": "GONZALO HUERTAS",
+   "camiseta": "20",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63645",
+   "Jug_Sale": "TOMAS DANIEL MARTINEZ",
+   "CarneEntra": "56419",
+   "Jug_Entra": "JUAN MANUEL VERA",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "57849",
+   "Jug_Sale": "FEDERICO MANUEL BOGAO",
+   "CarneEntra": "59434",
+   "Jug_Entra": "IGNACIO HERNANDEZ",
+   "camiseta": "16",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "56800",
+   "Jug_Sale": "ELIAS LAUTARO IOVINE",
+   "CarneEntra": "58225",
+   "Jug_Entra": "GASTON PRILIAC",
+   "camiseta": "48",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "59396",
+   "Jug_Sale": "KEVIN NICOLAS BARRERA",
+   "CarneEntra": "56421",
+   "Jug_Entra": "DAMIAN DENES",
+   "camiseta": "13",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67616",
+   "Jug_Sale": "JUAN MARTIN REYES",
+   "CarneEntra": "57163",
+   "Jug_Entra": "SANTIAGO FOLONIER",
+   "camiseta": "99",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "67457",
+   "Jug_Sale": "GIOVANNI RAIMONDI",
+   "CarneEntra": "59030",
+   "Jug_Entra": "JUAN IGNACIO GOMEZ",
+   "camiseta": "19",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "59182",
+   "Jug_Sale": "MATEO DENIS",
+   "CarneEntra": "67615",
+   "Jug_Entra": "SANTIAGO SUAREZ",
+   "camiseta": "21",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "60663",
+   "Jug_Sale": "ALFONSO PORRAS",
+   "CarneEntra": "66625",
+   "Jug_Entra": "NICOLAS QUINTANA",
+   "camiseta": "77",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "60169",
+   "Jug_Sale": "ROCCO JORGE LOBLOWITZ",
+   "CarneEntra": "67458",
+   "Jug_Entra": "MATIAS GARCIA",
+   "camiseta": "27",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57161",
+   "Jug_Sale": "JUAN FRANCISCO SONEIRA",
+   "CarneEntra": "57951",
+   "Jug_Entra": "JUAN GUILLERMO MARTINEZ",
+   "camiseta": "18",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56419",
+   "Nombre": "JUAN MANUEL VERA",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56419",
+   "Nombre": "JUAN MANUEL VERA",
+   "minutos": "86",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56926",
+   "Nombre": "MANUEL NICOLAS COSTA",
+   "minutos": "56",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56926",
+   "Nombre": "MANUEL NICOLAS COSTA",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59419",
+   "Nombre": "IMANOL FYNN",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

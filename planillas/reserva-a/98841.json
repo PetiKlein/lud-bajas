@@ -1,0 +1,248 @@
+{
+ "id": "98841",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "OLD WOODLANDS CLUB",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "37",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-05-16 10:55:00",
+  "Fecha_fin": "2026-05-16 10:55:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "OLD WOODLANDS CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58246",
+   "Nombre": "IGNACIO BARCELO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58350",
+   "Nombre": "RAMIRO LEONCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56963",
+   "Nombre": "LUCAS BERTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46910",
+   "Nombre": "FELIPE VERDUN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63582",
+   "Nombre": "ENZO GABRIEL URIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53807",
+   "Nombre": "JUAN PEDRO GOMEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31292",
+   "Nombre": "SANTIAGO ELIAS GAGGERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "46500",
+   "Nombre": "ENZO RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50717",
+   "Nombre": "SANTIAGO VEIGA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40692",
+   "Nombre": "NICOLAS COLLINS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65071",
+   "Nombre": "MANUEL FELIPE DOMINGUEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "52783",
+   "Nombre": "DAAN TOMAS ELBERSE",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "53359",
+   "Nombre": "CARLOS FLEURQUIN",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "54724",
+   "Nombre": "MAURICIO DI BELLO",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "53000",
+   "Nombre": "FEDERICO NUÑEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53615",
+   "Nombre": "THIAGO BENITES",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "51145",
+   "Nombre": "ALEJANDRO VICTORICA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "52998",
+   "Nombre": "MARCOS ALVAREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "33370",
+   "Nombre": "SANTIAGO BZUROVSKI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56777",
+   "Nombre": "BRUNO MARIA IRULEGUY",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "51125",
+   "Nombre": "MATEO FALCO",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "40692",
+   "Jug_Sale": "NICOLAS COLLINS",
+   "CarneEntra": "60494",
+   "Jug_Entra": "PEDRO ALBERTO LISTA",
+   "camiseta": "18",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "31292",
+   "Jug_Sale": "SANTIAGO ELIAS GAGGERO",
+   "CarneEntra": "57413",
+   "Jug_Entra": "ENZO SEBASTIAN LAXAGUE",
+   "camiseta": "30",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "53807",
+   "Jug_Sale": "JUAN PEDRO GOMEZ",
+   "CarneEntra": "52718",
+   "Jug_Entra": "AGUSTIN CHAIA",
+   "camiseta": "19",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51125",
+   "Jug_Sale": "MATEO FALCO",
+   "CarneEntra": "58593",
+   "Jug_Entra": "ALVARO FACUNDO DEFAUT",
+   "camiseta": "50",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "56777",
+   "Jug_Sale": "BRUNO MARIA IRULEGUY",
+   "CarneEntra": "50731",
+   "Jug_Entra": "FACUNDO MUNUA",
+   "camiseta": "80",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "53615",
+   "Jug_Sale": "THIAGO BENITES",
+   "CarneEntra": "53647",
+   "Jug_Entra": "MATIAS PINTOS",
+   "camiseta": "2",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "54724",
+   "Jug_Sale": "MAURICIO DI BELLO",
+   "CarneEntra": "36920",
+   "Jug_Entra": "JUAN IGNACIO REGO",
+   "camiseta": "44",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "51145",
+   "Jug_Sale": "ALEJANDRO VICTORICA",
+   "CarneEntra": "49929",
+   "Jug_Entra": "ALBERTO GALLINAL",
+   "camiseta": "26",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "52998",
+   "Jug_Sale": "MARCOS ALVAREZ",
+   "CarneEntra": "48036",
+   "Jug_Entra": "SANTIAGO IRULEGUY",
+   "camiseta": "34",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

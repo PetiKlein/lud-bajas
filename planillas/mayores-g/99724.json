@@ -1,0 +1,298 @@
+{
+ "id": "99724",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 8,
+ "fechaHora": "2026-06-07 09:00:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "780",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-06-07 11:00:00",
+  "Fecha_fin": "2026-06-07 11:00:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65735",
+   "Nombre": "LAUTARO ESCOBAR",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55147",
+   "Nombre": "EDUARDO IVAN UBAL",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62581",
+   "Nombre": "MAURICIO ANDRES DEUS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63640",
+   "Nombre": "GONZALO MAS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63567",
+   "Nombre": "JUAN MANUEL CASAIS",
+   "camiseta": "98",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47522",
+   "Nombre": "JUAN IGNACIO BELLO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41030",
+   "Nombre": "LUCAS GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67479",
+   "Nombre": "RAMIRO PASTRANA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "65878",
+   "Nombre": "IGNACIO DANIEL DOLDAN",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54102",
+   "Nombre": "THIAGO ENRIQUE ROMERO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "51462",
+   "Nombre": "NAHUEL PICO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56459",
+   "Nombre": "JORGE PABLO SZOLLOSSY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65695",
+   "Nombre": "GONZALO FACELLO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "44090",
+   "Nombre": "PABLO KALEMKERIAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58921",
+   "Nombre": "LEANDRO ANDRES GRIGNETTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65346",
+   "Nombre": "GUILLERMO CUMELLAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64941",
+   "Nombre": "TOMAS VAZQUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68053",
+   "Nombre": "NAHUEL MODERNELL",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "45143",
+   "Nombre": "NICOLAS GALEANO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "46846",
+   "Nombre": "SEBASTIAN MATTA",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55147",
+   "Jug_Sale": "EDUARDO IVAN UBAL",
+   "CarneEntra": "58727",
+   "Jug_Entra": "JOAQUIN GRACIANO",
+   "camiseta": "30",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "63640",
+   "Jug_Sale": "GONZALO MAS",
+   "CarneEntra": "50127",
+   "Jug_Entra": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62581",
+   "Jug_Sale": "MAURICIO ANDRES DEUS",
+   "CarneEntra": "62443",
+   "Jug_Entra": "JUAN SEBASTIAN RUMBO",
+   "camiseta": "80",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "65878",
+   "Jug_Sale": "IGNACIO DANIEL DOLDAN",
+   "CarneEntra": "58704",
+   "Jug_Entra": "IGNACIO JAVIER ROMERO",
+   "camiseta": "13",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "41030",
+   "Jug_Sale": "LUCAS GONZALEZ",
+   "CarneEntra": "62587",
+   "Jug_Entra": "MATEO ALONSO",
+   "camiseta": "6",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "63304",
+   "Jug_Sale": "FRANCO MANUEL ROZINCHIN",
+   "CarneEntra": "62586",
+   "Jug_Entra": "LEANDRO MOCCIA",
+   "camiseta": "68",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65695",
+   "Jug_Sale": "GONZALO FACELLO",
+   "CarneEntra": "46847",
+   "Jug_Entra": "SANTIAGO MARIO CAYAFA",
+   "camiseta": "14",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "68053",
+   "Jug_Sale": "NAHUEL MODERNELL",
+   "CarneEntra": "59251",
+   "Jug_Entra": "BRYAN EZEQUIEL LATORRE",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46847",
+   "Jug_Sale": "SANTIAGO MARIO CAYAFA",
+   "CarneEntra": "53206",
+   "Jug_Entra": "GASTON GALEANO",
+   "camiseta": "10",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "46846",
+   "Jug_Sale": "SEBASTIAN MATTA",
+   "CarneEntra": "54903",
+   "Jug_Entra": "JUAN IGNACIO VIDAL",
+   "camiseta": "26",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "64941",
+   "Jug_Sale": "TOMAS VAZQUEZ",
+   "CarneEntra": "64642",
+   "Jug_Entra": "JUAN MANAUEL CABRERA",
+   "camiseta": "21",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "56459",
+   "Jug_Sale": "JORGE PABLO SZOLLOSSY",
+   "CarneEntra": "55570",
+   "Jug_Entra": "MAXIMO FEDERICO ACQUADRO",
+   "camiseta": "13",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65878",
+   "Nombre": "IGNACIO DANIEL DOLDAN",
+   "minutos": "18",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65878",
+   "Nombre": "IGNACIO DANIEL DOLDAN",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65878",
+   "Nombre": "IGNACIO DANIEL DOLDAN",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64941",
+   "Nombre": "TOMAS VAZQUEZ",
+   "minutos": "47",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

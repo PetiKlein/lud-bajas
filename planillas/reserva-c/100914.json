@@ -1,0 +1,293 @@
+{
+ "id": "100914",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COLEGIO PIO",
+ "local": "CENTRO CRISTOBAL COLON",
+ "visitante": "LA BLANQUEADA",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "358",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-08-15 13:13:00",
+  "Fecha_fin": "2026-08-15 13:13:00",
+  "Locatario": "CENTRO CRISTOBAL COLON",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "LA BLANQUEADA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64261",
+   "Nombre": "SANTIAGO HERRERA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "62352",
+   "Nombre": "SANTIAGO RICCONE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56887",
+   "Nombre": "JUAN MANUEL MASEDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61602",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "63850",
+   "Nombre": "FACUNDO NAHUEL VIDAL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "50976",
+   "Nombre": "NICOLAS EZEQUIEL GUTIERREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50423",
+   "Nombre": "MARTIN GARCIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58071",
+   "Nombre": "FELIPE IRIGOYEN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62131",
+   "Nombre": "GONZALO RICCONE",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "59792",
+   "Nombre": "MATEO ARMANDO OLIVERA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51935",
+   "Nombre": "SANTIAGO PAGANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51381",
+   "Nombre": "DIEGO MARTIN SUAREZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "54193",
+   "Nombre": "GASTON LOMBARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "35220",
+   "Nombre": "LUCIANO LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "44550",
+   "Nombre": "FEDERICO JAVIER DE SIANO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49915",
+   "Nombre": "GASTON GUTIERREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "56438",
+   "Nombre": "MARTIN CALERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60933",
+   "Nombre": "EMILIANO BENTANCOR",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "51623",
+   "Nombre": "FEDERICO VELAZQUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55228",
+   "Nombre": "CRISTIAN ADRIAN LEMOS",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63850",
+   "Jug_Sale": "FACUNDO NAHUEL VIDAL",
+   "CarneEntra": "57654",
+   "Jug_Entra": "DONATO NOCETTI",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58071",
+   "Jug_Sale": "FELIPE IRIGOYEN",
+   "CarneEntra": "63517",
+   "Jug_Entra": "FELIPE FERREIRA",
+   "camiseta": "99",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "50976",
+   "Jug_Sale": "NICOLAS EZEQUIEL GUTIERREZ",
+   "CarneEntra": "67324",
+   "Jug_Entra": "FRANCO VALIENTE",
+   "camiseta": "31",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "61602",
+   "Jug_Sale": "JOAQUIN FERNANDEZ",
+   "CarneEntra": "55027",
+   "Jug_Entra": "FERNANDO RIQUEL",
+   "camiseta": "22",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "62131",
+   "Jug_Sale": "GONZALO RICCONE",
+   "CarneEntra": "61142",
+   "Jug_Entra": "FELIPE ODAZZIO",
+   "camiseta": "15",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "61897",
+   "Jug_Sale": "MATIAS MARCELO VERO",
+   "CarneEntra": "58397",
+   "Jug_Entra": "FACUNDO NAHUEL PIOLI",
+   "camiseta": "21",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55228",
+   "Jug_Sale": "CRISTIAN ADRIAN LEMOS",
+   "CarneEntra": "52034",
+   "Jug_Entra": "DANIEL BLANCHARD",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49915",
+   "Jug_Sale": "GASTON GUTIERREZ",
+   "CarneEntra": "48353",
+   "Jug_Entra": "TOMAS ARAMENDI",
+   "camiseta": "5",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "44550",
+   "Jug_Sale": "FEDERICO JAVIER DE SIANO",
+   "CarneEntra": "68751",
+   "Jug_Entra": "BRUNO MANUEL MENA",
+   "camiseta": "23",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "51623",
+   "Jug_Sale": "FEDERICO VELAZQUEZ",
+   "CarneEntra": "55228",
+   "Jug_Entra": "CRISTIAN ADRIAN LEMOS",
+   "camiseta": "25",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "35220",
+   "Jug_Sale": "LUCIANO LOPEZ",
+   "CarneEntra": "50979",
+   "Jug_Entra": "MATIAS TOURNIER",
+   "camiseta": "21",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "51381",
+   "Jug_Sale": "DIEGO MARTIN SUAREZ",
+   "CarneEntra": "53452",
+   "Jug_Entra": "MATIAS LANDER",
+   "camiseta": "26",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "55228",
+   "Jug_Sale": "CRISTIAN ADRIAN LEMOS",
+   "CarneEntra": "44550",
+   "Jug_Entra": "FEDERICO JAVIER DE SIANO",
+   "camiseta": "16",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67324",
+   "Nombre": "FRANCO VALIENTE",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

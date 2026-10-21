@@ -1,0 +1,282 @@
+{
+ "id": "101867",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 13,
+ "fechaHora": "2026-09-13 11:15:00",
+ "cancha": "ST PATRICKS",
+ "local": "OLD SAMPA CLUB",
+ "visitante": "CAFU",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "582",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "ST PATRICKS",
+  "Fecha_Inicio": "2026-09-13 13:00:00",
+  "Fecha_fin": "2026-09-13 13:00:00",
+  "Locatario": "OLD SAMPA CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CAFU",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49163",
+   "Nombre": "RAMON PINTOS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "21634",
+   "Nombre": "MATIAS CALACHA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67715",
+   "Nombre": "TOMAS GONZALO MARQUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "23363",
+   "Nombre": "ALEJANDRO CALACHA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "66118",
+   "Nombre": "LEANDRO GARCIA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64910",
+   "Nombre": "MARCOS GIMENEZ",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "68424",
+   "Nombre": "GABRIEL NICOLAS GONZALEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "68608",
+   "Nombre": "THIAGO ARAMIS LOPEZ",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "63135",
+   "Nombre": "SERGIO SILVA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63553",
+   "Nombre": "MATEO RAFAEL ALVAREZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "53207",
+   "Nombre": "CAMILO NICOLAS ROSA",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51727",
+   "Nombre": "MARCOS CARRION",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51170",
+   "Nombre": "NICOLAS FLORIAN GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35456",
+   "Nombre": "NICOLAS CAVASSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67408",
+   "Nombre": "MATEO LIMA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65477",
+   "Nombre": "JULIO GAEL MATTOS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55620",
+   "Nombre": "LUCAS BRITOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55960",
+   "Nombre": "LUCAS BERNARDO BARJAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "17871",
+   "Nombre": "FEDERICO LUIS LECUEDER",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66200",
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68608",
+   "Jug_Sale": "THIAGO ARAMIS LOPEZ",
+   "CarneEntra": "24933",
+   "Jug_Entra": "BRUNO NICOLAS VALENTINI",
+   "camiseta": "20",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "66118",
+   "Jug_Sale": "LEANDRO GARCIA",
+   "CarneEntra": "68608",
+   "Jug_Entra": "THIAGO ARAMIS LOPEZ",
+   "camiseta": "88",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "68608",
+   "Jug_Sale": "THIAGO ARAMIS LOPEZ",
+   "CarneEntra": "66118",
+   "Jug_Entra": "LEANDRO GARCIA",
+   "camiseta": "15",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "17871",
+   "Jug_Sale": "FEDERICO LUIS LECUEDER",
+   "CarneEntra": "59440",
+   "Jug_Entra": "GONZALO FEDERICO CUÑA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35456",
+   "Jug_Sale": "NICOLAS CAVASSA",
+   "CarneEntra": "51165",
+   "Jug_Entra": "SERGIO FACUNDO DIAZ",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55960",
+   "Jug_Sale": "LUCAS BERNARDO BARJAS",
+   "CarneEntra": "52901",
+   "Jug_Entra": "SALVADOR BURGOS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32399",
+   "Jug_Sale": "IGNACIO LECUEDER",
+   "CarneEntra": "53761",
+   "Jug_Entra": "EMILIANO GASPAR TRUJILLO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55620",
+   "Jug_Sale": "LUCAS BRITOS",
+   "CarneEntra": "53276",
+   "Jug_Entra": "JOAQUIN FERNANDEZ",
+   "camiseta": "5",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67408",
+   "Jug_Sale": "MATEO LIMA",
+   "CarneEntra": "25418",
+   "Jug_Entra": "ANDRES MARTIN FUICA",
+   "camiseta": "9",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "66200",
+   "Jug_Sale": "AGUSTIN NICOLAS ARAMBILLETE",
+   "CarneEntra": "67022",
+   "Jug_Entra": "PIERO GRANIER",
+   "camiseta": "6",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "24933",
+   "Nombre": "BRUNO NICOLAS VALENTINI",
+   "minutos": "58",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "minutos": "3",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32399",
+   "Nombre": "IGNACIO LECUEDER",
+   "minutos": "15",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

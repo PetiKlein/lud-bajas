@@ -1,0 +1,305 @@
+{
+ "id": "101506",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 2,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "YOUNG UNIVERSITARIO",
+ "gl": 4,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "499",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-05 13:00:00",
+  "Fecha_fin": "2026-09-05 13:00:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "YOUNG UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54088",
+   "Nombre": "GIANFRANCO ROSSI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "51003",
+   "Nombre": "JOAQUIN DE LOS SANTOS",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "53800",
+   "Nombre": "JUAN PEDRO HOURCADE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "43558",
+   "Nombre": "GASTON ALVAREZ DE RON",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49353",
+   "Nombre": "NICOLAS URRETAVIZCAYA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47961",
+   "Nombre": "AGUSTIN OLIVERA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66386",
+   "Nombre": "FRANCISCO CONSTANTIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "68048",
+   "Nombre": "FEDERICO SEBASTIAN CABRAL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "60311",
+   "Nombre": "ROMAN JOSE SCREMINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "66136",
+   "Nombre": "ALFONSO MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61038",
+   "Nombre": "CONRADO HEINZE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66212",
+   "Nombre": "TOMAS AGUSTIN SANTOS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67786",
+   "Nombre": "IGNACIO BALLEJO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67431",
+   "Nombre": "EMILIANO ACOSTA",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47961",
+   "Jug_Sale": "AGUSTIN OLIVERA",
+   "CarneEntra": "46794",
+   "Jug_Entra": "RAMIRO IVAN GONZALEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51003",
+   "Jug_Sale": "JOAQUIN DE LOS SANTOS",
+   "CarneEntra": "53472",
+   "Jug_Entra": "EMILIANO BASTARRICA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46909",
+   "Jug_Sale": "FEDERICO KARDJIAN",
+   "CarneEntra": "52587",
+   "Jug_Entra": "MARCELINO PEREZ",
+   "camiseta": "90",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "53800",
+   "Jug_Sale": "JUAN PEDRO HOURCADE",
+   "CarneEntra": "54851",
+   "Jug_Entra": "MATIAS MEDEROS",
+   "camiseta": "37",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "49353",
+   "Jug_Sale": "NICOLAS URRETAVIZCAYA",
+   "CarneEntra": "55105",
+   "Jug_Entra": "SANTIAGO ROBALLO",
+   "camiseta": "22",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66136",
+   "Jug_Sale": "ALFONSO MEDINA",
+   "CarneEntra": "62237",
+   "Jug_Entra": "SANTINO ACOSTA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61038",
+   "Jug_Sale": "CONRADO HEINZE",
+   "CarneEntra": "64739",
+   "Jug_Entra": "SANTIAGO SCREMINI",
+   "camiseta": "16",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "67786",
+   "Jug_Sale": "IGNACIO BALLEJO",
+   "CarneEntra": "66169",
+   "Jug_Entra": "ALEJO ANDRES AIZPUN",
+   "camiseta": "29",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67431",
+   "Jug_Sale": "EMILIANO ACOSTA",
+   "CarneEntra": "62225",
+   "Jug_Entra": "FELIPE GONZALEZ",
+   "camiseta": "2",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "64592",
+   "Jug_Sale": "GERONIMO VANZINI",
+   "CarneEntra": "58823",
+   "Jug_Entra": "JUSTINO LAFLUF",
+   "camiseta": "23",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54629",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54851",
+   "Nombre": "MATIAS MEDEROS",
+   "minutos": "97",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62237",
+   "Nombre": "SANTINO ACOSTA",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66212",
+   "Nombre": "TOMAS AGUSTIN SANTOS",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "TOMAS AGUSTIN SANTOS",
+   "observaciones": ""
+  }
+ ]
+}

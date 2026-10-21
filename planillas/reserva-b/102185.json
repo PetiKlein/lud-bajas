@@ -1,0 +1,239 @@
+{
+ "id": "102185",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "OLD IVY",
+ "local": "OLD IVY",
+ "visitante": "JUAN XXIII",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "231",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "OLD IVY",
+  "Fecha_Inicio": "2026-09-19 13:15:00",
+  "Fecha_fin": "2026-09-19 13:15:00",
+  "Locatario": "OLD IVY",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "43339",
+   "Nombre": "THIAGO MAHIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "66390",
+   "Nombre": "JOAQUIN SANTINO FERNANDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47939",
+   "Nombre": "JUAN FRANCISCO DE LOS SANTOS",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "37327",
+   "Nombre": "FEDERICO DIEGO BAUZA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56372",
+   "Nombre": "ALFONSO CARDELINO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "42664",
+   "Nombre": "LUIS EDUARDO TOPOLANSKY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "54916",
+   "Nombre": "FELIPE VILLARONGA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "41711",
+   "Nombre": "MANUEL BORGIA",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48007",
+   "Nombre": "VALENTIN MIER",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "34996",
+   "Nombre": "GASTON VAREIKA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54675",
+   "Nombre": "EMILIANO SALVO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53728",
+   "Nombre": "NICOLAS MIGUEL DE OCAMPO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "41717",
+   "Nombre": "SANTIAGO PEREYRA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58853",
+   "Nombre": "FRANCISCO GANDIOLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "55078",
+   "Nombre": "JOAQUIN CELIBERTI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "48450",
+   "Nombre": "MATEO CORREA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "55233",
+   "Nombre": "DANTE PEÑA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "51507",
+   "Nombre": "MATEO BERTOLA",
+   "camiseta": "67",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47802",
+   "Nombre": "FACUNDO MARTIN PEREIRA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "47200",
+   "Nombre": "JOAQUIN VILLAR",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "57648",
+   "Nombre": "FRANCISCO GUILLEN",
+   "camiseta": "76",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41711",
+   "Jug_Sale": "MANUEL BORGIA",
+   "CarneEntra": "41720",
+   "Jug_Entra": "MATIAS MENGOT",
+   "camiseta": "80",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "34996",
+   "Jug_Sale": "GASTON VAREIKA",
+   "CarneEntra": "56710",
+   "Jug_Entra": "MARTIN BRUN",
+   "camiseta": "91",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "54916",
+   "Jug_Sale": "FELIPE VILLARONGA",
+   "CarneEntra": "37430",
+   "Jug_Entra": "MARTIN VAZQUEZ",
+   "camiseta": "20",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "49105",
+   "Jug_Sale": "NICOLAS CASAMAYOU",
+   "CarneEntra": "65191",
+   "Jug_Entra": "FRANCISCO BENITEZ",
+   "camiseta": "35",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "66390",
+   "Jug_Sale": "JOAQUIN SANTINO FERNANDEZ",
+   "CarneEntra": "47829",
+   "Jug_Entra": "RAFAEL RUBEN GAIMARI",
+   "camiseta": "21",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47200",
+   "Jug_Sale": "JOAQUIN VILLAR",
+   "CarneEntra": "62975",
+   "Jug_Entra": "FRANCO ANDRES MIRAFIORE",
+   "camiseta": "29",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "55078",
+   "Jug_Sale": "JOAQUIN CELIBERTI",
+   "CarneEntra": "43172",
+   "Jug_Entra": "HERNAN YAÑEZ",
+   "camiseta": "36",
+   "minutos": "68"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43339",
+   "Nombre": "THIAGO MAHIA",
+   "minutos": "51",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

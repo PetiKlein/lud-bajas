@@ -1,0 +1,288 @@
+{
+ "id": "100409",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 10,
+ "fechaHora": "2026-06-21 09:00:00",
+ "cancha": "CAMPO DEP. COLEGIO INGLES",
+ "local": "CAFU",
+ "visitante": "EL CHORRO FUTBOL CLUB",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "557",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "CAMPO DEP. COLEGIO INGLES",
+  "Fecha_Inicio": "2026-06-21 10:55:00",
+  "Fecha_fin": "2026-06-21 10:55:00",
+  "Locatario": "CAFU",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "EL CHORRO FUTBOL CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "51727",
+   "Nombre": "MARCOS CARRION",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35456",
+   "Nombre": "NICOLAS CAVASSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "56736",
+   "Nombre": "JUAN ESPINA",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "51170",
+   "Nombre": "NICOLAS FLORIAN GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66200",
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54698",
+   "Nombre": "SEBASTIAN MARCOS GONZALEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "55960",
+   "Nombre": "LUCAS BERNARDO BARJAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65477",
+   "Nombre": "JULIO GAEL MATTOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "37957",
+   "Nombre": "ANDRES CURBELO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "52901",
+   "Nombre": "SALVADOR BURGOS",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60685",
+   "Nombre": "MATEO HEROSA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39462",
+   "Nombre": "SANTIAGO COUTO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "40273",
+   "Nombre": "JUAN IGNACIO GUERRERO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "54094",
+   "Nombre": "MARTIN ALVARIZA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "51878",
+   "Nombre": "MATHIAS SCHWARZ",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "55770",
+   "Nombre": "JUAN IGNACIO RIPOLL",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "48417",
+   "Nombre": "RENZO PITTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "45790",
+   "Nombre": "PEDRO BARBARO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68035",
+   "Nombre": "AGUSTIN ANDRES GEBELIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "43462",
+   "Nombre": "JUAN IGNACIO GUADALUPE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53627",
+   "Nombre": "JUAN MANUEL DELFINO",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65477",
+   "Jug_Sale": "JULIO GAEL MATTOS",
+   "CarneEntra": "56397",
+   "Jug_Entra": "LEANDRO GABRIEL SENA",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52901",
+   "Jug_Sale": "SALVADOR BURGOS",
+   "CarneEntra": "51165",
+   "Jug_Entra": "SERGIO FACUNDO DIAZ",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35456",
+   "Jug_Sale": "NICOLAS CAVASSA",
+   "CarneEntra": "67408",
+   "Jug_Entra": "MATEO LIMA",
+   "camiseta": "11",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "55960",
+   "Jug_Sale": "LUCAS BERNARDO BARJAS",
+   "CarneEntra": "59451",
+   "Jug_Entra": "AGUSTIN MERILES",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "37957",
+   "Jug_Sale": "ANDRES CURBELO",
+   "CarneEntra": "52903",
+   "Jug_Entra": "JOAQUIN PABLO GONZALEZ",
+   "camiseta": "41",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "54698",
+   "Jug_Sale": "SEBASTIAN MARCOS GONZALEZ",
+   "CarneEntra": "67022",
+   "Jug_Entra": "PIERO GRANIER",
+   "camiseta": "81",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39462",
+   "Jug_Sale": "SANTIAGO COUTO",
+   "CarneEntra": "37068",
+   "Jug_Entra": "FRANCISCO JAVIER GONZALEZ",
+   "camiseta": "16",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "40273",
+   "Jug_Sale": "JUAN IGNACIO GUERRERO",
+   "CarneEntra": "60346",
+   "Jug_Entra": "SEBASTIAN DANTON SOUBERBIELLE",
+   "camiseta": "35",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "43462",
+   "Jug_Sale": "JUAN IGNACIO GUADALUPE",
+   "CarneEntra": "41961",
+   "Jug_Entra": "JUAN RAFAEL PERI",
+   "camiseta": "27",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "53627",
+   "Jug_Sale": "JUAN MANUEL DELFINO",
+   "CarneEntra": "56942",
+   "Jug_Entra": "ALEJO IRAZOQUI",
+   "camiseta": "32",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "68035",
+   "Jug_Sale": "AGUSTIN ANDRES GEBELIN",
+   "CarneEntra": "51128",
+   "Jug_Entra": "FACUNDO MICHELONI",
+   "camiseta": "12",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "41961",
+   "Nombre": "JUAN RAFAEL PERI",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53627",
+   "Nombre": "JUAN MANUEL DELFINO",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68035",
+   "Nombre": "AGUSTIN ANDRES GEBELIN",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

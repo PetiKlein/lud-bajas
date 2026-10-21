@@ -1,0 +1,255 @@
+{
+ "id": "99680",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "58",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-06-06 13:15:00",
+  "Fecha_fin": "2026-06-06 13:15:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48654",
+   "Nombre": "JUAN PABLO LOCATELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48653",
+   "Nombre": "MATIAS  BERNARDO VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49076",
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "50666",
+   "Nombre": "FACUNDO LAGO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "48657",
+   "Nombre": "BRUNO CABRERA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "38029",
+   "Nombre": "NICOLAS AMOEDO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "45505",
+   "Nombre": "SANTIAGO DANIEL TORRES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "52631",
+   "Nombre": "SANTIAGO DANILO TARDEO",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "40708",
+   "Nombre": "MARTIN GABRIEL COURTOISIE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "50128",
+   "Nombre": "JUAN ANDRES GIL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "41908",
+   "Nombre": "JUAN MARTIN AZADIAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52356",
+   "Nombre": "FELIPE ROBAINA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "57328",
+   "Nombre": "IÑAKI ODRIOZOLA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "52646",
+   "Nombre": "JUAN MARTIN BONFIGLIO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "50929",
+   "Nombre": "JUAN MANUEL CASELLA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "49156",
+   "Nombre": "MATHIAS SOARES DE LIMA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "54025",
+   "Nombre": "JOSE IGNACIO ARBILLA",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "48685",
+   "Nombre": "MAURICIO IHARA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "28952",
+   "Nombre": "SASHA ALEXANDER ANEFF",
+   "camiseta": "91",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52631",
+   "Jug_Sale": "SANTIAGO DANILO TARDEO",
+   "CarneEntra": "46848",
+   "Jug_Entra": "FACUNDO BERGARA",
+   "camiseta": "15",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "48870",
+   "Jug_Sale": "RENZO FORTI",
+   "CarneEntra": "46833",
+   "Jug_Entra": "TOMAS MEDERO",
+   "camiseta": "9",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "45505",
+   "Jug_Sale": "SANTIAGO DANIEL TORRES",
+   "CarneEntra": "48656",
+   "Jug_Entra": "LEANDRO GABRIEL TABEIRA",
+   "camiseta": "47",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54025",
+   "Jug_Sale": "JOSE IGNACIO ARBILLA",
+   "CarneEntra": "58855",
+   "Jug_Entra": "JOAQUIN MARTINEZ",
+   "camiseta": "33",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "52356",
+   "Jug_Sale": "FELIPE ROBAINA",
+   "CarneEntra": "43219",
+   "Jug_Entra": "GUZMAN LORENZO",
+   "camiseta": "83",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "41908",
+   "Jug_Sale": "JUAN MARTIN AZADIAN",
+   "CarneEntra": "53442",
+   "Jug_Entra": "JUAN RAMON ARBILLA",
+   "camiseta": "45",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "50128",
+   "Jug_Sale": "JUAN ANDRES GIL",
+   "CarneEntra": "40041",
+   "Jug_Entra": "GUILLERMO MARCHESE",
+   "camiseta": "6",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "54025",
+   "Jug_Sale": "JOSE IGNACIO ARBILLA",
+   "CarneEntra": "48342",
+   "Jug_Entra": "IGNACIO IHARA",
+   "camiseta": "47",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "49156",
+   "Jug_Sale": "MATHIAS SOARES DE LIMA",
+   "CarneEntra": "54025",
+   "Jug_Entra": "JOSE IGNACIO ARBILLA",
+   "camiseta": "68",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52631",
+   "Nombre": "SANTIAGO DANILO TARDEO",
+   "minutos": "54",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

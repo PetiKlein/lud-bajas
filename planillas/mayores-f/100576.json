@@ -1,0 +1,263 @@
+{
+ "id": "100576",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "FLORES UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "686",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-06-28 10:51:00",
+  "Fecha_fin": "2026-06-28 10:51:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "FLORES UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59906",
+   "Nombre": "MATEO FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44999",
+   "Nombre": "GABRIEL GEYMONAT",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59036",
+   "Nombre": "FACUNDO ROSADO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56465",
+   "Nombre": "EZEQUIEL MONTIEL",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "60958",
+   "Nombre": "FEDERICO MANUELIAN",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "44997",
+   "Nombre": "NICOLAS GEYMONAT",
+   "camiseta": "31",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61822",
+   "Nombre": "LUCAS PEREIRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62488",
+   "Nombre": "JOAQUIN SEBASTIAN CASAL",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "53071",
+   "Nombre": "BRUNO ALEJANDRO ARIGON",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54465",
+   "Nombre": "BRUNO POUND",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "60142",
+   "Nombre": "JOHEL IELPO",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41557",
+   "Nombre": "FABRIZZIO DE ARMAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50321",
+   "Nombre": "FERNANDO AGUSTIN SEVERO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61817",
+   "Nombre": "JHONATAN BALBINO VIERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58511",
+   "Nombre": "LUCAS MOLINA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63589",
+   "Nombre": "JOSE PABLO MARTINEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "41475",
+   "Nombre": "DANIEL TORRES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "42894",
+   "Nombre": "MARTIN POLLERO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "60137",
+   "Nombre": "ELEAZAR TORRES",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "41494",
+   "Nombre": "SERGIO JAVIER HEREDIA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62231",
+   "Nombre": "SANTIAGO TABACAMBI GUERRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58510",
+   "Nombre": "NANSEN MAURICIO ALDETA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62488",
+   "Jug_Sale": "JOAQUIN SEBASTIAN CASAL",
+   "CarneEntra": "60652",
+   "Jug_Entra": "MATIAS VARELA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53071",
+   "Jug_Sale": "BRUNO ALEJANDRO ARIGON",
+   "CarneEntra": "57278",
+   "Jug_Entra": "LUCAS REINOSO",
+   "camiseta": "5",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "56465",
+   "Jug_Sale": "EZEQUIEL MONTIEL",
+   "CarneEntra": "67297",
+   "Jug_Entra": "TIZIANO LANDO",
+   "camiseta": "12",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62231",
+   "Jug_Sale": "SANTIAGO TABACAMBI GUERRA",
+   "CarneEntra": "35341",
+   "Jug_Entra": "BRUNO DAMIAN BUENDIA",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60137",
+   "Jug_Sale": "ELEAZAR TORRES",
+   "CarneEntra": "36968",
+   "Jug_Entra": "MARTIN PRATO",
+   "camiseta": "16",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "63589",
+   "Jug_Sale": "JOSE PABLO MARTINEZ",
+   "CarneEntra": "62133",
+   "Jug_Entra": "SANTIAGO ETCHECHURY",
+   "camiseta": "7",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "42894",
+   "Jug_Sale": "MARTIN POLLERO",
+   "CarneEntra": "32746",
+   "Jug_Entra": "CRISTHIAN ADRIAN BRAZ",
+   "camiseta": "15",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "61817",
+   "Jug_Sale": "JHONATAN BALBINO VIERA",
+   "CarneEntra": "41932",
+   "Jug_Entra": "SANTIAGO DONO",
+   "camiseta": "33",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53071",
+   "Nombre": "BRUNO ALEJANDRO ARIGON",
+   "minutos": "33",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "42894",
+   "Nombre": "MARTIN POLLERO",
+   "minutos": "1",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GABRIEL GEYMONAT",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "JOHEL IELPO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

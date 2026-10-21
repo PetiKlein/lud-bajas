@@ -1,0 +1,229 @@
+{
+ "id": "100506",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "323",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-06-27 13:05:00",
+  "Fecha_fin": "2026-06-27 13:05:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68733",
+   "Nombre": "MANUEL ROMERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39680",
+   "Nombre": "FELIX ANDRES FORASTIER",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "54928",
+   "Nombre": "ISMAEL IMPERIAL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66777",
+   "Nombre": "SANTIAGO DAVRIEUX",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "51208",
+   "Nombre": "JOAQUIN ALFONSO BECERRA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49283",
+   "Nombre": "SANTIAGO BARBOZA",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "51090",
+   "Nombre": "JUAN IGNACIO RUSSO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53979",
+   "Nombre": "GIANCARLO GRENNO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52990",
+   "Nombre": "NICOLAS FEDERICO DIAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52772",
+   "Nombre": "IGNACIO ELIZEIRE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "46898",
+   "Nombre": "PABLO PRADO",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40019",
+   "Nombre": "RODRIGO TEJERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "57708",
+   "Nombre": "VALENTIN CUÑA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52771",
+   "Nombre": "NICOLAS ANDRES CUENCA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "52987",
+   "Nombre": "RENZO GUZMAN RAMAGLI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59869",
+   "Nombre": "LUKAS BERNARD KASEK",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "52775",
+   "Nombre": "BRIAN EMANUEL MADERA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62114",
+   "Nombre": "GUILLERMO TORRES",
+   "camiseta": "49",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48317",
+   "Jug_Sale": "THIAGO DA SILVA",
+   "CarneEntra": "24412",
+   "Jug_Entra": "RODRIGO CADENAS",
+   "camiseta": "35",
+   "minutos": "68"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62114",
+   "Jug_Sale": "GUILLERMO TORRES",
+   "CarneEntra": "56143",
+   "Jug_Entra": "CARLOS ROBERTO SARDEÑA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59869",
+   "Jug_Sale": "LUKAS BERNARD KASEK",
+   "CarneEntra": "62114",
+   "Jug_Entra": "GUILLERMO TORRES",
+   "camiseta": "95",
+   "minutos": "1"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52775",
+   "Nombre": "BRIAN EMANUEL MADERA",
+   "minutos": "23",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SANTIAGO BARBOZA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "JOAQUIN ALFONSO BECERRA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

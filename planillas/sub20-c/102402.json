@@ -1,0 +1,251 @@
+{
+ "id": "102402",
+ "categoria": "sub20-c",
+ "serie": "20CP",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "MONTEVIDEO COLLEGE",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "503",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"C\" COPA DE PLATA",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-09-26 15:45:00",
+  "Fecha_fin": "2026-09-26 15:45:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "MONTEVIDEO COLLEGE",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61876",
+   "Nombre": "JOAQUIN DE DIOS",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "67239",
+   "Nombre": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "64103",
+   "Nombre": "ENZO YACI",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "64099",
+   "Nombre": "JUAN MANUEL CORNEY",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "61069",
+   "Nombre": "VICENTE CASTRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64101",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "camiseta": "84",
+   "Capitan": ""
+  },
+  {
+   "carne": "61720",
+   "Nombre": "AARON NIHAGI PICOLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "64875",
+   "Nombre": "JOAQUIN VAZQUEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66348",
+   "Nombre": "FELIPE DE BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67433",
+   "Nombre": "IGNACIO STANHAM",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60187",
+   "Nombre": "JUAN MANUEL NEBEL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59185",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64410",
+   "Nombre": "JUAN ANTONIO QUINTAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58567",
+   "Nombre": "NAHUEL DAVID REBELLO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64761",
+   "Nombre": "MATIAS NICOLAS DARRE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62874",
+   "Nombre": "JUAN MANUEL CARBONE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60227",
+   "Nombre": "FRANCISCO LUCIO DUPONT",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "66020",
+   "Nombre": "FACUNDO DOMINGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64913",
+   "Nombre": "JUAN MANUEL FERRERI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67669",
+   "Jug_Sale": "FELIPE AGUSTIN PINO",
+   "CarneEntra": "63347",
+   "Jug_Entra": "VALENTIN ROBKIN",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64103",
+   "Jug_Sale": "ENZO YACI",
+   "CarneEntra": "67669",
+   "Jug_Entra": "FELIPE AGUSTIN PINO",
+   "camiseta": "32",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "64875",
+   "Jug_Sale": "JOAQUIN VAZQUEZ",
+   "CarneEntra": "59588",
+   "Jug_Entra": "GERARDO ROCCO BELLO",
+   "camiseta": "17",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60187",
+   "Jug_Sale": "JUAN MANUEL NEBEL",
+   "CarneEntra": "64392",
+   "Jug_Entra": "MATIAS IVAÑEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64761",
+   "Jug_Sale": "MATIAS NICOLAS DARRE",
+   "CarneEntra": "58777",
+   "Jug_Entra": "RODRIGO GONZALEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64913",
+   "Jug_Sale": "JUAN MANUEL FERRERI",
+   "CarneEntra": "66401",
+   "Jug_Entra": "FACUNDO SUAREZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64410",
+   "Jug_Sale": "JUAN ANTONIO QUINTAS",
+   "CarneEntra": "67434",
+   "Jug_Entra": "BRUNO ECHENIQUE",
+   "camiseta": "2",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61720",
+   "Nombre": "AARON NIHAGI PICOLI",
+   "minutos": "8",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66020",
+   "Nombre": "FACUNDO DOMINGUEZ",
+   "minutos": "73",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FRANCISCO LUCIO DUPONT",
+   "observaciones": ""
+  }
+ ]
+}

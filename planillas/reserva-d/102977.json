@@ -1,0 +1,262 @@
+{
+ "id": "102977",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 6,
+ "fechaHora": "2026-10-17 11:15:00",
+ "cancha": "SPORT 11",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "TENIS EL PINAR SUB22",
+ "gl": 1,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "527",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "SPORT 11",
+  "Fecha_Inicio": "2026-10-17 13:05:00",
+  "Fecha_fin": "2026-10-17 13:05:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "TENIS EL PINAR SUB22",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67481",
+   "Nombre": "DYLAN IVAN VALLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62016",
+   "Nombre": "MARCO TADEO CRISTINO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "61430",
+   "Nombre": "GASTON NICOLAS DE OLIVEIRA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52388",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61751",
+   "Nombre": "NAHUEL PEREZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "69195",
+   "Nombre": "AGUSTIN ETCHEVERRY",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "48790",
+   "Nombre": "JOAQUIN BORUCKI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58911",
+   "Nombre": "NICOLAS MOSQUEIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58675",
+   "Nombre": "CARMELO COCCO",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "61802",
+   "Nombre": "MATEO ZOLESSI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56535",
+   "Nombre": "FRANCO NICOLAS BARCELO",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56171",
+   "Nombre": "MARIANO DANIEL OTTONELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52625",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57966",
+   "Nombre": "FRANCISCO LOURTET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52628",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51804",
+   "Nombre": "JUAN IGNACIO LEIVA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52634",
+   "Nombre": "JUAN IGNACIO QUINTANA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58083",
+   "Nombre": "IGNACIO FACUNDO RICOBALDI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61528",
+   "Nombre": "SANTIAGO DAMIAN PEREIRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53357",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61802",
+   "Jug_Sale": "MATEO ZOLESSI",
+   "CarneEntra": "61420",
+   "Jug_Entra": "DIEGO ALEXANDER GOTTERO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61430",
+   "Jug_Sale": "GASTON NICOLAS DE OLIVEIRA",
+   "CarneEntra": "63363",
+   "Jug_Entra": "NICOLAS OTERO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58675",
+   "Jug_Sale": "CARMELO COCCO",
+   "CarneEntra": "60882",
+   "Jug_Entra": "SANTIAGO PEREIRA",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56535",
+   "Jug_Sale": "FRANCO NICOLAS BARCELO",
+   "CarneEntra": "51401",
+   "Jug_Entra": "JUAN CRUZ DE ANGELIS",
+   "camiseta": "80",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "62016",
+   "Jug_Sale": "MARCO TADEO CRISTINO",
+   "CarneEntra": "58674",
+   "Jug_Entra": "MAXIMILIANO FORNIO",
+   "camiseta": "81",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51804",
+   "Jug_Sale": "JUAN IGNACIO LEIVA",
+   "CarneEntra": "52444",
+   "Jug_Entra": "SEBASTIAN CARBAJAL",
+   "camiseta": "18",
+   "minutos": "27"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56535",
+   "Nombre": "FRANCO NICOLAS BARCELO",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "56",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "84",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53357",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53357",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,300 @@
+{
+ "id": "101573",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 12,
+ "fechaHora": "2026-09-06 11:15:00",
+ "cancha": "SANTA RITA",
+ "local": "SAN AGUSTIN",
+ "visitante": "DEPORTIVO MITRE",
+ "gl": 3,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "570",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "SANTA RITA",
+  "Fecha_Inicio": "2026-09-06 14:21:00",
+  "Fecha_fin": "2026-09-06 14:21:00",
+  "Locatario": "SAN AGUSTIN",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO MITRE",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47395",
+   "Nombre": "ALFONSO ALBERTO CANUTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "43870",
+   "Nombre": "BRUNO FREGNI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "64885",
+   "Nombre": "JOAQUIN EZEQUIEL ARISENDI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67389",
+   "Nombre": "SANTIAGO DAMIAN VELAZQUEZ",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "53758",
+   "Nombre": "MATEO CARDOZO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "68725",
+   "Nombre": "SEBASTIAN ALEXANDER AREVALO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54759",
+   "Nombre": "AGUSTIN GALINDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "41133",
+   "Nombre": "FEDERICO SERGIO GAZZANI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51611",
+   "Nombre": "AGUSTIN BOERO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "43868",
+   "Nombre": "NICOLAS LOGALDO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "54539",
+   "Nombre": "CRISTIAN FABIAN MADERA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47389",
+   "Nombre": "SEBASTIAN SILVA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "55740",
+   "Nombre": "FACUNDO NAHUEL GONZALEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "37963",
+   "Nombre": "GUZMAN STEGLICH",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "57270",
+   "Nombre": "MATEO BERTOLIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "45966",
+   "Nombre": "SANTIAGO BENTACOR",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53946",
+   "Nombre": "JUAN IGNACIO GODINO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "44077",
+   "Nombre": "AGUSTIN ANDRES OTERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62622",
+   "Nombre": "STEFANO ESPINOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65976",
+   "Nombre": "JOAN LUCAS ROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "25248",
+   "Nombre": "MATIAS BARREIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66857",
+   "Nombre": "JUAN ANDRES CRUJEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68725",
+   "Jug_Sale": "SEBASTIAN ALEXANDER AREVALO",
+   "CarneEntra": "37468",
+   "Jug_Entra": "FEDERICO VICENTE GALVAN",
+   "camiseta": "18",
+   "minutos": "18"
+  },
+  {
+   "CarneSale": "54539",
+   "Jug_Sale": "CRISTIAN FABIAN MADERA",
+   "CarneEntra": "60838",
+   "Jug_Entra": "MATIAS GRAJALES",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54759",
+   "Jug_Sale": "AGUSTIN GALINDEZ",
+   "CarneEntra": "67940",
+   "Jug_Entra": "SANTIAGO MATHEW SOSA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51611",
+   "Jug_Sale": "AGUSTIN BOERO",
+   "CarneEntra": "43865",
+   "Jug_Entra": "AGUSTIN SERMACISIAN",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53758",
+   "Jug_Sale": "MATEO CARDOZO",
+   "CarneEntra": "57288",
+   "Jug_Entra": "TOMAS PEZZOLANO",
+   "camiseta": "79",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43868",
+   "Jug_Sale": "NICOLAS LOGALDO",
+   "CarneEntra": "43944",
+   "Jug_Entra": "SANTIAGO TECHEIRA",
+   "camiseta": "13",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "37468",
+   "Jug_Sale": "FEDERICO VICENTE GALVAN",
+   "CarneEntra": "68725",
+   "Jug_Entra": "SEBASTIAN ALEXANDER AREVALO",
+   "camiseta": "6",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66857",
+   "Jug_Sale": "JUAN ANDRES CRUJEIRA",
+   "CarneEntra": "57732",
+   "Jug_Entra": "SANTIAGO NICOLAS ESTEVEZ",
+   "camiseta": "21",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "37963",
+   "Jug_Sale": "GUZMAN STEGLICH",
+   "CarneEntra": "43957",
+   "Jug_Entra": "DIEGO MARTIN MAGALLANES",
+   "camiseta": "22",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "45966",
+   "Jug_Sale": "SANTIAGO BENTACOR",
+   "CarneEntra": "43739",
+   "Jug_Entra": "JUAN ANDRES GUARINO",
+   "camiseta": "18",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "41133",
+   "Nombre": "FEDERICO SERGIO GAZZANI",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "43868",
+   "Nombre": "NICOLAS LOGALDO",
+   "minutos": "36",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57288",
+   "Nombre": "TOMAS PEZZOLANO",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "37963",
+   "Nombre": "GUZMAN STEGLICH",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "44077",
+   "Nombre": "AGUSTIN ANDRES OTERO",
+   "minutos": "26",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57732",
+   "Nombre": "SANTIAGO NICOLAS ESTEVEZ",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62622",
+   "Nombre": "STEFANO ESPINOSA",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

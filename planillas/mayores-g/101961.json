@@ -1,0 +1,261 @@
+{
+ "id": "101961",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 13,
+ "fechaHora": "2026-09-13 09:00:00",
+ "cancha": "COMPLEJO ABUA",
+ "local": "NUESTRA SEÑORA DE LOURDES",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "824",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COMPLEJO ABUA",
+  "Fecha_Inicio": "2026-09-13 11:00:00",
+  "Fecha_fin": "2026-09-13 11:00:00",
+  "Locatario": "NUESTRA SEÑORA DE LOURDES",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41455",
+   "Nombre": "ANGEL JOSE VIDAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49555",
+   "Nombre": "IGNACIO CHOPITEA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "38929",
+   "Nombre": "CARLOS FEDERICO SUAREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57085",
+   "Nombre": "MARCO ABDO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66838",
+   "Nombre": "FACUNDO NICOLAS LOUSTAU",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64190",
+   "Nombre": "PABLO MATIAS OLIVERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46405",
+   "Nombre": "IGNACIO DANIEL MASSIOLO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "37713",
+   "Nombre": "VALENTIN SANCHEZ",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54390",
+   "Nombre": "JOSE IGNACIO SANTIAGO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "32230",
+   "Nombre": "FEDERICO DEL NEGRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "37753",
+   "Nombre": "DANIEL FEDERICO ARNOULD",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65735",
+   "Nombre": "LAUTARO ESCOBAR",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63567",
+   "Nombre": "JUAN MANUEL CASAIS",
+   "camiseta": "98",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58662",
+   "Nombre": "SANTIAGO LOZANO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55147",
+   "Nombre": "EDUARDO IVAN UBAL",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "64765",
+   "Nombre": "FRANCISCO JAVIER RIVERO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "41030",
+   "Nombre": "LUCAS GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53152",
+   "Nombre": "MANUEL ALONSO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62581",
+   "Nombre": "MAURICIO ANDRES DEUS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67479",
+   "Nombre": "RAMIRO PASTRANA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "65878",
+   "Nombre": "IGNACIO DANIEL DOLDAN",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57085",
+   "Jug_Sale": "MARCO ABDO",
+   "CarneEntra": "28432",
+   "Jug_Entra": "BRUNO DANILO MOSERLE",
+   "camiseta": "14",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "54390",
+   "Jug_Sale": "JOSE IGNACIO SANTIAGO",
+   "CarneEntra": "65342",
+   "Jug_Entra": "IGNACIO FEDERICO NUÑEZ",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37753",
+   "Jug_Sale": "DANIEL FEDERICO ARNOULD",
+   "CarneEntra": "52962",
+   "Jug_Entra": "MARTIN POMBO",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "54390",
+   "Jug_Sale": "JOSE IGNACIO SANTIAGO",
+   "CarneEntra": "36322",
+   "Jug_Entra": "ANDRES FABIAN MAGGIARI",
+   "camiseta": "20",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "37713",
+   "Jug_Sale": "VALENTIN SANCHEZ",
+   "CarneEntra": "46015",
+   "Jug_Entra": "GUILLERMO ESPINEL",
+   "camiseta": "10",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62581",
+   "Jug_Sale": "MAURICIO ANDRES DEUS",
+   "CarneEntra": "47522",
+   "Jug_Entra": "JUAN IGNACIO BELLO",
+   "camiseta": "99",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "58662",
+   "Jug_Sale": "SANTIAGO LOZANO",
+   "CarneEntra": "68193",
+   "Jug_Entra": "IGNACIO ZINOLA",
+   "camiseta": "71",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "53152",
+   "Jug_Sale": "MANUEL ALONSO",
+   "CarneEntra": "62836",
+   "Jug_Entra": "RODRIGO JOSE ZAS",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67479",
+   "Jug_Sale": "RAMIRO PASTRANA",
+   "CarneEntra": "62581",
+   "Jug_Entra": "MAURICIO ANDRES DEUS",
+   "camiseta": "20",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "64765",
+   "Jug_Sale": "FRANCISCO JAVIER RIVERO",
+   "CarneEntra": "62838",
+   "Jug_Entra": "TADEO ARES",
+   "camiseta": "5",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "EDUARDO IVAN UBAL",
+   "observaciones": ""
+  }
+ ]
+}

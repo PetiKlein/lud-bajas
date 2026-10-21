@@ -1,0 +1,278 @@
+{
+ "id": "102315",
+ "categoria": "sub20-b",
+ "serie": "20BTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 15:45:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "417",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"B\" TITULO",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-09-26 17:36:00",
+  "Fecha_fin": "2026-09-26 17:36:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60380",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59396",
+   "Nombre": "KEVIN NICOLAS BARRERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59545",
+   "Nombre": "EMILIANO JOAQUIN PAREDES",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59424",
+   "Nombre": "FACUNDO TOMAS GARCIA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63703",
+   "Nombre": "MATHIAS AGUSTIN LOPEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56800",
+   "Nombre": "ELIAS LAUTARO IOVINE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56421",
+   "Nombre": "DAMIAN DENES",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56419",
+   "Nombre": "JUAN MANUEL VERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63545",
+   "Nombre": "GONZALO DANIEL GRECIET",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61020",
+   "Nombre": "GONZALO HUERTAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63317",
+   "Nombre": "NICOLAS GONZALEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "56733",
+   "Nombre": "MATEO SILVIO RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64836",
+   "Nombre": "MARCOS FABIAN VIGNOLO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "63253",
+   "Nombre": "THIAGO MARMISSOLLE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67107",
+   "Nombre": "IVAN BENTANCOR",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64620",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67108",
+   "Nombre": "FRANCO PECCOTIELLO",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "56111",
+   "Nombre": "SANTIAGO CANOURA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58752",
+   "Nombre": "LUCIANO JOAQUIN BAICA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56113",
+   "Nombre": "JUAN FRANCISCO VOMERO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66218",
+   "Nombre": "MATEO PUIG",
+   "camiseta": "79",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56421",
+   "Jug_Sale": "DAMIAN DENES",
+   "CarneEntra": "58544",
+   "Jug_Entra": "PATRICIO SANGUINETTI",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63545",
+   "Jug_Sale": "GONZALO DANIEL GRECIET",
+   "CarneEntra": "58225",
+   "Jug_Entra": "GASTON PRILIAC",
+   "camiseta": "19",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "56419",
+   "Jug_Sale": "JUAN MANUEL VERA",
+   "CarneEntra": "59430",
+   "Jug_Entra": "RENZO VECINO",
+   "camiseta": "3",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "61020",
+   "Jug_Sale": "GONZALO HUERTAS",
+   "CarneEntra": "60866",
+   "Jug_Entra": "SANTINO SALAVERRY",
+   "camiseta": "61",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "56173",
+   "Jug_Sale": "MATHIAS NAHUEL PEREIRA",
+   "CarneEntra": "67079",
+   "Jug_Entra": "THIAGO MELGAREJO",
+   "camiseta": "31",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66218",
+   "Jug_Sale": "MATEO PUIG",
+   "CarneEntra": "63734",
+   "Jug_Entra": "BENJAMIN LABORDE",
+   "camiseta": "11",
+   "minutos": "47"
+  },
+  {
+   "CarneSale": "56733",
+   "Jug_Sale": "MATEO SILVIO RODRIGUEZ",
+   "CarneEntra": "64614",
+   "Jug_Entra": "FACUNDO AGUSTIN PELUFFO",
+   "camiseta": "9",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67108",
+   "Jug_Sale": "FRANCO PECCOTIELLO",
+   "CarneEntra": "56734",
+   "Jug_Entra": "JOAQUIN CABRERA",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58752",
+   "Jug_Sale": "LUCIANO JOAQUIN BAICA",
+   "CarneEntra": "57024",
+   "Jug_Entra": "JULIAN GONCALVEZ",
+   "camiseta": "17",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "56113",
+   "Jug_Sale": "JUAN FRANCISCO VOMERO",
+   "CarneEntra": "64622",
+   "Jug_Entra": "TEO FELIPE SOCA",
+   "camiseta": "2",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "56111",
+   "Jug_Sale": "SANTIAGO CANOURA",
+   "CarneEntra": "67548",
+   "Jug_Entra": "MARCOS SANTIAGO BRESCIANI",
+   "camiseta": "29",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59545",
+   "Nombre": "EMILIANO JOAQUIN PAREDES",
+   "minutos": "56",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63734",
+   "Nombre": "BENJAMIN LABORDE",
+   "minutos": "91",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

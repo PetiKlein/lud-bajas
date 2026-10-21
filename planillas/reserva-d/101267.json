@@ -1,0 +1,307 @@
+{
+ "id": "101267",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 1,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "NUESTRA SEÑORA DE LOURDES",
+ "visitante": "C. U. CATOLICA AZUL",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "562",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-08-29 11:00:00",
+  "Fecha_fin": "2026-08-29 11:00:00",
+  "Locatario": "NUESTRA SEÑORA DE LOURDES",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "C. U. CATOLICA AZUL",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68719",
+   "Nombre": "IGNACIO AGUSTIN VALENTE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33320",
+   "Nombre": "MARTIN PAZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64203",
+   "Nombre": "GUILLERMO ORTIZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65209",
+   "Nombre": "CRISTIAN  DANIEL GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "68663",
+   "Nombre": "ARIEL ACOSTA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54946",
+   "Nombre": "FRANCO VICENTE CIFUENTES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61515",
+   "Nombre": "ALAN ACOSTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66679",
+   "Nombre": "FACUNDO DAVID POMBO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67455",
+   "Nombre": "ADRIAN DAVID ACOSTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "27059",
+   "Nombre": "RODRIGO WALTER NIETO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "30973",
+   "Nombre": "MAXIMILIANO PEREYRA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67483",
+   "Nombre": "OCTAVIO ALVEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66694",
+   "Nombre": "BRAYAN MAXIMILIANO GALARZA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "45212",
+   "Nombre": "TOMAS BERRETA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66908",
+   "Nombre": "LUCIANO NICOLAS BUZON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65984",
+   "Nombre": "ALFONSO BACCINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66910",
+   "Nombre": "DIOGO ISMAEL LOPEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "68954",
+   "Nombre": "GERMAN LATORRE",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67639",
+   "Nombre": "AXEL NAHUEL CASTAÑO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68671",
+   "Nombre": "FABRIZIO NICOLAS ISLAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "68242",
+   "Nombre": "VALENTINO ISMAEL GOLLY",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62783",
+   "Nombre": "RENATO OLIVERA",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54946",
+   "Jug_Sale": "FRANCO VICENTE CIFUENTES",
+   "CarneEntra": "66809",
+   "Jug_Entra": "DAVID JOMAR ROSALES",
+   "camiseta": "5",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "27059",
+   "Jug_Sale": "RODRIGO WALTER NIETO",
+   "CarneEntra": "64817",
+   "Jug_Entra": "SANTIAGO DIAS",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66679",
+   "Jug_Sale": "FACUNDO DAVID POMBO",
+   "CarneEntra": "61998",
+   "Jug_Entra": "GUZMAN COUSELO",
+   "camiseta": "15",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "66809",
+   "Jug_Sale": "DAVID JOMAR ROSALES",
+   "CarneEntra": "66679",
+   "Jug_Entra": "FACUNDO DAVID POMBO",
+   "camiseta": "17",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "33320",
+   "Jug_Sale": "MARTIN PAZ",
+   "CarneEntra": "54946",
+   "Jug_Entra": "FRANCO VICENTE CIFUENTES",
+   "camiseta": "2",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "64817",
+   "Jug_Sale": "SANTIAGO DIAS",
+   "CarneEntra": "66809",
+   "Jug_Entra": "DAVID JOMAR ROSALES",
+   "camiseta": "5",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "30973",
+   "Jug_Sale": "MAXIMILIANO PEREYRA",
+   "CarneEntra": "33320",
+   "Jug_Entra": "MARTIN PAZ",
+   "camiseta": "3",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65984",
+   "Jug_Sale": "ALFONSO BACCINO",
+   "CarneEntra": "68670",
+   "Jug_Entra": "FRANCO EZEQUIEL MARTINEZ",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45212",
+   "Jug_Sale": "TOMAS BERRETA",
+   "CarneEntra": "61312",
+   "Jug_Entra": "FACUNDO NAHUEL NAVAS",
+   "camiseta": "11",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "62783",
+   "Jug_Sale": "RENATO OLIVERA",
+   "CarneEntra": "66698",
+   "Jug_Entra": "CONRADO DIAZ",
+   "camiseta": "50",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "68242",
+   "Jug_Sale": "VALENTINO ISMAEL GOLLY",
+   "CarneEntra": "68276",
+   "Jug_Entra": "GERMAN FALCO",
+   "camiseta": "27",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "68954",
+   "Jug_Sale": "GERMAN LATORRE",
+   "CarneEntra": "65355",
+   "Jug_Entra": "FRANCISCO LEANDRO SEQUEIRA",
+   "camiseta": "22",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "45212",
+   "Jug_Sale": "TOMAS BERRETA",
+   "CarneEntra": "49351",
+   "Jug_Entra": "EMILIANO BENTANCOR",
+   "camiseta": "28",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "67483",
+   "Jug_Sale": "OCTAVIO ALVEZ",
+   "CarneEntra": "61906",
+   "Jug_Entra": "FRANCESCO GALLUCCI",
+   "camiseta": "9",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "67483",
+   "Nombre": "OCTAVIO ALVEZ",
+   "minutos": "6",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67639",
+   "Nombre": "AXEL NAHUEL CASTAÑO",
+   "minutos": "91",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68670",
+   "Nombre": "FRANCO EZEQUIEL MARTINEZ",
+   "minutos": "86",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

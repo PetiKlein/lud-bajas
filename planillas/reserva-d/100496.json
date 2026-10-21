@@ -1,0 +1,267 @@
+{
+ "id": "100496",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "TENIS EL PINAR SUB22",
+ "visitante": "CLUB ATLETICO LIMBURGO",
+ "gl": 7,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "487",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-27 13:05:00",
+  "Fecha_fin": "2026-06-27 13:05:00",
+  "Locatario": "TENIS EL PINAR SUB22",
+  "goles_locatario": "7",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB ATLETICO LIMBURGO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56171",
+   "Nombre": "MARIANO DANIEL OTTONELLI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52625",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52444",
+   "Nombre": "SEBASTIAN CARBAJAL",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "51804",
+   "Nombre": "JUAN IGNACIO LEIVA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52629",
+   "Nombre": "SEBASTIAN PIRRI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "52634",
+   "Nombre": "JUAN IGNACIO QUINTANA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "53641",
+   "Nombre": "FACUNDO ROCHA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53418",
+   "Nombre": "FACUNDO VARIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51640",
+   "Nombre": "FRANCO LOMBARDI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53255",
+   "Nombre": "LUCAS CRAVIOTTO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67009",
+   "Nombre": "MATIAS EDUARDO SANCHEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "50891",
+   "Nombre": "DIEGO MARCENARO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56404",
+   "Nombre": "THIAGO NICOLAS MORADO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "62430",
+   "Nombre": "ALEJO MARTIN FONT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53417",
+   "Nombre": "MARCOS FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "68821",
+   "Nombre": "IGNACIO PARRADO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "40634",
+   "Nombre": "JUAN MANUEL MONTERO",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40189",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53151",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53641",
+   "Jug_Sale": "FACUNDO ROCHA",
+   "CarneEntra": "58083",
+   "Jug_Entra": "IGNACIO FACUNDO RICOBALDI",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52634",
+   "Jug_Sale": "JUAN IGNACIO QUINTANA",
+   "CarneEntra": "66514",
+   "Jug_Entra": "MARTIN DIAZ",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52633",
+   "Jug_Sale": "BENICIO BERTIN",
+   "CarneEntra": "53658",
+   "Jug_Entra": "JOAQUIN VAZQUEZ",
+   "camiseta": "24",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "52640",
+   "Jug_Sale": "VALENTIN COLOMINAS",
+   "CarneEntra": "61528",
+   "Jug_Entra": "SANTIAGO DAMIAN PEREIRA",
+   "camiseta": "16",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "53418",
+   "Jug_Sale": "FACUNDO VARIO",
+   "CarneEntra": "52413",
+   "Jug_Entra": "SANTIAGO MATEU",
+   "camiseta": "9",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53417",
+   "Jug_Sale": "MARCOS FERNANDEZ",
+   "CarneEntra": "51238",
+   "Jug_Entra": "MATIAS BELLINI",
+   "camiseta": "4",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52413",
+   "Nombre": "SANTIAGO MATEU",
+   "minutos": "73",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52413",
+   "Nombre": "SANTIAGO MATEU",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52632",
+   "Nombre": "AGUSTIN FIRPO",
+   "minutos": "86",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52633",
+   "Nombre": "BENICIO BERTIN",
+   "minutos": "37",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52640",
+   "Nombre": "VALENTIN COLOMINAS",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58083",
+   "Nombre": "IGNACIO FACUNDO RICOBALDI",
+   "minutos": "84",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

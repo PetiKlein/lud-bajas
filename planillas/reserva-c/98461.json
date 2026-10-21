@@ -1,0 +1,298 @@
+{
+ "id": "98461",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "SAN PABLO UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "263",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-04-25 00:00:00",
+  "Fecha_fin": "2026-04-25 00:00:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAN PABLO UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61786",
+   "Nombre": "MATIAS TRINIDAD",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48424",
+   "Nombre": "IGNACIO ROURE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66777",
+   "Nombre": "SANTIAGO DAVRIEUX",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "49283",
+   "Nombre": "SANTIAGO BARBOZA",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "53765",
+   "Nombre": "NICOLAS CAGNANI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67234",
+   "Nombre": "RODRIGO HERNAN MARTINEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51090",
+   "Nombre": "JUAN IGNACIO RUSSO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53304",
+   "Nombre": "LUCAS ALVEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67236",
+   "Nombre": "FACUNDO DUARTE",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45571",
+   "Nombre": "JOSE MARIA NUÐEZ",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "56705",
+   "Nombre": "AGUSTIN ULISES FAGIANI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "63209",
+   "Nombre": "VALENTIN MENDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53751",
+   "Nombre": "FELIPE BELLORA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "52663",
+   "Nombre": "MARCOS VERNENGO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51080",
+   "Nombre": "AUGUSTO SECCO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "56700",
+   "Nombre": "FRANCO DELISANTE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51334",
+   "Nombre": "FRANCISCO ENRIQUE TRIAY",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "56490",
+   "Nombre": "PABLO ANDRES SCOFFONE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47151",
+   "Nombre": "THIAGO QUINTAS",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "42736",
+   "Nombre": "SANTIAGO SOCA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49283",
+   "Jug_Sale": "SANTIAGO BARBOZA",
+   "CarneEntra": "55415",
+   "Jug_Entra": "BRYAN NAHUEL PEREYRA",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66777",
+   "Jug_Sale": "SANTIAGO DAVRIEUX",
+   "CarneEntra": "52654",
+   "Jug_Entra": "CRISTHIAN ALEXANDER TABEIRA",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51090",
+   "Jug_Sale": "JUAN IGNACIO RUSSO",
+   "CarneEntra": "61334",
+   "Jug_Entra": "ALAN JAVIER VALERA",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "55052",
+   "Jug_Sale": "AGUSTIN RODRIGUEZ",
+   "CarneEntra": "55412",
+   "Jug_Entra": "DIEGO OTAÑO",
+   "camiseta": "3",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "53304",
+   "Jug_Sale": "LUCAS ALVEZ",
+   "CarneEntra": "24412",
+   "Jug_Entra": "RODRIGO CADENAS",
+   "camiseta": "8",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56490",
+   "Jug_Sale": "PABLO ANDRES SCOFFONE",
+   "CarneEntra": "48053",
+   "Jug_Entra": "CAETANO JOAQUIN RODRIGUEZ",
+   "camiseta": "7",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "47151",
+   "Jug_Sale": "THIAGO QUINTAS",
+   "CarneEntra": "59329",
+   "Jug_Entra": "MATEO LAUTARO FERNANDEZ",
+   "camiseta": "9",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "56700",
+   "Jug_Sale": "FRANCO DELISANTE",
+   "CarneEntra": "45099",
+   "Jug_Entra": "RENZO RAFAEL SABARROS",
+   "camiseta": "71",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "56705",
+   "Jug_Sale": "AGUSTIN ULISES FAGIANI",
+   "CarneEntra": "53769",
+   "Jug_Entra": "TIAGO DA SILVA",
+   "camiseta": "15",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "51334",
+   "Jug_Sale": "FRANCISCO ENRIQUE TRIAY",
+   "CarneEntra": "52895",
+   "Jug_Entra": "RODRIGO MORANDI",
+   "camiseta": "80",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "52663",
+   "Jug_Sale": "MARCOS VERNENGO",
+   "CarneEntra": "36741",
+   "Jug_Entra": "RODRIGO LEONEL DE LA FUENTE",
+   "camiseta": "4",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "42736",
+   "Jug_Sale": "SANTIAGO SOCA",
+   "CarneEntra": "53947",
+   "Jug_Entra": "RAFAEL ANDRES STABILE",
+   "camiseta": "5",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "minutos": "83",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47151",
+   "Nombre": "THIAGO QUINTAS",
+   "minutos": "3",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56490",
+   "Nombre": "PABLO ANDRES SCOFFONE",
+   "minutos": "44",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59329",
+   "Nombre": "MATEO LAUTARO FERNANDEZ",
+   "minutos": "67",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,282 @@
+{
+ "id": "99061",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "ELBIO FERNANDEZ",
+ "local": "ELBIO FERNANDEZ",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "162",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "ELBIO FERNANDEZ",
+  "Fecha_Inicio": "2026-05-23 00:00:00",
+  "Fecha_fin": "2026-05-23 00:00:00",
+  "Locatario": "ELBIO FERNANDEZ",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59480",
+   "Nombre": "ENZO LEON FREYER",
+   "camiseta": "57",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51785",
+   "Nombre": "SEBASTIAN VIGIL",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "56779",
+   "Nombre": "JOAQUIN ELOLA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51004",
+   "Nombre": "AGUSTIN NICOLAS CHARLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47916",
+   "Nombre": "MARTIN MENDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "56970",
+   "Nombre": "SANTIAGO LAMBERT",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47472",
+   "Nombre": "JUAN PABLO PLA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "44165",
+   "Nombre": "FEDERICO ABDO",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49731",
+   "Nombre": "IVAN ERBURO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62652",
+   "Nombre": "NAHUEL SILVA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "66258",
+   "Nombre": "LEANDRO PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "32390",
+   "Nombre": "JUAN PABLO HERRERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49735",
+   "Nombre": "HECTOR GASTON RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63710",
+   "Nombre": "DIEGO ALEJANDRO RECARTE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "54752",
+   "Nombre": "EMILIANO FRANCISCO MORALES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56435",
+   "Nombre": "AGUSTIN CAMPODONICO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49318",
+   "Nombre": "FABRIZIO BEIROA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "54884",
+   "Nombre": "NAHUEL LOPEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53403",
+   "Nombre": "DIEGO FERNANDO AGUILERA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57184",
+   "Jug_Sale": "MARCO ESTEBAN TORIELLI",
+   "CarneEntra": "52135",
+   "Jug_Entra": "LUCAS FONTES",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56779",
+   "Jug_Sale": "JOAQUIN ELOLA",
+   "CarneEntra": "51278",
+   "Jug_Entra": "GUILLERMO AGUSTIN BELANDO",
+   "camiseta": "2",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56970",
+   "Jug_Sale": "SANTIAGO LAMBERT",
+   "CarneEntra": "49781",
+   "Jug_Entra": "TADEO BERTOLOTTI",
+   "camiseta": "16",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "51004",
+   "Jug_Sale": "AGUSTIN NICOLAS CHARLO",
+   "CarneEntra": "67240",
+   "Jug_Entra": "JUAN MARTIN FAUST",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "44165",
+   "Jug_Sale": "FEDERICO ABDO",
+   "CarneEntra": "53999",
+   "Jug_Entra": "JUAN IGNACIO PORTA",
+   "camiseta": "12",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "59477",
+   "Jug_Sale": "NICOLAS PEDRO STEPANIUK",
+   "CarneEntra": "55630",
+   "Jug_Entra": "SEBASTIAN ALEXIS YANES",
+   "camiseta": "19",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56435",
+   "Jug_Sale": "AGUSTIN CAMPODONICO",
+   "CarneEntra": "63617",
+   "Jug_Entra": "JOAQUIN DOS SANTOS",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53403",
+   "Jug_Sale": "DIEGO FERNANDO AGUILERA",
+   "CarneEntra": "55174",
+   "Jug_Entra": "MATEO MORAES",
+   "camiseta": "28",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "54884",
+   "Jug_Sale": "NAHUEL LOPEZ",
+   "CarneEntra": "42936",
+   "Jug_Entra": "LEANDRO LOPEZ",
+   "camiseta": "9",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "63710",
+   "Jug_Sale": "DIEGO ALEJANDRO RECARTE",
+   "CarneEntra": "58170",
+   "Jug_Entra": "EMILIANO NAHUEL PEREZ",
+   "camiseta": "17",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51785",
+   "Nombre": "SEBASTIAN VIGIL",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53403",
+   "Nombre": "DIEGO FERNANDO AGUILERA",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54884",
+   "Nombre": "NAHUEL LOPEZ",
+   "minutos": "49",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

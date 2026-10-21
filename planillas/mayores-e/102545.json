@@ -1,0 +1,263 @@
+{
+ "id": "102545",
+ "categoria": "mayores-e",
+ "serie": "ETA",
+ "fecha": 2,
+ "fechaHora": "2026-10-04 09:00:00",
+ "cancha": "COMPLEJO 1GOL",
+ "local": "CERVANTES UNIVERSITARIO",
+ "visitante": "CLUB ESTUDIANTES INGENIERIA",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "1069",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"E\" TIT. y ASC.",
+  "Cancha": "COMPLEJO 1GOL",
+  "Fecha_Inicio": "2026-10-04 10:56:00",
+  "Fecha_fin": "2026-10-04 10:56:00",
+  "Locatario": "CERVANTES UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64465",
+   "Nombre": "FABRICIO RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63167",
+   "Nombre": "LUCAS BORGES",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "51670",
+   "Nombre": "RODRIGO BERGARA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "51155",
+   "Nombre": "SANTIAGO FURMAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45764",
+   "Nombre": "MATIAS BUGARIN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "51413",
+   "Nombre": "RODRIGO MARTINEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52723",
+   "Nombre": "FELIPE CARLOS DE CARVALHO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "31726",
+   "Nombre": "DIEGO MARTIN RODRIGUEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "29226",
+   "Nombre": "LUIS IGNACIO FREIRE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "44754",
+   "Nombre": "PATRICIO LOPEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "38019",
+   "Nombre": "IGNACIO GUZMAN FERNANDEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "43111",
+   "Nombre": "JULIAN LEPRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "65749",
+   "Nombre": "GARY SAMUEL PIRIZ",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "26541",
+   "Nombre": "FEDERICO MARTIN LABORDE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66875",
+   "Nombre": "GIULIANO CHELONI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61450",
+   "Nombre": "MARTIN ROTTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "33500",
+   "Nombre": "FRANCO CAL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68522",
+   "Nombre": "DIEGO HENRRY GADEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59309",
+   "Nombre": "MARCOS NAHUEL ARRÙA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65902",
+   "Nombre": "FABRIZIO DONATO FERRANTY",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "51303",
+   "Nombre": "FELIPE CASARAVILLA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "29226",
+   "Jug_Sale": "LUIS IGNACIO FREIRE",
+   "CarneEntra": "63649",
+   "Jug_Entra": "AXEL EDUARDO CANTERO",
+   "camiseta": "29",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "45764",
+   "Jug_Sale": "MATIAS BUGARIN",
+   "CarneEntra": "59247",
+   "Jug_Entra": "EDEL FERIE",
+   "camiseta": "9",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "31726",
+   "Jug_Sale": "DIEGO MARTIN RODRIGUEZ",
+   "CarneEntra": "61839",
+   "Jug_Entra": "IGNACIO SEBASTIAN OVANDO",
+   "camiseta": "20",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33500",
+   "Jug_Sale": "FRANCO CAL",
+   "CarneEntra": "59115",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "74",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "65902",
+   "Jug_Sale": "FABRIZIO DONATO FERRANTY",
+   "CarneEntra": "68673",
+   "Jug_Entra": "KEVIN NAHUEL ANTUNEZ",
+   "camiseta": "51",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "51303",
+   "Jug_Sale": "FELIPE CASARAVILLA",
+   "CarneEntra": "66689",
+   "Jug_Entra": "SANTIAGO NICOLAS IROLDI",
+   "camiseta": "37",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "68522",
+   "Jug_Sale": "DIEGO HENRRY GADEA",
+   "CarneEntra": "65902",
+   "Jug_Entra": "FABRIZIO DONATO FERRANTY",
+   "camiseta": "96",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "38019",
+   "Nombre": "IGNACIO GUZMAN FERNANDEZ",
+   "minutos": "29",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "minutos": "28",
+   "EnContra": "1"
+  },
+  {
+   "carne": "43081",
+   "Nombre": "FRANCISCO ORFILIO BETANCOR",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51303",
+   "Nombre": "FELIPE CASARAVILLA",
+   "minutos": "48",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "IGNACIO GUZMAN FERNANDEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

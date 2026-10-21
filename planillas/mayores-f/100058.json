@@ -1,0 +1,304 @@
+{
+ "id": "100058",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "ESPARTA UNIVERSITARIO",
+ "visitante": "PAYSANDU UNVERSITARIO",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "667",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-14 11:00:00",
+  "Fecha_fin": "2026-06-14 11:00:00",
+  "Locatario": "ESPARTA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "PAYSANDU UNVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61792",
+   "Nombre": "HERNAN ARAUJO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59481",
+   "Nombre": "JUAN MANUEL BARROS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "37571",
+   "Nombre": "ANDRES FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32432",
+   "Nombre": "KEVIN ARIEL WINIARSKI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54083",
+   "Nombre": "JOAQUIN CERETTA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49284",
+   "Nombre": "FELIPE ARRICAR",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "42973",
+   "Nombre": "NICOLAS MARCIO RODAO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67670",
+   "Nombre": "LAUREANO LARROSA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40833",
+   "Nombre": "RODRIGO BOVINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51299",
+   "Nombre": "FACUNDO CERETTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "34001",
+   "Nombre": "IGNACIO SOUZA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37852",
+   "Nombre": "GUSTAVO JAVIER NIETO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60936",
+   "Nombre": "CIRO AGESTA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55343",
+   "Nombre": "MATEO SCHOLDERLE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52509",
+   "Nombre": "SERGIO EMILIANO ALCIATURI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53227",
+   "Nombre": "JUAN MANUEL ESPINDOLA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59336",
+   "Nombre": "FACUNDO ALEXANDER BENTANCUR",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49770",
+   "Nombre": "ERNESTO FERRARIS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "45774",
+   "Nombre": "JUAN PABLO URRUTY",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "37855",
+   "Nombre": "ENZO GIULIANO COCCARO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46307",
+   "Nombre": "CARLOS MARCELO GIANOTTI",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26535",
+   "Nombre": "FELIPE BONET",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "40833",
+   "Jug_Sale": "RODRIGO BOVINO",
+   "CarneEntra": "59713",
+   "Jug_Entra": "BENJAZMIN PEREZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49284",
+   "Jug_Sale": "FELIPE ARRICAR",
+   "CarneEntra": "53456",
+   "Jug_Entra": "AGUSTIN SANDE",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51299",
+   "Jug_Sale": "FACUNDO CERETTA",
+   "CarneEntra": "67169",
+   "Jug_Entra": "NICLAS SANTIAGO AVELLANEDA",
+   "camiseta": "9",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "32432",
+   "Jug_Sale": "KEVIN ARIEL WINIARSKI",
+   "CarneEntra": "43572",
+   "Jug_Entra": "NAHUEL MOREIRA",
+   "camiseta": "23",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67670",
+   "Jug_Sale": "LAUREANO LARROSA",
+   "CarneEntra": "59397",
+   "Jug_Entra": "HUGO ATILIO TRIUNFO",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67670",
+   "Jug_Sale": "LAUREANO LARROSA",
+   "CarneEntra": "61792",
+   "Jug_Entra": "HERNAN ARAUJO",
+   "camiseta": "7",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53227",
+   "Jug_Sale": "JUAN MANUEL ESPINDOLA",
+   "CarneEntra": "58186",
+   "Jug_Entra": "GUSTAVO SEBASTIAN OTATTI",
+   "camiseta": "4",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "59336",
+   "Jug_Sale": "FACUNDO ALEXANDER BENTANCUR",
+   "CarneEntra": "59331",
+   "Jug_Entra": "BRANDON GABRIEL CORREA",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46307",
+   "Jug_Sale": "CARLOS MARCELO GIANOTTI",
+   "CarneEntra": "67781",
+   "Jug_Entra": "MAURO NAHUEL FRISA",
+   "camiseta": "14",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "45774",
+   "Jug_Sale": "JUAN PABLO URRUTY",
+   "CarneEntra": "67038",
+   "Jug_Entra": "FACUNDO GIBBS",
+   "camiseta": "18",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "37855",
+   "Jug_Sale": "ENZO GIULIANO COCCARO",
+   "CarneEntra": "68231",
+   "Jug_Entra": "WALTER ZOE SALAZAR",
+   "camiseta": "11",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "26535",
+   "Jug_Sale": "FELIPE BONET",
+   "CarneEntra": "67282",
+   "Jug_Entra": "SANTIAGO DE VASCONCELLOS",
+   "camiseta": "16",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "32432",
+   "Nombre": "KEVIN ARIEL WINIARSKI",
+   "minutos": "47",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "26535",
+   "Nombre": "FELIPE BONET",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "26535",
+   "Nombre": "FELIPE BONET",
+   "minutos": "64",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45774",
+   "Nombre": "JUAN PABLO URRUTY",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60936",
+   "Nombre": "CIRO AGESTA",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

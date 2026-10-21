@@ -1,0 +1,250 @@
+{
+ "id": "101645",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 15:30:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "LA BLANQUEADA",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "214",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-09-05 17:20:00",
+  "Fecha_fin": "2026-09-05 17:20:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "LA BLANQUEADA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59906",
+   "Nombre": "MATEO FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68985",
+   "Nombre": "TADEO ASUAGA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63070",
+   "Nombre": "MATIAS GABRIEL TEIJEIRO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67299",
+   "Nombre": "FRANCO NICOLAS PURTSCHER",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "67297",
+   "Nombre": "TIZIANO LANDO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67294",
+   "Nombre": "LIQUEL COLOMBO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63069",
+   "Nombre": "JOAQUIN MADERNI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59515",
+   "Nombre": "FRANCO FEDERICO DENIS",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "68294",
+   "Nombre": "FEDERICO CLAVARES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65323",
+   "Nombre": "LUCAS ROBERTO IBARRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60952",
+   "Nombre": "JUAN IGNACIO MORATORIO",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56441",
+   "Nombre": "IGNACIO PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55402",
+   "Nombre": "GUILLERMO PAGANI",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "56359",
+   "Nombre": "FRANCISCO VILLAR",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "59715",
+   "Nombre": "AGUSTIN SECO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56451",
+   "Nombre": "JUAN BAUTISTA RUIZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53297",
+   "Nombre": "BENJAMIN SOBRINO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59383",
+   "Nombre": "MANUEL QUARTINO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59394",
+   "Nombre": "MARTIN MORRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "57607",
+   "Nombre": "DILAN AGUSTIN TORRES",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "68339",
+   "Nombre": "DANILO PREDARI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "53315",
+   "Nombre": "SANTIAGO CIOFFI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59515",
+   "Jug_Sale": "FRANCO FEDERICO DENIS",
+   "CarneEntra": "65926",
+   "Jug_Entra": "JUAN MANUEL CORREA",
+   "camiseta": "87",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "63069",
+   "Jug_Sale": "JOAQUIN MADERNI",
+   "CarneEntra": "67391",
+   "Jug_Entra": "SANTIAGO SEBASTIAN RDORIGUEZ",
+   "camiseta": "8",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "65323",
+   "Jug_Sale": "LUCAS ROBERTO IBARRA",
+   "CarneEntra": "63069",
+   "Jug_Entra": "JOAQUIN MADERNI",
+   "camiseta": "99",
+   "minutos": "40"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55402",
+   "Jug_Sale": "GUILLERMO PAGANI",
+   "CarneEntra": "62084",
+   "Jug_Entra": "SANTIAGO PEREIRA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59394",
+   "Jug_Sale": "MARTIN MORRA",
+   "CarneEntra": "64822",
+   "Jug_Entra": "CUARAI FRANCISCO GILLMAN",
+   "camiseta": "21",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "68339",
+   "Jug_Sale": "DANILO PREDARI",
+   "CarneEntra": "53309",
+   "Jug_Entra": "LUCIO GUALANO",
+   "camiseta": "99",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "56451",
+   "Jug_Sale": "JUAN BAUTISTA RUIZ",
+   "CarneEntra": "55402",
+   "Jug_Entra": "GUILLERMO PAGANI",
+   "camiseta": "95",
+   "minutos": "68"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "68294",
+   "Nombre": "FEDERICO CLAVARES",
+   "minutos": "77",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68985",
+   "Nombre": "TADEO ASUAGA",
+   "minutos": "94",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "JOAQUIN MADERNI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

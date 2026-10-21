@@ -1,0 +1,261 @@
+{
+ "id": "102837",
+ "categoria": "reserva-a",
+ "serie": "RSAT",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 09:00:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS AZUL",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "622",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"A\" TITULO",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-10-10 11:00:00",
+  "Fecha_fin": "2026-10-10 11:00:00",
+  "Locatario": "OLD CHRISTIANS AZUL",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55226",
+   "Nombre": "ALFONSO DEL CASTILLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54053",
+   "Nombre": "FRANCO BUYSAN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "35068",
+   "Nombre": "MATEO DI LORENZO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "53219",
+   "Nombre": "JOAQUIN LARRAECHA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "41003",
+   "Nombre": "FEDERICO BARRIOS",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42263",
+   "Nombre": "JUAN MARTIN ROMANIELLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52396",
+   "Nombre": "TOMAS DI LORENZO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "63476",
+   "Nombre": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "32400",
+   "Nombre": "MATIAS DANIEL RIOS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "39601",
+   "Nombre": "NICOLAS OEHLER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "camiseta": "97",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49084",
+   "Nombre": "GIULIANO CARDOZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48915",
+   "Nombre": "FACUNDO CURT GEISINGER",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "47764",
+   "Nombre": "BRUNO ZEFFERINO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "39903",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "52186",
+   "Nombre": "BRUNO MATIAS BIGNOLI",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "44291",
+   "Nombre": "IGNACIO GEISINGER",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "41534",
+   "Nombre": "DIEGO NICOLAS CHIJANE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "48917",
+   "Nombre": "FRANCISCO ALGORTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "46708",
+   "Nombre": "AGUSTIN RAUL RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "41007",
+   "Nombre": "GERARDO SACCO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "camiseta": "46",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52396",
+   "Jug_Sale": "TOMAS DI LORENZO",
+   "CarneEntra": "54480",
+   "Jug_Entra": "FACUNDO BELO",
+   "camiseta": "30",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "63476",
+   "Jug_Sale": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "CarneEntra": "39425",
+   "Jug_Entra": "SANTIAGO MARAFFI",
+   "camiseta": "18",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "39601",
+   "Jug_Sale": "NICOLAS OEHLER",
+   "CarneEntra": "42262",
+   "Jug_Entra": "FELIPE LOPEZ",
+   "camiseta": "9",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "32400",
+   "Jug_Sale": "MATIAS DANIEL RIOS",
+   "CarneEntra": "37171",
+   "Jug_Entra": "MATEO DIEGO BLENGIO",
+   "camiseta": "6",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48915",
+   "Jug_Sale": "FACUNDO CURT GEISINGER",
+   "CarneEntra": "47761",
+   "Jug_Entra": "JUAN IGNACIO POTRIE",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48917",
+   "Jug_Sale": "FRANCISCO ALGORTA",
+   "CarneEntra": "67649",
+   "Jug_Entra": "FEDERICO TELLECHEA",
+   "camiseta": "38",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "46708",
+   "Jug_Sale": "AGUSTIN RAUL RODRIGUEZ",
+   "CarneEntra": "44810",
+   "Jug_Entra": "SANTIAGO GONZALEZ",
+   "camiseta": "24",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "39903",
+   "Jug_Sale": "MANUEL FERNANDEZ",
+   "CarneEntra": "49610",
+   "Jug_Entra": "MARTIN SUAYA",
+   "camiseta": "45",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "44291",
+   "Jug_Sale": "IGNACIO GEISINGER",
+   "CarneEntra": "46250",
+   "Jug_Entra": "GUILLERMO JAVIER BECCHIO",
+   "camiseta": "22",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62462",
+   "Nombre": "JUAN GABRIEL ALVAREZ",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63476",
+   "Nombre": "BAUTISTA MARIANO RODRIGUEZ ALEMPARTE",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

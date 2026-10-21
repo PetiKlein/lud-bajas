@@ -1,0 +1,272 @@
+{
+ "id": "98019",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 13:30:00",
+ "cancha": "COLEGIO PIO",
+ "local": "DANUBIO FUTBOL CLUB",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "246",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-04-11 15:30:00",
+  "Fecha_fin": "2026-04-11 15:30:00",
+  "Locatario": "DANUBIO FUTBOL CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64284",
+   "Nombre": "FACUNDO MALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67454",
+   "Nombre": "JUAN ANDRES FERNANDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64043",
+   "Nombre": "ALEX FERNANDEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67266",
+   "Nombre": "EZEQUIEL ACUÑA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67453",
+   "Nombre": "ADRIAN STEVEN RAMIREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64044",
+   "Nombre": "LORENZO RAVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67360",
+   "Nombre": "JOAQUIN GURIDI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64282",
+   "Nombre": "FACUNDO BORCHE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63586",
+   "Nombre": "EMILIANO ARREGUI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "65800",
+   "Nombre": "FACUNDO CORONATO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67267",
+   "Nombre": "EMILIANO SERRA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56600",
+   "Nombre": "SANTIAGO REYES",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "56841",
+   "Nombre": "FELIPE NICOLAS LOPEZ",
+   "camiseta": "97",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56156",
+   "Nombre": "FRANCO SANTIAGO BOTTINI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56201",
+   "Nombre": "MATEO BONFIGLIO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "55187",
+   "Nombre": "IGNACIO ANDRES ALVAREZ",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "62940",
+   "Nombre": "JOAQUIN ORGOROSO",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "62637",
+   "Nombre": "AGUSTIN GAVEL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55355",
+   "Nombre": "FACUNDO BELTRAN",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "62952",
+   "Nombre": "JUAN PEDRO ANGENSCHEIDT",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "62631",
+   "Nombre": "JOAQUIN ARMANDO PIRIZ",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "56108",
+   "Nombre": "IGNACIO CACHON",
+   "camiseta": "50",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67360",
+   "Jug_Sale": "JOAQUIN GURIDI",
+   "CarneEntra": "67611",
+   "Jug_Entra": "MARIO GABRIEL SABORIDO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67267",
+   "Jug_Sale": "EMILIANO SERRA",
+   "CarneEntra": "60155",
+   "Jug_Entra": "LUCAS JULIAN DIAZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67453",
+   "Jug_Sale": "ADRIAN STEVEN RAMIREZ",
+   "CarneEntra": "57212",
+   "Jug_Entra": "MATEO FERNANDEZ",
+   "camiseta": "4",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "65800",
+   "Jug_Sale": "FACUNDO CORONATO",
+   "CarneEntra": "67267",
+   "Jug_Entra": "EMILIANO SERRA",
+   "camiseta": "9",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "64282",
+   "Jug_Sale": "FACUNDO BORCHE",
+   "CarneEntra": "67360",
+   "Jug_Entra": "JOAQUIN GURIDI",
+   "camiseta": "8",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "63586",
+   "Jug_Sale": "EMILIANO ARREGUI",
+   "CarneEntra": "67452",
+   "Jug_Entra": "ESTEBAN GABRIEL DEL CASTILLO",
+   "camiseta": "12",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62940",
+   "Jug_Sale": "JOAQUIN ORGOROSO",
+   "CarneEntra": "58855",
+   "Jug_Entra": "JOAQUIN MARTINEZ",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56156",
+   "Jug_Sale": "FRANCO SANTIAGO BOTTINI",
+   "CarneEntra": "59473",
+   "Jug_Entra": "SANTIAGO OUTERELO",
+   "camiseta": "14",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "62952",
+   "Jug_Sale": "JUAN PEDRO ANGENSCHEIDT",
+   "CarneEntra": "55191",
+   "Jug_Entra": "FEDERICO SAINTAGNE",
+   "camiseta": "78",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "56108",
+   "Jug_Sale": "IGNACIO CACHON",
+   "CarneEntra": "59109",
+   "Jug_Entra": "SANTIAGO ALVAREZ",
+   "camiseta": "13",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "62631",
+   "Jug_Sale": "JOAQUIN ARMANDO PIRIZ",
+   "CarneEntra": "54996",
+   "Jug_Entra": "AGUSTIN VOLKER RESTANO",
+   "camiseta": "17",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "56201",
+   "Jug_Sale": "MATEO BONFIGLIO",
+   "CarneEntra": "56602",
+   "Jug_Entra": "MATEO HORACK",
+   "camiseta": "58",
+   "minutos": "53"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

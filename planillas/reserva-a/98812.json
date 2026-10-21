@@ -1,0 +1,312 @@
+{
+ "id": "98812",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS CLUB",
+ "visitante": "TAPE",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "33",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-05-16 13:30:00",
+  "Fecha_fin": "2026-05-16 13:30:00",
+  "Locatario": "OLD CHRISTIANS CLUB",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "TAPE",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52821",
+   "Nombre": "FACUNDO STORACE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52819",
+   "Nombre": "IÑAKI LARRAECHEA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67291",
+   "Nombre": "AUGUSTO PAULLIER",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "42070",
+   "Nombre": "FRANCISCO GUADALUPE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "37259",
+   "Nombre": "IGNACIO MACHADO",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "39426",
+   "Nombre": "FRANCO CRISCI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52331",
+   "Nombre": "JOSE PEDRO PARODI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51135",
+   "Nombre": "JOAQUIN FABREGAT",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "42069",
+   "Nombre": "MATEO GIOIA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "48430",
+   "Nombre": "JUAN MARTIN FAVARO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "38",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45549",
+   "Nombre": "JOSE FACUNDO FONSECA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35226",
+   "Nombre": "JUAN MANUEL STRAUCH",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "62512",
+   "Nombre": "AGUSTIN IBARLUCEA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55125",
+   "Nombre": "JUAN GURMENDEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64545",
+   "Nombre": "RODRIGO ESTEBAN GONZALEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "45426",
+   "Nombre": "JOAQUIN IGNACIO TAFERNABERRY",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64757",
+   "Nombre": "MARTIN VILLALBA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58984",
+   "Nombre": "NICOLAS LIBONATTI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55777",
+   "Nombre": "LEANDRO MARCELO ERLE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52213",
+   "Nombre": "NICOLAS JAVIER PRATES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "31774",
+   "Nombre": "MARTIN INCIARTE",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "39426",
+   "Jug_Sale": "FRANCO CRISCI",
+   "CarneEntra": "37170",
+   "Jug_Entra": "SEBASTIAN REGULES",
+   "camiseta": "96",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48430",
+   "Jug_Sale": "JUAN MARTIN FAVARO",
+   "CarneEntra": "49655",
+   "Jug_Entra": "HERNAN ALEGRESA",
+   "camiseta": "70",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "37259",
+   "Jug_Sale": "IGNACIO MACHADO",
+   "CarneEntra": "52608",
+   "Jug_Entra": "SANTIAGO MARCELO MACHADO",
+   "camiseta": "28",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "66722",
+   "Jug_Sale": "JOAQUIN RODRIGUEZ",
+   "CarneEntra": "55392",
+   "Jug_Entra": "SANTIAGO COSTA",
+   "camiseta": "20",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "51135",
+   "Jug_Sale": "JOAQUIN FABREGAT",
+   "CarneEntra": "32431",
+   "Jug_Entra": "BENJAMIN BUNGE",
+   "camiseta": "95",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "52331",
+   "Jug_Sale": "JOSE PEDRO PARODI",
+   "CarneEntra": "38310",
+   "Jug_Entra": "FEDERICO PONTE",
+   "camiseta": "95",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "42069",
+   "Jug_Sale": "MATEO GIOIA",
+   "CarneEntra": "53214",
+   "Jug_Entra": "MANUEL PARODI",
+   "camiseta": "17",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "35226",
+   "Jug_Sale": "JUAN MANUEL STRAUCH",
+   "CarneEntra": "65008",
+   "Jug_Entra": "JUAN DIEGO JACQUES",
+   "camiseta": "20",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "55777",
+   "Jug_Sale": "LEANDRO MARCELO ERLE",
+   "CarneEntra": "37326",
+   "Jug_Entra": "JUAN INCIARTE",
+   "camiseta": "3",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "55125",
+   "Jug_Sale": "JUAN GURMENDEZ",
+   "CarneEntra": "48432",
+   "Jug_Entra": "MATIAS HERNAN CASTRO",
+   "camiseta": "5",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "31774",
+   "Jug_Sale": "MARTIN INCIARTE",
+   "CarneEntra": "55925",
+   "Jug_Entra": "FRANCISCO PABLO VILLAR",
+   "camiseta": "2",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "64757",
+   "Jug_Sale": "MARTIN VILLALBA",
+   "CarneEntra": "66853",
+   "Jug_Entra": "MARCELO JAVIER RUIZ",
+   "camiseta": "10",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "58984",
+   "Jug_Sale": "NICOLAS LIBONATTI",
+   "CarneEntra": "62245",
+   "Jug_Entra": "GONZALO VILLALBA",
+   "camiseta": "22",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "45426",
+   "Jug_Sale": "JOAQUIN IGNACIO TAFERNABERRY",
+   "CarneEntra": "59186",
+   "Jug_Entra": "PEDRO BOCKING",
+   "camiseta": "8",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "37170",
+   "Nombre": "SEBASTIAN REGULES",
+   "minutos": "59",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53214",
+   "Nombre": "MANUEL PARODI",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66722",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "minutos": "33",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "AGUSTIN IBARLUCEA",
+   "observaciones": ""
+  }
+ ]
+}

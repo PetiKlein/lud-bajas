@@ -1,0 +1,305 @@
+{
+ "id": "98041",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 13:30:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "125",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-04-11 00:00:00",
+  "Fecha_fin": "2026-04-11 00:00:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63317",
+   "Nombre": "NICOLAS GONZALEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "60140",
+   "Nombre": "JOAN CLAVIJO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "62709",
+   "Nombre": "LUCAS PARADA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "63253",
+   "Nombre": "THIAGO MARMISSOLLE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67106",
+   "Nombre": "ROMAN DUTRUEL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "56734",
+   "Nombre": "JOAQUIN CABRERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65694",
+   "Nombre": "ALEJANDRO CAFFARO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "58752",
+   "Nombre": "LUCIANO JOAQUIN BAICA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64614",
+   "Nombre": "FACUNDO AGUSTIN PELUFFO",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "67548",
+   "Nombre": "MARCOS SANTIAGO BRESCIANI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63734",
+   "Nombre": "BENJAMIN LABORDE",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66411",
+   "Nombre": "JOAQUIN MOSQUERA",
+   "camiseta": "63",
+   "Capitan": ""
+  },
+  {
+   "carne": "66347",
+   "Nombre": "LEONIDAS ALEJANDRO VARELA",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "56674",
+   "Nombre": "JOAQUIN PEREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55183",
+   "Nombre": "IGNACIO RODOLFO GUERRA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "58989",
+   "Nombre": "GONZALO CASTELL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56109",
+   "Nombre": "MATIAS CACCIATORI",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "56117",
+   "Nombre": "MAURICIO NANDE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "64532",
+   "Nombre": "GUILLERMO NALERIO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "56151",
+   "Nombre": "BENJAMIN CANO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "63022",
+   "Nombre": "SANTINO GALEANDRO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "55927",
+   "Nombre": "BRUNO BARALDI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67548",
+   "Jug_Sale": "MARCOS SANTIAGO BRESCIANI",
+   "CarneEntra": "56104",
+   "Jug_Entra": "TOMAS FERIA",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64614",
+   "Jug_Sale": "FACUNDO AGUSTIN PELUFFO",
+   "CarneEntra": "64836",
+   "Jug_Entra": "MARCOS FABIAN VIGNOLO",
+   "camiseta": "28",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "65694",
+   "Jug_Sale": "ALEJANDRO CAFFARO",
+   "CarneEntra": "64620",
+   "Jug_Entra": "TOMAS PEREZ",
+   "camiseta": "80",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "58752",
+   "Jug_Sale": "LUCIANO JOAQUIN BAICA",
+   "CarneEntra": "56113",
+   "Jug_Entra": "JUAN FRANCISCO VOMERO",
+   "camiseta": "24",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63253",
+   "Jug_Sale": "THIAGO MARMISSOLLE",
+   "CarneEntra": "67104",
+   "Jug_Entra": "DANIEL SANTIAGO SUSLUAGA",
+   "camiseta": "3",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63734",
+   "Jug_Sale": "BENJAMIN LABORDE",
+   "CarneEntra": "64622",
+   "Jug_Entra": "TEO FELIPE SOCA",
+   "camiseta": "20",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "56734",
+   "Jug_Sale": "JOAQUIN CABRERA",
+   "CarneEntra": "67107",
+   "Jug_Entra": "IVAN BENTANCOR",
+   "camiseta": "16",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56117",
+   "Jug_Sale": "MAURICIO NANDE",
+   "CarneEntra": "64530",
+   "Jug_Entra": "EMILIANO DOS SANTOS",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66347",
+   "Jug_Sale": "LEONIDAS ALEJANDRO VARELA",
+   "CarneEntra": "64537",
+   "Jug_Entra": "GIULIANO FRANCO",
+   "camiseta": "18",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "56109",
+   "Jug_Sale": "MATIAS CACCIATORI",
+   "CarneEntra": "56096",
+   "Jug_Entra": "JUAN DIEGO OLARIAGA",
+   "camiseta": "28",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "55183",
+   "Jug_Sale": "IGNACIO RODOLFO GUERRA",
+   "CarneEntra": "64372",
+   "Jug_Entra": "AGUSTIN VALSANGIACOMO",
+   "camiseta": "99",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "55927",
+   "Jug_Sale": "BRUNO BARALDI",
+   "CarneEntra": "59486",
+   "Jug_Entra": "MATIAS CORDOVES",
+   "camiseta": "47",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64537",
+   "Jug_Sale": "GIULIANO FRANCO",
+   "CarneEntra": "59492",
+   "Jug_Entra": "JOAQUIN MARTINEZ",
+   "camiseta": "79",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63734",
+   "Nombre": "BENJAMIN LABORDE",
+   "minutos": "44",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63022",
+   "Nombre": "SANTINO GALEANDRO",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63022",
+   "Nombre": "SANTINO GALEANDRO",
+   "minutos": "57",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "LUCAS PARADA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

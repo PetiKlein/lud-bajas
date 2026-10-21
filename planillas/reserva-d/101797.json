@@ -1,0 +1,253 @@
+{
+ "id": "101797",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 3,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "NUESTRA SEÑORA DE LOURDES",
+ "visitante": "TROUVILLE UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "571",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-09-12 13:05:00",
+  "Fecha_fin": "2026-09-12 13:05:00",
+  "Locatario": "NUESTRA SEÑORA DE LOURDES",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "TROUVILLE UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68719",
+   "Nombre": "IGNACIO AGUSTIN VALENTE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65209",
+   "Nombre": "CRISTIAN  DANIEL GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64203",
+   "Nombre": "GUILLERMO ORTIZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "69095",
+   "Nombre": "LUCAS EZEQUIEL ARAMBILLETE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "68663",
+   "Nombre": "ARIEL ACOSTA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66809",
+   "Nombre": "DAVID JOMAR ROSALES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66679",
+   "Nombre": "FACUNDO DAVID POMBO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61998",
+   "Nombre": "GUZMAN COUSELO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "30973",
+   "Nombre": "MAXIMILIANO PEREYRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67455",
+   "Nombre": "ADRIAN DAVID ACOSTA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63406",
+   "Nombre": "TIAGO LORENCIO",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58328",
+   "Nombre": "MIRKO NICOLAS ZUVELA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48893",
+   "Nombre": "EMILIANO TELLECHEA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "54905",
+   "Nombre": "SANTIAGO LIMA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54111",
+   "Nombre": "FACUNDO ALVAREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55569",
+   "Nombre": "TOMAS NEGREIRA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "55200",
+   "Nombre": "MAURO MATEO HERNANDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58541",
+   "Nombre": "RODRIGO SEBABSTIAN CABRERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "51124",
+   "Nombre": "FRANCISCO RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50343",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54902",
+   "Nombre": "SEBASTIAN LUCIARDI",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61998",
+   "Jug_Sale": "GUZMAN COUSELO",
+   "CarneEntra": "64817",
+   "Jug_Entra": "SANTIAGO DIAS",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30973",
+   "Jug_Sale": "MAXIMILIANO PEREYRA",
+   "CarneEntra": "68941",
+   "Jug_Entra": "GERONIMO FIGUEIRA",
+   "camiseta": "15",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "67455",
+   "Jug_Sale": "ADRIAN DAVID ACOSTA",
+   "CarneEntra": "64816",
+   "Jug_Entra": "FEDERICO JAVIER BARCELO",
+   "camiseta": "80",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "63406",
+   "Jug_Sale": "TIAGO LORENCIO",
+   "CarneEntra": "60531",
+   "Jug_Entra": "FERNANDO SEBASTIAN ALVAREZ",
+   "camiseta": "17",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "66809",
+   "Jug_Sale": "DAVID JOMAR ROSALES",
+   "CarneEntra": "33320",
+   "Jug_Entra": "MARTIN PAZ",
+   "camiseta": "2",
+   "minutos": "64"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55200",
+   "Jug_Sale": "MAURO MATEO HERNANDEZ",
+   "CarneEntra": "54908",
+   "Jug_Entra": "JOAQUIN BROMBAUER",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54902",
+   "Jug_Sale": "SEBASTIAN LUCIARDI",
+   "CarneEntra": "55296",
+   "Jug_Entra": "MATEO VAZQUEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54905",
+   "Jug_Sale": "SANTIAGO LIMA",
+   "CarneEntra": "50596",
+   "Jug_Entra": "SANTIAGO VINAGRE",
+   "camiseta": "8",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "55569",
+   "Jug_Sale": "TOMAS NEGREIRA",
+   "CarneEntra": "55179",
+   "Jug_Entra": "SANTIAGO COUTO",
+   "camiseta": "18",
+   "minutos": "64"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "EMILIANO TELLECHEA",
+   "observaciones": ""
+  }
+ ]
+}

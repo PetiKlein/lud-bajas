@@ -1,0 +1,326 @@
+{
+ "id": "102279",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 5,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "C. U. CATOLICA AZUL",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "583",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-09-26 13:30:00",
+  "Fecha_fin": "2026-09-26 13:30:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "C. U. CATOLICA AZUL",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56973",
+   "Nombre": "LUCAS CORREA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "53826",
+   "Nombre": "JUAN IGNACIO SOSA DIAS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "51002",
+   "Nombre": "JUAN MANUEL PEREZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "67474",
+   "Nombre": "MATIAS FRANCO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "64764",
+   "Nombre": "SANTIAGO SANCHEZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "63640",
+   "Nombre": "GONZALO MAS",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "62836",
+   "Nombre": "RODRIGO JOSE ZAS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55669",
+   "Nombre": "MATEO PINTOS",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66910",
+   "Nombre": "DIOGO ISMAEL LOPEZ",
+   "camiseta": "65",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65984",
+   "Nombre": "ALFONSO BACCINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58232",
+   "Nombre": "IGNACIO FLEITAS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67639",
+   "Nombre": "AXEL NAHUEL CASTAÑO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "49235",
+   "Nombre": "SEBASTIAN PEDEMONTE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68242",
+   "Nombre": "VALENTINO ISMAEL GOLLY",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "69181",
+   "Nombre": "JOAQUIN GAUTHIER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45212",
+   "Nombre": "TOMAS BERRETA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67483",
+   "Nombre": "OCTAVIO ALVEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66694",
+   "Nombre": "BRAYAN MAXIMILIANO GALARZA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62783",
+   "Nombre": "RENATO OLIVERA",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64764",
+   "Jug_Sale": "SANTIAGO SANCHEZ",
+   "CarneEntra": "55147",
+   "Jug_Entra": "EDUARDO IVAN UBAL",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52787",
+   "Jug_Sale": "IGNACIO SLINGER",
+   "CarneEntra": "64765",
+   "Jug_Entra": "FRANCISCO JAVIER RIVERO",
+   "camiseta": "25",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "50127",
+   "Jug_Sale": "SANTIAGO CALVETE",
+   "CarneEntra": "55484",
+   "Jug_Entra": "GUILLERMO URIA",
+   "camiseta": "87",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "55669",
+   "Jug_Sale": "MATEO PINTOS",
+   "CarneEntra": "66167",
+   "Jug_Entra": "AGUSTIN BLAS RIVERO",
+   "camiseta": "91",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "62836",
+   "Jug_Sale": "RODRIGO JOSE ZAS",
+   "CarneEntra": "62581",
+   "Jug_Entra": "MAURICIO ANDRES DEUS",
+   "camiseta": "20",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59752",
+   "Jug_Sale": "RAMIRO LOPEZ",
+   "CarneEntra": "67275",
+   "Jug_Entra": "MATEO MORALES",
+   "camiseta": "92",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58232",
+   "Jug_Sale": "IGNACIO FLEITAS",
+   "CarneEntra": "68670",
+   "Jug_Entra": "FRANCO EZEQUIEL MARTINEZ",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66694",
+   "Jug_Sale": "BRAYAN MAXIMILIANO GALARZA",
+   "CarneEntra": "66909",
+   "Jug_Entra": "JUAN MANUEL ZARRILLO",
+   "camiseta": "5",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "45212",
+   "Jug_Sale": "TOMAS BERRETA",
+   "CarneEntra": "64129",
+   "Jug_Entra": "MATEO FURTADO",
+   "camiseta": "24",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "65984",
+   "Jug_Sale": "ALFONSO BACCINO",
+   "CarneEntra": "68276",
+   "Jug_Entra": "GERMAN FALCO",
+   "camiseta": "27",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "62783",
+   "Jug_Sale": "RENATO OLIVERA",
+   "CarneEntra": "61312",
+   "Jug_Entra": "FACUNDO NAHUEL NAVAS",
+   "camiseta": "11",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "49235",
+   "Jug_Sale": "SEBASTIAN PEDEMONTE",
+   "CarneEntra": "66698",
+   "Jug_Entra": "CONRADO DIAZ",
+   "camiseta": "50",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "67639",
+   "Jug_Sale": "AXEL NAHUEL CASTAÑO",
+   "CarneEntra": "67486",
+   "Jug_Entra": "RODRIGO MAZZOLINI",
+   "camiseta": "99",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52787",
+   "Nombre": "IGNACIO SLINGER",
+   "minutos": "9",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62836",
+   "Nombre": "RODRIGO JOSE ZAS",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66694",
+   "Nombre": "BRAYAN MAXIMILIANO GALARZA",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67483",
+   "Nombre": "OCTAVIO ALVEZ",
+   "minutos": "32",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "LUCAS CORREA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "VALENTINO ISMAEL GOLLY",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "BRAYAN MAXIMILIANO GALARZA",
+   "observaciones": ""
+  }
+ ]
+}

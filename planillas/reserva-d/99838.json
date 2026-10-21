@@ -1,0 +1,269 @@
+{
+ "id": "99838",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "CLUB ATLETICO LIMBURGO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "473",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-06-06 11:00:00",
+  "Fecha_fin": "2026-06-06 11:00:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB ATLETICO LIMBURGO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63538",
+   "Nombre": "LAUTARO NICOLAS MIRABALLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53204",
+   "Nombre": "ARON SPINELLI",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "64069",
+   "Nombre": "CARLOS DANIEL GUIDOTTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64071",
+   "Nombre": "FEDERICO SEBASTIAN BENITEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63777",
+   "Nombre": "FRANCO OLMOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62487",
+   "Nombre": "ALEJO RAMIREZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "62984",
+   "Nombre": "FABRIZIO VALVERDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56409",
+   "Nombre": "THIAGO FABIAN NICHELE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66524",
+   "Nombre": "EZEQUIEL ZANOLLI",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61823",
+   "Nombre": "GERMAN RIVAS",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67006",
+   "Nombre": "LUIS ANTHONY CENTENO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53255",
+   "Nombre": "LUCAS CRAVIOTTO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "40634",
+   "Nombre": "JUAN MANUEL MONTERO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53417",
+   "Nombre": "MARCOS FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "47345",
+   "Nombre": "JOAQUIN GABRIEL VARELA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "31775",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59742",
+   "Nombre": "MATEO JOSE ONETTO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "20989",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "51238",
+   "Nombre": "MATIAS BELLINI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53151",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "44079",
+   "Nombre": "FRANCISCO BARRE",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62984",
+   "Jug_Sale": "FABRIZIO VALVERDE",
+   "CarneEntra": "62488",
+   "Jug_Entra": "JOAQUIN SEBASTIAN CASAL",
+   "camiseta": "76",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61823",
+   "Jug_Sale": "GERMAN RIVAS",
+   "CarneEntra": "65085",
+   "Jug_Entra": "FRANCO DIEGO",
+   "camiseta": "55",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66524",
+   "Jug_Sale": "EZEQUIEL ZANOLLI",
+   "CarneEntra": "59910",
+   "Jug_Entra": "FACUNDO OZMAN PERDOMO",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "54931",
+   "Jug_Sale": "GENARO VALENTIN COLOMBO",
+   "CarneEntra": "54906",
+   "Jug_Entra": "GUZMAN EMILIANO HERNANDEZ",
+   "camiseta": "42",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63777",
+   "Jug_Sale": "FRANCO OLMOS",
+   "CarneEntra": "59027",
+   "Jug_Entra": "RODRIGO IGNACIO VILAS",
+   "camiseta": "38",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64071",
+   "Jug_Sale": "FEDERICO SEBASTIAN BENITEZ",
+   "CarneEntra": "64352",
+   "Jug_Entra": "MARTIN VALVERDE",
+   "camiseta": "67",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "62487",
+   "Jug_Sale": "ALEJO RAMIREZ",
+   "CarneEntra": "59023",
+   "Jug_Entra": "JOSE IGNACIO TEIJEIRO",
+   "camiseta": "4",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53255",
+   "Jug_Sale": "LUCAS CRAVIOTTO",
+   "CarneEntra": "50881",
+   "Jug_Entra": "THOMAS JESKE",
+   "camiseta": "18",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "31775",
+   "Jug_Sale": "JOAQUIN GUTIERREZ",
+   "CarneEntra": "67009",
+   "Jug_Entra": "MATIAS EDUARDO SANCHEZ",
+   "camiseta": "19",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "59742",
+   "Jug_Sale": "MATEO JOSE ONETTO",
+   "CarneEntra": "62430",
+   "Jug_Entra": "ALEJO MARTIN FONT",
+   "camiseta": "16",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56409",
+   "Nombre": "THIAGO FABIAN NICHELE",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66524",
+   "Nombre": "EZEQUIEL ZANOLLI",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

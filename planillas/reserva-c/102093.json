@@ -1,0 +1,283 @@
+{
+ "id": "102093",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "ST. BRENDANS",
+ "local": "WANDERERS",
+ "visitante": "OLD BRENDANS VERDE",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "346",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "ST. BRENDANS",
+  "Fecha_Inicio": "2026-09-19 11:00:00",
+  "Fecha_fin": "2026-09-19 11:00:00",
+  "Locatario": "WANDERERS",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS VERDE",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57434",
+   "Nombre": "GONZALO ANDRES SANGUINETTI",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "66824",
+   "Nombre": "GABRIEL HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "59917",
+   "Nombre": "LUCAS BALTAZAR GARCIA",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "67260",
+   "Nombre": "AGUSTIN TERMEZANA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "66823",
+   "Nombre": "JOSE PABLO ANTUNEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "43616",
+   "Nombre": "SANTIAGO VEGLIO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55308",
+   "Nombre": "JUAN MARTIN MALDONADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "63183",
+   "Nombre": "MATEO REDIN",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "61865",
+   "Nombre": "NAZARENO PINTOS",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "61300",
+   "Nombre": "LUCIANO DA SILVA",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53394",
+   "Nombre": "DIEGO SABAJ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58427",
+   "Nombre": "FACUNDO FIORE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "49150",
+   "Nombre": "GASTON SCHMIDT",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41985",
+   "Nombre": "PABLO ANDRES GINARD",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55605",
+   "Nombre": "BAUTISTA PARODI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63255",
+   "Nombre": "JOAQUIN YAGODA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "49147",
+   "Nombre": "JUAN TOURON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49137",
+   "Nombre": "IÑAKI GARCIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "55930",
+   "Nombre": "BRYAN EZEQUIEL GIOVINAZZO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "51443",
+   "Nombre": "MATEO DAVID BONIFACIO",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63183",
+   "Jug_Sale": "MATEO REDIN",
+   "CarneEntra": "46318",
+   "Jug_Entra": "FACUNDO DEBENEDETTI",
+   "camiseta": "92",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "59917",
+   "Jug_Sale": "LUCAS BALTAZAR GARCIA",
+   "CarneEntra": "63183",
+   "Jug_Entra": "MATEO REDIN",
+   "camiseta": "27",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "66824",
+   "Jug_Sale": "GABRIEL HERNANDEZ",
+   "CarneEntra": "56583",
+   "Jug_Entra": "MARCOS ARRASPIDE",
+   "camiseta": "22",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "66607",
+   "Jug_Sale": "ALEXIS COLO",
+   "CarneEntra": "67693",
+   "Jug_Entra": "ANDRES ELIAS MEJIA",
+   "camiseta": "29",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "41985",
+   "Jug_Sale": "PABLO ANDRES GINARD",
+   "CarneEntra": "64017",
+   "Jug_Entra": "JUAN IGNACIO MENENDEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55605",
+   "Jug_Sale": "BAUTISTA PARODI",
+   "CarneEntra": "57719",
+   "Jug_Entra": "TOMAS LORENZO FASCIOLI",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49147",
+   "Jug_Sale": "JUAN TOURON",
+   "CarneEntra": "51067",
+   "Jug_Entra": "MARTIN GAUDIO",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49150",
+   "Jug_Sale": "GASTON SCHMIDT",
+   "CarneEntra": "49241",
+   "Jug_Entra": "SANTIAGO MAZURKIEWICZ",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55930",
+   "Jug_Sale": "BRYAN EZEQUIEL GIOVINAZZO",
+   "CarneEntra": "56684",
+   "Jug_Entra": "TOMAS ALDABALDE",
+   "camiseta": "88",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "51174",
+   "Jug_Sale": "LUCA MAXIMO AGGIO",
+   "CarneEntra": "60472",
+   "Jug_Entra": "SANCHO CONTI",
+   "camiseta": "10",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "51443",
+   "Jug_Sale": "MATEO DAVID BONIFACIO",
+   "CarneEntra": "54756",
+   "Jug_Entra": "ADRIANO MARTIN AGGIO",
+   "camiseta": "22",
+   "minutos": "67"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56684",
+   "Nombre": "TOMAS ALDABALDE",
+   "minutos": "61",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

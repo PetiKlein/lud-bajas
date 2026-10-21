@@ -1,0 +1,276 @@
+{
+ "id": "100001",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:20:00",
+ "cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+ "local": "PEÑAROL UNIVERSITARIO",
+ "visitante": "DEPORTIVO LS UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "427",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+  "Fecha_Inicio": "2026-06-14 11:20:00",
+  "Fecha_fin": "2026-06-14 11:20:00",
+  "Locatario": "PEÑAROL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66992",
+   "Nombre": "MATHIAS ALEXANDER MONTIEL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66847",
+   "Nombre": "FACUNDO SEBASTIAN SASTRE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66848",
+   "Nombre": "FACUNDO CHIFFONE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49170",
+   "Nombre": "BRUNO EMILIANO BERMUDEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "55825",
+   "Nombre": "NAHUEL MANZANARES",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66845",
+   "Nombre": "FACUNDO OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56541",
+   "Nombre": "JUAN MANUEL TRUJILLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57112",
+   "Nombre": "LUCAS MATTEO ANCHETA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65783",
+   "Nombre": "BRUNO IGNACIO ALVAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55028",
+   "Nombre": "JUAN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64480",
+   "Nombre": "MAXIMO FABRICIO NIEVAS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56402",
+   "Nombre": "EMMANUEL VALENTIN COLLAZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68333",
+   "Nombre": "MARTIN STEFANO POCATERRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54838",
+   "Nombre": "AGUSTIN GANACHIPPI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66317",
+   "Nombre": "SANTIAGO PFEIFF",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59641",
+   "Nombre": "SANTIAGO EZEQUIEL ROSA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59385",
+   "Nombre": "PEDRO CAPDEVIELLE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65879",
+   "Nombre": "NAHUEL OLIVETTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66880",
+   "Nombre": "FELIPE PFEIFF",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59766",
+   "Nombre": "JOSE ANDRES MARQUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54846",
+   "Nombre": "JUAN IGNACIO VAZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66848",
+   "Jug_Sale": "FACUNDO CHIFFONE",
+   "CarneEntra": "55275",
+   "Jug_Entra": "SEBASTIAN ELTON GONZALEZ",
+   "camiseta": "15",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "66992",
+   "Jug_Sale": "MATHIAS ALEXANDER MONTIEL",
+   "CarneEntra": "68729",
+   "Jug_Entra": "BRUNO ROCHA",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55825",
+   "Jug_Sale": "NAHUEL MANZANARES",
+   "CarneEntra": "63677",
+   "Jug_Entra": "IAN MAXIMILIANO POLERO",
+   "camiseta": "24",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "55028",
+   "Jug_Sale": "JUAN RODRIGUEZ",
+   "CarneEntra": "67839",
+   "Jug_Entra": "KEVIN IGNACIO BRUSCIANO",
+   "camiseta": "21",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66880",
+   "Jug_Sale": "FELIPE PFEIFF",
+   "CarneEntra": "58226",
+   "Jug_Entra": "GABRIEL NICOLAS LOSADA",
+   "camiseta": "41",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "68333",
+   "Jug_Sale": "MARTIN STEFANO POCATERRA",
+   "CarneEntra": "64768",
+   "Jug_Entra": "DIEGO ANDRES PERDOMO",
+   "camiseta": "13",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "59385",
+   "Jug_Sale": "PEDRO CAPDEVIELLE",
+   "CarneEntra": "59389",
+   "Jug_Entra": "RODRIGO GERMAN FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "54846",
+   "Jug_Sale": "JUAN IGNACIO VAZ",
+   "CarneEntra": "50237",
+   "Jug_Entra": "ADRIAN LUIS PEREIRA",
+   "camiseta": "7",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "31995",
+   "Jug_Sale": "JORGE IGNACIO DIAZ",
+   "CarneEntra": "49250",
+   "Jug_Entra": "SANTIAGO ROO",
+   "camiseta": "10",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "59766",
+   "Jug_Sale": "JOSE ANDRES MARQUEZ",
+   "CarneEntra": "65354",
+   "Jug_Entra": "JULIAN COHENAR",
+   "camiseta": "26",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64480",
+   "Nombre": "MAXIMO FABRICIO NIEVAS",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59641",
+   "Nombre": "SANTIAGO EZEQUIEL ROSA",
+   "minutos": "73",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

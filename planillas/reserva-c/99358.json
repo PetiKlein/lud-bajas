@@ -1,0 +1,291 @@
+{
+ "id": "99358",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "E.L.F.",
+ "visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "289",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-05-30 13:15:00",
+  "Fecha_fin": "2026-05-30 13:15:00",
+  "Locatario": "E.L.F.",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41722",
+   "Nombre": "NICOLAS FREYER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38084",
+   "Nombre": "GUILLERMO RODRIGUEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "41367",
+   "Nombre": "FRANCISCO BARTESAGHI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "54930",
+   "Nombre": "JUAN PEDRO MICHELINI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56280",
+   "Nombre": "SEBASTIAN MACHIN",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48949",
+   "Nombre": "IGNACIO JOSE PALLAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "43672",
+   "Nombre": "ALEJO CORRADI",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52276",
+   "Nombre": "SANTIAGO CARAVIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49458",
+   "Nombre": "GUZMAN RODRIGUEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "42786",
+   "Nombre": "MATEO CORRADI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46858",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52990",
+   "Nombre": "NICOLAS FEDERICO DIAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52772",
+   "Nombre": "IGNACIO ELIZEIRE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52771",
+   "Nombre": "NICOLAS ANDRES CUENCA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61951",
+   "Nombre": "EZEQUIEL BRITOS",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "40019",
+   "Nombre": "RODRIGO TEJERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52987",
+   "Nombre": "RENZO GUZMAN RAMAGLI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61755",
+   "Nombre": "THIAGO SEBASTIAN VARGAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52357",
+   "Nombre": "BRUNO PASTORINI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "46898",
+   "Nombre": "PABLO PRADO",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57708",
+   "Nombre": "VALENTIN CUÑA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52775",
+   "Nombre": "BRIAN EMANUEL MADERA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "38084",
+   "Jug_Sale": "GUILLERMO RODRIGUEZ",
+   "CarneEntra": "44457",
+   "Jug_Entra": "BRUNO GIORDANO",
+   "camiseta": "21",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "46858",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "47483",
+   "Jug_Entra": "EMMANUEL KAKLOUK",
+   "camiseta": "9",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "48949",
+   "Jug_Sale": "IGNACIO JOSE PALLAS",
+   "CarneEntra": "46978",
+   "Jug_Entra": "IGNACIO TASSANI",
+   "camiseta": "18",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "52276",
+   "Jug_Sale": "SANTIAGO CARAVIA",
+   "CarneEntra": "43242",
+   "Jug_Entra": "FRANCO PASARISA",
+   "camiseta": "23",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "41367",
+   "Jug_Sale": "FRANCISCO BARTESAGHI",
+   "CarneEntra": "45411",
+   "Jug_Entra": "MAXIMILIANO PARODI",
+   "camiseta": "26",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "54930",
+   "Jug_Sale": "JUAN PEDRO MICHELINI",
+   "CarneEntra": "47469",
+   "Jug_Entra": "MATEO AGUILAR",
+   "camiseta": "17",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "56280",
+   "Jug_Sale": "SEBASTIAN MACHIN",
+   "CarneEntra": "51153",
+   "Jug_Entra": "GUZMAN FEDERICO OEHLER",
+   "camiseta": "4",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61951",
+   "Jug_Sale": "EZEQUIEL BRITOS",
+   "CarneEntra": "60888",
+   "Jug_Entra": "PABLO VALENTIN DA LUZ",
+   "camiseta": "3",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "52775",
+   "Jug_Sale": "BRIAN EMANUEL MADERA",
+   "CarneEntra": "56514",
+   "Jug_Entra": "BRUNO DI TOMASSO",
+   "camiseta": "17",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "42786",
+   "Nombre": "MATEO CORRADI",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "42786",
+   "Nombre": "MATEO CORRADI",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "46858",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47483",
+   "Nombre": "EMMANUEL KAKLOUK",
+   "minutos": "82",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49458",
+   "Nombre": "GUZMAN RODRIGUEZ",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46898",
+   "Nombre": "PABLO PRADO",
+   "minutos": "42",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "IGNACIO ELIZEIRE",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "id": "102351",
+ "categoria": "mayores-e",
+ "serie": "EPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-27 09:00:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "JEAN PIAGET",
+ "visitante": "SUDAMERICA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "1096",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"E\" PERM. y DESC.",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-09-27 11:00:00",
+  "Fecha_fin": "2026-09-27 11:00:00",
+  "Locatario": "JEAN PIAGET",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "SUDAMERICA UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59037",
+   "Nombre": "WILDER NAHUEL RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "53239",
+   "Nombre": "MARIANO FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "56281",
+   "Nombre": "PABLO RAUL LUCAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "41096",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "66227",
+   "Nombre": "ALEXANDER CASTELLI",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "66226",
+   "Nombre": "FEDERICO MARTIN RAMOS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "66204",
+   "Nombre": "OSCAR MICHEL MOLINA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65824",
+   "Nombre": "MATHIAS ALEXIS TRAJTENBERG",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "16030",
+   "Nombre": "CARLOS MAURO MATHIEU",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67424",
+   "Nombre": "LUCAS MIGUEL MESTRE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41193",
+   "Nombre": "JUAN IGNACIO AYALA",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64962",
+   "Nombre": "JUAN BAUTISTA MENDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40257",
+   "Nombre": "ROQUE MARTIN ANDRADA",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63812",
+   "Nombre": "ANDRES OLIVERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64590",
+   "Nombre": "FAUSTINO VALIENTE",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "61873",
+   "Nombre": "JUAN MARTIN FUMERO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "54089",
+   "Nombre": "PABLO GOROSO",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "69022",
+   "Nombre": "JUAN MARTIN PATRON",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "62441",
+   "Nombre": "BRIAN ANTHONY PEREZ",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "41872",
+   "Nombre": "FACUNDO SILVERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "44638",
+   "Nombre": "WALTER SANTIAGO SEGOVIA",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41096",
+   "Jug_Sale": "JUAN MANUEL PEREYRA",
+   "CarneEntra": "67872",
+   "Jug_Entra": "HUMBERTO GAUDIER BRICEÑO",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66204",
+   "Jug_Sale": "OSCAR MICHEL MOLINA",
+   "CarneEntra": "41805",
+   "Jug_Entra": "DIEGO AUGUSTO LORENZO",
+   "camiseta": "18",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65824",
+   "Jug_Sale": "MATHIAS ALEXIS TRAJTENBERG",
+   "CarneEntra": "41096",
+   "Jug_Entra": "JUAN MANUEL PEREYRA",
+   "camiseta": "31",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "69022",
+   "Jug_Sale": "JUAN MARTIN PATRON",
+   "CarneEntra": "49733",
+   "Jug_Entra": "DIEGO OLASO",
+   "camiseta": "39",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54089",
+   "Jug_Sale": "PABLO GOROSO",
+   "CarneEntra": "40236",
+   "Jug_Entra": "SANTIAGO MARTINEZ",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61873",
+   "Jug_Sale": "JUAN MARTIN FUMERO",
+   "CarneEntra": "62438",
+   "Jug_Entra": "FACUNDO BARRO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62441",
+   "Jug_Sale": "BRIAN ANTHONY PEREZ",
+   "CarneEntra": "69022",
+   "Jug_Entra": "JUAN MARTIN PATRON",
+   "camiseta": "47",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "64590",
+   "Jug_Sale": "FAUSTINO VALIENTE",
+   "CarneEntra": "61873",
+   "Jug_Entra": "JUAN MARTIN FUMERO",
+   "camiseta": "35",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56281",
+   "Nombre": "PABLO RAUL LUCAS",
+   "minutos": "39",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56281",
+   "Nombre": "PABLO RAUL LUCAS",
+   "minutos": "56",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "44638",
+   "Nombre": "WALTER SANTIAGO SEGOVIA",
+   "minutos": "31",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "minutos": "24",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "minutos": "28",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "minutos": "53",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

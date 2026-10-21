@@ -1,0 +1,255 @@
+{
+ "id": "101274",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 4,
+ "fechaHora": "2026-08-30 09:00:00",
+ "cancha": "SAN ISIDRO LOMAS",
+ "local": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "visitante": "INDEPENDIENTE",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "145",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "SAN ISIDRO LOMAS",
+  "Fecha_Inicio": "2026-08-30 12:00:00",
+  "Fecha_fin": "2026-08-30 12:00:00",
+  "Locatario": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "INDEPENDIENTE",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32494",
+   "Nombre": "RAMIRO TACHINI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59868",
+   "Nombre": "LUCAS MARICHAL",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52683",
+   "Nombre": "FRANCO CHEMELLO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "43591",
+   "Nombre": "BRUNO LENZUE",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56143",
+   "Nombre": "CARLOS ROBERTO SARDEÑA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56507",
+   "Nombre": "LUCAS OLIVERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "60073",
+   "Nombre": "MAXIMILIANO CAMBON",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "47677",
+   "Nombre": "JUAN PABLO SILVIO NICOLETTI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63027",
+   "Nombre": "NICOLAS IÑAKY GUERRA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52991",
+   "Nombre": "FRANCO MICHELENA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "60972",
+   "Nombre": "FELIPE ARBIZA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61237",
+   "Nombre": "JOAQUIN HAYMES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46441",
+   "Nombre": "MARTIN PABLO RIVAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "40073",
+   "Nombre": "JOAQUIN AVEDISIAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "43439",
+   "Nombre": "FACUNDO GARCIA",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "43774",
+   "Nombre": "FELIPE HEIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60709",
+   "Nombre": "LAUTARO DIAZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "33714",
+   "Nombre": "NATHAN PERLA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53095",
+   "Nombre": "MARTIN PEZZATTI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "35552",
+   "Nombre": "JORGE MATIAS AMATO",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "51150",
+   "Nombre": "IGNACIO ARTIGAS FERREIRA",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "46974",
+   "Nombre": "FACUNDO TEJERA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63027",
+   "Jug_Sale": "NICOLAS IÑAKY GUERRA",
+   "CarneEntra": "32028",
+   "Jug_Entra": "FACUNDO RODRIGUEZ",
+   "camiseta": "10",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "56507",
+   "Jug_Sale": "LUCAS OLIVERA",
+   "CarneEntra": "53965",
+   "Jug_Entra": "BRUNO MICHELENA",
+   "camiseta": "8",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "60073",
+   "Jug_Sale": "MAXIMILIANO CAMBON",
+   "CarneEntra": "29926",
+   "Jug_Entra": "JOAQUIN TEJERIA",
+   "camiseta": "9",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "56143",
+   "Jug_Sale": "CARLOS ROBERTO SARDEÑA",
+   "CarneEntra": "52987",
+   "Jug_Entra": "RENZO GUZMAN RAMAGLI",
+   "camiseta": "3",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51150",
+   "Jug_Sale": "IGNACIO ARTIGAS FERREIRA",
+   "CarneEntra": "53754",
+   "Jug_Entra": "MANUEL CAMILO VARELA",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "46974",
+   "Jug_Sale": "FACUNDO TEJERA",
+   "CarneEntra": "46217",
+   "Jug_Entra": "SIMON RODRIGUEZ",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "60709",
+   "Jug_Sale": "LAUTARO DIAZ",
+   "CarneEntra": "39168",
+   "Jug_Entra": "PIETRO BENITEZ",
+   "camiseta": "2",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "43439",
+   "Jug_Sale": "FACUNDO GARCIA",
+   "CarneEntra": "45742",
+   "Jug_Entra": "NEHUEN EZEQUIEL BONIFAZI",
+   "camiseta": "33",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "43774",
+   "Jug_Sale": "FELIPE HEIN",
+   "CarneEntra": "66145",
+   "Jug_Entra": "IGNACIO BERTHEL",
+   "camiseta": "25",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "43439",
+   "Nombre": "FACUNDO GARCIA",
+   "minutos": "12",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

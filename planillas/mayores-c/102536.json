@@ -1,0 +1,332 @@
+{
+ "id": "102536",
+ "categoria": "mayores-c",
+ "serie": "CPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-04 09:00:00",
+ "cancha": "COMPLEJO DEVOTO",
+ "local": "WANDERERS",
+ "visitante": "POCO SITIO PLAYA VERDE",
+ "gl": 2,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "986",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"C\" PERM. y DESC.",
+  "Cancha": "COMPLEJO DEVOTO",
+  "Fecha_Inicio": "2026-10-04 11:00:00",
+  "Fecha_fin": "2026-10-04 11:00:00",
+  "Locatario": "WANDERERS",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "POCO SITIO PLAYA VERDE",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57434",
+   "Nombre": "GONZALO ANDRES SANGUINETTI",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "66823",
+   "Nombre": "JOSE PABLO ANTUNEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "44857",
+   "Nombre": "FRANCO SORMANI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "68863",
+   "Nombre": "VALENTIN RIVERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "68676",
+   "Nombre": "JOAQUIN NICOLAS REZZANO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "43616",
+   "Nombre": "SANTIAGO VEGLIO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68297",
+   "Nombre": "MAXIMILIANO CAMBELL",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "59153",
+   "Nombre": "MARCOS VALENTIN GONZALEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68421",
+   "Nombre": "RINO CASTRO",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "61865",
+   "Nombre": "NAZARENO PINTOS",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "50792",
+   "Nombre": "LUCA BARCELO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67011",
+   "Nombre": "FACUNDO SORIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "50790",
+   "Nombre": "JOAQUIN ANDRES GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "43678",
+   "Nombre": "GONZALO ALBA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50788",
+   "Nombre": "JUAN ANDRES VARELA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "44983",
+   "Nombre": "JUAN IGNACIO PIN",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "55045",
+   "Nombre": "JUAN BAUTISTA TORTORA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45240",
+   "Nombre": "JOSE MAURO COSENTINO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "36872",
+   "Nombre": "FEDERICO LUIS BISCARDI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56209",
+   "Nombre": "EMILIANO DI LASCIO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "40179",
+   "Nombre": "AGUSTIN FERNANDO GARABEDIAN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66607",
+   "Jug_Sale": "ALEXIS COLO",
+   "CarneEntra": "37182",
+   "Jug_Entra": "SANTIAGO MALLO",
+   "camiseta": "10",
+   "minutos": "19"
+  },
+  {
+   "CarneSale": "66823",
+   "Jug_Sale": "JOSE PABLO ANTUNEZ",
+   "CarneEntra": "67260",
+   "Jug_Entra": "AGUSTIN TERMEZANA",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43616",
+   "Jug_Sale": "SANTIAGO VEGLIO",
+   "CarneEntra": "44673",
+   "Jug_Entra": "SANTIAGO ISAIAS SOLE",
+   "camiseta": "73",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61865",
+   "Jug_Sale": "NAZARENO PINTOS",
+   "CarneEntra": "55365",
+   "Jug_Entra": "IGNACIO MANUEL MALLO",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44857",
+   "Jug_Sale": "FRANCO SORMANI",
+   "CarneEntra": "51001",
+   "Jug_Entra": "FELIPE PEREZ",
+   "camiseta": "4",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "68676",
+   "Jug_Sale": "JOAQUIN NICOLAS REZZANO",
+   "CarneEntra": "52768",
+   "Jug_Entra": "GUILLERMO MAÑKA",
+   "camiseta": "66",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "44857",
+   "Jug_Sale": "FRANCO SORMANI",
+   "CarneEntra": "61300",
+   "Jug_Entra": "LUCIANO DA SILVA",
+   "camiseta": "22",
+   "minutos": "61"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67011",
+   "Jug_Sale": "FACUNDO SORIA",
+   "CarneEntra": "48913",
+   "Jug_Entra": "FEDERICO JOAQUIN OCAMPO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55045",
+   "Jug_Sale": "JUAN BAUTISTA TORTORA",
+   "CarneEntra": "41351",
+   "Jug_Entra": "GONZALO RUBEN YIZMEYIAN",
+   "camiseta": "10",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "36872",
+   "Jug_Sale": "FEDERICO LUIS BISCARDI",
+   "CarneEntra": "39100",
+   "Jug_Entra": "TOMAS IGNACIO MANGGIAROTTI",
+   "camiseta": "8",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "56209",
+   "Jug_Sale": "EMILIANO DI LASCIO",
+   "CarneEntra": "49274",
+   "Jug_Entra": "DIEGO RODRIGUEZ",
+   "camiseta": "15",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "44983",
+   "Jug_Sale": "JUAN IGNACIO PIN",
+   "CarneEntra": "47787",
+   "Jug_Entra": "JUAN PEDRO DOMINGUEZ",
+   "camiseta": "21",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "40179",
+   "Jug_Sale": "AGUSTIN FERNANDO GARABEDIAN",
+   "CarneEntra": "41070",
+   "Jug_Entra": "MATEO BIQUE",
+   "camiseta": "23",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "45240",
+   "Jug_Sale": "JOSE MAURO COSENTINO",
+   "CarneEntra": "40179",
+   "Jug_Entra": "AGUSTIN FERNANDO GARABEDIAN",
+   "camiseta": "9",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "44857",
+   "Nombre": "FRANCO SORMANI",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68297",
+   "Nombre": "MAXIMILIANO CAMBELL",
+   "minutos": "7",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "36872",
+   "Nombre": "FEDERICO LUIS BISCARDI",
+   "minutos": "36",
+   "EnContra": "1"
+  },
+  {
+   "carne": "40179",
+   "Nombre": "AGUSTIN FERNANDO GARABEDIAN",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "50788",
+   "Nombre": "JUAN ANDRES VARELA",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "50788",
+   "Nombre": "JUAN ANDRES VARELA",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56209",
+   "Nombre": "EMILIANO DI LASCIO",
+   "minutos": "51",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

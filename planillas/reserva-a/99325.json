@@ -1,0 +1,239 @@
+{
+ "id": "99325",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "CEIBOS CLUB",
+ "visitante": "TENIS EL PINAR",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "55",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-05-30 00:00:00",
+  "Fecha_fin": "2026-05-30 00:00:00",
+  "Locatario": "CEIBOS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "24481",
+   "Nombre": "AGUSTIN LISORIO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "43274",
+   "Nombre": "RAFAEL MONESTIER",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41651",
+   "Nombre": "JOSE MIGUEL MARTIRENA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "41897",
+   "Nombre": "IGNACIO CABRERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "54407",
+   "Nombre": "FRANCISCO ETCHEGOIMBERRY",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53505",
+   "Nombre": "SANTIAGO LOPEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "50878",
+   "Nombre": "JOAQUIN PORTEIRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "32388",
+   "Nombre": "AGUSTIN CALVO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "41411",
+   "Nombre": "JOAQUIN ALEJANDRO GOMEZ",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23902",
+   "Nombre": "ENRIQUE MARTIN BOIX",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "46925",
+   "Nombre": "ATILIO FRANCISCO NARANCIO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52627",
+   "Nombre": "JOAQUIN BERRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50899",
+   "Nombre": "EMILIANO CABRERA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "49076",
+   "Nombre": "SANTIAGO NICOLAS D’ANGELO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "48653",
+   "Nombre": "MATIAS  BERNARDO VAZQUEZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50666",
+   "Nombre": "FACUNDO LAGO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "48654",
+   "Nombre": "JUAN PABLO LOCATELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "46830",
+   "Nombre": "JULIAN NESTOR MUHA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "38029",
+   "Nombre": "NICOLAS AMOEDO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48870",
+   "Nombre": "RENZO FORTI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "48796",
+   "Nombre": "MARTIN JAVIER DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "46848",
+   "Nombre": "FACUNDO BERGARA",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50878",
+   "Jug_Sale": "JOAQUIN PORTEIRO",
+   "CarneEntra": "54403",
+   "Jug_Entra": "IGNACIO GIMENEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23902",
+   "Jug_Sale": "ENRIQUE MARTIN BOIX",
+   "CarneEntra": "51136",
+   "Jug_Entra": "JOAQUIN NARANCIO",
+   "camiseta": "21",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "41411",
+   "Jug_Sale": "JOAQUIN ALEJANDRO GOMEZ",
+   "CarneEntra": "55123",
+   "Jug_Entra": "RAFAEL MARIANO BERAMENDI",
+   "camiseta": "19",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "53505",
+   "Jug_Sale": "SANTIAGO LOPEZ",
+   "CarneEntra": "41605",
+   "Jug_Entra": "NICOLAS MURO",
+   "camiseta": "17",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48870",
+   "Jug_Sale": "RENZO FORTI",
+   "CarneEntra": "48657",
+   "Jug_Entra": "BRUNO CABRERA",
+   "camiseta": "9",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "46830",
+   "Jug_Sale": "JULIAN NESTOR MUHA",
+   "CarneEntra": "52631",
+   "Jug_Entra": "SANTIAGO DANILO TARDEO",
+   "camiseta": "27",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "50899",
+   "Jug_Sale": "EMILIANO CABRERA",
+   "CarneEntra": "48656",
+   "Jug_Entra": "LEANDRO GABRIEL TABEIRA",
+   "camiseta": "80",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23902",
+   "Nombre": "ENRIQUE MARTIN BOIX",
+   "minutos": "83",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

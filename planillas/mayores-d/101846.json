@@ -1,0 +1,282 @@
+{
+ "id": "101846",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 13,
+ "fechaHora": "2026-09-13 09:00:00",
+ "cancha": "SAN EUGENIO",
+ "local": "SAN EUGENIO",
+ "visitante": "SCUOLA PALERMO",
+ "gl": 4,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "462",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "SAN EUGENIO",
+  "Fecha_Inicio": "2026-09-13 11:00:00",
+  "Fecha_fin": "2026-09-13 11:00:00",
+  "Locatario": "SAN EUGENIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "1",
+  "Visitante": "SCUOLA PALERMO",
+  "goles_visitante": "4",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61018",
+   "Nombre": "MATEO RAMON GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46931",
+   "Nombre": "HUGO ANDRES PIRIZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53079",
+   "Nombre": "TOMAS FRANCISCO DE LOS SANTOS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "48023",
+   "Nombre": "RAMIRO MACHADO",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61746",
+   "Nombre": "SANTIAGO BRAZEIRO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "37223",
+   "Nombre": "MATIAS FUQUES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "50516",
+   "Nombre": "ALVARO GERMAN MARTINEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68963",
+   "Nombre": "FACUNDO NICOLAS MORALES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "37566",
+   "Nombre": "FELIPE CARBALLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66321",
+   "Nombre": "RUBEN ANSELMO PAZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "62042",
+   "Nombre": "LUCAS AGUSTIN VIANNA",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "48909",
+   "Nombre": "RAFAEL MATEO FARINA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "53285",
+   "Nombre": "FACUNDO ELLAURI",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "43342",
+   "Nombre": "HERNAN FEDERICO LUST",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "42543",
+   "Nombre": "FACUNDO LEANDRO CONCARI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "48901",
+   "Nombre": "FRANCO ARCARI",
+   "camiseta": "40",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56827",
+   "Nombre": "AGUSTIN FACUNDO ANTUNA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "46228",
+   "Nombre": "FEDERICO LOPEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49237",
+   "Nombre": "JOAQUIN LAGO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48984",
+   "Nombre": "JOAQUIN MANUEL POMPA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "54441",
+   "Nombre": "GIANLUCA GANDOLFO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "37817",
+   "Nombre": "MARTIN FERNANDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66321",
+   "Jug_Sale": "RUBEN ANSELMO PAZ",
+   "CarneEntra": "62839",
+   "Jug_Entra": "IRVIN FACUNDO SOSA",
+   "camiseta": "97",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "61746",
+   "Jug_Sale": "SANTIAGO BRAZEIRO",
+   "CarneEntra": "44387",
+   "Jug_Entra": "BRUNO ALBERTO DE LOS SANTOS",
+   "camiseta": "66",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54441",
+   "Jug_Sale": "GIANLUCA GANDOLFO",
+   "CarneEntra": "42688",
+   "Jug_Entra": "MARIO TADEO CURBELO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53285",
+   "Jug_Sale": "FACUNDO ELLAURI",
+   "CarneEntra": "53635",
+   "Jug_Entra": "JUAN PEDRO RESTUCCIA",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49237",
+   "Jug_Sale": "JOAQUIN LAGO",
+   "CarneEntra": "56929",
+   "Jug_Entra": "SANTIAGO GABRIEL MORALES",
+   "camiseta": "30",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "43342",
+   "Jug_Sale": "HERNAN FEDERICO LUST",
+   "CarneEntra": "49753",
+   "Jug_Entra": "AGUSTIN BENEDETTI",
+   "camiseta": "4",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "48984",
+   "Jug_Sale": "JOAQUIN MANUEL POMPA",
+   "CarneEntra": "49176",
+   "Jug_Entra": "PEDRO AGUERRONDO",
+   "camiseta": "86",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46931",
+   "Nombre": "HUGO ANDRES PIRIZ",
+   "minutos": "77",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48023",
+   "Nombre": "RAMIRO MACHADO",
+   "minutos": "57",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50516",
+   "Nombre": "ALVARO GERMAN MARTINEZ",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53079",
+   "Nombre": "TOMAS FRANCISCO DE LOS SANTOS",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "37817",
+   "Nombre": "MARTIN FERNANDEZ",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "37817",
+   "Nombre": "MARTIN FERNANDEZ",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "42688",
+   "Nombre": "MARIO TADEO CURBELO",
+   "minutos": "61",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48984",
+   "Nombre": "JOAQUIN MANUEL POMPA",
+   "minutos": "79",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

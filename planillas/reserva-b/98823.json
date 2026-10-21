@@ -1,0 +1,288 @@
+{
+ "id": "98823",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS BLANCO",
+ "visitante": "HEBRAICA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "153",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-05-16 11:00:00",
+  "Fecha_fin": "2026-05-16 11:00:00",
+  "Locatario": "OLD CHRISTIANS BLANCO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "HEBRAICA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55568",
+   "Nombre": "FRANCISCO AÑON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47120",
+   "Nombre": "TOBIAS FEDERICO HOUNIE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67430",
+   "Nombre": "ANDRES VILLAR",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51235",
+   "Nombre": "JUAN MARQUES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58500",
+   "Nombre": "FACUNDO LAFFITTE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46844",
+   "Nombre": "JOSE ANTONIO GONZALEZ BERRO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52607",
+   "Nombre": "GUZMAN ARECHAVALETA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67427",
+   "Nombre": "LUCAS DE ACHAVAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51502",
+   "Nombre": "DIEGO VIGORITO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52622",
+   "Nombre": "NICOLAS CLEMENTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "50316",
+   "Nombre": "MANUEL IRULEGUY",
+   "camiseta": "70",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45517",
+   "Nombre": "MATIAS WAPNIARSKY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45511",
+   "Nombre": "LUCAS LEVIN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45526",
+   "Nombre": "EITAN WUHL",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "49164",
+   "Nombre": "SEBASTIAN AKERMAN",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "47247",
+   "Nombre": "ARIEL SOBOL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62767",
+   "Nombre": "MATIAS PINTO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47120",
+   "Jug_Sale": "TOBIAS FEDERICO HOUNIE",
+   "CarneEntra": "48918",
+   "Jug_Entra": "JUAN IGNACIO ROSPIDE",
+   "camiseta": "6",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52622",
+   "Jug_Sale": "NICOLAS CLEMENTE",
+   "CarneEntra": "67547",
+   "Jug_Entra": "PEDRO ALEJO AROCENA",
+   "camiseta": "96",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "51502",
+   "Jug_Sale": "DIEGO VIGORITO",
+   "CarneEntra": "65020",
+   "Jug_Entra": "MATEO ATANASIO SIERRA",
+   "camiseta": "23",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49164",
+   "Jug_Sale": "SEBASTIAN AKERMAN",
+   "CarneEntra": "37317",
+   "Jug_Entra": "MAURICIO WAITER",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62767",
+   "Jug_Sale": "MATIAS PINTO",
+   "CarneEntra": "59512",
+   "Jug_Entra": "NICOLAS WILDBAUM",
+   "camiseta": "30",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "62767",
+   "Jug_Sale": "MATIAS PINTO",
+   "CarneEntra": "59244",
+   "Jug_Entra": "AGUSTÌN PILAS",
+   "camiseta": "75",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "45526",
+   "Jug_Sale": "EITAN WUHL",
+   "CarneEntra": "52946",
+   "Jug_Entra": "SEBASTIAN LICHT",
+   "camiseta": "3",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "47247",
+   "Jug_Sale": "ARIEL SOBOL",
+   "CarneEntra": "47421",
+   "Jug_Entra": "NICOLAS JAKOB",
+   "camiseta": "77",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "53835",
+   "Jug_Sale": "MATEO NAHMIAS",
+   "CarneEntra": "54753",
+   "Jug_Entra": "JOAQUIN BANEWUR",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56384",
+   "Jug_Sale": "MATIAS SZAFRAN",
+   "CarneEntra": "52405",
+   "Jug_Entra": "ARIEL SUHAMI",
+   "camiseta": "71",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50316",
+   "Nombre": "MANUEL IRULEGUY",
+   "minutos": "23",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67547",
+   "Nombre": "PEDRO ALEJO AROCENA",
+   "minutos": "66",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "54753",
+   "Nombre": "JOAQUIN BANEWUR",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "minutos": "44",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

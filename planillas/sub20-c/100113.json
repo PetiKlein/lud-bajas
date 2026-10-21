@@ -1,0 +1,298 @@
+{
+ "id": "100113",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "FLORES UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "309",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-13 15:30:00",
+  "Fecha_fin": "2026-06-13 15:30:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "FLORES UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65542",
+   "Nombre": "IGNACIO CIRIGLIANO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64099",
+   "Nombre": "JUAN MANUEL CORNEY",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "67673",
+   "Nombre": "EMILIANO BARBOSA",
+   "camiseta": "84",
+   "Capitan": ""
+  },
+  {
+   "carne": "67671",
+   "Nombre": "JUAN IGNACIO SÀNCHEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "61869",
+   "Nombre": "FELIPE DASTUGUE",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "63347",
+   "Nombre": "VALENTIN ROBKIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64101",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "61069",
+   "Nombre": "VICENTE CASTRO",
+   "camiseta": "96",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64934",
+   "Nombre": "PEDRO MANUEL CURBELO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "54604",
+   "Nombre": "FACUNDO ANDRES BENTANCOR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62135",
+   "Nombre": "VALENTIN ESPINOSA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62152",
+   "Nombre": "LUCAS POLLERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65219",
+   "Nombre": "GASPAR SWINDEN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "68367",
+   "Nombre": "JOAQUIN ROMERO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63030",
+   "Nombre": "FRANCO BERRUTTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59234",
+   "Nombre": "CAMILO RIVAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60655",
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "57672",
+   "Nombre": "SANTIAGO DIEGO OLAZABAL",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67238",
+   "Jug_Sale": "SANTIAGO BALTASAR",
+   "CarneEntra": "64094",
+   "Jug_Entra": "IGNACIO RODRIGUEZ",
+   "camiseta": "72",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "64099",
+   "Jug_Sale": "JUAN MANUEL CORNEY",
+   "CarneEntra": "65547",
+   "Jug_Entra": "JOSE IGNACIO LESSA",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67669",
+   "Jug_Sale": "FELIPE AGUSTIN PINO",
+   "CarneEntra": "67239",
+   "Jug_Entra": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "14",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64101",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "67996",
+   "Jug_Entra": "MANUEL DE PAZOS",
+   "camiseta": "13",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "63347",
+   "Jug_Sale": "VALENTIN ROBKIN",
+   "CarneEntra": "64103",
+   "Jug_Entra": "ENZO YACI",
+   "camiseta": "17",
+   "minutos": "92"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68367",
+   "Jug_Sale": "JOAQUIN ROMERO",
+   "CarneEntra": "68542",
+   "Jug_Entra": "DIEGO ROMAN GONZALEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57672",
+   "Jug_Sale": "SANTIAGO DIEGO OLAZABAL",
+   "CarneEntra": "62142",
+   "Jug_Entra": "GAEL LERCARI",
+   "camiseta": "19",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "60655",
+   "Jug_Sale": "MATTHIAS SEBASTIAN LAUBE",
+   "CarneEntra": "66840",
+   "Jug_Entra": "AGUSTIN CHAPEZ",
+   "camiseta": "4",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62135",
+   "Jug_Sale": "VALENTIN ESPINOSA",
+   "CarneEntra": "65759",
+   "Jug_Entra": "ROCCO SALVAGNO",
+   "camiseta": "17",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "63030",
+   "Jug_Sale": "FRANCO BERRUTTI",
+   "CarneEntra": "68367",
+   "Jug_Entra": "JOAQUIN ROMERO",
+   "camiseta": "21",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "65219",
+   "Jug_Sale": "GASPAR SWINDEN",
+   "CarneEntra": "60655",
+   "Jug_Entra": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "27",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "59234",
+   "Jug_Sale": "CAMILO RIVAS",
+   "CarneEntra": "61527",
+   "Jug_Entra": "MATIAS URIOSTE",
+   "camiseta": "12",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64101",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64101",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59234",
+   "Nombre": "CAMILO RIVAS",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "minutos": "68",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

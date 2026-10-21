@@ -1,0 +1,293 @@
+{
+ "id": "98110",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 15:30:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "PALLOTTI UNIVERSITARIO",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 0,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "245",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-04-11 17:20:00",
+  "Fecha_fin": "2026-04-11 17:20:00",
+  "Locatario": "PALLOTTI UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67694",
+   "Nombre": "EMILIANO ISMAEL PEREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58096",
+   "Nombre": "SANTIAGO LUNGO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67696",
+   "Nombre": "JUAN MARTIN BANIZI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67699",
+   "Nombre": "EMILIANO MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64444",
+   "Nombre": "FEDERICO AGUSTIN SOUZA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "60750",
+   "Nombre": "LUCAS AGUSTIN BILBAO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67706",
+   "Nombre": "ALEJANDRO SEBASTIAN PEREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "67705",
+   "Nombre": "THIAGO EDUARDO QUIROGA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67704",
+   "Nombre": "RICHARD GERMAN RIBEIROS",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "67707",
+   "Nombre": "LUCAS THIAGO RODRIGUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67128",
+   "Nombre": "FRANCISCO VERNASSA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "54757",
+   "Nombre": "LUIS IGNACIO MATTERA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67386",
+   "Nombre": "IAN MOLDAVSKY",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "60337",
+   "Nombre": "MATEO GLISENTI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66778",
+   "Nombre": "SANTIAGO MACEDO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64219",
+   "Nombre": "GASTON MARTINEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67130",
+   "Nombre": "JUAN FLEITAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62420",
+   "Nombre": "MATIAS LABORDE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "59555",
+   "Nombre": "JUAN MANUEL BIA",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67704",
+   "Jug_Sale": "RICHARD GERMAN RIBEIROS",
+   "CarneEntra": "67708",
+   "Jug_Entra": "ALEJO MANEIRO",
+   "camiseta": "80",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67705",
+   "Jug_Sale": "THIAGO EDUARDO QUIROGA",
+   "CarneEntra": "60488",
+   "Jug_Entra": "FRANCISCO JESUS CUADRO",
+   "camiseta": "3",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "67696",
+   "Jug_Sale": "JUAN MARTIN BANIZI",
+   "CarneEntra": "67710",
+   "Jug_Entra": "GONZALO SEBASTIAN PEREIRA",
+   "camiseta": "17",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67128",
+   "Jug_Sale": "FRANCISCO VERNASSA",
+   "CarneEntra": "66732",
+   "Jug_Entra": "FACUNDO GALLINO",
+   "camiseta": "22",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "54757",
+   "Jug_Sale": "LUIS IGNACIO MATTERA",
+   "CarneEntra": "57343",
+   "Jug_Entra": "FEDERICO PELUFFO",
+   "camiseta": "18",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "67386",
+   "Jug_Sale": "IAN MOLDAVSKY",
+   "CarneEntra": "56611",
+   "Jug_Entra": "SEBASTIAN SAR",
+   "camiseta": "99",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "64219",
+   "Jug_Sale": "GASTON MARTINEZ",
+   "CarneEntra": "66779",
+   "Jug_Entra": "CLAUDIO DE LEON",
+   "camiseta": "23",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "60337",
+   "Jug_Sale": "MATEO GLISENTI",
+   "CarneEntra": "66610",
+   "Jug_Entra": "FRANCO MAISSONAVE",
+   "camiseta": "32",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "59563",
+   "Jug_Sale": "FEDERICO GUICHON",
+   "CarneEntra": "66525",
+   "Jug_Entra": "MATIAS QUEIJO",
+   "camiseta": "61",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "56305",
+   "Jug_Sale": "FRANCO GLISENTI",
+   "CarneEntra": "62873",
+   "Jug_Entra": "MATEO AGUSTIN ARDENTE",
+   "camiseta": "41",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "54757",
+   "Nombre": "LUIS IGNACIO MATTERA",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59555",
+   "Nombre": "JUAN MANUEL BIA",
+   "minutos": "76",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62420",
+   "Nombre": "MATIAS LABORDE",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67130",
+   "Nombre": "JUAN FLEITAS",
+   "minutos": "24",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67130",
+   "Nombre": "JUAN FLEITAS",
+   "minutos": "22",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67130",
+   "Nombre": "JUAN FLEITAS",
+   "minutos": "84",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

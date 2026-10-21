@@ -1,0 +1,293 @@
+{
+ "id": "98111",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 15:30:00",
+ "cancha": "COMPLEJO DFC",
+ "local": "DFC",
+ "visitante": "MONTEVIDEO COLLEGE",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "247",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DFC",
+  "Fecha_Inicio": "2026-04-11 17:30:00",
+  "Fecha_fin": "2026-04-11 17:30:00",
+  "Locatario": "DFC",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "MONTEVIDEO COLLEGE",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60778",
+   "Nombre": "FACUNDO LACERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64638",
+   "Nombre": "ENZO DANIEL CAMPIÑO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56925",
+   "Nombre": "EZEQUIEL LUCAS VIGNOLI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67480",
+   "Nombre": "MATIAS LUCIANO MOYA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67470",
+   "Nombre": "THIAGO JOEL DOS SANTOS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67460",
+   "Nombre": "MATHIAS NAHUEL FAGUNDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67462",
+   "Nombre": "BLAZ DANCKAR LANGHAIN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67598",
+   "Nombre": "THIAGO ALEXANDER LOPEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67590",
+   "Nombre": "GASTON MATEO ALONSO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67602",
+   "Nombre": "VALENTINO LAUTARO DE ARMAS",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66348",
+   "Nombre": "FELIPE DE BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66020",
+   "Nombre": "FACUNDO DOMINGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58567",
+   "Nombre": "NAHUEL DAVID REBELLO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63442",
+   "Nombre": "MATEO FONT",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "60227",
+   "Nombre": "FRANCISCO LUCIO DUPONT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67433",
+   "Nombre": "IGNACIO STANHAM",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64410",
+   "Nombre": "JUAN ANTONIO QUINTAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61650",
+   "Nombre": "MATIAS MARQUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62329",
+   "Nombre": "FACUNDO ABELENDA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59185",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62874",
+   "Nombre": "JUAN MANUEL CARBONE",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56925",
+   "Jug_Sale": "EZEQUIEL LUCAS VIGNOLI",
+   "CarneEntra": "67607",
+   "Jug_Entra": "LAUTARO ALEXANDER ALANIS",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67460",
+   "Jug_Sale": "MATHIAS NAHUEL FAGUNDEZ",
+   "CarneEntra": "67613",
+   "Jug_Entra": "FEDERICO RAVA",
+   "camiseta": "13",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67470",
+   "Jug_Sale": "THIAGO JOEL DOS SANTOS",
+   "CarneEntra": "67469",
+   "Jug_Entra": "SANTIAGO DANIEL DE LA LLANA",
+   "camiseta": "16",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "67590",
+   "Jug_Sale": "GASTON MATEO ALONSO",
+   "CarneEntra": "67604",
+   "Jug_Entra": "IGNACIO GARCIA",
+   "camiseta": "14",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67462",
+   "Jug_Sale": "BLAZ DANCKAR LANGHAIN",
+   "CarneEntra": "67464",
+   "Jug_Entra": "VALENTIN SALVADOR ALFARO",
+   "camiseta": "15",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67602",
+   "Jug_Sale": "VALENTINO LAUTARO DE ARMAS",
+   "CarneEntra": "56925",
+   "Jug_Entra": "EZEQUIEL LUCAS VIGNOLI",
+   "camiseta": "7",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61650",
+   "Jug_Sale": "MATIAS MARQUEZ",
+   "CarneEntra": "61535",
+   "Jug_Entra": "MANUEL TARANTO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60227",
+   "Jug_Sale": "FRANCISCO LUCIO DUPONT",
+   "CarneEntra": "64762",
+   "Jug_Entra": "NICOLAS VILLA",
+   "camiseta": "71",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64410",
+   "Jug_Sale": "JUAN ANTONIO QUINTAS",
+   "CarneEntra": "67432",
+   "Jug_Entra": "SANTI CARRERA",
+   "camiseta": "3",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "63442",
+   "Jug_Sale": "MATEO FONT",
+   "CarneEntra": "65259",
+   "Jug_Entra": "AGUSTIN PONCE DE LEON",
+   "camiseta": "41",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "66020",
+   "Jug_Sale": "FACUNDO DOMINGUEZ",
+   "CarneEntra": "64913",
+   "Jug_Entra": "JUAN MANUEL FERRERI",
+   "camiseta": "18",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "62329",
+   "Jug_Sale": "FACUNDO ABELENDA",
+   "CarneEntra": "64392",
+   "Jug_Entra": "MATIAS IVAÑEZ",
+   "camiseta": "14",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "62874",
+   "Jug_Sale": "JUAN MANUEL CARBONE",
+   "CarneEntra": "63443",
+   "Jug_Entra": "IGNACIO PEREIRO",
+   "camiseta": "10",
+   "minutos": "10"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67460",
+   "Nombre": "MATHIAS NAHUEL FAGUNDEZ",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67480",
+   "Nombre": "MATIAS LUCIANO MOYA",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

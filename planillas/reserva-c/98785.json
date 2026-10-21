@@ -1,0 +1,289 @@
+{
+ "id": "98785",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "CENTRO CRISTOBAL COLON",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "278",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-05-16 00:00:00",
+  "Fecha_fin": "2026-05-16 00:00:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CENTRO CRISTOBAL COLON",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49283",
+   "Nombre": "SANTIAGO BARBOZA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54928",
+   "Nombre": "ISMAEL IMPERIAL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "48424",
+   "Nombre": "IGNACIO ROURE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66777",
+   "Nombre": "SANTIAGO DAVRIEUX",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67627",
+   "Nombre": "AGUSTIN MARENCO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55415",
+   "Nombre": "BRYAN NAHUEL PEREYRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "52654",
+   "Nombre": "CRISTHIAN ALEXANDER TABEIRA",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64261",
+   "Nombre": "SANTIAGO HERRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63850",
+   "Nombre": "FACUNDO NAHUEL VIDAL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55027",
+   "Nombre": "FERNANDO RIQUEL",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61602",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "50423",
+   "Nombre": "MARTIN GARCIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52424",
+   "Nombre": "MARCOS DANIEL CARREÑO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "62132",
+   "Nombre": "MARCOS GABRIEL BOYE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62131",
+   "Nombre": "GONZALO RICCONE",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63517",
+   "Nombre": "FELIPE FERREIRA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "59792",
+   "Nombre": "MATEO ARMANDO OLIVERA",
+   "camiseta": "88",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66777",
+   "Jug_Sale": "SANTIAGO DAVRIEUX",
+   "CarneEntra": "39680",
+   "Jug_Entra": "FELIX ANDRES FORASTIER",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55052",
+   "Jug_Sale": "AGUSTIN RODRIGUEZ",
+   "CarneEntra": "24412",
+   "Jug_Entra": "RODRIGO CADENAS",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67627",
+   "Jug_Sale": "AGUSTIN MARENCO",
+   "CarneEntra": "66777",
+   "Jug_Entra": "SANTIAGO DAVRIEUX",
+   "camiseta": "12",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "48424",
+   "Jug_Sale": "IGNACIO ROURE",
+   "CarneEntra": "55052",
+   "Jug_Entra": "AGUSTIN RODRIGUEZ",
+   "camiseta": "7",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63517",
+   "Jug_Sale": "FELIPE FERREIRA",
+   "CarneEntra": "57654",
+   "Jug_Entra": "DONATO NOCETTI",
+   "camiseta": "5",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "52424",
+   "Jug_Sale": "MARCOS DANIEL CARREÑO",
+   "CarneEntra": "56887",
+   "Jug_Entra": "JUAN MANUEL MASEDA",
+   "camiseta": "4",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "62132",
+   "Jug_Sale": "MARCOS GABRIEL BOYE",
+   "CarneEntra": "55648",
+   "Jug_Entra": "DIEGO MONTERO",
+   "camiseta": "10",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "61897",
+   "Jug_Sale": "MATIAS MARCELO VERO",
+   "CarneEntra": "67324",
+   "Jug_Entra": "FRANCO VALIENTE",
+   "camiseta": "31",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "55027",
+   "Jug_Sale": "FERNANDO RIQUEL",
+   "CarneEntra": "56895",
+   "Jug_Entra": "MATIAS NOYA",
+   "camiseta": "19",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "59792",
+   "Jug_Sale": "MATEO ARMANDO OLIVERA",
+   "CarneEntra": "58071",
+   "Jug_Entra": "FELIPE IRIGOYEN",
+   "camiseta": "7",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "62131",
+   "Jug_Sale": "GONZALO RICCONE",
+   "CarneEntra": "62352",
+   "Jug_Entra": "SANTIAGO RICCONE",
+   "camiseta": "2",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "minutos": "73",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55648",
+   "Nombre": "DIEGO MONTERO",
+   "minutos": "73",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55648",
+   "Nombre": "DIEGO MONTERO",
+   "minutos": "94",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FACUNDO NAHUEL VIDAL",
+   "observaciones": ""
+  }
+ ]
+}

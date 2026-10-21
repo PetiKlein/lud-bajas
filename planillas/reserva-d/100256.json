@@ -1,0 +1,277 @@
+{
+ "id": "100256",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "CLUB SOCIAL PIEDRAS BLANCAS",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "485",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-06-20 13:20:00",
+  "Fecha_fin": "2026-06-20 13:20:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB SOCIAL PIEDRAS BLANCAS",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "40068",
+   "Nombre": "SANTIAGO BOUSO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37723",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57542",
+   "Nombre": "DIEGO SEBASTIAN DUSIO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "47098",
+   "Nombre": "JUAN IGNACIO COITO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60622",
+   "Nombre": "TOMAS FELIPPONE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55560",
+   "Nombre": "JUAN MATEO PELUFO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56622",
+   "Nombre": "GONZALO APKARIAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "37188",
+   "Nombre": "CLAUDIO SEBASTIAN FERREIRA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "53762",
+   "Nombre": "MAXIMO VERA",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59338",
+   "Nombre": "LEANDRO SOZZO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64063",
+   "Nombre": "FABRICIO NICOLAS HERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59330",
+   "Nombre": "JUAN PABLO CUÑA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63862",
+   "Nombre": "ITAN ROMAN MANEIRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56086",
+   "Nombre": "DYLAN FELIX",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61345",
+   "Nombre": "ENZO FABRIZIO BRUNO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64061",
+   "Nombre": "NESTOR RAEL VIDELA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59341",
+   "Nombre": "LUCA CORREA PAIVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66573",
+   "Nombre": "EZEQUIEL MICHAEL TOURNE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61423",
+   "Nombre": "ALAN EZEQUIEL DE LOS SANTOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66571",
+   "Nombre": "ALEXANDER SHEIDA PATRON",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56622",
+   "Jug_Sale": "GONZALO APKARIAN",
+   "CarneEntra": "56781",
+   "Jug_Entra": "FACUNDO MENENDEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53762",
+   "Jug_Sale": "MAXIMO VERA",
+   "CarneEntra": "57624",
+   "Jug_Entra": "MANUEL THIAGO MARTINEZ",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57542",
+   "Jug_Sale": "DIEGO SEBASTIAN DUSIO",
+   "CarneEntra": "56630",
+   "Jug_Entra": "GASTON MACCHIA",
+   "camiseta": "35",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "55560",
+   "Jug_Sale": "JUAN MATEO PELUFO",
+   "CarneEntra": "56626",
+   "Jug_Entra": "SANTIAGO GONZALEZ",
+   "camiseta": "88",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "52971",
+   "Jug_Sale": "JUAN PABLO FERRARI",
+   "CarneEntra": "55202",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "29",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59341",
+   "Jug_Sale": "LUCA CORREA PAIVA",
+   "CarneEntra": "60906",
+   "Jug_Entra": "FACUNDO MANUEL VILLALBA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64063",
+   "Jug_Sale": "FABRICIO NICOLAS HERNANDEZ",
+   "CarneEntra": "67459",
+   "Jug_Entra": "GABRIEL MATIAS PINASCO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59330",
+   "Jug_Sale": "JUAN PABLO CUÑA",
+   "CarneEntra": "58509",
+   "Jug_Entra": "WILSON DANIEL CORREA",
+   "camiseta": "18",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "61423",
+   "Jug_Sale": "ALAN EZEQUIEL DE LOS SANTOS",
+   "CarneEntra": "35047",
+   "Jug_Entra": "LUIS MARCELO PEREIRA",
+   "camiseta": "99",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "66571",
+   "Jug_Sale": "ALEXANDER SHEIDA PATRON",
+   "CarneEntra": "59327",
+   "Jug_Entra": "FELIPE CALIXTO",
+   "camiseta": "69",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "61345",
+   "Jug_Sale": "ENZO FABRIZIO BRUNO",
+   "CarneEntra": "59326",
+   "Jug_Entra": "JUAN IGNACIO SERPA",
+   "camiseta": "30",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "61423",
+   "Nombre": "ALAN EZEQUIEL DE LOS SANTOS",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61423",
+   "Nombre": "ALAN EZEQUIEL DE LOS SANTOS",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

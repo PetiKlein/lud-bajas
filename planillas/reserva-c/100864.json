@@ -1,0 +1,332 @@
+{
+ "id": "100864",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 15,
+ "fechaHora": "2026-08-13 21:00:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "E.L.F.",
+ "visitante": "NUMA TURCATTI",
+ "gl": 5,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "353",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-08-13 23:00:00",
+  "Fecha_fin": "2026-08-13 23:00:00",
+  "Locatario": "E.L.F.",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "NUMA TURCATTI",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41722",
+   "Nombre": "NICOLAS FREYER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45411",
+   "Nombre": "MAXIMILIANO PARODI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "41367",
+   "Nombre": "FRANCISCO BARTESAGHI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "56280",
+   "Nombre": "SEBASTIAN MACHIN",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52276",
+   "Nombre": "SANTIAGO CARAVIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49458",
+   "Nombre": "GUZMAN RODRIGUEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "43672",
+   "Nombre": "ALEJO CORRADI",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48949",
+   "Nombre": "IGNACIO JOSE PALLAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "42784",
+   "Nombre": "JOSE NICOLAS ROSA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "42786",
+   "Nombre": "MATEO CORRADI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46858",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49283",
+   "Nombre": "SANTIAGO BARBOZA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "39680",
+   "Nombre": "FELIX ANDRES FORASTIER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68506",
+   "Nombre": "NICOLAS MENDEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59482",
+   "Nombre": "FACUNDO ESCALANTE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "39467",
+   "Nombre": "MATEO YUVET",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "54090",
+   "Nombre": "HERNAN ARIEL CAÑETE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54622",
+   "Nombre": "JUAN MANUEL CADENAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "camiseta": "46",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42784",
+   "Jug_Sale": "JOSE NICOLAS ROSA",
+   "CarneEntra": "40768",
+   "Jug_Entra": "GERMAN PAZOS",
+   "camiseta": "21",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "43672",
+   "Jug_Sale": "ALEJO CORRADI",
+   "CarneEntra": "44457",
+   "Jug_Entra": "BRUNO GIORDANO",
+   "camiseta": "5",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "46858",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "49456",
+   "Jug_Entra": "IGNACIO ANTONIO CARNEIRO",
+   "camiseta": "13",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "52276",
+   "Jug_Sale": "SANTIAGO CARAVIA",
+   "CarneEntra": "46978",
+   "Jug_Entra": "IGNACIO TASSANI",
+   "camiseta": "18",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "49458",
+   "Jug_Sale": "GUZMAN RODRIGUEZ",
+   "CarneEntra": "47483",
+   "Jug_Entra": "EMMANUEL KAKLOUK",
+   "camiseta": "26",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "42786",
+   "Jug_Sale": "MATEO CORRADI",
+   "CarneEntra": "38084",
+   "Jug_Entra": "GUILLERMO RODRIGUEZ",
+   "camiseta": "14",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "48949",
+   "Jug_Sale": "IGNACIO JOSE PALLAS",
+   "CarneEntra": "55181",
+   "Jug_Entra": "FELIPE GONZALEZ",
+   "camiseta": "23",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49283",
+   "Jug_Sale": "SANTIAGO BARBOZA",
+   "CarneEntra": "42774",
+   "Jug_Entra": "LUIS ESTEBAN FERMER",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54090",
+   "Jug_Sale": "HERNAN ARIEL CAÑETE",
+   "CarneEntra": "54928",
+   "Jug_Entra": "ISMAEL IMPERIAL",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39680",
+   "Jug_Sale": "FELIX ANDRES FORASTIER",
+   "CarneEntra": "67627",
+   "Jug_Entra": "AGUSTIN MARENCO",
+   "camiseta": "50",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "55052",
+   "Jug_Sale": "AGUSTIN RODRIGUEZ",
+   "CarneEntra": "67175",
+   "Jug_Entra": "FACUNDO AGUSTIN DUARTE",
+   "camiseta": "88",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "39467",
+   "Jug_Sale": "MATEO YUVET",
+   "CarneEntra": "56571",
+   "Jug_Entra": "SANTIAGO GUSTAVO ALVAREZ",
+   "camiseta": "18",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "54622",
+   "Jug_Sale": "JUAN MANUEL CADENAS",
+   "CarneEntra": "66777",
+   "Jug_Entra": "SANTIAGO DAVRIEUX",
+   "camiseta": "17",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "68506",
+   "Jug_Sale": "NICOLAS MENDEZ",
+   "CarneEntra": "51090",
+   "Jug_Entra": "JUAN IGNACIO RUSSO",
+   "camiseta": "7",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "41367",
+   "Nombre": "FRANCISCO BARTESAGHI",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "42786",
+   "Nombre": "MATEO CORRADI",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "44457",
+   "Nombre": "BRUNO GIORDANO",
+   "minutos": "76",
+   "EnContra": "0"
+  },
+  {
+   "carne": "46858",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49456",
+   "Nombre": "IGNACIO ANTONIO CARNEIRO",
+   "minutos": "72",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59482",
+   "Nombre": "FACUNDO ESCALANTE",
+   "minutos": "67",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68506",
+   "Nombre": "NICOLAS MENDEZ",
+   "minutos": "24",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

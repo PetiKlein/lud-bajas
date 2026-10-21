@@ -1,0 +1,256 @@
+{
+ "id": "101552",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 12,
+ "fechaHora": "2026-09-06 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "LATINO FUTBOL CLUB",
+ "visitante": "DEPORTIVO MORON",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "449",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-09-06 11:00:00",
+  "Fecha_fin": "2026-09-06 11:00:00",
+  "Locatario": "LATINO FUTBOL CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "DEPORTIVO MORON",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56822",
+   "Nombre": "JUAN IGNACIO TELLECHEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49737",
+   "Nombre": "MATIAS ACQUARONE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "48878",
+   "Nombre": "JUAN JOSE CERVIERI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "44470",
+   "Nombre": "AGUSTIN GABRIEL SILVA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54729",
+   "Nombre": "FRANCISCO MANUEL IGLESIAS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "41594",
+   "Nombre": "GUILLERMO CHALES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "40130",
+   "Nombre": "SANTIAGO VISCAY",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55316",
+   "Nombre": "LUCIANO VICINO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63613",
+   "Nombre": "EUSEBIO CABRAL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42780",
+   "Nombre": "IGNACIO DARWIN GONZALEZ",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "45162",
+   "Nombre": "IGNACIO MONFORT",
+   "camiseta": "52",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53480",
+   "Nombre": "LEANDRO NICOLAS MATOSAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63643",
+   "Nombre": "MATEO FAULORD",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66165",
+   "Nombre": "JOAQUIN MATEU",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63471",
+   "Nombre": "DIEGO PORTELA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "40883",
+   "Nombre": "GONZALO SISMONDI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "44861",
+   "Nombre": "FERNANDO ARIEL MANZI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61328",
+   "Nombre": "MIGUEL ALEJANDRO SZARGALA",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "64206",
+   "Nombre": "LUCA SANTINO LAURENZI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53588",
+   "Nombre": "DIEGO NICOLAS CAVALLERO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64944",
+   "Nombre": "VALENTINO DECIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64686",
+   "Nombre": "EMANUEL NICOLAS PARIS",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44470",
+   "Jug_Sale": "AGUSTIN GABRIEL SILVA",
+   "CarneEntra": "54731",
+   "Jug_Entra": "GERONIMO GAIERO",
+   "camiseta": "21",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "41594",
+   "Jug_Sale": "GUILLERMO CHALES",
+   "CarneEntra": "39393",
+   "Jug_Entra": "ALAN FACUNDO BELDORATI",
+   "camiseta": "50",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "55316",
+   "Jug_Sale": "LUCIANO VICINO",
+   "CarneEntra": "43741",
+   "Jug_Entra": "SANTIAGO ALVES",
+   "camiseta": "3",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "42780",
+   "Jug_Sale": "IGNACIO DARWIN GONZALEZ",
+   "CarneEntra": "53922",
+   "Jug_Entra": "IGNACIO FERNANDEZ",
+   "camiseta": "60",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "45162",
+   "Jug_Sale": "IGNACIO MONFORT",
+   "CarneEntra": "43423",
+   "Jug_Entra": "BRAULIO CAPAGORRY",
+   "camiseta": "22",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64206",
+   "Jug_Sale": "LUCA SANTINO LAURENZI",
+   "CarneEntra": "67490",
+   "Jug_Entra": "LUCAS EDUARDO PEREZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64944",
+   "Jug_Sale": "VALENTINO DECIA",
+   "CarneEntra": "67259",
+   "Jug_Entra": "MANUEL NICOLAS TELIZ",
+   "camiseta": "7",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "61328",
+   "Jug_Sale": "MIGUEL ALEJANDRO SZARGALA",
+   "CarneEntra": "57780",
+   "Jug_Entra": "DIEGO BETTINELLI",
+   "camiseta": "15",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "64686",
+   "Jug_Sale": "EMANUEL NICOLAS PARIS",
+   "CarneEntra": "64945",
+   "Jug_Entra": "AMERICO MAXIMILIANO MILLAN",
+   "camiseta": "17",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "63643",
+   "Jug_Sale": "MATEO FAULORD",
+   "CarneEntra": "68656",
+   "Jug_Entra": "JULIAN SANCHEZ",
+   "camiseta": "18",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,272 @@
+{
+ "id": "99945",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "CARRASCO POLO CLUB",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "69",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-13 13:15:00",
+  "Fecha_fin": "2026-06-13 13:15:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "CARRASCO POLO CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "29859",
+   "Nombre": "GUSTAVO GUZMAN AMESPIL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "53121",
+   "Nombre": "ANDRES RUGGIERO",
+   "camiseta": "90",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54783",
+   "Nombre": "MARTIN SEBASTIAN GONZALEZ",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "45854",
+   "Nombre": "JULIAN VELAZQUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64055",
+   "Nombre": "LAUTHARO MANUEL GUGLIELMONE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "63343",
+   "Nombre": "LORENZO VERON",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53130",
+   "Nombre": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "53070",
+   "Nombre": "JUAN IGNACIO MAGRINI",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53730",
+   "Nombre": "RENZO MACHIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40972",
+   "Nombre": "FRANCISCO TRONCOSO",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53865",
+   "Nombre": "JOAQUIN RETHEMIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "44087",
+   "Nombre": "FRANCISCO ROURE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49037",
+   "Nombre": "SANTIAGO ROVELLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "42512",
+   "Nombre": "NICOLAS BOLGER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49245",
+   "Nombre": "FRANCESCO MASONI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "56444",
+   "Nombre": "DIOGO LAUTARO DE SOUZA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47851",
+   "Nombre": "JUAN IGNACIO URRISA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "43050",
+   "Nombre": "JOAQUIN COMPANY",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "54410",
+   "Nombre": "THIAGO TOLVE",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54783",
+   "Jug_Sale": "MARTIN SEBASTIAN GONZALEZ",
+   "CarneEntra": "37903",
+   "Jug_Entra": "MATEO MUJICA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63343",
+   "Jug_Sale": "LORENZO VERON",
+   "CarneEntra": "45424",
+   "Jug_Entra": "ANDRES VALLARINO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50950",
+   "Jug_Sale": "ISMAEL VILLANUEVA",
+   "CarneEntra": "58943",
+   "Jug_Entra": "MATIAS DIEGO MENDEZ",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "48803",
+   "Jug_Sale": "MATIAS REVELLO",
+   "CarneEntra": "66798",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "84",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "54663",
+   "Jug_Sale": "ESTEBAN SANTIAGO LOPEZ",
+   "CarneEntra": "61079",
+   "Jug_Entra": "JUAN PABLO ZUBILLAGA",
+   "camiseta": "12",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "53130",
+   "Jug_Sale": "JUAN IGNACIO AISCAR",
+   "CarneEntra": "31951",
+   "Jug_Entra": "NICOLAS SALESI",
+   "camiseta": "5",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "45854",
+   "Jug_Sale": "JULIAN VELAZQUEZ",
+   "CarneEntra": "66795",
+   "Jug_Entra": "GERMAN MUJICA",
+   "camiseta": "15",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54410",
+   "Jug_Sale": "THIAGO TOLVE",
+   "CarneEntra": "48906",
+   "Jug_Entra": "LUCIANO MANGINI",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56444",
+   "Jug_Sale": "DIOGO LAUTARO DE SOUZA",
+   "CarneEntra": "54897",
+   "Jug_Entra": "THIAGO HERNANDEZ",
+   "camiseta": "6",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "53865",
+   "Jug_Sale": "JOAQUIN RETHEMIAS",
+   "CarneEntra": "36092",
+   "Jug_Entra": "ANDRES GABRIEL DIPOLITO",
+   "camiseta": "16",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "47851",
+   "Jug_Sale": "JUAN IGNACIO URRISA",
+   "CarneEntra": "41650",
+   "Jug_Entra": "FELIPE ZAS",
+   "camiseta": "17",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "43050",
+   "Jug_Sale": "JOAQUIN COMPANY",
+   "CarneEntra": "58221",
+   "Jug_Entra": "DIEGO ALEJANDRO NOGUERA",
+   "camiseta": "9",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

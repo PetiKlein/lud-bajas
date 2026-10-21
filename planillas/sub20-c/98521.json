@@ -1,0 +1,276 @@
+{
+ "id": "98521",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 15:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "MONTEVIDEO COLLEGE",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "264",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-04-25 17:30:00",
+  "Fecha_fin": "2026-04-25 17:30:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "MONTEVIDEO COLLEGE",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65542",
+   "Nombre": "IGNACIO CIRIGLIANO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67996",
+   "Nombre": "MANUEL DE PAZOS",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "64095",
+   "Nombre": "JUAN ANDRES GARCIA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "61869",
+   "Nombre": "FELIPE DASTUGUE",
+   "camiseta": "84",
+   "Capitan": ""
+  },
+  {
+   "carne": "67675",
+   "Nombre": "MATEO MAURO GONZALEZ",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "67671",
+   "Nombre": "JUAN IGNACIO SÀNCHEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64094",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "63347",
+   "Nombre": "VALENTIN ROBKIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64101",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "58783",
+   "Nombre": "LAUTARO GABRIEL SALLES",
+   "camiseta": "78",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64383",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64913",
+   "Nombre": "JUAN MANUEL FERRERI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59185",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64410",
+   "Nombre": "JUAN ANTONIO QUINTAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62329",
+   "Nombre": "FACUNDO ABELENDA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67433",
+   "Nombre": "IGNACIO STANHAM",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58567",
+   "Nombre": "NAHUEL DAVID REBELLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63443",
+   "Nombre": "IGNACIO PEREIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60227",
+   "Nombre": "FRANCISCO LUCIO DUPONT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62874",
+   "Nombre": "JUAN MANUEL CARBONE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60361",
+   "Nombre": "MATEO VLADIMIR DE BELLIS",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58783",
+   "Jug_Sale": "LAUTARO GABRIEL SALLES",
+   "CarneEntra": "67669",
+   "Jug_Entra": "FELIPE AGUSTIN PINO",
+   "camiseta": "31",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "67996",
+   "Jug_Sale": "MANUEL DE PAZOS",
+   "CarneEntra": "67673",
+   "Jug_Entra": "EMILIANO BARBOSA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67675",
+   "Jug_Sale": "MATEO MAURO GONZALEZ",
+   "CarneEntra": "64501",
+   "Jug_Entra": "DIEGO GONZALEZ",
+   "camiseta": "5",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "64501",
+   "Jug_Sale": "DIEGO GONZALEZ",
+   "CarneEntra": "59588",
+   "Jug_Entra": "GERARDO ROCCO BELLO",
+   "camiseta": "19",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "57022",
+   "Jug_Sale": "JUAN DIEGO CACERES",
+   "CarneEntra": "67241",
+   "Jug_Entra": "FRANCO AGUSTIN POMBO",
+   "camiseta": "32",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "61869",
+   "Jug_Sale": "FELIPE DASTUGUE",
+   "CarneEntra": "64103",
+   "Jug_Entra": "ENZO YACI",
+   "camiseta": "78",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "63347",
+   "Jug_Sale": "VALENTIN ROBKIN",
+   "CarneEntra": "64099",
+   "Jug_Entra": "JUAN MANUEL CORNEY",
+   "camiseta": "86",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62874",
+   "Jug_Sale": "JUAN MANUEL CARBONE",
+   "CarneEntra": "67432",
+   "Jug_Entra": "SANTI CARRERA",
+   "camiseta": "20",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "60361",
+   "Jug_Sale": "MATEO VLADIMIR DE BELLIS",
+   "CarneEntra": "54963",
+   "Jug_Entra": "JUAN IGNACIO CELLA",
+   "camiseta": "7",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "64913",
+   "Jug_Sale": "JUAN MANUEL FERRERI",
+   "CarneEntra": "67434",
+   "Jug_Entra": "BRUNO ECHENIQUE",
+   "camiseta": "17",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67673",
+   "Nombre": "EMILIANO BARBOSA",
+   "minutos": "92",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62874",
+   "Nombre": "JUAN MANUEL CARBONE",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62874",
+   "Nombre": "JUAN MANUEL CARBONE",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

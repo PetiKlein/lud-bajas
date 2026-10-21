@@ -1,0 +1,324 @@
+{
+ "id": "101159",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 4,
+ "fechaHora": "2026-08-27 20:30:00",
+ "cancha": "CARRASCO POLO",
+ "local": "CARRASCO POLO CLUB",
+ "visitante": "DEPORTIVO LS UNIVERSITARIO",
+ "gl": 6,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "152",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "CARRASCO POLO",
+  "Fecha_Inicio": "2026-08-27 22:25:00",
+  "Fecha_fin": "2026-08-27 22:25:00",
+  "Locatario": "CARRASCO POLO CLUB",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68944",
+   "Nombre": "MANUEL EMILIANO RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56790",
+   "Nombre": "JUAN BAUTISTA GUEDES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "59058",
+   "Nombre": "VALENTIN MANGINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59056",
+   "Nombre": "TOMAS MANGINI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "55483",
+   "Nombre": "IGNACIO PAGES",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62036",
+   "Nombre": "FRANCO COLMAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56786",
+   "Nombre": "JUAN DIEGO CASTELLS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59748",
+   "Nombre": "SANTIAGO MENDEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "60516",
+   "Nombre": "ENZO BARIZO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "57347",
+   "Nombre": "FACUNDO COSTA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65460",
+   "Nombre": "JUAN SANTIAGO RADO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60866",
+   "Nombre": "SANTINO SALAVERRY",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59424",
+   "Nombre": "FACUNDO TOMAS GARCIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59545",
+   "Nombre": "EMILIANO JOAQUIN PAREDES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59396",
+   "Nombre": "KEVIN NICOLAS BARRERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59434",
+   "Nombre": "IGNACIO HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56800",
+   "Nombre": "ELIAS LAUTARO IOVINE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56926",
+   "Nombre": "MANUEL NICOLAS COSTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59419",
+   "Nombre": "IMANOL FYNN",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "59409",
+   "Nombre": "FRANCO LARROSA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58544",
+   "Nombre": "PATRICIO SANGUINETTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60516",
+   "Jug_Sale": "ENZO BARIZO",
+   "CarneEntra": "60825",
+   "Jug_Entra": "THIAGO NAHUEL CORDERO",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65460",
+   "Jug_Sale": "JUAN SANTIAGO RADO",
+   "CarneEntra": "67160",
+   "Jug_Entra": "AGUSTIN GARI",
+   "camiseta": "21",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "59056",
+   "Jug_Sale": "TOMAS MANGINI",
+   "CarneEntra": "56795",
+   "Jug_Entra": "JUAN BENJAMIN STIRLING",
+   "camiseta": "4",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "56786",
+   "Jug_Sale": "JUAN DIEGO CASTELLS",
+   "CarneEntra": "63595",
+   "Jug_Entra": "TIAGO LAZO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59058",
+   "Jug_Sale": "VALENTIN MANGINI",
+   "CarneEntra": "66104",
+   "Jug_Entra": "ELIAS AARON RODRIGUEZ",
+   "camiseta": "19",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "59748",
+   "Jug_Sale": "SANTIAGO MENDEZ",
+   "CarneEntra": "60513",
+   "Jug_Entra": "GONZALO DE ALMEIDA",
+   "camiseta": "24",
+   "minutos": "71"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58544",
+   "Jug_Sale": "PATRICIO SANGUINETTI",
+   "CarneEntra": "56419",
+   "Jug_Entra": "JUAN MANUEL VERA",
+   "camiseta": "14",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "59424",
+   "Jug_Sale": "FACUNDO TOMAS GARCIA",
+   "CarneEntra": "63545",
+   "Jug_Entra": "GONZALO DANIEL GRECIET",
+   "camiseta": "7",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "59434",
+   "Jug_Sale": "IGNACIO HERNANDEZ",
+   "CarneEntra": "63645",
+   "Jug_Entra": "TOMAS DANIEL MARTINEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59419",
+   "Jug_Sale": "IMANOL FYNN",
+   "CarneEntra": "56479",
+   "Jug_Entra": "FRANCISCO IVAN FERNANDEZ",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59409",
+   "Jug_Sale": "FRANCO LARROSA",
+   "CarneEntra": "67079",
+   "Jug_Entra": "THIAGO MELGAREJO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56926",
+   "Jug_Sale": "MANUEL NICOLAS COSTA",
+   "CarneEntra": "59419",
+   "Jug_Entra": "IMANOL FYNN",
+   "camiseta": "88",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "56173",
+   "Jug_Sale": "MATHIAS NAHUEL PEREIRA",
+   "CarneEntra": "59409",
+   "Jug_Entra": "FRANCO LARROSA",
+   "camiseta": "23",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57347",
+   "Nombre": "FACUNDO COSTA",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57347",
+   "Nombre": "FACUNDO COSTA",
+   "minutos": "48",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57347",
+   "Nombre": "FACUNDO COSTA",
+   "minutos": "86",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59748",
+   "Nombre": "SANTIAGO MENDEZ",
+   "minutos": "9",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60825",
+   "Nombre": "THIAGO NAHUEL CORDERO",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62036",
+   "Nombre": "FRANCO COLMAN",
+   "minutos": "21",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "minutos": "57",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

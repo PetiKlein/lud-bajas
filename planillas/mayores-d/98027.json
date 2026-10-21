@@ -1,0 +1,271 @@
+{
+ "id": "98027",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 1,
+ "fechaHora": "2026-04-12 09:00:00",
+ "cancha": "JACKSONVILLE",
+ "local": "UNIVERSITARIO VERONES",
+ "visitante": "TROUVILLE UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "366",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "JACKSONVILLE",
+  "Fecha_Inicio": "2026-04-12 10:51:00",
+  "Fecha_fin": "2026-04-12 10:51:00",
+  "Locatario": "UNIVERSITARIO VERONES",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "TROUVILLE UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59610",
+   "Nombre": "NICOLAS SEBASTIAN RIOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66012",
+   "Nombre": "NAHUEL CHIJANE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63503",
+   "Nombre": "FRANCO DELEON",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55294",
+   "Nombre": "ANTHONY GERARDO ACOSTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59441",
+   "Nombre": "GAEL SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61984",
+   "Nombre": "UMBERTO RIJO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "38946",
+   "Nombre": "SANTIAGO ANTONELLI",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53352",
+   "Nombre": "DIEGO FEDERICO CAMPS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64342",
+   "Nombre": "JOAQUIN RIOS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "30236",
+   "Nombre": "FERNADO QUINTANA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64344",
+   "Nombre": "FACUNDO NICOLAS BETARTE",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "50667",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59238",
+   "Nombre": "DIEGO GUSTAVO PENA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52165",
+   "Nombre": "ALFONSO GARCIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "26563",
+   "Nombre": "EDGARDO NOVO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53202",
+   "Nombre": "NICOLAS WAGNER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55533",
+   "Nombre": "EZEQUIEL HERNAN PRADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "57123",
+   "Nombre": "PABLO FERREIRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49080",
+   "Nombre": "IGNACIO MOUGAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "43056",
+   "Nombre": "MATHIAS RODRIGUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "48308",
+   "Nombre": "GASTON MAZZO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "51584",
+   "Nombre": "RENZO ADRIAN CICCARIELLO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59610",
+   "Jug_Sale": "NICOLAS SEBASTIAN RIOS",
+   "CarneEntra": "56990",
+   "Jug_Entra": "ELIAS JOAQUIN MARICHAL",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64342",
+   "Jug_Sale": "JOAQUIN RIOS",
+   "CarneEntra": "31340",
+   "Jug_Entra": "ADRIAN CRHISTIAN DELEON",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "59441",
+   "Jug_Sale": "GAEL SUAREZ",
+   "CarneEntra": "41058",
+   "Jug_Entra": "BRUNO RETAMAR",
+   "camiseta": "19",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "26563",
+   "Jug_Sale": "EDGARDO NOVO",
+   "CarneEntra": "51695",
+   "Jug_Entra": "EZEQUIEL NAHUEL MENDEZ",
+   "camiseta": "14",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "49080",
+   "Jug_Sale": "IGNACIO MOUGAN",
+   "CarneEntra": "46783",
+   "Jug_Entra": "NICOLAS CANOURA",
+   "camiseta": "8",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "51584",
+   "Jug_Sale": "RENZO ADRIAN CICCARIELLO",
+   "CarneEntra": "66456",
+   "Jug_Entra": "GERARDO SEBASTIAN GULARTE",
+   "camiseta": "7",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "43056",
+   "Jug_Sale": "MATHIAS RODRIGUEZ",
+   "CarneEntra": "55536",
+   "Jug_Entra": "FACUNDO GABRIEL PRADO",
+   "camiseta": "13",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "59238",
+   "Jug_Sale": "DIEGO GUSTAVO PENA",
+   "CarneEntra": "57246",
+   "Jug_Entra": "FRANCO MOURGLIA",
+   "camiseta": "21",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "30236",
+   "Nombre": "FERNADO QUINTANA",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64342",
+   "Nombre": "JOAQUIN RIOS",
+   "minutos": "34",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "43056",
+   "Nombre": "MATHIAS RODRIGUEZ",
+   "minutos": "11",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48308",
+   "Nombre": "GASTON MAZZO",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "ANTHONY GERARDO ACOSTA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

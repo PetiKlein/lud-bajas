@@ -1,0 +1,320 @@
+{
+ "id": "98203",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "MARISTAS DEPORTIVO",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "370",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-04-18 13:05:00",
+  "Fecha_fin": "2026-04-18 13:05:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "MARISTAS DEPORTIVO",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53171",
+   "Nombre": "FRANCISCO ACUÑA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64365",
+   "Nombre": "JUAN BAUTISTA ARRUABARRENA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "45778",
+   "Nombre": "SANTIAGO BARBEITO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67387",
+   "Nombre": "GONZALO ESTEVES",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "52810",
+   "Nombre": "ISMAEL VERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "53267",
+   "Nombre": "MAXIMO TORNONI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49636",
+   "Nombre": "AGUSTIN ALGORTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "53386",
+   "Nombre": "AGUSTIN CALVO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44935",
+   "Nombre": "FERNANDO NICOLAS MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66164",
+   "Nombre": "NICOLAS AYESTARAN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "50844",
+   "Nombre": "BRUNO MARTIN PALACIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "55121",
+   "Nombre": "AGUSTIN FRAGA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56508",
+   "Nombre": "MATEO GARCIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66232",
+   "Nombre": "LUCAS MAURICIO CARTAGENA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66621",
+   "Nombre": "NAIM BLANCO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61763",
+   "Nombre": "MATEO CASTRO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58255",
+   "Nombre": "AGUSTIN DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55117",
+   "Nombre": "GUILLERMO VALLE LISBOA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61778",
+   "Nombre": "EDINSON MAXIMILIANO DIAZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45778",
+   "Jug_Sale": "SANTIAGO BARBEITO",
+   "CarneEntra": "64278",
+   "Jug_Entra": "IGNACIO YAÑEZ",
+   "camiseta": "69",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64365",
+   "Jug_Sale": "JUAN BAUTISTA ARRUABARRENA",
+   "CarneEntra": "52402",
+   "Jug_Entra": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53267",
+   "Jug_Sale": "MAXIMO TORNONI",
+   "CarneEntra": "45786",
+   "Jug_Entra": "KEVIN TAUBER",
+   "camiseta": "7",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "52810",
+   "Jug_Sale": "ISMAEL VERA",
+   "CarneEntra": "68074",
+   "Jug_Entra": "NICOLAS RODRIGUEZ",
+   "camiseta": "4",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "52184",
+   "Jug_Sale": "DIEGO GIBERT",
+   "CarneEntra": "54722",
+   "Jug_Entra": "LUCAS SCAFARELLI",
+   "camiseta": "38",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55121",
+   "Jug_Sale": "AGUSTIN FRAGA",
+   "CarneEntra": "56682",
+   "Jug_Entra": "DIEGO RAHI",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61778",
+   "Jug_Sale": "EDINSON MAXIMILIANO DIAZ",
+   "CarneEntra": "61756",
+   "Jug_Entra": "LUCAS DANIEL PEREZ",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66621",
+   "Jug_Sale": "NAIM BLANCO",
+   "CarneEntra": "45830",
+   "Jug_Entra": "MATEO ALFONSO ORDOÑEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61763",
+   "Jug_Sale": "MATEO CASTRO",
+   "CarneEntra": "59908",
+   "Jug_Entra": "EZEQUIEL VALLARI",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "58255",
+   "Jug_Sale": "AGUSTIN DIAZ",
+   "CarneEntra": "66624",
+   "Jug_Entra": "VALENTIN HUGO MENDIZABAL",
+   "camiseta": "20",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "55117",
+   "Jug_Sale": "GUILLERMO VALLE LISBOA",
+   "CarneEntra": "56224",
+   "Jug_Entra": "SANTIAGO DANIEL CASCO",
+   "camiseta": "26",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "66164",
+   "Jug_Sale": "NICOLAS AYESTARAN",
+   "CarneEntra": "55121",
+   "Jug_Entra": "AGUSTIN FRAGA",
+   "camiseta": "4",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45786",
+   "Nombre": "KEVIN TAUBER",
+   "minutos": "76",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52810",
+   "Nombre": "ISMAEL VERA",
+   "minutos": "2",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64365",
+   "Nombre": "JUAN BAUTISTA ARRUABARRENA",
+   "minutos": "14",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58255",
+   "Nombre": "AGUSTIN DIAZ",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61778",
+   "Nombre": "EDINSON MAXIMILIANO DIAZ",
+   "minutos": "44",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66232",
+   "Nombre": "LUCAS MAURICIO CARTAGENA",
+   "minutos": "5",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SANTIAGO BARBEITO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "BRUNO MARTIN PALACIO",
+   "observaciones": ""
+  }
+ ]
+}

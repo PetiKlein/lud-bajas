@@ -1,0 +1,310 @@
+{
+ "id": "100523",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 15:30:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "FLORES UNIVERSITARIO",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "326",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-27 17:30:00",
+  "Fecha_fin": "2026-06-27 17:30:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "FLORES UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58980",
+   "Nombre": "MATEO PONCE DE LEON",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "62631",
+   "Nombre": "JOAQUIN ARMANDO PIRIZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "62637",
+   "Nombre": "AGUSTIN GAVEL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55355",
+   "Nombre": "FACUNDO BELTRAN",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "56108",
+   "Nombre": "IGNACIO CACHON",
+   "camiseta": "56",
+   "Capitan": ""
+  },
+  {
+   "carne": "56156",
+   "Nombre": "FRANCO SANTIAGO BOTTINI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62952",
+   "Nombre": "JUAN PEDRO ANGENSCHEIDT",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55187",
+   "Nombre": "IGNACIO ANDRES ALVAREZ",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "56201",
+   "Nombre": "MATEO BONFIGLIO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "56841",
+   "Nombre": "FELIPE NICOLAS LOPEZ",
+   "camiseta": "97",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66255",
+   "Nombre": "GUILLERMO ADOLPH",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64934",
+   "Nombre": "PEDRO MANUEL CURBELO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "54604",
+   "Nombre": "FACUNDO ANDRES BENTANCOR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59231",
+   "Nombre": "FACUNDO FABINI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60655",
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "62152",
+   "Nombre": "LUCAS POLLERO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62136",
+   "Nombre": "JUAN PEDRO MONTAÑEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62134",
+   "Nombre": "EZEQUIEL COLINA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59234",
+   "Nombre": "CAMILO RIVAS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62142",
+   "Nombre": "GAEL LERCARI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68542",
+   "Nombre": "DIEGO ROMAN GONZALEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55187",
+   "Jug_Sale": "IGNACIO ANDRES ALVAREZ",
+   "CarneEntra": "54996",
+   "Jug_Entra": "AGUSTIN VOLKER RESTANO",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55355",
+   "Jug_Sale": "FACUNDO BELTRAN",
+   "CarneEntra": "62940",
+   "Jug_Entra": "JOAQUIN ORGOROSO",
+   "camiseta": "73",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56108",
+   "Jug_Sale": "IGNACIO CACHON",
+   "CarneEntra": "56606",
+   "Jug_Entra": "MATIAS GONZALEZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66255",
+   "Jug_Sale": "GUILLERMO ADOLPH",
+   "CarneEntra": "58066",
+   "Jug_Entra": "NICOLAS VAN CLEEF",
+   "camiseta": "48",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "56156",
+   "Jug_Sale": "FRANCO SANTIAGO BOTTINI",
+   "CarneEntra": "54749",
+   "Jug_Entra": "MARKO HEINZ SCHWARZ",
+   "camiseta": "41",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "62940",
+   "Jug_Sale": "JOAQUIN ORGOROSO",
+   "CarneEntra": "68750",
+   "Jug_Entra": "EMILIANO OLIVERA",
+   "camiseta": "21",
+   "minutos": "95"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62142",
+   "Jug_Sale": "GAEL LERCARI",
+   "CarneEntra": "68367",
+   "Jug_Entra": "JOAQUIN ROMERO",
+   "camiseta": "17",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "68542",
+   "Jug_Sale": "DIEGO ROMAN GONZALEZ",
+   "CarneEntra": "62867",
+   "Jug_Entra": "VALENTIN EMILIANO MENDEZ",
+   "camiseta": "18",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "64934",
+   "Jug_Sale": "PEDRO MANUEL CURBELO",
+   "CarneEntra": "63030",
+   "Jug_Entra": "FRANCO BERRUTTI",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60655",
+   "Jug_Sale": "MATTHIAS SEBASTIAN LAUBE",
+   "CarneEntra": "67714",
+   "Jug_Entra": "VALENTIN ALEJANDRO BALLEJOS",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62134",
+   "Jug_Sale": "EZEQUIEL COLINA",
+   "CarneEntra": "65759",
+   "Jug_Entra": "ROCCO SALVAGNO",
+   "camiseta": "21",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "54604",
+   "Jug_Sale": "FACUNDO ANDRES BENTANCOR",
+   "CarneEntra": "68870",
+   "Jug_Entra": "NICOLAS FERNANDEZ",
+   "camiseta": "29",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55187",
+   "Nombre": "IGNACIO ANDRES ALVAREZ",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56108",
+   "Nombre": "IGNACIO CACHON",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56841",
+   "Nombre": "FELIPE NICOLAS LOPEZ",
+   "minutos": "35",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58066",
+   "Nombre": "NICOLAS VAN CLEEF",
+   "minutos": "94",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63030",
+   "Nombre": "FRANCO BERRUTTI",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63030",
+   "Nombre": "FRANCO BERRUTTI",
+   "minutos": "82",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,310 @@
+{
+ "id": "98460",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "ISASA UNIVERSITARIO",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "373",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-25 13:15:00",
+  "Fecha_fin": "2026-04-25 13:15:00",
+  "Locatario": "ISASA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57011",
+   "Nombre": "SEBASTIAN BONILLA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61403",
+   "Nombre": "LUCAS JAVIER MANITO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53800",
+   "Nombre": "JUAN PEDRO HOURCADE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67692",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49355",
+   "Nombre": "FACUNDO VALENTIN ALLES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52587",
+   "Nombre": "MARCELINO PEREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "46907",
+   "Nombre": "ERNESTO BAUMGARTNER",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53966",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46909",
+   "Nombre": "FEDERICO KARDJIAN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "46794",
+   "Nombre": "RAMIRO IVAN GONZALEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55105",
+   "Nombre": "SANTIAGO ROBALLO",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59728",
+   "Nombre": "ALEJANDRO BOTTO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56807",
+   "Nombre": "JOAQUIN LUTHAR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40984",
+   "Nombre": "MATHIAS GABRIEL ORTIZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59776",
+   "Nombre": "MARTINO LORENZO FLORA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62061",
+   "Nombre": "MAURO CARRERA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "59787",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62074",
+   "Nombre": "FRANCISCO BURGOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "52794",
+   "Nombre": "MAURO LARRROSA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "42311",
+   "Nombre": "DIEGO MATIAS VIZCARRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46887",
+   "Nombre": "TOMAS MACHADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "43741",
+   "Nombre": "SANTIAGO ALVES",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67692",
+   "Jug_Sale": "AGUSTIN GONZALEZ",
+   "CarneEntra": "50059",
+   "Jug_Entra": "FEDERICO VÀZQUEZ",
+   "camiseta": "18",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "46909",
+   "Jug_Sale": "FEDERICO KARDJIAN",
+   "CarneEntra": "54851",
+   "Jug_Entra": "MATIAS MEDEROS",
+   "camiseta": "37",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "49355",
+   "Jug_Sale": "FACUNDO VALENTIN ALLES",
+   "CarneEntra": "54822",
+   "Jug_Entra": "FELIPE CARDENAS",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "46907",
+   "Jug_Sale": "ERNESTO BAUMGARTNER",
+   "CarneEntra": "60668",
+   "Jug_Entra": "JOAQUIN IGNACIO PARNIZARI",
+   "camiseta": "75",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "55105",
+   "Jug_Sale": "SANTIAGO ROBALLO",
+   "CarneEntra": "53472",
+   "Jug_Entra": "EMILIANO BASTARRICA",
+   "camiseta": "13",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "53966",
+   "Jug_Sale": "FELIPE PEREZ",
+   "CarneEntra": "54840",
+   "Jug_Entra": "FACUNDO RIBA",
+   "camiseta": "6",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56807",
+   "Jug_Sale": "JOAQUIN LUTHAR",
+   "CarneEntra": "59772",
+   "Jug_Entra": "MIRKO FELIX FLORA",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62061",
+   "Jug_Sale": "MAURO CARRERA",
+   "CarneEntra": "45255",
+   "Jug_Entra": "NICOLAS VISCAY",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62074",
+   "Jug_Sale": "FRANCISCO BURGOS",
+   "CarneEntra": "62821",
+   "Jug_Entra": "JOAQUIN CHIAPPE",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43741",
+   "Jug_Sale": "SANTIAGO ALVES",
+   "CarneEntra": "59765",
+   "Jug_Entra": "SANTIAGO TRIAS",
+   "camiseta": "3",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59776",
+   "Jug_Sale": "MARTINO LORENZO FLORA",
+   "CarneEntra": "49193",
+   "Jug_Entra": "JUAN PEREZ",
+   "camiseta": "24",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59787",
+   "Jug_Sale": "JOAQUIN RODRIGUEZ",
+   "CarneEntra": "62074",
+   "Jug_Entra": "FRANCISCO BURGOS",
+   "camiseta": "6",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "42311",
+   "Jug_Sale": "DIEGO MATIAS VIZCARRA",
+   "CarneEntra": "44390",
+   "Jug_Entra": "LEANDRO AGUIAR",
+   "camiseta": "13",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46907",
+   "Nombre": "ERNESTO BAUMGARTNER",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52587",
+   "Nombre": "MARCELINO PEREZ",
+   "minutos": "63",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52794",
+   "Nombre": "MAURO LARRROSA",
+   "minutos": "49",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SANTIAGO ROBALLO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "TOMAS MACHADO",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "id": "100615",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 15:30:00",
+ "cancha": "COMPLEJO DFC",
+ "local": "DFC",
+ "visitante": "PALLOTTI UNIVERSITARIO",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "322",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DFC",
+  "Fecha_Inicio": "2026-06-27 17:30:00",
+  "Fecha_fin": "2026-06-27 17:30:00",
+  "Locatario": "DFC",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "PALLOTTI UNIVERSITARIO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60778",
+   "Nombre": "FACUNDO LACERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67598",
+   "Nombre": "THIAGO ALEXANDER LOPEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67470",
+   "Nombre": "THIAGO JOEL DOS SANTOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67460",
+   "Nombre": "MATHIAS NAHUEL FAGUNDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68630",
+   "Nombre": "FACUNDO TOMAS GUEVARA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68453",
+   "Nombre": "CONSTANTINO ROBERTSON",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67469",
+   "Nombre": "SANTIAGO DANIEL DE LA LLANA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67929",
+   "Nombre": "EMILIANO BURGAINS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67462",
+   "Nombre": "BLAZ DANCKAR LANGHAIN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67590",
+   "Nombre": "GASTON MATEO ALONSO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67461",
+   "Nombre": "ALEX AMIR MEDA",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67694",
+   "Nombre": "EMILIANO ISMAEL PEREZ",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67706",
+   "Nombre": "ALEJANDRO SEBASTIAN PEREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67699",
+   "Nombre": "EMILIANO MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67708",
+   "Nombre": "ALEJO MANEIRO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "67705",
+   "Nombre": "THIAGO EDUARDO QUIROGA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60750",
+   "Nombre": "LUCAS AGUSTIN BILBAO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67704",
+   "Nombre": "RICHARD GERMAN RIBEIROS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68654",
+   "Nombre": "FEDERICO LORENZO Y LOSADA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "68287",
+   "Nombre": "CRISTIAN VALENTIN MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68816",
+   "Nombre": "JOSE FELIPE ROJO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67929",
+   "Jug_Sale": "EMILIANO BURGAINS",
+   "CarneEntra": "67935",
+   "Jug_Entra": "MATIAS GONZALO DUARTE",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67590",
+   "Jug_Sale": "GASTON MATEO ALONSO",
+   "CarneEntra": "67604",
+   "Jug_Entra": "IGNACIO GARCIA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68630",
+   "Jug_Sale": "FACUNDO TOMAS GUEVARA",
+   "CarneEntra": "67607",
+   "Jug_Entra": "LAUTARO ALEXANDER ALANIS",
+   "camiseta": "19",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "67460",
+   "Jug_Sale": "MATHIAS NAHUEL FAGUNDEZ",
+   "CarneEntra": "56925",
+   "Jug_Entra": "EZEQUIEL LUCAS VIGNOLI",
+   "camiseta": "17",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "67470",
+   "Jug_Sale": "THIAGO JOEL DOS SANTOS",
+   "CarneEntra": "67929",
+   "Jug_Entra": "EMILIANO BURGAINS",
+   "camiseta": "77",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68287",
+   "Jug_Sale": "CRISTIAN VALENTIN MEDINA",
+   "CarneEntra": "68288",
+   "Jug_Entra": "GABRIEL SEGOVIA",
+   "camiseta": "7",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67708",
+   "Jug_Sale": "ALEJO MANEIRO",
+   "CarneEntra": "60488",
+   "Jug_Entra": "FRANCISCO JESUS CUADRO",
+   "camiseta": "3",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "65910",
+   "Jug_Sale": "FACUNDO EMMANUEL BENITEZ",
+   "CarneEntra": "67709",
+   "Jug_Entra": "SANTIAGO SOUZA",
+   "camiseta": "19",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "minutos": "12",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65910",
+   "Nombre": "FACUNDO EMMANUEL BENITEZ",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67709",
+   "Nombre": "SANTIAGO SOUZA",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68654",
+   "Nombre": "FEDERICO LORENZO Y LOSADA",
+   "minutos": "19",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

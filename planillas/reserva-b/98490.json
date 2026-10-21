@@ -1,0 +1,259 @@
+{
+ "id": "98490",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "SANTA ELENA LAGOMAR",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "143",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-04-25 13:12:00",
+  "Fecha_fin": "2026-04-25 13:12:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "SANTA ELENA LAGOMAR",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55466",
+   "Nombre": "RODRIGO ALEJANDRO ANIDO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59694",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48110",
+   "Nombre": "EMILIO PRETI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49143",
+   "Nombre": "SANTIAGO PAIS",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "38502",
+   "Nombre": "JUAN PABLO MASLLORENS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "45319",
+   "Nombre": "FRANCO BALSAMO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51116",
+   "Nombre": "JUAN BAUTISTA REY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58930",
+   "Nombre": "FRANCISCO ARRIETA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60924",
+   "Nombre": "GERONIMO SOUMASTRE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "50931",
+   "Nombre": "SANTIAGO AVILA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "44097",
+   "Nombre": "NICOLAS LABASTIE",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61170",
+   "Nombre": "THIAGO HANDERSSON",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "47341",
+   "Nombre": "MATEO BACHINO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "46160",
+   "Nombre": "MATIAS GABRIEL BERNADA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47329",
+   "Nombre": "OCTAVIO SUM",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "47333",
+   "Nombre": "JOAQUIN GAI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49388",
+   "Nombre": "FRANCO GONZALEZ",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53101",
+   "Nombre": "ROBERTO FRANCISCO PORTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "45379",
+   "Nombre": "LUIS MATIAS BELDERRAIN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47338",
+   "Nombre": "JOAQUIN KAPITAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "50198",
+   "Nombre": "MATHIAS RAMILO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49243",
+   "Nombre": "IGNACIO JAVIER GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60924",
+   "Jug_Sale": "GERONIMO SOUMASTRE",
+   "CarneEntra": "45038",
+   "Jug_Entra": "IGNACIO RODRIGUEZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45319",
+   "Jug_Sale": "FRANCO BALSAMO",
+   "CarneEntra": "47728",
+   "Jug_Entra": "FELIPE RAMA",
+   "camiseta": "5",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "50931",
+   "Jug_Sale": "SANTIAGO AVILA",
+   "CarneEntra": "44106",
+   "Jug_Entra": "SANTIAGO RIUS",
+   "camiseta": "25",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "38502",
+   "Jug_Sale": "JUAN PABLO MASLLORENS",
+   "CarneEntra": "53671",
+   "Jug_Entra": "MATEO SCARRONE",
+   "camiseta": "20",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "51116",
+   "Jug_Sale": "JUAN BAUTISTA REY",
+   "CarneEntra": "44082",
+   "Jug_Entra": "GUILLERMO CASTRO",
+   "camiseta": "23",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47341",
+   "Jug_Sale": "MATEO BACHINO",
+   "CarneEntra": "58163",
+   "Jug_Entra": "FACUNDO IGNACIO LARROSA",
+   "camiseta": "5",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "47338",
+   "Jug_Sale": "JOAQUIN KAPITAN",
+   "CarneEntra": "47523",
+   "Jug_Entra": "IVAN NICOLAS PASTORINO",
+   "camiseta": "7",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "53101",
+   "Jug_Sale": "ROBERTO FRANCISCO PORTA",
+   "CarneEntra": "50872",
+   "Jug_Entra": "AGUSTIN  SANTIAGO RODRIGUEZ",
+   "camiseta": "17",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58930",
+   "Nombre": "FRANCISCO ARRIETA",
+   "minutos": "37",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "49243",
+   "Nombre": "IGNACIO JAVIER GONZALEZ",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "OCTAVIO SUM",
+   "observaciones": ""
+  }
+ ]
+}

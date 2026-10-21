@@ -1,0 +1,254 @@
+{
+ "id": "101570",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 12,
+ "fechaHora": "2026-09-06 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SUDAMERICA UNIVERSITARIO",
+ "visitante": "OLD SAMPA CLUB",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "571",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-09-06 11:00:00",
+  "Fecha_fin": "2026-09-06 11:00:00",
+  "Locatario": "SUDAMERICA UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "OLD SAMPA CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41872",
+   "Nombre": "FACUNDO SILVERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "56949",
+   "Nombre": "FREDERICK EMANUEL LEITES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62441",
+   "Nombre": "BRIAN ANTHONY PEREZ",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "56355",
+   "Nombre": "IVAN VLADIMIR HERNANDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63102",
+   "Nombre": "BENJAMIN ACOSTA",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "63103",
+   "Nombre": "CAETANO MATEO SPANO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "61873",
+   "Nombre": "JUAN MARTIN FUMERO",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "63812",
+   "Nombre": "ANDRES OLIVERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40257",
+   "Nombre": "ROQUE MARTIN ANDRADA",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64961",
+   "Nombre": "JUAN PABLO ALVAREZ",
+   "camiseta": "44",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49163",
+   "Nombre": "RAMON PINTOS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "53207",
+   "Nombre": "CAMILO NICOLAS ROSA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "63788",
+   "Nombre": "PEDRO JESUS FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58962",
+   "Nombre": "JUAN DAVID DOS SANTOS",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "64910",
+   "Nombre": "MARCOS GIMENEZ",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "67713",
+   "Nombre": "ALAN ZEBALLOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67715",
+   "Nombre": "TOMAS GONZALO MARQUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "27933",
+   "Nombre": "ENRIQUE CALACHA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "24792",
+   "Nombre": "VALENTIN LLANO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "21634",
+   "Nombre": "MATIAS CALACHA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23363",
+   "Nombre": "ALEJANDRO CALACHA",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61873",
+   "Jug_Sale": "JUAN MARTIN FUMERO",
+   "CarneEntra": "54112",
+   "Jug_Entra": "ARIEL FRANCISCO ACOSTA",
+   "camiseta": "18",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "56355",
+   "Jug_Sale": "IVAN VLADIMIR HERNANDEZ",
+   "CarneEntra": "61873",
+   "Jug_Entra": "JUAN MARTIN FUMERO",
+   "camiseta": "33",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24792",
+   "Jug_Sale": "VALENTIN LLANO",
+   "CarneEntra": "66118",
+   "Jug_Entra": "LEANDRO GARCIA",
+   "camiseta": "33",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "67713",
+   "Jug_Sale": "ALAN ZEBALLOS",
+   "CarneEntra": "68424",
+   "Jug_Entra": "GABRIEL NICOLAS GONZALEZ",
+   "camiseta": "28",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "66118",
+   "Jug_Sale": "LEANDRO GARCIA",
+   "CarneEntra": "67713",
+   "Jug_Entra": "ALAN ZEBALLOS",
+   "camiseta": "7",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56949",
+   "Nombre": "FREDERICK EMANUEL LEITES",
+   "minutos": "85",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61873",
+   "Nombre": "JUAN MARTIN FUMERO",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63788",
+   "Nombre": "PEDRO JESUS FERNANDEZ",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68424",
+   "Nombre": "GABRIEL NICOLAS GONZALEZ",
+   "minutos": "59",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

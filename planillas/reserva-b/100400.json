@@ -1,0 +1,268 @@
+{
+ "id": "100400",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS VERDE",
+ "visitante": "JUAN XXIII",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "197",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-06-20 13:00:00",
+  "Fecha_fin": "2026-06-20 13:00:00",
+  "Locatario": "OLD CHRISTIANS VERDE",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68491",
+   "Nombre": "MARCOS SEIGAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35673",
+   "Nombre": "ALBERTO JERONIMO NOGUERA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67388",
+   "Nombre": "SANTIAGO BERTORELLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51736",
+   "Nombre": "PEDRO HINSCH",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "44029",
+   "Nombre": "TOMAS SANTIAGO SLINGER",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "49487",
+   "Nombre": "FACUNDO MARTIN CRUCE",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "53976",
+   "Nombre": "MATEO STORACE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56746",
+   "Nombre": "JOAQUIN REINANTE",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53757",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "60425",
+   "Nombre": "FACUNDO STURLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "55214",
+   "Nombre": "BAUTISTA RAFAEL LADOUX",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65542",
+   "Nombre": "IGNACIO CIRIGLIANO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "43172",
+   "Nombre": "HERNAN YAÑEZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "53728",
+   "Nombre": "NICOLAS MIGUEL DE OCAMPO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "58850",
+   "Nombre": "NICOLAS GANDIOLI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "58853",
+   "Nombre": "FRANCISCO GANDIOLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "52613",
+   "Nombre": "JUAN MANUEL BUERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "62975",
+   "Nombre": "FRANCO ANDRES MIRAFIORE",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "48450",
+   "Nombre": "MATEO CORREA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "57648",
+   "Nombre": "FRANCISCO GUILLEN",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "47200",
+   "Nombre": "JOAQUIN VILLAR",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "47802",
+   "Nombre": "FACUNDO MARTIN PEREIRA",
+   "camiseta": "37",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49487",
+   "Jug_Sale": "FACUNDO MARTIN CRUCE",
+   "CarneEntra": "52623",
+   "Jug_Entra": "ALEJO PARODI",
+   "camiseta": "21",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "56746",
+   "Jug_Sale": "JOAQUIN REINANTE",
+   "CarneEntra": "39754",
+   "Jug_Entra": "JOAQUIN FEDERICO SLINGER",
+   "camiseta": "34",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "44029",
+   "Jug_Sale": "TOMAS SANTIAGO SLINGER",
+   "CarneEntra": "54878",
+   "Jug_Entra": "SANTIAGO MOREIRA",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "60425",
+   "Jug_Sale": "FACUNDO STURLA",
+   "CarneEntra": "52966",
+   "Jug_Entra": "LUCAS FRANCISCO PRESSO",
+   "camiseta": "11",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "55214",
+   "Jug_Sale": "BAUTISTA RAFAEL LADOUX",
+   "CarneEntra": "46366",
+   "Jug_Entra": "IGNACIO MESIAS",
+   "camiseta": "15",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58850",
+   "Jug_Sale": "NICOLAS GANDIOLI",
+   "CarneEntra": "49486",
+   "Jug_Entra": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52613",
+   "Jug_Sale": "JUAN MANUEL BUERO",
+   "CarneEntra": "55078",
+   "Jug_Entra": "JOAQUIN CELIBERTI",
+   "camiseta": "88",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "47802",
+   "Jug_Sale": "FACUNDO MARTIN PEREIRA",
+   "CarneEntra": "51841",
+   "Jug_Entra": "SANTIAGO DANIEL RAMBAO",
+   "camiseta": "25",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "43172",
+   "Jug_Sale": "HERNAN YAÑEZ",
+   "CarneEntra": "54670",
+   "Jug_Entra": "BRUNO NICOLAS LARRIEU",
+   "camiseta": "24",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "48450",
+   "Jug_Sale": "MATEO CORREA",
+   "CarneEntra": "58837",
+   "Jug_Entra": "JUAN MANUEL VARELA",
+   "camiseta": "99",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52966",
+   "Nombre": "LUCAS FRANCISCO PRESSO",
+   "minutos": "69",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "MARCOS SEIGAL",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

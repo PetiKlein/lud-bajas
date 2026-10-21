@@ -1,0 +1,285 @@
+{
+ "id": "99543",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "399",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-05-30 13:10:00",
+  "Fecha_fin": "2026-05-30 13:10:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55264",
+   "Nombre": "JERONIMO LARCADE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46472",
+   "Nombre": "GUILLERMO VON SANDEN",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53289",
+   "Nombre": "BRUNO CRISAFULLI",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "33333",
+   "Nombre": "DIEGO MARTIN CASTIÑEIRAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "37751",
+   "Nombre": "AGUSTIN KOSEC",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "33929",
+   "Nombre": "FRANCISCO MARIZCURRENA",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "44081",
+   "Nombre": "SANTIAGO LIZARAZU",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "48912",
+   "Nombre": "MATEO HERNAN CARBALLO",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "34547",
+   "Nombre": "NICOLA PRATTO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49192",
+   "Nombre": "JUAN MARTIN ROCCA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "46451",
+   "Nombre": "GONZALO CAMESELLA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56822",
+   "Nombre": "JUAN IGNACIO TELLECHEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56807",
+   "Nombre": "JOAQUIN LUTHAR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40984",
+   "Nombre": "MATHIAS GABRIEL ORTIZ",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52794",
+   "Nombre": "MAURO LARRROSA",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "59776",
+   "Nombre": "MARTINO LORENZO FLORA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59787",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62064",
+   "Nombre": "PEDRO DAVEREDE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52879",
+   "Nombre": "IGNACIO QUINTANS",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59772",
+   "Nombre": "MIRKO FELIX FLORA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "46887",
+   "Nombre": "TOMAS MACHADO",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46451",
+   "Jug_Sale": "GONZALO CAMESELLA",
+   "CarneEntra": "37662",
+   "Jug_Entra": "FELIPE MARCOS CASAROTTI",
+   "camiseta": "12",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "37751",
+   "Jug_Sale": "AGUSTIN KOSEC",
+   "CarneEntra": "46948",
+   "Jug_Entra": "SANTIAGO CAULA",
+   "camiseta": "20",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "34547",
+   "Jug_Sale": "NICOLA PRATTO",
+   "CarneEntra": "49172",
+   "Jug_Entra": "MANUEL ANSELMI",
+   "camiseta": "30",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "49192",
+   "Jug_Sale": "JUAN MARTIN ROCCA",
+   "CarneEntra": "52678",
+   "Jug_Entra": "VALENTINO MASONI",
+   "camiseta": "19",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "33333",
+   "Jug_Sale": "DIEGO MARTIN CASTIÑEIRAS",
+   "CarneEntra": "58348",
+   "Jug_Entra": "JOAQUIN GUANI",
+   "camiseta": "43",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "48912",
+   "Jug_Sale": "MATEO HERNAN CARBALLO",
+   "CarneEntra": "49110",
+   "Jug_Entra": "CAMILO BALIAN",
+   "camiseta": "33",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46887",
+   "Jug_Sale": "TOMAS MACHADO",
+   "CarneEntra": "62907",
+   "Jug_Entra": "IGNACIO TELESCA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52879",
+   "Jug_Sale": "IGNACIO QUINTANS",
+   "CarneEntra": "49189",
+   "Jug_Entra": "MANU BERVEJILLO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59776",
+   "Jug_Sale": "MARTINO LORENZO FLORA",
+   "CarneEntra": "62821",
+   "Jug_Entra": "JOAQUIN CHIAPPE",
+   "camiseta": "25",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "59765",
+   "Jug_Sale": "SANTIAGO TRIAS",
+   "CarneEntra": "49193",
+   "Jug_Entra": "JUAN PEREZ",
+   "camiseta": "24",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "59772",
+   "Jug_Sale": "MIRKO FELIX FLORA",
+   "CarneEntra": "42311",
+   "Jug_Entra": "DIEGO MATIAS VIZCARRA",
+   "camiseta": "10",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "52794",
+   "Jug_Sale": "MAURO LARRROSA",
+   "CarneEntra": "62075",
+   "Jug_Entra": "SANTIAGO SOSA",
+   "camiseta": "16",
+   "minutos": "63"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "49189",
+   "Nombre": "MANU BERVEJILLO",
+   "minutos": "95",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59772",
+   "Nombre": "MIRKO FELIX FLORA",
+   "minutos": "28",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,282 @@
+{
+ "id": "98786",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "YOUNG UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "388",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-05-16 13:20:00",
+  "Fecha_fin": "2026-05-16 13:20:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "YOUNG UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55264",
+   "Nombre": "JERONIMO LARCADE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46472",
+   "Nombre": "GUILLERMO VON SANDEN",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "33333",
+   "Nombre": "DIEGO MARTIN CASTIÑEIRAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53289",
+   "Nombre": "BRUNO CRISAFULLI",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "37751",
+   "Nombre": "AGUSTIN KOSEC",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "33929",
+   "Nombre": "FRANCISCO MARIZCURRENA",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "44081",
+   "Nombre": "SANTIAGO LIZARAZU",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "48912",
+   "Nombre": "MATEO HERNAN CARBALLO",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "49192",
+   "Nombre": "JUAN MARTIN ROCCA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "46451",
+   "Nombre": "GONZALO CAMESELLA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "57658",
+   "Nombre": "IGNACIO MIERES",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68364",
+   "Nombre": "SANTIAGO PEREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68048",
+   "Nombre": "FEDERICO SEBASTIAN CABRAL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64597",
+   "Nombre": "JOAQUIN TUCAT",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67395",
+   "Nombre": "VALENTINO SACRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61038",
+   "Nombre": "CONRADO HEINZE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67559",
+   "Nombre": "BRUNO CAMPOPIANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56709",
+   "Nombre": "TEOFILO ARROSA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52893",
+   "Nombre": "EZEQUIEL FRANCO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57658",
+   "Jug_Sale": "IGNACIO MIERES",
+   "CarneEntra": "37662",
+   "Jug_Entra": "FELIPE MARCOS CASAROTTI",
+   "camiseta": "12",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "44081",
+   "Jug_Sale": "SANTIAGO LIZARAZU",
+   "CarneEntra": "34547",
+   "Jug_Entra": "NICOLA PRATTO",
+   "camiseta": "8",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "37751",
+   "Jug_Sale": "AGUSTIN KOSEC",
+   "CarneEntra": "46948",
+   "Jug_Entra": "SANTIAGO CAULA",
+   "camiseta": "90",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "48912",
+   "Jug_Sale": "MATEO HERNAN CARBALLO",
+   "CarneEntra": "49110",
+   "Jug_Entra": "CAMILO BALIAN",
+   "camiseta": "33",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "46451",
+   "Jug_Sale": "GONZALO CAMESELLA",
+   "CarneEntra": "51610",
+   "Jug_Entra": "PABLO VALDOMIR",
+   "camiseta": "99",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52893",
+   "Jug_Sale": "EZEQUIEL FRANCO",
+   "CarneEntra": "67786",
+   "Jug_Entra": "IGNACIO BALLEJO",
+   "camiseta": "11",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "61038",
+   "Jug_Sale": "CONRADO HEINZE",
+   "CarneEntra": "62237",
+   "Jug_Entra": "SANTINO ACOSTA",
+   "camiseta": "7",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "67559",
+   "Jug_Sale": "BRUNO CAMPOPIANO",
+   "CarneEntra": "64742",
+   "Jug_Entra": "GASPAR HERMOSO",
+   "camiseta": "27",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "64592",
+   "Jug_Sale": "GERONIMO VANZINI",
+   "CarneEntra": "65774",
+   "Jug_Entra": "TOMAS BANEGA",
+   "camiseta": "18",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "56709",
+   "Jug_Sale": "TEOFILO ARROSA",
+   "CarneEntra": "62225",
+   "Jug_Entra": "FELIPE GONZALEZ",
+   "camiseta": "2",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "37662",
+   "Nombre": "FELIPE MARCOS CASAROTTI",
+   "minutos": "79",
+   "EnContra": "0"
+  },
+  {
+   "carne": "37662",
+   "Nombre": "FELIPE MARCOS CASAROTTI",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48912",
+   "Nombre": "MATEO HERNAN CARBALLO",
+   "minutos": "46",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "minutos": "55",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

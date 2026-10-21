@@ -1,0 +1,286 @@
+{
+ "id": "100657",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 09:00:00",
+ "cancha": "CENTRO GALLEGO",
+ "local": "CENTRO GALLEGO",
+ "visitante": "PAMPERO",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "802",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "CENTRO GALLEGO",
+  "Fecha_Inicio": "2026-06-28 11:00:00",
+  "Fecha_fin": "2026-06-28 11:00:00",
+  "Locatario": "CENTRO GALLEGO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "PAMPERO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67565",
+   "Nombre": "SEBASTIAN MACHIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39957",
+   "Nombre": "MATIAS ROCCO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64778",
+   "Nombre": "IGNACIO TABARE CLAVIJO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64477",
+   "Nombre": "DONATTO PAOLO RODRIGUEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "46319",
+   "Nombre": "SERGIO MATIAS MARTINEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "43060",
+   "Nombre": "FACUNDO DE MARIA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55318",
+   "Nombre": "CARLOS FLEITAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68699",
+   "Nombre": "FACUNDO CASTRO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "37587",
+   "Nombre": "GUILLERMO TOMAS RODRIGUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46504",
+   "Nombre": "KEVIN RAFAEL JAURETCHE",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63976",
+   "Nombre": "THIAGO ESCUDERO",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51064",
+   "Nombre": "LAUTARO DANIEL VILCHES",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57018",
+   "Nombre": "MARTIN EZEQUIEL RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62076",
+   "Nombre": "SEBASTIAN ROJAS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49553",
+   "Nombre": "AGUSTIN PERAZA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "44991",
+   "Nombre": "RICARDO SEBASTIAN MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57402",
+   "Nombre": "DIEGO EDUARDO PISA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64407",
+   "Nombre": "AGUSTIN RAUL RODRIGUEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "56652",
+   "Nombre": "AGUSTIN JAVIER ARTEAGA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "45520",
+   "Nombre": "JOSE AGUSTIN MONZA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "50772",
+   "Nombre": "PATRICIO GINZO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56659",
+   "Nombre": "GIOVANNI VALENTIN MARTINEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68699",
+   "Jug_Sale": "FACUNDO CASTRO",
+   "CarneEntra": "63497",
+   "Jug_Entra": "FABRIZIO DONATO GIANNECCHINI",
+   "camiseta": "87",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64477",
+   "Jug_Sale": "DONATTO PAOLO RODRIGUEZ",
+   "CarneEntra": "67398",
+   "Jug_Entra": "ADONIS HERRERA",
+   "camiseta": "71",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64778",
+   "Jug_Sale": "IGNACIO TABARE CLAVIJO",
+   "CarneEntra": "65650",
+   "Jug_Entra": "SANTIAGO LAMA",
+   "camiseta": "77",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "46504",
+   "Jug_Sale": "KEVIN RAFAEL JAURETCHE",
+   "CarneEntra": "64477",
+   "Jug_Entra": "DONATTO PAOLO RODRIGUEZ",
+   "camiseta": "27",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51064",
+   "Jug_Sale": "LAUTARO DANIEL VILCHES",
+   "CarneEntra": "65331",
+   "Jug_Entra": "GUSTAVO GABRIEL GUERRA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62076",
+   "Jug_Sale": "SEBASTIAN ROJAS",
+   "CarneEntra": "45242",
+   "Jug_Entra": "LUCAS ALEJO FERNANDEZ",
+   "camiseta": "21",
+   "minutos": "29"
+  },
+  {
+   "CarneSale": "57018",
+   "Jug_Sale": "MARTIN EZEQUIEL RODRIGUEZ",
+   "CarneEntra": "63650",
+   "Jug_Entra": "FRANCO JOSUE FILGUEIRA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56659",
+   "Jug_Sale": "GIOVANNI VALENTIN MARTINEZ",
+   "CarneEntra": "57018",
+   "Jug_Entra": "MARTIN EZEQUIEL RODRIGUEZ",
+   "camiseta": "12",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "64407",
+   "Jug_Sale": "AGUSTIN RAUL RODRIGUEZ",
+   "CarneEntra": "62076",
+   "Jug_Entra": "SEBASTIAN ROJAS",
+   "camiseta": "32",
+   "minutos": "57"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46504",
+   "Nombre": "KEVIN RAFAEL JAURETCHE",
+   "minutos": "24",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63976",
+   "Nombre": "THIAGO ESCUDERO",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63976",
+   "Nombre": "THIAGO ESCUDERO",
+   "minutos": "48",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64477",
+   "Nombre": "DONATTO PAOLO RODRIGUEZ",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64477",
+   "Nombre": "DONATTO PAOLO RODRIGUEZ",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57402",
+   "Nombre": "DIEGO EDUARDO PISA",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

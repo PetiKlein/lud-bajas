@@ -1,0 +1,283 @@
+{
+ "id": "100903",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COMPLEJO WOODLANDS SCHOOL",
+ "local": "OLD WOODLANDS CLUB",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "119",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO WOODLANDS SCHOOL",
+  "Fecha_Inicio": "2026-08-15 13:15:00",
+  "Fecha_fin": "2026-08-15 13:15:00",
+  "Locatario": "OLD WOODLANDS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65071",
+   "Nombre": "MANUEL FELIPE DOMINGUEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "53360",
+   "Nombre": "SANTIAGO JORCIN",
+   "camiseta": "53",
+   "Capitan": ""
+  },
+  {
+   "carne": "35167",
+   "Nombre": "JUAN MARTIN AROCENA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53000",
+   "Nombre": "FEDERICO NUÑEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35153",
+   "Nombre": "JUAN PEDRO FALCO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "33370",
+   "Nombre": "SANTIAGO BZUROVSKI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53647",
+   "Nombre": "MATIAS PINTOS",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53615",
+   "Nombre": "THIAGO BENITES",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "50731",
+   "Nombre": "FACUNDO MUNUA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "58593",
+   "Nombre": "ALVARO FACUNDO DEFAUT",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "56777",
+   "Nombre": "BRUNO MARIA IRULEGUY",
+   "camiseta": "71",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59470",
+   "Nombre": "FABRICIO OLIVERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33559",
+   "Nombre": "JULIO ALEXANDER GURIDI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "48390",
+   "Nombre": "GERONIMO ALVARES",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "39223",
+   "Nombre": "SEBASTIAN OTTO MATSCHULAT",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "37258",
+   "Nombre": "LUIS PEDRO LENGUAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "45980",
+   "Nombre": "ZENON CAPELLI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "39036",
+   "Nombre": "MANUEL LEIVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47508",
+   "Nombre": "HERNAN HARDOY",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "49032",
+   "Nombre": "LUIS GONZALO VARGAS",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "54580",
+   "Nombre": "JUAN CARLOS VIDIELLA",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "53930",
+   "Nombre": "MAXIMO RICARDO SEIZER",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53000",
+   "Jug_Sale": "FEDERICO NUÑEZ",
+   "CarneEntra": "49929",
+   "Jug_Entra": "ALBERTO GALLINAL",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35153",
+   "Jug_Sale": "JUAN PEDRO FALCO",
+   "CarneEntra": "36920",
+   "Jug_Entra": "JUAN IGNACIO REGO",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50731",
+   "Jug_Sale": "FACUNDO MUNUA",
+   "CarneEntra": "51145",
+   "Jug_Entra": "ALEJANDRO VICTORICA",
+   "camiseta": "72",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "58593",
+   "Jug_Sale": "ALVARO FACUNDO DEFAUT",
+   "CarneEntra": "48036",
+   "Jug_Entra": "SANTIAGO IRULEGUY",
+   "camiseta": "11",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "56777",
+   "Jug_Sale": "BRUNO MARIA IRULEGUY",
+   "CarneEntra": "49153",
+   "Jug_Entra": "SANTIAGO MARTIN OCASO",
+   "camiseta": "7",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "53360",
+   "Jug_Sale": "SANTIAGO JORCIN",
+   "CarneEntra": "48077",
+   "Jug_Entra": "AGUSTIN MARTINEZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53615",
+   "Jug_Sale": "THIAGO BENITES",
+   "CarneEntra": "48827",
+   "Jug_Entra": "TOMAS HAZAN",
+   "camiseta": "91",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49032",
+   "Jug_Sale": "LUIS GONZALO VARGAS",
+   "CarneEntra": "41581",
+   "Jug_Entra": "ALFONSO SIMETO",
+   "camiseta": "33",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "45980",
+   "Jug_Sale": "ZENON CAPELLI",
+   "CarneEntra": "54586",
+   "Jug_Entra": "FRANCISCO SCASSO",
+   "camiseta": "79",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "37258",
+   "Jug_Sale": "LUIS PEDRO LENGUAS",
+   "CarneEntra": "51653",
+   "Jug_Entra": "JOSE MARIA TEJERA",
+   "camiseta": "18",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "53930",
+   "Jug_Sale": "MAXIMO RICARDO SEIZER",
+   "CarneEntra": "54590",
+   "Jug_Entra": "ALFONSO MAILHOS",
+   "camiseta": "30",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48036",
+   "Nombre": "SANTIAGO IRULEGUY",
+   "minutos": "78",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "41581",
+   "Nombre": "ALFONSO SIMETO",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN MARTIN AROCENA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

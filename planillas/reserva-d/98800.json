@@ -1,0 +1,319 @@
+{
+ "id": "98800",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "CLUB SOCIAL PIEDRAS BLANCAS",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 5,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "455",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-05-16 13:00:00",
+  "Fecha_fin": "2026-05-16 13:00:00",
+  "Locatario": "CLUB SOCIAL PIEDRAS BLANCAS",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68389",
+   "Nombre": "YURI ALEJANDRO PACHECO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63862",
+   "Nombre": "ITAN ROMAN MANEIRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "45754",
+   "Nombre": "MATIAS ALEXANDER ACOSTA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64063",
+   "Nombre": "FABRICIO NICOLAS HERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61345",
+   "Nombre": "ENZO FABRIZIO BRUNO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "56086",
+   "Nombre": "DYLAN FELIX",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66571",
+   "Nombre": "ALEXANDER SHEIDA PATRON",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64061",
+   "Nombre": "NESTOR RAEL VIDELA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66573",
+   "Nombre": "EZEQUIEL MICHAEL TOURNE",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "59341",
+   "Nombre": "LUCA CORREA PAIVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "61423",
+   "Nombre": "ALAN EZEQUIEL DE LOS SANTOS",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56973",
+   "Nombre": "LUCAS CORREA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62443",
+   "Nombre": "JUAN SEBASTIAN RUMBO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "53351",
+   "Nombre": "IGNACIO GIL",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "53826",
+   "Nombre": "JUAN IGNACIO SOSA DIAS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "63818",
+   "Nombre": "MARTIN LARDITO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "50127",
+   "Nombre": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64777",
+   "Nombre": "IVAN VEGOVICH",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "51803",
+   "Nombre": "SEBASTIAN TRONCOSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67475",
+   "Nombre": "BRUNO MATEOS",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "67275",
+   "Nombre": "MATEO MORALES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "59752",
+   "Nombre": "RAMIRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59341",
+   "Jug_Sale": "LUCA CORREA PAIVA",
+   "CarneEntra": "60906",
+   "Jug_Entra": "FACUNDO MANUEL VILLALBA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64063",
+   "Jug_Sale": "FABRICIO NICOLAS HERNANDEZ",
+   "CarneEntra": "68290",
+   "Jug_Entra": "FRANCO DANIEL JEREZ",
+   "camiseta": "73",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64061",
+   "Jug_Sale": "NESTOR RAEL VIDELA",
+   "CarneEntra": "35047",
+   "Jug_Entra": "LUIS MARCELO PEREIRA",
+   "camiseta": "89",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66571",
+   "Jug_Sale": "ALEXANDER SHEIDA PATRON",
+   "CarneEntra": "59330",
+   "Jug_Entra": "JUAN PABLO CUÑA",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "66573",
+   "Jug_Sale": "EZEQUIEL MICHAEL TOURNE",
+   "CarneEntra": "58509",
+   "Jug_Entra": "WILSON DANIEL CORREA",
+   "camiseta": "23",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "45754",
+   "Jug_Sale": "MATIAS ALEXANDER ACOSTA",
+   "CarneEntra": "59327",
+   "Jug_Entra": "FELIPE CALIXTO",
+   "camiseta": "98",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "61423",
+   "Jug_Sale": "ALAN EZEQUIEL DE LOS SANTOS",
+   "CarneEntra": "59326",
+   "Jug_Entra": "JUAN IGNACIO SERPA",
+   "camiseta": "30",
+   "minutos": "71"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64777",
+   "Jug_Sale": "IVAN VEGOVICH",
+   "CarneEntra": "63567",
+   "Jug_Entra": "JUAN MANUEL CASAIS",
+   "camiseta": "98",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53351",
+   "Jug_Sale": "IGNACIO GIL",
+   "CarneEntra": "64764",
+   "Jug_Entra": "SANTIAGO SANCHEZ",
+   "camiseta": "42",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "67475",
+   "Jug_Sale": "BRUNO MATEOS",
+   "CarneEntra": "64252",
+   "Jug_Entra": "SANTIAGO BORRELLI",
+   "camiseta": "28",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "62443",
+   "Jug_Sale": "JUAN SEBASTIAN RUMBO",
+   "CarneEntra": "62585",
+   "Jug_Entra": "ANDRES CAETANO PORCILE",
+   "camiseta": "14",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "67275",
+   "Jug_Sale": "MATEO MORALES",
+   "CarneEntra": "67474",
+   "Jug_Entra": "MATIAS FRANCO",
+   "camiseta": "35",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "63818",
+   "Jug_Sale": "MARTIN LARDITO",
+   "CarneEntra": "67276",
+   "Jug_Entra": "FRANCOIS BURDIAT",
+   "camiseta": "4",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "51803",
+   "Jug_Sale": "SEBASTIAN TRONCOSO",
+   "CarneEntra": "68624",
+   "Jug_Entra": "JUAN MANUEL MEDEYROS",
+   "camiseta": "32",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56086",
+   "Nombre": "DYLAN FELIX",
+   "minutos": "39",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59341",
+   "Nombre": "LUCA CORREA PAIVA",
+   "minutos": "2",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61423",
+   "Nombre": "ALAN EZEQUIEL DE LOS SANTOS",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61423",
+   "Nombre": "ALAN EZEQUIEL DE LOS SANTOS",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61423",
+   "Nombre": "ALAN EZEQUIEL DE LOS SANTOS",
+   "minutos": "67",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

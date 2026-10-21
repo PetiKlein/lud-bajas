@@ -1,0 +1,250 @@
+{
+ "id": "102510",
+ "categoria": "mayores-e",
+ "serie": "EPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-04 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SUDAMERICA UNIVERSITARIO",
+ "visitante": "CLARA JACKSON UNIVERSITARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "1097",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"E\" PERM. y DESC.",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-10-04 10:50:00",
+  "Fecha_fin": "2026-10-04 10:50:00",
+  "Locatario": "SUDAMERICA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLARA JACKSON UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64962",
+   "Nombre": "JUAN BAUTISTA MENDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65969",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "63103",
+   "Nombre": "CAETANO MATEO SPANO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "44638",
+   "Nombre": "WALTER SANTIAGO SEGOVIA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "41872",
+   "Nombre": "FACUNDO SILVERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62441",
+   "Nombre": "BRIAN ANTHONY PEREZ",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "61873",
+   "Nombre": "JUAN MARTIN FUMERO",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "64590",
+   "Nombre": "FAUSTINO VALIENTE",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "63812",
+   "Nombre": "ANDRES OLIVERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40257",
+   "Nombre": "ROQUE MARTIN ANDRADA",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26280",
+   "Nombre": "DIEGO ALVEZ",
+   "camiseta": "72",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55342",
+   "Nombre": "JUAN ANDRES RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47110",
+   "Nombre": "FERNANDO CABRERA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "48163",
+   "Nombre": "DANIEL EMILIO ORPI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60317",
+   "Nombre": "DIEGO BENJAMIN FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49756",
+   "Nombre": "DARIO MONSERRAT",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60932",
+   "Nombre": "JOAQUIN FEDERICO CASTRO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "43112",
+   "Nombre": "MATHIAS CABRERA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "51411",
+   "Nombre": "JUAN VICTORIO SILVERA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "61434",
+   "Nombre": "JOSE DAVID LAGUNA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "69041",
+   "Nombre": "ALBERTO VALENTINO ORPI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63103",
+   "Jug_Sale": "CAETANO MATEO SPANO",
+   "CarneEntra": "54089",
+   "Jug_Entra": "PABLO GOROSO",
+   "camiseta": "8",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "40257",
+   "Jug_Sale": "ROQUE MARTIN ANDRADA",
+   "CarneEntra": "40236",
+   "Jug_Entra": "SANTIAGO MARTINEZ",
+   "camiseta": "34",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55342",
+   "Jug_Sale": "JUAN ANDRES RODRIGUEZ",
+   "CarneEntra": "35829",
+   "Jug_Entra": "FEDERICO MARTIN LAITANO",
+   "camiseta": "13",
+   "minutos": "33"
+  },
+  {
+   "CarneSale": "69041",
+   "Jug_Sale": "ALBERTO VALENTINO ORPI",
+   "CarneEntra": "41109",
+   "Jug_Entra": "FERNANDO ALVEZ",
+   "camiseta": "23",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "51411",
+   "Jug_Sale": "JUAN VICTORIO SILVERA",
+   "CarneEntra": "47103",
+   "Jug_Entra": "ANDRES LOARCHE",
+   "camiseta": "4",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "61434",
+   "Jug_Sale": "JOSE DAVID LAGUNA",
+   "CarneEntra": "51292",
+   "Jug_Entra": "SANTIAGO NICOLAS CUÑETTI",
+   "camiseta": "29",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "43112",
+   "Jug_Sale": "MATHIAS CABRERA",
+   "CarneEntra": "57257",
+   "Jug_Entra": "MANUEL CAETANO",
+   "camiseta": "7",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "49756",
+   "Nombre": "DARIO MONSERRAT",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61434",
+   "Nombre": "JOSE DAVID LAGUNA",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

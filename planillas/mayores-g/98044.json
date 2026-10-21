@@ -1,0 +1,270 @@
+{
+ "id": "98044",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 1,
+ "fechaHora": "2026-04-12 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "COLEGIO SALESIANO DE LA COSTA",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "722",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-04-12 11:10:00",
+  "Fecha_fin": "2026-04-12 11:10:00",
+  "Locatario": "COLEGIO SALESIANO DE LA COSTA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61419",
+   "Nombre": "JOAQUIN CARBON",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67502",
+   "Nombre": "IGNACIO AREVALO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64256",
+   "Nombre": "PATRICIO LEMA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53381",
+   "Nombre": "SANTIAGO GATTI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "58650",
+   "Nombre": "GERMAN FRANCISCO SILVEIRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67700",
+   "Nombre": "JAMIR JEREMI FEBLES",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "64243",
+   "Nombre": "GONZALO ALONSO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53375",
+   "Nombre": "JUAN NICOLAS MARTINEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67510",
+   "Nombre": "CLEMENTE SILVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56965",
+   "Nombre": "AUGUSTO GARAT",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65735",
+   "Nombre": "LAUTARO ESCOBAR",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55147",
+   "Nombre": "EDUARDO IVAN UBAL",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "63567",
+   "Nombre": "JUAN MANUEL CASAIS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "58662",
+   "Nombre": "SANTIAGO LOZANO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41030",
+   "Nombre": "LUCAS GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64765",
+   "Nombre": "FRANCISCO JAVIER RIVERO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62836",
+   "Nombre": "RODRIGO JOSE ZAS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "47522",
+   "Nombre": "JUAN IGNACIO BELLO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "62581",
+   "Nombre": "MAURICIO ANDRES DEUS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53152",
+   "Nombre": "MANUEL ALONSO",
+   "camiseta": "97",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64256",
+   "Jug_Sale": "PATRICIO LEMA",
+   "CarneEntra": "58960",
+   "Jug_Entra": "LEANDRO ALEXEI BOSCHI",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67510",
+   "Jug_Sale": "CLEMENTE SILVA",
+   "CarneEntra": "64274",
+   "Jug_Entra": "JOAQUIN HERNANDEZ",
+   "camiseta": "36",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "56965",
+   "Jug_Sale": "AUGUSTO GARAT",
+   "CarneEntra": "60144",
+   "Jug_Entra": "SANTIAGO BETANCOR",
+   "camiseta": "75",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "61419",
+   "Jug_Sale": "JOAQUIN CARBON",
+   "CarneEntra": "67503",
+   "Jug_Entra": "FRANCISCO REYES",
+   "camiseta": "88",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "67700",
+   "Jug_Sale": "JAMIR JEREMI FEBLES",
+   "CarneEntra": "67507",
+   "Jug_Entra": "SANTIAGO ELUTCHANZ",
+   "camiseta": "33",
+   "minutos": "63"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53152",
+   "Jug_Sale": "MANUEL ALONSO",
+   "CarneEntra": "62838",
+   "Jug_Entra": "TADEO ARES",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41030",
+   "Jug_Sale": "LUCAS GONZALEZ",
+   "CarneEntra": "67479",
+   "Jug_Entra": "RAMIRO PASTRANA",
+   "camiseta": "9",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "64765",
+   "Jug_Sale": "FRANCISCO JAVIER RIVERO",
+   "CarneEntra": "62587",
+   "Jug_Entra": "MATEO ALONSO",
+   "camiseta": "6",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "58662",
+   "Jug_Sale": "SANTIAGO LOZANO",
+   "CarneEntra": "67476",
+   "Jug_Entra": "NICOLAS RIVERO",
+   "camiseta": "97",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "55147",
+   "Jug_Sale": "EDUARDO IVAN UBAL",
+   "CarneEntra": "58727",
+   "Jug_Entra": "JOAQUIN GRACIANO",
+   "camiseta": "2",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53375",
+   "Nombre": "JUAN NICOLAS MARTINEZ",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56965",
+   "Nombre": "AUGUSTO GARAT",
+   "minutos": "26",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "minutos": "88",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

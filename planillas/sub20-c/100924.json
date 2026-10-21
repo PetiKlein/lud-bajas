@@ -1,0 +1,312 @@
+{
+ "id": "100924",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 13:30:00",
+ "cancha": "CAMPO MARISTAS DEPORTIVO",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "FLORES UNIVERSITARIO",
+ "gl": 7,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "360",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "CAMPO MARISTAS DEPORTIVO",
+  "Fecha_Inicio": "2026-08-15 17:30:00",
+  "Fecha_fin": "2026-08-15 17:30:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "7",
+  "puntos_locatario": "3",
+  "Visitante": "FLORES UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67542",
+   "Nombre": "GONZALO EZEQUIEL EGIRUBELLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59053",
+   "Nombre": "EZEQUIEL SILVERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59055",
+   "Nombre": "JUAN PABLO MIGUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62908",
+   "Nombre": "MATHEUS JOSE DE MORAES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59049",
+   "Nombre": "SANTIAGO CABRERA",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "63099",
+   "Nombre": "JOAQUIN FERNANDO HERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57414",
+   "Nombre": "VALENTIN MONTADO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67026",
+   "Nombre": "JUAN PABLO CANEPA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58726",
+   "Nombre": "CAMILO CORRALES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "59354",
+   "Nombre": "FRANCISCO BULEIN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62142",
+   "Nombre": "GAEL LERCARI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68542",
+   "Nombre": "DIEGO ROMAN GONZALEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59231",
+   "Nombre": "FACUNDO FABINI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62152",
+   "Nombre": "LUCAS POLLERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61527",
+   "Nombre": "MATIAS URIOSTE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68870",
+   "Nombre": "NICOLAS FERNANDEZ",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "62134",
+   "Nombre": "EZEQUIEL COLINA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59234",
+   "Nombre": "CAMILO RIVAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65219",
+   "Nombre": "GASPAR SWINDEN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "60655",
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59053",
+   "Jug_Sale": "EZEQUIEL SILVERA",
+   "CarneEntra": "60754",
+   "Jug_Entra": "FELIPE DIAZ",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58726",
+   "Jug_Sale": "CAMILO CORRALES",
+   "CarneEntra": "58706",
+   "Jug_Entra": "MATIAS ORTIZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59055",
+   "Jug_Sale": "JUAN PABLO MIGUEZ",
+   "CarneEntra": "58906",
+   "Jug_Entra": "MARTIN MERA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57414",
+   "Jug_Sale": "VALENTIN MONTADO",
+   "CarneEntra": "67025",
+   "Jug_Entra": "SALVADOR VARELA",
+   "camiseta": "12",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "59354",
+   "Jug_Sale": "FRANCISCO BULEIN",
+   "CarneEntra": "65867",
+   "Jug_Entra": "FACUNDO AGUSTIN FERNANDEZ",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67026",
+   "Jug_Sale": "JUAN PABLO CANEPA",
+   "CarneEntra": "67032",
+   "Jug_Entra": "ALAN JOEL ALONSO",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58726",
+   "Jug_Sale": "CAMILO CORRALES",
+   "CarneEntra": "59052",
+   "Jug_Entra": "NICOLAS ANDRES BALDINI",
+   "camiseta": "16",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68542",
+   "Jug_Sale": "DIEGO ROMAN GONZALEZ",
+   "CarneEntra": "65759",
+   "Jug_Entra": "ROCCO SALVAGNO",
+   "camiseta": "16",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "61527",
+   "Jug_Sale": "MATIAS URIOSTE",
+   "CarneEntra": "68542",
+   "Jug_Entra": "DIEGO ROMAN GONZALEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68870",
+   "Jug_Sale": "NICOLAS FERNANDEZ",
+   "CarneEntra": "61527",
+   "Jug_Entra": "MATIAS URIOSTE",
+   "camiseta": "21",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57414",
+   "Nombre": "VALENTIN MONTADO",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67026",
+   "Nombre": "JUAN PABLO CANEPA",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67026",
+   "Nombre": "JUAN PABLO CANEPA",
+   "minutos": "66",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "60655",
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "minutos": "78",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "minutos": "55",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

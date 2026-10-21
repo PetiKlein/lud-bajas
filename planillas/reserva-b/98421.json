@@ -1,0 +1,288 @@
+{
+ "id": "98421",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "144",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-04-25 10:50:00",
+  "Fecha_fin": "2026-04-25 10:50:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54675",
+   "Nombre": "EMILIANO SALVO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "43172",
+   "Nombre": "HERNAN YAÑEZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "67394",
+   "Nombre": "SANTIAGO ALEJANDRO ECHEVARRIA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49486",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58853",
+   "Nombre": "FRANCISCO GANDIOLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "57648",
+   "Nombre": "FRANCISCO GUILLEN",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "63275",
+   "Nombre": "SANTIAGO TOMAS PALACIO",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "48450",
+   "Nombre": "MATEO CORREA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "53601",
+   "Nombre": "JOAQUIN CASAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "58850",
+   "Nombre": "NICOLAS GANDIOLI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "47802",
+   "Nombre": "FACUNDO MARTIN PEREIRA",
+   "camiseta": "37",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49731",
+   "Nombre": "IVAN ERBURO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62652",
+   "Nombre": "NAHUEL SILVA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50889",
+   "Nombre": "IGNACIO VIÑAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66258",
+   "Nombre": "LEANDRO PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63617",
+   "Nombre": "JOAQUIN DOS SANTOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "51604",
+   "Nombre": "JUAN GABRIEL RUSSO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "54752",
+   "Nombre": "EMILIANO FRANCISCO MORALES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56435",
+   "Nombre": "AGUSTIN CAMPODONICO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49174",
+   "Nombre": "EMILIANO MATIAS PACIELLO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54884",
+   "Nombre": "NAHUEL LOPEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "42936",
+   "Nombre": "LEANDRO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49486",
+   "Jug_Sale": "IGNACIO GONZALEZ",
+   "CarneEntra": "56837",
+   "Jug_Entra": "RENZO BORGATO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58850",
+   "Jug_Sale": "NICOLAS GANDIOLI",
+   "CarneEntra": "55078",
+   "Jug_Entra": "JOAQUIN CELIBERTI",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57648",
+   "Jug_Sale": "FRANCISCO GUILLEN",
+   "CarneEntra": "52613",
+   "Jug_Entra": "JUAN MANUEL BUERO",
+   "camiseta": "16",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "47802",
+   "Jug_Sale": "FACUNDO MARTIN PEREIRA",
+   "CarneEntra": "58837",
+   "Jug_Entra": "JUAN MANUEL VARELA",
+   "camiseta": "90",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "43172",
+   "Jug_Sale": "HERNAN YAÑEZ",
+   "CarneEntra": "54670",
+   "Jug_Entra": "BRUNO NICOLAS LARRIEU",
+   "camiseta": "24",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "48450",
+   "Jug_Sale": "MATEO CORREA",
+   "CarneEntra": "55498",
+   "Jug_Entra": "DIEGO GONZALEZ",
+   "camiseta": "45",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49174",
+   "Jug_Sale": "EMILIANO MATIAS PACIELLO",
+   "CarneEntra": "52959",
+   "Jug_Entra": "CAMILO FLORIT",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "42936",
+   "Jug_Sale": "LEANDRO LOPEZ",
+   "CarneEntra": "53403",
+   "Jug_Entra": "DIEGO FERNANDO AGUILERA",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "56435",
+   "Jug_Sale": "AGUSTIN CAMPODONICO",
+   "CarneEntra": "42936",
+   "Jug_Entra": "LEANDRO LOPEZ",
+   "camiseta": "9",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "54884",
+   "Jug_Sale": "NAHUEL LOPEZ",
+   "CarneEntra": "49174",
+   "Jug_Entra": "EMILIANO MATIAS PACIELLO",
+   "camiseta": "11",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58853",
+   "Nombre": "FRANCISCO GANDIOLI",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "54752",
+   "Nombre": "EMILIANO FRANCISCO MORALES",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54884",
+   "Nombre": "NAHUEL LOPEZ",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62652",
+   "Nombre": "NAHUEL SILVA",
+   "minutos": "89",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66258",
+   "Nombre": "LEANDRO PEREZ",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

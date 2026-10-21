@@ -1,0 +1,246 @@
+{
+ "id": "99247",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 15:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SANTA ELENA LAGOMAR",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "164",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-23 17:15:00",
+  "Fecha_fin": "2026-05-23 17:15:00",
+  "Locatario": "SANTA ELENA LAGOMAR",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55586",
+   "Nombre": "IGNACIO MOREIRA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "55249",
+   "Nombre": "MATEO ENRICH",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59921",
+   "Nombre": "RENZO EZEQUIEL CYGAN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "56497",
+   "Nombre": "LORENZO ILLIONE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63086",
+   "Nombre": "FELIPE PELLEGRINO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65117",
+   "Nombre": "MATEO FEDERICO GALVEZ",
+   "camiseta": "59",
+   "Capitan": ""
+  },
+  {
+   "carne": "56496",
+   "Nombre": "MANUEL MULA",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58671",
+   "Nombre": "FELIPE LOPEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55645",
+   "Nombre": "GASTON VIERA",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "55737",
+   "Nombre": "AGUSTIN MONZA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "55248",
+   "Nombre": "MARCOS RADMILOVICH",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58657",
+   "Nombre": "SANTIAGO CID DE LA PAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56199",
+   "Nombre": "MATIAS ANDRES MORAES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58652",
+   "Nombre": "AGUSTIN OXACELHAY",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58798",
+   "Nombre": "MATEO FRAGA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61256",
+   "Nombre": "FRANCO CHELINI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "58801",
+   "Nombre": "SALVADOR GARCIA LAGOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58601",
+   "Nombre": "LUCAS LENZI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58602",
+   "Nombre": "IGNACIO COSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58604",
+   "Nombre": "JUAN MARTIN VERZERI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57602",
+   "Nombre": "SANTIAGO BOGGIA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54804",
+   "Nombre": "JUAN PEDRO FERNANDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59921",
+   "Jug_Sale": "RENZO EZEQUIEL CYGAN",
+   "CarneEntra": "54597",
+   "Jug_Entra": "MAXIMO EXEQUIEL BERGERO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58671",
+   "Jug_Sale": "FELIPE LOPEZ",
+   "CarneEntra": "58300",
+   "Jug_Entra": "GUILLERMO MAICHE",
+   "camiseta": "91",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "55737",
+   "Jug_Sale": "AGUSTIN MONZA",
+   "CarneEntra": "59921",
+   "Jug_Entra": "RENZO EZEQUIEL CYGAN",
+   "camiseta": "9",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58604",
+   "Jug_Sale": "JUAN MARTIN VERZERI",
+   "CarneEntra": "55501",
+   "Jug_Entra": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58798",
+   "Jug_Sale": "MATEO FRAGA",
+   "CarneEntra": "58502",
+   "Jug_Entra": "TIZIANO VILA",
+   "camiseta": "8",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "61256",
+   "Jug_Sale": "FRANCO CHELINI",
+   "CarneEntra": "58655",
+   "Jug_Entra": "MATIAS DONNANGELO",
+   "camiseta": "17",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "58801",
+   "Jug_Sale": "SALVADOR GARCIA LAGOS",
+   "CarneEntra": "58609",
+   "Jug_Entra": "PATRICIO GIOVANNI GAROFOLO",
+   "camiseta": "19",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56496",
+   "Nombre": "MANUEL MULA",
+   "minutos": "39",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58801",
+   "Nombre": "SALVADOR GARCIA LAGOS",
+   "minutos": "3",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

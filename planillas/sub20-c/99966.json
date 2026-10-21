@@ -1,0 +1,304 @@
+{
+ "id": "99966",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 15:30:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "MONTEVIDEO COLLEGE",
+ "visitante": "MARISTAS DEPORTIVO",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "310",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-06-13 17:20:00",
+  "Fecha_fin": "2026-06-13 17:20:00",
+  "Locatario": "MONTEVIDEO COLLEGE",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "MARISTAS DEPORTIVO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66348",
+   "Nombre": "FELIPE DE BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62329",
+   "Nombre": "FACUNDO ABELENDA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59185",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64410",
+   "Nombre": "JUAN ANTONIO QUINTAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67433",
+   "Nombre": "IGNACIO STANHAM",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66402",
+   "Nombre": "ANTONY DANIEL CARDOZO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60227",
+   "Nombre": "FRANCISCO LUCIO DUPONT",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66020",
+   "Nombre": "FACUNDO DOMINGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "54963",
+   "Nombre": "JUAN IGNACIO CELLA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64762",
+   "Nombre": "NICOLAS VILLA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63442",
+   "Nombre": "MATEO FONT",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67544",
+   "Nombre": "MATEO MUÑOZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67028",
+   "Nombre": "JULIAN MONTADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63195",
+   "Nombre": "LAUTARO GOBBI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "55113",
+   "Nombre": "FRANCISCO FERREYRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60168",
+   "Nombre": "RAFAEL DELGADO",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "65867",
+   "Nombre": "FACUNDO AGUSTIN FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63099",
+   "Nombre": "JOAQUIN FERNANDO HERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57414",
+   "Nombre": "VALENTIN MONTADO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58726",
+   "Nombre": "CAMILO CORRALES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59354",
+   "Nombre": "FRANCISCO BULEIN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54963",
+   "Jug_Sale": "JUAN IGNACIO CELLA",
+   "CarneEntra": "61650",
+   "Jug_Entra": "MATIAS MARQUEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64410",
+   "Jug_Sale": "JUAN ANTONIO QUINTAS",
+   "CarneEntra": "60187",
+   "Jug_Entra": "JUAN MANUEL NEBEL",
+   "camiseta": "18",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63442",
+   "Jug_Sale": "MATEO FONT",
+   "CarneEntra": "61535",
+   "Jug_Entra": "MANUEL TARANTO",
+   "camiseta": "5",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "59185",
+   "Jug_Sale": "MATEO GONZALEZ",
+   "CarneEntra": "67434",
+   "Jug_Entra": "BRUNO ECHENIQUE",
+   "camiseta": "3",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "60227",
+   "Jug_Sale": "FRANCISCO LUCIO DUPONT",
+   "CarneEntra": "64392",
+   "Jug_Entra": "MATIAS IVAÑEZ",
+   "camiseta": "16",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65867",
+   "Jug_Sale": "FACUNDO AGUSTIN FERNANDEZ",
+   "CarneEntra": "58906",
+   "Jug_Entra": "MARTIN MERA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60168",
+   "Jug_Sale": "RAFAEL DELGADO",
+   "CarneEntra": "67027",
+   "Jug_Entra": "ARON ESTEVEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58726",
+   "Jug_Sale": "CAMILO CORRALES",
+   "CarneEntra": "58706",
+   "Jug_Entra": "MATIAS ORTIZ",
+   "camiseta": "9",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "63099",
+   "Jug_Sale": "JOAQUIN FERNANDO HERNANDEZ",
+   "CarneEntra": "58971",
+   "Jug_Entra": "GUILLERMO SANTIAGO CABARCOS",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67028",
+   "Jug_Sale": "JULIAN MONTADO",
+   "CarneEntra": "67025",
+   "Jug_Entra": "SALVADOR VARELA",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59354",
+   "Jug_Sale": "FRANCISCO BULEIN",
+   "CarneEntra": "59052",
+   "Jug_Entra": "NICOLAS ANDRES BALDINI",
+   "camiseta": "16",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67544",
+   "Jug_Sale": "MATEO MUÑOZ",
+   "CarneEntra": "67032",
+   "Jug_Entra": "ALAN JOEL ALONSO",
+   "camiseta": "49",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66402",
+   "Nombre": "ANTONY DANIEL CARDOZO",
+   "minutos": "41",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55113",
+   "Nombre": "FRANCISCO FERREYRA",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61761",
+   "Nombre": "IGNACIO ALGIBAR",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67025",
+   "Nombre": "SALVADOR VARELA",
+   "minutos": "94",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

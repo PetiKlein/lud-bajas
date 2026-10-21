@@ -1,0 +1,250 @@
+{
+ "id": "100292",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 10,
+ "fechaHora": "2026-06-21 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "AMERICA UNIVERSITARIO",
+ "visitante": "ESPARTA UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "679",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-06-21 11:00:00",
+  "Fecha_fin": "2026-06-21 11:00:00",
+  "Locatario": "AMERICA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "ESPARTA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67269",
+   "Nombre": "LUCA ANDRE PIZZURNO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63953",
+   "Nombre": "LEANDRO VIDELA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55456",
+   "Nombre": "INTI DZIUR",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51218",
+   "Nombre": "OSCAR ESTEBAN BABIO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57136",
+   "Nombre": "EMILIO VILLAMAYOR",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52572",
+   "Nombre": "SEBASTIAN NICOLAS BABIO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "42794",
+   "Nombre": "LUCAS MATEUS RAMOS",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54418",
+   "Nombre": "ENZO ROSSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49055",
+   "Nombre": "SILVIO AGUSTIN MARTINEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "33885",
+   "Nombre": "JONATHAN ESTEBAN BARGAS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54417",
+   "Nombre": "GUILLERMO SALGADO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68559",
+   "Nombre": "MARTIN FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "42973",
+   "Nombre": "NICOLAS MARCIO RODAO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49284",
+   "Nombre": "FELIPE ARRICAR",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54083",
+   "Nombre": "JOAQUIN CERETTA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "51299",
+   "Nombre": "FACUNDO CERETTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "43572",
+   "Nombre": "NAHUEL MOREIRA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "59397",
+   "Nombre": "HUGO ATILIO TRIUNFO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61792",
+   "Nombre": "HERNAN ARAUJO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59481",
+   "Nombre": "JUAN MANUEL BARROS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "53456",
+   "Nombre": "AGUSTIN SANDE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59713",
+   "Nombre": "BENJAZMIN PEREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42794",
+   "Jug_Sale": "LUCAS MATEUS RAMOS",
+   "CarneEntra": "64248",
+   "Jug_Entra": "MATIAS NAHUEL LESCANO",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "33885",
+   "Jug_Sale": "JONATHAN ESTEBAN BARGAS",
+   "CarneEntra": "60943",
+   "Jug_Entra": "MAYCKOL IVAN CASTILLO",
+   "camiseta": "11",
+   "minutos": "63"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "43572",
+   "Jug_Sale": "NAHUEL MOREIRA",
+   "CarneEntra": "67670",
+   "Jug_Entra": "LAUREANO LARROSA",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49284",
+   "Jug_Sale": "FELIPE ARRICAR",
+   "CarneEntra": "67169",
+   "Jug_Entra": "NICLAS SANTIAGO AVELLANEDA",
+   "camiseta": "9",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "51299",
+   "Jug_Sale": "FACUNDO CERETTA",
+   "CarneEntra": "40833",
+   "Jug_Entra": "RODRIGO BOVINO",
+   "camiseta": "26",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "61792",
+   "Jug_Sale": "HERNAN ARAUJO",
+   "CarneEntra": "32432",
+   "Jug_Entra": "KEVIN ARIEL WINIARSKI",
+   "camiseta": "8",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49055",
+   "Nombre": "SILVIO AGUSTIN MARTINEZ",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "55456",
+   "Nombre": "INTI DZIUR",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60943",
+   "Nombre": "MAYCKOL IVAN CASTILLO",
+   "minutos": "71",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61792",
+   "Nombre": "HERNAN ARAUJO",
+   "minutos": "5",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

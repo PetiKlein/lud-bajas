@@ -1,0 +1,234 @@
+{
+ "id": "101562",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 12,
+ "fechaHora": "2026-09-06 09:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "FLORES UNIVERSITARIO",
+ "visitante": "BELLA UNION UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "691",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-09-06 11:00:00",
+  "Fecha_fin": "2026-09-06 11:00:00",
+  "Locatario": "FLORES UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "BELLA UNION UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41557",
+   "Nombre": "FABRIZZIO DE ARMAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50321",
+   "Nombre": "FERNANDO AGUSTIN SEVERO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58511",
+   "Nombre": "LUCAS MOLINA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61817",
+   "Nombre": "JHONATAN BALBINO VIERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "36968",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "60137",
+   "Nombre": "ELEAZAR TORRES",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "41494",
+   "Nombre": "SERGIO JAVIER HEREDIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "41475",
+   "Nombre": "DANIEL TORRES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63589",
+   "Nombre": "JOSE PABLO MARTINEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52350",
+   "Nombre": "MATIAS IRAZABAL",
+   "camiseta": "50",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41932",
+   "Nombre": "SANTIAGO DONO",
+   "camiseta": "36",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60893",
+   "Nombre": "LEONARDO GABRIEL PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56169",
+   "Nombre": "MAXIMILIANO LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57139",
+   "Nombre": "ELBIO YONATAN FERREIRA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "68480",
+   "Nombre": "MAIKOL MACIEL",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "66284",
+   "Nombre": "JUAN IGNACIO BARCELLOS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "51809",
+   "Nombre": "ALEXANDRE GABRIEL DIAZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "49701",
+   "Nombre": "CRISTIAN CARBALLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49700",
+   "Nombre": "LEANDRO MARTIN SARASUA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61892",
+   "Nombre": "LEANDRO RODRIGUEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61183",
+   "Nombre": "ENZO NICOLAS SAUCEDA",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "61184",
+   "Nombre": "ELVIS BELTRAN SILVA",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41932",
+   "Jug_Sale": "SANTIAGO DONO",
+   "CarneEntra": "63756",
+   "Jug_Entra": "CAMILO PEREZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63589",
+   "Jug_Sale": "JOSE PABLO MARTINEZ",
+   "CarneEntra": "66471",
+   "Jug_Entra": "FACUNDO ADAN VIERA",
+   "camiseta": "7",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "60137",
+   "Jug_Sale": "ELEAZAR TORRES",
+   "CarneEntra": "37074",
+   "Jug_Entra": "BRUNO SANTIAGO ARBIA",
+   "camiseta": "33",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49700",
+   "Jug_Sale": "LEANDRO MARTIN SARASUA",
+   "CarneEntra": "47980",
+   "Jug_Entra": "HERNAN OXANDABARAT",
+   "camiseta": "9",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "61183",
+   "Jug_Sale": "ENZO NICOLAS SAUCEDA",
+   "CarneEntra": "45449",
+   "Jug_Entra": "MANUEL QUINTANA",
+   "camiseta": "5",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "61892",
+   "Jug_Sale": "LEANDRO RODRIGUEZ",
+   "CarneEntra": "61006",
+   "Jug_Entra": "MAICKOL GABRIEL MACHADO",
+   "camiseta": "27",
+   "minutos": "56"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "MATIAS IRAZABAL",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "CRISTIAN CARBALLO",
+   "observaciones": ""
+  }
+ ]
+}

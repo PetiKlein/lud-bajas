@@ -1,0 +1,313 @@
+{
+ "id": "101539",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 15:30:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "ARQUITECTURA JRS.",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "213",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-09-05 17:02:00",
+  "Fecha_fin": "2026-09-05 17:02:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "ARQUITECTURA JRS.",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60866",
+   "Nombre": "SANTINO SALAVERRY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59424",
+   "Nombre": "FACUNDO TOMAS GARCIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59545",
+   "Nombre": "EMILIANO JOAQUIN PAREDES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "56479",
+   "Nombre": "FRANCISCO IVAN FERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59396",
+   "Nombre": "KEVIN NICOLAS BARRERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56421",
+   "Nombre": "DAMIAN DENES",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56800",
+   "Nombre": "ELIAS LAUTARO IOVINE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56926",
+   "Nombre": "MANUEL NICOLAS COSTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63545",
+   "Nombre": "GONZALO DANIEL GRECIET",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56419",
+   "Nombre": "JUAN MANUEL VERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68959",
+   "Nombre": "DIEGO MARTIN VAZQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58643",
+   "Nombre": "MATEO ESPIGA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54652",
+   "Nombre": "VICENTE MARTIN ALVES",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "53333",
+   "Nombre": "SANTIAGO JOSE LUJAMBIO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64078",
+   "Nombre": "JOAQUIN GRACIA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "54913",
+   "Nombre": "ISMAEL BONNECARRERE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59938",
+   "Nombre": "DIEGO DAVID BARCELO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57993",
+   "Nombre": "MATEO SOCA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61753",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63101",
+   "Nombre": "THIAGO SOTO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63561",
+   "Nombre": "ISAAC ENRIQUE LUCES",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56926",
+   "Jug_Sale": "MANUEL NICOLAS COSTA",
+   "CarneEntra": "59419",
+   "Jug_Entra": "IMANOL FYNN",
+   "camiseta": "81",
+   "minutos": "3"
+  },
+  {
+   "CarneSale": "63545",
+   "Jug_Sale": "GONZALO DANIEL GRECIET",
+   "CarneEntra": "63645",
+   "Jug_Entra": "TOMAS DANIEL MARTINEZ",
+   "camiseta": "11",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "56479",
+   "Jug_Sale": "FRANCISCO IVAN FERNANDEZ",
+   "CarneEntra": "59434",
+   "Jug_Entra": "IGNACIO HERNANDEZ",
+   "camiseta": "16",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "56419",
+   "Jug_Sale": "JUAN MANUEL VERA",
+   "CarneEntra": "61020",
+   "Jug_Entra": "GONZALO HUERTAS",
+   "camiseta": "13",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "56421",
+   "Jug_Sale": "DAMIAN DENES",
+   "CarneEntra": "59409",
+   "Jug_Entra": "FRANCO LARROSA",
+   "camiseta": "23",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "56800",
+   "Jug_Sale": "ELIAS LAUTARO IOVINE",
+   "CarneEntra": "56479",
+   "Jug_Entra": "FRANCISCO IVAN FERNANDEZ",
+   "camiseta": "4",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "56173",
+   "Jug_Sale": "MATHIAS NAHUEL PEREIRA",
+   "CarneEntra": "56419",
+   "Jug_Entra": "JUAN MANUEL VERA",
+   "camiseta": "14",
+   "minutos": "74"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63561",
+   "Jug_Sale": "ISAAC ENRIQUE LUCES",
+   "CarneEntra": "60183",
+   "Jug_Entra": "LUCAS GUZMAN",
+   "camiseta": "70",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63101",
+   "Jug_Sale": "THIAGO SOTO",
+   "CarneEntra": "68933",
+   "Jug_Entra": "FABRIZIO HORJALES",
+   "camiseta": "15",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "57993",
+   "Jug_Sale": "MATEO SOCA",
+   "CarneEntra": "64800",
+   "Jug_Entra": "JUAN ANTONIO MANGADO",
+   "camiseta": "24",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "59938",
+   "Jug_Sale": "DIEGO DAVID BARCELO",
+   "CarneEntra": "63891",
+   "Jug_Entra": "GABRIEL SOLDATTI",
+   "camiseta": "16",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "61753",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "60175",
+   "Jug_Entra": "TIAGO MATEO MESONES",
+   "camiseta": "27",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "64078",
+   "Jug_Sale": "JOAQUIN GRACIA",
+   "CarneEntra": "65005",
+   "Jug_Entra": "JUAN IGNACIO MENDEZ",
+   "camiseta": "31",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "58643",
+   "Jug_Sale": "MATEO ESPIGA",
+   "CarneEntra": "64850",
+   "Jug_Entra": "JOAQUIN MOREIRA",
+   "camiseta": "19",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56173",
+   "Nombre": "MATHIAS NAHUEL PEREIRA",
+   "minutos": "56",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56926",
+   "Nombre": "MANUEL NICOLAS COSTA",
+   "minutos": "36",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56926",
+   "Nombre": "MANUEL NICOLAS COSTA",
+   "minutos": "78",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

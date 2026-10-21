@@ -1,0 +1,311 @@
+{
+ "id": "99574",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "CLUB ATLETICO LIMBURGO",
+ "visitante": "NUESTRA SEÑORA DE LOURDES",
+ "gl": 5,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "465",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-05-30 11:00:00",
+  "Fecha_fin": "2026-05-30 11:00:00",
+  "Locatario": "CLUB ATLETICO LIMBURGO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "NUESTRA SEÑORA DE LOURDES",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67006",
+   "Nombre": "LUIS ANTHONY CENTENO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53255",
+   "Nombre": "LUCAS CRAVIOTTO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "44079",
+   "Nombre": "FRANCISCO BARRE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "51238",
+   "Nombre": "MATIAS BELLINI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53151",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "40634",
+   "Nombre": "JUAN MANUEL MONTERO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53417",
+   "Nombre": "MARCOS FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56404",
+   "Nombre": "THIAGO NICOLAS MORADO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47345",
+   "Nombre": "JOAQUIN GABRIEL VARELA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "34931",
+   "Nombre": "RAFAEL BAEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "40189",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66809",
+   "Nombre": "DAVID JOMAR ROSALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61678",
+   "Nombre": "LEANDRO GONZALEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66518",
+   "Nombre": "ANDRES CIRO BELVEDER",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54946",
+   "Nombre": "FRANCO VICENTE CIFUENTES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "68663",
+   "Nombre": "ARIEL ACOSTA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61515",
+   "Nombre": "ALAN ACOSTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61192",
+   "Nombre": "FEDERICO MESA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67455",
+   "Nombre": "ADRIAN DAVID ACOSTA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64374",
+   "Nombre": "NAHUEL OHOLEGUY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "30973",
+   "Nombre": "MAXIMILIANO PEREYRA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67680",
+   "Nombre": "NIKOLAS BASEL",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "34931",
+   "Jug_Sale": "RAFAEL BAEZ",
+   "CarneEntra": "50881",
+   "Jug_Entra": "THOMAS JESKE",
+   "camiseta": "81",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "40634",
+   "Jug_Sale": "JUAN MANUEL MONTERO",
+   "CarneEntra": "67009",
+   "Jug_Entra": "MATIAS EDUARDO SANCHEZ",
+   "camiseta": "19",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "44079",
+   "Jug_Sale": "FRANCISCO BARRE",
+   "CarneEntra": "62430",
+   "Jug_Entra": "ALEJO MARTIN FONT",
+   "camiseta": "16",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "47345",
+   "Jug_Sale": "JOAQUIN GABRIEL VARELA",
+   "CarneEntra": "43194",
+   "Jug_Entra": "LUCAS MARTINEZ",
+   "camiseta": "13",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "53417",
+   "Jug_Sale": "MARCOS FERNANDEZ",
+   "CarneEntra": "51441",
+   "Jug_Entra": "SANTIAGO DERGAZARIAN",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "40189",
+   "Jug_Sale": "FEDERICO PEREZ",
+   "CarneEntra": "40634",
+   "Jug_Entra": "JUAN MANUEL MONTERO",
+   "camiseta": "11",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64374",
+   "Jug_Sale": "NAHUEL OHOLEGUY",
+   "CarneEntra": "66677",
+   "Jug_Entra": "MARCELO PERRONE",
+   "camiseta": "6",
+   "minutos": "33"
+  },
+  {
+   "CarneSale": "61678",
+   "Jug_Sale": "LEANDRO GONZALEZ",
+   "CarneEntra": "66679",
+   "Jug_Entra": "FACUNDO DAVID POMBO",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67455",
+   "Jug_Sale": "ADRIAN DAVID ACOSTA",
+   "CarneEntra": "68719",
+   "Jug_Entra": "IGNACIO AGUSTIN VALENTE",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "30973",
+   "Jug_Sale": "MAXIMILIANO PEREYRA",
+   "CarneEntra": "64816",
+   "Jug_Entra": "FEDERICO JAVIER BARCELO",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64816",
+   "Jug_Sale": "FEDERICO JAVIER BARCELO",
+   "CarneEntra": "30973",
+   "Jug_Entra": "MAXIMILIANO PEREYRA",
+   "camiseta": "9",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "54946",
+   "Jug_Sale": "FRANCO VICENTE CIFUENTES",
+   "CarneEntra": "67455",
+   "Jug_Entra": "ADRIAN DAVID ACOSTA",
+   "camiseta": "7",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67680",
+   "Jug_Sale": "NIKOLAS BASEL",
+   "CarneEntra": "61678",
+   "Jug_Entra": "LEANDRO GONZALEZ",
+   "camiseta": "4",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "40189",
+   "Nombre": "FEDERICO PEREZ",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40634",
+   "Nombre": "JUAN MANUEL MONTERO",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40634",
+   "Nombre": "JUAN MANUEL MONTERO",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47345",
+   "Nombre": "JOAQUIN GABRIEL VARELA",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53151",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "minutos": "9",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

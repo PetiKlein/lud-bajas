@@ -1,0 +1,307 @@
+{
+ "id": "98819",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "389",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-05-16 13:20:00",
+  "Fecha_fin": "2026-05-16 13:20:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64690",
+   "Nombre": "ANTONY URIEL FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48893",
+   "Nombre": "EMILIANO TELLECHEA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "50597",
+   "Nombre": "VALENTIN GONCALVEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55569",
+   "Nombre": "TOMAS NEGREIRA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "51124",
+   "Nombre": "FRANCISCO RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58541",
+   "Nombre": "RODRIGO SEBABSTIAN CABRERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49420",
+   "Nombre": "JUAN MANUEL GRANERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55029",
+   "Nombre": "BRUNO MENDEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "50343",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55296",
+   "Nombre": "MATEO VAZQUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54722",
+   "Nombre": "LUCAS SCAFARELLI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "45786",
+   "Nombre": "KEVIN TAUBER",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "49636",
+   "Nombre": "AGUSTIN ALGORTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64272",
+   "Nombre": "HERNAN EZEQUIEL PUSCHIASIS",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "53267",
+   "Nombre": "MAXIMO TORNONI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52402",
+   "Nombre": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53386",
+   "Nombre": "AGUSTIN CALVO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "52810",
+   "Nombre": "ISMAEL VERA",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58541",
+   "Jug_Sale": "RODRIGO SEBABSTIAN CABRERA",
+   "CarneEntra": "48547",
+   "Jug_Entra": "FACUNDO SADOVY",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49420",
+   "Jug_Sale": "JUAN MANUEL GRANERO",
+   "CarneEntra": "54905",
+   "Jug_Entra": "SANTIAGO LIMA",
+   "camiseta": "15",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "55029",
+   "Jug_Sale": "BRUNO MENDEZ",
+   "CarneEntra": "55179",
+   "Jug_Entra": "SANTIAGO COUTO",
+   "camiseta": "18",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "55569",
+   "Jug_Sale": "TOMAS NEGREIRA",
+   "CarneEntra": "58090",
+   "Jug_Entra": "SANTIAGO DE OLIVERA",
+   "camiseta": "22",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "53294",
+   "Jug_Sale": "AGUSTIN SANTIÑAQUE",
+   "CarneEntra": "54902",
+   "Jug_Entra": "SEBASTIAN LUCIARDI",
+   "camiseta": "14",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "50597",
+   "Jug_Sale": "VALENTIN GONCALVEZ",
+   "CarneEntra": "50887",
+   "Jug_Entra": "RODRIGO TEIXEIRA",
+   "camiseta": "17",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54722",
+   "Jug_Sale": "LUCAS SCAFARELLI",
+   "CarneEntra": "48445",
+   "Jug_Entra": "JUAN MANUEL DONDAN",
+   "camiseta": "97",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52402",
+   "Jug_Sale": "PEDRO SCHELOTTO",
+   "CarneEntra": "67387",
+   "Jug_Entra": "GONZALO ESTEVES",
+   "camiseta": "40",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52810",
+   "Jug_Sale": "ISMAEL VERA",
+   "CarneEntra": "53378",
+   "Jug_Entra": "NICOLAS SILVA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52184",
+   "Jug_Sale": "DIEGO GIBERT",
+   "CarneEntra": "64278",
+   "Jug_Entra": "IGNACIO YAÑEZ",
+   "camiseta": "69",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "43337",
+   "Jug_Sale": "JUAN MANUEL URTIAGA",
+   "CarneEntra": "53171",
+   "Jug_Entra": "FRANCISCO ACUÑA",
+   "camiseta": "33",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48547",
+   "Nombre": "FACUNDO SADOVY",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "minutos": "8",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "minutos": "76",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54902",
+   "Nombre": "SEBASTIAN LUCIARDI",
+   "minutos": "89",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53267",
+   "Nombre": "MAXIMO TORNONI",
+   "minutos": "34",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MAXIMO TORNONI",
+   "observaciones": ""
+  }
+ ]
+}

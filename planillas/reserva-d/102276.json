@@ -1,0 +1,279 @@
+{
+ "id": "102276",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 5,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO 1GOL",
+ "local": "CERVANTES UNIVERSITARIO",
+ "visitante": "ELF BLANCO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "522",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO 1GOL",
+  "Fecha_Inicio": "2026-09-26 13:45:00",
+  "Fecha_fin": "2026-09-26 13:45:00",
+  "Locatario": "CERVANTES UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "ELF BLANCO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45494",
+   "Nombre": "RODRIGO CARLOS BARLA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63167",
+   "Nombre": "LUCAS BORGES",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67256",
+   "Nombre": "RODRIGO VEGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59114",
+   "Nombre": "MAXIMILAINO PARDIE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47607",
+   "Nombre": "ALEX CLARK",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "52723",
+   "Nombre": "FELIPE CARLOS DE CARVALHO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61839",
+   "Nombre": "IGNACIO SEBASTIAN OVANDO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67255",
+   "Nombre": "MATIAS TEJEIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "63649",
+   "Nombre": "AXEL EDUARDO CANTERO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "57959",
+   "Nombre": "SANTINO GUIDA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59270",
+   "Nombre": "FACUNDO SANTIAGO LUCIANO",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59826",
+   "Nombre": "ALFONSO BADANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44977",
+   "Nombre": "FABIO PADULA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "57205",
+   "Nombre": "DIAGO COSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46857",
+   "Nombre": "GABRIEL MARTINEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56278",
+   "Nombre": "NAHUEL MENDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "36828",
+   "Nombre": "JUAN GIBERT",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55866",
+   "Nombre": "FEDERICO BUHL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42785",
+   "Nombre": "MARTIN DANIEL PEREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "40799",
+   "Nombre": "IGNACIO KAPRIELIAN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61002",
+   "Nombre": "PEDRO RAINERI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "38746",
+   "Nombre": "JUAN MANUEL PAGOLA",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59270",
+   "Jug_Sale": "FACUNDO SANTIAGO LUCIANO",
+   "CarneEntra": "59247",
+   "Jug_Entra": "EDEL FERIE",
+   "camiseta": "9",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "67255",
+   "Jug_Sale": "MATIAS TEJEIRA",
+   "CarneEntra": "67438",
+   "Jug_Entra": "BRUNO MUSETTI",
+   "camiseta": "25",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "57959",
+   "Jug_Sale": "SANTINO GUIDA",
+   "CarneEntra": "67258",
+   "Jug_Entra": "NAHUEL TUBINO",
+   "camiseta": "16",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "40799",
+   "Jug_Sale": "IGNACIO KAPRIELIAN",
+   "CarneEntra": "40646",
+   "Jug_Entra": "JOAQUIN MATIAS DE LEON",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46857",
+   "Jug_Sale": "GABRIEL MARTINEZ",
+   "CarneEntra": "43958",
+   "Jug_Entra": "JUAN MARTIN STARICCO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61002",
+   "Jug_Sale": "PEDRO RAINERI",
+   "CarneEntra": "51720",
+   "Jug_Entra": "OCTAVIO BERRUTI",
+   "camiseta": "24",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "42785",
+   "Jug_Sale": "MARTIN DANIEL PEREZ",
+   "CarneEntra": "52531",
+   "Jug_Entra": "MARCO ELIO SCALA",
+   "camiseta": "26",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "55866",
+   "Jug_Sale": "FEDERICO BUHL",
+   "CarneEntra": "51154",
+   "Jug_Entra": "JUAN JOSE RAMON SCANDROGLIO",
+   "camiseta": "11",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "46857",
+   "Jug_Sale": "GABRIEL MARTINEZ",
+   "CarneEntra": "47715",
+   "Jug_Entra": "PHILIPPE CHAPT",
+   "camiseta": "22",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61839",
+   "Nombre": "IGNACIO SEBASTIAN OVANDO",
+   "minutos": "64",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63649",
+   "Nombre": "AXEL EDUARDO CANTERO",
+   "minutos": "24",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67255",
+   "Nombre": "MATIAS TEJEIRA",
+   "minutos": "93",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "38746",
+   "Nombre": "JUAN MANUEL PAGOLA",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JUAN GIBERT",
+   "observaciones": ""
+  }
+ ]
+}

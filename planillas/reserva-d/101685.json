@@ -1,0 +1,326 @@
+{
+ "id": "101685",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 2,
+ "fechaHora": "2026-09-05 11:40:00",
+ "cancha": "COLEGIO ARETEIA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 1,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "503",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "COLEGIO ARETEIA",
+  "Fecha_Inicio": "2026-09-05 13:30:00",
+  "Fecha_fin": "2026-09-05 13:30:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55264",
+   "Nombre": "JERONIMO LARCADE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55254",
+   "Nombre": "ANDRES GUILLERMO COITO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "44865",
+   "Nombre": "JOAQUIN AUGUSTO ANDRES",
+   "camiseta": "45",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58348",
+   "Nombre": "JOAQUIN GUANI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "46451",
+   "Nombre": "GONZALO CAMESELLA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49110",
+   "Nombre": "CAMILO BALIAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "34547",
+   "Nombre": "NICOLA PRATTO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "44081",
+   "Nombre": "SANTIAGO LIZARAZU",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49172",
+   "Nombre": "MANUEL ANSELMI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "49192",
+   "Nombre": "JUAN MARTIN ROCCA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "51610",
+   "Nombre": "PABLO VALDOMIR",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66499",
+   "Nombre": "LEANDRO HORACIO SELVES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "45823",
+   "Nombre": "AGUSTIN CALLEJAS",
+   "camiseta": "88",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58055",
+   "Nombre": "GONZALO FABRICIO BASSO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "62868",
+   "Nombre": "TOMAS LICIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58366",
+   "Nombre": "MARCO MARCELO BORDON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68198",
+   "Nombre": "FACUNDO CABRERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "58013",
+   "Nombre": "IÑAKI GUDE",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "58298",
+   "Nombre": "DAVID ILUTOVICH",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "58365",
+   "Nombre": "FEDERICO NAVARRO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "56017",
+   "Nombre": "TIAGO PERDOMO",
+   "camiseta": "38",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49172",
+   "Jug_Sale": "MANUEL ANSELMI",
+   "CarneEntra": "50884",
+   "Jug_Entra": "SANTIAGO RUBIO",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44865",
+   "Jug_Sale": "JOAQUIN AUGUSTO ANDRES",
+   "CarneEntra": "33333",
+   "Jug_Entra": "DIEGO MARTIN CASTIÑEIRAS",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49192",
+   "Jug_Sale": "JUAN MARTIN ROCCA",
+   "CarneEntra": "52678",
+   "Jug_Entra": "VALENTINO MASONI",
+   "camiseta": "19",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "51610",
+   "Jug_Sale": "PABLO VALDOMIR",
+   "CarneEntra": "57658",
+   "Jug_Entra": "IGNACIO MIERES",
+   "camiseta": "22",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "44081",
+   "Jug_Sale": "SANTIAGO LIZARAZU",
+   "CarneEntra": "55161",
+   "Jug_Entra": "MATEO GONZALEZ",
+   "camiseta": "11",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "46451",
+   "Jug_Sale": "GONZALO CAMESELLA",
+   "CarneEntra": "53289",
+   "Jug_Entra": "BRUNO CRISAFULLI",
+   "camiseta": "60",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "55254",
+   "Jug_Sale": "ANDRES GUILLERMO COITO",
+   "CarneEntra": "40067",
+   "Jug_Entra": "MATEO CALCAGNO",
+   "camiseta": "90",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58365",
+   "Jug_Sale": "FEDERICO NAVARRO",
+   "CarneEntra": "64271",
+   "Jug_Entra": "THIAGO OTERO",
+   "camiseta": "5",
+   "minutos": "33"
+  },
+  {
+   "CarneSale": "58298",
+   "Jug_Sale": "DAVID ILUTOVICH",
+   "CarneEntra": "68804",
+   "Jug_Entra": "FACUNDO R RIVERO",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45823",
+   "Jug_Sale": "AGUSTIN CALLEJAS",
+   "CarneEntra": "67161",
+   "Jug_Entra": "RODRIGO DURAN",
+   "camiseta": "29",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "56017",
+   "Jug_Sale": "TIAGO PERDOMO",
+   "CarneEntra": "49114",
+   "Jug_Entra": "ALVARO DANIEL CHILDE",
+   "camiseta": "33",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "64271",
+   "Jug_Sale": "THIAGO OTERO",
+   "CarneEntra": "55321",
+   "Jug_Entra": "MATEO AGUSTIN MIRABALLES",
+   "camiseta": "50",
+   "minutos": "6"
+  },
+  {
+   "CarneSale": "58055",
+   "Jug_Sale": "GONZALO FABRICIO BASSO",
+   "CarneEntra": "69087",
+   "Jug_Entra": "MATEO APOLITO",
+   "camiseta": "2",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "68198",
+   "Jug_Sale": "FACUNDO CABRERA",
+   "CarneEntra": "54073",
+   "Jug_Entra": "JUAN MANUEL FERNANDEZ",
+   "camiseta": "23",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51610",
+   "Nombre": "PABLO VALDOMIR",
+   "minutos": "36",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56017",
+   "Nombre": "TIAGO PERDOMO",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58013",
+   "Nombre": "IÑAKI GUDE",
+   "minutos": "29",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58365",
+   "Nombre": "FEDERICO NAVARRO",
+   "minutos": "24",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59893",
+   "Nombre": "GERONIMO MANUEL ACOSTA",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68198",
+   "Nombre": "FACUNDO CABRERA",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,293 @@
+{
+ "id": "98232",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 15:40:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "FLORES UNIVERSITARIO",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "256",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-04-18 17:35:00",
+  "Fecha_fin": "2026-04-18 17:35:00",
+  "Locatario": "FLORES UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": "Expulsado DT de Flores U."
+ },
+ "titularesL": [
+  {
+   "carne": "67714",
+   "Nombre": "VALENTIN ALEJANDRO BALLEJOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54604",
+   "Nombre": "FACUNDO ANDRES BENTANCOR",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62152",
+   "Nombre": "LUCAS POLLERO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59231",
+   "Nombre": "FACUNDO FABINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65219",
+   "Nombre": "GASPAR SWINDEN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58354",
+   "Nombre": "BRYAN MENDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62134",
+   "Nombre": "EZEQUIEL COLINA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62136",
+   "Nombre": "JUAN PEDRO MONTAÑEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57324",
+   "Nombre": "TOMAS ALVAREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60655",
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67561",
+   "Nombre": "JOAQUIN MEDINA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65918",
+   "Nombre": "XOSE PABLO JALIFE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58953",
+   "Nombre": "THIAGO EPHERRE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "59749",
+   "Nombre": "FACUNDO SORIA HORNOS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58954",
+   "Nombre": "JOAQUIN BERMUDEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "58680",
+   "Nombre": "JOAQUIN AISCAR",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "58936",
+   "Nombre": "FRANCESCO EMILIO PIZARRO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "66810",
+   "Nombre": "MANUEL PEDRO CASTELLANO",
+   "camiseta": "84",
+   "Capitan": ""
+  },
+  {
+   "carne": "59731",
+   "Nombre": "LUCA SPERANZA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "55791",
+   "Nombre": "NAHUEL AGUSTIN ALVAREZ",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58676",
+   "Nombre": "JUAN MANUEL VALDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60655",
+   "Jug_Sale": "MATTHIAS SEBASTIAN LAUBE",
+   "CarneEntra": "63030",
+   "Jug_Entra": "FRANCO BERRUTTI",
+   "camiseta": "2",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "57324",
+   "Jug_Sale": "TOMAS ALVAREZ",
+   "CarneEntra": "57672",
+   "Jug_Entra": "SANTIAGO DIEGO OLAZABAL",
+   "camiseta": "20",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65219",
+   "Jug_Sale": "GASPAR SWINDEN",
+   "CarneEntra": "62135",
+   "Jug_Entra": "VALENTIN ESPINOSA",
+   "camiseta": "4",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59749",
+   "Jug_Sale": "FACUNDO SORIA HORNOS",
+   "CarneEntra": "58679",
+   "Jug_Entra": "JOAQUIN MARZIALI",
+   "camiseta": "30",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "58936",
+   "Jug_Sale": "FRANCESCO EMILIO PIZARRO",
+   "CarneEntra": "56678",
+   "Jug_Entra": "GUILLERMO GABRIEL STUART",
+   "camiseta": "8",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "59731",
+   "Jug_Sale": "LUCA SPERANZA",
+   "CarneEntra": "67875",
+   "Jug_Entra": "TADEO GARCIA",
+   "camiseta": "74",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "66810",
+   "Jug_Sale": "MANUEL PEDRO CASTELLANO",
+   "CarneEntra": "58950",
+   "Jug_Entra": "NICOLAS MUSCIO",
+   "camiseta": "52",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "58676",
+   "Jug_Sale": "JUAN MANUEL VALDEZ",
+   "CarneEntra": "58755",
+   "Jug_Entra": "FELIPE RODRIGUEZ",
+   "camiseta": "99",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "58954",
+   "Jug_Sale": "JOAQUIN BERMUDEZ",
+   "CarneEntra": "64527",
+   "Jug_Entra": "FELIPE RAMOS",
+   "camiseta": "34",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "58680",
+   "Jug_Sale": "JOAQUIN AISCAR",
+   "CarneEntra": "61454",
+   "Jug_Entra": "FRANCO DANIEL BELO",
+   "camiseta": "47",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60655",
+   "Nombre": "MATTHIAS SEBASTIAN LAUBE",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62300",
+   "Nombre": "AGUSTIN MENENDEZ",
+   "minutos": "44",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58679",
+   "Nombre": "JOAQUIN MARZIALI",
+   "minutos": "73",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65918",
+   "Nombre": "XOSE PABLO JALIFE",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66810",
+   "Nombre": "MANUEL PEDRO CASTELLANO",
+   "minutos": "23",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FACUNDO FABINI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

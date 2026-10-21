@@ -1,0 +1,268 @@
+{
+ "id": "98573",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 00:00:00",
+ "cancha": "EMA (PANDO) 2",
+ "local": "CLUB SOC. y DEP. LA CHISPA",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "263",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "EMA (PANDO) 2",
+  "Fecha_Inicio": "2026-04-25 15:30:00",
+  "Fecha_fin": "2026-04-25 15:30:00",
+  "Locatario": "CLUB SOC. y DEP. LA CHISPA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67526",
+   "Nombre": "RODRIGO CABALERO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "68344",
+   "Nombre": "JAIRO CUELLO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67525",
+   "Nombre": "RODRIGO VILLALBA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67531",
+   "Nombre": "BRIAN OLIVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67532",
+   "Nombre": "AXEL SOPPI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67528",
+   "Nombre": "NICOLAS SAAVEDRA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67524",
+   "Nombre": "LUCAS GALIANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67530",
+   "Nombre": "FRANCISCO SUAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67533",
+   "Nombre": "JONATHAN ROSSI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68213",
+   "Nombre": "MAXIMILIANO SOTO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67523",
+   "Nombre": "ALEXANDER CABRERA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56600",
+   "Nombre": "SANTIAGO REYES",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "55355",
+   "Nombre": "FACUNDO BELTRAN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62631",
+   "Nombre": "JOAQUIN ARMANDO PIRIZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62637",
+   "Nombre": "AGUSTIN GAVEL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55191",
+   "Nombre": "FEDERICO SAINTAGNE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56201",
+   "Nombre": "MATEO BONFIGLIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56108",
+   "Nombre": "IGNACIO CACHON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55187",
+   "Nombre": "IGNACIO ANDRES ALVAREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56156",
+   "Nombre": "FRANCO SANTIAGO BOTTINI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58855",
+   "Nombre": "JOAQUIN MARTINEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56841",
+   "Nombre": "FELIPE NICOLAS LOPEZ",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67523",
+   "Jug_Sale": "ALEXANDER CABRERA",
+   "CarneEntra": "68212",
+   "Jug_Entra": "SEBASTIAN TORENA",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68213",
+   "Jug_Sale": "MAXIMILIANO SOTO",
+   "CarneEntra": "67521",
+   "Jug_Entra": "JONATHAN BEBANZ",
+   "camiseta": "29",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67533",
+   "Jug_Sale": "JONATHAN ROSSI",
+   "CarneEntra": "67523",
+   "Jug_Entra": "ALEXANDER CABRERA",
+   "camiseta": "7",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56108",
+   "Jug_Sale": "IGNACIO CACHON",
+   "CarneEntra": "62952",
+   "Jug_Entra": "JUAN PEDRO ANGENSCHEIDT",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56156",
+   "Jug_Sale": "FRANCO SANTIAGO BOTTINI",
+   "CarneEntra": "59473",
+   "Jug_Entra": "SANTIAGO OUTERELO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62631",
+   "Jug_Sale": "JOAQUIN ARMANDO PIRIZ",
+   "CarneEntra": "56602",
+   "Jug_Entra": "MATEO HORACK",
+   "camiseta": "4",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "56201",
+   "Jug_Sale": "MATEO BONFIGLIO",
+   "CarneEntra": "59109",
+   "Jug_Entra": "SANTIAGO ALVAREZ",
+   "camiseta": "16",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "55191",
+   "Jug_Sale": "FEDERICO SAINTAGNE",
+   "CarneEntra": "58066",
+   "Jug_Entra": "NICOLAS VAN CLEEF",
+   "camiseta": "18",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "56841",
+   "Jug_Sale": "FELIPE NICOLAS LOPEZ",
+   "CarneEntra": "62940",
+   "Jug_Entra": "JOAQUIN ORGOROSO",
+   "camiseta": "19",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "56841",
+   "Nombre": "FELIPE NICOLAS LOPEZ",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "RODRIGO VILLALBA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "LUCAS GALIANO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "ALEXANDER CABRERA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

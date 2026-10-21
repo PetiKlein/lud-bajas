@@ -1,0 +1,307 @@
+{
+ "id": "98244",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 13:30:00",
+ "cancha": "FUERZA AEREA",
+ "local": "MONTEVIDEO COLLEGE",
+ "visitante": "CLUB SOC. y DEP. LA CHISPA",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "250",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "FUERZA AEREA",
+  "Fecha_Inicio": "2026-04-18 15:30:00",
+  "Fecha_fin": "2026-04-18 15:30:00",
+  "Locatario": "MONTEVIDEO COLLEGE",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB SOC. y DEP. LA CHISPA",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66348",
+   "Nombre": "FELIPE DE BRITO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59185",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "60227",
+   "Nombre": "FRANCISCO LUCIO DUPONT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67433",
+   "Nombre": "IGNACIO STANHAM",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58567",
+   "Nombre": "NAHUEL DAVID REBELLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62329",
+   "Nombre": "FACUNDO ABELENDA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66402",
+   "Nombre": "ANTONY DANIEL CARDOZO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63442",
+   "Nombre": "MATEO FONT",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61535",
+   "Nombre": "MANUEL TARANTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64762",
+   "Nombre": "NICOLAS VILLA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62874",
+   "Nombre": "JUAN MANUEL CARBONE",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67520",
+   "Nombre": "AGUSTIN PIRIZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67532",
+   "Nombre": "AXEL SOPPI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67525",
+   "Nombre": "RODRIGO VILLALBA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67534",
+   "Nombre": "BYRON QUILIMAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67518",
+   "Nombre": "CHRISTIAN PEÑAFLOR",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67528",
+   "Nombre": "NICOLAS SAAVEDRA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67524",
+   "Nombre": "LUCAS GALIANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67530",
+   "Nombre": "FRANCISCO SUAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67522",
+   "Nombre": "THIAGO VIERA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67523",
+   "Nombre": "ALEXANDER CABRERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67526",
+   "Nombre": "RODRIGO CABALERO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62874",
+   "Jug_Sale": "JUAN MANUEL CARBONE",
+   "CarneEntra": "62141",
+   "Jug_Entra": "JOAQUIN FAJARDO",
+   "camiseta": "3",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "61535",
+   "Jug_Sale": "MANUEL TARANTO",
+   "CarneEntra": "62874",
+   "Jug_Entra": "JUAN MANUEL CARBONE",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60227",
+   "Jug_Sale": "FRANCISCO LUCIO DUPONT",
+   "CarneEntra": "64392",
+   "Jug_Entra": "MATIAS IVAÑEZ",
+   "camiseta": "61",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63442",
+   "Jug_Sale": "MATEO FONT",
+   "CarneEntra": "67432",
+   "Jug_Entra": "SANTI CARRERA",
+   "camiseta": "11",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "59185",
+   "Jug_Sale": "MATEO GONZALEZ",
+   "CarneEntra": "67434",
+   "Jug_Entra": "BRUNO ECHENIQUE",
+   "camiseta": "21",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "64762",
+   "Jug_Sale": "NICOLAS VILLA",
+   "CarneEntra": "64913",
+   "Jug_Entra": "JUAN MANUEL FERRERI",
+   "camiseta": "81",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "67433",
+   "Jug_Sale": "IGNACIO STANHAM",
+   "CarneEntra": "61650",
+   "Jug_Entra": "MATIAS MARQUEZ",
+   "camiseta": "51",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67526",
+   "Jug_Sale": "RODRIGO CABALERO",
+   "CarneEntra": "67533",
+   "Jug_Entra": "JONATHAN ROSSI",
+   "camiseta": "11",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "67532",
+   "Jug_Sale": "AXEL SOPPI",
+   "CarneEntra": "67531",
+   "Jug_Entra": "BRIAN OLIVERA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67518",
+   "Jug_Sale": "CHRISTIAN PEÑAFLOR",
+   "CarneEntra": "68214",
+   "Jug_Entra": "AGUSTIN VILLAR",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67522",
+   "Jug_Sale": "THIAGO VIERA",
+   "CarneEntra": "68212",
+   "Jug_Entra": "SEBASTIAN TORENA",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67524",
+   "Jug_Sale": "LUCAS GALIANO",
+   "CarneEntra": "67521",
+   "Jug_Entra": "JONATHAN BEBANZ",
+   "camiseta": "29",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "67523",
+   "Jug_Sale": "ALEXANDER CABRERA",
+   "CarneEntra": "68213",
+   "Jug_Entra": "MAXIMILIANO SOTO",
+   "camiseta": "21",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "67530",
+   "Jug_Sale": "FRANCISCO SUAREZ",
+   "CarneEntra": "67524",
+   "Jug_Entra": "LUCAS GALIANO",
+   "camiseta": "5",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "67524",
+   "Nombre": "LUCAS GALIANO",
+   "minutos": "67",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67526",
+   "Nombre": "RODRIGO CABALERO",
+   "minutos": "9",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67530",
+   "Nombre": "FRANCISCO SUAREZ",
+   "minutos": "13",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

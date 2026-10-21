@@ -1,0 +1,295 @@
+{
+ "id": "100014",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "PQUE. ELLIS - COL. SAN ISIDRO",
+ "local": "COLEGIO SAN ISIDRO",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "790",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "PQUE. ELLIS - COL. SAN ISIDRO",
+  "Fecha_Inicio": "2026-06-14 10:51:00",
+  "Fecha_fin": "2026-06-14 10:51:00",
+  "Locatario": "COLEGIO SAN ISIDRO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58981",
+   "Nombre": "AGUSTIN NICOLAS HEREDIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67512",
+   "Nombre": "AGUSTIN POMBO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56512",
+   "Nombre": "MATIAS VILA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61123",
+   "Nombre": "GONZALO NAHUEL MELO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67015",
+   "Nombre": "LUCAS EMMANUEL LOPEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "53862",
+   "Nombre": "MANUEL ALEJANDRO MAYO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57472",
+   "Nombre": "AGUSTIN PISANO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59219",
+   "Nombre": "JUAN ANDRES COLOMBO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56516",
+   "Nombre": "FELIPE VERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59217",
+   "Nombre": "FEDERICO PIERO GELMINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "48540",
+   "Nombre": "CARLOS ANDRES SEGREDO",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65735",
+   "Nombre": "LAUTARO ESCOBAR",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "47522",
+   "Nombre": "JUAN IGNACIO BELLO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63567",
+   "Nombre": "JUAN MANUEL CASAIS",
+   "camiseta": "98",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62443",
+   "Nombre": "JUAN SEBASTIAN RUMBO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "41030",
+   "Nombre": "LUCAS GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53152",
+   "Nombre": "MANUEL ALONSO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62581",
+   "Nombre": "MAURICIO ANDRES DEUS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67479",
+   "Nombre": "RAMIRO PASTRANA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "65878",
+   "Nombre": "IGNACIO DANIEL DOLDAN",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59219",
+   "Jug_Sale": "JUAN ANDRES COLOMBO",
+   "CarneEntra": "56513",
+   "Jug_Entra": "TADEO BENJAMIN MENDIONDO",
+   "camiseta": "8",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "67512",
+   "Jug_Sale": "AGUSTIN POMBO",
+   "CarneEntra": "68747",
+   "Jug_Entra": "JOAQUIN DOS SANTOS REGE",
+   "camiseta": "4",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "53862",
+   "Jug_Sale": "MANUEL ALEJANDRO MAYO",
+   "CarneEntra": "59215",
+   "Jug_Entra": "SANTIAGO GABRIEL SOSA",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67015",
+   "Jug_Sale": "LUCAS EMMANUEL LOPEZ",
+   "CarneEntra": "54828",
+   "Jug_Entra": "FEDERICO TOMAS BARRIOS",
+   "camiseta": "20",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67479",
+   "Jug_Sale": "RAMIRO PASTRANA",
+   "CarneEntra": "62836",
+   "Jug_Entra": "RODRIGO JOSE ZAS",
+   "camiseta": "19",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "53152",
+   "Jug_Sale": "MANUEL ALONSO",
+   "CarneEntra": "50127",
+   "Jug_Entra": "SANTIAGO CALVETE",
+   "camiseta": "21",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65878",
+   "Jug_Sale": "IGNACIO DANIEL DOLDAN",
+   "CarneEntra": "59752",
+   "Jug_Entra": "RAMIRO LOPEZ",
+   "camiseta": "9",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "62443",
+   "Jug_Sale": "JUAN SEBASTIAN RUMBO",
+   "CarneEntra": "62586",
+   "Jug_Entra": "LEANDRO MOCCIA",
+   "camiseta": "20",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "62581",
+   "Jug_Sale": "MAURICIO ANDRES DEUS",
+   "CarneEntra": "63640",
+   "Jug_Entra": "GONZALO MAS",
+   "camiseta": "45",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "41030",
+   "Jug_Sale": "LUCAS GONZALEZ",
+   "CarneEntra": "62587",
+   "Jug_Entra": "MATEO ALONSO",
+   "camiseta": "6",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "62838",
+   "Jug_Sale": "TADEO ARES",
+   "CarneEntra": "58704",
+   "Jug_Entra": "IGNACIO JAVIER ROMERO",
+   "camiseta": "13",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48540",
+   "Nombre": "CARLOS ANDRES SEGREDO",
+   "minutos": "89",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59215",
+   "Nombre": "SANTIAGO GABRIEL SOSA",
+   "minutos": "93",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63304",
+   "Nombre": "FRANCO MANUEL ROZINCHIN",
+   "minutos": "56",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65878",
+   "Nombre": "IGNACIO DANIEL DOLDAN",
+   "minutos": "49",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GONZALO NAHUEL MELO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

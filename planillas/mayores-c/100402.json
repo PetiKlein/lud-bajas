@@ -1,0 +1,239 @@
+{
+ "id": "100402",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 10,
+ "fechaHora": "2026-06-21 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "WOLFRAMIO",
+ "visitante": "POCO SITIO PLAYA VERDE",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "314",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-21 11:00:00",
+  "Fecha_fin": "2026-06-21 11:00:00",
+  "Locatario": "WOLFRAMIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "POCO SITIO PLAYA VERDE",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54125",
+   "Nombre": "MATIAS FEDERICO AREVALO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "42746",
+   "Nombre": "SANTIAGO SORRIBAS",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64859",
+   "Nombre": "GONZALO FERREIRA",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "43818",
+   "Nombre": "JOSE NICOLAS BESSON",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "46882",
+   "Nombre": "AGUSTIN BURIAN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "38351",
+   "Nombre": "FACUNDO SORRIBAS",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62391",
+   "Nombre": "JOAQUIN TECHERA SAMPAYO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "45611",
+   "Nombre": "FRANCISCO FERREIRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58707",
+   "Nombre": "GUZMAN MAZZEI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46445",
+   "Nombre": "GERMAN ODONNELL MORALES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54707",
+   "Nombre": "JUAN MARTIN VANOLI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "50792",
+   "Nombre": "LUCA BARCELO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43678",
+   "Nombre": "GONZALO ALBA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "50790",
+   "Nombre": "JOAQUIN ANDRES GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "50788",
+   "Nombre": "JUAN ANDRES VARELA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55045",
+   "Nombre": "JUAN BAUTISTA TORTORA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45240",
+   "Nombre": "JOSE MAURO COSENTINO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "44983",
+   "Nombre": "JUAN IGNACIO PIN",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "47787",
+   "Nombre": "JUAN PEDRO DOMINGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "56209",
+   "Nombre": "EMILIANO DI LASCIO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "41351",
+   "Nombre": "GONZALO RUBEN YIZMEYIAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40179",
+   "Nombre": "AGUSTIN FERNANDO GARABEDIAN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45611",
+   "Jug_Sale": "FRANCISCO FERREIRA",
+   "CarneEntra": "51268",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58707",
+   "Jug_Sale": "GUZMAN MAZZEI",
+   "CarneEntra": "67004",
+   "Jug_Entra": "GUZMAN VIEYTO",
+   "camiseta": "28",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "46445",
+   "Jug_Sale": "GERMAN ODONNELL MORALES",
+   "CarneEntra": "67261",
+   "Jug_Entra": "MARTIN PAZ",
+   "camiseta": "67",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "54707",
+   "Jug_Sale": "JUAN MARTIN VANOLI",
+   "CarneEntra": "67262",
+   "Jug_Entra": "MARCELO FEDERICO BERNI",
+   "camiseta": "66",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47787",
+   "Jug_Sale": "JUAN PEDRO DOMINGUEZ",
+   "CarneEntra": "39100",
+   "Jug_Entra": "TOMAS IGNACIO MANGGIAROTTI",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43678",
+   "Jug_Sale": "GONZALO ALBA",
+   "CarneEntra": "48717",
+   "Jug_Entra": "MAURO BUENO",
+   "camiseta": "35",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "55045",
+   "Jug_Sale": "JUAN BAUTISTA TORTORA",
+   "CarneEntra": "36872",
+   "Jug_Entra": "FEDERICO LUIS BISCARDI",
+   "camiseta": "14",
+   "minutos": "69"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46445",
+   "Nombre": "GERMAN ODONNELL MORALES",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

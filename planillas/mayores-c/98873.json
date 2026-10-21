@@ -1,0 +1,271 @@
+{
+ "id": "98873",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 5,
+ "fechaHora": "2026-05-17 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "DEFENSOR SPORTING",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "276",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-17 10:50:00",
+  "Fecha_fin": "2026-05-17 10:50:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEFENSOR SPORTING",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23480",
+   "Nombre": "IGNACIO GASTON BIDEGAIN",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33639",
+   "Nombre": "RICARDO ANDRES BAYARDI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59249",
+   "Nombre": "AGUSTIN CAMPON",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51528",
+   "Nombre": "CARLOS ALFREDO DUARTE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "35699",
+   "Nombre": "MAURO BASILE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47632",
+   "Nombre": "SANTIAGO COLOMBO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "25089",
+   "Nombre": "MAXIMILIANO SILVERA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55234",
+   "Nombre": "LUCAS DO VALLE PEIXOTO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61864",
+   "Nombre": "MAXIMILIANO VELAZQUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "54134",
+   "Nombre": "MARTIN CORTINAS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61296",
+   "Nombre": "JOAQUIN LUCIANO NUÑEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63615",
+   "Nombre": "SANTIAGO EMILIANO SILVERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67165",
+   "Nombre": "BRIAN ISMAEL FERREIRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45014",
+   "Nombre": "NICOLAS TORRES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54483",
+   "Nombre": "BRAIAN SUAREZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "68567",
+   "Nombre": "MATIAS ALEJO PEREZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "54048",
+   "Nombre": "LUCAS AMIGO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "54049",
+   "Nombre": "NAHUEL AMIGO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68568",
+   "Nombre": "RENZO BARBOZA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68566",
+   "Nombre": "MATHIAS NAHUEL GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "52327",
+   "Nombre": "DIEGO MATHIAS VALENZUELA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67921",
+   "Nombre": "ALFONSO SILVA",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61296",
+   "Jug_Sale": "JOAQUIN LUCIANO NUÑEZ",
+   "CarneEntra": "54922",
+   "Jug_Entra": "FABIAN ANDRE IRISARRI",
+   "camiseta": "7",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "51528",
+   "Jug_Sale": "CARLOS ALFREDO DUARTE",
+   "CarneEntra": "56437",
+   "Jug_Entra": "FEDERICO PAOLINO",
+   "camiseta": "10",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "25089",
+   "Jug_Sale": "MAXIMILIANO SILVERA",
+   "CarneEntra": "53297",
+   "Jug_Entra": "BENJAMIN SOBRINO",
+   "camiseta": "8",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "47632",
+   "Jug_Sale": "SANTIAGO COLOMBO",
+   "CarneEntra": "53309",
+   "Jug_Entra": "LUCIO GUALANO",
+   "camiseta": "43",
+   "minutos": "71"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68566",
+   "Jug_Sale": "MATHIAS NAHUEL GARCIA",
+   "CarneEntra": "50499",
+   "Jug_Entra": "MATIAS ALEJANDRO MELLO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54049",
+   "Jug_Sale": "NAHUEL AMIGO",
+   "CarneEntra": "68502",
+   "Jug_Entra": "IGNACIO AGUSTIN DEFACIO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52327",
+   "Jug_Sale": "DIEGO MATHIAS VALENZUELA",
+   "CarneEntra": "38030",
+   "Jug_Entra": "EMILIO GASTON BARAIBAR",
+   "camiseta": "25",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "68567",
+   "Jug_Sale": "MATIAS ALEJO PEREZ",
+   "CarneEntra": "63334",
+   "Jug_Entra": "ENZO MATEO GONZALEZ",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "54483",
+   "Jug_Sale": "BRAIAN SUAREZ",
+   "CarneEntra": "52505",
+   "Jug_Entra": "HEBER ANDRES LOPEZ",
+   "camiseta": "7",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67921",
+   "Jug_Sale": "ALFONSO SILVA",
+   "CarneEntra": "59941",
+   "Jug_Entra": "FRANCISCO SILVA",
+   "camiseta": "50",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67165",
+   "Jug_Sale": "BRIAN ISMAEL FERREIRA",
+   "CarneEntra": "42578",
+   "Jug_Entra": "SANTIAGO TORRES",
+   "camiseta": "13",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "54483",
+   "Nombre": "BRAIAN SUAREZ",
+   "minutos": "51",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

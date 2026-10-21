@@ -1,0 +1,292 @@
+{
+ "id": "99169",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 6,
+ "fechaHora": "2026-05-24 11:15:00",
+ "cancha": "ST PATRICKS",
+ "local": "OLD SAMPA CLUB",
+ "visitante": "DEPORTIVO SALTO",
+ "gl": 2,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "522",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "ST PATRICKS",
+  "Fecha_Inicio": "2026-05-24 13:06:00",
+  "Fecha_fin": "2026-05-24 13:06:00",
+  "Locatario": "OLD SAMPA CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO SALTO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49163",
+   "Nombre": "RAMON PINTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "21634",
+   "Nombre": "MATIAS CALACHA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64910",
+   "Nombre": "MARCOS GIMENEZ",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "61779",
+   "Nombre": "FERNANDO JORGE MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63135",
+   "Nombre": "SERGIO SILVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68610",
+   "Nombre": "BAYRON GABRIEL OTERO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62689",
+   "Nombre": "DYLAN SANTIAGO CORREA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "67713",
+   "Nombre": "ALAN ZEBALLOS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67715",
+   "Nombre": "TOMAS GONZALO MARQUEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "27933",
+   "Nombre": "ENRIQUE CALACHA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53207",
+   "Nombre": "CAMILO NICOLAS ROSA",
+   "camiseta": "70",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59286",
+   "Nombre": "FRANCO NAHUEL LACERDA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36567",
+   "Nombre": "RODRIGO CAMPOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60236",
+   "Nombre": "EZEQUIEL BARBOZA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "48491",
+   "Nombre": "GONZALO MIGUEL BRACCO",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40071",
+   "Nombre": "SANTIAGO NICOLAS CUENCA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "50939",
+   "Nombre": "FACUNDO CADENAS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "37238",
+   "Nombre": "PABLO JAVIER DIAZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54186",
+   "Nombre": "DIEGO VALENTIN ALVEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61744",
+   "Nombre": "ANTONIO SIMONET",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "64783",
+   "Nombre": "SEBASTIAN JOAQUIN DINARDI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "45516",
+   "Nombre": "JOAQUIN LORENZELLI",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67715",
+   "Jug_Sale": "TOMAS GONZALO MARQUEZ",
+   "CarneEntra": "68608",
+   "Jug_Entra": "THIAGO ARAMIS LOPEZ",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27933",
+   "Jug_Sale": "ENRIQUE CALACHA",
+   "CarneEntra": "67715",
+   "Jug_Entra": "TOMAS GONZALO MARQUEZ",
+   "camiseta": "2",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "62689",
+   "Jug_Sale": "DYLAN SANTIAGO CORREA",
+   "CarneEntra": "68424",
+   "Jug_Entra": "GABRIEL NICOLAS GONZALEZ",
+   "camiseta": "16",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50939",
+   "Jug_Sale": "FACUNDO CADENAS",
+   "CarneEntra": "54986",
+   "Jug_Entra": "AGUSTIN ESTEVES",
+   "camiseta": "20",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "54186",
+   "Jug_Sale": "DIEGO VALENTIN ALVEZ",
+   "CarneEntra": "46471",
+   "Jug_Entra": "PABLO EDUARDO FLORES",
+   "camiseta": "23",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "45516",
+   "Jug_Sale": "JOAQUIN LORENZELLI",
+   "CarneEntra": "64785",
+   "Jug_Entra": "NICOLAS SILVA Y ROSAS",
+   "camiseta": "75",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "40071",
+   "Jug_Sale": "SANTIAGO NICOLAS CUENCA",
+   "CarneEntra": "63767",
+   "Jug_Entra": "FRANCISCO ORIHUELA",
+   "camiseta": "33",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "48491",
+   "Jug_Sale": "GONZALO MIGUEL BRACCO",
+   "CarneEntra": "40071",
+   "Jug_Entra": "SANTIAGO NICOLAS CUENCA",
+   "camiseta": "15",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "61744",
+   "Jug_Sale": "ANTONIO SIMONET",
+   "CarneEntra": "54186",
+   "Jug_Entra": "DIEGO VALENTIN ALVEZ",
+   "camiseta": "17",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63135",
+   "Nombre": "SERGIO SILVA",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64910",
+   "Nombre": "MARCOS GIMENEZ",
+   "minutos": "46",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45516",
+   "Nombre": "JOAQUIN LORENZELLI",
+   "minutos": "14",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45516",
+   "Nombre": "JOAQUIN LORENZELLI",
+   "minutos": "36",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63767",
+   "Nombre": "FRANCISCO ORIHUELA",
+   "minutos": "78",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64783",
+   "Nombre": "SEBASTIAN JOAQUIN DINARDI",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64785",
+   "Nombre": "NICOLAS SILVA Y ROSAS",
+   "minutos": "74",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

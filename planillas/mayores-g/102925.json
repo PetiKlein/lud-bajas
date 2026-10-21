@@ -1,0 +1,305 @@
+{
+ "id": "102925",
+ "categoria": "mayores-g",
+ "serie": "GPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-14 22:00:00",
+ "cancha": "POLIDEPORTIVO FAUQUET",
+ "local": "CLUB ATLETICO BELLA VISTA",
+ "visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+ "gl": 1,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "1239",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "DIVISIONAL \"G\" COPA PLATA",
+  "Cancha": "POLIDEPORTIVO FAUQUET",
+  "Fecha_Inicio": "2026-10-14 23:50:00",
+  "Fecha_fin": "2026-10-14 23:50:00",
+  "Locatario": "CLUB ATLETICO BELLA VISTA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "COLEGIO Y LICEO SANTO DOMINGO",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63854",
+   "Nombre": "MATIAS MIGUEL GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44758",
+   "Nombre": "ALEJO PEREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "45617",
+   "Nombre": "FACUNDO MARCELO BARBERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67285",
+   "Nombre": "DILAN ANDRES SALDIAS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "49537",
+   "Nombre": "MATIAS GERMAN CONSTENLA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40228",
+   "Nombre": "HUGO JESUS CORREA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63851",
+   "Nombre": "JEDI MAXIMILIANO RODRIGUEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67698",
+   "Nombre": "CARLOS DANIEL PINTOS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "69120",
+   "Nombre": "JOAQUIN GOMEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64653",
+   "Nombre": "BRAULIO TOMAS MATTOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59251",
+   "Nombre": "BRYAN EZEQUIEL LATORRE",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54102",
+   "Nombre": "THIAGO ENRIQUE ROMERO",
+   "camiseta": "36",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "44090",
+   "Nombre": "PABLO KALEMKERIAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46847",
+   "Nombre": "SANTIAGO MARIO CAYAFA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "51462",
+   "Nombre": "NAHUEL PICO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56459",
+   "Nombre": "JORGE PABLO SZOLLOSSY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63190",
+   "Nombre": "MAURO CELIBERTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "41345",
+   "Nombre": "LUCAS ENRIQUE ALEIZON",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "61987",
+   "Nombre": "AGUSTIN NOVO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "58921",
+   "Nombre": "LEANDRO ANDRES GRIGNETTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "45143",
+   "Nombre": "NICOLAS GALEANO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "46846",
+   "Nombre": "SEBASTIAN MATTA",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "69120",
+   "Jug_Sale": "JOAQUIN GOMEZ",
+   "CarneEntra": "59072",
+   "Jug_Entra": "SANTIAGO AGUSTIN ALMEIDA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67698",
+   "Jug_Sale": "CARLOS DANIEL PINTOS",
+   "CarneEntra": "52720",
+   "Jug_Entra": "EDWARD ALEXIS BINTANCOUR",
+   "camiseta": "16",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "59072",
+   "Jug_Sale": "SANTIAGO AGUSTIN ALMEIDA",
+   "CarneEntra": "67698",
+   "Jug_Entra": "CARLOS DANIEL PINTOS",
+   "camiseta": "5",
+   "minutos": "71"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63190",
+   "Jug_Sale": "MAURO CELIBERTI",
+   "CarneEntra": "53206",
+   "Jug_Entra": "GASTON GALEANO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58921",
+   "Jug_Sale": "LEANDRO ANDRES GRIGNETTI",
+   "CarneEntra": "54903",
+   "Jug_Entra": "JUAN IGNACIO VIDAL",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45143",
+   "Jug_Sale": "NICOLAS GALEANO",
+   "CarneEntra": "68053",
+   "Jug_Entra": "NAHUEL MODERNELL",
+   "camiseta": "7",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "46847",
+   "Jug_Sale": "SANTIAGO MARIO CAYAFA",
+   "CarneEntra": "65695",
+   "Jug_Entra": "GONZALO FACELLO",
+   "camiseta": "16",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61987",
+   "Jug_Sale": "AGUSTIN NOVO",
+   "CarneEntra": "40036",
+   "Jug_Entra": "FACUNDO NICOLAS PADRON",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "44090",
+   "Jug_Sale": "PABLO KALEMKERIAN",
+   "CarneEntra": "59006",
+   "Jug_Entra": "IGNACIO MAYORA",
+   "camiseta": "17",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "46846",
+   "Jug_Sale": "SEBASTIAN MATTA",
+   "CarneEntra": "63190",
+   "Jug_Entra": "MAURO CELIBERTI",
+   "camiseta": "10",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63851",
+   "Nombre": "JEDI MAXIMILIANO RODRIGUEZ",
+   "minutos": "47",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46846",
+   "Nombre": "SEBASTIAN MATTA",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46846",
+   "Nombre": "SEBASTIAN MATTA",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58921",
+   "Nombre": "LEANDRO ANDRES GRIGNETTI",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63190",
+   "Nombre": "MAURO CELIBERTI",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63190",
+   "Nombre": "MAURO CELIBERTI",
+   "minutos": "83",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63190",
+   "Nombre": "MAURO CELIBERTI",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "ALEJO PEREZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,273 @@
+{
+ "id": "102028",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 4,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "C. U. CATOLICA AZUL",
+ "visitante": "CLUB ATLETICO LIMBURGO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "575",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-09-19 11:00:00",
+  "Fecha_fin": "2026-09-19 11:00:00",
+  "Locatario": "C. U. CATOLICA AZUL",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB ATLETICO LIMBURGO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58465",
+   "Nombre": "SANTIAGO MEYER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68671",
+   "Nombre": "FABRIZIO NICOLAS ISLAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "65984",
+   "Nombre": "ALFONSO BACCINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67639",
+   "Nombre": "AXEL NAHUEL CASTAÑO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "66908",
+   "Nombre": "LUCIANO NICOLAS BUZON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68954",
+   "Nombre": "GERMAN LATORRE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68242",
+   "Nombre": "VALENTINO ISMAEL GOLLY",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64129",
+   "Nombre": "MATEO FURTADO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45212",
+   "Nombre": "TOMAS BERRETA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62783",
+   "Nombre": "RENATO OLIVERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67483",
+   "Nombre": "OCTAVIO ALVEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67006",
+   "Nombre": "LUIS ANTHONY CENTENO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46385",
+   "Nombre": "FERNANDO EMANUEL FAGALDES",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "40189",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53417",
+   "Nombre": "MARCOS FERNANDEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "53255",
+   "Nombre": "LUCAS CRAVIOTTO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "68905",
+   "Nombre": "MATEO IGUINI",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "69125",
+   "Nombre": "IAN CASTILLO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "51238",
+   "Nombre": "MATIAS BELLINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "31775",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53151",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "50881",
+   "Nombre": "THOMAS JESKE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45212",
+   "Jug_Sale": "TOMAS BERRETA",
+   "CarneEntra": "61312",
+   "Jug_Entra": "FACUNDO NAHUEL NAVAS",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "64129",
+   "Jug_Sale": "MATEO FURTADO",
+   "CarneEntra": "49235",
+   "Jug_Entra": "SEBASTIAN PEDEMONTE",
+   "camiseta": "81",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "65984",
+   "Jug_Sale": "ALFONSO BACCINO",
+   "CarneEntra": "68670",
+   "Jug_Entra": "FRANCO EZEQUIEL MARTINEZ",
+   "camiseta": "29",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "62783",
+   "Jug_Sale": "RENATO OLIVERA",
+   "CarneEntra": "65355",
+   "Jug_Entra": "FRANCISCO LEANDRO SEQUEIRA",
+   "camiseta": "22",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "68242",
+   "Jug_Sale": "VALENTINO ISMAEL GOLLY",
+   "CarneEntra": "69147",
+   "Jug_Entra": "VALENTINO BARTABURU",
+   "camiseta": "2",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "68954",
+   "Jug_Sale": "GERMAN LATORRE",
+   "CarneEntra": "62786",
+   "Jug_Entra": "AGUSTIN DEL PRESTITO",
+   "camiseta": "13",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53255",
+   "Jug_Sale": "LUCAS CRAVIOTTO",
+   "CarneEntra": "42809",
+   "Jug_Entra": "EMILIANO WALTER FERREYRA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "69125",
+   "Jug_Sale": "IAN CASTILLO",
+   "CarneEntra": "56504",
+   "Jug_Entra": "THIAGO PELLEGRINO",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "46385",
+   "Jug_Sale": "FERNANDO EMANUEL FAGALDES",
+   "CarneEntra": "59742",
+   "Jug_Entra": "MATEO JOSE ONETTO",
+   "camiseta": "0",
+   "minutos": "71"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62783",
+   "Nombre": "RENATO OLIVERA",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "69147",
+   "Nombre": "VALENTINO BARTABURU",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53417",
+   "Nombre": "MARCOS FERNANDEZ",
+   "minutos": "20",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "LUCIANO NICOLAS BUZON",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,293 @@
+{
+ "id": "102482",
+ "categoria": "reserva-c",
+ "serie": "RSCTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "E.L.F.",
+ "visitante": "CEIBOS CLUB VERDE",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "732",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"C\" TIT. y ASC.",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-10-03 11:00:00",
+  "Fecha_fin": "2026-10-03 11:00:00",
+  "Locatario": "E.L.F.",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CEIBOS CLUB VERDE",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41722",
+   "Nombre": "NICOLAS FREYER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45411",
+   "Nombre": "MAXIMILIANO PARODI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "41367",
+   "Nombre": "FRANCISCO BARTESAGHI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "46978",
+   "Nombre": "IGNACIO TASSANI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "56280",
+   "Nombre": "SEBASTIAN MACHIN",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "49458",
+   "Nombre": "GUZMAN RODRIGUEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "52276",
+   "Nombre": "SANTIAGO CARAVIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48949",
+   "Nombre": "IGNACIO JOSE PALLAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "43672",
+   "Nombre": "ALEJO CORRADI",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46858",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "42786",
+   "Nombre": "MATEO CORRADI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54917",
+   "Nombre": "IGNACIO JOSE LUIS BRAGA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39059",
+   "Nombre": "GUILLERMO JOSE BARREIRO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68638",
+   "Nombre": "JUAN SANTIAGO QUINTERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "50906",
+   "Nombre": "IGNACION PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "26004",
+   "Nombre": "JOAQUIN FRASCHINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62073",
+   "Nombre": "JUAN IGNACIO PEVERELLI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "49450",
+   "Nombre": "AGUSTIN MATEO MACHADO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "49452",
+   "Nombre": "VALENTIN ALGARE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "49358",
+   "Nombre": "JUAN ANDRES TORRES NEGREIRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47807",
+   "Nombre": "JUAN ANDRES BRATSCHI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68603",
+   "Nombre": "FELIPE ROUCO",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46978",
+   "Jug_Sale": "IGNACIO TASSANI",
+   "CarneEntra": "49456",
+   "Jug_Entra": "IGNACIO ANTONIO CARNEIRO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46858",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "44457",
+   "Jug_Entra": "BRUNO GIORDANO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49458",
+   "Jug_Sale": "GUZMAN RODRIGUEZ",
+   "CarneEntra": "43242",
+   "Jug_Entra": "FRANCO PASARISA",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42786",
+   "Jug_Sale": "MATEO CORRADI",
+   "CarneEntra": "47572",
+   "Jug_Entra": "FACUNDO MACRI",
+   "camiseta": "99",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52276",
+   "Jug_Sale": "SANTIAGO CARAVIA",
+   "CarneEntra": "42784",
+   "Jug_Entra": "JOSE NICOLAS ROSA",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "43672",
+   "Jug_Sale": "ALEJO CORRADI",
+   "CarneEntra": "25642",
+   "Jug_Entra": "RODRIGO SEPEE PEREIRA",
+   "camiseta": "4",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "48949",
+   "Jug_Sale": "IGNACIO JOSE PALLAS",
+   "CarneEntra": "47469",
+   "Jug_Entra": "MATEO AGUILAR",
+   "camiseta": "24",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50906",
+   "Jug_Sale": "IGNACION PEREZ",
+   "CarneEntra": "58663",
+   "Jug_Entra": "JOAQUIN ETCHELAR",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26004",
+   "Jug_Sale": "JOAQUIN FRASCHINI",
+   "CarneEntra": "49360",
+   "Jug_Entra": "TOMAS JOSE TARIGO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47807",
+   "Jug_Sale": "JUAN ANDRES BRATSCHI",
+   "CarneEntra": "62490",
+   "Jug_Entra": "NICOLAS MARTIN LOGIURATO",
+   "camiseta": "11",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "68638",
+   "Jug_Sale": "JUAN SANTIAGO QUINTERO",
+   "CarneEntra": "46459",
+   "Jug_Entra": "TOMAS SEVERI",
+   "camiseta": "14",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "68603",
+   "Jug_Sale": "FELIPE ROUCO",
+   "CarneEntra": "63757",
+   "Jug_Entra": "IGNACIO ALVAREZ",
+   "camiseta": "20",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "49358",
+   "Jug_Sale": "JUAN ANDRES TORRES NEGREIRA",
+   "CarneEntra": "61798",
+   "Jug_Entra": "FELIPE MARIA BARRABINO",
+   "camiseta": "5",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46858",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49456",
+   "Nombre": "IGNACIO ANTONIO CARNEIRO",
+   "minutos": "64",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,246 @@
+{
+ "id": "99912",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "TAPE",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "67",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-06-13 11:00:00",
+  "Fecha_fin": "2026-06-13 11:00:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "TAPE",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67312",
+   "Nombre": "JUAN ANDRES VIÑOLY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58350",
+   "Nombre": "RAMIRO LEONCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56963",
+   "Nombre": "LUCAS BERTIN",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55106",
+   "Nombre": "JOAQUIN PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63582",
+   "Nombre": "ENZO GABRIEL URIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "53807",
+   "Nombre": "JUAN PEDRO GOMEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "31292",
+   "Nombre": "SANTIAGO ELIAS GAGGERO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "50717",
+   "Nombre": "SANTIAGO VEIGA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "36051",
+   "Nombre": "GONZALO PEREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "40692",
+   "Nombre": "NICOLAS COLLINS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45549",
+   "Nombre": "JOSE FACUNDO FONSECA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62512",
+   "Nombre": "AGUSTIN IBARLUCEA",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66854",
+   "Nombre": "AMADEO MOMBRU",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65015",
+   "Nombre": "VALENTIN BISIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59645",
+   "Nombre": "LUCAS BESOZZI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "49165",
+   "Nombre": "GUILLERMO PONS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65012",
+   "Nombre": "JUAN MARTIN IFRAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55777",
+   "Nombre": "LEANDRO MARCELO ERLE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65008",
+   "Nombre": "JUAN DIEGO JACQUES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "58314",
+   "Nombre": "JOAQUIN MENESES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66853",
+   "Nombre": "MARCELO JAVIER RUIZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55106",
+   "Jug_Sale": "JOAQUIN PEREZ",
+   "CarneEntra": "50917",
+   "Jug_Entra": "BRUNO MICELI",
+   "camiseta": "4",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "58507",
+   "Jug_Sale": "VALENTINO MUYANO",
+   "CarneEntra": "60494",
+   "Jug_Entra": "PEDRO ALBERTO LISTA",
+   "camiseta": "18",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "40692",
+   "Jug_Sale": "NICOLAS COLLINS",
+   "CarneEntra": "58507",
+   "Jug_Entra": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "31292",
+   "Jug_Sale": "SANTIAGO ELIAS GAGGERO",
+   "CarneEntra": "46500",
+   "Jug_Entra": "ENZO RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "50717",
+   "Jug_Sale": "SANTIAGO VEIGA",
+   "CarneEntra": "31298",
+   "Jug_Entra": "SANTIAGO OMAR TORIJA",
+   "camiseta": "21",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59645",
+   "Jug_Sale": "LUCAS BESOZZI",
+   "CarneEntra": "66067",
+   "Jug_Entra": "MATEO LUIS CHIAPPARRO",
+   "camiseta": "21",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "66853",
+   "Jug_Sale": "MARCELO JAVIER RUIZ",
+   "CarneEntra": "62245",
+   "Jug_Entra": "GONZALO VILLALBA",
+   "camiseta": "12",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "40692",
+   "Nombre": "NICOLAS COLLINS",
+   "minutos": "9",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66853",
+   "Nombre": "MARCELO JAVIER RUIZ",
+   "minutos": "30",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

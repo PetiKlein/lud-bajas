@@ -1,0 +1,271 @@
+{
+ "id": "99896",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 9,
+ "fechaHora": "2026-06-11 20:30:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "CLUB SEMINARIO",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "68",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-06-11 22:30:00",
+  "Fecha_fin": "2026-06-11 22:30:00",
+  "Locatario": "CLUB SEMINARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47800",
+   "Nombre": "MATIAS GARRIDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59121",
+   "Nombre": "ARIEL YONHATAN PACHECO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49263",
+   "Nombre": "MARTIN MURAÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "43035",
+   "Nombre": "LUCAS PIAGGIO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "50801",
+   "Nombre": "JUAN MANUEL DÌAZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42555",
+   "Nombre": "RODRIGO VAZQUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64647",
+   "Nombre": "FABRIZIO OSCAR PAGLIA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47683",
+   "Nombre": "JUAN IGNACIO VIOLA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52764",
+   "Nombre": "DIEGO BUELA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "48141",
+   "Nombre": "NICOLAS ANGEL DE LA PEÑA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "47678",
+   "Nombre": "PEDRO MACKINNON",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44894",
+   "Nombre": "JOAQUIN GARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37275",
+   "Nombre": "JOSE MARIA MAÑE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67091",
+   "Nombre": "FACUNDO TORRES",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "34986",
+   "Nombre": "FELIPE ANTONIO AZADIAN",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54974",
+   "Nombre": "SANTIAGO BOCAGE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "37272",
+   "Nombre": "JUAN LUIS IRULEGUY",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "54585",
+   "Nombre": "TOMAS CABRAL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "47505",
+   "Nombre": "NICOLAS MARTIN DECKER",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "47513",
+   "Nombre": "MAXIMO VARGAS",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "48369",
+   "Nombre": "LUCA BERTINI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53930",
+   "Nombre": "MAXIMO RICARDO SEIZER",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52764",
+   "Jug_Sale": "DIEGO BUELA",
+   "CarneEntra": "37424",
+   "Jug_Entra": "SANTIAGO PEREZ",
+   "camiseta": "14",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "47678",
+   "Jug_Sale": "PEDRO MACKINNON",
+   "CarneEntra": "50787",
+   "Jug_Entra": "JUAN PEDRO ABELLA",
+   "camiseta": "11",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "50801",
+   "Jug_Sale": "JUAN MANUEL DÌAZ",
+   "CarneEntra": "50855",
+   "Jug_Entra": "SEBASTIAN GUILLEN",
+   "camiseta": "17",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "48141",
+   "Jug_Sale": "NICOLAS ANGEL DE LA PEÑA",
+   "CarneEntra": "53659",
+   "Jug_Entra": "ANDRES HERRERA",
+   "camiseta": "16",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "50787",
+   "Jug_Sale": "JUAN PEDRO ABELLA",
+   "CarneEntra": "49282",
+   "Jug_Entra": "AGUSTIN TRUJILLO",
+   "camiseta": "2",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "64647",
+   "Jug_Sale": "FABRIZIO OSCAR PAGLIA",
+   "CarneEntra": "48141",
+   "Jug_Entra": "NICOLAS ANGEL DE LA PEÑA",
+   "camiseta": "9",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53930",
+   "Jug_Sale": "MAXIMO RICARDO SEIZER",
+   "CarneEntra": "41581",
+   "Jug_Entra": "ALFONSO SIMETO",
+   "camiseta": "33",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "47505",
+   "Jug_Sale": "NICOLAS MARTIN DECKER",
+   "CarneEntra": "54590",
+   "Jug_Entra": "ALFONSO MAILHOS",
+   "camiseta": "30",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54974",
+   "Jug_Sale": "SANTIAGO BOCAGE",
+   "CarneEntra": "37258",
+   "Jug_Entra": "LUIS PEDRO LENGUAS",
+   "camiseta": "13",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "37272",
+   "Jug_Sale": "JUAN LUIS IRULEGUY",
+   "CarneEntra": "54584",
+   "Jug_Entra": "BENJAMIN CAPELLI",
+   "camiseta": "31",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "37275",
+   "Jug_Sale": "JOSE MARIA MAÑE",
+   "CarneEntra": "47413",
+   "Jug_Entra": "LUCAS MARTIN VILLARONGA",
+   "camiseta": "32",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48141",
+   "Nombre": "NICOLAS ANGEL DE LA PEÑA",
+   "minutos": "39",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

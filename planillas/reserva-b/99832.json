@@ -1,0 +1,284 @@
+{
+ "id": "99832",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+ "local": "HEBRAICA UNIVERSITARIO",
+ "visitante": "OLD IVY",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "183",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+  "Fecha_Inicio": "2026-06-06 13:10:00",
+  "Fecha_fin": "2026-06-06 13:10:00",
+  "Locatario": "HEBRAICA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "OLD IVY",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45517",
+   "Nombre": "MATIAS WAPNIARSKY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "43445",
+   "Nombre": "SEBASTIAN ZOLKWER",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "45511",
+   "Nombre": "LUCAS LEVIN",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47247",
+   "Nombre": "ARIEL SOBOL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59244",
+   "Nombre": "AGUSTÌN PILAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "37317",
+   "Nombre": "MAURICIO WAITER",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53709",
+   "Nombre": "VARTAN TCHEKMEDYIAN",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "41711",
+   "Nombre": "MANUEL BORGIA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47826",
+   "Nombre": "JUAN DIEGO AMESTOY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "37327",
+   "Nombre": "FEDERICO DIEGO BAUZA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "37262",
+   "Nombre": "FRANCISCO VILLARONGA",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "42664",
+   "Nombre": "LUIS EDUARDO TOPOLANSKY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45601",
+   "Nombre": "JUAN BAUTISTA VILLARONGA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48008",
+   "Nombre": "SANTIAGO DABO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "66871",
+   "Nombre": "JUAN MANUEL COLMAN",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "56710",
+   "Nombre": "MARTIN BRUN",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47247",
+   "Jug_Sale": "ARIEL SOBOL",
+   "CarneEntra": "49164",
+   "Jug_Entra": "SEBASTIAN AKERMAN",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43445",
+   "Jug_Sale": "SEBASTIAN ZOLKWER",
+   "CarneEntra": "45526",
+   "Jug_Entra": "EITAN WUHL",
+   "camiseta": "80",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "59244",
+   "Jug_Sale": "AGUSTÌN PILAS",
+   "CarneEntra": "54753",
+   "Jug_Entra": "JOAQUIN BANEWUR",
+   "camiseta": "25",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "53835",
+   "Jug_Sale": "MATEO NAHMIAS",
+   "CarneEntra": "58032",
+   "Jug_Entra": "FEDERICO BENATAR",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59245",
+   "Jug_Sale": "AGUSTIN JUSTITZ",
+   "CarneEntra": "54690",
+   "Jug_Entra": "SANTIAGO SISIASVILI",
+   "camiseta": "2",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37262",
+   "Jug_Sale": "FRANCISCO VILLARONGA",
+   "CarneEntra": "54916",
+   "Jug_Entra": "FELIPE VILLARONGA",
+   "camiseta": "16",
+   "minutos": "2"
+  },
+  {
+   "CarneSale": "37327",
+   "Jug_Sale": "FEDERICO DIEGO BAUZA",
+   "CarneEntra": "40245",
+   "Jug_Entra": "DIEGO FERNANDEZ",
+   "camiseta": "2",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "56710",
+   "Jug_Sale": "MARTIN BRUN",
+   "CarneEntra": "55486",
+   "Jug_Entra": "ISMAEL CASTRO",
+   "camiseta": "21",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "47826",
+   "Jug_Sale": "JUAN DIEGO AMESTOY",
+   "CarneEntra": "56710",
+   "Jug_Entra": "MARTIN BRUN",
+   "camiseta": "28",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "49105",
+   "Jug_Sale": "NICOLAS CASAMAYOU",
+   "CarneEntra": "39134",
+   "Jug_Entra": "MATIAS ORSI",
+   "camiseta": "19",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "48008",
+   "Jug_Sale": "SANTIAGO DABO",
+   "CarneEntra": "37430",
+   "Jug_Entra": "MARTIN VAZQUEZ",
+   "camiseta": "20",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "54916",
+   "Jug_Sale": "FELIPE VILLARONGA",
+   "CarneEntra": "41720",
+   "Jug_Entra": "MATIAS MENGOT",
+   "camiseta": "80",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "minutos": "51",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "MATIAS SZAFRAN",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

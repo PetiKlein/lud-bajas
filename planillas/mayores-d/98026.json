@@ -1,0 +1,296 @@
+{
+ "id": "98026",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 1,
+ "fechaHora": "2026-04-12 09:00:00",
+ "cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+ "local": "PEÑAROL UNIVERSITARIO",
+ "visitante": "LA 12 UNIVERSITARIA",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "367",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+  "Fecha_Inicio": "2026-04-12 00:00:00",
+  "Fecha_fin": "2026-04-12 00:00:00",
+  "Locatario": "PEÑAROL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "LA 12 UNIVERSITARIA",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66992",
+   "Nombre": "MATHIAS ALEXANDER MONTIEL",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "49170",
+   "Nombre": "BRUNO EMILIANO BERMUDEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "53137",
+   "Nombre": "CHRISTIAN ADRIAN FALCON",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66848",
+   "Nombre": "FACUNDO CHIFFONE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66847",
+   "Nombre": "FACUNDO SEBASTIAN SASTRE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49820",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66845",
+   "Nombre": "FACUNDO OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55028",
+   "Nombre": "JUAN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55275",
+   "Nombre": "SEBASTIAN ELTON GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65783",
+   "Nombre": "BRUNO IGNACIO ALVAREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57112",
+   "Nombre": "LUCAS MATTEO ANCHETA",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "33323",
+   "Nombre": "RICARDO NICOLAS FACAL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53887",
+   "Nombre": "IGNACIO RAUL ALVAREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "38775",
+   "Nombre": "LEONARDO ALBERTO CORREA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "49075",
+   "Nombre": "ENZO ZUCCHETTI",
+   "camiseta": "27",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60785",
+   "Nombre": "JEREMY SEBASTIAN MORENO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "60083",
+   "Nombre": "GIANFRANCO CIMINO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "66938",
+   "Nombre": "MAURICIO ERNESTO PEREYRA",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "52908",
+   "Nombre": "AGUSTIN SALVADOR ROSSELLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55135",
+   "Nombre": "MATIAS MEDRANO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "58016",
+   "Nombre": "MAURO MEDRANO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "50527",
+   "Nombre": "FACUNDO TALAGORRIA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55028",
+   "Jug_Sale": "JUAN RODRIGUEZ",
+   "CarneEntra": "64480",
+   "Jug_Entra": "MAXIMO FABRICIO NIEVAS",
+   "camiseta": "9",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "49170",
+   "Jug_Sale": "BRUNO EMILIANO BERMUDEZ",
+   "CarneEntra": "44849",
+   "Jug_Entra": "FACUNDO EZEQUIEL VALIENTE",
+   "camiseta": "4",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "65783",
+   "Jug_Sale": "BRUNO IGNACIO ALVAREZ",
+   "CarneEntra": "66094",
+   "Jug_Entra": "SANTIAGO JOEL MACHADO",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "55275",
+   "Jug_Sale": "SEBASTIAN ELTON GONZALEZ",
+   "CarneEntra": "63413",
+   "Jug_Entra": "JUAN IGNACIO MERNIES",
+   "camiseta": "21",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49075",
+   "Jug_Sale": "ENZO ZUCCHETTI",
+   "CarneEntra": "38683",
+   "Jug_Entra": "BRUNO CRISTIAN PEREYRA",
+   "camiseta": "30",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "58016",
+   "Jug_Sale": "MAURO MEDRANO",
+   "CarneEntra": "60118",
+   "Jug_Entra": "DIEGO VICENTE CESAR",
+   "camiseta": "9",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "55135",
+   "Jug_Sale": "MATIAS MEDRANO",
+   "CarneEntra": "54654",
+   "Jug_Entra": "MARTIN BERASAIN",
+   "camiseta": "6",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "66938",
+   "Jug_Sale": "MAURICIO ERNESTO PEREYRA",
+   "CarneEntra": "45734",
+   "Jug_Entra": "AGUSTIN IGNACIO CORREA",
+   "camiseta": "10",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "52908",
+   "Jug_Sale": "AGUSTIN SALVADOR ROSSELLO",
+   "CarneEntra": "64340",
+   "Jug_Entra": "ALEX ALFONSO",
+   "camiseta": "13",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "50527",
+   "Jug_Sale": "FACUNDO TALAGORRIA",
+   "CarneEntra": "43707",
+   "Jug_Entra": "FACUNDO MARIANO MUÑOZ",
+   "camiseta": "32",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "38775",
+   "Jug_Sale": "LEONARDO ALBERTO CORREA",
+   "CarneEntra": "41167",
+   "Jug_Entra": "MATEO TECHERA",
+   "camiseta": "18",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55275",
+   "Nombre": "SEBASTIAN ELTON GONZALEZ",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "43707",
+   "Nombre": "FACUNDO MARIANO MUÑOZ",
+   "minutos": "94",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49075",
+   "Nombre": "ENZO ZUCCHETTI",
+   "minutos": "26",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52908",
+   "Nombre": "AGUSTIN SALVADOR ROSSELLO",
+   "minutos": "7",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55135",
+   "Nombre": "MATIAS MEDRANO",
+   "minutos": "53",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

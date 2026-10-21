@@ -1,0 +1,285 @@
+{
+ "id": "102186",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "OLD CHRISTIANS NARANJA",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "348",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-09-19 13:00:00",
+  "Fecha_fin": "2026-09-19 13:00:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "OLD CHRISTIANS NARANJA",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "51935",
+   "Nombre": "SANTIAGO PAGANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54193",
+   "Nombre": "GASTON LOMBARDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "44550",
+   "Nombre": "FEDERICO JAVIER DE SIANO",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41360",
+   "Nombre": "JUAN IGNACIO OLIVERA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "47468",
+   "Nombre": "IGNACIO ANIDAPE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "55228",
+   "Nombre": "CRISTIAN ADRIAN LEMOS",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "35220",
+   "Nombre": "LUCIANO LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51381",
+   "Nombre": "DIEGO MARTIN SUAREZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "68751",
+   "Nombre": "BRUNO MANUEL MENA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53316",
+   "Nombre": "SANTIAGO NAHUEL NUÑEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46770",
+   "Nombre": "TOMAS LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62604",
+   "Nombre": "JUAN CRUZ DE AZPITARTE",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68309",
+   "Nombre": "TOMAS DE CASTRO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52817",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "52822",
+   "Nombre": "LUCAS RUVIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62365",
+   "Nombre": "JOSE AGUSTIN BÖCKING",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "43890",
+   "Nombre": "EMILIANO ROSS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55122",
+   "Nombre": "NICOLAS POL",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "39526",
+   "Nombre": "JUAN MARTIN BASIGALUZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "46003",
+   "Nombre": "MARTIN VIGORITO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66781",
+   "Nombre": "FELIPE FERNANDEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47808",
+   "Jug_Sale": "SANTIAGO FERNANDO IRURTIA",
+   "CarneEntra": "52034",
+   "Jug_Entra": "DANIEL BLANCHARD",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47468",
+   "Jug_Sale": "IGNACIO ANIDAPE",
+   "CarneEntra": "33639",
+   "Jug_Entra": "RICARDO ANDRES BAYARDI",
+   "camiseta": "12",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "68751",
+   "Jug_Sale": "BRUNO MANUEL MENA",
+   "CarneEntra": "52614",
+   "Jug_Entra": "AGUSTIN ALEJANDRO LAIN",
+   "camiseta": "70",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "44550",
+   "Jug_Sale": "FEDERICO JAVIER DE SIANO",
+   "CarneEntra": "56438",
+   "Jug_Entra": "MARTIN CALERO",
+   "camiseta": "7",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "51381",
+   "Jug_Sale": "DIEGO MARTIN SUAREZ",
+   "CarneEntra": "53452",
+   "Jug_Entra": "MATIAS LANDER",
+   "camiseta": "26",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "53316",
+   "Jug_Sale": "SANTIAGO NAHUEL NUÑEZ",
+   "CarneEntra": "69111",
+   "Jug_Entra": "ENZO MARTIN MENA",
+   "camiseta": "16",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "55228",
+   "Jug_Sale": "CRISTIAN ADRIAN LEMOS",
+   "CarneEntra": "51525",
+   "Jug_Entra": "FACUNDO MARTIN CASAVIEJA",
+   "camiseta": "9",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62365",
+   "Jug_Sale": "JOSE AGUSTIN BÖCKING",
+   "CarneEntra": "37180",
+   "Jug_Entra": "ROBERTO SEBASTIAN RAVASCHIO",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68309",
+   "Jug_Sale": "TOMAS DE CASTRO",
+   "CarneEntra": "53889",
+   "Jug_Entra": "MANUEL TERRA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43890",
+   "Jug_Sale": "EMILIANO ROSS",
+   "CarneEntra": "65819",
+   "Jug_Entra": "ALEJANDRO GAMMELLA",
+   "camiseta": "45",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "52822",
+   "Jug_Sale": "LUCAS RUVIRA",
+   "CarneEntra": "56981",
+   "Jug_Entra": "JUAN CRUZ GIANOLI",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "39526",
+   "Jug_Sale": "JUAN MARTIN BASIGALUZ",
+   "CarneEntra": "52604",
+   "Jug_Entra": "FRANCISCO REYES",
+   "camiseta": "30",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "66781",
+   "Jug_Sale": "FELIPE FERNANDEZ",
+   "CarneEntra": "53967",
+   "Jug_Entra": "ALFONSO VIGORITO",
+   "camiseta": "15",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JUAN CRUZ DE AZPITARTE",
+   "observaciones": ""
+  }
+ ]
+}

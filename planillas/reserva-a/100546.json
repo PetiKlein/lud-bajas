@@ -1,0 +1,270 @@
+{
+ "id": "100546",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "82",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-06-27 11:00:00",
+  "Fecha_fin": "2026-06-27 11:00:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "48534",
+   "Nombre": "LEANDRO LOBELCHO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55500",
+   "Nombre": "TOMAS KEUROGLIAN",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58350",
+   "Nombre": "RAMIRO LEONCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56963",
+   "Nombre": "LUCAS BERTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "42097",
+   "Nombre": "JUAN MANUEL LEIZA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56667",
+   "Nombre": "JUAN DIEGO GODOY",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "31292",
+   "Nombre": "SANTIAGO ELIAS GAGGERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62452",
+   "Nombre": "FRANCISCO ARRUA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57413",
+   "Nombre": "ENZO SEBASTIAN LAXAGUE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60494",
+   "Nombre": "PEDRO ALBERTO LISTA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55476",
+   "Nombre": "IGNACIO MELLO",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "55602",
+   "Nombre": "CAETANO MARRONE",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "48838",
+   "Nombre": "BRUNO GRAJALES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "48896",
+   "Nombre": "FACUNDO ALPUIN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60494",
+   "Jug_Sale": "PEDRO ALBERTO LISTA",
+   "CarneEntra": "53807",
+   "Jug_Entra": "JUAN PEDRO GOMEZ",
+   "camiseta": "7",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "57413",
+   "Jug_Sale": "ENZO SEBASTIAN LAXAGUE",
+   "CarneEntra": "40692",
+   "Jug_Entra": "NICOLAS COLLINS",
+   "camiseta": "9",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "56667",
+   "Jug_Sale": "JUAN DIEGO GODOY",
+   "CarneEntra": "50917",
+   "Jug_Entra": "BRUNO MICELI",
+   "camiseta": "4",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "31292",
+   "Jug_Sale": "SANTIAGO ELIAS GAGGERO",
+   "CarneEntra": "56667",
+   "Jug_Entra": "JUAN DIEGO GODOY",
+   "camiseta": "19",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "58507",
+   "Jug_Sale": "VALENTINO MUYANO",
+   "CarneEntra": "57413",
+   "Jug_Entra": "ENZO SEBASTIAN LAXAGUE",
+   "camiseta": "20",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42290",
+   "Jug_Sale": "PABLO JOAQUIN PARADO",
+   "CarneEntra": "52811",
+   "Jug_Entra": "FELIPE PERLA",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49414",
+   "Jug_Sale": "DIEGO GABRIEL HANDALIAN",
+   "CarneEntra": "49711",
+   "Jug_Entra": "SANTIAGO CABRERA",
+   "camiseta": "29",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "55602",
+   "Jug_Sale": "CAETANO MARRONE",
+   "CarneEntra": "42290",
+   "Jug_Entra": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "54738",
+   "Jug_Sale": "THIAGO MORLAN",
+   "CarneEntra": "49414",
+   "Jug_Entra": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "42059",
+   "Jug_Sale": "RODRIGO FERREIRO",
+   "CarneEntra": "55602",
+   "Jug_Entra": "CAETANO MARRONE",
+   "camiseta": "92",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "42097",
+   "Nombre": "JUAN MANUEL LEIZA",
+   "minutos": "19",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "48896",
+   "Nombre": "FACUNDO ALPUIN",
+   "minutos": "68",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

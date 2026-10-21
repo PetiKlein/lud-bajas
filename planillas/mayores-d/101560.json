@@ -1,0 +1,265 @@
+{
+ "id": "101560",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 12,
+ "fechaHora": "2026-09-06 09:00:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "LA 12 UNIVERSITARIA",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "453",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-09-06 11:05:00",
+  "Fecha_fin": "2026-09-06 11:05:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "LA 12 UNIVERSITARIA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44677",
+   "Nombre": "CARLOS FACUNDO MORENO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45466",
+   "Nombre": "AGUSTIN CALABUIG",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "54838",
+   "Nombre": "AGUSTIN GANACHIPPI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "17587",
+   "Nombre": "GONZALO HOMERO ALBIN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65354",
+   "Nombre": "JULIAN COHENAR",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "54839",
+   "Nombre": "NICOLAS ANTELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57829",
+   "Nombre": "FRANCO ALESSANDRO BARROSO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "59766",
+   "Nombre": "JOSE ANDRES MARQUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54513",
+   "Nombre": "MATIAS MICHEL TORRES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59436",
+   "Nombre": "LAUTARO OLVEIRA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54201",
+   "Nombre": "KEVIN LUCIAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41167",
+   "Nombre": "MATEO TECHERA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53887",
+   "Nombre": "IGNACIO RAUL ALVAREZ",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "38775",
+   "Nombre": "LEONARDO ALBERTO CORREA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60785",
+   "Nombre": "JEREMY SEBASTIAN MORENO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60083",
+   "Nombre": "GIANFRANCO CIMINO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "52908",
+   "Nombre": "AGUSTIN SALVADOR ROSSELLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66938",
+   "Nombre": "MAURICIO ERNESTO PEREYRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55135",
+   "Nombre": "MATIAS MEDRANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "50527",
+   "Nombre": "FACUNDO TALAGORRIA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58016",
+   "Nombre": "MAURO MEDRANO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57829",
+   "Jug_Sale": "FRANCO ALESSANDRO BARROSO",
+   "CarneEntra": "59385",
+   "Jug_Entra": "PEDRO CAPDEVIELLE",
+   "camiseta": "20",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "31995",
+   "Jug_Sale": "JORGE IGNACIO DIAZ",
+   "CarneEntra": "66880",
+   "Jug_Entra": "FELIPE PFEIFF",
+   "camiseta": "8",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "54513",
+   "Jug_Sale": "MATIAS MICHEL TORRES",
+   "CarneEntra": "59389",
+   "Jug_Entra": "RODRIGO GERMAN FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60083",
+   "Jug_Sale": "GIANFRANCO CIMINO",
+   "CarneEntra": "38683",
+   "Jug_Entra": "BRUNO CRISTIAN PEREYRA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58016",
+   "Jug_Sale": "MAURO MEDRANO",
+   "CarneEntra": "43707",
+   "Jug_Entra": "FACUNDO MARIANO MUÑOZ",
+   "camiseta": "32",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "38775",
+   "Jug_Sale": "LEONARDO ALBERTO CORREA",
+   "CarneEntra": "64340",
+   "Jug_Entra": "ALEX ALFONSO",
+   "camiseta": "16",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "60785",
+   "Jug_Sale": "JEREMY SEBASTIAN MORENO",
+   "CarneEntra": "58016",
+   "Jug_Entra": "MAURO MEDRANO",
+   "camiseta": "8",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "41167",
+   "Jug_Sale": "MATEO TECHERA",
+   "CarneEntra": "66937",
+   "Jug_Entra": "MATIAS CAIMI",
+   "camiseta": "28",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54839",
+   "Nombre": "NICOLAS ANTELO",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54839",
+   "Nombre": "NICOLAS ANTELO",
+   "minutos": "55",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52908",
+   "Nombre": "AGUSTIN SALVADOR ROSSELLO",
+   "minutos": "76",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "AGUSTIN CALABUIG",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

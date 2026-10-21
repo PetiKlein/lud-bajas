@@ -1,0 +1,317 @@
+{
+ "id": "99370",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "CLUB SEMINARIO",
+ "visitante": "PLAYA HONDA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "53",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-05-30 13:20:00",
+  "Fecha_fin": "2026-05-30 13:20:00",
+  "Locatario": "CLUB SEMINARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "PLAYA HONDA UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49263",
+   "Nombre": "MARTIN MURAÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42555",
+   "Nombre": "RODRIGO VAZQUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62949",
+   "Nombre": "JUAN IGNACIO PEDROZO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "49282",
+   "Nombre": "AGUSTIN TRUJILLO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "50801",
+   "Nombre": "JUAN MANUEL DÌAZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50855",
+   "Nombre": "SEBASTIAN GUILLEN",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52764",
+   "Nombre": "DIEGO BUELA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47800",
+   "Nombre": "MATIAS GARRIDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50787",
+   "Nombre": "JUAN PEDRO ABELLA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52457",
+   "Nombre": "SANTIAGO RAUL MAY",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "48141",
+   "Nombre": "NICOLAS ANGEL DE LA PEÑA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53369",
+   "Nombre": "IVAN BARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53845",
+   "Nombre": "MARTIN CURUTCHAGUE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55177",
+   "Nombre": "MARCO PISANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "58715",
+   "Nombre": "JUAN SEBASTIAN RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "41179",
+   "Nombre": "EUGENIO SUPPARO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56818",
+   "Nombre": "FACUNDO MARCEL RODRIGUEZ",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "58718",
+   "Nombre": "FRANCISCO DE LOS SANTOS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "49922",
+   "Nombre": "ANDRES PIÑEIRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "67535",
+   "Nombre": "BENJAMIN DE IZAGUIRRE",
+   "camiseta": "44",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50801",
+   "Jug_Sale": "JUAN MANUEL DÌAZ",
+   "CarneEntra": "47678",
+   "Jug_Entra": "PEDRO MACKINNON",
+   "camiseta": "11",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "50855",
+   "Jug_Sale": "SEBASTIAN GUILLEN",
+   "CarneEntra": "58599",
+   "Jug_Entra": "FACUNDO MOSCA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49282",
+   "Jug_Sale": "AGUSTIN TRUJILLO",
+   "CarneEntra": "59121",
+   "Jug_Entra": "ARIEL YONHATAN PACHECO",
+   "camiseta": "3",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "48141",
+   "Jug_Sale": "NICOLAS ANGEL DE LA PEÑA",
+   "CarneEntra": "48286",
+   "Jug_Entra": "FRANCISCO AMEIGENDA",
+   "camiseta": "16",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "52457",
+   "Jug_Sale": "SANTIAGO RAUL MAY",
+   "CarneEntra": "47700",
+   "Jug_Entra": "SANTIAGO JOSE CERISOLA",
+   "camiseta": "5",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "62949",
+   "Jug_Sale": "JUAN IGNACIO PEDROZO",
+   "CarneEntra": "45229",
+   "Jug_Entra": "BAUTISTA JOSE MARTINEZ",
+   "camiseta": "14",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62123",
+   "Jug_Sale": "LAUTARO ELIAS CATSOURIS",
+   "CarneEntra": "53617",
+   "Jug_Entra": "MAXIMILIANO MONTERO",
+   "camiseta": "31",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "56818",
+   "Jug_Sale": "FACUNDO MARCEL RODRIGUEZ",
+   "CarneEntra": "68646",
+   "Jug_Entra": "MARTIN GUADALUPE",
+   "camiseta": "35",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "49922",
+   "Jug_Sale": "ANDRES PIÑEIRO",
+   "CarneEntra": "62024",
+   "Jug_Entra": "JUAN MANUEL BOCCHI",
+   "camiseta": "41",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67535",
+   "Jug_Sale": "BENJAMIN DE IZAGUIRRE",
+   "CarneEntra": "55064",
+   "Jug_Entra": "GERONIMO LAIN",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58715",
+   "Jug_Sale": "JUAN SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "67537",
+   "Jug_Entra": "BAUTISTA GARRE",
+   "camiseta": "38",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "52880",
+   "Jug_Sale": "RODOLFO RODRIGUEZ",
+   "CarneEntra": "54805",
+   "Jug_Entra": "MATIAS PALMERO",
+   "camiseta": "13",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "53845",
+   "Jug_Sale": "MARTIN CURUTCHAGUE",
+   "CarneEntra": "61152",
+   "Jug_Entra": "DIEGO FRANCISCO CORTES",
+   "camiseta": "45",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47700",
+   "Nombre": "SANTIAGO JOSE CERISOLA",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53617",
+   "Nombre": "MAXIMILIANO MONTERO",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56818",
+   "Nombre": "FACUNDO MARCEL RODRIGUEZ",
+   "minutos": "7",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58718",
+   "Nombre": "FRANCISCO DE LOS SANTOS",
+   "minutos": "3",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "RODRIGO VAZQUEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

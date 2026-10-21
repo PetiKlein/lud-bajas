@@ -1,0 +1,271 @@
+{
+ "id": "102416",
+ "categoria": "reserva-c",
+ "serie": "RSCPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "ST. BRENDANS",
+ "local": "OLD BRENDANS VERDE",
+ "visitante": "COLEGIO Y LICEO INGLES",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "754",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"C\" PER. y DESC.",
+  "Cancha": "ST. BRENDANS",
+  "Fecha_Inicio": "2026-09-26 11:15:00",
+  "Fecha_fin": "2026-09-26 11:15:00",
+  "Locatario": "OLD BRENDANS VERDE",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "COLEGIO Y LICEO INGLES",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53394",
+   "Nombre": "DIEGO SABAJ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49150",
+   "Nombre": "GASTON SCHMIDT",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41985",
+   "Nombre": "PABLO ANDRES GINARD",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "56336",
+   "Nombre": "JUAN IGNACIO BRAGA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "55605",
+   "Nombre": "BAUTISTA PARODI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64017",
+   "Nombre": "JUAN IGNACIO MENENDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56510",
+   "Nombre": "JULIO PATRICIO JAKOB",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55930",
+   "Nombre": "BRYAN EZEQUIEL GIOVINAZZO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "57033",
+   "Nombre": "LORENZO URIARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54756",
+   "Nombre": "ADRIANO MARTIN AGGIO",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64433",
+   "Nombre": "SANTIAGO LUCAS RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59416",
+   "Nombre": "PEDRO BAUTISTA RODRIGUEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "45633",
+   "Nombre": "PABLO AGUIAR",
+   "camiseta": "55",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59413",
+   "Nombre": "TIAGO MAIORANO",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "47716",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "39406",
+   "Nombre": "AGUSTIN FELIPEZ",
+   "camiseta": "56",
+   "Capitan": ""
+  },
+  {
+   "carne": "39479",
+   "Nombre": "GASTON MUIÑO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "36986",
+   "Nombre": "JUAN CRUZ ESTEVEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53131",
+   "Nombre": "JUAN CRUZ CAFFERATTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48882",
+   "Nombre": "JUAN IGNACIO APOLO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "39287",
+   "Nombre": "NICOLAS MONTERO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56336",
+   "Jug_Sale": "JUAN IGNACIO BRAGA",
+   "CarneEntra": "56474",
+   "Jug_Entra": "JUAN BAUTISTA PAGANI",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55605",
+   "Jug_Sale": "BAUTISTA PARODI",
+   "CarneEntra": "58816",
+   "Jug_Entra": "GUILLERMO SOTO",
+   "camiseta": "45",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56510",
+   "Jug_Sale": "JULIO PATRICIO JAKOB",
+   "CarneEntra": "51443",
+   "Jug_Entra": "MATEO DAVID BONIFACIO",
+   "camiseta": "92",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54756",
+   "Jug_Sale": "ADRIANO MARTIN AGGIO",
+   "CarneEntra": "56684",
+   "Jug_Entra": "TOMAS ALDABALDE",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57033",
+   "Jug_Sale": "LORENZO URIARTE",
+   "CarneEntra": "52454",
+   "Jug_Entra": "FRANCO SOTO",
+   "camiseta": "71",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "52454",
+   "Jug_Sale": "FRANCO SOTO",
+   "CarneEntra": "56472",
+   "Jug_Entra": "FACUNDO ASTIAZARAN",
+   "camiseta": "41",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "55930",
+   "Jug_Sale": "BRYAN EZEQUIEL GIOVINAZZO",
+   "CarneEntra": "56510",
+   "Jug_Entra": "JULIO PATRICIO JAKOB",
+   "camiseta": "17",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39406",
+   "Jug_Sale": "AGUSTIN FELIPEZ",
+   "CarneEntra": "45310",
+   "Jug_Entra": "TOMAS ANTONIO MILAT",
+   "camiseta": "14",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "47716",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "48798",
+   "Jug_Entra": "MATIAS ONANDI",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48882",
+   "Jug_Sale": "JUAN IGNACIO APOLO",
+   "CarneEntra": "52049",
+   "Jug_Entra": "AGUSTIN LAMAS",
+   "camiseta": "33",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "53131",
+   "Jug_Sale": "JUAN CRUZ CAFFERATTA",
+   "CarneEntra": "59406",
+   "Jug_Entra": "FEDERICO CANDAU",
+   "camiseta": "11",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "48882",
+   "Nombre": "JUAN IGNACIO APOLO",
+   "minutos": "17",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

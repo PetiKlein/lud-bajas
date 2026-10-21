@@ -1,0 +1,288 @@
+{
+ "id": "101868",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 13,
+ "fechaHora": "2026-09-13 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "LA 12 UNIVERSITARIA",
+ "visitante": "NUMA TURCATTI",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "460",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-09-13 11:00:00",
+  "Fecha_fin": "2026-09-13 11:00:00",
+  "Locatario": "LA 12 UNIVERSITARIA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "NUMA TURCATTI",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "33323",
+   "Nombre": "RICARDO NICOLAS FACAL",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "41167",
+   "Nombre": "MATEO TECHERA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "38683",
+   "Nombre": "BRUNO CRISTIAN PEREYRA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64340",
+   "Nombre": "ALEX ALFONSO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "60785",
+   "Nombre": "JEREMY SEBASTIAN MORENO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60083",
+   "Nombre": "GIANFRANCO CIMINO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "52908",
+   "Nombre": "AGUSTIN SALVADOR ROSSELLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66938",
+   "Nombre": "MAURICIO ERNESTO PEREYRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55135",
+   "Nombre": "MATIAS MEDRANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58016",
+   "Nombre": "MAURO MEDRANO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54654",
+   "Nombre": "MARTIN BERASAIN",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37679",
+   "Nombre": "JORGE ANTONIO PONS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54090",
+   "Nombre": "HERNAN ARIEL CAÑETE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47895",
+   "Nombre": "TOMAS BAZAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54622",
+   "Nombre": "JUAN MANUEL CADENAS",
+   "camiseta": "33",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42774",
+   "Nombre": "LUIS ESTEBAN FERMER",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "39900",
+   "Nombre": "BRUNO BRUZZONE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "39467",
+   "Nombre": "MATEO YUVET",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68506",
+   "Nombre": "NICOLAS MENDEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "38683",
+   "Jug_Sale": "BRUNO CRISTIAN PEREYRA",
+   "CarneEntra": "68740",
+   "Jug_Entra": "JUAN FRANCISCO ROSSELLO",
+   "camiseta": "34",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "58016",
+   "Jug_Sale": "MAURO MEDRANO",
+   "CarneEntra": "43707",
+   "Jug_Entra": "FACUNDO MARIANO MUÑOZ",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54654",
+   "Jug_Sale": "MARTIN BERASAIN",
+   "CarneEntra": "60118",
+   "Jug_Entra": "DIEGO VICENTE CESAR",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60083",
+   "Jug_Sale": "GIANFRANCO CIMINO",
+   "CarneEntra": "58016",
+   "Jug_Entra": "MAURO MEDRANO",
+   "camiseta": "8",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "41167",
+   "Jug_Sale": "MATEO TECHERA",
+   "CarneEntra": "54654",
+   "Jug_Entra": "MARTIN BERASAIN",
+   "camiseta": "19",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68506",
+   "Jug_Sale": "NICOLAS MENDEZ",
+   "CarneEntra": "61334",
+   "Jug_Entra": "ALAN JAVIER VALERA",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61334",
+   "Jug_Sale": "ALAN JAVIER VALERA",
+   "CarneEntra": "39680",
+   "Jug_Entra": "FELIX ANDRES FORASTIER",
+   "camiseta": "14",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "39467",
+   "Jug_Sale": "MATEO YUVET",
+   "CarneEntra": "68506",
+   "Jug_Entra": "NICOLAS MENDEZ",
+   "camiseta": "19",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "39900",
+   "Jug_Sale": "BRUNO BRUZZONE",
+   "CarneEntra": "54928",
+   "Jug_Entra": "ISMAEL IMPERIAL",
+   "camiseta": "4",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "48317",
+   "Jug_Sale": "THIAGO DA SILVA",
+   "CarneEntra": "49283",
+   "Jug_Entra": "SANTIAGO BARBOZA",
+   "camiseta": "99",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54654",
+   "Nombre": "MARTIN BERASAIN",
+   "minutos": "47",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "39467",
+   "Nombre": "MATEO YUVET",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "39467",
+   "Nombre": "MATEO YUVET",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61334",
+   "Nombre": "ALAN JAVIER VALERA",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "minutos": "9",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

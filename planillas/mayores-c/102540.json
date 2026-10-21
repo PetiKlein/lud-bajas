@@ -1,0 +1,296 @@
+{
+ "id": "102540",
+ "categoria": "mayores-c",
+ "serie": "CTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-04 11:15:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "959",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"C\" TIT. y ASC.",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-10-04 13:00:00",
+  "Fecha_fin": "2026-10-04 13:00:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55466",
+   "Nombre": "RODRIGO ALEJANDRO ANIDO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36857",
+   "Nombre": "GUILLERMO AMOZA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49119",
+   "Nombre": "TOMAS CALDERAZZO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64431",
+   "Nombre": "FRANCO JOSUE CASCALLARES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "40627",
+   "Nombre": "ALVARO JAVIER AMORENA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49151",
+   "Nombre": "LUCAS MOREIRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41107",
+   "Nombre": "MATIAS ANTONIO OXACELHAY",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51113",
+   "Nombre": "BRUNO CHELINI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56357",
+   "Nombre": "SEBASTIAN PARDO IRIONDO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "59267",
+   "Nombre": "JOAQUIN GARCIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "52832",
+   "Nombre": "FELIPE ROBATTO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54040",
+   "Nombre": "FELIPE MIÑOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51293",
+   "Nombre": "JUAN MARTIN CABALLERO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "56892",
+   "Nombre": "ENZO GUSTAVO FERRARI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67591",
+   "Nombre": "JOSE LUIS MONTAÑES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "47195",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "40962",
+   "Nombre": "JUAN MANUEL MARQUES",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61843",
+   "Nombre": "JUAN ANDRES BARRIOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54780",
+   "Nombre": "ESTEBAN DANIEL VAZQUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "59163",
+   "Nombre": "FEDERICO ISMAEL MENDOZA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52961",
+   "Nombre": "MATIAS GERMAN ALVAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "39775",
+   "Nombre": "MARTIN REY",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49119",
+   "Jug_Sale": "TOMAS CALDERAZZO",
+   "CarneEntra": "56199",
+   "Jug_Entra": "MATIAS ANDRES MORAES",
+   "camiseta": "3",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "52832",
+   "Jug_Sale": "FELIPE ROBATTO",
+   "CarneEntra": "44088",
+   "Jug_Entra": "FACUNDO DELGADO",
+   "camiseta": "21",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "51113",
+   "Jug_Sale": "BRUNO CHELINI",
+   "CarneEntra": "60493",
+   "Jug_Entra": "GERMAN LOPEZ",
+   "camiseta": "16",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "59267",
+   "Jug_Sale": "JOAQUIN GARCIA",
+   "CarneEntra": "58798",
+   "Jug_Entra": "MATEO FRAGA",
+   "camiseta": "19",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "49151",
+   "Jug_Sale": "LUCAS MOREIRA",
+   "CarneEntra": "58801",
+   "Jug_Entra": "SALVADOR GARCIA LAGOS",
+   "camiseta": "24",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67591",
+   "Jug_Sale": "JOSE LUIS MONTAÑES",
+   "CarneEntra": "61361",
+   "Jug_Entra": "NAHUEL EZEQUIEL PEDRANZINI",
+   "camiseta": "13",
+   "minutos": "11"
+  },
+  {
+   "CarneSale": "51293",
+   "Jug_Sale": "JUAN MARTIN CABALLERO",
+   "CarneEntra": "68469",
+   "Jug_Entra": "LAUTARO MORAN",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61361",
+   "Jug_Sale": "NAHUEL EZEQUIEL PEDRANZINI",
+   "CarneEntra": "58584",
+   "Jug_Entra": "GABRIEL TOLEDO",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47195",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "58614",
+   "Jug_Entra": "DIEGO ALLENDE",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61843",
+   "Jug_Sale": "JUAN ANDRES BARRIOS",
+   "CarneEntra": "41544",
+   "Jug_Entra": "FEDRICO ANDRES DURAN",
+   "camiseta": "3",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "56892",
+   "Jug_Sale": "ENZO GUSTAVO FERRARI",
+   "CarneEntra": "63923",
+   "Jug_Entra": "ADRIAN MOREIRA",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "54780",
+   "Jug_Sale": "ESTEBAN DANIEL VAZQUEZ",
+   "CarneEntra": "61832",
+   "Jug_Entra": "AGUSTIN FRANCA",
+   "camiseta": "12",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59267",
+   "Nombre": "JOAQUIN GARCIA",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59267",
+   "Nombre": "JOAQUIN GARCIA",
+   "minutos": "34",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64431",
+   "Nombre": "FRANCO JOSUE CASCALLARES",
+   "minutos": "32",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JOSE LUIS MONTAÑES",
+   "observaciones": ""
+  }
+ ]
+}

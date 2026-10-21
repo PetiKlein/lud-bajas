@@ -1,0 +1,299 @@
+{
+ "id": "99028",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "PLAYA HONDA UNIVERSITARIO",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "45",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-05-23 10:45:00",
+  "Fecha_fin": "2026-05-23 10:45:00",
+  "Locatario": "PLAYA HONDA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53369",
+   "Nombre": "IVAN BARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53845",
+   "Nombre": "MARTIN CURUTCHAGUE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55177",
+   "Nombre": "MARCO PISANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "58715",
+   "Nombre": "JUAN SEBASTIAN RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "41179",
+   "Nombre": "EUGENIO SUPPARO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67535",
+   "Nombre": "BENJAMIN DE IZAGUIRRE",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "56818",
+   "Nombre": "FACUNDO MARCEL RODRIGUEZ",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "49922",
+   "Nombre": "ANDRES PIÑEIRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67539",
+   "Nombre": "MATIAS NICOLAS RODRIGUEZ",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "camiseta": "36",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67312",
+   "Nombre": "JUAN ANDRES VIÑOLY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55500",
+   "Nombre": "TOMAS KEUROGLIAN",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56963",
+   "Nombre": "LUCAS BERTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46910",
+   "Nombre": "FELIPE VERDUN",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63582",
+   "Nombre": "ENZO GABRIEL URIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "31292",
+   "Nombre": "SANTIAGO ELIAS GAGGERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "46500",
+   "Nombre": "ENZO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53807",
+   "Nombre": "JUAN PEDRO GOMEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50717",
+   "Nombre": "SANTIAGO VEIGA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40692",
+   "Nombre": "NICOLAS COLLINS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62123",
+   "Jug_Sale": "LAUTARO ELIAS CATSOURIS",
+   "CarneEntra": "53617",
+   "Jug_Entra": "MAXIMILIANO MONTERO",
+   "camiseta": "31",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "67539",
+   "Jug_Sale": "MATIAS NICOLAS RODRIGUEZ",
+   "CarneEntra": "68646",
+   "Jug_Entra": "MARTIN GUADALUPE",
+   "camiseta": "15",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "56818",
+   "Jug_Sale": "FACUNDO MARCEL RODRIGUEZ",
+   "CarneEntra": "62024",
+   "Jug_Entra": "JUAN MANUEL BOCCHI",
+   "camiseta": "41",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "49922",
+   "Jug_Sale": "ANDRES PIÑEIRO",
+   "CarneEntra": "61152",
+   "Jug_Entra": "DIEGO FRANCISCO CORTES",
+   "camiseta": "45",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "53845",
+   "Jug_Sale": "MARTIN CURUTCHAGUE",
+   "CarneEntra": "49724",
+   "Jug_Entra": "AGUSTIN TAÑO",
+   "camiseta": "27",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "67535",
+   "Jug_Sale": "BENJAMIN DE IZAGUIRRE",
+   "CarneEntra": "60673",
+   "Jug_Entra": "EZEQUIEL CASTAINGTS",
+   "camiseta": "34",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "55177",
+   "Jug_Sale": "MARCO PISANO",
+   "CarneEntra": "54805",
+   "Jug_Entra": "MATIAS PALMERO",
+   "camiseta": "33",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46500",
+   "Jug_Sale": "ENZO RODRIGUEZ",
+   "CarneEntra": "57413",
+   "Jug_Entra": "ENZO SEBASTIAN LAXAGUE",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53807",
+   "Jug_Sale": "JUAN PEDRO GOMEZ",
+   "CarneEntra": "58350",
+   "Jug_Entra": "RAMIRO LEONCINI",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40692",
+   "Jug_Sale": "NICOLAS COLLINS",
+   "CarneEntra": "60494",
+   "Jug_Entra": "PEDRO ALBERTO LISTA",
+   "camiseta": "18",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "46910",
+   "Jug_Sale": "FELIPE VERDUN",
+   "CarneEntra": "55106",
+   "Jug_Entra": "JOAQUIN PEREZ",
+   "camiseta": "2",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "50717",
+   "Jug_Sale": "SANTIAGO VEIGA",
+   "CarneEntra": "40692",
+   "Jug_Entra": "NICOLAS COLLINS",
+   "camiseta": "9",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63582",
+   "Jug_Sale": "ENZO GABRIEL URIA",
+   "CarneEntra": "55109",
+   "Jug_Entra": "GUILLERMO RIVERON",
+   "camiseta": "19",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53617",
+   "Nombre": "MAXIMILIANO MONTERO",
+   "minutos": "85",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62123",
+   "Nombre": "LAUTARO ELIAS CATSOURIS",
+   "minutos": "53",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

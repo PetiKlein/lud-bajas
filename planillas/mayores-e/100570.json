@@ -1,0 +1,290 @@
+{
+ "id": "100570",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 11:15:00",
+ "cancha": "COMPLEJO INGENIERO DEL CAMPO",
+ "local": "SAN CONO",
+ "visitante": "ESTUDIANTES ESPAÑOLES",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "562",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO INGENIERO DEL CAMPO",
+  "Fecha_Inicio": "2026-06-28 13:05:00",
+  "Fecha_fin": "2026-06-28 13:05:00",
+  "Locatario": "SAN CONO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "ESTUDIANTES ESPAÑOLES",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "34347",
+   "Nombre": "DIEGO MARTIN BALDRIZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67333",
+   "Nombre": "GASTON EXEQUIEL SARMIENTO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "51990",
+   "Nombre": "LUCAS JOAQUIN DORTA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "47089",
+   "Nombre": "GUSTAVO ISMAEL DUARTE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61281",
+   "Nombre": "LUCAS OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59011",
+   "Nombre": "NAHUEL ACOSTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51146",
+   "Nombre": "JOSE IGNACIO PIZZINI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "49275",
+   "Nombre": "ALEJO DE GIOBBI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "60768",
+   "Nombre": "BRADLEY JESUS COLLAZO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61177",
+   "Nombre": "SANTIAGO ERRANDONEA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59254",
+   "Nombre": "MATIAS NICOLAS AUDIFFRED",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56099",
+   "Nombre": "FEDERICO GURT",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53068",
+   "Nombre": "ANGEL AGUSTIN FRIONI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "34324",
+   "Nombre": "AGUSTIN DOS SANTOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "34808",
+   "Nombre": "LORENZO LARGHERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "37323",
+   "Nombre": "BRUNO TONCOPI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "30147",
+   "Nombre": "SANTIAGO SORAVILLA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "32352",
+   "Nombre": "DIEGO IGNACIO RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50016",
+   "Nombre": "MARCELO RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "41852",
+   "Nombre": "GASTON FEDERICO VAURO",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56596",
+   "Nombre": "ESTEBAN ROSAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "29802",
+   "Nombre": "PABLO ANDRES VOITURET",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61177",
+   "Jug_Sale": "SANTIAGO ERRANDONEA",
+   "CarneEntra": "59138",
+   "Jug_Entra": "EMILIANO ROQUERO",
+   "camiseta": "18",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "51146",
+   "Jug_Sale": "JOSE IGNACIO PIZZINI",
+   "CarneEntra": "63261",
+   "Jug_Entra": "NICOLAS SANGUINE",
+   "camiseta": "18",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "47089",
+   "Jug_Sale": "GUSTAVO ISMAEL DUARTE",
+   "CarneEntra": "66467",
+   "Jug_Entra": "DIEGO LOTTI",
+   "camiseta": "33",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "60768",
+   "Jug_Sale": "BRADLEY JESUS COLLAZO",
+   "CarneEntra": "64654",
+   "Jug_Entra": "GASTON ZAMBRAN",
+   "camiseta": "14",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "67333",
+   "Jug_Sale": "GASTON EXEQUIEL SARMIENTO",
+   "CarneEntra": "61532",
+   "Jug_Entra": "JUAN IGNACIO OLIVERA",
+   "camiseta": "13",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "41852",
+   "Jug_Sale": "GASTON FEDERICO VAURO",
+   "CarneEntra": "39774",
+   "Jug_Entra": "FERNANDO ROLFO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34808",
+   "Jug_Sale": "LORENZO LARGHERO",
+   "CarneEntra": "37520",
+   "Jug_Entra": "EMILIANO SELVA",
+   "camiseta": "24",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "32352",
+   "Jug_Sale": "DIEGO IGNACIO RODRIGUEZ",
+   "CarneEntra": "37483",
+   "Jug_Entra": "SEBASTIAN GARCIA",
+   "camiseta": "22",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "56596",
+   "Jug_Sale": "ESTEBAN ROSAS",
+   "CarneEntra": "31759",
+   "Jug_Entra": "GUILLERMO LA ROSA",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "37323",
+   "Jug_Sale": "BRUNO TONCOPI",
+   "CarneEntra": "56392",
+   "Jug_Entra": "SANTIAGO WALLACH",
+   "camiseta": "16",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "53068",
+   "Jug_Sale": "ANGEL AGUSTIN FRIONI",
+   "CarneEntra": "63171",
+   "Jug_Entra": "RODRIGO ODRIOZOLA",
+   "camiseta": "9",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60768",
+   "Nombre": "BRADLEY JESUS COLLAZO",
+   "minutos": "64",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61281",
+   "Nombre": "LUCAS OLIVERA",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67333",
+   "Nombre": "GASTON EXEQUIEL SARMIENTO",
+   "minutos": "33",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56596",
+   "Nombre": "ESTEBAN ROSAS",
+   "minutos": "15",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

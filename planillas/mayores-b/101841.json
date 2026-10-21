@@ -1,0 +1,288 @@
+{
+ "id": "101841",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 13,
+ "fechaHora": "2026-09-13 11:15:00",
+ "cancha": "ST. BRENDANS",
+ "local": "OLD BRENDANS CLUB",
+ "visitante": "CLUB UNIVERSIDAD CATOLICA",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "219",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "ST. BRENDANS",
+  "Fecha_Inicio": "2026-09-13 13:05:00",
+  "Fecha_fin": "2026-09-13 13:05:00",
+  "Locatario": "OLD BRENDANS CLUB",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "21036",
+   "Nombre": "JUAN AGUSTIN MURIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63398",
+   "Nombre": "BRUNO ANDRES CIAPPESONI",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "45306",
+   "Nombre": "JUAN PEDRO TERRENO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "39879",
+   "Nombre": "IGNACIO ADINOLFI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "54067",
+   "Nombre": "JUAN PABLO LOPEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "42626",
+   "Nombre": "FRANCISCO DOS SANTOS ALVEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60013",
+   "Nombre": "JOAQUIN DI CAPRIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "50131",
+   "Nombre": "LUCAS CALISTRO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "36033",
+   "Nombre": "FEDERICO FENOCCHI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51443",
+   "Nombre": "MATEO DAVID BONIFACIO",
+   "camiseta": "92",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58893",
+   "Nombre": "LUCAS AGUSTIN RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62288",
+   "Nombre": "JOSE PEDRO ALCOBA",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "34600",
+   "Nombre": "STEFANO VITTORIO CAMAROTE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61896",
+   "Nombre": "MARTIN ARZAGUET",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39855",
+   "Nombre": "MARTIN CAMPOS",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58413",
+   "Nombre": "GONZALO DUVOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54369",
+   "Nombre": "JONATHAN AGUSTÌN REY",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38087",
+   "Nombre": "MARIANO CORTIZAS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "34231",
+   "Nombre": "SEBASTIAN NICOLAS RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63107",
+   "Nombre": "MATEO NUÑEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40253",
+   "Nombre": "FACUNDO MARTINEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51174",
+   "Jug_Sale": "LUCA MAXIMO AGGIO",
+   "CarneEntra": "53398",
+   "Jug_Entra": "MARTINO RAIMONDO",
+   "camiseta": "43",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50131",
+   "Jug_Sale": "LUCAS CALISTRO",
+   "CarneEntra": "41985",
+   "Jug_Entra": "PABLO ANDRES GINARD",
+   "camiseta": "33",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "45306",
+   "Jug_Sale": "JUAN PEDRO TERRENO",
+   "CarneEntra": "53428",
+   "Jug_Entra": "JUAN MANUEL BALSAS",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "42626",
+   "Jug_Sale": "FRANCISCO DOS SANTOS ALVEZ",
+   "CarneEntra": "49048",
+   "Jug_Entra": "EZEQUIEL ESTEFAN",
+   "camiseta": "16",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39855",
+   "Jug_Sale": "MARTIN CAMPOS",
+   "CarneEntra": "32373",
+   "Jug_Entra": "AGUSTIN OLIVERI",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58413",
+   "Jug_Sale": "GONZALO DUVOS",
+   "CarneEntra": "68594",
+   "Jug_Entra": "JEREMIAS NICOLAS SALGADO",
+   "camiseta": "26",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "40253",
+   "Jug_Sale": "FACUNDO MARTINEZ",
+   "CarneEntra": "33252",
+   "Jug_Entra": "GASTON SANCHEZ",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "62288",
+   "Jug_Sale": "JOSE PEDRO ALCOBA",
+   "CarneEntra": "34367",
+   "Jug_Entra": "JUAN MARTIN LEMA",
+   "camiseta": "4",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "63107",
+   "Jug_Sale": "MATEO NUÑEZ",
+   "CarneEntra": "46926",
+   "Jug_Entra": "MATIAS ANDRES MUNIZ",
+   "camiseta": "7",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "38087",
+   "Jug_Sale": "MARIANO CORTIZAS",
+   "CarneEntra": "45788",
+   "Jug_Entra": "NICOLAS ALEJANDRO MARTINEZ",
+   "camiseta": "8",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "36033",
+   "Nombre": "FEDERICO FENOCCHI",
+   "minutos": "39",
+   "EnContra": "0"
+  },
+  {
+   "carne": "42626",
+   "Nombre": "FRANCISCO DOS SANTOS ALVEZ",
+   "minutos": "68",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51174",
+   "Nombre": "LUCA MAXIMO AGGIO",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51443",
+   "Nombre": "MATEO DAVID BONIFACIO",
+   "minutos": "54",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "40253",
+   "Nombre": "FACUNDO MARTINEZ",
+   "minutos": "59",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

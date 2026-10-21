@@ -1,0 +1,316 @@
+{
+ "id": "100588",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "FUERZA AEREA",
+ "local": "CLUB FUERZA AEREA",
+ "visitante": "CERVANTES UNIVERSITARIO",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "424",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "FUERZA AEREA",
+  "Fecha_Inicio": "2026-06-27 13:15:00",
+  "Fecha_fin": "2026-06-27 13:15:00",
+  "Locatario": "CLUB FUERZA AEREA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CERVANTES UNIVERSITARIO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "50053",
+   "Nombre": "DAMIAN BARBITTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46892",
+   "Nombre": "JUAN PABLO DE MEDINA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "24285",
+   "Nombre": "ALBERTO DE MEDINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "30093",
+   "Nombre": "FERNANDO GABRIEL DE MEDINA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63084",
+   "Nombre": "KEVIN NICOLAS LAVALLEJA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "47191",
+   "Nombre": "CARLOS FACUNDO CABRERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46851",
+   "Nombre": "GASTON RAFAEL MOIRANO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63083",
+   "Nombre": "DIEGO NICOLAS GRACES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67305",
+   "Nombre": "MATHIAS NICOLAS DE LA FUENTE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "30083",
+   "Nombre": "MATHIAS AYRTON FUIDIO",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "45474",
+   "Nombre": "PABLO TORRES",
+   "camiseta": "69",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66635",
+   "Nombre": "SANTIAGO JAVIER RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67445",
+   "Nombre": "JUAN MARTIN TRIVEL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "47607",
+   "Nombre": "ALEX CLARK",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "67443",
+   "Nombre": "LUCA GENTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "67256",
+   "Nombre": "RODRIGO VEGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55193",
+   "Nombre": "BRUNO BUERO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "59273",
+   "Nombre": "PEDRO MALOSETTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52723",
+   "Nombre": "FELIPE CARLOS DE CARVALHO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67442",
+   "Nombre": "TOMAS MARTINEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67255",
+   "Nombre": "MATIAS TEJEIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "52671",
+   "Nombre": "JUAN MARTIN CANO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45474",
+   "Jug_Sale": "PABLO TORRES",
+   "CarneEntra": "60718",
+   "Jug_Entra": "ALEXANDER ENRIQUE LOPEZ",
+   "camiseta": "27",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "47191",
+   "Jug_Sale": "CARLOS FACUNDO CABRERA",
+   "CarneEntra": "63480",
+   "Jug_Entra": "SERGI YONATAN FERNANDEZ",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60718",
+   "Jug_Sale": "ALEXANDER ENRIQUE LOPEZ",
+   "CarneEntra": "67300",
+   "Jug_Entra": "BENJAMIN PEREIRA",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "30083",
+   "Jug_Sale": "MATHIAS AYRTON FUIDIO",
+   "CarneEntra": "67892",
+   "Jug_Entra": "VALENTIN DECIMA",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "46851",
+   "Jug_Sale": "GASTON RAFAEL MOIRANO",
+   "CarneEntra": "47191",
+   "Jug_Entra": "CARLOS FACUNDO CABRERA",
+   "camiseta": "5",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63083",
+   "Jug_Sale": "DIEGO NICOLAS GRACES",
+   "CarneEntra": "60718",
+   "Jug_Entra": "ALEXANDER ENRIQUE LOPEZ",
+   "camiseta": "27",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67445",
+   "Jug_Sale": "JUAN MARTIN TRIVEL",
+   "CarneEntra": "59275",
+   "Jug_Entra": "JOAQUIN SILVERA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52671",
+   "Jug_Sale": "JUAN MARTIN CANO",
+   "CarneEntra": "57959",
+   "Jug_Entra": "SANTINO GUIDA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67443",
+   "Jug_Sale": "LUCA GENTA",
+   "CarneEntra": "59265",
+   "Jug_Entra": "MATEO JOAQUIN ECHARTEA",
+   "camiseta": "13",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "52723",
+   "Jug_Sale": "FELIPE CARLOS DE CARVALHO",
+   "CarneEntra": "67441",
+   "Jug_Entra": "FACUNDO RANDO",
+   "camiseta": "30",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "59273",
+   "Jug_Sale": "PEDRO MALOSETTI",
+   "CarneEntra": "67258",
+   "Jug_Entra": "NAHUEL TUBINO",
+   "camiseta": "16",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "67255",
+   "Jug_Sale": "MATIAS TEJEIRA",
+   "CarneEntra": "52924",
+   "Jug_Entra": "AGUSTIN REBOLEDO",
+   "camiseta": "21",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67256",
+   "Jug_Sale": "RODRIGO VEGA",
+   "CarneEntra": "56094",
+   "Jug_Entra": "GERONIMO TERRA",
+   "camiseta": "22",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "52924",
+   "Nombre": "AGUSTIN REBOLEDO",
+   "minutos": "89",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55193",
+   "Nombre": "BRUNO BUERO",
+   "minutos": "77",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55193",
+   "Nombre": "BRUNO BUERO",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67442",
+   "Nombre": "TOMAS MARTINEZ",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67442",
+   "Nombre": "TOMAS MARTINEZ",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ALEX CLARK",
+   "observaciones": ""
+  }
+ ]
+}

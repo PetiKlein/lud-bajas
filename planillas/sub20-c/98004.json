@@ -1,0 +1,222 @@
+{
+ "id": "98004",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 15:30:00",
+ "cancha": "LA CIMA",
+ "local": "COLEGIO Y LICEO SANTO DOMINGO",
+ "visitante": "COLEGIO SAN ISIDRO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "243",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "LA CIMA",
+  "Fecha_Inicio": "2026-04-11 17:30:00",
+  "Fecha_fin": "2026-04-11 17:30:00",
+  "Locatario": "COLEGIO Y LICEO SANTO DOMINGO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "COLEGIO SAN ISIDRO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57239",
+   "Nombre": "THIAGO PENA",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "64635",
+   "Nombre": "JOAQUIN DUARTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61088",
+   "Nombre": "MAURICIO AGUSTIN RICCA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "59028",
+   "Nombre": "JUAN MARTIN RIOLFO",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "57441",
+   "Nombre": "SANTIAGO RIUS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61987",
+   "Nombre": "AGUSTIN NOVO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63190",
+   "Nombre": "MAURO CELIBERTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64640",
+   "Nombre": "FACUNDO VAZQUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65462",
+   "Nombre": "VALENTINO MARTIN BONILLA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "66783",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59221",
+   "Nombre": "AGUSTIN VIÑOLY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61123",
+   "Nombre": "GONZALO NAHUEL MELO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67500",
+   "Nombre": "IGNACIO SPINOGLIO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "60951",
+   "Nombre": "JOAQUIN LARA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67016",
+   "Nombre": "MARTIN NAHUEL AMARAL",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61125",
+   "Nombre": "JOAQUIN LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66710",
+   "Nombre": "ENZO MIGUES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61124",
+   "Nombre": "BENJAMIN LOPEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62111",
+   "Nombre": "AGUSTIN ELLIS",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "63499",
+   "Nombre": "JUAN FRANCISCO ARISPE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67017",
+   "Nombre": "FELIPE PISANO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64640",
+   "Jug_Sale": "FACUNDO VAZQUEZ",
+   "CarneEntra": "64637",
+   "Jug_Entra": "THIAGO ANDRES SOUTO",
+   "camiseta": "10",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "65462",
+   "Jug_Sale": "VALENTINO MARTIN BONILLA",
+   "CarneEntra": "59006",
+   "Jug_Entra": "IGNACIO MAYORA",
+   "camiseta": "99",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62111",
+   "Jug_Sale": "AGUSTIN ELLIS",
+   "CarneEntra": "64525",
+   "Jug_Entra": "FRANCISCO LARA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60951",
+   "Jug_Sale": "JOAQUIN LARA",
+   "CarneEntra": "60777",
+   "Jug_Entra": "FACUNDO LOZANO",
+   "camiseta": "13",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57239",
+   "Nombre": "THIAGO PENA",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66783",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61124",
+   "Nombre": "BENJAMIN LOPEZ",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

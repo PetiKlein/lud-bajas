@@ -1,0 +1,277 @@
+{
+ "id": "100000",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "CLARA JACKSON UNIVERSITARIO",
+ "visitante": "CAFU",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "548",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-06-14 11:15:00",
+  "Fecha_fin": "2026-06-14 11:15:00",
+  "Locatario": "CLARA JACKSON UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CAFU",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "26280",
+   "Nombre": "DIEGO ALVEZ",
+   "camiseta": "72",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66681",
+   "Nombre": "DIEGO RODRIGUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "47103",
+   "Nombre": "ANDRES LOARCHE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56085",
+   "Nombre": "MATEO LAPAZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49756",
+   "Nombre": "DARIO MONSERRAT",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "43112",
+   "Nombre": "MATHIAS CABRERA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60317",
+   "Nombre": "DIEGO BENJAMIN FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55342",
+   "Nombre": "JUAN ANDRES RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58581",
+   "Nombre": "GIANLUCA CIRIO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "48905",
+   "Nombre": "NICOLAS MANTOVANI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "41109",
+   "Nombre": "FERNANDO ALVEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51727",
+   "Nombre": "MARCOS CARRION",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52901",
+   "Nombre": "SALVADOR BURGOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67408",
+   "Nombre": "MATEO LIMA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "51170",
+   "Nombre": "NICOLAS FLORIAN GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35456",
+   "Nombre": "NICOLAS CAVASSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "54698",
+   "Nombre": "SEBASTIAN MARCOS GONZALEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "55960",
+   "Nombre": "LUCAS BERNARDO BARJAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "34500",
+   "Nombre": "RODRIGO GABRIEL ANGELOTTI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37957",
+   "Nombre": "ANDRES CURBELO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "66200",
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51165",
+   "Nombre": "SERGIO FACUNDO DIAZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56085",
+   "Jug_Sale": "MATEO LAPAZ",
+   "CarneEntra": "58446",
+   "Jug_Entra": "NICOLAS DEGUGLIELMI",
+   "camiseta": "18",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "55342",
+   "Jug_Sale": "JUAN ANDRES RODRIGUEZ",
+   "CarneEntra": "60932",
+   "Jug_Entra": "JOAQUIN FEDERICO CASTRO",
+   "camiseta": "25",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "58446",
+   "Jug_Sale": "NICOLAS DEGUGLIELMI",
+   "CarneEntra": "34406",
+   "Jug_Entra": "FRANCO ANTONIO RICARDI",
+   "camiseta": "12",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "41109",
+   "Jug_Sale": "FERNANDO ALVEZ",
+   "CarneEntra": "66676",
+   "Jug_Entra": "JUAN MANUEL BRUN",
+   "camiseta": "17",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51165",
+   "Jug_Sale": "SERGIO FACUNDO DIAZ",
+   "CarneEntra": "56397",
+   "Jug_Entra": "LEANDRO GABRIEL SENA",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54698",
+   "Jug_Sale": "SEBASTIAN MARCOS GONZALEZ",
+   "CarneEntra": "52903",
+   "Jug_Entra": "JOAQUIN PABLO GONZALEZ",
+   "camiseta": "41",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "55960",
+   "Jug_Sale": "LUCAS BERNARDO BARJAS",
+   "CarneEntra": "53276",
+   "Jug_Entra": "JOAQUIN FERNANDEZ",
+   "camiseta": "5",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "51170",
+   "Jug_Sale": "NICOLAS FLORIAN GONZALEZ",
+   "CarneEntra": "67022",
+   "Jug_Entra": "PIERO GRANIER",
+   "camiseta": "6",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "41109",
+   "Nombre": "FERNANDO ALVEZ",
+   "minutos": "23",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "37957",
+   "Nombre": "ANDRES CURBELO",
+   "minutos": "86",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56397",
+   "Nombre": "LEANDRO GABRIEL SENA",
+   "minutos": "69",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66200",
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "minutos": "5",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66200",
+   "Nombre": "AGUSTIN NICOLAS ARAMBILLETE",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GIANLUCA CIRIO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

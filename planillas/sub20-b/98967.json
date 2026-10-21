@@ -1,0 +1,324 @@
+{
+ "id": "98967",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 13:30:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "CIRCULO DE TENIS MONTEVIDEO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "155",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-05-16 00:00:00",
+  "Fecha_fin": "2026-05-16 00:00:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63317",
+   "Nombre": "NICOLAS GONZALEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "60140",
+   "Nombre": "JOAN CLAVIJO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "64836",
+   "Nombre": "MARCOS FABIAN VIGNOLO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64616",
+   "Nombre": "TIZIANO DE MARCO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67104",
+   "Nombre": "DANIEL SANTIAGO SUSLUAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56097",
+   "Nombre": "MATEO PELLEJERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56734",
+   "Nombre": "JOAQUIN CABRERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67108",
+   "Nombre": "FRANCO PECCOTIELLO",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "64614",
+   "Nombre": "FACUNDO AGUSTIN PELUFFO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63734",
+   "Nombre": "BENJAMIN LABORDE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67107",
+   "Nombre": "IVAN BENTANCOR",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59432",
+   "Nombre": "EDUARDO NAHUEL VELAZCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56766",
+   "Nombre": "THIAGO PALLAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59399",
+   "Nombre": "SANTIAGO LEAL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62735",
+   "Nombre": "EMILIANO MATHIAS CASTRO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "54791",
+   "Nombre": "JUAN MARTIN CAMMARANO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55882",
+   "Nombre": "FACUNDO MARTIN CASALAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62732",
+   "Nombre": "JOAQUIN AFONSO",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54794",
+   "Nombre": "SANTIAGO VILLAR",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "58067",
+   "Nombre": "EMILIO VACCARO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56776",
+   "Nombre": "RODRIGO BOTTA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62733",
+   "Nombre": "IGNACIO EZEQUIEL FIGUEROA",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67107",
+   "Jug_Sale": "IVAN BENTANCOR",
+   "CarneEntra": "56104",
+   "Jug_Entra": "TOMAS FERIA",
+   "camiseta": "77",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "64616",
+   "Jug_Sale": "TIZIANO DE MARCO",
+   "CarneEntra": "67106",
+   "Jug_Entra": "ROMAN DUTRUEL",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60140",
+   "Jug_Sale": "JOAN CLAVIJO",
+   "CarneEntra": "66218",
+   "Jug_Entra": "MATEO PUIG",
+   "camiseta": "20",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67108",
+   "Jug_Sale": "FRANCO PECCOTIELLO",
+   "CarneEntra": "67548",
+   "Jug_Entra": "MARCOS SANTIAGO BRESCIANI",
+   "camiseta": "29",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63734",
+   "Jug_Sale": "BENJAMIN LABORDE",
+   "CarneEntra": "57024",
+   "Jug_Entra": "JULIAN GONCALVEZ",
+   "camiseta": "17",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "56734",
+   "Jug_Sale": "JOAQUIN CABRERA",
+   "CarneEntra": "56733",
+   "Jug_Entra": "MATEO SILVIO RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "56097",
+   "Jug_Sale": "MATEO PELLEJERO",
+   "CarneEntra": "64620",
+   "Jug_Entra": "TOMAS PEREZ",
+   "camiseta": "80",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59399",
+   "Jug_Sale": "SANTIAGO LEAL",
+   "CarneEntra": "65701",
+   "Jug_Entra": "RAMIRO GOMEZ",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55882",
+   "Jug_Sale": "FACUNDO MARTIN CASALAS",
+   "CarneEntra": "59208",
+   "Jug_Entra": "MARTIN POLANCO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58067",
+   "Jug_Sale": "EMILIO VACCARO",
+   "CarneEntra": "62731",
+   "Jug_Entra": "TOMAS TAVAREZ",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62733",
+   "Jug_Sale": "IGNACIO EZEQUIEL FIGUEROA",
+   "CarneEntra": "68577",
+   "Jug_Entra": "NICOLAS ANDRES DENIS",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56766",
+   "Jug_Sale": "THIAGO PALLAS",
+   "CarneEntra": "60001",
+   "Jug_Entra": "DAMIAN EZEQUIEL PEDREIRA",
+   "camiseta": "6",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "54791",
+   "Jug_Sale": "JUAN MARTIN CAMMARANO",
+   "CarneEntra": "63260",
+   "Jug_Entra": "LUCIANO IVAN DA SILVA",
+   "camiseta": "28",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "62735",
+   "Jug_Sale": "EMILIANO MATHIAS CASTRO",
+   "CarneEntra": "68482",
+   "Jug_Entra": "MATTEO GIUDICE",
+   "camiseta": "15",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56104",
+   "Nombre": "TOMAS FERIA",
+   "minutos": "45",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "54791",
+   "Nombre": "JUAN MARTIN CAMMARANO",
+   "minutos": "37",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56776",
+   "Nombre": "RODRIGO BOTTA",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68577",
+   "Nombre": "NICOLAS ANDRES DENIS",
+   "minutos": "83",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FACUNDO AGUSTIN PELUFFO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "RODRIGO BOTTA",
+   "observaciones": ""
+  }
+ ]
+}

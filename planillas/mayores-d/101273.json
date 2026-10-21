@@ -1,0 +1,285 @@
+{
+ "id": "101273",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 4,
+ "fechaHora": "2026-08-30 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "CLUB ATLETICO LIMBURGO",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "386",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-08-30 11:00:00",
+  "Fecha_fin": "2026-08-30 11:00:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ATLETICO LIMBURGO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "50667",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52165",
+   "Nombre": "ALFONSO GARCIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55533",
+   "Nombre": "EZEQUIEL HERNAN PRADO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48547",
+   "Nombre": "FACUNDO SADOVY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "46783",
+   "Nombre": "NICOLAS CANOURA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46785",
+   "Nombre": "SANTIAGO MARTIN CHAPPUIS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "48308",
+   "Nombre": "GASTON MAZZO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "49080",
+   "Nombre": "IGNACIO MOUGAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "42739",
+   "Nombre": "GONZALO GABRIEL BIANCHI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "43056",
+   "Nombre": "MATHIAS RODRIGUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53202",
+   "Nombre": "NICOLAS WAGNER",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51640",
+   "Nombre": "FRANCO LOMBARDI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "48327",
+   "Nombre": "BRUNO MARCELO BASCIALLA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "45770",
+   "Nombre": "IVAN NICOLAI BOWTUN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "36388",
+   "Nombre": "GUZMAN ALEJANDRO PEREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "41152",
+   "Nombre": "TOMAS PAPARIELLO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45386",
+   "Nombre": "TOMAS BETTANIN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52642",
+   "Nombre": "TOMAS MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "43194",
+   "Nombre": "LUCAS MARTINEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47290",
+   "Nombre": "GERMAN BENITEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "27124",
+   "Nombre": "SEBASTIAN PEREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "51441",
+   "Nombre": "SANTIAGO DERGAZARIAN",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48547",
+   "Jug_Sale": "FACUNDO SADOVY",
+   "CarneEntra": "57246",
+   "Jug_Entra": "FRANCO MOURGLIA",
+   "camiseta": "4",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "49080",
+   "Jug_Sale": "IGNACIO MOUGAN",
+   "CarneEntra": "51584",
+   "Jug_Entra": "RENZO ADRIAN CICCARIELLO",
+   "camiseta": "9",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "42739",
+   "Jug_Sale": "GONZALO GABRIEL BIANCHI",
+   "CarneEntra": "67688",
+   "Jug_Entra": "LUCAS DE RITIS",
+   "camiseta": "7",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "53202",
+   "Jug_Sale": "NICOLAS WAGNER",
+   "CarneEntra": "55536",
+   "Jug_Entra": "FACUNDO GABRIEL PRADO",
+   "camiseta": "21",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "45386",
+   "Jug_Sale": "TOMAS BETTANIN",
+   "CarneEntra": "45008",
+   "Jug_Entra": "GASTON ANTUNEZ",
+   "camiseta": "28",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "48327",
+   "Jug_Sale": "BRUNO MARCELO BASCIALLA",
+   "CarneEntra": "48955",
+   "Jug_Entra": "IGNACIO LOPEZ",
+   "camiseta": "80",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "43194",
+   "Jug_Sale": "LUCAS MARTINEZ",
+   "CarneEntra": "45372",
+   "Jug_Entra": "DAVID ROBIDO",
+   "camiseta": "17",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "52642",
+   "Jug_Sale": "TOMAS MARTINEZ",
+   "CarneEntra": "40634",
+   "Jug_Entra": "JUAN MANUEL MONTERO",
+   "camiseta": "11",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "41152",
+   "Jug_Sale": "TOMAS PAPARIELLO",
+   "CarneEntra": "45209",
+   "Jug_Entra": "JUAN MARTIN SUEIRO",
+   "camiseta": "21",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "42739",
+   "Nombre": "GONZALO GABRIEL BIANCHI",
+   "minutos": "57",
+   "EnContra": "0"
+  },
+  {
+   "carne": "43056",
+   "Nombre": "MATHIAS RODRIGUEZ",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "27124",
+   "Nombre": "SEBASTIAN PEREZ",
+   "minutos": "71",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47290",
+   "Nombre": "GERMAN BENITEZ",
+   "minutos": "79",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51441",
+   "Nombre": "SANTIAGO DERGAZARIAN",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "ALFONSO GARCIA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

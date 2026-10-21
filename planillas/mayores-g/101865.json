@@ -1,0 +1,316 @@
+{
+ "id": "101865",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 13,
+ "fechaHora": "2026-09-13 11:15:00",
+ "cancha": "CAMPO MARISTAS DEPORTIVO",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "CENTRO GALLEGO",
+ "gl": 5,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "817",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "CAMPO MARISTAS DEPORTIVO",
+  "Fecha_Inicio": "2026-09-13 13:00:00",
+  "Fecha_fin": "2026-09-13 13:00:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "CENTRO GALLEGO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59350",
+   "Nombre": "GASTON NUÑEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56670",
+   "Nombre": "FEDERICO SALVA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55113",
+   "Nombre": "FRANCISCO FERREYRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47861",
+   "Nombre": "FRANCO DE LOS SANTOS",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "63478",
+   "Nombre": "MICHAEL NAHUEL PAIS",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "46422",
+   "Nombre": "GONZALO IÑAKI DE PENA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66621",
+   "Nombre": "NAIM BLANCO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "66232",
+   "Nombre": "LUCAS MAURICIO CARTAGENA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55117",
+   "Nombre": "GUILLERMO VALLE LISBOA",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "56224",
+   "Nombre": "SANTIAGO DANIEL CASCO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52050",
+   "Nombre": "DIEGO SEBASTIAN HERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "37587",
+   "Nombre": "GUILLERMO TOMAS RODRIGUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "39957",
+   "Nombre": "MATIAS ROCCO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "46319",
+   "Nombre": "SERGIO MATIAS MARTINEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "49913",
+   "Nombre": "SEBASTIAN PAZOS",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "37457",
+   "Nombre": "GERMAN AUGUSTO FRASCHINI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "43060",
+   "Nombre": "FACUNDO DE MARIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63976",
+   "Nombre": "THIAGO ESCUDERO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "68699",
+   "Nombre": "FACUNDO CASTRO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "46504",
+   "Nombre": "KEVIN RAFAEL JAURETCHE",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66263",
+   "Nombre": "JOAQUIN MANUEL MUÑOZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66621",
+   "Jug_Sale": "NAIM BLANCO",
+   "CarneEntra": "47785",
+   "Jug_Entra": "FILIPPO RADICCIONI",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46422",
+   "Jug_Sale": "GONZALO IÑAKI DE PENA",
+   "CarneEntra": "66164",
+   "Jug_Entra": "NICOLAS AYESTARAN",
+   "camiseta": "50",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "55117",
+   "Jug_Sale": "GUILLERMO VALLE LISBOA",
+   "CarneEntra": "63380",
+   "Jug_Entra": "JUAN LENA",
+   "camiseta": "18",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "56670",
+   "Jug_Sale": "FEDERICO SALVA",
+   "CarneEntra": "46422",
+   "Jug_Entra": "GONZALO IÑAKI DE PENA",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "66232",
+   "Jug_Sale": "LUCAS MAURICIO CARTAGENA",
+   "CarneEntra": "56682",
+   "Jug_Entra": "DIEGO RAHI",
+   "camiseta": "19",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "47785",
+   "Jug_Sale": "FILIPPO RADICCIONI",
+   "CarneEntra": "66621",
+   "Jug_Entra": "NAIM BLANCO",
+   "camiseta": "31",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "55113",
+   "Jug_Sale": "FRANCISCO FERREYRA",
+   "CarneEntra": "49166",
+   "Jug_Entra": "THIAGO MATEO HERNANDEZ",
+   "camiseta": "14",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39957",
+   "Jug_Sale": "MATIAS ROCCO",
+   "CarneEntra": "49768",
+   "Jug_Entra": "CESAR MARTIN PEREZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49913",
+   "Jug_Sale": "SEBASTIAN PAZOS",
+   "CarneEntra": "69114",
+   "Jug_Entra": "IHOJAN EZEQUIEL ORTIZ",
+   "camiseta": "7",
+   "minutos": "0"
+  },
+  {
+   "CarneSale": "43060",
+   "Jug_Sale": "FACUNDO DE MARIA",
+   "CarneEntra": "63497",
+   "Jug_Entra": "FABRIZIO DONATO GIANNECCHINI",
+   "camiseta": "98",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "68699",
+   "Jug_Sale": "FACUNDO CASTRO",
+   "CarneEntra": "41811",
+   "Jug_Entra": "IGNACIO LORENZO",
+   "camiseta": "31",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "37457",
+   "Jug_Sale": "GERMAN AUGUSTO FRASCHINI",
+   "CarneEntra": "62279",
+   "Jug_Entra": "JUAN CASTRO",
+   "camiseta": "8",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "minutos": "16",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "minutos": "68",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56224",
+   "Nombre": "SANTIAGO DANIEL CASCO",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56224",
+   "Nombre": "SANTIAGO DANIEL CASCO",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63976",
+   "Nombre": "THIAGO ESCUDERO",
+   "minutos": "3",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63976",
+   "Nombre": "THIAGO ESCUDERO",
+   "minutos": "48",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

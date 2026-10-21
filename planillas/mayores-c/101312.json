@@ -1,0 +1,248 @@
+{
+ "id": "101312",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 4,
+ "fechaHora": "2026-08-30 11:15:00",
+ "cancha": "PARQUE O.CESTAU (EX VELODROMO)",
+ "local": "C.A.L.I.",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "271",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "PARQUE O.CESTAU (EX VELODROMO)",
+  "Fecha_Inicio": "2026-08-30 13:15:00",
+  "Fecha_fin": "2026-08-30 13:15:00",
+  "Locatario": "C.A.L.I.",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "20253",
+   "Nombre": "PABLO CARLEVARO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "39442",
+   "Nombre": "GUZMAN GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55398",
+   "Nombre": "CAMILO EZEQUIEL OLIVERA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "68955",
+   "Nombre": "LUIS FRANCO PERAZZA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50439",
+   "Nombre": "MAURO NAHUEL MONZON",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "44411",
+   "Nombre": "BRAHIAN ANDRES CRUZ",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "69066",
+   "Nombre": "JOAQUIN LOPEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "66338",
+   "Nombre": "MATIAS ANDRES GONZALEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49861",
+   "Nombre": "NICOLAS CARLOS ALTEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "13842",
+   "Nombre": "PABLO SEBASTIAN PIRAN",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "19865",
+   "Nombre": "RODRIGO ARIAS",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60725",
+   "Nombre": "ALESSANDRO EZEQUIEL PEREIRA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "42381",
+   "Nombre": "CRISTIAN JOEL VIERA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "41088",
+   "Nombre": "PEDRO MOREIRA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "61268",
+   "Nombre": "DIEGO MARTIN MURAÑA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "33869",
+   "Nombre": "JOAQUIN DANIEL GARCIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "42937",
+   "Nombre": "DIEGO PENINO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "49735",
+   "Nombre": "HECTOR GASTON RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50889",
+   "Nombre": "IGNACIO VIÑAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "44549",
+   "Nombre": "SANTIAGO MARTIN RIBEIRO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "32511",
+   "Nombre": "MATHIAS TORRES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54884",
+   "Nombre": "NAHUEL LOPEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "19865",
+   "Jug_Sale": "RODRIGO ARIAS",
+   "CarneEntra": "54565",
+   "Jug_Entra": "SEBASTIAN FEDERICO ALTEZ",
+   "camiseta": "7",
+   "minutos": "9"
+  },
+  {
+   "CarneSale": "20253",
+   "Jug_Sale": "PABLO CARLEVARO",
+   "CarneEntra": "19865",
+   "Jug_Entra": "RODRIGO ARIAS",
+   "camiseta": "17",
+   "minutos": "97"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61268",
+   "Jug_Sale": "DIEGO MARTIN MURAÑA",
+   "CarneEntra": "26828",
+   "Jug_Entra": "JUAN IGNACIO MANERA",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "44549",
+   "Jug_Sale": "SANTIAGO MARTIN RIBEIRO",
+   "CarneEntra": "53403",
+   "Jug_Entra": "DIEGO FERNANDO AGUILERA",
+   "camiseta": "20",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "32511",
+   "Jug_Sale": "MATHIAS TORRES",
+   "CarneEntra": "51604",
+   "Jug_Entra": "JUAN GABRIEL RUSSO",
+   "camiseta": "28",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "54884",
+   "Jug_Sale": "NAHUEL LOPEZ",
+   "CarneEntra": "49318",
+   "Jug_Entra": "FABRIZIO BEIROA",
+   "camiseta": "92",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "42381",
+   "Jug_Sale": "CRISTIAN JOEL VIERA",
+   "CarneEntra": "57202",
+   "Jug_Entra": "JUAN DIEGO VARELA",
+   "camiseta": "11",
+   "minutos": "94"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "32511",
+   "Nombre": "MATHIAS TORRES",
+   "minutos": "72",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "BRAHIAN ANDRES CRUZ",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "NICOLAS CARLOS ALTEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

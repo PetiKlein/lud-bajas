@@ -1,0 +1,322 @@
+{
+ "id": "98189",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SANTA ELENA LAGOMAR",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 4,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "131",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-04-18 13:10:00",
+  "Fecha_fin": "2026-04-18 13:10:00",
+  "Locatario": "SANTA ELENA LAGOMAR",
+  "goles_locatario": "4",
+  "puntos_locatario": "1",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61170",
+   "Nombre": "THIAGO HANDERSSON",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "47341",
+   "Nombre": "MATEO BACHINO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "46160",
+   "Nombre": "MATIAS GABRIEL BERNADA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47329",
+   "Nombre": "OCTAVIO SUM",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "47333",
+   "Nombre": "JOAQUIN GAI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "51790",
+   "Nombre": "BRUNO SOSA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49388",
+   "Nombre": "FRANCO GONZALEZ",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "49231",
+   "Nombre": "AGUSTIN MATEO",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "50198",
+   "Nombre": "MATHIAS RAMILO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49243",
+   "Nombre": "IGNACIO JAVIER GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "45379",
+   "Nombre": "LUIS MATIAS BELDERRAIN",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56603",
+   "Nombre": "MATEO NICOLAS CASTILLO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "36517",
+   "Nombre": "MANUEL MATIAS GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "42722",
+   "Nombre": "LUCAS MORONI",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55499",
+   "Nombre": "IGNACIO DANTE FERNANDEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "39020",
+   "Nombre": "GASTON TRICARICO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63264",
+   "Nombre": "FRANCO SEBASTIAN ISLAS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "39018",
+   "Nombre": "MAURO KARABELNIK",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "49048",
+   "Nombre": "EZEQUIEL ESTEFAN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47391",
+   "Nombre": "SEBASTIAN ESTEBAN BRITOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52052",
+   "Nombre": "FEDERICO DUTRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "53428",
+   "Nombre": "JUAN MANUEL BALSAS",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49388",
+   "Jug_Sale": "FRANCO GONZALEZ",
+   "CarneEntra": "47523",
+   "Jug_Entra": "IVAN NICOLAS PASTORINO",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "45379",
+   "Jug_Sale": "LUIS MATIAS BELDERRAIN",
+   "CarneEntra": "49216",
+   "Jug_Entra": "RAFAEL PEREZ",
+   "camiseta": "77",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "46160",
+   "Jug_Sale": "MATIAS GABRIEL BERNADA",
+   "CarneEntra": "50872",
+   "Jug_Entra": "AGUSTIN  SANTIAGO RODRIGUEZ",
+   "camiseta": "92",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "49243",
+   "Jug_Sale": "IGNACIO JAVIER GONZALEZ",
+   "CarneEntra": "53101",
+   "Jug_Entra": "ROBERTO FRANCISCO PORTA",
+   "camiseta": "18",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "47341",
+   "Jug_Sale": "MATEO BACHINO",
+   "CarneEntra": "53880",
+   "Jug_Entra": "EROS CABALLERO",
+   "camiseta": "95",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "36517",
+   "Jug_Sale": "MANUEL MATIAS GONZALEZ",
+   "CarneEntra": "39027",
+   "Jug_Entra": "BRUNO CICATIELLO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39018",
+   "Jug_Sale": "MAURO KARABELNIK",
+   "CarneEntra": "39323",
+   "Jug_Entra": "IGNACIO MILLER",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55499",
+   "Jug_Sale": "IGNACIO DANTE FERNANDEZ",
+   "CarneEntra": "39397",
+   "Jug_Entra": "GERMAN VIERA",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53428",
+   "Jug_Sale": "JUAN MANUEL BALSAS",
+   "CarneEntra": "41121",
+   "Jug_Entra": "ALVARO CANO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39020",
+   "Jug_Sale": "GASTON TRICARICO",
+   "CarneEntra": "63398",
+   "Jug_Entra": "BRUNO ANDRES CIAPPESONI",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47391",
+   "Jug_Sale": "SEBASTIAN ESTEBAN BRITOS",
+   "CarneEntra": "45303",
+   "Jug_Entra": "SANTIAGO PETROCELLI",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63264",
+   "Jug_Sale": "FRANCO SEBASTIAN ISLAS",
+   "CarneEntra": "57611",
+   "Jug_Entra": "EZEQUIEL VILLANUEVA",
+   "camiseta": "13",
+   "minutos": "60"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45379",
+   "Nombre": "LUIS MATIAS BELDERRAIN",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49231",
+   "Nombre": "AGUSTIN MATEO",
+   "minutos": "45",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49231",
+   "Nombre": "AGUSTIN MATEO",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50198",
+   "Nombre": "MATHIAS RAMILO",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "41121",
+   "Nombre": "ALVARO CANO",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49048",
+   "Nombre": "EZEQUIEL ESTEFAN",
+   "minutos": "71",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52052",
+   "Nombre": "FEDERICO DUTRA",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63398",
+   "Nombre": "BRUNO ANDRES CIAPPESONI",
+   "minutos": "66",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

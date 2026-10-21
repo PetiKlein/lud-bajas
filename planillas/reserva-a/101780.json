@@ -1,0 +1,240 @@
+{
+ "id": "101780",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 11:20:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "SAGRADA FAMILIA UNIVERSITARIO",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "99",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-12 13:09:00",
+  "Fecha_fin": "2026-09-12 13:09:00",
+  "Locatario": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41778",
+   "Nombre": "NICOLAS MACCIO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "53121",
+   "Nombre": "ANDRES RUGGIERO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "41609",
+   "Nombre": "FACUNDO VILLAR",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "37903",
+   "Nombre": "MATEO MUJICA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "45424",
+   "Nombre": "ANDRES VALLARINO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53130",
+   "Nombre": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58943",
+   "Nombre": "MATIAS DIEGO MENDEZ",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "57131",
+   "Nombre": "GIANFRANCO DUPONT",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "49491",
+   "Nombre": "PEDRO GALLO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53612",
+   "Nombre": "TOMAS BRANDO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "52811",
+   "Nombre": "FELIPE PERLA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "49112",
+   "Nombre": "LUCAS BARCOS",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "49489",
+   "Nombre": "PAOLO PARIANI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "48896",
+   "Nombre": "FACUNDO ALPUIN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "37903",
+   "Jug_Sale": "MATEO MUJICA",
+   "CarneEntra": "53245",
+   "Jug_Entra": "JOAQUIN BRUNO",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58943",
+   "Jug_Sale": "MATIAS DIEGO MENDEZ",
+   "CarneEntra": "45562",
+   "Jug_Entra": "FRANCO MÜLLER",
+   "camiseta": "13",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "41609",
+   "Jug_Sale": "FACUNDO VILLAR",
+   "CarneEntra": "54783",
+   "Jug_Entra": "MARTIN SEBASTIAN GONZALEZ",
+   "camiseta": "60",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "45424",
+   "Jug_Sale": "ANDRES VALLARINO",
+   "CarneEntra": "50948",
+   "Jug_Entra": "JUAN FRANCISCO CARBAJAL",
+   "camiseta": "23",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "48803",
+   "Jug_Sale": "MATIAS REVELLO",
+   "CarneEntra": "63343",
+   "Jug_Entra": "LORENZO VERON",
+   "camiseta": "4",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49489",
+   "Jug_Sale": "PAOLO PARIANI",
+   "CarneEntra": "55602",
+   "Jug_Entra": "CAETANO MARRONE",
+   "camiseta": "92",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "53612",
+   "Jug_Sale": "TOMAS BRANDO",
+   "CarneEntra": "55160",
+   "Jug_Entra": "JOAQUIN PEÑA",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "52811",
+   "Jug_Sale": "FELIPE PERLA",
+   "CarneEntra": "46886",
+   "Jug_Entra": "FEDERICO BOCCARDO",
+   "camiseta": "80",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

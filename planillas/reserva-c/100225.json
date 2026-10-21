@@ -1,0 +1,277 @@
+{
+ "id": "100225",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "NUMA TURCATTI",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "318",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-20 13:10:00",
+  "Fecha_fin": "2026-06-20 13:10:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "NUMA TURCATTI",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54360",
+   "Nombre": "MARCOS NICOLAS ERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52614",
+   "Nombre": "AGUSTIN ALEJANDRO LAIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51381",
+   "Nombre": "DIEGO MARTIN SUAREZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "44550",
+   "Nombre": "FEDERICO JAVIER DE SIANO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "68751",
+   "Nombre": "BRUNO MANUEL MENA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "56438",
+   "Nombre": "MARTIN CALERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49915",
+   "Nombre": "GASTON GUTIERREZ",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41360",
+   "Nombre": "JUAN IGNACIO OLIVERA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "50980",
+   "Nombre": "IGNACIO VELAZQUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47468",
+   "Nombre": "IGNACIO ANIDAPE",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68733",
+   "Nombre": "MANUEL ROMERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39680",
+   "Nombre": "FELIX ANDRES FORASTIER",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "49283",
+   "Nombre": "SANTIAGO BARBOZA",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "51090",
+   "Nombre": "JUAN IGNACIO RUSSO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66777",
+   "Nombre": "SANTIAGO DAVRIEUX",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "51208",
+   "Nombre": "JOAQUIN ALFONSO BECERRA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68505",
+   "Nombre": "IGNACIO DANIEL MENDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62038",
+   "Nombre": "EZEQUIEL TABAREZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "67233",
+   "Nombre": "RENZO SAMUEL GENTILIO",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47468",
+   "Jug_Sale": "IGNACIO ANIDAPE",
+   "CarneEntra": "48353",
+   "Jug_Entra": "TOMAS ARAMENDI",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56438",
+   "Jug_Sale": "MARTIN CALERO",
+   "CarneEntra": "55996",
+   "Jug_Entra": "LUCIANO AGUSTIN ARAMBURU",
+   "camiseta": "49",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41360",
+   "Jug_Sale": "JUAN IGNACIO OLIVERA",
+   "CarneEntra": "47468",
+   "Jug_Entra": "IGNACIO ANIDAPE",
+   "camiseta": "22",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "49915",
+   "Jug_Sale": "GASTON GUTIERREZ",
+   "CarneEntra": "56438",
+   "Jug_Entra": "MARTIN CALERO",
+   "camiseta": "7",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51090",
+   "Jug_Sale": "JUAN IGNACIO RUSSO",
+   "CarneEntra": "39900",
+   "Jug_Entra": "BRUNO BRUZZONE",
+   "camiseta": "11",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "51208",
+   "Jug_Sale": "JOAQUIN ALFONSO BECERRA",
+   "CarneEntra": "68506",
+   "Jug_Entra": "NICOLAS MENDEZ",
+   "camiseta": "3",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67233",
+   "Jug_Sale": "RENZO SAMUEL GENTILIO",
+   "CarneEntra": "67175",
+   "Jug_Entra": "FACUNDO AGUSTIN DUARTE",
+   "camiseta": "10",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "62038",
+   "Jug_Sale": "EZEQUIEL TABAREZ",
+   "CarneEntra": "51208",
+   "Jug_Entra": "JOAQUIN ALFONSO BECERRA",
+   "camiseta": "2",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "minutos": "18",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49915",
+   "Nombre": "GASTON GUTIERREZ",
+   "minutos": "42",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49915",
+   "Nombre": "GASTON GUTIERREZ",
+   "minutos": "46",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "minutos": "31",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68505",
+   "Nombre": "IGNACIO DANIEL MENDEZ",
+   "minutos": "97",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "IGNACIO VELAZQUEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

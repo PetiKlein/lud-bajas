@@ -1,0 +1,283 @@
+{
+ "id": "98807",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "INDEPENDIENTE",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "158",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-05-16 13:30:00",
+  "Fecha_fin": "2026-05-16 13:30:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "INDEPENDIENTE",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55466",
+   "Nombre": "RODRIGO ALEJANDRO ANIDO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38502",
+   "Nombre": "JUAN PABLO MASLLORENS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "51116",
+   "Nombre": "JUAN BAUTISTA REY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55501",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "44141",
+   "Nombre": "IGNACIO RAMIRO LOPEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "49143",
+   "Nombre": "SANTIAGO PAIS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51112",
+   "Nombre": "MATEO AGUSTIN MARTINEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "45038",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59694",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "44097",
+   "Nombre": "NICOLAS LABASTIE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60923",
+   "Nombre": "GERMAN IÑAKI BIDEGAIN",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61237",
+   "Nombre": "JOAQUIN HAYMES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42394",
+   "Nombre": "MARTINHO GABRIEL DA COSTA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "35552",
+   "Nombre": "JORGE MATIAS AMATO",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "43803",
+   "Nombre": "AGUSTIN GOMEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "43314",
+   "Nombre": "CONRADO GAMBETTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65734",
+   "Nombre": "SANTIAGO FLORETTA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "62653",
+   "Nombre": "MATEO DIAZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "42358",
+   "Nombre": "FABIO ENRIQUED DA COSTA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "45728",
+   "Nombre": "DIEGO REY",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44141",
+   "Jug_Sale": "IGNACIO RAMIRO LOPEZ",
+   "CarneEntra": "55660",
+   "Jug_Entra": "THIAGO FURTADO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51116",
+   "Jug_Sale": "JUAN BAUTISTA REY",
+   "CarneEntra": "45319",
+   "Jug_Entra": "FRANCO BALSAMO",
+   "camiseta": "11",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "38502",
+   "Jug_Sale": "JUAN PABLO MASLLORENS",
+   "CarneEntra": "44402",
+   "Jug_Entra": "SEBASTIAN RISSO",
+   "camiseta": "5",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "59694",
+   "Jug_Sale": "FELIPE CASTRO",
+   "CarneEntra": "46935",
+   "Jug_Entra": "MATEO PASSARINO",
+   "camiseta": "30",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "55501",
+   "Jug_Sale": "SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "44082",
+   "Jug_Entra": "GUILLERMO CASTRO",
+   "camiseta": "23",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42358",
+   "Jug_Sale": "FABIO ENRIQUED DA COSTA",
+   "CarneEntra": "45742",
+   "Jug_Entra": "NEHUEN EZEQUIEL BONIFAZI",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45728",
+   "Jug_Sale": "DIEGO REY",
+   "CarneEntra": "48387",
+   "Jug_Entra": "JUAN ANDRES CORREA",
+   "camiseta": "32",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "42394",
+   "Jug_Sale": "MARTINHO GABRIEL DA COSTA",
+   "CarneEntra": "48270",
+   "Jug_Entra": "FRANCO MARTIN SANTORO",
+   "camiseta": "17",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "66145",
+   "Jug_Sale": "IGNACIO BERTHEL",
+   "CarneEntra": "41598",
+   "Jug_Entra": "AGUSTIN TESTA",
+   "camiseta": "19",
+   "minutos": "95"
+  },
+  {
+   "CarneSale": "43803",
+   "Jug_Sale": "AGUSTIN GOMEZ",
+   "CarneEntra": "42893",
+   "Jug_Entra": "GABRIEL PEREYRA",
+   "camiseta": "80",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "62653",
+   "Jug_Sale": "MATEO DIAZ",
+   "CarneEntra": "68177",
+   "Jug_Entra": "ENZO FACUNDO SOUZA",
+   "camiseta": "40",
+   "minutos": "95"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "minutos": "59",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "minutos": "62",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,224 @@
+{
+ "id": "102268",
+ "categoria": "reserva-a",
+ "serie": "RSAT",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "615",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"A\" TITULO",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-09-26 13:05:00",
+  "Fecha_fin": "2026-09-26 13:05:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41005",
+   "Nombre": "NICOLAS RAFFO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41007",
+   "Nombre": "GERARDO SACCO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39903",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "52186",
+   "Nombre": "BRUNO MATIAS BIGNOLI",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "48917",
+   "Nombre": "FRANCISCO ALGORTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "46250",
+   "Nombre": "GUILLERMO JAVIER BECCHIO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "44291",
+   "Nombre": "IGNACIO GEISINGER",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "41534",
+   "Nombre": "DIEGO NICOLAS CHIJANE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "47761",
+   "Nombre": "JUAN IGNACIO POTRIE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47764",
+   "Nombre": "BRUNO ZEFFERINO",
+   "camiseta": "37",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "48273",
+   "Nombre": "SORIA PALLERO DIEGO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53624",
+   "Nombre": "MATEO OURTHE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "52811",
+   "Nombre": "FELIPE PERLA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43856",
+   "Nombre": "AGUSTIN NOVELLI",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "55602",
+   "Nombre": "CAETANO MARRONE",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "55160",
+   "Nombre": "JOAQUIN PEÑA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46886",
+   "Nombre": "FEDERICO BOCCARDO",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46250",
+   "Jug_Sale": "GUILLERMO JAVIER BECCHIO",
+   "CarneEntra": "48915",
+   "Jug_Entra": "FACUNDO CURT GEISINGER",
+   "camiseta": "54",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48917",
+   "Jug_Sale": "FRANCISCO ALGORTA",
+   "CarneEntra": "48826",
+   "Jug_Entra": "JOAQUIN PODESTA",
+   "camiseta": "45",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55160",
+   "Jug_Sale": "JOAQUIN PEÑA",
+   "CarneEntra": "45826",
+   "Jug_Entra": "VALENTIN DE LEONARDIS",
+   "camiseta": "19",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "46886",
+   "Jug_Sale": "FEDERICO BOCCARDO",
+   "CarneEntra": "47736",
+   "Jug_Entra": "TOMAS CONDE",
+   "camiseta": "16",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "52811",
+   "Jug_Sale": "FELIPE PERLA",
+   "CarneEntra": "55160",
+   "Jug_Entra": "JOAQUIN PEÑA",
+   "camiseta": "10",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "43856",
+   "Jug_Sale": "AGUSTIN NOVELLI",
+   "CarneEntra": "46886",
+   "Jug_Entra": "FEDERICO BOCCARDO",
+   "camiseta": "80",
+   "minutos": "92"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

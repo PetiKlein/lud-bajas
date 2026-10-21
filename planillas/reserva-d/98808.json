@@ -1,0 +1,288 @@
+{
+ "id": "98808",
+ "categoria": "reserva-d",
+ "serie": "RS33",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "NUESTRA SEÑORA DE LOURDES",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "452",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 2",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-05-16 13:10:00",
+  "Fecha_fin": "2026-05-16 13:10:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "NUESTRA SEÑORA DE LOURDES",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "40068",
+   "Nombre": "SANTIAGO BOUSO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55560",
+   "Nombre": "JUAN MATEO PELUFO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56622",
+   "Nombre": "GONZALO APKARIAN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "37188",
+   "Nombre": "CLAUDIO SEBASTIAN FERREIRA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "51163",
+   "Nombre": "MATIAS IVANCICH",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "37723",
+   "Nombre": "MARTIN PRATO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "58677",
+   "Nombre": "BRUNO TRAVERSA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "60622",
+   "Nombre": "TOMAS FELIPPONE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "60781",
+   "Nombre": "JUAN JOSE NOGUEIRA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "52971",
+   "Nombre": "JUAN PABLO FERRARI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "34857",
+   "Nombre": "NICOLAS MELO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66809",
+   "Nombre": "DAVID JOMAR ROSALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66677",
+   "Nombre": "MARCELO PERRONE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66518",
+   "Nombre": "ANDRES CIRO BELVEDER",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "54946",
+   "Nombre": "FRANCO VICENTE CIFUENTES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65209",
+   "Nombre": "CRISTIAN  DANIEL GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66811",
+   "Nombre": "DANIEL SEBASTIAN GUASTAVINO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61192",
+   "Nombre": "FEDERICO MESA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61515",
+   "Nombre": "ALAN ACOSTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64374",
+   "Nombre": "NAHUEL OHOLEGUY",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67455",
+   "Nombre": "ADRIAN DAVID ACOSTA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67680",
+   "Nombre": "NIKOLAS BASEL",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "37188",
+   "Jug_Sale": "CLAUDIO SEBASTIAN FERREIRA",
+   "CarneEntra": "57624",
+   "Jug_Entra": "MANUEL THIAGO MARTINEZ",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55560",
+   "Jug_Sale": "JUAN MATEO PELUFO",
+   "CarneEntra": "47098",
+   "Jug_Entra": "JUAN IGNACIO COITO",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51163",
+   "Jug_Sale": "MATIAS IVANCICH",
+   "CarneEntra": "56781",
+   "Jug_Entra": "FACUNDO MENENDEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60781",
+   "Jug_Sale": "JUAN JOSE NOGUEIRA",
+   "CarneEntra": "57542",
+   "Jug_Entra": "DIEGO SEBASTIAN DUSIO",
+   "camiseta": "10",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "58677",
+   "Jug_Sale": "BRUNO TRAVERSA",
+   "CarneEntra": "48268",
+   "Jug_Entra": "ERNESTO MATIAS PEREYRA",
+   "camiseta": "61",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "52971",
+   "Jug_Sale": "JUAN PABLO FERRARI",
+   "CarneEntra": "54861",
+   "Jug_Entra": "FEDERICO GARCIA",
+   "camiseta": "14",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "37723",
+   "Jug_Sale": "MARTIN PRATO",
+   "CarneEntra": "49541",
+   "Jug_Entra": "PABLO FERNANDO MOREIRA",
+   "camiseta": "16",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66518",
+   "Jug_Sale": "ANDRES CIRO BELVEDER",
+   "CarneEntra": "30973",
+   "Jug_Entra": "MAXIMILIANO PEREYRA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67680",
+   "Jug_Sale": "NIKOLAS BASEL",
+   "CarneEntra": "61998",
+   "Jug_Entra": "GUZMAN COUSELO",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66677",
+   "Jug_Sale": "MARCELO PERRONE",
+   "CarneEntra": "64816",
+   "Jug_Entra": "FEDERICO JAVIER BARCELO",
+   "camiseta": "13",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "54946",
+   "Jug_Sale": "FRANCO VICENTE CIFUENTES",
+   "CarneEntra": "66677",
+   "Jug_Entra": "MARCELO PERRONE",
+   "camiseta": "6",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54861",
+   "Nombre": "FEDERICO GARCIA",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58677",
+   "Nombre": "BRUNO TRAVERSA",
+   "minutos": "94",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60781",
+   "Nombre": "JUAN JOSE NOGUEIRA",
+   "minutos": "28",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "CRISTIAN  DANIEL GARCIA",
+   "observaciones": ""
+  }
+ ]
+}

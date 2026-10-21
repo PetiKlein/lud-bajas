@@ -1,0 +1,326 @@
+{
+ "id": "100884",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 4,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "C. U. CATOLICA AZUL",
+ "visitante": "MARISTAS DEPORTIVO",
+ "gl": 1,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "383",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-08-15 11:00:00",
+  "Fecha_fin": "2026-08-15 11:00:00",
+  "Locatario": "C. U. CATOLICA AZUL",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "MARISTAS DEPORTIVO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66910",
+   "Nombre": "DIOGO ISMAEL LOPEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62786",
+   "Nombre": "AGUSTIN DEL PRESTITO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65984",
+   "Nombre": "ALFONSO BACCINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68670",
+   "Nombre": "FRANCO EZEQUIEL MARTINEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "66908",
+   "Nombre": "LUCIANO NICOLAS BUZON",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67484",
+   "Nombre": "JUAN FRANCO REBOLLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "45212",
+   "Nombre": "TOMAS BERRETA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66694",
+   "Nombre": "BRAYAN MAXIMILIANO GALARZA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61312",
+   "Nombre": "FACUNDO NAHUEL NAVAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67483",
+   "Nombre": "OCTAVIO ALVEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68954",
+   "Nombre": "GERMAN LATORRE",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59350",
+   "Nombre": "GASTON NUÑEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66164",
+   "Nombre": "NICOLAS AYESTARAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "50844",
+   "Nombre": "BRUNO MARTIN PALACIO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56508",
+   "Nombre": "MATEO GARCIA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "56670",
+   "Nombre": "FEDERICO SALVA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66621",
+   "Nombre": "NAIM BLANCO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46422",
+   "Nombre": "GONZALO IÑAKI DE PENA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66232",
+   "Nombre": "LUCAS MAURICIO CARTAGENA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56224",
+   "Nombre": "SANTIAGO DANIEL CASCO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55117",
+   "Nombre": "GUILLERMO VALLE LISBOA",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67483",
+   "Jug_Sale": "OCTAVIO ALVEZ",
+   "CarneEntra": "66698",
+   "Jug_Entra": "CONRADO DIAZ",
+   "camiseta": "50",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "62786",
+   "Jug_Sale": "AGUSTIN DEL PRESTITO",
+   "CarneEntra": "61906",
+   "Jug_Entra": "FRANCESCO GALLUCCI",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67484",
+   "Jug_Sale": "JUAN FRANCO REBOLLO",
+   "CarneEntra": "67639",
+   "Jug_Entra": "AXEL NAHUEL CASTAÑO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68670",
+   "Jug_Sale": "FRANCO EZEQUIEL MARTINEZ",
+   "CarneEntra": "58232",
+   "Jug_Entra": "IGNACIO FLEITAS",
+   "camiseta": "3",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "65984",
+   "Jug_Sale": "ALFONSO BACCINO",
+   "CarneEntra": "65355",
+   "Jug_Entra": "FRANCISCO LEANDRO SEQUEIRA",
+   "camiseta": "22",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "45212",
+   "Jug_Sale": "TOMAS BERRETA",
+   "CarneEntra": "50970",
+   "Jug_Entra": "SANTIAGO BOSCHI",
+   "camiseta": "21",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "66694",
+   "Jug_Sale": "BRAYAN MAXIMILIANO GALARZA",
+   "CarneEntra": "67485",
+   "Jug_Entra": "GABRIEL  AGUSTIN MENCHACA",
+   "camiseta": "71",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56508",
+   "Jug_Sale": "MATEO GARCIA",
+   "CarneEntra": "61778",
+   "Jug_Entra": "EDINSON MAXIMILIANO DIAZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48010",
+   "Jug_Sale": "FABRICIO VERDIAS",
+   "CarneEntra": "47785",
+   "Jug_Entra": "FILIPPO RADICCIONI",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66621",
+   "Jug_Sale": "NAIM BLANCO",
+   "CarneEntra": "60732",
+   "Jug_Entra": "SEBASTIAN LAPORTE",
+   "camiseta": "7",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "55117",
+   "Jug_Sale": "GUILLERMO VALLE LISBOA",
+   "CarneEntra": "47999",
+   "Jug_Entra": "DIEGO BOUZON",
+   "camiseta": "23",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "56224",
+   "Jug_Sale": "SANTIAGO DANIEL CASCO",
+   "CarneEntra": "58255",
+   "Jug_Entra": "AGUSTIN DIAZ",
+   "camiseta": "8",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "46422",
+   "Jug_Sale": "GONZALO IÑAKI DE PENA",
+   "CarneEntra": "66624",
+   "Jug_Entra": "VALENTIN HUGO MENDIZABAL",
+   "camiseta": "17",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "56508",
+   "Jug_Sale": "MATEO GARCIA",
+   "CarneEntra": "55121",
+   "Jug_Entra": "AGUSTIN FRAGA",
+   "camiseta": "3",
+   "minutos": "67"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66698",
+   "Nombre": "CONRADO DIAZ",
+   "minutos": "79",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47785",
+   "Nombre": "FILIPPO RADICCIONI",
+   "minutos": "83",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "minutos": "8",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "minutos": "31",
+   "EnContra": "1"
+  },
+  {
+   "carne": "50844",
+   "Nombre": "BRUNO MARTIN PALACIO",
+   "minutos": "12",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56224",
+   "Nombre": "SANTIAGO DANIEL CASCO",
+   "minutos": "17",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

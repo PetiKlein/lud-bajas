@@ -1,0 +1,279 @@
+{
+ "id": "97945",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "LAS CEBRAS",
+ "local": "TAPE",
+ "visitante": "OLD WOODLANDS CLUB",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "3",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "LAS CEBRAS",
+  "Fecha_Inicio": "2026-04-11 13:15:00",
+  "Fecha_fin": "2026-04-11 13:15:00",
+  "Locatario": "TAPE",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD WOODLANDS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45549",
+   "Nombre": "JOSE FACUNDO FONSECA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37326",
+   "Nombre": "JUAN INCIARTE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "55125",
+   "Nombre": "JUAN GURMENDEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65006",
+   "Nombre": "GERONIMO GAUTHIER",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64545",
+   "Nombre": "RODRIGO ESTEBAN GONZALEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53801",
+   "Nombre": "JUAN MANUEL VILDOZOLA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "45426",
+   "Nombre": "JOAQUIN IGNACIO TAFERNABERRY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48432",
+   "Nombre": "MATIAS HERNAN CASTRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "55777",
+   "Nombre": "LEANDRO MARCELO ERLE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "54540",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "31774",
+   "Nombre": "MARTIN INCIARTE",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65071",
+   "Nombre": "MANUEL FELIPE DOMINGUEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "56777",
+   "Nombre": "BRUNO MARIA IRULEGUY",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "51125",
+   "Nombre": "MATEO FALCO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53000",
+   "Nombre": "FEDERICO NUÑEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53359",
+   "Nombre": "CARLOS FLEURQUIN",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "51145",
+   "Nombre": "ALEJANDRO VICTORICA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "52998",
+   "Nombre": "MARCOS ALVAREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "33370",
+   "Nombre": "SANTIAGO BZUROVSKI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54724",
+   "Nombre": "MAURICIO DI BELLO",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "52783",
+   "Nombre": "DAAN TOMAS ELBERSE",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "53615",
+   "Nombre": "THIAGO BENITES",
+   "camiseta": "87",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53801",
+   "Jug_Sale": "JUAN MANUEL VILDOZOLA",
+   "CarneEntra": "65008",
+   "Jug_Entra": "JUAN DIEGO JACQUES",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "48432",
+   "Jug_Sale": "MATIAS HERNAN CASTRO",
+   "CarneEntra": "66856",
+   "Jug_Entra": "SANTIAGO GURMENDEZ",
+   "camiseta": "19",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "31774",
+   "Jug_Sale": "MARTIN INCIARTE",
+   "CarneEntra": "66853",
+   "Jug_Entra": "MARCELO JAVIER RUIZ",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "65006",
+   "Jug_Sale": "GERONIMO GAUTHIER",
+   "CarneEntra": "55925",
+   "Jug_Entra": "FRANCISCO PABLO VILLAR",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "55125",
+   "Jug_Sale": "JUAN GURMENDEZ",
+   "CarneEntra": "58314",
+   "Jug_Entra": "JOAQUIN MENESES",
+   "camiseta": "27",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "66856",
+   "Jug_Sale": "SANTIAGO GURMENDEZ",
+   "CarneEntra": "64757",
+   "Jug_Entra": "MARTIN VILLALBA",
+   "camiseta": "28",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56777",
+   "Jug_Sale": "BRUNO MARIA IRULEGUY",
+   "CarneEntra": "58593",
+   "Jug_Entra": "ALVARO FACUNDO DEFAUT",
+   "camiseta": "50",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52998",
+   "Jug_Sale": "MARCOS ALVAREZ",
+   "CarneEntra": "53647",
+   "Jug_Entra": "MATIAS PINTOS",
+   "camiseta": "17",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "53615",
+   "Jug_Sale": "THIAGO BENITES",
+   "CarneEntra": "48036",
+   "Jug_Entra": "SANTIAGO IRULEGUY",
+   "camiseta": "34",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "51125",
+   "Jug_Sale": "MATEO FALCO",
+   "CarneEntra": "49206",
+   "Jug_Entra": "TOMAS PONCE DE LEON",
+   "camiseta": "14",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "51145",
+   "Jug_Sale": "ALEJANDRO VICTORICA",
+   "CarneEntra": "59192",
+   "Jug_Entra": "SEBASTIAN SONEIRA",
+   "camiseta": "8",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "54724",
+   "Jug_Sale": "MAURICIO DI BELLO",
+   "CarneEntra": "49153",
+   "Jug_Entra": "SANTIAGO MARTIN OCASO",
+   "camiseta": "77",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "58593",
+   "Nombre": "ALVARO FACUNDO DEFAUT",
+   "minutos": "71",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

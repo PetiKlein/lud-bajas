@@ -1,0 +1,308 @@
+{
+ "id": "100247",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "LATINO FUTBOL CLUB",
+ "visitante": "CLUB FUERZA AEREA",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "417",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-06-20 13:00:00",
+  "Fecha_fin": "2026-06-20 13:00:00",
+  "Locatario": "LATINO FUTBOL CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB FUERZA AEREA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56822",
+   "Nombre": "JUAN IGNACIO TELLECHEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59776",
+   "Nombre": "MARTINO LORENZO FLORA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56044",
+   "Nombre": "GABRIEL ENRIQUE CHACON",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "40984",
+   "Nombre": "MATHIAS GABRIEL ORTIZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "49193",
+   "Nombre": "JUAN PEREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "62907",
+   "Nombre": "IGNACIO TELESCA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59765",
+   "Nombre": "SANTIAGO TRIAS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52794",
+   "Nombre": "MAURO LARRROSA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59772",
+   "Nombre": "MIRKO FELIX FLORA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "42311",
+   "Nombre": "DIEGO MATIAS VIZCARRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62075",
+   "Nombre": "SANTIAGO SOSA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "50053",
+   "Nombre": "DAMIAN BARBITTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65781",
+   "Nombre": "AXEL NAHUEL PIMENTEL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "30093",
+   "Nombre": "FERNANDO GABRIEL DE MEDINA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24285",
+   "Nombre": "ALBERTO DE MEDINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63084",
+   "Nombre": "KEVIN NICOLAS LAVALLEJA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67892",
+   "Nombre": "VALENTIN DECIMA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "60254",
+   "Nombre": "AXEL RAFAEL DAVILA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "47191",
+   "Nombre": "CARLOS FACUNDO CABRERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "32378",
+   "Nombre": "SEBASTIAN CLEMENTE",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "46852",
+   "Nombre": "ALEXIS AMOROSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57856",
+   "Nombre": "MAXIMO TOLEDO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59776",
+   "Jug_Sale": "MARTINO LORENZO FLORA",
+   "CarneEntra": "62821",
+   "Jug_Entra": "JOAQUIN CHIAPPE",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49193",
+   "Jug_Sale": "JUAN PEREZ",
+   "CarneEntra": "62074",
+   "Jug_Entra": "FRANCISCO BURGOS",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62907",
+   "Jug_Sale": "IGNACIO TELESCA",
+   "CarneEntra": "49189",
+   "Jug_Entra": "MANU BERVEJILLO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42311",
+   "Jug_Sale": "DIEGO MATIAS VIZCARRA",
+   "CarneEntra": "46887",
+   "Jug_Entra": "TOMAS MACHADO",
+   "camiseta": "15",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "52794",
+   "Jug_Sale": "MAURO LARRROSA",
+   "CarneEntra": "52879",
+   "Jug_Entra": "IGNACIO QUINTANS",
+   "camiseta": "24",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "56044",
+   "Jug_Sale": "GABRIEL ENRIQUE CHACON",
+   "CarneEntra": "56807",
+   "Jug_Entra": "JOAQUIN LUTHAR",
+   "camiseta": "2",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "59772",
+   "Jug_Sale": "MIRKO FELIX FLORA",
+   "CarneEntra": "49260",
+   "Jug_Entra": "GUILLERMO JAVIER HERVI",
+   "camiseta": "71",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30093",
+   "Jug_Sale": "FERNANDO GABRIEL DE MEDINA",
+   "CarneEntra": "46892",
+   "Jug_Entra": "JUAN PABLO DE MEDINA",
+   "camiseta": "14",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "46852",
+   "Jug_Sale": "ALEXIS AMOROSO",
+   "CarneEntra": "30083",
+   "Jug_Entra": "MATHIAS AYRTON FUIDIO",
+   "camiseta": "94",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "60254",
+   "Jug_Sale": "AXEL RAFAEL DAVILA",
+   "CarneEntra": "63481",
+   "Jug_Entra": "FEDERICO CENA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47191",
+   "Jug_Sale": "CARLOS FACUNDO CABRERA",
+   "CarneEntra": "63480",
+   "Jug_Entra": "SERGI YONATAN FERNANDEZ",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32378",
+   "Jug_Sale": "SEBASTIAN CLEMENTE",
+   "CarneEntra": "68313",
+   "Jug_Entra": "MAURICIO JAVIER VIERA",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67892",
+   "Jug_Sale": "VALENTIN DECIMA",
+   "CarneEntra": "37472",
+   "Jug_Entra": "SANTIAGO CLEMENTE",
+   "camiseta": "23",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "24285",
+   "Jug_Sale": "ALBERTO DE MEDINA",
+   "CarneEntra": "64721",
+   "Jug_Entra": "BRUNO LUCIANO DELGADO",
+   "camiseta": "99",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "42311",
+   "Nombre": "DIEGO MATIAS VIZCARRA",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "42311",
+   "Nombre": "DIEGO MATIAS VIZCARRA",
+   "minutos": "30",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57856",
+   "Nombre": "MAXIMO TOLEDO",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,259 @@
+{
+ "id": "101484",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "96",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-09-05 13:10:00",
+  "Fecha_fin": "2026-09-05 13:10:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49084",
+   "Nombre": "GIULIANO CARDOZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "36474",
+   "Nombre": "FEDERICO ILAN ISRAEL",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "39903",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49610",
+   "Nombre": "MARTIN SUAYA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46708",
+   "Nombre": "AGUSTIN RAUL RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52186",
+   "Nombre": "BRUNO MATIAS BIGNOLI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48915",
+   "Nombre": "FACUNDO CURT GEISINGER",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66422",
+   "Nombre": "RODRIGO ARIAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47764",
+   "Nombre": "BRUNO ZEFFERINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "41534",
+   "Nombre": "DIEGO NICOLAS CHIJANE",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58246",
+   "Nombre": "IGNACIO BARCELO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50717",
+   "Nombre": "SANTIAGO VEIGA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56963",
+   "Nombre": "LUCAS BERTIN",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66786",
+   "Nombre": "FACUNDO FEO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58350",
+   "Nombre": "RAMIRO LEONCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50718",
+   "Nombre": "MATEO JOSE QUINTELA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54680",
+   "Nombre": "GUILLERMO GUERRICO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "36051",
+   "Nombre": "GONZALO PEREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52718",
+   "Nombre": "AGUSTIN CHAIA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58507",
+   "Nombre": "VALENTINO MUYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "40692",
+   "Nombre": "NICOLAS COLLINS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49610",
+   "Jug_Sale": "MARTIN SUAYA",
+   "CarneEntra": "48826",
+   "Jug_Entra": "JOAQUIN PODESTA",
+   "camiseta": "33",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52186",
+   "Jug_Sale": "BRUNO MATIAS BIGNOLI",
+   "CarneEntra": "48917",
+   "Jug_Entra": "FRANCISCO ALGORTA",
+   "camiseta": "16",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "48915",
+   "Jug_Sale": "FACUNDO CURT GEISINGER",
+   "CarneEntra": "45118",
+   "Jug_Entra": "LUCAS MARIA PEREIRA",
+   "camiseta": "8",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "47764",
+   "Jug_Sale": "BRUNO ZEFFERINO",
+   "CarneEntra": "37376",
+   "Jug_Entra": "MARTIN GENNARO SIMEONE",
+   "camiseta": "42",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "66422",
+   "Jug_Sale": "RODRIGO ARIAS",
+   "CarneEntra": "44809",
+   "Jug_Entra": "TOMAS JOSE SANZ",
+   "camiseta": "6",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "40692",
+   "Jug_Sale": "NICOLAS COLLINS",
+   "CarneEntra": "56667",
+   "Jug_Entra": "JUAN DIEGO GODOY",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50718",
+   "Jug_Sale": "MATEO JOSE QUINTELA",
+   "CarneEntra": "57413",
+   "Jug_Entra": "ENZO SEBASTIAN LAXAGUE",
+   "camiseta": "27",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "36051",
+   "Jug_Sale": "GONZALO PEREZ",
+   "CarneEntra": "40692",
+   "Jug_Entra": "NICOLAS COLLINS",
+   "camiseta": "8",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45118",
+   "Nombre": "LUCAS MARIA PEREIRA",
+   "minutos": "94",
+   "EnContra": "0"
+  },
+  {
+   "carne": "46325",
+   "Nombre": "FRANCO SUBIRAN",
+   "minutos": "85",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49610",
+   "Nombre": "MARTIN SUAYA",
+   "minutos": "5",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

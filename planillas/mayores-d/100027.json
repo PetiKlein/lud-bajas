@@ -1,0 +1,281 @@
+{
+ "id": "100027",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "SCUOLA PALERMO",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "428",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-06-14 13:00:00",
+  "Fecha_fin": "2026-06-14 13:00:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "SCUOLA PALERMO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53706",
+   "Nombre": "RAMIRO CABRERA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "46930",
+   "Nombre": "ENZO JAVIER GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "44208",
+   "Nombre": "MANUEL AGUSTIN TRAVERSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "45237",
+   "Nombre": "IGNACIO SANTIAGO DORNEL",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "38298",
+   "Nombre": "PATRICIO MARCELO COSTAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61893",
+   "Nombre": "RAMIRO GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59311",
+   "Nombre": "HUGO YANOS GARCIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67325",
+   "Nombre": "NICOLAS VAZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "50525",
+   "Nombre": "SEBASTIAN ANDRES FLORES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "46197",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42885",
+   "Nombre": "NICOLAS FALERO",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46263",
+   "Nombre": "GUILLERMO SCHUSTER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49753",
+   "Nombre": "AGUSTIN BENEDETTI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53285",
+   "Nombre": "FACUNDO ELLAURI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "43342",
+   "Nombre": "HERNAN FEDERICO LUST",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "49176",
+   "Nombre": "PEDRO AGUERRONDO",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "48984",
+   "Nombre": "JOAQUIN MANUEL POMPA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "49237",
+   "Nombre": "JOAQUIN LAGO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56827",
+   "Nombre": "AGUSTIN FACUNDO ANTUNA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53635",
+   "Nombre": "JUAN PEDRO RESTUCCIA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "42688",
+   "Nombre": "MARIO TADEO CURBELO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "37817",
+   "Nombre": "MARTIN FERNANDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42885",
+   "Jug_Sale": "NICOLAS FALERO",
+   "CarneEntra": "63421",
+   "Jug_Entra": "LUIS ALFONSO ALMADA",
+   "camiseta": "4",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "67325",
+   "Jug_Sale": "NICOLAS VAZ",
+   "CarneEntra": "63132",
+   "Jug_Entra": "FACUNDO GARCIA",
+   "camiseta": "26",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "59311",
+   "Jug_Sale": "HUGO YANOS GARCIA",
+   "CarneEntra": "51244",
+   "Jug_Entra": "SANTIAGO REYNALDO ACEVEDO",
+   "camiseta": "19",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "46197",
+   "Jug_Sale": "JUAN MANUEL PEREYRA",
+   "CarneEntra": "66796",
+   "Jug_Entra": "JOAQUIN ANDRES FRENKEL",
+   "camiseta": "18",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "45237",
+   "Jug_Sale": "IGNACIO SANTIAGO DORNEL",
+   "CarneEntra": "66797",
+   "Jug_Entra": "VLADIMIR MAKSIMCHUK",
+   "camiseta": "8",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49176",
+   "Jug_Sale": "PEDRO AGUERRONDO",
+   "CarneEntra": "53493",
+   "Jug_Entra": "MATIAS PIRIZ",
+   "camiseta": "78",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "49753",
+   "Jug_Sale": "AGUSTIN BENEDETTI",
+   "CarneEntra": "47129",
+   "Jug_Entra": "TEO CARVALHO",
+   "camiseta": "77",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "49237",
+   "Jug_Sale": "JOAQUIN LAGO",
+   "CarneEntra": "45287",
+   "Jug_Entra": "MATIAS CAMBON",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "53635",
+   "Jug_Sale": "JUAN PEDRO RESTUCCIA",
+   "CarneEntra": "56929",
+   "Jug_Entra": "SANTIAGO GABRIEL MORALES",
+   "camiseta": "30",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "43342",
+   "Jug_Sale": "HERNAN FEDERICO LUST",
+   "CarneEntra": "66381",
+   "Jug_Entra": "SANTIAGO HERNAN RODAS",
+   "camiseta": "32",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46197",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "minutos": "83",
+   "EnContra": "0"
+  },
+  {
+   "carne": "46197",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "minutos": "88",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50525",
+   "Nombre": "SEBASTIAN ANDRES FLORES",
+   "minutos": "17",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50525",
+   "Nombre": "SEBASTIAN ANDRES FLORES",
+   "minutos": "53",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

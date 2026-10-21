@@ -1,0 +1,308 @@
+{
+ "id": "102089",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 4,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "576",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-09-19 10:55:00",
+  "Fecha_fin": "2026-09-19 10:55:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "50871",
+   "Nombre": "FEDERICO BRUGNOLI",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57068",
+   "Nombre": "JUAN IGNACIO RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55200",
+   "Nombre": "MAURO MATEO HERNANDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55569",
+   "Nombre": "TOMAS NEGREIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "54111",
+   "Nombre": "FACUNDO ALVAREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58541",
+   "Nombre": "RODRIGO SEBABSTIAN CABRERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "50596",
+   "Nombre": "SANTIAGO VINAGRE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54908",
+   "Nombre": "JOAQUIN BROMBAUER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "50343",
+   "Nombre": "TOMAS PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53294",
+   "Nombre": "AGUSTIN SANTIÑAQUE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55296",
+   "Nombre": "MATEO VAZQUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62246",
+   "Nombre": "BRUNO MOREIRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "58238",
+   "Nombre": "ALEJANDRO RODRIGUEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "59027",
+   "Nombre": "RODRIGO IGNACIO VILAS",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "64352",
+   "Nombre": "MARTIN VALVERDE",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "63777",
+   "Nombre": "FRANCO OLMOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62488",
+   "Nombre": "JOAQUIN SEBASTIAN CASAL",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "59015",
+   "Nombre": "IGNACIO SALVADOR PERDOMO",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65085",
+   "Nombre": "FRANCO DIEGO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "62487",
+   "Nombre": "ALEJO RAMIREZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "54906",
+   "Nombre": "GUZMAN EMILIANO HERNANDEZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55296",
+   "Jug_Sale": "MATEO VAZQUEZ",
+   "CarneEntra": "58090",
+   "Jug_Entra": "SANTIAGO DE OLIVERA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50596",
+   "Jug_Sale": "SANTIAGO VINAGRE",
+   "CarneEntra": "55179",
+   "Jug_Entra": "SANTIAGO COUTO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54908",
+   "Jug_Sale": "JOAQUIN BROMBAUER",
+   "CarneEntra": "61834",
+   "Jug_Entra": "MATHIAS ALEXANDER RAMIREZ",
+   "camiseta": "15",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "50343",
+   "Jug_Sale": "TOMAS PEREZ",
+   "CarneEntra": "50597",
+   "Jug_Entra": "VALENTIN GONCALVEZ",
+   "camiseta": "13",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "53294",
+   "Jug_Sale": "AGUSTIN SANTIÑAQUE",
+   "CarneEntra": "55296",
+   "Jug_Entra": "MATEO VAZQUEZ",
+   "camiseta": "19",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "55569",
+   "Jug_Sale": "TOMAS NEGREIRA",
+   "CarneEntra": "66628",
+   "Jug_Entra": "GERMAN BENTOS",
+   "camiseta": "3",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "58541",
+   "Jug_Sale": "RODRIGO SEBABSTIAN CABRERA",
+   "CarneEntra": "50343",
+   "Jug_Entra": "TOMAS PEREZ",
+   "camiseta": "7",
+   "minutos": "92"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65085",
+   "Jug_Sale": "FRANCO DIEGO",
+   "CarneEntra": "63538",
+   "Jug_Entra": "LAUTARO NICOLAS MIRABALLE",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62246",
+   "Jug_Sale": "BRUNO MOREIRA",
+   "CarneEntra": "53204",
+   "Jug_Entra": "ARON SPINELLI",
+   "camiseta": "74",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62487",
+   "Jug_Sale": "ALEJO RAMIREZ",
+   "CarneEntra": "59907",
+   "Jug_Entra": "LUCIANO GONZALEZ",
+   "camiseta": "7",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "54906",
+   "Jug_Sale": "GUZMAN EMILIANO HERNANDEZ",
+   "CarneEntra": "59029",
+   "Jug_Entra": "GASTON VALENTINO CORNACCHIONE",
+   "camiseta": "37",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58238",
+   "Jug_Sale": "ALEJANDRO RODRIGUEZ",
+   "CarneEntra": "64069",
+   "Jug_Entra": "CARLOS DANIEL GUIDOTTI",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64352",
+   "Jug_Sale": "MARTIN VALVERDE",
+   "CarneEntra": "59023",
+   "Jug_Entra": "JOSE IGNACIO TEIJEIRO",
+   "camiseta": "4",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "62488",
+   "Jug_Sale": "JOAQUIN SEBASTIAN CASAL",
+   "CarneEntra": "66523",
+   "Jug_Entra": "JUAN LLOPIS",
+   "camiseta": "9",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55296",
+   "Nombre": "MATEO VAZQUEZ",
+   "minutos": "11",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58238",
+   "Nombre": "ALEJANDRO RODRIGUEZ",
+   "minutos": "4",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62488",
+   "Nombre": "JOAQUIN SEBASTIAN CASAL",
+   "minutos": "19",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

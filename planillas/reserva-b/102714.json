@@ -1,0 +1,290 @@
+{
+ "id": "102714",
+ "categoria": "reserva-b",
+ "serie": "RSBPD",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "OLD IVY",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "706",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" PER. y DESC.",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-10 10:55:00",
+  "Fecha_fin": "2026-10-10 10:55:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "OLD IVY",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": "Se eleva nota."
+ },
+ "titularesL": [
+  {
+   "carne": "54675",
+   "Nombre": "EMILIANO SALVO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53728",
+   "Nombre": "NICOLAS MIGUEL DE OCAMPO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "41717",
+   "Nombre": "SANTIAGO PEREYRA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "55078",
+   "Nombre": "JOAQUIN CELIBERTI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "43172",
+   "Nombre": "HERNAN YAÑEZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "55233",
+   "Nombre": "DANTE PEÑA",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "51507",
+   "Nombre": "MATEO BERTOLA",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "52613",
+   "Nombre": "JUAN MANUEL BUERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "52645",
+   "Nombre": "AGUSTIN QUARTINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "47802",
+   "Nombre": "FACUNDO MARTIN PEREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "41174",
+   "Nombre": "JUAN PABLO PASTORINO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "43339",
+   "Nombre": "THIAGO MAHIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "66390",
+   "Nombre": "JOAQUIN SANTINO FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "41711",
+   "Nombre": "MANUEL BORGIA",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37327",
+   "Nombre": "FEDERICO DIEGO BAUZA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56372",
+   "Nombre": "ALFONSO CARDELINO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "42664",
+   "Nombre": "LUIS EDUARDO TOPOLANSKY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45591",
+   "Nombre": "FEDERICO DEAKIN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66871",
+   "Nombre": "JUAN MANUEL COLMAN",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "61341",
+   "Nombre": "MATEO SUBIRAN",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "48007",
+   "Nombre": "VALENTIN MIER",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51507",
+   "Jug_Sale": "MATEO BERTOLA",
+   "CarneEntra": "62975",
+   "Jug_Entra": "FRANCO ANDRES MIRAFIORE",
+   "camiseta": "29",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "43172",
+   "Jug_Sale": "HERNAN YAÑEZ",
+   "CarneEntra": "49422",
+   "Jug_Entra": "MARTIN ESTEBAN DECIA",
+   "camiseta": "76",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52613",
+   "Jug_Sale": "JUAN MANUEL BUERO",
+   "CarneEntra": "45693",
+   "Jug_Entra": "PEDRO BENZO",
+   "camiseta": "13",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "41711",
+   "Jug_Sale": "MANUEL BORGIA",
+   "CarneEntra": "47939",
+   "Jug_Entra": "JUAN FRANCISCO DE LOS SANTOS",
+   "camiseta": "35",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45591",
+   "Jug_Sale": "FEDERICO DEAKIN",
+   "CarneEntra": "54564",
+   "Jug_Entra": "GUILLERMO CAMPOS",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66871",
+   "Jug_Sale": "JUAN MANUEL COLMAN",
+   "CarneEntra": "37264",
+   "Jug_Entra": "AGUSTIN ARTAGAVEYTIA",
+   "camiseta": "69",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61341",
+   "Jug_Sale": "MATEO SUBIRAN",
+   "CarneEntra": "45594",
+   "Jug_Entra": "SANTIAGO GUTIERREZ",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56372",
+   "Jug_Sale": "ALFONSO CARDELINO",
+   "CarneEntra": "45601",
+   "Jug_Entra": "JUAN BAUTISTA VILLARONGA",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49105",
+   "Jug_Sale": "NICOLAS CASAMAYOU",
+   "CarneEntra": "66871",
+   "Jug_Entra": "JUAN MANUEL COLMAN",
+   "camiseta": "75",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "48007",
+   "Jug_Sale": "VALENTIN MIER",
+   "CarneEntra": "61341",
+   "Jug_Entra": "MATEO SUBIRAN",
+   "camiseta": "80",
+   "minutos": "67"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "41174",
+   "Nombre": "JUAN PABLO PASTORINO",
+   "minutos": "59",
+   "EnContra": "0"
+  },
+  {
+   "carne": "41174",
+   "Nombre": "JUAN PABLO PASTORINO",
+   "minutos": "94",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61341",
+   "Nombre": "MATEO SUBIRAN",
+   "minutos": "86",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "DANTE PEÑA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "FEDERICO DIEGO BAUZA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "LUIS EDUARDO TOPOLANSKY",
+   "observaciones": ""
+  }
+ ]
+}

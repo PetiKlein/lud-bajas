@@ -1,0 +1,263 @@
+{
+ "id": "102781",
+ "categoria": "mayores-d",
+ "serie": "DPD",
+ "fecha": 3,
+ "fechaHora": "2026-10-11 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "DEPORTIVO MORON",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "1185",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"D\" PERM. y DESC.",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-10-11 13:00:00",
+  "Fecha_fin": "2026-10-11 13:00:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO MORON",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53706",
+   "Nombre": "RAMIRO CABRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61893",
+   "Nombre": "RAMIRO GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "44208",
+   "Nombre": "MANUEL AGUSTIN TRAVERSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46930",
+   "Nombre": "ENZO JAVIER GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "45237",
+   "Nombre": "IGNACIO SANTIAGO DORNEL",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "38298",
+   "Nombre": "PATRICIO MARCELO COSTAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63132",
+   "Nombre": "FACUNDO GARCIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67325",
+   "Nombre": "NICOLAS VAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60068",
+   "Nombre": "LEANDRO APARICIO MONTALDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59311",
+   "Nombre": "HUGO YANOS GARCIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "46197",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53480",
+   "Nombre": "LEANDRO NICOLAS MATOSAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "69210",
+   "Nombre": "LUCHIANO GIGLIO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64944",
+   "Nombre": "VALENTINO DECIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53588",
+   "Nombre": "DIEGO NICOLAS CAVALLERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58051",
+   "Nombre": "FRANCISCO PERRONE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "46463",
+   "Nombre": "FEDERICO MELA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61178",
+   "Nombre": "BENJAMIN OLIVERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "63471",
+   "Nombre": "DIEGO PORTELA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63643",
+   "Nombre": "MATEO FAULORD",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66165",
+   "Nombre": "JOAQUIN MATEU",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64686",
+   "Nombre": "EMANUEL NICOLAS PARIS",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63132",
+   "Jug_Sale": "FACUNDO GARCIA",
+   "CarneEntra": "49511",
+   "Jug_Entra": "MATIAS DOS SANTOS",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60068",
+   "Jug_Sale": "LEANDRO APARICIO MONTALDO",
+   "CarneEntra": "64865",
+   "Jug_Entra": "GERMAN ALEJANDRO COCCOLO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46930",
+   "Jug_Sale": "ENZO JAVIER GONZALEZ",
+   "CarneEntra": "66799",
+   "Jug_Entra": "JAVIER LUCENO",
+   "camiseta": "87",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "67325",
+   "Jug_Sale": "NICOLAS VAZ",
+   "CarneEntra": "66796",
+   "Jug_Entra": "JOAQUIN ANDRES FRENKEL",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38298",
+   "Jug_Sale": "PATRICIO MARCELO COSTAS",
+   "CarneEntra": "68926",
+   "Jug_Entra": "MAYCOL HARO",
+   "camiseta": "6",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "69210",
+   "Jug_Sale": "LUCHIANO GIGLIO",
+   "CarneEntra": "69214",
+   "Jug_Entra": "ISAAC NARVAEZ",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61178",
+   "Jug_Sale": "BENJAMIN OLIVERA",
+   "CarneEntra": "40883",
+   "Jug_Entra": "GONZALO SISMONDI",
+   "camiseta": "3",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "64686",
+   "Jug_Sale": "EMANUEL NICOLAS PARIS",
+   "CarneEntra": "64945",
+   "Jug_Entra": "AMERICO MAXIMILIANO MILLAN",
+   "camiseta": "17",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "53588",
+   "Jug_Sale": "DIEGO NICOLAS CAVALLERO",
+   "CarneEntra": "64206",
+   "Jug_Entra": "LUCA SANTINO LAURENZI",
+   "camiseta": "21",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "64944",
+   "Jug_Sale": "VALENTINO DECIA",
+   "CarneEntra": "54546",
+   "Jug_Entra": "MARTIN PENA",
+   "camiseta": "8",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "64945",
+   "Nombre": "AMERICO MAXIMILIANO MILLAN",
+   "minutos": "86",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

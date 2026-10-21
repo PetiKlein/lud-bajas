@@ -1,0 +1,246 @@
+{
+ "id": "99448",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 7,
+ "fechaHora": "2026-05-31 11:20:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "DEPORTIVO SALTO",
+ "visitante": "DEPORTIVO MITRE",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "535",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-05-31 00:00:00",
+  "Fecha_fin": "2026-05-31 00:00:00",
+  "Locatario": "DEPORTIVO SALTO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "DEPORTIVO MITRE",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59286",
+   "Nombre": "FRANCO NAHUEL LACERDA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40071",
+   "Nombre": "SANTIAGO NICOLAS CUENCA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48491",
+   "Nombre": "GONZALO MIGUEL BRACCO",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56522",
+   "Nombre": "NICOLAS FRONTINI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "44547",
+   "Nombre": "GONZALO MATHIAS PEREZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "37238",
+   "Nombre": "PABLO JAVIER DIAZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "60236",
+   "Nombre": "EZEQUIEL BARBOZA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61744",
+   "Nombre": "ANTONIO SIMONET",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "54186",
+   "Nombre": "DIEGO VALENTIN ALVEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "45516",
+   "Nombre": "JOAQUIN LORENZELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64783",
+   "Nombre": "SEBASTIAN JOAQUIN DINARDI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47389",
+   "Nombre": "SEBASTIAN SILVA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "55740",
+   "Nombre": "FACUNDO NAHUEL GONZALEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "37963",
+   "Nombre": "GUZMAN STEGLICH",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "57270",
+   "Nombre": "MATEO BERTOLIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65976",
+   "Nombre": "JOAN LUCAS ROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "43957",
+   "Nombre": "DIEGO MARTIN MAGALLANES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "44077",
+   "Nombre": "AGUSTIN ANDRES OTERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66857",
+   "Nombre": "JUAN ANDRES CRUJEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "53946",
+   "Nombre": "JUAN IGNACIO GODINO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25248",
+   "Nombre": "MATIAS BARREIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57732",
+   "Nombre": "SANTIAGO NICOLAS ESTEVEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44547",
+   "Jug_Sale": "GONZALO MATHIAS PEREZ",
+   "CarneEntra": "46471",
+   "Jug_Entra": "PABLO EDUARDO FLORES",
+   "camiseta": "23",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "45516",
+   "Jug_Sale": "JOAQUIN LORENZELLI",
+   "CarneEntra": "64785",
+   "Jug_Entra": "NICOLAS SILVA Y ROSAS",
+   "camiseta": "75",
+   "minutos": "4"
+  },
+  {
+   "CarneSale": "54186",
+   "Jug_Sale": "DIEGO VALENTIN ALVEZ",
+   "CarneEntra": "52055",
+   "Jug_Entra": "JOAQUIN GUIMARAES",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61744",
+   "Jug_Sale": "ANTONIO SIMONET",
+   "CarneEntra": "50939",
+   "Jug_Entra": "FACUNDO CADENAS",
+   "camiseta": "26",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "43957",
+   "Jug_Sale": "DIEGO MARTIN MAGALLANES",
+   "CarneEntra": "43739",
+   "Jug_Entra": "JUAN ANDRES GUARINO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57732",
+   "Jug_Sale": "SANTIAGO NICOLAS ESTEVEZ",
+   "CarneEntra": "32418",
+   "Jug_Entra": "JOSE IGNACIO OLASCOAGA",
+   "camiseta": "15",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "55740",
+   "Jug_Sale": "FACUNDO NAHUEL GONZALEZ",
+   "CarneEntra": "45965",
+   "Jug_Entra": "GONZALO MARTIN PEÑA",
+   "camiseta": "3",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60236",
+   "Nombre": "EZEQUIEL BARBOZA",
+   "minutos": "39",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66857",
+   "Nombre": "JUAN ANDRES CRUJEIRA",
+   "minutos": "82",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,252 @@
+{
+ "id": "101792",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "INDEPENDIENTE",
+ "visitante": "CIRCULO DE TENIS MONTEVIDEO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "223",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-09-12 13:15:00",
+  "Fecha_fin": "2026-09-12 13:15:00",
+  "Locatario": "INDEPENDIENTE",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61237",
+   "Nombre": "JOAQUIN HAYMES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "62653",
+   "Nombre": "MATEO DIAZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "42358",
+   "Nombre": "FABIO ENRIQUED DA COSTA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68177",
+   "Nombre": "ENZO FACUNDO SOUZA",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "42394",
+   "Nombre": "MARTINHO GABRIEL DA COSTA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58160",
+   "Nombre": "BRANDON FARIAS",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "35552",
+   "Nombre": "JORGE MATIAS AMATO",
+   "camiseta": "46",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48270",
+   "Nombre": "FRANCO MARTIN SANTORO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "59998",
+   "Nombre": "BRAHUDER LEONEL ALARCON",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55015",
+   "Nombre": "FRANCISCO GRAMPIN",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59323",
+   "Nombre": "MARCOS DA SILVA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64208",
+   "Nombre": "JOAQUIN REPETTO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55138",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56289",
+   "Nombre": "SANTIAGO BAIS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51734",
+   "Nombre": "NAHUEL JAVIER BALSAS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "60774",
+   "Nombre": "MATEO COMBA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50858",
+   "Nombre": "TOMAS  JOAQUIN IBARRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56290",
+   "Nombre": "DENIS RODRIGO RAMA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "47590",
+   "Nombre": "IGNACIO SILVA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64209",
+   "Nombre": "AGUSTIN MORALES",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42394",
+   "Jug_Sale": "MARTINHO GABRIEL DA COSTA",
+   "CarneEntra": "56420",
+   "Jug_Entra": "LAUTARO SANCHEZ",
+   "camiseta": "74",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58160",
+   "Jug_Sale": "BRANDON FARIAS",
+   "CarneEntra": "58968",
+   "Jug_Entra": "NICOLAS CAPECI",
+   "camiseta": "8",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47590",
+   "Jug_Sale": "IGNACIO SILVA",
+   "CarneEntra": "47766",
+   "Jug_Entra": "MARCOS SANTIAGO HOLLANDER",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51734",
+   "Jug_Sale": "NAHUEL JAVIER BALSAS",
+   "CarneEntra": "50770",
+   "Jug_Entra": "SANTIAGO IGNACIO FILGUEIRAS",
+   "camiseta": "16",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "56289",
+   "Jug_Sale": "SANTIAGO BAIS",
+   "CarneEntra": "55021",
+   "Jug_Entra": "TOMAS BICA",
+   "camiseta": "9",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "56290",
+   "Jug_Sale": "DENIS RODRIGO RAMA",
+   "CarneEntra": "49135",
+   "Jug_Entra": "FELIPE NIN",
+   "camiseta": "50",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "50858",
+   "Jug_Sale": "TOMAS  JOAQUIN IBARRA",
+   "CarneEntra": "51217",
+   "Jug_Entra": "SANTIAGO MARTIN FRAGOSO",
+   "camiseta": "88",
+   "minutos": "69"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48270",
+   "Nombre": "FRANCO MARTIN SANTORO",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66145",
+   "Nombre": "IGNACIO BERTHEL",
+   "minutos": "20",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47590",
+   "Nombre": "IGNACIO SILVA",
+   "minutos": "57",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

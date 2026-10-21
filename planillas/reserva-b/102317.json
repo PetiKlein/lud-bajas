@@ -1,0 +1,284 @@
+{
+ "id": "102317",
+ "categoria": "reserva-b",
+ "serie": "RSBTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "ELBIO FERNANDEZ",
+ "local": "ELBIO FERNANDEZ",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "673",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" TIT. y ASC.",
+  "Cancha": "ELBIO FERNANDEZ",
+  "Fecha_Inicio": "2026-09-26 10:55:00",
+  "Fecha_fin": "2026-09-26 10:55:00",
+  "Locatario": "ELBIO FERNANDEZ",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56673",
+   "Nombre": "EMILIO MAIDANA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "51278",
+   "Nombre": "GUILLERMO AGUSTIN BELANDO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "74",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67240",
+   "Nombre": "JUAN MARTIN FAUST",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49808",
+   "Nombre": "BRUNO FERNANDEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "44165",
+   "Nombre": "FEDERICO ABDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52014",
+   "Nombre": "MARTIN SORIA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "49781",
+   "Nombre": "TADEO BERTOLOTTI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52135",
+   "Nombre": "LUCAS FONTES",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57193",
+   "Nombre": "FRANCO GABRIEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63398",
+   "Nombre": "BRUNO ANDRES CIAPPESONI",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "39397",
+   "Nombre": "GERMAN VIERA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "42722",
+   "Nombre": "LUCAS MORONI",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55499",
+   "Nombre": "IGNACIO DANTE FERNANDEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "57611",
+   "Nombre": "EZEQUIEL VILLANUEVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "39323",
+   "Nombre": "IGNACIO MILLER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "49048",
+   "Nombre": "EZEQUIEL ESTEFAN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49155",
+   "Nombre": "ANDRES FERNANDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53428",
+   "Nombre": "JUAN MANUEL BALSAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "41121",
+   "Nombre": "ALVARO CANO",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44165",
+   "Jug_Sale": "FEDERICO ABDO",
+   "CarneEntra": "51793",
+   "Jug_Entra": "GERONIMO BREMERMANN",
+   "camiseta": "13",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "52014",
+   "Jug_Sale": "MARTIN SORIA",
+   "CarneEntra": "47472",
+   "Jug_Entra": "JUAN PABLO PLA",
+   "camiseta": "17",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "67240",
+   "Jug_Sale": "JUAN MARTIN FAUST",
+   "CarneEntra": "55665",
+   "Jug_Entra": "MATIAS VALSANGIACOMO",
+   "camiseta": "8",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "51278",
+   "Jug_Sale": "GUILLERMO AGUSTIN BELANDO",
+   "CarneEntra": "52014",
+   "Jug_Entra": "MARTIN SORIA",
+   "camiseta": "77",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "49781",
+   "Jug_Sale": "TADEO BERTOLOTTI",
+   "CarneEntra": "66361",
+   "Jug_Entra": "MAXIMILIANO RATTO",
+   "camiseta": "21",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39397",
+   "Jug_Sale": "GERMAN VIERA",
+   "CarneEntra": "45303",
+   "Jug_Entra": "SANTIAGO PETROCELLI",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42722",
+   "Jug_Sale": "LUCAS MORONI",
+   "CarneEntra": "36517",
+   "Jug_Entra": "MANUEL MATIAS GONZALEZ",
+   "camiseta": "23",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "39323",
+   "Jug_Sale": "IGNACIO MILLER",
+   "CarneEntra": "39018",
+   "Jug_Entra": "MAURO KARABELNIK",
+   "camiseta": "5",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "49048",
+   "Jug_Sale": "EZEQUIEL ESTEFAN",
+   "CarneEntra": "58028",
+   "Jug_Entra": "TOMAS VASSALLUCCI",
+   "camiseta": "22",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "49155",
+   "Jug_Sale": "ANDRES FERNANDEZ",
+   "CarneEntra": "43891",
+   "Jug_Entra": "DIEGO LOPEZ",
+   "camiseta": "2",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "53428",
+   "Jug_Sale": "JUAN MANUEL BALSAS",
+   "CarneEntra": "43887",
+   "Jug_Entra": "SANTIAGO JAIME CALLANDER",
+   "camiseta": "27",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52014",
+   "Nombre": "MARTIN SORIA",
+   "minutos": "92",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45303",
+   "Nombre": "SANTIAGO PETROCELLI",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45303",
+   "Nombre": "SANTIAGO PETROCELLI",
+   "minutos": "95",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

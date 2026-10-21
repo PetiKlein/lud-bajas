@@ -1,0 +1,265 @@
+{
+ "id": "102345",
+ "categoria": "mayores-e",
+ "serie": "EPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-27 11:15:00",
+ "cancha": "LOS TEROS",
+ "local": "EL CHORRO FUTBOL CLUB",
+ "visitante": "DEPORTIVO SALTO",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "1094",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"E\" PERM. y DESC.",
+  "Cancha": "LOS TEROS",
+  "Fecha_Inicio": "2026-09-27 13:15:00",
+  "Fecha_fin": "2026-09-27 13:15:00",
+  "Locatario": "EL CHORRO FUTBOL CLUB",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "DEPORTIVO SALTO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60685",
+   "Nombre": "MATEO HEROSA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49668",
+   "Nombre": "GERONIMO ROMERO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52862",
+   "Nombre": "FACUNDO ROMERO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "40273",
+   "Nombre": "JUAN IGNACIO GUERRERO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "51878",
+   "Nombre": "MATHIAS SCHWARZ",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "48417",
+   "Nombre": "RENZO PITTIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "44154",
+   "Nombre": "GASTON BERRIEL",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51513",
+   "Nombre": "NICOLAS CARIDE",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "31253",
+   "Nombre": "ADRIAN IGNACIO CAFFARELLI",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51022",
+   "Nombre": "SANTIAGO FORTEZA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "53627",
+   "Nombre": "JUAN MANUEL DELFINO",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63723",
+   "Nombre": "FABIAN EMANUEL DIAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68730",
+   "Nombre": "SANTIAGO DAVID DE SOUZA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "56522",
+   "Nombre": "NICOLAS FRONTINI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61747",
+   "Nombre": "GERONIMO NAHUEL SENA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "36567",
+   "Nombre": "RODRIGO CAMPOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "52526",
+   "Nombre": "RENZO LEONARDO PAIVA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61260",
+   "Nombre": "FACUNDO GOÑI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61744",
+   "Nombre": "ANTONIO SIMONET",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "54186",
+   "Nombre": "DIEGO VALENTIN ALVEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "54986",
+   "Nombre": "AGUSTIN ESTEVES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "32907",
+   "Nombre": "FERNANDO DANIEL NAN",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51513",
+   "Jug_Sale": "NICOLAS CARIDE",
+   "CarneEntra": "68035",
+   "Jug_Entra": "AGUSTIN ANDRES GEBELIN",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51022",
+   "Jug_Sale": "SANTIAGO FORTEZA",
+   "CarneEntra": "45790",
+   "Jug_Entra": "PEDRO BARBARO",
+   "camiseta": "10",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "49668",
+   "Jug_Sale": "GERONIMO ROMERO",
+   "CarneEntra": "52790",
+   "Jug_Entra": "MATIAS EYHERAGARAY",
+   "camiseta": "24",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "48417",
+   "Jug_Sale": "RENZO PITTIN",
+   "CarneEntra": "41961",
+   "Jug_Entra": "JUAN RAFAEL PERI",
+   "camiseta": "22",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "53627",
+   "Jug_Sale": "JUAN MANUEL DELFINO",
+   "CarneEntra": "52789",
+   "Jug_Entra": "FRANCISCO MARTIN",
+   "camiseta": "4",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "40273",
+   "Jug_Sale": "JUAN IGNACIO GUERRERO",
+   "CarneEntra": "60346",
+   "Jug_Entra": "SEBASTIAN DANTON SOUBERBIELLE",
+   "camiseta": "16",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "32907",
+   "Jug_Sale": "FERNANDO DANIEL NAN",
+   "CarneEntra": "52055",
+   "Jug_Entra": "JOAQUIN GUIMARAES",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54186",
+   "Jug_Sale": "DIEGO VALENTIN ALVEZ",
+   "CarneEntra": "56521",
+   "Jug_Entra": "AGUSTIN VOLPI",
+   "camiseta": "11",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45790",
+   "Nombre": "PEDRO BARBARO",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "45790",
+   "Nombre": "PEDRO BARBARO",
+   "minutos": "91",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51513",
+   "Nombre": "NICOLAS CARIDE",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53627",
+   "Nombre": "JUAN MANUEL DELFINO",
+   "minutos": "7",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,326 @@
+{
+ "id": "98057",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 1,
+ "fechaHora": "2026-04-12 11:20:00",
+ "cancha": "CAMPUS DEL OESTE",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "GOMENSORO",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "721",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "CAMPUS DEL OESTE",
+  "Fecha_Inicio": "2026-04-12 13:20:00",
+  "Fecha_fin": "2026-04-12 13:20:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "GOMENSORO",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59350",
+   "Nombre": "GASTON NUÑEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56670",
+   "Nombre": "FEDERICO SALVA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56013",
+   "Nombre": "LEANDRO DELFINO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49161",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46034",
+   "Nombre": "APARICIO PEDRO MACHADO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57338",
+   "Nombre": "AKEEM JORGE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "46422",
+   "Nombre": "GONZALO IÑAKI DE PENA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52973",
+   "Nombre": "MATIAS LEONARDO ALVES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63380",
+   "Nombre": "JUAN LENA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "45830",
+   "Nombre": "MATEO ALFONSO ORDOÑEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57051",
+   "Nombre": "FABIAN IGNACIO BERMUDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35001",
+   "Nombre": "DARIO ANDRES CAETANO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59970",
+   "Nombre": "DANY MENDIBUR",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "44843",
+   "Nombre": "LEONARDO XIMENO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "45443",
+   "Nombre": "AGUSTIN BERMUDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45441",
+   "Nombre": "GONZALO CERISOLA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53401",
+   "Nombre": "MATIAS RICALDONI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "59942",
+   "Nombre": "MARIANO FERREIRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65312",
+   "Nombre": "GONZALO GOROSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52864",
+   "Nombre": "PEDRO INFANTINO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "33570",
+   "Nombre": "FEDERICO CARRASCO",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46422",
+   "Jug_Sale": "GONZALO IÑAKI DE PENA",
+   "CarneEntra": "66622",
+   "Jug_Entra": "ENZO FERNANDO RODRIGUEZ",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63380",
+   "Jug_Sale": "JUAN LENA",
+   "CarneEntra": "60754",
+   "Jug_Entra": "FELIPE DIAZ",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52973",
+   "Jug_Sale": "MATIAS LEONARDO ALVES",
+   "CarneEntra": "47999",
+   "Jug_Entra": "DIEGO BOUZON",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46034",
+   "Jug_Sale": "APARICIO PEDRO MACHADO",
+   "CarneEntra": "56987",
+   "Jug_Entra": "ALVARO MARQUEZ",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "57338",
+   "Jug_Sale": "AKEEM JORGE",
+   "CarneEntra": "60732",
+   "Jug_Entra": "SEBASTIAN LAPORTE",
+   "camiseta": "19",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "48010",
+   "Jug_Sale": "FABRICIO VERDIAS",
+   "CarneEntra": "47785",
+   "Jug_Entra": "FILIPPO RADICCIONI",
+   "camiseta": "24",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "45830",
+   "Jug_Sale": "MATEO ALFONSO ORDOÑEZ",
+   "CarneEntra": "63380",
+   "Jug_Entra": "JUAN LENA",
+   "camiseta": "7",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57051",
+   "Jug_Sale": "FABIAN IGNACIO BERMUDEZ",
+   "CarneEntra": "57424",
+   "Jug_Entra": "ALEXIS RODRIGUEZ",
+   "camiseta": "12",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "35001",
+   "Jug_Sale": "DARIO ANDRES CAETANO",
+   "CarneEntra": "45447",
+   "Jug_Entra": "AGUSTIN PONS",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59942",
+   "Jug_Sale": "MARIANO FERREIRA",
+   "CarneEntra": "41347",
+   "Jug_Entra": "MATHIAS FEDERICO BERGALO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45443",
+   "Jug_Sale": "AGUSTIN BERMUDEZ",
+   "CarneEntra": "30549",
+   "Jug_Entra": "DIEGO VAZQUEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53401",
+   "Jug_Sale": "MATIAS RICALDONI",
+   "CarneEntra": "52584",
+   "Jug_Entra": "FACUNDO LAZBAL",
+   "camiseta": "19",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "52864",
+   "Jug_Sale": "PEDRO INFANTINO",
+   "CarneEntra": "62263",
+   "Jug_Entra": "FEDERICO GATTI",
+   "camiseta": "40",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "45441",
+   "Jug_Sale": "GONZALO CERISOLA",
+   "CarneEntra": "64644",
+   "Jug_Entra": "FELIPE LOPEZ",
+   "camiseta": "18",
+   "minutos": "63"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48010",
+   "Nombre": "FABRICIO VERDIAS",
+   "minutos": "86",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60754",
+   "Nombre": "FELIPE DIAZ",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "33570",
+   "Nombre": "FEDERICO CARRASCO",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45443",
+   "Nombre": "AGUSTIN BERMUDEZ",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65312",
+   "Nombre": "GONZALO GOROSO",
+   "minutos": "2",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

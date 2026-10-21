@@ -1,0 +1,299 @@
+{
+ "id": "98810",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "SAN ISIDRO LOMAS",
+ "local": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "visitante": "SAN EUGENIO",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "274",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "SAN ISIDRO LOMAS",
+  "Fecha_Inicio": "2026-05-16 13:21:00",
+  "Fecha_fin": "2026-05-16 13:21:00",
+  "Locatario": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "SAN EUGENIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52990",
+   "Nombre": "NICOLAS FEDERICO DIAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52357",
+   "Nombre": "BRUNO PASTORINI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "46898",
+   "Nombre": "PABLO PRADO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61755",
+   "Nombre": "THIAGO SEBASTIAN VARGAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60888",
+   "Nombre": "PABLO VALENTIN DA LUZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52987",
+   "Nombre": "RENZO GUZMAN RAMAGLI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57708",
+   "Nombre": "VALENTIN CUÑA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56514",
+   "Nombre": "BRUNO DI TOMASSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52775",
+   "Nombre": "BRIAN EMANUEL MADERA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59869",
+   "Nombre": "LUKAS BERNARD KASEK",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "52771",
+   "Nombre": "NICOLAS ANDRES CUENCA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62041",
+   "Nombre": "FACUNDO AGUSTIN MIERES",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "49859",
+   "Nombre": "ALFREDO SUAREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48046",
+   "Nombre": "VICTOR NICOLAI CIANO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "64840",
+   "Nombre": "AXEL GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53118",
+   "Nombre": "ALVARO MARTIN PINTOS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49999",
+   "Nombre": "LEONARDO NICOLAS RIBEIRO",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "59342",
+   "Nombre": "MATIAS MARTINS",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "62046",
+   "Nombre": "MAURICIO LAPORTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "63708",
+   "Nombre": "ANTHONY YAEL BRITOS",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "67552",
+   "Nombre": "JULIO DAMIAN GONZALEZ",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "62993",
+   "Nombre": "JUAN CARLOS MEDINA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56514",
+   "Jug_Sale": "BRUNO DI TOMASSO",
+   "CarneEntra": "55370",
+   "Jug_Entra": "BRIAN JOEL CORREA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60888",
+   "Jug_Sale": "PABLO VALENTIN DA LUZ",
+   "CarneEntra": "40019",
+   "Jug_Entra": "RODRIGO TEJERA",
+   "camiseta": "7",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "59869",
+   "Jug_Sale": "LUKAS BERNARD KASEK",
+   "CarneEntra": "56143",
+   "Jug_Entra": "CARLOS ROBERTO SARDEÑA",
+   "camiseta": "17",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "52771",
+   "Jug_Sale": "NICOLAS ANDRES CUENCA",
+   "CarneEntra": "59869",
+   "Jug_Entra": "LUKAS BERNARD KASEK",
+   "camiseta": "18",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49859",
+   "Jug_Sale": "ALFREDO SUAREZ",
+   "CarneEntra": "62042",
+   "Jug_Entra": "LUCAS AGUSTIN VIANNA",
+   "camiseta": "80",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "62046",
+   "Jug_Sale": "MAURICIO LAPORTE",
+   "CarneEntra": "61743",
+   "Jug_Entra": "KAWE ALAMON",
+   "camiseta": "22",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "49999",
+   "Jug_Sale": "LEONARDO NICOLAS RIBEIRO",
+   "CarneEntra": "62851",
+   "Jug_Entra": "FACUNDO CHAIA",
+   "camiseta": "28",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "67552",
+   "Jug_Sale": "JULIO DAMIAN GONZALEZ",
+   "CarneEntra": "62039",
+   "Jug_Entra": "SANTIAGO AUGUSTIN ARANDA",
+   "camiseta": "77",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "53118",
+   "Jug_Sale": "ALVARO MARTIN PINTOS",
+   "CarneEntra": "59857",
+   "Jug_Entra": "FEDERICO BALAO",
+   "camiseta": "21",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "62993",
+   "Jug_Sale": "JUAN CARLOS MEDINA",
+   "CarneEntra": "39725",
+   "Jug_Entra": "PABLO MARTIN SILVA",
+   "camiseta": "99",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52775",
+   "Nombre": "BRIAN EMANUEL MADERA",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52775",
+   "Nombre": "BRIAN EMANUEL MADERA",
+   "minutos": "49",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59869",
+   "Nombre": "LUKAS BERNARD KASEK",
+   "minutos": "35",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53118",
+   "Nombre": "ALVARO MARTIN PINTOS",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62042",
+   "Nombre": "LUCAS AGUSTIN VIANNA",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62042",
+   "Nombre": "LUCAS AGUSTIN VIANNA",
+   "minutos": "64",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "BRIAN EMANUEL MADERA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

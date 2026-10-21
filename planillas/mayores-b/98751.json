@@ -1,0 +1,280 @@
+{
+ "id": "98751",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 2,
+ "fechaHora": "2026-04-23 10:00:00",
+ "cancha": "CIUDAD DEPORTIVA ZONA LAB",
+ "local": "OLIMAR",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "134",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "CIUDAD DEPORTIVA ZONA LAB",
+  "Fecha_Inicio": "2026-04-23 12:00:00",
+  "Fecha_fin": "2026-04-23 12:00:00",
+  "Locatario": "OLIMAR",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": "Partido suspendido a los 6 minutos debido a una fractura expuesta de un jugador de Olimar, de común acuerdo."
+ },
+ "titularesL": [
+  {
+   "carne": "57165",
+   "Nombre": "LEANDRO MARTIN BOLDRINI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60364",
+   "Nombre": "ALFONSO NICOLAS ALMEIDA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "52547",
+   "Nombre": "BRAIAN ANDRES FIERRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "33338",
+   "Nombre": "IGNACIO INDA",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46822",
+   "Nombre": "NICOLAS ALEMAN",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "29643",
+   "Nombre": "DARIO CAMPELO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56979",
+   "Nombre": "MAURO DANIEL MIRABALLES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52565",
+   "Nombre": "NAHUEL AGUSTIN VIGNOLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52242",
+   "Nombre": "AGUSTIN BICA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "57724",
+   "Nombre": "GONZALO MARTIN MESPOLET",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "47177",
+   "Nombre": "BRUNO BRUM",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "60969",
+   "Nombre": "STEVEN LARROSA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64704",
+   "Nombre": "MARTIN LUCIANO ITURRALDE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41778",
+   "Nombre": "NICOLAS MACCIO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52561",
+   "Nombre": "IGNACIO CURRAIS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "46744",
+   "Nombre": "JOAQUIN CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56006",
+   "Nombre": "SANTIAGO MAZZONCINI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "42288",
+   "Nombre": "MATIAS EMANUEL BERNAT",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "41375",
+   "Nombre": "SANTIAGO FALERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55634",
+   "Nombre": "SANTIAGO EMANUEL OJEDA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55636",
+   "Nombre": "IGNACIO IRISARRI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45562",
+   "Nombre": "FRANCO MÜLLER",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "66465",
+   "Nombre": "HECTOR AGUSTIN VEGA",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47177",
+   "Jug_Sale": "BRUNO BRUM",
+   "CarneEntra": "58424",
+   "Jug_Entra": "ALFONSO DARIO GIMENEZ",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "52242",
+   "Jug_Sale": "AGUSTIN BICA",
+   "CarneEntra": "65333",
+   "Jug_Entra": "LUCAS DIEGO ALVARIZA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29643",
+   "Jug_Sale": "DARIO CAMPELO",
+   "CarneEntra": "33422",
+   "Jug_Entra": "AGUSTIN GUTIERREZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60969",
+   "Jug_Sale": "STEVEN LARROSA",
+   "CarneEntra": "47310",
+   "Jug_Entra": "ANDRES FEDERICO OLIVERA",
+   "camiseta": "10",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "60364",
+   "Jug_Sale": "ALFONSO NICOLAS ALMEIDA",
+   "CarneEntra": "60171",
+   "Jug_Entra": "YONATHAN FACUNDO ALDAVE",
+   "camiseta": "4",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66465",
+   "Jug_Sale": "HECTOR AGUSTIN VEGA",
+   "CarneEntra": "53070",
+   "Jug_Entra": "JUAN IGNACIO MAGRINI",
+   "camiseta": "4",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "45562",
+   "Jug_Sale": "FRANCO MÜLLER",
+   "CarneEntra": "49888",
+   "Jug_Entra": "MANUEL DOGLIO",
+   "camiseta": "21",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "55636",
+   "Jug_Sale": "IGNACIO IRISARRI",
+   "CarneEntra": "63138",
+   "Jug_Entra": "MATIAS RAFAEL CORREA",
+   "camiseta": "69",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "55634",
+   "Jug_Sale": "SANTIAGO EMANUEL OJEDA",
+   "CarneEntra": "48803",
+   "Jug_Entra": "MATIAS REVELLO",
+   "camiseta": "17",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57724",
+   "Nombre": "GONZALO MARTIN MESPOLET",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "minutos": "14",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56006",
+   "Nombre": "SANTIAGO MAZZONCINI",
+   "minutos": "54",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

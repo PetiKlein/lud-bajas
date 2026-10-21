@@ -1,0 +1,299 @@
+{
+ "id": "99569",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 7,
+ "fechaHora": "2026-05-31 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "PAMPERO",
+ "visitante": "CLUB ATLETICO BELLA VISTA",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "770",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-31 11:00:00",
+  "Fecha_fin": "2026-05-31 11:00:00",
+  "Locatario": "PAMPERO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ATLETICO BELLA VISTA",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67320",
+   "Nombre": "JONATAN DAVID MATONTE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "51064",
+   "Nombre": "LAUTARO DANIEL VILCHES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56652",
+   "Nombre": "AGUSTIN JAVIER ARTEAGA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64595",
+   "Nombre": "FACUNDO EZEQUIEL SANJURJO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "45242",
+   "Nombre": "LUCAS ALEJO FERNANDEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "57402",
+   "Nombre": "DIEGO EDUARDO PISA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64407",
+   "Nombre": "AGUSTIN RAUL RODRIGUEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "57962",
+   "Nombre": "RAMIRO SORIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67251",
+   "Nombre": "BENJAMIN SORIA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "44991",
+   "Nombre": "RICARDO SEBASTIAN MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66221",
+   "Nombre": "FACUNDO GOMEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63854",
+   "Nombre": "MATIAS MIGUEL GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67270",
+   "Nombre": "MARTINO ROCCO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45617",
+   "Nombre": "FACUNDO MARCELO BARBERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51792",
+   "Nombre": "LEANDRO CLAVIJO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "44758",
+   "Nombre": "ALEJO PEREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59858",
+   "Nombre": "RODRIGO IVAN CASAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49537",
+   "Nombre": "MATIAS GERMAN CONSTENLA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67285",
+   "Nombre": "DILAN ANDRES SALDIAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56487",
+   "Nombre": "MAURICIO NEHEMIAS VIERA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67286",
+   "Nombre": "ALEJANDRO EZEQUIEL PEREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52720",
+   "Nombre": "EDWARD ALEXIS BINTANCOUR",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51064",
+   "Jug_Sale": "LAUTARO DANIEL VILCHES",
+   "CarneEntra": "49553",
+   "Jug_Entra": "AGUSTIN PERAZA",
+   "camiseta": "17",
+   "minutos": "7"
+  },
+  {
+   "CarneSale": "45242",
+   "Jug_Sale": "LUCAS ALEJO FERNANDEZ",
+   "CarneEntra": "62076",
+   "Jug_Entra": "SEBASTIAN ROJAS",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44991",
+   "Jug_Sale": "RICARDO SEBASTIAN MARTINEZ",
+   "CarneEntra": "45242",
+   "Jug_Entra": "LUCAS ALEJO FERNANDEZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56652",
+   "Jug_Sale": "AGUSTIN JAVIER ARTEAGA",
+   "CarneEntra": "51064",
+   "Jug_Entra": "LAUTARO DANIEL VILCHES",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49553",
+   "Jug_Sale": "AGUSTIN PERAZA",
+   "CarneEntra": "56652",
+   "Jug_Entra": "AGUSTIN JAVIER ARTEAGA",
+   "camiseta": "15",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59858",
+   "Jug_Sale": "RODRIGO IVAN CASAS",
+   "CarneEntra": "64653",
+   "Jug_Entra": "BRAULIO TOMAS MATTOS",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45617",
+   "Jug_Sale": "FACUNDO MARCELO BARBERO",
+   "CarneEntra": "40228",
+   "Jug_Entra": "HUGO JESUS CORREA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67285",
+   "Jug_Sale": "DILAN ANDRES SALDIAS",
+   "CarneEntra": "63851",
+   "Jug_Entra": "JEDI MAXIMILIANO RODRIGUEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52720",
+   "Jug_Sale": "EDWARD ALEXIS BINTANCOUR",
+   "CarneEntra": "68151",
+   "Jug_Entra": "BRUNO OLIVERA",
+   "camiseta": "14",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "44758",
+   "Jug_Sale": "ALEJO PEREZ",
+   "CarneEntra": "45617",
+   "Jug_Entra": "FACUNDO MARCELO BARBERO",
+   "camiseta": "8",
+   "minutos": "50"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57402",
+   "Nombre": "DIEGO EDUARDO PISA",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57962",
+   "Nombre": "RAMIRO SORIA",
+   "minutos": "37",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52720",
+   "Nombre": "EDWARD ALEXIS BINTANCOUR",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56487",
+   "Nombre": "MAURICIO NEHEMIAS VIERA",
+   "minutos": "6",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63854",
+   "Nombre": "MATIAS MIGUEL GONZALEZ",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67286",
+   "Nombre": "ALEJANDRO EZEQUIEL PEREZ",
+   "minutos": "4",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "LAUTARO DANIEL VILCHES",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

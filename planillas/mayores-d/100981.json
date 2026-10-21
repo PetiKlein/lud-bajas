@@ -1,0 +1,326 @@
+{
+ "id": "100981",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 15,
+ "fechaHora": "2026-08-16 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "LA 12 UNIVERSITARIA",
+ "visitante": "UNIVERSITARIO VERONES",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "475",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-08-16 10:50:00",
+  "Fecha_fin": "2026-08-16 10:50:00",
+  "Locatario": "LA 12 UNIVERSITARIA",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "UNIVERSITARIO VERONES",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54201",
+   "Nombre": "KEVIN LUCIAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41167",
+   "Nombre": "MATEO TECHERA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53887",
+   "Nombre": "IGNACIO RAUL ALVAREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "38775",
+   "Nombre": "LEONARDO ALBERTO CORREA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60785",
+   "Nombre": "JEREMY SEBASTIAN MORENO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60083",
+   "Nombre": "GIANFRANCO CIMINO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "54654",
+   "Nombre": "MARTIN BERASAIN",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "52908",
+   "Nombre": "AGUSTIN SALVADOR ROSSELLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55135",
+   "Nombre": "MATIAS MEDRANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66938",
+   "Nombre": "MAURICIO ERNESTO PEREYRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "50527",
+   "Nombre": "FACUNDO TALAGORRIA",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59610",
+   "Nombre": "NICOLAS SEBASTIAN RIOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50246",
+   "Nombre": "NICOLAS SEBASTIAN AMARAL",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38946",
+   "Nombre": "SANTIAGO ANTONELLI",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66012",
+   "Nombre": "NAHUEL CHIJANE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53352",
+   "Nombre": "DIEGO FEDERICO CAMPS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64027",
+   "Nombre": "LUCA VECOÑA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68739",
+   "Nombre": "LEANDRO TOBIAS GOL",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64342",
+   "Nombre": "JOAQUIN RIOS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64344",
+   "Nombre": "FACUNDO NICOLAS BETARTE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "41767",
+   "Nombre": "JOHNATAN EDGARD AMARO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66126",
+   "Nombre": "CARLOS IGNACIO PINTOS",
+   "camiseta": "75",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66938",
+   "Jug_Sale": "MAURICIO ERNESTO PEREYRA",
+   "CarneEntra": "64340",
+   "Jug_Entra": "ALEX ALFONSO",
+   "camiseta": "16",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "38775",
+   "Jug_Sale": "LEONARDO ALBERTO CORREA",
+   "CarneEntra": "38683",
+   "Jug_Entra": "BRUNO CRISTIAN PEREYRA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55135",
+   "Jug_Sale": "MATIAS MEDRANO",
+   "CarneEntra": "58016",
+   "Jug_Entra": "MAURO MEDRANO",
+   "camiseta": "8",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "54654",
+   "Jug_Sale": "MARTIN BERASAIN",
+   "CarneEntra": "68740",
+   "Jug_Entra": "JUAN FRANCISCO ROSSELLO",
+   "camiseta": "34",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "60785",
+   "Jug_Sale": "JEREMY SEBASTIAN MORENO",
+   "CarneEntra": "66937",
+   "Jug_Entra": "MATIAS CAIMI",
+   "camiseta": "28",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "64340",
+   "Jug_Sale": "ALEX ALFONSO",
+   "CarneEntra": "66938",
+   "Jug_Entra": "MAURICIO ERNESTO PEREYRA",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "60083",
+   "Jug_Sale": "GIANFRANCO CIMINO",
+   "CarneEntra": "54654",
+   "Jug_Entra": "MARTIN BERASAIN",
+   "camiseta": "19",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50246",
+   "Jug_Sale": "NICOLAS SEBASTIAN AMARAL",
+   "CarneEntra": "34955",
+   "Jug_Entra": "MATHIAS ARTURO SANCHEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41767",
+   "Jug_Sale": "JOHNATAN EDGARD AMARO",
+   "CarneEntra": "22553",
+   "Jug_Entra": "GONZALO DANIEL PALAU",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64027",
+   "Jug_Sale": "LUCA VECOÑA",
+   "CarneEntra": "62818",
+   "Jug_Entra": "SANTIAGO VECOÑA",
+   "camiseta": "8",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "66012",
+   "Jug_Sale": "NAHUEL CHIJANE",
+   "CarneEntra": "62823",
+   "Jug_Entra": "NAHUEL CASELLA",
+   "camiseta": "19",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "68739",
+   "Jug_Sale": "LEANDRO TOBIAS GOL",
+   "CarneEntra": "56990",
+   "Jug_Entra": "ELIAS JOAQUIN MARICHAL",
+   "camiseta": "6",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "62823",
+   "Jug_Sale": "NAHUEL CASELLA",
+   "CarneEntra": "68739",
+   "Jug_Entra": "LEANDRO TOBIAS GOL",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "38946",
+   "Jug_Sale": "SANTIAGO ANTONELLI",
+   "CarneEntra": "50246",
+   "Jug_Entra": "NICOLAS SEBASTIAN AMARAL",
+   "camiseta": "16",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52908",
+   "Nombre": "AGUSTIN SALVADOR ROSSELLO",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52908",
+   "Nombre": "AGUSTIN SALVADOR ROSSELLO",
+   "minutos": "45",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54654",
+   "Nombre": "MARTIN BERASAIN",
+   "minutos": "19",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58016",
+   "Nombre": "MAURO MEDRANO",
+   "minutos": "67",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60083",
+   "Nombre": "GIANFRANCO CIMINO",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64027",
+   "Nombre": "LUCA VECOÑA",
+   "minutos": "32",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

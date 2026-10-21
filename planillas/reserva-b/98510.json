@@ -1,0 +1,282 @@
+{
+ "id": "98510",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "OLD IVY",
+ "visitante": "INDEPENDIENTE",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "141",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-04-25 13:10:00",
+  "Fecha_fin": "2026-04-25 13:10:00",
+  "Locatario": "OLD IVY",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "INDEPENDIENTE",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "43339",
+   "Nombre": "THIAGO MAHIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "41711",
+   "Nombre": "MANUEL BORGIA",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47826",
+   "Nombre": "JUAN DIEGO AMESTOY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66390",
+   "Nombre": "JOAQUIN SANTINO FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56372",
+   "Nombre": "ALFONSO CARDELINO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "42664",
+   "Nombre": "LUIS EDUARDO TOPOLANSKY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48008",
+   "Nombre": "SANTIAGO DABO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66871",
+   "Nombre": "JUAN MANUEL COLMAN",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "62012",
+   "Nombre": "FRANCISCO FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56710",
+   "Nombre": "MARTIN BRUN",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61237",
+   "Nombre": "JOAQUIN HAYMES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42394",
+   "Nombre": "MARTINHO GABRIEL DA COSTA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "48270",
+   "Nombre": "FRANCO MARTIN SANTORO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "35552",
+   "Nombre": "JORGE MATIAS AMATO",
+   "camiseta": "46",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65734",
+   "Nombre": "SANTIAGO FLORETTA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "62653",
+   "Nombre": "MATEO DIAZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "45728",
+   "Nombre": "DIEGO REY",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "48387",
+   "Nombre": "JUAN ANDRES CORREA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "41598",
+   "Nombre": "AGUSTIN TESTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "43803",
+   "Nombre": "AGUSTIN GOMEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47826",
+   "Jug_Sale": "JUAN DIEGO AMESTOY",
+   "CarneEntra": "47939",
+   "Jug_Entra": "JUAN FRANCISCO DE LOS SANTOS",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56372",
+   "Jug_Sale": "ALFONSO CARDELINO",
+   "CarneEntra": "37430",
+   "Jug_Entra": "MARTIN VAZQUEZ",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49105",
+   "Jug_Sale": "NICOLAS CASAMAYOU",
+   "CarneEntra": "59609",
+   "Jug_Entra": "FRANCISCO RUBIO",
+   "camiseta": "47",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "56710",
+   "Jug_Sale": "MARTIN BRUN",
+   "CarneEntra": "47829",
+   "Jug_Entra": "RAFAEL RUBEN GAIMARI",
+   "camiseta": "4",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "66871",
+   "Jug_Sale": "JUAN MANUEL COLMAN",
+   "CarneEntra": "46457",
+   "Jug_Entra": "MARCOS TOPOLANSKY",
+   "camiseta": "28",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48387",
+   "Jug_Sale": "JUAN ANDRES CORREA",
+   "CarneEntra": "58968",
+   "Jug_Entra": "NICOLAS CAPECI",
+   "camiseta": "8",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "41598",
+   "Jug_Sale": "AGUSTIN TESTA",
+   "CarneEntra": "66145",
+   "Jug_Entra": "IGNACIO BERTHEL",
+   "camiseta": "25",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "48270",
+   "Jug_Sale": "FRANCO MARTIN SANTORO",
+   "CarneEntra": "43314",
+   "Jug_Entra": "CONRADO GAMBETTA",
+   "camiseta": "6",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "58968",
+   "Jug_Sale": "NICOLAS CAPECI",
+   "CarneEntra": "56420",
+   "Jug_Entra": "LAUTARO SANCHEZ",
+   "camiseta": "79",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "45728",
+   "Jug_Sale": "DIEGO REY",
+   "CarneEntra": "57884",
+   "Jug_Entra": "MATEO LAUTARO GONZALEZ",
+   "camiseta": "32",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49105",
+   "Nombre": "NICOLAS CASAMAYOU",
+   "minutos": "67",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56710",
+   "Nombre": "MARTIN BRUN",
+   "minutos": "17",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66871",
+   "Nombre": "JUAN MANUEL COLMAN",
+   "minutos": "88",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57134",
+   "Nombre": "MATIAS EZEQUIEL PEREZ",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

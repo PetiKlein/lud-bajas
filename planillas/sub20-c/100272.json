@@ -1,0 +1,247 @@
+{
+ "id": "100272",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 15:30:00",
+ "cancha": "COLEGIO PIO",
+ "local": "CENTRO CRISTOBAL COLON",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "313",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-20 17:22:00",
+  "Fecha_fin": "2026-06-20 17:22:00",
+  "Locatario": "CENTRO CRISTOBAL COLON",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64261",
+   "Nombre": "SANTIAGO HERRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62358",
+   "Nombre": "MATEO FIGUEROA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "62359",
+   "Nombre": "MATHIAS GOMEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64258",
+   "Nombre": "BRUNO ALEJANDRO MARRERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61142",
+   "Nombre": "FELIPE ODAZZIO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63570",
+   "Nombre": "JUAN SEBASTIAN CORONEL",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58770",
+   "Nombre": "MATEO EASTMAN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62132",
+   "Nombre": "MARCOS GABRIEL BOYE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63435",
+   "Nombre": "MATEO ADOLFO OXEHUFWUD",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64628",
+   "Nombre": "ANDRES SEBASTIAN DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63543",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58727",
+   "Nombre": "JOAQUIN GRACIANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62587",
+   "Nombre": "MATEO ALONSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62586",
+   "Nombre": "LEANDRO MOCCIA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64173",
+   "Nombre": "SANTIAGO MIRANDA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58704",
+   "Nombre": "IGNACIO JAVIER ROMERO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "55413",
+   "Nombre": "LUCAS OTAÑO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66167",
+   "Nombre": "AGUSTIN BLAS RIVERO",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "67621",
+   "Nombre": "SEBASTIAN GRILLO",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61142",
+   "Jug_Sale": "FELIPE ODAZZIO",
+   "CarneEntra": "67328",
+   "Jug_Entra": "UZIEL GIMENEZ",
+   "camiseta": "8",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "61897",
+   "Jug_Sale": "MATIAS MARCELO VERO",
+   "CarneEntra": "62131",
+   "Jug_Entra": "GONZALO RICCONE",
+   "camiseta": "41",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "64628",
+   "Jug_Sale": "ANDRES SEBASTIAN DIAZ",
+   "CarneEntra": "61670",
+   "Jug_Entra": "ALEX BENJAMIN MORALES",
+   "camiseta": "80",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "62132",
+   "Jug_Sale": "MARCOS GABRIEL BOYE",
+   "CarneEntra": "64958",
+   "Jug_Entra": "LUCA AFONZO",
+   "camiseta": "20",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63435",
+   "Jug_Sale": "MATEO ADOLFO OXEHUFWUD",
+   "CarneEntra": "61216",
+   "Jug_Entra": "JUAN FRANCISCO PASSADORE",
+   "camiseta": "19",
+   "minutos": "67"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66167",
+   "Jug_Sale": "AGUSTIN BLAS RIVERO",
+   "CarneEntra": "68623",
+   "Jug_Entra": "GUILLERMO MARTINEZ",
+   "camiseta": "88",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64173",
+   "Jug_Sale": "SANTIAGO MIRANDA",
+   "CarneEntra": "67477",
+   "Jug_Entra": "IGNACIO FERNANDEZ",
+   "camiseta": "55",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "67476",
+   "Jug_Sale": "NICOLAS RIVERO",
+   "CarneEntra": "67273",
+   "Jug_Entra": "SANTIAGO ROMAN DALIA",
+   "camiseta": "11",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64628",
+   "Nombre": "ANDRES SEBASTIAN DIAZ",
+   "minutos": "92",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

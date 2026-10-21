@@ -1,0 +1,312 @@
+{
+ "id": "99660",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "COLEGIO PIO",
+ "local": "CENTRO CRISTOBAL COLON",
+ "visitante": "SAN PABLO UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "298",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-06 13:15:00",
+  "Fecha_fin": "2026-06-06 13:15:00",
+  "Locatario": "CENTRO CRISTOBAL COLON",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SAN PABLO UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64261",
+   "Nombre": "SANTIAGO HERRERA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67324",
+   "Nombre": "FRANCO VALIENTE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "50423",
+   "Nombre": "MARTIN GARCIA",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62352",
+   "Nombre": "SANTIAGO RICCONE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61602",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "56887",
+   "Nombre": "JUAN MANUEL MASEDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59792",
+   "Nombre": "MATEO ARMANDO OLIVERA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "57654",
+   "Nombre": "DONATO NOCETTI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62131",
+   "Nombre": "GONZALO RICCONE",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "62681",
+   "Nombre": "SANTIAGO PERAZZA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "55648",
+   "Nombre": "DIEGO MONTERO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45571",
+   "Nombre": "JOSE MARIA NUÐEZ",
+   "camiseta": "39",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56705",
+   "Nombre": "AGUSTIN ULISES FAGIANI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63209",
+   "Nombre": "VALENTIN MENDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53751",
+   "Nombre": "FELIPE BELLORA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "51080",
+   "Nombre": "AUGUSTO SECCO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "52895",
+   "Nombre": "RODRIGO MORANDI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "52663",
+   "Nombre": "MARCOS VERNENGO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "56700",
+   "Nombre": "FRANCO DELISANTE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "51334",
+   "Nombre": "FRANCISCO ENRIQUE TRIAY",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "56490",
+   "Nombre": "PABLO ANDRES SCOFFONE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "45629",
+   "Nombre": "ISMAEL NUÑEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62681",
+   "Jug_Sale": "SANTIAGO PERAZZA",
+   "CarneEntra": "58071",
+   "Jug_Entra": "FELIPE IRIGOYEN",
+   "camiseta": "7",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "55648",
+   "Jug_Sale": "DIEGO MONTERO",
+   "CarneEntra": "52424",
+   "Jug_Entra": "MARCOS DANIEL CARREÑO",
+   "camiseta": "14",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "67324",
+   "Jug_Sale": "FRANCO VALIENTE",
+   "CarneEntra": "63517",
+   "Jug_Entra": "FELIPE FERREIRA",
+   "camiseta": "99",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "61602",
+   "Jug_Sale": "JOAQUIN FERNANDEZ",
+   "CarneEntra": "55027",
+   "Jug_Entra": "FERNANDO RIQUEL",
+   "camiseta": "22",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "59792",
+   "Jug_Sale": "MATEO ARMANDO OLIVERA",
+   "CarneEntra": "64472",
+   "Jug_Entra": "JUAN MARTIN SUCAZES",
+   "camiseta": "23",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "62131",
+   "Jug_Sale": "GONZALO RICCONE",
+   "CarneEntra": "62132",
+   "Jug_Entra": "MARCOS GABRIEL BOYE",
+   "camiseta": "20",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "56887",
+   "Jug_Sale": "JUAN MANUEL MASEDA",
+   "CarneEntra": "61142",
+   "Jug_Entra": "FELIPE ODAZZIO",
+   "camiseta": "15",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56700",
+   "Jug_Sale": "FRANCO DELISANTE",
+   "CarneEntra": "42736",
+   "Jug_Entra": "SANTIAGO SOCA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63209",
+   "Jug_Sale": "VALENTIN MENDEZ",
+   "CarneEntra": "53769",
+   "Jug_Entra": "TIAGO DA SILVA",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56490",
+   "Jug_Sale": "PABLO ANDRES SCOFFONE",
+   "CarneEntra": "48053",
+   "Jug_Entra": "CAETANO JOAQUIN RODRIGUEZ",
+   "camiseta": "17",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "45629",
+   "Jug_Sale": "ISMAEL NUÑEZ",
+   "CarneEntra": "47151",
+   "Jug_Entra": "THIAGO QUINTAS",
+   "camiseta": "64",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "51080",
+   "Jug_Sale": "AUGUSTO SECCO",
+   "CarneEntra": "39248",
+   "Jug_Entra": "GONZALO GINEL",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "52663",
+   "Jug_Sale": "MARCOS VERNENGO",
+   "CarneEntra": "66219",
+   "Jug_Entra": "JOAQUIN MENENDEZ",
+   "camiseta": "24",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "51334",
+   "Jug_Sale": "FRANCISCO ENRIQUE TRIAY",
+   "CarneEntra": "59329",
+   "Jug_Entra": "MATEO LAUTARO FERNANDEZ",
+   "camiseta": "19",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55648",
+   "Nombre": "DIEGO MONTERO",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58071",
+   "Nombre": "FELIPE IRIGOYEN",
+   "minutos": "45",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58071",
+   "Nombre": "FELIPE IRIGOYEN",
+   "minutos": "70",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "VALENTIN MENDEZ",
+   "observaciones": ""
+  }
+ ]
+}

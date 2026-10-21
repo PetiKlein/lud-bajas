@@ -1,0 +1,260 @@
+{
+ "id": "101499",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+ "local": "PEÑAROL UNIVERSITARIO",
+ "visitante": "NUMA TURCATTI",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "335",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO PEÑAROL UNIVERSITARIO",
+  "Fecha_Inicio": "2026-09-05 13:10:00",
+  "Fecha_fin": "2026-09-05 13:10:00",
+  "Locatario": "PEÑAROL UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "NUMA TURCATTI",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66297",
+   "Nombre": "CRISTIAN VELOZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44849",
+   "Nombre": "FACUNDO EZEQUIEL VALIENTE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66630",
+   "Nombre": "FRANCISCO PEREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49170",
+   "Nombre": "BRUNO EMILIANO BERMUDEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "66298",
+   "Nombre": "MICHAEL GREGORI VELOZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51755",
+   "Nombre": "IGNACIO BARRALES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "66845",
+   "Nombre": "FACUNDO OLIVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66433",
+   "Nombre": "LUCAS TOMAS FERNANDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66691",
+   "Nombre": "BRUNO ALEXIS ARAUJO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61101",
+   "Nombre": "MATIAS NICOLAS GARCIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "46778",
+   "Nombre": "FRANCO MANUEL FIGUEREDO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68733",
+   "Nombre": "MANUEL ROMERO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "49283",
+   "Nombre": "SANTIAGO BARBOZA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "54928",
+   "Nombre": "ISMAEL IMPERIAL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51240",
+   "Nombre": "LUIS ANDRES FALKENSTEIN",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "69059",
+   "Nombre": "JAIME RUIZ",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "55092",
+   "Nombre": "FRANCO ADRIAN CABRERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67174",
+   "Nombre": "MARTIN TIAGO LIMA",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "57617",
+   "Nombre": "JUAN IGNACIO ARRILLAGA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "68232",
+   "Nombre": "THIAGO MATEO FERREIRA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "69074",
+   "Nombre": "LAUTARO NICOLAS RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66845",
+   "Jug_Sale": "FACUNDO OLIVERA",
+   "CarneEntra": "65783",
+   "Jug_Entra": "BRUNO IGNACIO ALVAREZ",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51755",
+   "Jug_Sale": "IGNACIO BARRALES",
+   "CarneEntra": "68868",
+   "Jug_Entra": "EZEQUIEL ENRIQUE LUBARA",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66433",
+   "Jug_Sale": "LUCAS TOMAS FERNANDEZ",
+   "CarneEntra": "67842",
+   "Jug_Entra": "FACUNDO GONZALO RODRIGUEZ",
+   "camiseta": "16",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "66691",
+   "Jug_Sale": "BRUNO ALEXIS ARAUJO",
+   "CarneEntra": "55028",
+   "Jug_Entra": "JUAN RODRIGUEZ",
+   "camiseta": "7",
+   "minutos": "91"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57177",
+   "Jug_Sale": "IGNACIO GUERRERO",
+   "CarneEntra": "64351",
+   "Jug_Entra": "BRUNO SIMON",
+   "camiseta": "16",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "57617",
+   "Jug_Sale": "JUAN IGNACIO ARRILLAGA",
+   "CarneEntra": "55412",
+   "Jug_Entra": "DIEGO OTAÑO",
+   "camiseta": "46",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49283",
+   "Jug_Sale": "SANTIAGO BARBOZA",
+   "CarneEntra": "66777",
+   "Jug_Entra": "SANTIAGO DAVRIEUX",
+   "camiseta": "17",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "68232",
+   "Jug_Sale": "THIAGO MATEO FERREIRA",
+   "CarneEntra": "49283",
+   "Jug_Entra": "SANTIAGO BARBOZA",
+   "camiseta": "99",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46778",
+   "Nombre": "FRANCO MANUEL FIGUEREDO",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66433",
+   "Nombre": "LUCAS TOMAS FERNANDEZ",
+   "minutos": "55",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

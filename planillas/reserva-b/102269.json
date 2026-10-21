@@ -1,0 +1,269 @@
+{
+ "id": "102269",
+ "categoria": "reserva-b",
+ "serie": "RSBPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "CLUB UNIVERSIDAD CATOLICA",
+ "visitante": "SANTA ELENA LAGOMAR",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "701",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" PER. y DESC.",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-09-26 13:10:00",
+  "Fecha_fin": "2026-09-26 13:10:00",
+  "Locatario": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SANTA ELENA LAGOMAR",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47663",
+   "Nombre": "ANTHONE IVAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58896",
+   "Nombre": "JUAN ANTONIO GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61141",
+   "Nombre": "ADRIAN IGNACIO GALVAN",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60895",
+   "Nombre": "TOMAS ANDRES OTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56909",
+   "Nombre": "JOAQUIN NICOLAS NAVAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "40445",
+   "Nombre": "JUAN VICENTE CAVALLERI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59798",
+   "Nombre": "MARTIN RIOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51756",
+   "Nombre": "JUAN IGNACIO PERTUSSO",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53198",
+   "Nombre": "DIEGO LAGAZETA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "46926",
+   "Nombre": "MATIAS ANDRES MUNIZ",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61170",
+   "Nombre": "THIAGO HANDERSSON",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "47341",
+   "Nombre": "MATEO BACHINO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "46160",
+   "Nombre": "MATIAS GABRIEL BERNADA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47523",
+   "Nombre": "IVAN NICOLAS PASTORINO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47333",
+   "Nombre": "JOAQUIN GAI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49388",
+   "Nombre": "FRANCO GONZALEZ",
+   "camiseta": "76",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53101",
+   "Nombre": "ROBERTO FRANCISCO PORTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "49231",
+   "Nombre": "AGUSTIN MATEO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "45379",
+   "Nombre": "LUIS MATIAS BELDERRAIN",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49243",
+   "Nombre": "IGNACIO JAVIER GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47586",
+   "Nombre": "JUAN BAUTISTA NOVO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53198",
+   "Jug_Sale": "DIEGO LAGAZETA",
+   "CarneEntra": "63608",
+   "Jug_Entra": "PABLO MARI",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "40445",
+   "Jug_Sale": "JUAN VICENTE CAVALLERI",
+   "CarneEntra": "64990",
+   "Jug_Entra": "ISMAEL PUGLIA",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "46926",
+   "Jug_Sale": "MATIAS ANDRES MUNIZ",
+   "CarneEntra": "33319",
+   "Jug_Entra": "JUAN CARLOS PINTOS",
+   "camiseta": "15",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "53606",
+   "Jug_Sale": "GUILLERMO ANDRES REBOLLO",
+   "CarneEntra": "55010",
+   "Jug_Entra": "TOMAS MIRABAL",
+   "camiseta": "24",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "59798",
+   "Jug_Sale": "MARTIN RIOS",
+   "CarneEntra": "54349",
+   "Jug_Entra": "DIEGO FERNANDEZ",
+   "camiseta": "55",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53101",
+   "Jug_Sale": "ROBERTO FRANCISCO PORTA",
+   "CarneEntra": "47338",
+   "Jug_Entra": "JOAQUIN KAPITAN",
+   "camiseta": "27",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "47341",
+   "Jug_Sale": "MATEO BACHINO",
+   "CarneEntra": "47329",
+   "Jug_Entra": "OCTAVIO SUM",
+   "camiseta": "2",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "46160",
+   "Jug_Sale": "MATIAS GABRIEL BERNADA",
+   "CarneEntra": "49581",
+   "Jug_Entra": "FACUNDO EZEQUIEL CORICA",
+   "camiseta": "35",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "47523",
+   "Jug_Sale": "IVAN NICOLAS PASTORINO",
+   "CarneEntra": "53880",
+   "Jug_Entra": "EROS CABALLERO",
+   "camiseta": "43",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "47586",
+   "Jug_Sale": "JUAN BAUTISTA NOVO",
+   "CarneEntra": "67702",
+   "Jug_Entra": "IGNACIO MORATORIO",
+   "camiseta": "84",
+   "minutos": "92"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "40445",
+   "Nombre": "JUAN VICENTE CAVALLERI",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "minutos": "89",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

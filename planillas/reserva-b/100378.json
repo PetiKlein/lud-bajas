@@ -1,0 +1,301 @@
+{
+ "id": "100378",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+ "local": "HEBRAICA UNIVERSITARIO",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "198",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+  "Fecha_Inicio": "2026-06-20 13:18:00",
+  "Fecha_fin": "2026-06-20 13:18:00",
+  "Locatario": "HEBRAICA UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "45517",
+   "Nombre": "MATIAS WAPNIARSKY",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45526",
+   "Nombre": "EITAN WUHL",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "45841",
+   "Nombre": "MATIAS TROSTCHANSKY",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "54690",
+   "Nombre": "SANTIAGO SISIASVILI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64338",
+   "Nombre": "LUCAS DICHTENBERG",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56384",
+   "Nombre": "MATIAS SZAFRAN",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "47247",
+   "Nombre": "ARIEL SOBOL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59244",
+   "Nombre": "AGUSTÌN PILAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53835",
+   "Nombre": "MATEO NAHMIAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62767",
+   "Nombre": "MATIAS PINTO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56362",
+   "Nombre": "IGNACIO FABEIRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44106",
+   "Nombre": "SANTIAGO RIUS",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53951",
+   "Nombre": "THIAGO NERGUIZIAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61433",
+   "Nombre": "FRANCISCO PUCCIARELLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "50931",
+   "Nombre": "SANTIAGO AVILA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51116",
+   "Nombre": "JUAN BAUTISTA REY",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "45038",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "47728",
+   "Nombre": "FELIPE RAMA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55660",
+   "Nombre": "THIAGO FURTADO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "46937",
+   "Nombre": "MARTIN ROBATTO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39418",
+   "Nombre": "RODRIGO BONSIGNORE",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47247",
+   "Jug_Sale": "ARIEL SOBOL",
+   "CarneEntra": "47421",
+   "Jug_Entra": "NICOLAS JAKOB",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62767",
+   "Jug_Sale": "MATIAS PINTO",
+   "CarneEntra": "54753",
+   "Jug_Entra": "JOAQUIN BANEWUR",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "53835",
+   "Jug_Sale": "MATEO NAHMIAS",
+   "CarneEntra": "54688",
+   "Jug_Entra": "FEDERICO BONOMO",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "59244",
+   "Jug_Sale": "AGUSTÌN PILAS",
+   "CarneEntra": "58032",
+   "Jug_Entra": "FEDERICO BENATAR",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "54690",
+   "Jug_Sale": "SANTIAGO SISIASVILI",
+   "CarneEntra": "62767",
+   "Jug_Entra": "MATIAS PINTO",
+   "camiseta": "17",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "39418",
+   "Jug_Sale": "RODRIGO BONSIGNORE",
+   "CarneEntra": "59694",
+   "Jug_Entra": "FELIPE CASTRO",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61433",
+   "Jug_Sale": "FRANCISCO PUCCIARELLI",
+   "CarneEntra": "44082",
+   "Jug_Entra": "GUILLERMO CASTRO",
+   "camiseta": "23",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "51116",
+   "Jug_Sale": "JUAN BAUTISTA REY",
+   "CarneEntra": "44402",
+   "Jug_Entra": "SEBASTIAN RISSO",
+   "camiseta": "2",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "47728",
+   "Jug_Sale": "FELIPE RAMA",
+   "CarneEntra": "51114",
+   "Jug_Entra": "FACUNDO DIAZ",
+   "camiseta": "3",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "44082",
+   "Jug_Sale": "GUILLERMO CASTRO",
+   "CarneEntra": "48110",
+   "Jug_Entra": "EMILIO PRETI",
+   "camiseta": "17",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "50931",
+   "Jug_Sale": "SANTIAGO AVILA",
+   "CarneEntra": "46935",
+   "Jug_Entra": "MATEO PASSARINO",
+   "camiseta": "30",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54753",
+   "Nombre": "JOAQUIN BANEWUR",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54753",
+   "Nombre": "JOAQUIN BANEWUR",
+   "minutos": "85",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59245",
+   "Nombre": "AGUSTIN JUSTITZ",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62767",
+   "Nombre": "MATIAS PINTO",
+   "minutos": "33",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55660",
+   "Nombre": "THIAGO FURTADO",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "observaciones": ""
+  }
+ ]
+}

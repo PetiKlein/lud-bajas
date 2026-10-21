@@ -1,0 +1,250 @@
+{
+ "id": "100969",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 15,
+ "fechaHora": "2026-08-16 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "SAN JOSE DE LA PROVIDENCIA uni",
+ "visitante": "ESCUELA MILITAR",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "716",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-08-16 10:55:00",
+  "Fecha_fin": "2026-08-16 10:55:00",
+  "Locatario": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "ESCUELA MILITAR",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59906",
+   "Nombre": "MATEO FRANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59036",
+   "Nombre": "FACUNDO ROSADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "57278",
+   "Nombre": "LUCAS REINOSO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56465",
+   "Nombre": "EZEQUIEL MONTIEL",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59018",
+   "Nombre": "GONZALO GALEANO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "36368",
+   "Nombre": "MARCOS MANUEL QUEIROZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "60958",
+   "Nombre": "FEDERICO MANUELIAN",
+   "camiseta": "99",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62488",
+   "Nombre": "JOAQUIN SEBASTIAN CASAL",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "53071",
+   "Nombre": "BRUNO ALEJANDRO ARIGON",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60652",
+   "Nombre": "MATIAS VARELA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "54465",
+   "Nombre": "BRUNO POUND",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64893",
+   "Nombre": "JUAN PEREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63704",
+   "Nombre": "LUIS DIAZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "62296",
+   "Nombre": "BRUNO DIAS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64897",
+   "Nombre": "AGUSTIN GULARTE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59126",
+   "Nombre": "MATEO PIANZZOLA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "52738",
+   "Nombre": "JHON CASTAÑO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46964",
+   "Nombre": "VALENTIN ARANCET",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66803",
+   "Nombre": "GONZALO RODRIGUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64895",
+   "Nombre": "GUILLERMO RODRIGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59450",
+   "Nombre": "ENZO OTEGUI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63113",
+   "Nombre": "AGUSTIN DIAZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "36368",
+   "Jug_Sale": "MARCOS MANUEL QUEIROZ",
+   "CarneEntra": "61822",
+   "Jug_Entra": "LUCAS PEREIRA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62488",
+   "Jug_Sale": "JOAQUIN SEBASTIAN CASAL",
+   "CarneEntra": "62984",
+   "Jug_Entra": "FABRIZIO VALVERDE",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54465",
+   "Jug_Sale": "BRUNO POUND",
+   "CarneEntra": "60952",
+   "Jug_Entra": "JUAN IGNACIO MORATORIO",
+   "camiseta": "80",
+   "minutos": "68"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66803",
+   "Jug_Sale": "GONZALO RODRIGUEZ",
+   "CarneEntra": "58467",
+   "Jug_Entra": "MAURY SEBASTIAN BISIO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46964",
+   "Jug_Sale": "VALENTIN ARANCET",
+   "CarneEntra": "67377",
+   "Jug_Entra": "SANTIAGO CORREA",
+   "camiseta": "8",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "63113",
+   "Jug_Sale": "AGUSTIN DIAZ",
+   "CarneEntra": "68943",
+   "Jug_Entra": "MAURO CORBO",
+   "camiseta": "20",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53071",
+   "Nombre": "BRUNO ALEJANDRO ARIGON",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60652",
+   "Nombre": "MATIAS VARELA",
+   "minutos": "12",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46964",
+   "Nombre": "VALENTIN ARANCET",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64895",
+   "Nombre": "GUILLERMO RODRIGUEZ",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

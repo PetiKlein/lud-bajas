@@ -1,0 +1,312 @@
+{
+ "id": "98245",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "YOUNG UNIVERSITARIO",
+ "visitante": "CERVANTES UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "371",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-04-18 13:05:00",
+  "Fecha_fin": "2026-04-18 13:05:00",
+  "Locatario": "YOUNG UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CERVANTES UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66386",
+   "Nombre": "FRANCISCO CONSTANTIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66758",
+   "Nombre": "ANTHONY FACCIO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66136",
+   "Nombre": "ALFONSO MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "60311",
+   "Nombre": "ROMAN JOSE SCREMINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66169",
+   "Nombre": "ALEJO ANDRES AIZPUN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "56337",
+   "Nombre": "IVAN HARTWICH",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61038",
+   "Nombre": "CONRADO HEINZE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "52893",
+   "Nombre": "EZEQUIEL FRANCO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66635",
+   "Nombre": "SANTIAGO JAVIER RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59275",
+   "Nombre": "JOAQUIN SILVERA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "56101",
+   "Nombre": "SALVADOR AGUSTIN SIXTO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "47607",
+   "Nombre": "ALEX CLARK",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "67445",
+   "Nombre": "JUAN MARTIN TRIVEL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52723",
+   "Nombre": "FELIPE CARLOS DE CARVALHO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67255",
+   "Nombre": "MATIAS TEJEIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59273",
+   "Nombre": "PEDRO MALOSETTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59269",
+   "Nombre": "MIGUEL PEREYRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67442",
+   "Nombre": "TOMAS MARTINEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "56102",
+   "Nombre": "LAUTARO GABRIEL SIXTO",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66169",
+   "Jug_Sale": "ALEJO ANDRES AIZPUN",
+   "CarneEntra": "67431",
+   "Jug_Entra": "EMILIANO ACOSTA",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66136",
+   "Jug_Sale": "ALFONSO MEDINA",
+   "CarneEntra": "56709",
+   "Jug_Entra": "TEOFILO ARROSA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52893",
+   "Jug_Sale": "EZEQUIEL FRANCO",
+   "CarneEntra": "67559",
+   "Jug_Entra": "BRUNO CAMPOPIANO",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66758",
+   "Jug_Sale": "ANTHONY FACCIO",
+   "CarneEntra": "64739",
+   "Jug_Entra": "SANTIAGO SCREMINI",
+   "camiseta": "16",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64592",
+   "Jug_Sale": "GERONIMO VANZINI",
+   "CarneEntra": "62237",
+   "Jug_Entra": "SANTINO ACOSTA",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "56337",
+   "Jug_Sale": "IVAN HARTWICH",
+   "CarneEntra": "64245",
+   "Jug_Entra": "THIAGO RUPPEL",
+   "camiseta": "14",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "61038",
+   "Jug_Sale": "CONRADO HEINZE",
+   "CarneEntra": "67395",
+   "Jug_Entra": "VALENTINO SACRA",
+   "camiseta": "4",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67442",
+   "Jug_Sale": "TOMAS MARTINEZ",
+   "CarneEntra": "63649",
+   "Jug_Entra": "AXEL EDUARDO CANTERO",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59275",
+   "Jug_Sale": "JOAQUIN SILVERA",
+   "CarneEntra": "56094",
+   "Jug_Entra": "GERONIMO TERRA",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47607",
+   "Jug_Sale": "ALEX CLARK",
+   "CarneEntra": "28295",
+   "Jug_Entra": "MATHÌAS CAMBÒN",
+   "camiseta": "4",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "59273",
+   "Jug_Sale": "PEDRO MALOSETTI",
+   "CarneEntra": "52924",
+   "Jug_Entra": "AGUSTIN REBOLEDO",
+   "camiseta": "21",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "67255",
+   "Jug_Sale": "MATIAS TEJEIRA",
+   "CarneEntra": "67441",
+   "Jug_Entra": "FACUNDO RANDO",
+   "camiseta": "30",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "59269",
+   "Jug_Sale": "MIGUEL PEREYRA",
+   "CarneEntra": "67438",
+   "Jug_Entra": "BRUNO MUSETTI",
+   "camiseta": "25",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "59273",
+   "Jug_Sale": "PEDRO MALOSETTI",
+   "CarneEntra": "67258",
+   "Jug_Entra": "NAHUEL TUBINO",
+   "camiseta": "16",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56337",
+   "Nombre": "IVAN HARTWICH",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56337",
+   "Nombre": "IVAN HARTWICH",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "minutos": "21",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JOAQUIN SILVERA",
+   "observaciones": ""
+  }
+ ]
+}

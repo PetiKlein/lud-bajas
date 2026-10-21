@@ -1,0 +1,318 @@
+{
+ "id": "102118",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 14,
+ "fechaHora": "2026-09-20 09:00:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "SAN EUGENIO",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "468",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-09-20 11:00:00",
+  "Fecha_fin": "2026-09-20 11:00:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "SAN EUGENIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44677",
+   "Nombre": "CARLOS FACUNDO MORENO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59389",
+   "Nombre": "RODRIGO GERMAN FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "54838",
+   "Nombre": "AGUSTIN GANACHIPPI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45466",
+   "Nombre": "AGUSTIN CALABUIG",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "65354",
+   "Nombre": "JULIAN COHENAR",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "54839",
+   "Nombre": "NICOLAS ANTELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65879",
+   "Nombre": "NAHUEL OLIVETTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66880",
+   "Nombre": "FELIPE PFEIFF",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31995",
+   "Nombre": "JORGE IGNACIO DIAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54513",
+   "Nombre": "MATIAS MICHEL TORRES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59436",
+   "Nombre": "LAUTARO OLVEIRA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68273",
+   "Nombre": "PABLO NICOLAS CARDOZO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "53079",
+   "Nombre": "TOMAS FRANCISCO DE LOS SANTOS",
+   "camiseta": "42",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48023",
+   "Nombre": "RAMIRO MACHADO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "37566",
+   "Nombre": "FELIPE CARBALLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49973",
+   "Nombre": "ELIAS DANIEL PIEGAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "37223",
+   "Nombre": "MATIAS FUQUES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68963",
+   "Nombre": "FACUNDO NICOLAS MORALES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "50516",
+   "Nombre": "ALVARO GERMAN MARTINEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "46931",
+   "Nombre": "HUGO ANDRES PIRIZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "46963",
+   "Nombre": "MAICON FERNANDO WITTER GOMEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "44387",
+   "Nombre": "BRUNO ALBERTO DE LOS SANTOS",
+   "camiseta": "66",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59389",
+   "Jug_Sale": "RODRIGO GERMAN FERNANDEZ",
+   "CarneEntra": "54207",
+   "Jug_Entra": "RODRIGO CODEVILA",
+   "camiseta": "31",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "54838",
+   "Jug_Sale": "AGUSTIN GANACHIPPI",
+   "CarneEntra": "69130",
+   "Jug_Entra": "JUAN IGNACIO RODRIGUEZ",
+   "camiseta": "36",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "66880",
+   "Jug_Sale": "FELIPE PFEIFF",
+   "CarneEntra": "57829",
+   "Jug_Entra": "FRANCO ALESSANDRO BARROSO",
+   "camiseta": "32",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "54513",
+   "Jug_Sale": "MATIAS MICHEL TORRES",
+   "CarneEntra": "49250",
+   "Jug_Entra": "SANTIAGO ROO",
+   "camiseta": "11",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "65879",
+   "Jug_Sale": "NAHUEL OLIVETTO",
+   "CarneEntra": "52322",
+   "Jug_Entra": "GASTON MOZEJKO",
+   "camiseta": "15",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "54839",
+   "Jug_Sale": "NICOLAS ANTELO",
+   "CarneEntra": "48946",
+   "Jug_Entra": "MAXIMILIANO PERRONE",
+   "camiseta": "17",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "59436",
+   "Jug_Sale": "LAUTARO OLVEIRA",
+   "CarneEntra": "54847",
+   "Jug_Entra": "FRANCO GONZALEZ",
+   "camiseta": "19",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48023",
+   "Jug_Sale": "RAMIRO MACHADO",
+   "CarneEntra": "54129",
+   "Jug_Entra": "GUILLERMO MATHEUS DA COL",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44387",
+   "Jug_Sale": "BRUNO ALBERTO DE LOS SANTOS",
+   "CarneEntra": "62839",
+   "Jug_Entra": "IRVIN FACUNDO SOSA",
+   "camiseta": "97",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "46963",
+   "Jug_Sale": "MAICON FERNANDO WITTER GOMEZ",
+   "CarneEntra": "66321",
+   "Jug_Entra": "RUBEN ANSELMO PAZ",
+   "camiseta": "0",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "68963",
+   "Jug_Sale": "FACUNDO NICOLAS MORALES",
+   "CarneEntra": "54484",
+   "Jug_Entra": "GREGORY EMMANUEL BARRIOS",
+   "camiseta": "2",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "49973",
+   "Jug_Sale": "ELIAS DANIEL PIEGAS",
+   "CarneEntra": "47175",
+   "Jug_Entra": "GUILLERMO CARBALLO",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "46931",
+   "Jug_Sale": "HUGO ANDRES PIRIZ",
+   "CarneEntra": "48023",
+   "Jug_Entra": "RAMIRO MACHADO",
+   "camiseta": "24",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52322",
+   "Nombre": "GASTON MOZEJKO",
+   "minutos": "76",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59436",
+   "Nombre": "LAUTARO OLVEIRA",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59436",
+   "Nombre": "LAUTARO OLVEIRA",
+   "minutos": "27",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59436",
+   "Nombre": "LAUTARO OLVEIRA",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47175",
+   "Nombre": "GUILLERMO CARBALLO",
+   "minutos": "88",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62839",
+   "Nombre": "IRVIN FACUNDO SOSA",
+   "minutos": "72",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

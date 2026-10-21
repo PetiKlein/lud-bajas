@@ -1,0 +1,239 @@
+{
+ "id": "102519",
+ "categoria": "mayores-c",
+ "serie": "CPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-04 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "DEFENSOR SPORTING",
+ "visitante": "C.A.L.I.",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "988",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAYORES \"C\" PERM. y DESC.",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-10-04 11:05:00",
+  "Fecha_fin": "2026-10-04 11:05:00",
+  "Locatario": "DEFENSOR SPORTING",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "C.A.L.I.",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68874",
+   "Nombre": "VALENTIN DEL PINO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60320",
+   "Nombre": "FACUNDO MARTIN FERNANDEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "42578",
+   "Nombre": "SANTIAGO TORRES",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67165",
+   "Nombre": "BRIAN ISMAEL FERREIRA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "45014",
+   "Nombre": "NICOLAS TORRES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50499",
+   "Nombre": "MATIAS ALEJANDRO MELLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59941",
+   "Nombre": "FRANCISCO SILVA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "54483",
+   "Nombre": "BRAIAN SUAREZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "68567",
+   "Nombre": "MATIAS ALEJO PEREZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "69042",
+   "Nombre": "DORIAN MIJHAEL MADRUGA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68502",
+   "Nombre": "IGNACIO AGUSTIN DEFACIO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49862",
+   "Nombre": "DANIEL SORDELLI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "20722",
+   "Nombre": "JUAN MANUEL GONZALEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54565",
+   "Nombre": "SEBASTIAN FEDERICO ALTEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49861",
+   "Nombre": "NICOLAS CARLOS ALTEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "55398",
+   "Nombre": "CAMILO EZEQUIEL OLIVERA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "39442",
+   "Nombre": "GUZMAN GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64641",
+   "Nombre": "LEANDRO DELGADO",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "44411",
+   "Nombre": "BRAHIAN ANDRES CRUZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "69148",
+   "Nombre": "OSVALDO SEBASTIAN VERON",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "22495",
+   "Nombre": "IGNACIO BURGOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "66338",
+   "Nombre": "MATIAS ANDRES GONZALEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42578",
+   "Jug_Sale": "SANTIAGO TORRES",
+   "CarneEntra": "67921",
+   "Jug_Entra": "ALFONSO SILVA",
+   "camiseta": "97",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60320",
+   "Jug_Sale": "FACUNDO MARTIN FERNANDEZ",
+   "CarneEntra": "42963",
+   "Jug_Entra": "NAHUEL ETCHEBARNE",
+   "camiseta": "25",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "59941",
+   "Jug_Sale": "FRANCISCO SILVA",
+   "CarneEntra": "61305",
+   "Jug_Entra": "FACUNDO GONZALEZ",
+   "camiseta": "77",
+   "minutos": "64"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64641",
+   "Jug_Sale": "LEANDRO DELGADO",
+   "CarneEntra": "33831",
+   "Jug_Entra": "FACUNDO MOREIRA",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "69148",
+   "Jug_Sale": "OSVALDO SEBASTIAN VERON",
+   "CarneEntra": "60794",
+   "Jug_Entra": "JUAN IGNACIO VIGLIONE",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "44411",
+   "Jug_Sale": "BRAHIAN ANDRES CRUZ",
+   "CarneEntra": "69066",
+   "Jug_Entra": "JOAQUIN LOPEZ",
+   "camiseta": "15",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "22495",
+   "Jug_Sale": "IGNACIO BURGOS",
+   "CarneEntra": "20253",
+   "Jug_Entra": "PABLO CARLEVARO",
+   "camiseta": "9",
+   "minutos": "74"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "69148",
+   "Nombre": "OSVALDO SEBASTIAN VERON",
+   "minutos": "20",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

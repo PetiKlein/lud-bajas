@@ -1,0 +1,271 @@
+{
+ "id": "98814",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "279",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-16 14:20:00",
+  "Fecha_fin": "2026-05-16 14:20:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61876",
+   "Nombre": "JOAQUIN DE DIOS",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "64099",
+   "Nombre": "JUAN MANUEL CORNEY",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "61869",
+   "Nombre": "FELIPE DASTUGUE",
+   "camiseta": "84",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64095",
+   "Nombre": "JUAN ANDRES GARCIA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "64094",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "67238",
+   "Nombre": "SANTIAGO BALTASAR",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "67671",
+   "Nombre": "JUAN IGNACIO SÀNCHEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "57022",
+   "Nombre": "JUAN DIEGO CACERES",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "63347",
+   "Nombre": "VALENTIN ROBKIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67669",
+   "Nombre": "FELIPE AGUSTIN PINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64101",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "97",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56415",
+   "Nombre": "LUCAS AGUSTIN CACERES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59555",
+   "Nombre": "JUAN MANUEL BIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64219",
+   "Nombre": "GASTON MARTINEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62420",
+   "Nombre": "MATIAS LABORDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59761",
+   "Nombre": "BRUNO LAVIE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60337",
+   "Nombre": "MATEO GLISENTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66778",
+   "Nombre": "SANTIAGO MACEDO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "57343",
+   "Nombre": "FEDERICO PELUFFO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "54757",
+   "Nombre": "LUIS IGNACIO MATTERA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64094",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "67675",
+   "Jug_Entra": "MATEO MAURO GONZALEZ",
+   "camiseta": "96",
+   "minutos": "16"
+  },
+  {
+   "CarneSale": "64099",
+   "Jug_Sale": "JUAN MANUEL CORNEY",
+   "CarneEntra": "65547",
+   "Jug_Entra": "JOSE IGNACIO LESSA",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67675",
+   "Jug_Sale": "MATEO MAURO GONZALEZ",
+   "CarneEntra": "59588",
+   "Jug_Entra": "GERARDO ROCCO BELLO",
+   "camiseta": "17",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "67238",
+   "Jug_Sale": "SANTIAGO BALTASAR",
+   "CarneEntra": "67241",
+   "Jug_Entra": "FRANCO AGUSTIN POMBO",
+   "camiseta": "31",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "67669",
+   "Jug_Sale": "FELIPE AGUSTIN PINO",
+   "CarneEntra": "67239",
+   "Jug_Entra": "LEONARDO ENRIQUE CASTIGLIONI",
+   "camiseta": "96",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "61869",
+   "Jug_Sale": "FELIPE DASTUGUE",
+   "CarneEntra": "64103",
+   "Jug_Entra": "ENZO YACI",
+   "camiseta": "86",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57343",
+   "Jug_Sale": "FEDERICO PELUFFO",
+   "CarneEntra": "67386",
+   "Jug_Entra": "IAN MOLDAVSKY",
+   "camiseta": "30",
+   "minutos": "5"
+  },
+  {
+   "CarneSale": "56305",
+   "Jug_Sale": "FRANCO GLISENTI",
+   "CarneEntra": "66528",
+   "Jug_Entra": "LUCA CANZANI",
+   "camiseta": "21",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "54757",
+   "Jug_Sale": "LUIS IGNACIO MATTERA",
+   "CarneEntra": "66732",
+   "Jug_Entra": "FACUNDO GALLINO",
+   "camiseta": "91",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "62420",
+   "Jug_Sale": "MATIAS LABORDE",
+   "CarneEntra": "66525",
+   "Jug_Entra": "MATIAS QUEIJO",
+   "camiseta": "32",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "64219",
+   "Jug_Sale": "GASTON MARTINEZ",
+   "CarneEntra": "66526",
+   "Jug_Entra": "JOAQUIN TASENDE",
+   "camiseta": "26",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "minutos": "25",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,284 @@
+{
+ "id": "99323",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "TAPE",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "50",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-05-30 10:45:00",
+  "Fecha_fin": "2026-05-30 10:45:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "TAPE",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "48896",
+   "Nombre": "FACUNDO ALPUIN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "43856",
+   "Nombre": "AGUSTIN NOVELLI",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "14032",
+   "Nombre": "MARIANO MALLO",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "48838",
+   "Nombre": "BRUNO GRAJALES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "45549",
+   "Nombre": "JOSE FACUNDO FONSECA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56347",
+   "Nombre": "JUAN SANTANNA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66854",
+   "Nombre": "AMADEO MOMBRU",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53801",
+   "Nombre": "JUAN MANUEL VILDOZOLA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "37326",
+   "Nombre": "JUAN INCIARTE",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48432",
+   "Nombre": "MATIAS HERNAN CASTRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49165",
+   "Nombre": "GUILLERMO PONS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55777",
+   "Nombre": "LEANDRO MARCELO ERLE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65008",
+   "Nombre": "JUAN DIEGO JACQUES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58314",
+   "Nombre": "JOAQUIN MENESES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "66853",
+   "Nombre": "MARCELO JAVIER RUIZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43856",
+   "Jug_Sale": "AGUSTIN NOVELLI",
+   "CarneEntra": "46886",
+   "Jug_Entra": "FEDERICO BOCCARDO",
+   "camiseta": "80",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "42290",
+   "Jug_Sale": "PABLO JOAQUIN PARADO",
+   "CarneEntra": "62370",
+   "Jug_Entra": "CHRISTIAN ALEJANDRO ROSSI",
+   "camiseta": "19",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "48838",
+   "Jug_Sale": "BRUNO GRAJALES",
+   "CarneEntra": "55602",
+   "Jug_Entra": "CAETANO MARRONE",
+   "camiseta": "92",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "49414",
+   "Jug_Sale": "DIEGO GABRIEL HANDALIAN",
+   "CarneEntra": "47736",
+   "Jug_Entra": "TOMAS CONDE",
+   "camiseta": "16",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48432",
+   "Jug_Sale": "MATIAS HERNAN CASTRO",
+   "CarneEntra": "47797",
+   "Jug_Entra": "DOMINGO MAYOBRE",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58314",
+   "Jug_Sale": "JOAQUIN MENESES",
+   "CarneEntra": "62245",
+   "Jug_Entra": "GONZALO VILLALBA",
+   "camiseta": "16",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "37326",
+   "Jug_Sale": "JUAN INCIARTE",
+   "CarneEntra": "59865",
+   "Jug_Entra": "MAXIMO PISANO",
+   "camiseta": "26",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "66853",
+   "Jug_Sale": "MARCELO JAVIER RUIZ",
+   "CarneEntra": "59462",
+   "Jug_Entra": "BAUTISTA BELGERI",
+   "camiseta": "22",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "55777",
+   "Jug_Sale": "LEANDRO MARCELO ERLE",
+   "CarneEntra": "55925",
+   "Jug_Entra": "FRANCISCO PABLO VILLAR",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "49165",
+   "Jug_Sale": "GUILLERMO PONS",
+   "CarneEntra": "59186",
+   "Jug_Entra": "PEDRO BOCKING",
+   "camiseta": "28",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "65008",
+   "Jug_Sale": "JUAN DIEGO JACQUES",
+   "CarneEntra": "66067",
+   "Jug_Entra": "MATEO LUIS CHIAPPARRO",
+   "camiseta": "20",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "minutos": "55",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66853",
+   "Nombre": "MARCELO JAVIER RUIZ",
+   "minutos": "5",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

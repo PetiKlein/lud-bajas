@@ -1,0 +1,252 @@
+{
+ "id": "99428",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 7,
+ "fechaHora": "2026-05-31 09:00:00",
+ "cancha": "POLIDEPORTIVO FAUQUET",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "A.E.B.U",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "290",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "POLIDEPORTIVO FAUQUET",
+  "Fecha_Inicio": "2026-05-31 11:23:00",
+  "Fecha_fin": "2026-05-31 11:23:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "A.E.B.U",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "48791",
+   "Nombre": "JOAQUIN ALFREDO ALVES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58643",
+   "Nombre": "MATEO ESPIGA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "42751",
+   "Nombre": "MATIAS QUIROGA",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53333",
+   "Nombre": "SANTIAGO JOSE LUJAMBIO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58808",
+   "Nombre": "JUAN ANDRES VIDART",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52536",
+   "Nombre": "ROBERT FEDERICO AGUIAR",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "50997",
+   "Nombre": "MARTIN FERREIRA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55921",
+   "Nombre": "SEBASTIAN CAMPOS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68519",
+   "Nombre": "FELIPE MACHADO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "52391",
+   "Nombre": "MATIAS PIÑEYRUA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59558",
+   "Nombre": "ENZO AGUSTIN BARTOLIC",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "48225",
+   "Nombre": "GERMAN CORREA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "40928",
+   "Nombre": "SANTIAGO SARACHU",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59845",
+   "Nombre": "IGNACIOB SOSA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "35508",
+   "Nombre": "AGUSTIN CORNU",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54662",
+   "Nombre": "VALENTINO BELATTI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49181",
+   "Nombre": "MATEO URIBE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "57314",
+   "Nombre": "IGNACIO CHOCHO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59844",
+   "Nombre": "SANTIAGO TELLECHEA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67656",
+   "Nombre": "GUILLERMO ALPUIN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "37229",
+   "Nombre": "MATIAS JOSE RIESTRA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61389",
+   "Nombre": "THIAGO ASTOR",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52391",
+   "Jug_Sale": "MATIAS PIÑEYRUA",
+   "CarneEntra": "64076",
+   "Jug_Entra": "AGUSTIN GRACIA",
+   "camiseta": "27",
+   "minutos": "12"
+  },
+  {
+   "CarneSale": "55921",
+   "Jug_Sale": "SEBASTIAN CAMPOS",
+   "CarneEntra": "64728",
+   "Jug_Entra": "ESTEBAN JONAS BORGES",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58808",
+   "Jug_Sale": "JUAN ANDRES VIDART",
+   "CarneEntra": "68588",
+   "Jug_Entra": "ALEXIS GUASCH",
+   "camiseta": "13",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49181",
+   "Jug_Sale": "MATEO URIBE",
+   "CarneEntra": "51167",
+   "Jug_Entra": "FRANCISCO MENDEZ",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59844",
+   "Jug_Sale": "SANTIAGO TELLECHEA",
+   "CarneEntra": "37147",
+   "Jug_Entra": "SANTIAGO GOMEZ",
+   "camiseta": "19",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "61389",
+   "Jug_Sale": "THIAGO ASTOR",
+   "CarneEntra": "43521",
+   "Jug_Entra": "PABLO JOAQUIN COLINET",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "37229",
+   "Jug_Sale": "MATIAS JOSE RIESTRA",
+   "CarneEntra": "60255",
+   "Jug_Entra": "SANTIAGO AMORIN",
+   "camiseta": "5",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67656",
+   "Jug_Sale": "GUILLERMO ALPUIN",
+   "CarneEntra": "68591",
+   "Jug_Entra": "FRANCO VERA",
+   "camiseta": "27",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "67656",
+   "Nombre": "GUILLERMO ALPUIN",
+   "minutos": "12",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "MATIAS PIÑEYRUA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,283 @@
+{
+ "id": "99386",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "CLUB UNIVERSIDAD CATOLICA",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "173",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-05-30 13:10:00",
+  "Fecha_fin": "2026-05-30 13:10:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "51110",
+   "Nombre": "GUILLERMO LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48110",
+   "Nombre": "EMILIO PRETI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61433",
+   "Nombre": "FRANCISCO PUCCIARELLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "44106",
+   "Nombre": "SANTIAGO RIUS",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49143",
+   "Nombre": "SANTIAGO PAIS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59694",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58401",
+   "Nombre": "LUCAS PEDREIRA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45038",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "45319",
+   "Nombre": "FRANCO BALSAMO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55660",
+   "Nombre": "THIAGO FURTADO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "38502",
+   "Nombre": "JUAN PABLO MASLLORENS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47663",
+   "Nombre": "ANTHONE IVAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60895",
+   "Nombre": "TOMAS ANDRES OTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "50220",
+   "Nombre": "RAMIRO CHOCHO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56909",
+   "Nombre": "JOAQUIN NICOLAS NAVAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59798",
+   "Nombre": "MARTIN RIOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51756",
+   "Nombre": "JUAN IGNACIO PERTUSSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "55714",
+   "Nombre": "FELIPE LOVATTO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "46926",
+   "Nombre": "MATIAS ANDRES MUNIZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "39373",
+   "Nombre": "EMILIANO BERRETA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "33299",
+   "Nombre": "GUILLERMO BRUNO",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58401",
+   "Jug_Sale": "LUCAS PEDREIRA",
+   "CarneEntra": "47728",
+   "Jug_Entra": "FELIPE RAMA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45319",
+   "Jug_Sale": "FRANCO BALSAMO",
+   "CarneEntra": "51116",
+   "Jug_Entra": "JUAN BAUTISTA REY",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38502",
+   "Jug_Sale": "JUAN PABLO MASLLORENS",
+   "CarneEntra": "55501",
+   "Jug_Entra": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "10",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "55660",
+   "Jug_Sale": "THIAGO FURTADO",
+   "CarneEntra": "44402",
+   "Jug_Entra": "SEBASTIAN RISSO",
+   "camiseta": "18",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33299",
+   "Jug_Sale": "GUILLERMO BRUNO",
+   "CarneEntra": "55010",
+   "Jug_Entra": "TOMAS MIRABAL",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39373",
+   "Jug_Sale": "EMILIANO BERRETA",
+   "CarneEntra": "52433",
+   "Jug_Entra": "FEDERICO BIDENTI",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50220",
+   "Jug_Sale": "RAMIRO CHOCHO",
+   "CarneEntra": "58896",
+   "Jug_Entra": "JUAN ANTONIO GONZALEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59798",
+   "Jug_Sale": "MARTIN RIOS",
+   "CarneEntra": "33319",
+   "Jug_Entra": "JUAN CARLOS PINTOS",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "46926",
+   "Jug_Sale": "MATIAS ANDRES MUNIZ",
+   "CarneEntra": "64594",
+   "Jug_Entra": "LUCAS NAHUEL MOREIRA",
+   "camiseta": "5",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "55714",
+   "Jug_Sale": "FELIPE LOVATTO",
+   "CarneEntra": "40445",
+   "Jug_Entra": "JUAN VICENTE CAVALLERI",
+   "camiseta": "18",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "60895",
+   "Jug_Sale": "TOMAS ANDRES OTERO",
+   "CarneEntra": "61141",
+   "Jug_Entra": "ADRIAN IGNACIO GALVAN",
+   "camiseta": "3",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55501",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "minutos": "94",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "minutos": "96",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

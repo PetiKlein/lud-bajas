@@ -1,0 +1,292 @@
+{
+ "id": "103041",
+ "categoria": "reserva-d",
+ "serie": "RSDPD",
+ "fecha": 6,
+ "fechaHora": "2026-10-17 11:15:00",
+ "cancha": "FUERZA AEREA",
+ "local": "CLUB FUERZA AEREA",
+ "visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "587",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" COPA DE PLATA",
+  "Cancha": "FUERZA AEREA",
+  "Fecha_Inicio": "2026-10-17 13:20:00",
+  "Fecha_fin": "2026-10-17 13:20:00",
+  "Locatario": "CLUB FUERZA AEREA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SAN JOSE DE LA PROVIDENCIA uni",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "50053",
+   "Nombre": "DAMIAN BARBITTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65781",
+   "Nombre": "AXEL NAHUEL PIMENTEL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "24285",
+   "Nombre": "ALBERTO DE MEDINA",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46892",
+   "Nombre": "JUAN PABLO DE MEDINA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67892",
+   "Nombre": "VALENTIN DECIMA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "46851",
+   "Nombre": "GASTON RAFAEL MOIRANO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "27939",
+   "Nombre": "RODRIGO NICOLAS RUIZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67300",
+   "Nombre": "BENJAMIN PEREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63083",
+   "Nombre": "DIEGO NICOLAS GRACES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "57856",
+   "Nombre": "MAXIMO TOLEDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51915",
+   "Nombre": "EMILIANO DESEVO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62246",
+   "Nombre": "BRUNO MOREIRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "53204",
+   "Nombre": "ARON SPINELLI",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "64352",
+   "Nombre": "MARTIN VALVERDE",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "59027",
+   "Nombre": "RODRIGO IGNACIO VILAS",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "63777",
+   "Nombre": "FRANCO OLMOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "58238",
+   "Nombre": "ALEJANDRO RODRIGUEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "59015",
+   "Nombre": "IGNACIO SALVADOR PERDOMO",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62984",
+   "Nombre": "FABRIZIO VALVERDE",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "59910",
+   "Nombre": "FACUNDO OZMAN PERDOMO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68996",
+   "Nombre": "FEDERICO MARTIN PASCUAL",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "54931",
+   "Nombre": "GENARO VALENTIN COLOMBO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67892",
+   "Jug_Sale": "VALENTIN DECIMA",
+   "CarneEntra": "69094",
+   "Jug_Entra": "MATIAS GONZALO FRANCOLINO",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51915",
+   "Jug_Sale": "EMILIANO DESEVO",
+   "CarneEntra": "46852",
+   "Jug_Entra": "ALEXIS AMOROSO",
+   "camiseta": "6",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "57856",
+   "Jug_Sale": "MAXIMO TOLEDO",
+   "CarneEntra": "64721",
+   "Jug_Entra": "BRUNO LUCIANO DELGADO",
+   "camiseta": "99",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "67300",
+   "Jug_Sale": "BENJAMIN PEREIRA",
+   "CarneEntra": "63084",
+   "Jug_Entra": "KEVIN NICOLAS LAVALLEJA",
+   "camiseta": "15",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65781",
+   "Jug_Sale": "AXEL NAHUEL PIMENTEL",
+   "CarneEntra": "57856",
+   "Jug_Entra": "MAXIMO TOLEDO",
+   "camiseta": "7",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "46851",
+   "Jug_Sale": "GASTON RAFAEL MOIRANO",
+   "CarneEntra": "67892",
+   "Jug_Entra": "VALENTIN DECIMA",
+   "camiseta": "18",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "27939",
+   "Jug_Sale": "RODRIGO NICOLAS RUIZ",
+   "CarneEntra": "51915",
+   "Jug_Entra": "EMILIANO DESEVO",
+   "camiseta": "9",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59910",
+   "Jug_Sale": "FACUNDO OZMAN PERDOMO",
+   "CarneEntra": "59023",
+   "Jug_Entra": "JOSE IGNACIO TEIJEIRO",
+   "camiseta": "4",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "64352",
+   "Jug_Sale": "MARTIN VALVERDE",
+   "CarneEntra": "64069",
+   "Jug_Entra": "CARLOS DANIEL GUIDOTTI",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68996",
+   "Jug_Sale": "FEDERICO MARTIN PASCUAL",
+   "CarneEntra": "59029",
+   "Jug_Entra": "GASTON VALENTINO CORNACCHIONE",
+   "camiseta": "37",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "62984",
+   "Jug_Sale": "FABRIZIO VALVERDE",
+   "CarneEntra": "65085",
+   "Jug_Entra": "FRANCO DIEGO",
+   "camiseta": "55",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "59015",
+   "Jug_Sale": "IGNACIO SALVADOR PERDOMO",
+   "CarneEntra": "62486",
+   "Jug_Entra": "FACUNDO FREITAS",
+   "camiseta": "24",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46851",
+   "Nombre": "GASTON RAFAEL MOIRANO",
+   "minutos": "16",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51915",
+   "Nombre": "EMILIANO DESEVO",
+   "minutos": "2",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63777",
+   "Nombre": "FRANCO OLMOS",
+   "minutos": "37",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

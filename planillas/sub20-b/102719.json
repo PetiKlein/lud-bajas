@@ -1,0 +1,261 @@
+{
+ "id": "102719",
+ "categoria": "sub20-b",
+ "serie": "20BPD",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 15:30:00",
+ "cancha": "SPORT 11",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "SAN AGUSTIN",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "454",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"B\" PERM. y DESC.",
+  "Cancha": "SPORT 11",
+  "Fecha_Inicio": "2026-10-10 17:30:00",
+  "Fecha_fin": "2026-10-10 17:30:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "SAN AGUSTIN",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68959",
+   "Nombre": "DIEGO MARTIN VAZQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64078",
+   "Nombre": "JOAQUIN GRACIA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "65005",
+   "Nombre": "JUAN IGNACIO MENDEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54652",
+   "Nombre": "VICENTE MARTIN ALVES",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "54913",
+   "Nombre": "ISMAEL BONNECARRERE",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64651",
+   "Nombre": "IAN FRANCO SILVEIRA",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "59938",
+   "Nombre": "DIEGO DAVID BARCELO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "69164",
+   "Nombre": "LEANDRO DANIEL RANERO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "64800",
+   "Nombre": "JUAN ANTONIO MANGADO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "61753",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63101",
+   "Nombre": "THIAGO SOTO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60838",
+   "Nombre": "MATIAS GRAJALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63647",
+   "Nombre": "SANTIAGO PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58033",
+   "Nombre": "AGUSTIN EZEQUIEL BUENO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "62167",
+   "Nombre": "THIAGO TOMAS SOCA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59654",
+   "Nombre": "JUAN MARTIN PIRIZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "65832",
+   "Nombre": "GERONIMO ALBERTO RIVERA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "68725",
+   "Nombre": "SEBASTIAN ALEXANDER AREVALO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54759",
+   "Nombre": "AGUSTIN GALINDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67878",
+   "Nombre": "JUAN IGNACIO LEDESMA",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "62156",
+   "Nombre": "JUAN JOSE CABILLON",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67940",
+   "Nombre": "SANTIAGO MATHEW SOSA",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "69164",
+   "Jug_Sale": "LEANDRO DANIEL RANERO",
+   "CarneEntra": "63561",
+   "Jug_Entra": "ISAAC ENRIQUE LUCES",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61753",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "63139",
+   "Jug_Entra": "FACUNDO MASSEY",
+   "camiseta": "52",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "64800",
+   "Jug_Sale": "JUAN ANTONIO MANGADO",
+   "CarneEntra": "68933",
+   "Jug_Entra": "FABRIZIO HORJALES",
+   "camiseta": "12",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "63101",
+   "Jug_Sale": "THIAGO SOTO",
+   "CarneEntra": "64800",
+   "Jug_Entra": "JUAN ANTONIO MANGADO",
+   "camiseta": "55",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "54913",
+   "Jug_Sale": "ISMAEL BONNECARRERE",
+   "CarneEntra": "69164",
+   "Jug_Entra": "LEANDRO DANIEL RANERO",
+   "camiseta": "36",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62167",
+   "Jug_Sale": "THIAGO TOMAS SOCA",
+   "CarneEntra": "62158",
+   "Jug_Entra": "SANTIAGO PECHIAR",
+   "camiseta": "18",
+   "minutos": "57"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63101",
+   "Nombre": "THIAGO SOTO",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68933",
+   "Nombre": "FABRIZIO HORJALES",
+   "minutos": "86",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "54759",
+   "Nombre": "AGUSTIN GALINDEZ",
+   "minutos": "61",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63647",
+   "Nombre": "SANTIAGO PEREZ",
+   "minutos": "77",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68725",
+   "Nombre": "SEBASTIAN ALEXANDER AREVALO",
+   "minutos": "73",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "VICENTE MARTIN ALVES",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

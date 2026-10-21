@@ -1,0 +1,284 @@
+{
+ "id": "99844",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 15:30:00",
+ "cancha": "COLEGIO PIO",
+ "local": "CENTRO CRISTOBAL COLON",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "298",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-06 17:20:00",
+  "Fecha_fin": "2026-06-06 17:20:00",
+  "Locatario": "CENTRO CRISTOBAL COLON",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64261",
+   "Nombre": "SANTIAGO HERRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62359",
+   "Nombre": "MATHIAS GOMEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64258",
+   "Nombre": "BRUNO ALEJANDRO MARRERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62358",
+   "Nombre": "MATEO FIGUEROA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61670",
+   "Nombre": "ALEX BENJAMIN MORALES",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "63570",
+   "Nombre": "JUAN SEBASTIAN CORONEL",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58770",
+   "Nombre": "MATEO EASTMAN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61215",
+   "Nombre": "JOAQUIN PASSADORE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "63435",
+   "Nombre": "MATEO ADOLFO OXEHUFWUD",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62354",
+   "Nombre": "MATEO NOVAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64628",
+   "Nombre": "ANDRES SEBASTIAN DIAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56600",
+   "Nombre": "SANTIAGO REYES",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "55355",
+   "Nombre": "FACUNDO BELTRAN",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "62631",
+   "Nombre": "JOAQUIN ARMANDO PIRIZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "62637",
+   "Nombre": "AGUSTIN GAVEL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62952",
+   "Nombre": "JUAN PEDRO ANGENSCHEIDT",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56108",
+   "Nombre": "IGNACIO CACHON",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "56156",
+   "Nombre": "FRANCO SANTIAGO BOTTINI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56201",
+   "Nombre": "MATEO BONFIGLIO",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "62940",
+   "Nombre": "JOAQUIN ORGOROSO",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "55187",
+   "Nombre": "IGNACIO ANDRES ALVAREZ",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "66255",
+   "Nombre": "GUILLERMO ADOLPH",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64628",
+   "Jug_Sale": "ANDRES SEBASTIAN DIAZ",
+   "CarneEntra": "62132",
+   "Jug_Entra": "MARCOS GABRIEL BOYE",
+   "camiseta": "12",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "63435",
+   "Jug_Sale": "MATEO ADOLFO OXEHUFWUD",
+   "CarneEntra": "61216",
+   "Jug_Entra": "JUAN FRANCISCO PASSADORE",
+   "camiseta": "19",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "61215",
+   "Jug_Sale": "JOAQUIN PASSADORE",
+   "CarneEntra": "64958",
+   "Jug_Entra": "LUCA AFONZO",
+   "camiseta": "20",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "62358",
+   "Jug_Sale": "MATEO FIGUEROA",
+   "CarneEntra": "61215",
+   "Jug_Entra": "JOAQUIN PASSADORE",
+   "camiseta": "25",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "58770",
+   "Jug_Sale": "MATEO EASTMAN",
+   "CarneEntra": "62131",
+   "Jug_Entra": "GONZALO RICCONE",
+   "camiseta": "41",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "61670",
+   "Jug_Sale": "ALEX BENJAMIN MORALES",
+   "CarneEntra": "62358",
+   "Jug_Entra": "MATEO FIGUEROA",
+   "camiseta": "21",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66255",
+   "Jug_Sale": "GUILLERMO ADOLPH",
+   "CarneEntra": "56842",
+   "Jug_Entra": "FRANCO RIGHETTI",
+   "camiseta": "43",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62952",
+   "Jug_Sale": "JUAN PEDRO ANGENSCHEIDT",
+   "CarneEntra": "59109",
+   "Jug_Entra": "SANTIAGO ALVAREZ",
+   "camiseta": "82",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62940",
+   "Jug_Sale": "JOAQUIN ORGOROSO",
+   "CarneEntra": "59473",
+   "Jug_Entra": "SANTIAGO OUTERELO",
+   "camiseta": "88",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "56156",
+   "Jug_Sale": "FRANCO SANTIAGO BOTTINI",
+   "CarneEntra": "58855",
+   "Jug_Entra": "JOAQUIN MARTINEZ",
+   "camiseta": "23",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "56108",
+   "Jug_Sale": "IGNACIO CACHON",
+   "CarneEntra": "56602",
+   "Jug_Entra": "MATEO HORACK",
+   "camiseta": "96",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63435",
+   "Nombre": "MATEO ADOLFO OXEHUFWUD",
+   "minutos": "35",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55187",
+   "Nombre": "IGNACIO ANDRES ALVAREZ",
+   "minutos": "92",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62631",
+   "Nombre": "JOAQUIN ARMANDO PIRIZ",
+   "minutos": "9",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

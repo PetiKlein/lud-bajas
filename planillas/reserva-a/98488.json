@@ -1,0 +1,295 @@
+{
+ "id": "98488",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 09:00:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "OLD WOODLANDS CLUB",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "20",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-04-25 11:00:00",
+  "Fecha_fin": "2026-04-25 11:00:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD WOODLANDS CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68223",
+   "Nombre": "NAHUEL FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "48896",
+   "Nombre": "FACUNDO ALPUIN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "54738",
+   "Nombre": "THIAGO MORLAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "48838",
+   "Nombre": "BRUNO GRAJALES",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "53595",
+   "Nombre": "CARLOS GONZALO DANERS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "55476",
+   "Nombre": "IGNACIO MELLO",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "49766",
+   "Nombre": "JUAN SALHON",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "46886",
+   "Nombre": "FEDERICO BOCCARDO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "42290",
+   "Nombre": "PABLO JOAQUIN PARADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "42059",
+   "Nombre": "RODRIGO FERREIRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49414",
+   "Nombre": "DIEGO GABRIEL HANDALIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65071",
+   "Nombre": "MANUEL FELIPE DOMINGUEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "51125",
+   "Nombre": "MATEO FALCO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51145",
+   "Nombre": "ALEJANDRO VICTORICA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "53615",
+   "Nombre": "THIAGO BENITES",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "52783",
+   "Nombre": "DAAN TOMAS ELBERSE",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "33370",
+   "Nombre": "SANTIAGO BZUROVSKI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52998",
+   "Nombre": "MARCOS ALVAREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53000",
+   "Nombre": "FEDERICO NUÑEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "54724",
+   "Nombre": "MAURICIO DI BELLO",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "56777",
+   "Nombre": "BRUNO MARIA IRULEGUY",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "53359",
+   "Nombre": "CARLOS FLEURQUIN",
+   "camiseta": "90",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48838",
+   "Jug_Sale": "BRUNO GRAJALES",
+   "CarneEntra": "55602",
+   "Jug_Entra": "CAETANO MARRONE",
+   "camiseta": "92",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "42059",
+   "Jug_Sale": "RODRIGO FERREIRO",
+   "CarneEntra": "53624",
+   "Jug_Entra": "MATEO OURTHE",
+   "camiseta": "2",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "49766",
+   "Jug_Sale": "JUAN SALHON",
+   "CarneEntra": "49112",
+   "Jug_Entra": "LUCAS BARCOS",
+   "camiseta": "49",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "49414",
+   "Jug_Sale": "DIEGO GABRIEL HANDALIAN",
+   "CarneEntra": "55160",
+   "Jug_Entra": "JOAQUIN PEÑA",
+   "camiseta": "10",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51145",
+   "Jug_Sale": "ALEJANDRO VICTORICA",
+   "CarneEntra": "50731",
+   "Jug_Entra": "FACUNDO MUNUA",
+   "camiseta": "80",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "52998",
+   "Jug_Sale": "MARCOS ALVAREZ",
+   "CarneEntra": "53647",
+   "Jug_Entra": "MATIAS PINTOS",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "51125",
+   "Jug_Sale": "MATEO FALCO",
+   "CarneEntra": "49929",
+   "Jug_Entra": "ALBERTO GALLINAL",
+   "camiseta": "26",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56777",
+   "Jug_Sale": "BRUNO MARIA IRULEGUY",
+   "CarneEntra": "36816",
+   "Jug_Entra": "MARTIN COLELLA",
+   "camiseta": "33",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "53000",
+   "Jug_Sale": "FEDERICO NUÑEZ",
+   "CarneEntra": "49206",
+   "Jug_Entra": "TOMAS PONCE DE LEON",
+   "camiseta": "14",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "53615",
+   "Jug_Sale": "THIAGO BENITES",
+   "CarneEntra": "48036",
+   "Jug_Entra": "SANTIAGO IRULEGUY",
+   "camiseta": "77",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "54724",
+   "Jug_Sale": "MAURICIO DI BELLO",
+   "CarneEntra": "59192",
+   "Jug_Entra": "SEBASTIAN SONEIRA",
+   "camiseta": "8",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46886",
+   "Nombre": "FEDERICO BOCCARDO",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51125",
+   "Nombre": "MATEO FALCO",
+   "minutos": "15",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51145",
+   "Nombre": "ALEJANDRO VICTORICA",
+   "minutos": "8",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56777",
+   "Nombre": "BRUNO MARIA IRULEGUY",
+   "minutos": "36",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "IGNACIO MELLO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

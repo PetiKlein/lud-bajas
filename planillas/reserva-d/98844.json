@@ -1,0 +1,310 @@
+{
+ "id": "98844",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "CAMPUS DEL OESTE",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "386",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "CAMPUS DEL OESTE",
+  "Fecha_Inicio": "2026-05-16 13:05:00",
+  "Fecha_fin": "2026-05-16 13:05:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59350",
+   "Nombre": "GASTON NUÑEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66164",
+   "Nombre": "NICOLAS AYESTARAN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "56682",
+   "Nombre": "DIEGO RAHI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "50844",
+   "Nombre": "BRUNO MARTIN PALACIO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "56508",
+   "Nombre": "MATEO GARCIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58255",
+   "Nombre": "AGUSTIN DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66621",
+   "Nombre": "NAIM BLANCO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47785",
+   "Nombre": "FILIPPO RADICCIONI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "63380",
+   "Nombre": "JUAN LENA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61756",
+   "Nombre": "LUCAS DANIEL PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61778",
+   "Nombre": "EDINSON MAXIMILIANO DIAZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59728",
+   "Nombre": "ALEJANDRO BOTTO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49193",
+   "Nombre": "JUAN PEREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "40984",
+   "Nombre": "MATHIAS GABRIEL ORTIZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59776",
+   "Nombre": "MARTINO LORENZO FLORA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62074",
+   "Nombre": "FRANCISCO BURGOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62064",
+   "Nombre": "PEDRO DAVEREDE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49189",
+   "Nombre": "MANU BERVEJILLO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "46887",
+   "Nombre": "TOMAS MACHADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "42311",
+   "Nombre": "DIEGO MATIAS VIZCARRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "44390",
+   "Nombre": "LEANDRO AGUIAR",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56807",
+   "Nombre": "JOAQUIN LUTHAR",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61778",
+   "Jug_Sale": "EDINSON MAXIMILIANO DIAZ",
+   "CarneEntra": "66622",
+   "Jug_Entra": "ENZO FERNANDO RODRIGUEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63380",
+   "Jug_Sale": "JUAN LENA",
+   "CarneEntra": "66624",
+   "Jug_Entra": "VALENTIN HUGO MENDIZABAL",
+   "camiseta": "14",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61756",
+   "Jug_Sale": "LUCAS DANIEL PEREZ",
+   "CarneEntra": "55117",
+   "Jug_Entra": "GUILLERMO VALLE LISBOA",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "47785",
+   "Jug_Sale": "FILIPPO RADICCIONI",
+   "CarneEntra": "56224",
+   "Jug_Entra": "SANTIAGO DANIEL CASCO",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66164",
+   "Jug_Sale": "NICOLAS AYESTARAN",
+   "CarneEntra": "55121",
+   "Jug_Entra": "AGUSTIN FRAGA",
+   "camiseta": "4",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "61778",
+   "Jug_Sale": "EDINSON MAXIMILIANO DIAZ",
+   "CarneEntra": "58919",
+   "Jug_Entra": "IOHAN GUSTAVO AZAMBUJA",
+   "camiseta": "20",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58255",
+   "Jug_Sale": "AGUSTIN DIAZ",
+   "CarneEntra": "61758",
+   "Jug_Entra": "SANTIAGO MAZZA",
+   "camiseta": "12",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44390",
+   "Jug_Sale": "LEANDRO AGUIAR",
+   "CarneEntra": "59765",
+   "Jug_Entra": "SANTIAGO TRIAS",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62074",
+   "Jug_Sale": "FRANCISCO BURGOS",
+   "CarneEntra": "55316",
+   "Jug_Entra": "LUCIANO VICINO",
+   "camiseta": "28",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56807",
+   "Jug_Sale": "JOAQUIN LUTHAR",
+   "CarneEntra": "62821",
+   "Jug_Entra": "JOAQUIN CHIAPPE",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "40984",
+   "Jug_Sale": "MATHIAS GABRIEL ORTIZ",
+   "CarneEntra": "37816",
+   "Jug_Entra": "EMILIANO PABLO BONINI",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "42311",
+   "Jug_Sale": "DIEGO MATIAS VIZCARRA",
+   "CarneEntra": "59772",
+   "Jug_Entra": "MIRKO FELIX FLORA",
+   "camiseta": "30",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "49189",
+   "Jug_Sale": "MANU BERVEJILLO",
+   "CarneEntra": "52879",
+   "Jug_Entra": "IGNACIO QUINTANS",
+   "camiseta": "12",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "62064",
+   "Jug_Sale": "PEDRO DAVEREDE",
+   "CarneEntra": "62075",
+   "Jug_Entra": "SANTIAGO SOSA",
+   "camiseta": "16",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47785",
+   "Nombre": "FILIPPO RADICCIONI",
+   "minutos": "59",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61778",
+   "Nombre": "EDINSON MAXIMILIANO DIAZ",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ALEJANDRO BOTTO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "LEANDRO AGUIAR",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,311 @@
+{
+ "id": "101811",
+ "categoria": "reserva-d",
+ "serie": "RSDTA",
+ "fecha": 3,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "CAMPO MARISTAS DEPORTIVO",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "ELF BLANCO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "509",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"D\" TIT. y ASC.",
+  "Cancha": "CAMPO MARISTAS DEPORTIVO",
+  "Fecha_Inicio": "2026-09-12 13:20:00",
+  "Fecha_fin": "2026-09-12 13:20:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "ELF BLANCO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59350",
+   "Nombre": "GASTON NUÑEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56508",
+   "Nombre": "MATEO GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "69053",
+   "Nombre": "IVAN ARIEL MELO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "56682",
+   "Nombre": "DIEGO RAHI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66164",
+   "Nombre": "NICOLAS AYESTARAN",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "46034",
+   "Nombre": "APARICIO PEDRO MACHADO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "60732",
+   "Nombre": "SEBASTIAN LAPORTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "49161",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58255",
+   "Nombre": "AGUSTIN DIAZ",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "47785",
+   "Nombre": "FILIPPO RADICCIONI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "61778",
+   "Nombre": "EDINSON MAXIMILIANO DIAZ",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59826",
+   "Nombre": "ALFONSO BADANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36849",
+   "Nombre": "LUCAS RICARDO VITOLA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "44977",
+   "Nombre": "FABIO PADULA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "54929",
+   "Nombre": "MARTIN TALMON",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "56278",
+   "Nombre": "NAHUEL MENDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "48529",
+   "Nombre": "MATHEUS FRANCISCO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42785",
+   "Nombre": "MARTIN DANIEL PEREZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "55866",
+   "Nombre": "FEDERICO BUHL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "36828",
+   "Nombre": "JUAN GIBERT",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61002",
+   "Nombre": "PEDRO RAINERI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "45874",
+   "Nombre": "LUCAS BURGHI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58255",
+   "Jug_Sale": "AGUSTIN DIAZ",
+   "CarneEntra": "47861",
+   "Jug_Entra": "FRANCO DE LOS SANTOS",
+   "camiseta": "95",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56682",
+   "Jug_Sale": "DIEGO RAHI",
+   "CarneEntra": "55117",
+   "Jug_Entra": "GUILLERMO VALLE LISBOA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66164",
+   "Jug_Sale": "NICOLAS AYESTARAN",
+   "CarneEntra": "56224",
+   "Jug_Entra": "SANTIAGO DANIEL CASCO",
+   "camiseta": "55",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61778",
+   "Jug_Sale": "EDINSON MAXIMILIANO DIAZ",
+   "CarneEntra": "66232",
+   "Jug_Entra": "LUCAS MAURICIO CARTAGENA",
+   "camiseta": "25",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "60732",
+   "Jug_Sale": "SEBASTIAN LAPORTE",
+   "CarneEntra": "66621",
+   "Jug_Entra": "NAIM BLANCO",
+   "camiseta": "31",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "47785",
+   "Jug_Sale": "FILIPPO RADICCIONI",
+   "CarneEntra": "66164",
+   "Jug_Entra": "NICOLAS AYESTARAN",
+   "camiseta": "50",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56278",
+   "Jug_Sale": "NAHUEL MENDEZ",
+   "CarneEntra": "66787",
+   "Jug_Entra": "EZEQUIEL HERNANDEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42785",
+   "Jug_Sale": "MARTIN DANIEL PEREZ",
+   "CarneEntra": "38746",
+   "Jug_Entra": "JUAN MANUEL PAGOLA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55866",
+   "Jug_Sale": "FEDERICO BUHL",
+   "CarneEntra": "40646",
+   "Jug_Entra": "JOAQUIN MATIAS DE LEON",
+   "camiseta": "10",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "48529",
+   "Jug_Sale": "MATHEUS FRANCISCO",
+   "CarneEntra": "57205",
+   "Jug_Entra": "DIAGO COSTA",
+   "camiseta": "5",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "54929",
+   "Jug_Sale": "MARTIN TALMON",
+   "CarneEntra": "47497",
+   "Jug_Entra": "FEDERICO TUZMAN",
+   "camiseta": "24",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "61002",
+   "Jug_Sale": "PEDRO RAINERI",
+   "CarneEntra": "45878",
+   "Jug_Entra": "NICOLAS PEREZ",
+   "camiseta": "7",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "36828",
+   "Jug_Sale": "JUAN GIBERT",
+   "CarneEntra": "50709",
+   "Jug_Entra": "LORENZO MAZZUCCHELLI",
+   "camiseta": "13",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47785",
+   "Nombre": "FILIPPO RADICCIONI",
+   "minutos": "49",
+   "EnContra": "0"
+  },
+  {
+   "carne": "47785",
+   "Nombre": "FILIPPO RADICCIONI",
+   "minutos": "58",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "36849",
+   "Nombre": "LUCAS RICARDO VITOLA",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45874",
+   "Nombre": "LUCAS BURGHI",
+   "minutos": "84",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "IVAN ARIEL MELO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

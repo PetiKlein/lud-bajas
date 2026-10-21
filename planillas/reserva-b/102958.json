@@ -1,0 +1,278 @@
+{
+ "id": "102958",
+ "categoria": "reserva-b",
+ "serie": "RSBPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-17 11:15:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "CLUB UNIVERSIDAD CATOLICA",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "703",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"B\" PER. y DESC.",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-10-17 13:15:00",
+  "Fecha_fin": "2026-10-17 13:15:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53508",
+   "Nombre": "TIAGO NICOLAS LOSADA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51112",
+   "Nombre": "MATEO AGUSTIN MARTINEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "49143",
+   "Nombre": "SANTIAGO PAIS",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "44984",
+   "Nombre": "NICOLAS TOMAS GALANTE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "58930",
+   "Nombre": "FRANCISCO ARRIETA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59694",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "45038",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "55660",
+   "Nombre": "THIAGO FURTADO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "44097",
+   "Nombre": "NICOLAS LABASTIE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "44123",
+   "Nombre": "FEDERICO RIELLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "44088",
+   "Nombre": "FACUNDO DELGADO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47663",
+   "Nombre": "ANTHONE IVAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58896",
+   "Nombre": "JUAN ANTONIO GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61141",
+   "Nombre": "ADRIAN IGNACIO GALVAN",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60895",
+   "Nombre": "TOMAS ANDRES OTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66696",
+   "Nombre": "RODRIGO CABRERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "33319",
+   "Nombre": "JUAN CARLOS PINTOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51756",
+   "Nombre": "JUAN IGNACIO PERTUSSO",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56909",
+   "Nombre": "JOAQUIN NICOLAS NAVAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46926",
+   "Nombre": "MATIAS ANDRES MUNIZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "63608",
+   "Nombre": "PABLO MARI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "55660",
+   "Jug_Sale": "THIAGO FURTADO",
+   "CarneEntra": "47728",
+   "Jug_Entra": "FELIPE RAMA",
+   "camiseta": "5",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "44088",
+   "Jug_Sale": "FACUNDO DELGADO",
+   "CarneEntra": "39029",
+   "Jug_Entra": "FELIPE DIAZ ARNESTO",
+   "camiseta": "20",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "45038",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "39418",
+   "Jug_Entra": "RODRIGO BONSIGNORE",
+   "camiseta": "24",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "58930",
+   "Jug_Sale": "FRANCISCO ARRIETA",
+   "CarneEntra": "43684",
+   "Jug_Entra": "JUAN PEDRO CORREA",
+   "camiseta": "13",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46926",
+   "Jug_Sale": "MATIAS ANDRES MUNIZ",
+   "CarneEntra": "58795",
+   "Jug_Entra": "THIAGO CACERES",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58896",
+   "Jug_Sale": "JUAN ANTONIO GONZALEZ",
+   "CarneEntra": "40445",
+   "Jug_Entra": "JUAN VICENTE CAVALLERI",
+   "camiseta": "18",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "66696",
+   "Jug_Sale": "RODRIGO CABRERA",
+   "CarneEntra": "33299",
+   "Jug_Entra": "GUILLERMO BRUNO",
+   "camiseta": "13",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "63608",
+   "Jug_Sale": "PABLO MARI",
+   "CarneEntra": "51402",
+   "Jug_Entra": "JUAN PEDRO PERDOMO",
+   "camiseta": "9",
+   "minutos": "39"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "44984",
+   "Nombre": "NICOLAS TOMAS GALANTE",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56909",
+   "Nombre": "JOAQUIN NICOLAS NAVAS",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63608",
+   "Nombre": "PABLO MARI",
+   "minutos": "72",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "TIAGO NICOLAS LOSADA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "NICOLAS LABASTIE",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "FEDERICO RIELLA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "TOMAS ANDRES OTERO",
+   "observaciones": ""
+  }
+ ]
+}

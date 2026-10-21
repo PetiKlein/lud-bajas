@@ -1,0 +1,236 @@
+{
+ "id": "99280",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 6,
+ "fechaHora": "2026-05-24 11:15:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "CEIBOS CLUB",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "168",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-05-24 13:15:00",
+  "Fecha_fin": "2026-05-24 13:15:00",
+  "Locatario": "CEIBOS CLUB",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "48416",
+   "Nombre": "NICOLAS HOBBINS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60669",
+   "Nombre": "ISMAEL MAESO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53490",
+   "Nombre": "MATEO ETCHEGOIMBERRY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56663",
+   "Nombre": "IGNACIO SERE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67223",
+   "Nombre": "MARIANO DIAZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67617",
+   "Nombre": "RODRIGO LOPEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "57723",
+   "Nombre": "JUAN JOSE MIERES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53507",
+   "Nombre": "PATRICK HOBBINS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47964",
+   "Nombre": "ANDRES CARBALLEIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50651",
+   "Nombre": "JUAN PEDRO IRURETA-GOYENA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43260",
+   "Nombre": "JUAN DIEGO TORRES NEGREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41778",
+   "Nombre": "NICOLAS MACCIO",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52561",
+   "Nombre": "IGNACIO CURRAIS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "63138",
+   "Nombre": "MATIAS RAFAEL CORREA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "46744",
+   "Nombre": "JOAQUIN CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42288",
+   "Nombre": "MATIAS EMANUEL BERNAT",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "41375",
+   "Nombre": "SANTIAGO FALERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55634",
+   "Nombre": "SANTIAGO EMANUEL OJEDA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "55636",
+   "Nombre": "IGNACIO IRISARRI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49888",
+   "Nombre": "MANUEL DOGLIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "45562",
+   "Nombre": "FRANCO MÜLLER",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47964",
+   "Jug_Sale": "ANDRES CARBALLEIRA",
+   "CarneEntra": "55123",
+   "Jug_Entra": "RAFAEL MARIANO BERAMENDI",
+   "camiseta": "19",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "43260",
+   "Jug_Sale": "JUAN DIEGO TORRES NEGREIRA",
+   "CarneEntra": "57406",
+   "Jug_Entra": "JUAN MARTIN SZELAGOWSKI",
+   "camiseta": "14",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "55123",
+   "Jug_Sale": "RAFAEL MARIANO BERAMENDI",
+   "CarneEntra": "43274",
+   "Jug_Entra": "RAFAEL MONESTIER",
+   "camiseta": "4",
+   "minutos": "94"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46744",
+   "Jug_Sale": "JOAQUIN CASTRO",
+   "CarneEntra": "56006",
+   "Jug_Entra": "SANTIAGO MAZZONCINI",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55634",
+   "Jug_Sale": "SANTIAGO EMANUEL OJEDA",
+   "CarneEntra": "66465",
+   "Jug_Entra": "HECTOR AGUSTIN VEGA",
+   "camiseta": "2",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50651",
+   "Nombre": "JUAN PEDRO IRURETA-GOYENA",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "50651",
+   "Nombre": "JUAN PEDRO IRURETA-GOYENA",
+   "minutos": "43",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "54663",
+   "Nombre": "ESTEBAN SANTIAGO LOPEZ",
+   "minutos": "77",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,244 @@
+{
+ "id": "100942",
+ "categoria": "sub20-c",
+ "serie": "20C",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 15:30:00",
+ "cancha": "LOS TEROS",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "CLUB SOC. y DEP. LA CHISPA",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "353",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"C\"",
+  "Cancha": "LOS TEROS",
+  "Fecha_Inicio": "2026-08-15 17:30:00",
+  "Fecha_fin": "2026-08-15 17:30:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB SOC. y DEP. LA CHISPA",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63543",
+   "Nombre": "MATEO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58727",
+   "Nombre": "JOAQUIN GRACIANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62838",
+   "Nombre": "TADEO ARES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62586",
+   "Nombre": "LEANDRO MOCCIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62587",
+   "Nombre": "MATEO ALONSO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67476",
+   "Nombre": "NICOLAS RIVERO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "58704",
+   "Nombre": "IGNACIO JAVIER ROMERO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67621",
+   "Nombre": "SEBASTIAN GRILLO",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "55413",
+   "Nombre": "LUCAS OTAÑO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68858",
+   "Nombre": "THIAGO COGOY",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64173",
+   "Nombre": "SANTIAGO MIRANDA",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57685",
+   "Nombre": "KAEL LUZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67531",
+   "Nombre": "BRIAN OLIVERA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68695",
+   "Nombre": "JEAN PIERRE MACHADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68698",
+   "Nombre": "MATIAS MACHADO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "69005",
+   "Nombre": "MATIAS GADEA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67524",
+   "Nombre": "LUCAS GALIANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68828",
+   "Nombre": "THIAGO MARIN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68890",
+   "Nombre": "RICARDO TESORE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67534",
+   "Nombre": "BYRON QUILIMAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68806",
+   "Nombre": "LUCAS RODRIGUEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "68213",
+   "Nombre": "MAXIMILIANO SOTO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64173",
+   "Jug_Sale": "SANTIAGO MIRANDA",
+   "CarneEntra": "55147",
+   "Jug_Entra": "EDUARDO IVAN UBAL",
+   "camiseta": "66",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "55413",
+   "Jug_Sale": "LUCAS OTAÑO",
+   "CarneEntra": "67274",
+   "Jug_Entra": "ALVARO PINTOS",
+   "camiseta": "33",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "58704",
+   "Jug_Sale": "IGNACIO JAVIER ROMERO",
+   "CarneEntra": "62582",
+   "Jug_Entra": "SEBASTIAN ENZO STRATTA",
+   "camiseta": "26",
+   "minutos": "66"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68806",
+   "Jug_Sale": "LUCAS RODRIGUEZ",
+   "CarneEntra": "67522",
+   "Jug_Entra": "THIAGO VIERA",
+   "camiseta": "21",
+   "minutos": "18"
+  },
+  {
+   "CarneSale": "68828",
+   "Jug_Sale": "THIAGO MARIN",
+   "CarneEntra": "69008",
+   "Jug_Entra": "MATIAS IVAN FLEITAS",
+   "camiseta": "11",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "67524",
+   "Jug_Sale": "LUCAS GALIANO",
+   "CarneEntra": "68806",
+   "Jug_Entra": "LUCAS RODRIGUEZ",
+   "camiseta": "25",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67621",
+   "Nombre": "SEBASTIAN GRILLO",
+   "minutos": "67",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67522",
+   "Nombre": "THIAGO VIERA",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67522",
+   "Nombre": "THIAGO VIERA",
+   "minutos": "47",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

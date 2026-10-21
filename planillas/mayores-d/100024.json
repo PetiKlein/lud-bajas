@@ -1,0 +1,238 @@
+{
+ "id": "100024",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 11:15:00",
+ "cancha": "JACKSONVILLE",
+ "local": "UNIVERSITARIO VERONES",
+ "visitante": "NUMA TURCATTI",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "426",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "JACKSONVILLE",
+  "Fecha_Inicio": "2026-06-14 13:05:00",
+  "Fecha_fin": "2026-06-14 13:05:00",
+  "Locatario": "UNIVERSITARIO VERONES",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "NUMA TURCATTI",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59610",
+   "Nombre": "NICOLAS SEBASTIAN RIOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63503",
+   "Nombre": "FRANCO DELEON",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66012",
+   "Nombre": "NAHUEL CHIJANE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64347",
+   "Nombre": "ENZO GASTON PRIETO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59441",
+   "Nombre": "GAEL SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68739",
+   "Nombre": "LEANDRO TOBIAS GOL",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53352",
+   "Nombre": "DIEGO FEDERICO CAMPS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64342",
+   "Nombre": "JOAQUIN RIOS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64027",
+   "Nombre": "LUCA VECOÑA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "38946",
+   "Nombre": "SANTIAGO ANTONELLI",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66307",
+   "Nombre": "ETIENNE SERPA",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37679",
+   "Nombre": "JORGE ANTONIO PONS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54090",
+   "Nombre": "HERNAN ARIEL CAÑETE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47895",
+   "Nombre": "TOMAS BAZAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54622",
+   "Nombre": "JUAN MANUEL CADENAS",
+   "camiseta": "33",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42774",
+   "Nombre": "LUIS ESTEBAN FERMER",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "39900",
+   "Nombre": "BRUNO BRUZZONE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "59482",
+   "Nombre": "FACUNDO ESCALANTE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39467",
+   "Nombre": "MATEO YUVET",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68506",
+   "Nombre": "NICOLAS MENDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64347",
+   "Jug_Sale": "ENZO GASTON PRIETO",
+   "CarneEntra": "63204",
+   "Jug_Entra": "EMILIANO CANTERO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64342",
+   "Jug_Sale": "JOAQUIN RIOS",
+   "CarneEntra": "62634",
+   "Jug_Entra": "SEBASTIAN OLIVERA",
+   "camiseta": "10",
+   "minutos": "13"
+  },
+  {
+   "CarneSale": "68739",
+   "Jug_Sale": "LEANDRO TOBIAS GOL",
+   "CarneEntra": "62567",
+   "Jug_Entra": "SANTINO MONTES DE OCA",
+   "camiseta": "3",
+   "minutos": "18"
+  },
+  {
+   "CarneSale": "64342",
+   "Jug_Sale": "JOAQUIN RIOS",
+   "CarneEntra": "66307",
+   "Jug_Entra": "ETIENNE SERPA",
+   "camiseta": "15",
+   "minutos": "39"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54090",
+   "Jug_Sale": "HERNAN ARIEL CAÑETE",
+   "CarneEntra": "55412",
+   "Jug_Entra": "DIEGO OTAÑO",
+   "camiseta": "16",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "59482",
+   "Jug_Sale": "FACUNDO ESCALANTE",
+   "CarneEntra": "68505",
+   "Jug_Entra": "IGNACIO DANIEL MENDEZ",
+   "camiseta": "4",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64342",
+   "Nombre": "JOAQUIN RIOS",
+   "minutos": "29",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "39900",
+   "Nombre": "BRUNO BRUZZONE",
+   "minutos": "92",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

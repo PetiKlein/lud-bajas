@@ -1,0 +1,253 @@
+{
+ "id": "99861",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 8,
+ "fechaHora": "2026-06-07 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MARISCAL NASAZZI",
+ "visitante": "RIVER PLATE UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "778",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-07 13:12:00",
+  "Fecha_fin": "2026-06-07 13:12:00",
+  "Locatario": "MARISCAL NASAZZI",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "RIVER PLATE UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67573",
+   "Nombre": "MATEO PORTA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "50536",
+   "Nombre": "JUAN BAUTISTA LORENZO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41813",
+   "Nombre": "AGUSTIN MIRA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "42994",
+   "Nombre": "GERONIMO PESCE",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67153",
+   "Nombre": "DIEGO AGORIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "51582",
+   "Nombre": "ANDRES LAUTARO CARDARELLO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "47403",
+   "Nombre": "PATRICIO MARTINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "40620",
+   "Nombre": "JOAQUIN MANUEL GARCIA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "43553",
+   "Nombre": "NICOLAS JOSE PAZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "43688",
+   "Nombre": "LUIS ALVAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "40623",
+   "Nombre": "FRANCISCO PEREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66259",
+   "Nombre": "LUCIO GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55311",
+   "Nombre": "LUCAS SIRIO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67629",
+   "Nombre": "FRANCO BATISTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56805",
+   "Nombre": "FACUNDO NAHUEL SILVA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61909",
+   "Nombre": "AGUSTIN EXEQUIEL RODRIGUEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "45684",
+   "Nombre": "RODRIGO FRANCISCO LEZAMA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67278",
+   "Nombre": "JOEL NICOLAS CORREA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67044",
+   "Nombre": "AGUSTIN JESUS CASTRO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62162",
+   "Nombre": "LAUTARO RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67040",
+   "Nombre": "FACUNDO REDIN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "67045",
+   "Nombre": "JEAN PAUL CULSHAW",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47403",
+   "Jug_Sale": "PATRICIO MARTINO",
+   "CarneEntra": "53892",
+   "Jug_Entra": "LEANDRO GARCIA",
+   "camiseta": "19",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "41813",
+   "Jug_Sale": "AGUSTIN MIRA",
+   "CarneEntra": "52185",
+   "Jug_Entra": "SANTIAGO BARQUIN",
+   "camiseta": "16",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "45684",
+   "Jug_Sale": "RODRIGO FRANCISCO LEZAMA",
+   "CarneEntra": "67047",
+   "Jug_Entra": "FRANCO GODOY",
+   "camiseta": "23",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67045",
+   "Jug_Sale": "JEAN PAUL CULSHAW",
+   "CarneEntra": "67393",
+   "Jug_Entra": "SANTIAGO BELOQUI",
+   "camiseta": "26",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "55311",
+   "Jug_Sale": "LUCAS SIRIO",
+   "CarneEntra": "67043",
+   "Jug_Entra": "GERMAN CARUSO",
+   "camiseta": "12",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67040",
+   "Jug_Sale": "FACUNDO REDIN",
+   "CarneEntra": "67041",
+   "Jug_Entra": "IGNACIO RAUL BERGARA",
+   "camiseta": "21",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67573",
+   "Nombre": "MATEO PORTA",
+   "minutos": "77",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62162",
+   "Nombre": "LAUTARO RODRIGUEZ",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62162",
+   "Nombre": "LAUTARO RODRIGUEZ",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FACUNDO REDIN",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "FRANCO BATISTA",
+   "observaciones": ""
+  }
+ ]
+}

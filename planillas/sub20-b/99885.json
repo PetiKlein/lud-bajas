@@ -1,0 +1,267 @@
+{
+ "id": "99885",
+ "categoria": "sub20-b",
+ "serie": "20B",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 13:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "COLEGIO SANTA ELENA",
+ "visitante": "SANTA ELENA LAGOMAR",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "157",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB 20 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-16 15:15:00",
+  "Fecha_fin": "2026-05-16 15:15:00",
+  "Locatario": "COLEGIO SANTA ELENA",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "SANTA ELENA LAGOMAR",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62694",
+   "Nombre": "NOAH ELIAS LEFKARITIS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56434",
+   "Nombre": "FACUNDO ALONZO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64476",
+   "Nombre": "BRUNO ALFARO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65966",
+   "Nombre": "FELIPE LEGUISAMO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62457",
+   "Nombre": "JUAN MANUEL NOCERINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58169",
+   "Nombre": "LUCA MATEO CIPILIANO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56319",
+   "Nombre": "CRISTIAN LOPEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56315",
+   "Nombre": "RODRIGO BEISSO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64978",
+   "Nombre": "FELIPE DOS SANTOS",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "64981",
+   "Nombre": "FACUNDO MORENA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58031",
+   "Nombre": "MATEO NICOLAS CODINA",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55249",
+   "Nombre": "MATEO ENRICH",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65117",
+   "Nombre": "MATEO FEDERICO GALVEZ",
+   "camiseta": "59",
+   "Capitan": ""
+  },
+  {
+   "carne": "56496",
+   "Nombre": "MANUEL MULA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "56497",
+   "Nombre": "LORENZO ILLIONE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "55645",
+   "Nombre": "GASTON VIERA",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "55586",
+   "Nombre": "IGNACIO MOREIRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55737",
+   "Nombre": "AGUSTIN MONZA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59921",
+   "Nombre": "RENZO EZEQUIEL CYGAN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63086",
+   "Nombre": "FELIPE PELLEGRINO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58671",
+   "Nombre": "FELIPE LOPEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55248",
+   "Nombre": "MARCOS RADMILOVICH",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58169",
+   "Jug_Sale": "LUCA MATEO CIPILIANO",
+   "CarneEntra": "63760",
+   "Jug_Entra": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "76",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62457",
+   "Jug_Sale": "JUAN MANUEL NOCERINO",
+   "CarneEntra": "58135",
+   "Jug_Entra": "TIAGO JULIEN ALVAREZ",
+   "camiseta": "41",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "64978",
+   "Jug_Sale": "FELIPE DOS SANTOS",
+   "CarneEntra": "62530",
+   "Jug_Entra": "ELIAN SHARIM TEJERIA",
+   "camiseta": "44",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "56315",
+   "Jug_Sale": "RODRIGO BEISSO",
+   "CarneEntra": "58409",
+   "Jug_Entra": "LUCIANO CABRERA",
+   "camiseta": "71",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64981",
+   "Jug_Sale": "FACUNDO MORENA",
+   "CarneEntra": "61485",
+   "Jug_Entra": "BRUNO FERNANDO CHIPPOLLIN",
+   "camiseta": "73",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55737",
+   "Jug_Sale": "AGUSTIN MONZA",
+   "CarneEntra": "57813",
+   "Jug_Entra": "BRUNO CAMADINI",
+   "camiseta": "92",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "63086",
+   "Jug_Sale": "FELIPE PELLEGRINO",
+   "CarneEntra": "56495",
+   "Jug_Entra": "BAUTISTA MATEO",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59921",
+   "Jug_Sale": "RENZO EZEQUIEL CYGAN",
+   "CarneEntra": "54597",
+   "Jug_Entra": "MAXIMO EXEQUIEL BERGERO",
+   "camiseta": "69",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "55645",
+   "Jug_Sale": "GASTON VIERA",
+   "CarneEntra": "57455",
+   "Jug_Entra": "DEVIN NOAH SALDAÑA",
+   "camiseta": "90",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58169",
+   "Nombre": "LUCA MATEO CIPILIANO",
+   "minutos": "33",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56497",
+   "Nombre": "LORENZO ILLIONE",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FACUNDO ALONZO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

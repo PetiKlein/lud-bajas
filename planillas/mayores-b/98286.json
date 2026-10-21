@@ -1,0 +1,293 @@
+{
+ "id": "98286",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 2,
+ "fechaHora": "2026-04-19 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "CITY PARK",
+ "visitante": "CEIBOS CLUB",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "135",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-19 13:00:00",
+  "Fecha_fin": "2026-04-19 13:00:00",
+  "Locatario": "CITY PARK",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CEIBOS CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "39513",
+   "Nombre": "AGUSTIN BETANCOR",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40368",
+   "Nombre": "PEDRO COSTA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53682",
+   "Nombre": "IGNACIO MARTIN GHIENA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "55443",
+   "Nombre": "AGUSTIN NICOLAS DE LOS SANTOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "39313",
+   "Nombre": "AGUSTIN PEREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49901",
+   "Nombre": "LEANDRO JAVIER PEREZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "31479",
+   "Nombre": "IGNACIO JOAQUIN VIOLA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "42966",
+   "Nombre": "LEONARDO MARTIN SAMPEREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "52463",
+   "Nombre": "FACUNDO ALZAIBAR",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47650",
+   "Nombre": "LUCAS TRINIDAD",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "58113",
+   "Nombre": "BRUNO AGUSTIN ACOSTA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "48416",
+   "Nombre": "NICOLAS HOBBINS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60669",
+   "Nombre": "ISMAEL MAESO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53490",
+   "Nombre": "MATEO ETCHEGOIMBERRY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56663",
+   "Nombre": "IGNACIO SERE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67223",
+   "Nombre": "MARIANO DIAZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "53507",
+   "Nombre": "PATRICK HOBBINS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58164",
+   "Nombre": "SANTIAGO PONS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67617",
+   "Nombre": "RODRIGO LOPEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "50651",
+   "Nombre": "JUAN PEDRO IRURETA-GOYENA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55182",
+   "Nombre": "JUAN IGNACIO CABRERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63078",
+   "Nombre": "FEDERICO CASTELLS",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31479",
+   "Jug_Sale": "IGNACIO JOAQUIN VIOLA",
+   "CarneEntra": "44229",
+   "Jug_Entra": "MAURO DIDIER BORGES",
+   "camiseta": "7",
+   "minutos": "8"
+  },
+  {
+   "CarneSale": "53682",
+   "Jug_Sale": "IGNACIO MARTIN GHIENA",
+   "CarneEntra": "33386",
+   "Jug_Entra": "JUAN IGNACIO PAREDES",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52463",
+   "Jug_Sale": "FACUNDO ALZAIBAR",
+   "CarneEntra": "38481",
+   "Jug_Entra": "AGUSTIN MATEO RUIZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39313",
+   "Jug_Sale": "AGUSTIN PEREZ",
+   "CarneEntra": "37077",
+   "Jug_Entra": "MATEO RODRIGUEZ",
+   "camiseta": "33",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "47650",
+   "Jug_Sale": "LUCAS TRINIDAD",
+   "CarneEntra": "33967",
+   "Jug_Entra": "ANDRES YAFFE",
+   "camiseta": "22",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "53507",
+   "Jug_Sale": "PATRICK HOBBINS",
+   "CarneEntra": "57723",
+   "Jug_Entra": "JUAN JOSE MIERES",
+   "camiseta": "15",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "67617",
+   "Jug_Sale": "RODRIGO LOPEZ",
+   "CarneEntra": "43266",
+   "Jug_Entra": "FERNANDO INTHAMOUSSU",
+   "camiseta": "13",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "55182",
+   "Jug_Sale": "JUAN IGNACIO CABRERA",
+   "CarneEntra": "51136",
+   "Jug_Entra": "JOAQUIN NARANCIO",
+   "camiseta": "19",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "63078",
+   "Jug_Sale": "FEDERICO CASTELLS",
+   "CarneEntra": "43260",
+   "Jug_Entra": "JUAN DIEGO TORRES NEGREIRA",
+   "camiseta": "9",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "58164",
+   "Jug_Sale": "SANTIAGO PONS",
+   "CarneEntra": "56664",
+   "Jug_Entra": "SANTIAGO MIGUEL ROCCA",
+   "camiseta": "16",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47650",
+   "Nombre": "LUCAS TRINIDAD",
+   "minutos": "34",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "50651",
+   "Nombre": "JUAN PEDRO IRURETA-GOYENA",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "50651",
+   "Nombre": "JUAN PEDRO IRURETA-GOYENA",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53507",
+   "Nombre": "PATRICK HOBBINS",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63078",
+   "Nombre": "FEDERICO CASTELLS",
+   "minutos": "42",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "LEANDRO JAVIER PEREZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

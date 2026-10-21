@@ -1,0 +1,270 @@
+{
+ "id": "99847",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 8,
+ "fechaHora": "2026-06-07 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "INDEPENDIENTE",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "177",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-07 11:00:00",
+  "Fecha_fin": "2026-06-07 11:00:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "INDEPENDIENTE",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47699",
+   "Nombre": "VALENTIN ROSSI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "42648",
+   "Nombre": "AGUSTIN JOSE PODESTA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51840",
+   "Nombre": "AGUSTIN CABALLERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "45391",
+   "Nombre": "FELIPE MOROSOFF",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "50770",
+   "Nombre": "SANTIAGO IGNACIO FILGUEIRAS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56653",
+   "Nombre": "JOAQUIN CUBON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "42509",
+   "Nombre": "JUAN PABLO MUÑOZ",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51214",
+   "Nombre": "FACUNDO MIRANDA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50934",
+   "Nombre": "JUAN IGNACIO MOLFINO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55130",
+   "Nombre": "RENZO ECHAGUE",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "62732",
+   "Nombre": "JOAQUIN AFONSO",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61237",
+   "Nombre": "JOAQUIN HAYMES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62684",
+   "Nombre": "JOAQUIN VARELA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42893",
+   "Nombre": "GABRIEL PEREYRA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "43774",
+   "Nombre": "FELIPE HEIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53095",
+   "Nombre": "MARTIN PEZZATTI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "40073",
+   "Nombre": "JOAQUIN AVEDISIAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "43439",
+   "Nombre": "FACUNDO GARCIA",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "60709",
+   "Nombre": "LAUTARO DIAZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "46441",
+   "Nombre": "MARTIN PABLO RIVAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "33714",
+   "Nombre": "NATHAN PERLA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51150",
+   "Nombre": "IGNACIO ARTIGAS FERREIRA",
+   "camiseta": "68",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42509",
+   "Jug_Sale": "JUAN PABLO MUÑOZ",
+   "CarneEntra": "43095",
+   "Jug_Entra": "FACUNDO SEBASTIAN LÒPEZ",
+   "camiseta": "13",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "42648",
+   "Jug_Sale": "AGUSTIN JOSE PODESTA",
+   "CarneEntra": "54010",
+   "Jug_Entra": "TOMAS NAHUEL MANCINI",
+   "camiseta": "4",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "50770",
+   "Jug_Sale": "SANTIAGO IGNACIO FILGUEIRAS",
+   "CarneEntra": "55671",
+   "Jug_Entra": "JOAQUIN GUSTAVO MIGUES",
+   "camiseta": "17",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "51214",
+   "Jug_Sale": "FACUNDO MIRANDA",
+   "CarneEntra": "20875",
+   "Jug_Entra": "JUAN ANDRES AREOSA",
+   "camiseta": "80",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33714",
+   "Jug_Sale": "NATHAN PERLA",
+   "CarneEntra": "46217",
+   "Jug_Entra": "SIMON RODRIGUEZ",
+   "camiseta": "11",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "46441",
+   "Jug_Sale": "MARTIN PABLO RIVAS",
+   "CarneEntra": "42394",
+   "Jug_Entra": "MARTINHO GABRIEL DA COSTA",
+   "camiseta": "13",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "43774",
+   "Jug_Sale": "FELIPE HEIN",
+   "CarneEntra": "45742",
+   "Jug_Entra": "NEHUEN EZEQUIEL BONIFAZI",
+   "camiseta": "33",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "43439",
+   "Jug_Sale": "FACUNDO GARCIA",
+   "CarneEntra": "66145",
+   "Jug_Entra": "IGNACIO BERTHEL",
+   "camiseta": "25",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "50934",
+   "Nombre": "JUAN IGNACIO MOLFINO",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "40073",
+   "Nombre": "JOAQUIN AVEDISIAN",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "43774",
+   "Nombre": "FELIPE HEIN",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JOAQUIN AFONSO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "MARTIN PABLO RIVAS",
+   "observaciones": ""
+  }
+ ]
+}

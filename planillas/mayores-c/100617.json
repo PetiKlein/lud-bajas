@@ -1,0 +1,254 @@
+{
+ "id": "100617",
+ "categoria": "mayores-c",
+ "serie": "C",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "SAN PABLO UNIVERSITARIO",
+ "visitante": "C.A.L.I.",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "326",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"C\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-06-28 13:05:00",
+  "Fecha_fin": "2026-06-28 13:05:00",
+  "Locatario": "SAN PABLO UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "C.A.L.I.",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64487",
+   "Nombre": "HUGO FELIPE CASAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52895",
+   "Nombre": "RODRIGO MORANDI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "40857",
+   "Nombre": "AGUSTIN GERONIMO TERRA",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "51780",
+   "Nombre": "JOSE PEDRO TERRA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "47377",
+   "Nombre": "MARCOS CAPRILE",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51332",
+   "Nombre": "RENZO ROVEGNO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51330",
+   "Nombre": "BRUNO NAHUEL GONZALEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "56493",
+   "Nombre": "SEBASTIAN MANGANELLI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53769",
+   "Nombre": "TIAGO DA SILVA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62715",
+   "Nombre": "FACUNDO HERNANDEZ",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "55944",
+   "Nombre": "JULIAN GONZALEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46206",
+   "Nombre": "FEDERICO FERNANDEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "20722",
+   "Nombre": "JUAN MANUEL GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "33831",
+   "Nombre": "FACUNDO MOREIRA",
+   "camiseta": "31",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67281",
+   "Nombre": "SEBASTIAN  MANUEL RIOS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "39442",
+   "Nombre": "GUZMAN GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "22495",
+   "Nombre": "IGNACIO BURGOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64632",
+   "Nombre": "FELIPE MARTIN DINARDI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59769",
+   "Nombre": "JULIAN JESUS MENCHACA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66338",
+   "Nombre": "MATIAS ANDRES GONZALEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "55398",
+   "Nombre": "CAMILO EZEQUIEL OLIVERA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "65901",
+   "Nombre": "CONRADO VALENZUELA",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56493",
+   "Jug_Sale": "SEBASTIAN MANGANELLI",
+   "CarneEntra": "51861",
+   "Jug_Entra": "FRANCO CHIAZZARO",
+   "camiseta": "21",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "55944",
+   "Jug_Sale": "JULIAN GONZALEZ",
+   "CarneEntra": "62715",
+   "Jug_Entra": "FACUNDO HERNANDEZ",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "40857",
+   "Jug_Sale": "AGUSTIN GERONIMO TERRA",
+   "CarneEntra": "62915",
+   "Jug_Entra": "MATEO RODRIGUEZ",
+   "camiseta": "79",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "51332",
+   "Jug_Sale": "RENZO ROVEGNO",
+   "CarneEntra": "50763",
+   "Jug_Entra": "IGNACIO MORENO",
+   "camiseta": "5",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "53769",
+   "Jug_Sale": "TIAGO DA SILVA",
+   "CarneEntra": "63301",
+   "Jug_Entra": "LEANDRO ALEXIS PELUFFO",
+   "camiseta": "24",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "51330",
+   "Jug_Sale": "BRUNO NAHUEL GONZALEZ",
+   "CarneEntra": "37686",
+   "Jug_Entra": "MARTIN ROMANIELLO",
+   "camiseta": "88",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "51330",
+   "Nombre": "BRUNO NAHUEL GONZALEZ",
+   "minutos": "67",
+   "EnContra": "0"
+  },
+  {
+   "carne": "55944",
+   "Nombre": "JULIAN GONZALEZ",
+   "minutos": "26",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62715",
+   "Nombre": "FACUNDO HERNANDEZ",
+   "minutos": "88",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59769",
+   "Nombre": "JULIAN JESUS MENCHACA",
+   "minutos": "33",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "AGUSTIN GERONIMO TERRA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

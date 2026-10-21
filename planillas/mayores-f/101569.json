@@ -1,0 +1,278 @@
+{
+ "id": "101569",
+ "categoria": "mayores-f",
+ "serie": "F",
+ "fecha": 12,
+ "fechaHora": "2026-09-06 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "PAYSANDU UNVERSITARIO",
+ "visitante": "PALLOTTI UNIVERSITARIO",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "693",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"F\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-06 11:00:00",
+  "Fecha_fin": "2026-09-06 11:00:00",
+  "Locatario": "PAYSANDU UNVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "PALLOTTI UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "37852",
+   "Nombre": "GUSTAVO JAVIER NIETO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55343",
+   "Nombre": "MATEO SCHOLDERLE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "60936",
+   "Nombre": "CIRO AGESTA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51744",
+   "Nombre": "JUAN PEDRO GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58186",
+   "Nombre": "GUSTAVO SEBASTIAN OTATTI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45774",
+   "Nombre": "JUAN PABLO URRUTY",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "37855",
+   "Nombre": "ENZO GIULIANO COCCARO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "59336",
+   "Nombre": "FACUNDO ALEXANDER BENTANCUR",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62088",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "26535",
+   "Nombre": "FELIPE BONET",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67282",
+   "Nombre": "SANTIAGO DE VASCONCELLOS",
+   "camiseta": "61",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "48519",
+   "Nombre": "NICOLAS ERNESTO SUBERBIE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54030",
+   "Nombre": "GASTON MACHADO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58096",
+   "Nombre": "SANTIAGO LUNGO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "42915",
+   "Nombre": "IVAN LAGO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "37050",
+   "Nombre": "FABRIZIO ZANONI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "43145",
+   "Nombre": "JOAQUIN MATEO RODRIGUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52466",
+   "Nombre": "GUZMAN VERDIAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "45268",
+   "Nombre": "FACUNDO ALANIZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59854",
+   "Nombre": "LUCAS MANUEL VILCHES",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "46260",
+   "Nombre": "JUAN MANUEL SAN MARTIN",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "55085",
+   "Nombre": "MATIAS LIÑARES",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67282",
+   "Jug_Sale": "SANTIAGO DE VASCONCELLOS",
+   "CarneEntra": "46307",
+   "Jug_Entra": "CARLOS MARCELO GIANOTTI",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59336",
+   "Jug_Sale": "FACUNDO ALEXANDER BENTANCUR",
+   "CarneEntra": "47905",
+   "Jug_Entra": "SEBASTIAN MINTEGUIAGA",
+   "camiseta": "30",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "58186",
+   "Jug_Sale": "GUSTAVO SEBASTIAN OTATTI",
+   "CarneEntra": "53227",
+   "Jug_Entra": "JUAN MANUEL ESPINDOLA",
+   "camiseta": "0",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46260",
+   "Jug_Sale": "JUAN MANUEL SAN MARTIN",
+   "CarneEntra": "68654",
+   "Jug_Entra": "FEDERICO LORENZO Y LOSADA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55085",
+   "Jug_Sale": "MATIAS LIÑARES",
+   "CarneEntra": "42510",
+   "Jug_Entra": "AGUSTIN ANSORENA",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "59854",
+   "Jug_Sale": "LUCAS MANUEL VILCHES",
+   "CarneEntra": "50495",
+   "Jug_Entra": "EMILIANO ALANIZ",
+   "camiseta": "6",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "54030",
+   "Jug_Sale": "GASTON MACHADO",
+   "CarneEntra": "67706",
+   "Jug_Entra": "ALEJANDRO SEBASTIAN PEREZ",
+   "camiseta": "15",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "45268",
+   "Jug_Sale": "FACUNDO ALANIZ",
+   "CarneEntra": "67620",
+   "Jug_Entra": "ALEXIS DANIEL PEREZ",
+   "camiseta": "27",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "46307",
+   "Nombre": "CARLOS MARCELO GIANOTTI",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58186",
+   "Nombre": "GUSTAVO SEBASTIAN OTATTI",
+   "minutos": "45",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "43145",
+   "Nombre": "JOAQUIN MATEO RODRIGUEZ",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45268",
+   "Nombre": "FACUNDO ALANIZ",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46260",
+   "Nombre": "JUAN MANUEL SAN MARTIN",
+   "minutos": "34",
+   "EnContra": "1"
+  },
+  {
+   "carne": "50495",
+   "Nombre": "EMILIANO ALANIZ",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

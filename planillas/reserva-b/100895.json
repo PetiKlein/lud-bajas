@@ -1,0 +1,314 @@
+{
+ "id": "100895",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "CLUB UNIVERSIDAD CATOLICA",
+ "visitante": "CIRCULO DE TENIS MONTEVIDEO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "240",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-08-15 13:15:00",
+  "Fecha_fin": "2026-08-15 13:15:00",
+  "Locatario": "CLUB UNIVERSIDAD CATOLICA",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58890",
+   "Nombre": "HECTOR DAMIAN SILVA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "58896",
+   "Nombre": "JUAN ANTONIO GONZALEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61141",
+   "Nombre": "ADRIAN IGNACIO GALVAN",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "33299",
+   "Nombre": "GUILLERMO BRUNO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "55010",
+   "Nombre": "TOMAS MIRABAL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "51756",
+   "Nombre": "JUAN IGNACIO PERTUSSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46926",
+   "Nombre": "MATIAS ANDRES MUNIZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "53606",
+   "Nombre": "GUILLERMO ANDRES REBOLLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "40445",
+   "Nombre": "JUAN VICENTE CAVALLERI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53198",
+   "Nombre": "DIEGO LAGAZETA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51402",
+   "Nombre": "JUAN PEDRO PERDOMO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55015",
+   "Nombre": "FRANCISCO GRAMPIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55389",
+   "Nombre": "RODRIGO NAHUEL RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64208",
+   "Nombre": "JOAQUIN REPETTO",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "56289",
+   "Nombre": "SANTIAGO BAIS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "51734",
+   "Nombre": "NAHUEL JAVIER BALSAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "60774",
+   "Nombre": "MATEO COMBA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "54819",
+   "Nombre": "FACUNDO FERRARI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "51216",
+   "Nombre": "IGNACIO ARRIOLA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "50809",
+   "Nombre": "MARTIN GAITAN",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "47766",
+   "Nombre": "MARCOS SANTIAGO HOLLANDER",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64209",
+   "Nombre": "AGUSTIN MORALES",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61141",
+   "Jug_Sale": "ADRIAN IGNACIO GALVAN",
+   "CarneEntra": "60895",
+   "Jug_Entra": "TOMAS ANDRES OTERO",
+   "camiseta": "2",
+   "minutos": "16"
+  },
+  {
+   "CarneSale": "40445",
+   "Jug_Sale": "JUAN VICENTE CAVALLERI",
+   "CarneEntra": "59798",
+   "Jug_Entra": "MARTIN RIOS",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53198",
+   "Jug_Sale": "DIEGO LAGAZETA",
+   "CarneEntra": "55714",
+   "Jug_Entra": "FELIPE LOVATTO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55010",
+   "Jug_Sale": "TOMAS MIRABAL",
+   "CarneEntra": "56909",
+   "Jug_Entra": "JOAQUIN NICOLAS NAVAS",
+   "camiseta": "6",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "46926",
+   "Jug_Sale": "MATIAS ANDRES MUNIZ",
+   "CarneEntra": "58413",
+   "Jug_Entra": "GONZALO DUVOS",
+   "camiseta": "28",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "33299",
+   "Jug_Sale": "GUILLERMO BRUNO",
+   "CarneEntra": "68982",
+   "Jug_Entra": "JOAQUIN EZEQUIEL FERREIRA",
+   "camiseta": "29",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "53606",
+   "Jug_Sale": "GUILLERMO ANDRES REBOLLO",
+   "CarneEntra": "53198",
+   "Jug_Entra": "DIEGO LAGAZETA",
+   "camiseta": "7",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47766",
+   "Jug_Sale": "MARCOS SANTIAGO HOLLANDER",
+   "CarneEntra": "56291",
+   "Jug_Entra": "GUILLERMO CABALLERO",
+   "camiseta": "9",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "55389",
+   "Jug_Sale": "RODRIGO NAHUEL RODRIGUEZ",
+   "CarneEntra": "55021",
+   "Jug_Entra": "TOMAS BICA",
+   "camiseta": "20",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "54819",
+   "Jug_Sale": "FACUNDO FERRARI",
+   "CarneEntra": "57390",
+   "Jug_Entra": "SANTIAGO ANDRES LOPEZ",
+   "camiseta": "47",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "50809",
+   "Jug_Sale": "MARTIN GAITAN",
+   "CarneEntra": "56290",
+   "Jug_Entra": "DENIS RODRIGO RAMA",
+   "camiseta": "28",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60774",
+   "Jug_Sale": "MATEO COMBA",
+   "CarneEntra": "50858",
+   "Jug_Entra": "TOMAS  JOAQUIN IBARRA",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64209",
+   "Jug_Sale": "AGUSTIN MORALES",
+   "CarneEntra": "49135",
+   "Jug_Entra": "FELIPE NIN",
+   "camiseta": "4",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "56289",
+   "Jug_Sale": "SANTIAGO BAIS",
+   "CarneEntra": "64988",
+   "Jug_Entra": "LUCIANO QUIÑONES",
+   "camiseta": "22",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51402",
+   "Nombre": "JUAN PEDRO PERDOMO",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53198",
+   "Nombre": "DIEGO LAGAZETA",
+   "minutos": "8",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "47766",
+   "Nombre": "MARCOS SANTIAGO HOLLANDER",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51216",
+   "Nombre": "IGNACIO ARRIOLA",
+   "minutos": "45",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

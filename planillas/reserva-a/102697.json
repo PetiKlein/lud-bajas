@@ -1,0 +1,305 @@
+{
+ "id": "102697",
+ "categoria": "reserva-a",
+ "serie": "RSAPD",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 11:15:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "CLUB SEMINARIO",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "650",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "2",
+  "Divisional": "RESERVA \"A\" PER. y DESC.",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-10-10 13:10:00",
+  "Fecha_fin": "2026-10-10 13:10:00",
+  "Locatario": "CLUB SEMINARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49263",
+   "Nombre": "MARTIN MURAÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37424",
+   "Nombre": "SANTIAGO PEREZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "59121",
+   "Nombre": "ARIEL YONHATAN PACHECO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42555",
+   "Nombre": "RODRIGO VAZQUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "47683",
+   "Nombre": "JUAN IGNACIO VIOLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "50855",
+   "Nombre": "SEBASTIAN GUILLEN",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48063",
+   "Nombre": "GENARO CARUSO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "56643",
+   "Nombre": "FEDERICO MOSCA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52457",
+   "Nombre": "SANTIAGO RAUL MAY",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "47678",
+   "Nombre": "PEDRO MACKINNON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54618",
+   "Nombre": "MATIAS JOSE MORENO",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29859",
+   "Nombre": "GUSTAVO GUZMAN AMESPIL",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54783",
+   "Nombre": "MARTIN SEBASTIAN GONZALEZ",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "53130",
+   "Nombre": "JUAN IGNACIO AISCAR",
+   "camiseta": "33",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45854",
+   "Nombre": "JULIAN VELAZQUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "50950",
+   "Nombre": "ISMAEL VILLANUEVA",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "45424",
+   "Nombre": "ANDRES VALLARINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "48803",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63343",
+   "Nombre": "LORENZO VERON",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57131",
+   "Nombre": "GIANFRANCO DUPONT",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61079",
+   "Nombre": "JUAN PABLO ZUBILLAGA",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "64055",
+   "Nombre": "LAUTHARO MANUEL GUGLIELMONE",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47678",
+   "Jug_Sale": "PEDRO MACKINNON",
+   "CarneEntra": "52746",
+   "Jug_Entra": "IMANOL JIMENEZ DE ARECHAGA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48063",
+   "Jug_Sale": "GENARO CARUSO",
+   "CarneEntra": "52764",
+   "Jug_Entra": "DIEGO BUELA",
+   "camiseta": "22",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "50855",
+   "Jug_Sale": "SEBASTIAN GUILLEN",
+   "CarneEntra": "53659",
+   "Jug_Entra": "ANDRES HERRERA",
+   "camiseta": "14",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "47683",
+   "Jug_Sale": "JUAN IGNACIO VIOLA",
+   "CarneEntra": "50801",
+   "Jug_Entra": "JUAN MANUEL DÌAZ",
+   "camiseta": "6",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "56643",
+   "Jug_Sale": "FEDERICO MOSCA",
+   "CarneEntra": "50806",
+   "Jug_Entra": "FACUNDO VAZQUEZ",
+   "camiseta": "5",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "52457",
+   "Jug_Sale": "SANTIAGO RAUL MAY",
+   "CarneEntra": "50787",
+   "Jug_Entra": "JUAN PEDRO ABELLA",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "54618",
+   "Jug_Sale": "MATIAS JOSE MORENO",
+   "CarneEntra": "48286",
+   "Jug_Entra": "FRANCISCO AMEIGENDA",
+   "camiseta": "9",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54783",
+   "Jug_Sale": "MARTIN SEBASTIAN GONZALEZ",
+   "CarneEntra": "58943",
+   "Jug_Entra": "MATIAS DIEGO MENDEZ",
+   "camiseta": "26",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "45424",
+   "Jug_Sale": "ANDRES VALLARINO",
+   "CarneEntra": "61835",
+   "Jug_Entra": "MAXIMILIANO NUÑEZ",
+   "camiseta": "30",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "63343",
+   "Jug_Sale": "LORENZO VERON",
+   "CarneEntra": "66798",
+   "Jug_Entra": "SANTIAGO OLIVERA",
+   "camiseta": "88",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "57131",
+   "Jug_Sale": "GIANFRANCO DUPONT",
+   "CarneEntra": "68415",
+   "Jug_Entra": "SANTIAGO VANOLI",
+   "camiseta": "34",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "48803",
+   "Jug_Sale": "MATIAS REVELLO",
+   "CarneEntra": "66795",
+   "Jug_Entra": "GERMAN MUJICA",
+   "camiseta": "15",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "50950",
+   "Jug_Sale": "ISMAEL VILLANUEVA",
+   "CarneEntra": "61669",
+   "Jug_Entra": "NICOLAS BENTANCOR",
+   "camiseta": "29",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48063",
+   "Nombre": "GENARO CARUSO",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52457",
+   "Nombre": "SANTIAGO RAUL MAY",
+   "minutos": "18",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52746",
+   "Nombre": "IMANOL JIMENEZ DE ARECHAGA",
+   "minutos": "86",
+   "EnContra": "0"
+  },
+  {
+   "carne": "59121",
+   "Nombre": "ARIEL YONHATAN PACHECO",
+   "minutos": "61",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

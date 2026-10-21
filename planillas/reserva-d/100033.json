@@ -1,0 +1,248 @@
+{
+ "id": "100033",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "YOUNG UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "414",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-06-13 13:13:00",
+  "Fecha_fin": "2026-06-13 13:13:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "YOUNG UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68074",
+   "Nombre": "NICOLAS RODRIGUEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "52810",
+   "Nombre": "ISMAEL VERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "45772",
+   "Nombre": "LUCAS POMI",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "54722",
+   "Nombre": "LUCAS SCAFARELLI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "49009",
+   "Nombre": "FACUNDO ACUÑA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57035",
+   "Nombre": "FELIPE MONTAÑES",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "53171",
+   "Nombre": "FRANCISCO ACUÑA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "53378",
+   "Nombre": "NICOLAS SILVA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "56611",
+   "Nombre": "SEBASTIAN SAR",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63302",
+   "Nombre": "GERONIMO DIAZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66758",
+   "Nombre": "ANTHONY FACCIO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66136",
+   "Nombre": "ALFONSO MEDINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60311",
+   "Nombre": "ROMAN JOSE SCREMINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62225",
+   "Nombre": "FELIPE GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59693",
+   "Nombre": "TOMAS CONSTANTIN",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67559",
+   "Nombre": "BRUNO CAMPOPIANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67395",
+   "Nombre": "VALENTINO SACRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64599",
+   "Nombre": "CRISTIANO MATIAS PIGNATA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52893",
+   "Nombre": "EZEQUIEL FRANCO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64592",
+   "Nombre": "GERONIMO VANZINI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56611",
+   "Jug_Sale": "SEBASTIAN SAR",
+   "CarneEntra": "52402",
+   "Jug_Entra": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "68074",
+   "Jug_Sale": "NICOLAS RODRIGUEZ",
+   "CarneEntra": "64365",
+   "Jug_Entra": "JUAN BAUTISTA ARRUABARRENA",
+   "camiseta": "90",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "52810",
+   "Jug_Sale": "ISMAEL VERA",
+   "CarneEntra": "58608",
+   "Jug_Entra": "BAUTISTA ANDRES TERRA",
+   "camiseta": "11",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "53171",
+   "Jug_Sale": "FRANCISCO ACUÑA",
+   "CarneEntra": "64272",
+   "Jug_Entra": "HERNAN EZEQUIEL PUSCHIASIS",
+   "camiseta": "88",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62225",
+   "Jug_Sale": "FELIPE GONZALEZ",
+   "CarneEntra": "67431",
+   "Jug_Entra": "EMILIANO ACOSTA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60311",
+   "Jug_Sale": "ROMAN JOSE SCREMINI",
+   "CarneEntra": "61038",
+   "Jug_Entra": "CONRADO HEINZE",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67559",
+   "Jug_Sale": "BRUNO CAMPOPIANO",
+   "CarneEntra": "56337",
+   "Jug_Entra": "IVAN HARTWICH",
+   "camiseta": "16",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "52893",
+   "Jug_Sale": "EZEQUIEL FRANCO",
+   "CarneEntra": "56157",
+   "Jug_Entra": "JEREMIAS SILVEIRA",
+   "camiseta": "17",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "59693",
+   "Jug_Sale": "TOMAS CONSTANTIN",
+   "CarneEntra": "62428",
+   "Jug_Entra": "HENRRY RIOS",
+   "camiseta": "19",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,316 @@
+{
+ "id": "102491",
+ "categoria": "sub20-c",
+ "serie": "20C2",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 16:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "CENTRO CRISTOBAL COLON",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "479",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 20",
+  "categoria": "SUB 20 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB20 \"C\" TIT. y ASC.",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-10-03 17:55:00",
+  "Fecha_fin": "2026-10-03 17:55:00",
+  "Locatario": "CENTRO CRISTOBAL COLON",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "69203",
+   "Nombre": "RODRIGO CHAGAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64258",
+   "Nombre": "BRUNO ALEJANDRO MARRERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62359",
+   "Nombre": "MATHIAS GOMEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61142",
+   "Nombre": "FELIPE ODAZZIO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62358",
+   "Nombre": "MATEO FIGUEROA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63570",
+   "Nombre": "JUAN SEBASTIAN CORONEL",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58770",
+   "Nombre": "MATEO EASTMAN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61897",
+   "Nombre": "MATIAS MARCELO VERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64958",
+   "Nombre": "LUCA AFONZO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62354",
+   "Nombre": "MATEO NOVAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65327",
+   "Nombre": "JUAN IGNACIO GOMEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66339",
+   "Nombre": "MATEO MARCOS FAZIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59761",
+   "Nombre": "BRUNO LAVIE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66528",
+   "Nombre": "LUCA CANZANI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59555",
+   "Nombre": "JUAN MANUEL BIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62420",
+   "Nombre": "MATIAS LABORDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60337",
+   "Nombre": "MATEO GLISENTI",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "59563",
+   "Nombre": "FEDERICO GUICHON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59513",
+   "Nombre": "JUAN DIEGO HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "60554",
+   "Nombre": "JUAN PATRICIO MOSCA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "54757",
+   "Nombre": "LUIS IGNACIO MATTERA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64958",
+   "Jug_Sale": "LUCA AFONZO",
+   "CarneEntra": "62356",
+   "Jug_Entra": "AGUSTIN DA ROSA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62358",
+   "Jug_Sale": "MATEO FIGUEROA",
+   "CarneEntra": "67328",
+   "Jug_Entra": "UZIEL GIMENEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62354",
+   "Jug_Sale": "MATEO NOVAS",
+   "CarneEntra": "65353",
+   "Jug_Entra": "VALENTIN BARRIOS",
+   "camiseta": "9",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "65327",
+   "Jug_Sale": "JUAN IGNACIO GOMEZ",
+   "CarneEntra": "61215",
+   "Jug_Entra": "JOAQUIN PASSADORE",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62359",
+   "Jug_Sale": "MATHIAS GOMEZ",
+   "CarneEntra": "62685",
+   "Jug_Entra": "ENZO SEBASTIAN PALLANTE",
+   "camiseta": "6",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "61897",
+   "Jug_Sale": "MATIAS MARCELO VERO",
+   "CarneEntra": "61216",
+   "Jug_Entra": "JUAN FRANCISCO PASSADORE",
+   "camiseta": "19",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "61142",
+   "Jug_Sale": "FELIPE ODAZZIO",
+   "CarneEntra": "63435",
+   "Jug_Entra": "MATEO ADOLFO OXEHUFWUD",
+   "camiseta": "7",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54757",
+   "Jug_Sale": "LUIS IGNACIO MATTERA",
+   "CarneEntra": "64236",
+   "Jug_Entra": "NICOLAS KRUL",
+   "camiseta": "19",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "59513",
+   "Jug_Sale": "JUAN DIEGO HERNANDEZ",
+   "CarneEntra": "62547",
+   "Jug_Entra": "GUILERMO DIEGO POMI",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60554",
+   "Jug_Sale": "JUAN PATRICIO MOSCA",
+   "CarneEntra": "56180",
+   "Jug_Entra": "SANTIAGO DE OLEA",
+   "camiseta": "80",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "56305",
+   "Jug_Sale": "FRANCO GLISENTI",
+   "CarneEntra": "57343",
+   "Jug_Entra": "FEDERICO PELUFFO",
+   "camiseta": "19",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62354",
+   "Nombre": "MATEO NOVAS",
+   "minutos": "51",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65353",
+   "Nombre": "VALENTIN BARRIOS",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56305",
+   "Nombre": "FRANCO GLISENTI",
+   "minutos": "88",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59761",
+   "Nombre": "BRUNO LAVIE",
+   "minutos": "26",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60554",
+   "Nombre": "JUAN PATRICIO MOSCA",
+   "minutos": "11",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60554",
+   "Nombre": "JUAN PATRICIO MOSCA",
+   "minutos": "34",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN SEBASTIAN CORONEL",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "LUCA AFONZO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "JUAN MANUEL BIA",
+   "observaciones": ""
+  }
+ ]
+}

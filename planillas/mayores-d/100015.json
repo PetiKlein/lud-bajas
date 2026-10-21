@@ -1,0 +1,287 @@
+{
+ "id": "100015",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "431",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-06-14 11:00:00",
+  "Fecha_fin": "2026-06-14 11:00:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "50667",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52165",
+   "Nombre": "ALFONSO GARCIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "55533",
+   "Nombre": "EZEQUIEL HERNAN PRADO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48547",
+   "Nombre": "FACUNDO SADOVY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57246",
+   "Nombre": "FRANCO MOURGLIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53202",
+   "Nombre": "NICOLAS WAGNER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48308",
+   "Nombre": "GASTON MAZZO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "46785",
+   "Nombre": "SANTIAGO MARTIN CHAPPUIS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51584",
+   "Nombre": "RENZO ADRIAN CICCARIELLO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67688",
+   "Nombre": "LUCAS DE RITIS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "55536",
+   "Nombre": "FACUNDO GABRIEL PRADO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56822",
+   "Nombre": "JUAN IGNACIO TELLECHEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49737",
+   "Nombre": "MATIAS ACQUARONE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "44470",
+   "Nombre": "AGUSTIN GABRIEL SILVA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54729",
+   "Nombre": "FRANCISCO MANUEL IGLESIAS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "41594",
+   "Nombre": "GUILLERMO CHALES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "48878",
+   "Nombre": "JUAN JOSE CERVIERI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "40130",
+   "Nombre": "SANTIAGO VISCAY",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54731",
+   "Nombre": "GERONIMO GAIERO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "45162",
+   "Nombre": "IGNACIO MONFORT",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "63613",
+   "Nombre": "EUSEBIO CABRAL",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "37816",
+   "Nombre": "EMILIANO PABLO BONINI",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51584",
+   "Jug_Sale": "RENZO ADRIAN CICCARIELLO",
+   "CarneEntra": "66456",
+   "Jug_Entra": "GERARDO SEBASTIAN GULARTE",
+   "camiseta": "13",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "55536",
+   "Jug_Sale": "FACUNDO GABRIEL PRADO",
+   "CarneEntra": "49080",
+   "Jug_Entra": "IGNACIO MOUGAN",
+   "camiseta": "10",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "48547",
+   "Jug_Sale": "FACUNDO SADOVY",
+   "CarneEntra": "46783",
+   "Jug_Entra": "NICOLAS CANOURA",
+   "camiseta": "19",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "52165",
+   "Jug_Sale": "ALFONSO GARCIA",
+   "CarneEntra": "50343",
+   "Jug_Entra": "TOMAS PEREZ",
+   "camiseta": "11",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "57246",
+   "Jug_Sale": "FRANCO MOURGLIA",
+   "CarneEntra": "61630",
+   "Jug_Entra": "LUCAS ISMAEL MONZILLO",
+   "camiseta": "5",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "46785",
+   "Jug_Sale": "SANTIAGO MARTIN CHAPPUIS",
+   "CarneEntra": "53294",
+   "Jug_Entra": "AGUSTIN SANTIÑAQUE",
+   "camiseta": "17",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48878",
+   "Jug_Sale": "JUAN JOSE CERVIERI",
+   "CarneEntra": "62706",
+   "Jug_Entra": "FACUNDO RAMA",
+   "camiseta": "4",
+   "minutos": "19"
+  },
+  {
+   "CarneSale": "41594",
+   "Jug_Sale": "GUILLERMO CHALES",
+   "CarneEntra": "43423",
+   "Jug_Entra": "BRAULIO CAPAGORRY",
+   "camiseta": "26",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "44470",
+   "Jug_Sale": "AGUSTIN GABRIEL SILVA",
+   "CarneEntra": "42780",
+   "Jug_Entra": "IGNACIO DARWIN GONZALEZ",
+   "camiseta": "14",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "45162",
+   "Jug_Sale": "IGNACIO MONFORT",
+   "CarneEntra": "55316",
+   "Jug_Entra": "LUCIANO VICINO",
+   "camiseta": "17",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "37816",
+   "Jug_Sale": "EMILIANO PABLO BONINI",
+   "CarneEntra": "61189",
+   "Jug_Entra": "RODOLFO CABRERA",
+   "camiseta": "8",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "62706",
+   "Jug_Sale": "FACUNDO RAMA",
+   "CarneEntra": "39543",
+   "Jug_Entra": "RAFAEL VELAZCO",
+   "camiseta": "6",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "54729",
+   "Jug_Sale": "FRANCISCO MANUEL IGLESIAS",
+   "CarneEntra": "49189",
+   "Jug_Entra": "MANU BERVEJILLO",
+   "camiseta": "71",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "54729",
+   "Nombre": "FRANCISCO MANUEL IGLESIAS",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

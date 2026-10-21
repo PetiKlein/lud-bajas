@@ -1,0 +1,237 @@
+{
+ "id": "100138",
+ "categoria": "mayores-e",
+ "serie": "E",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 11:15:00",
+ "cancha": "ST PATRICKS",
+ "local": "OLD SAMPA CLUB",
+ "visitante": "DEPORTIVO MITRE",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "552",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"E\"",
+  "Cancha": "ST PATRICKS",
+  "Fecha_Inicio": "2026-06-14 00:00:00",
+  "Fecha_fin": "2026-06-14 00:00:00",
+  "Locatario": "OLD SAMPA CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO MITRE",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49163",
+   "Nombre": "RAMON PINTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63788",
+   "Nombre": "PEDRO JESUS FERNANDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "21634",
+   "Nombre": "MATIAS CALACHA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63135",
+   "Nombre": "SERGIO SILVA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "53207",
+   "Nombre": "CAMILO NICOLAS ROSA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58962",
+   "Nombre": "JUAN DAVID DOS SANTOS",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "62689",
+   "Nombre": "DYLAN SANTIAGO CORREA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "27933",
+   "Nombre": "ENRIQUE CALACHA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "23363",
+   "Nombre": "ALEJANDRO CALACHA",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64910",
+   "Nombre": "MARCOS GIMENEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68610",
+   "Nombre": "BAYRON GABRIEL OTERO",
+   "camiseta": "88",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47389",
+   "Nombre": "SEBASTIAN SILVA",
+   "camiseta": "28",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43739",
+   "Nombre": "JUAN ANDRES GUARINO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "57270",
+   "Nombre": "MATEO BERTOLIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37963",
+   "Nombre": "GUZMAN STEGLICH",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62622",
+   "Nombre": "STEFANO ESPINOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66857",
+   "Nombre": "JUAN ANDRES CRUJEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "44077",
+   "Nombre": "AGUSTIN ANDRES OTERO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "43957",
+   "Nombre": "DIEGO MARTIN MAGALLANES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65976",
+   "Nombre": "JOAN LUCAS ROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "25248",
+   "Nombre": "MATIAS BARREIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57732",
+   "Nombre": "SANTIAGO NICOLAS ESTEVEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68610",
+   "Jug_Sale": "BAYRON GABRIEL OTERO",
+   "CarneEntra": "67713",
+   "Jug_Entra": "ALAN ZEBALLOS",
+   "camiseta": "15",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "23363",
+   "Jug_Sale": "ALEJANDRO CALACHA",
+   "CarneEntra": "68608",
+   "Jug_Entra": "THIAGO ARAMIS LOPEZ",
+   "camiseta": "7",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "25248",
+   "Jug_Sale": "MATIAS BARREIRO",
+   "CarneEntra": "32418",
+   "Jug_Entra": "JOSE IGNACIO OLASCOAGA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43957",
+   "Jug_Sale": "DIEGO MARTIN MAGALLANES",
+   "CarneEntra": "45055",
+   "Jug_Entra": "DAMIAN YAFE",
+   "camiseta": "7",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "37963",
+   "Jug_Sale": "GUZMAN STEGLICH",
+   "CarneEntra": "45965",
+   "Jug_Entra": "GONZALO MARTIN PEÑA",
+   "camiseta": "3",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "57732",
+   "Jug_Sale": "SANTIAGO NICOLAS ESTEVEZ",
+   "CarneEntra": "44601",
+   "Jug_Entra": "JOSE LEANDRO NUÑEZ",
+   "camiseta": "13",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "57732",
+   "Nombre": "SANTIAGO NICOLAS ESTEVEZ",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57732",
+   "Nombre": "SANTIAGO NICOLAS ESTEVEZ",
+   "minutos": "54",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

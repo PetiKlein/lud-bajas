@@ -1,0 +1,302 @@
+{
+ "id": "101824",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 09:00:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS BLANCO",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "217",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-09-12 10:55:00",
+  "Fecha_fin": "2026-09-12 10:55:00",
+  "Locatario": "OLD CHRISTIANS BLANCO",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68857",
+   "Nombre": "FRANCISCO PINTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51235",
+   "Nombre": "JUAN MARQUES",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67430",
+   "Nombre": "ANDRES VILLAR",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "44039",
+   "Nombre": "ALEJANDRO FYNN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52622",
+   "Nombre": "NICOLAS CLEMENTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "56128",
+   "Nombre": "FRANCESCO SETTIN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47292",
+   "Nombre": "NICOLAS JOSE REGUSCI",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "46844",
+   "Nombre": "JOSE ANTONIO GONZALEZ BERRO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "51134",
+   "Nombre": "TOMAS LAFFITTE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "51502",
+   "Nombre": "DIEGO VIGORITO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54409",
+   "Nombre": "JOAQUIN IRULEGUY",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57193",
+   "Nombre": "FRANCO GABRIEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36517",
+   "Nombre": "MANUEL MATIAS GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "55499",
+   "Nombre": "IGNACIO DANTE FERNANDEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49048",
+   "Nombre": "EZEQUIEL ESTEFAN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "39323",
+   "Nombre": "IGNACIO MILLER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57611",
+   "Nombre": "EZEQUIEL VILLANUEVA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "45306",
+   "Nombre": "JUAN PEDRO TERRENO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "39397",
+   "Nombre": "GERMAN VIERA",
+   "camiseta": "34",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53428",
+   "Nombre": "JUAN MANUEL BALSAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63398",
+   "Nombre": "BRUNO ANDRES CIAPPESONI",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "54067",
+   "Nombre": "JUAN PABLO LOPEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52622",
+   "Jug_Sale": "NICOLAS CLEMENTE",
+   "CarneEntra": "54475",
+   "Jug_Entra": "JUAN IGNACIO PEREZ ALFARO",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "46844",
+   "Jug_Sale": "JOSE ANTONIO GONZALEZ BERRO",
+   "CarneEntra": "42800",
+   "Jug_Entra": "FEDERICO  IGNACIO HERMIDA",
+   "camiseta": "16",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "44039",
+   "Jug_Sale": "ALEJANDRO FYNN",
+   "CarneEntra": "58500",
+   "Jug_Entra": "FACUNDO LAFFITTE",
+   "camiseta": "17",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "51134",
+   "Jug_Sale": "TOMAS LAFFITTE",
+   "CarneEntra": "64498",
+   "Jug_Entra": "JOAQUIN GORRITI",
+   "camiseta": "90",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54067",
+   "Jug_Sale": "JUAN PABLO LOPEZ",
+   "CarneEntra": "50131",
+   "Jug_Entra": "LUCAS CALISTRO",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36517",
+   "Jug_Sale": "MANUEL MATIAS GONZALEZ",
+   "CarneEntra": "49225",
+   "Jug_Entra": "MATIAS LOPEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49225",
+   "Jug_Sale": "MATIAS LOPEZ",
+   "CarneEntra": "43891",
+   "Jug_Entra": "DIEGO LOPEZ",
+   "camiseta": "41",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "49048",
+   "Jug_Sale": "EZEQUIEL ESTEFAN",
+   "CarneEntra": "39018",
+   "Jug_Entra": "MAURO KARABELNIK",
+   "camiseta": "5",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "39323",
+   "Jug_Sale": "IGNACIO MILLER",
+   "CarneEntra": "58028",
+   "Jug_Entra": "TOMAS VASSALLUCCI",
+   "camiseta": "22",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "55499",
+   "Jug_Sale": "IGNACIO DANTE FERNANDEZ",
+   "CarneEntra": "35183",
+   "Jug_Entra": "LORENZO MORONI",
+   "camiseta": "90",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "39397",
+   "Jug_Sale": "GERMAN VIERA",
+   "CarneEntra": "43422",
+   "Jug_Entra": "GUILLERMO ARAUJO",
+   "camiseta": "13",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54409",
+   "Nombre": "JOAQUIN IRULEGUY",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54409",
+   "Nombre": "JOAQUIN IRULEGUY",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54409",
+   "Nombre": "JOAQUIN IRULEGUY",
+   "minutos": "89",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "50131",
+   "Nombre": "LUCAS CALISTRO",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53428",
+   "Nombre": "JUAN MANUEL BALSAS",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53428",
+   "Nombre": "JUAN MANUEL BALSAS",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

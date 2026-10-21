@@ -1,0 +1,237 @@
+{
+ "id": "100648",
+ "categoria": "mayores-d",
+ "serie": "D",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "NUMA TURCATTI",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "443",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-06-28 13:10:00",
+  "Fecha_fin": "2026-06-28 13:10:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "NUMA TURCATTI",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53706",
+   "Nombre": "RAMIRO CABRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45237",
+   "Nombre": "IGNACIO SANTIAGO DORNEL",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "46930",
+   "Nombre": "ENZO JAVIER GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "44208",
+   "Nombre": "MANUEL AGUSTIN TRAVERSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66799",
+   "Nombre": "JAVIER LUCENO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "38298",
+   "Nombre": "PATRICIO MARCELO COSTAS",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61893",
+   "Nombre": "RAMIRO GARCIA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63132",
+   "Nombre": "FACUNDO GARCIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "49511",
+   "Nombre": "MATIAS DOS SANTOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51244",
+   "Nombre": "SANTIAGO REYNALDO ACEVEDO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59311",
+   "Nombre": "HUGO YANOS GARCIA",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37679",
+   "Nombre": "JORGE ANTONIO PONS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54090",
+   "Nombre": "HERNAN ARIEL CAÑETE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54622",
+   "Nombre": "JUAN MANUEL CADENAS",
+   "camiseta": "33",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42774",
+   "Nombre": "LUIS ESTEBAN FERMER",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "39900",
+   "Nombre": "BRUNO BRUZZONE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "59482",
+   "Nombre": "FACUNDO ESCALANTE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68506",
+   "Nombre": "NICOLAS MENDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "39467",
+   "Nombre": "MATEO YUVET",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51244",
+   "Jug_Sale": "SANTIAGO REYNALDO ACEVEDO",
+   "CarneEntra": "63421",
+   "Jug_Entra": "LUIS ALFONSO ALMADA",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63132",
+   "Jug_Sale": "FACUNDO GARCIA",
+   "CarneEntra": "42883",
+   "Jug_Entra": "AGUSTIN LAZARO",
+   "camiseta": "55",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "66799",
+   "Jug_Sale": "JAVIER LUCENO",
+   "CarneEntra": "46932",
+   "Jug_Entra": "VICENTE MARTIN FERREYRA",
+   "camiseta": "18",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59482",
+   "Jug_Sale": "FACUNDO ESCALANTE",
+   "CarneEntra": "48317",
+   "Jug_Entra": "THIAGO DA SILVA",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "68506",
+   "Jug_Sale": "NICOLAS MENDEZ",
+   "CarneEntra": "55412",
+   "Jug_Entra": "DIEGO OTAÑO",
+   "camiseta": "15",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "39467",
+   "Jug_Sale": "MATEO YUVET",
+   "CarneEntra": "59482",
+   "Jug_Entra": "FACUNDO ESCALANTE",
+   "camiseta": "9",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "59482",
+   "Nombre": "FACUNDO ESCALANTE",
+   "minutos": "93",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64351",
+   "Nombre": "BRUNO SIMON",
+   "minutos": "73",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

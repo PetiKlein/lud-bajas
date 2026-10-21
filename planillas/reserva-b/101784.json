@@ -1,0 +1,290 @@
+{
+ "id": "101784",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "219",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-09-12 11:05:00",
+  "Fecha_fin": "2026-09-12 11:05:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54675",
+   "Nombre": "EMILIANO SALVO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58853",
+   "Nombre": "FRANCISCO GANDIOLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "41717",
+   "Nombre": "SANTIAGO PEREYRA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "53728",
+   "Nombre": "NICOLAS MIGUEL DE OCAMPO",
+   "camiseta": "62",
+   "Capitan": ""
+  },
+  {
+   "carne": "49486",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51507",
+   "Nombre": "MATEO BERTOLA",
+   "camiseta": "67",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62975",
+   "Nombre": "FRANCO ANDRES MIRAFIORE",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "47200",
+   "Nombre": "JOAQUIN VILLAR",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "55078",
+   "Nombre": "JOAQUIN CELIBERTI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53601",
+   "Nombre": "JOAQUIN CASAS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47802",
+   "Nombre": "FACUNDO MARTIN PEREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44846",
+   "Nombre": "ANTONIO JOSE IRAZOQUI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "53690",
+   "Nombre": "MARCOS DANIEL AREVALO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68952",
+   "Nombre": "MAXIMILIANO EZEQUIEL PIRIZ",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "43121",
+   "Nombre": "SIRO PIALI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "43124",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56033",
+   "Nombre": "ALEXIS DAVID FLORES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "53212",
+   "Nombre": "IONAS PATRICIO JOSPONIS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49486",
+   "Jug_Sale": "IGNACIO GONZALEZ",
+   "CarneEntra": "51841",
+   "Jug_Entra": "SANTIAGO DANIEL RAMBAO",
+   "camiseta": "25",
+   "minutos": "13"
+  },
+  {
+   "CarneSale": "53601",
+   "Jug_Sale": "JOAQUIN CASAS",
+   "CarneEntra": "55233",
+   "Jug_Entra": "DANTE PEÑA",
+   "camiseta": "81",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "51841",
+   "Jug_Sale": "SANTIAGO DANIEL RAMBAO",
+   "CarneEntra": "52613",
+   "Jug_Entra": "JUAN MANUEL BUERO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47200",
+   "Jug_Sale": "JOAQUIN VILLAR",
+   "CarneEntra": "48450",
+   "Jug_Entra": "MATEO CORREA",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55078",
+   "Jug_Sale": "JOAQUIN CELIBERTI",
+   "CarneEntra": "57648",
+   "Jug_Entra": "FRANCISCO GUILLEN",
+   "camiseta": "69",
+   "minutos": "30"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "43124",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "46518",
+   "Jug_Entra": "MAURO GERMAN GRECCO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43121",
+   "Jug_Sale": "SIRO PIALI",
+   "CarneEntra": "66801",
+   "Jug_Entra": "JUAN IGNACIO LOPEZ",
+   "camiseta": "50",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54617",
+   "Jug_Sale": "TOMAS DIAZ",
+   "CarneEntra": "47675",
+   "Jug_Entra": "MAURICIO DIEZ",
+   "camiseta": "32",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "47100",
+   "Jug_Sale": "JOAQUIN PALABES",
+   "CarneEntra": "59646",
+   "Jug_Entra": "FABRICIO NICOLAS RAMOS",
+   "camiseta": "80",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "56033",
+   "Jug_Sale": "ALEXIS DAVID FLORES",
+   "CarneEntra": "66028",
+   "Jug_Entra": "MATEO AGUSTIN CHAKIYIN",
+   "camiseta": "18",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "53212",
+   "Jug_Sale": "IONAS PATRICIO JOSPONIS",
+   "CarneEntra": "54068",
+   "Jug_Entra": "JOAQUIN SANTIAGO PERDOMO",
+   "camiseta": "33",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "53690",
+   "Jug_Sale": "MARCOS DANIEL AREVALO",
+   "CarneEntra": "47116",
+   "Jug_Entra": "SANTIAGO RODRIGUEZ",
+   "camiseta": "12",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "53212",
+   "Nombre": "IONAS PATRICIO JOSPONIS",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66801",
+   "Nombre": "JUAN IGNACIO LOPEZ",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "IGNACIO GONZALEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

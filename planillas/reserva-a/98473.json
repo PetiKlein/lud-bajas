@@ -1,0 +1,275 @@
+{
+ "id": "98473",
+ "categoria": "reserva-a",
+ "serie": "RS1",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "OBC AZULGRANA.",
+ "visitante": "PLAYA HONDA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "19",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-04-25 13:15:00",
+  "Fecha_fin": "2026-04-25 13:15:00",
+  "Locatario": "OBC AZULGRANA.",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "PLAYA HONDA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "42152",
+   "Nombre": "RODRIGO GATTO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "51826",
+   "Nombre": "AGUSTIN DEUS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "42685",
+   "Nombre": "FRANCISCO DECURNEX",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "34993",
+   "Nombre": "GUILLERMO VIVO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "33722",
+   "Nombre": "JUAN IGNACIO MOLINARO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "40095",
+   "Nombre": "MATIAS ORIBE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "40998",
+   "Nombre": "FELIPE FRUGONE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "42816",
+   "Nombre": "ANDRES BUERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "32504",
+   "Nombre": "AGUSTIN DANIEL BARCELO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "44982",
+   "Nombre": "FEDERICO RUIZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "44492",
+   "Nombre": "DIEGO JUAN CORALLO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53369",
+   "Nombre": "IVAN BARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58715",
+   "Nombre": "JUAN SEBASTIAN RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "52880",
+   "Nombre": "RODOLFO RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "64499",
+   "Nombre": "ULISES FIORI",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "49724",
+   "Nombre": "AGUSTIN TAÑO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "41179",
+   "Nombre": "EUGENIO SUPPARO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62024",
+   "Nombre": "JUAN MANUEL BOCCHI",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "67535",
+   "Nombre": "BENJAMIN DE IZAGUIRRE",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "53845",
+   "Nombre": "MARTIN CURUTCHAGUE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "67539",
+   "Nombre": "MATIAS NICOLAS RODRIGUEZ",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "58718",
+   "Nombre": "FRANCISCO DE LOS SANTOS",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "40095",
+   "Jug_Sale": "MATIAS ORIBE",
+   "CarneEntra": "34990",
+   "Jug_Entra": "MARTIN SORONDO",
+   "camiseta": "27",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "32504",
+   "Jug_Sale": "AGUSTIN DANIEL BARCELO",
+   "CarneEntra": "43472",
+   "Jug_Entra": "JUAN PEDRO VARGAS",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51826",
+   "Jug_Sale": "AGUSTIN DEUS",
+   "CarneEntra": "49021",
+   "Jug_Entra": "JUAN IGNACIO CANESSA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44982",
+   "Jug_Sale": "FEDERICO RUIZ",
+   "CarneEntra": "51137",
+   "Jug_Entra": "JULIO FERMIN BLANCO",
+   "camiseta": "40",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "34993",
+   "Jug_Sale": "GUILLERMO VIVO",
+   "CarneEntra": "51826",
+   "Jug_Entra": "AGUSTIN DEUS",
+   "camiseta": "21",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62024",
+   "Jug_Sale": "JUAN MANUEL BOCCHI",
+   "CarneEntra": "68323",
+   "Jug_Entra": "FEDERICO SOLDEVILA",
+   "camiseta": "21",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "49724",
+   "Jug_Sale": "AGUSTIN TAÑO",
+   "CarneEntra": "62123",
+   "Jug_Entra": "LAUTARO ELIAS CATSOURIS",
+   "camiseta": "36",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "64499",
+   "Jug_Sale": "ULISES FIORI",
+   "CarneEntra": "51661",
+   "Jug_Entra": "JULIAN OSORIO",
+   "camiseta": "40",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "67539",
+   "Jug_Sale": "MATIAS NICOLAS RODRIGUEZ",
+   "CarneEntra": "53617",
+   "Jug_Entra": "MAXIMILIANO MONTERO",
+   "camiseta": "31",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58715",
+   "Jug_Sale": "JUAN SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "60673",
+   "Jug_Entra": "EZEQUIEL CASTAINGTS",
+   "camiseta": "34",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "34990",
+   "Nombre": "MARTIN SORONDO",
+   "minutos": "74",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67539",
+   "Nombre": "MATIAS NICOLAS RODRIGUEZ",
+   "minutos": "10",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FELIPE FRUGONE",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

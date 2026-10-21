@@ -1,0 +1,276 @@
+{
+ "id": "99240",
+ "categoria": "reserva-d",
+ "serie": "RS32",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "ARQUITECTURA JRS.",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "392",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIV.\"D\" SERIE 1",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-05-23 13:00:00",
+  "Fecha_fin": "2026-05-23 13:00:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ARQUITECTURA JRS.",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65853",
+   "Nombre": "JUAN PEREIRA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64365",
+   "Nombre": "JUAN BAUTISTA ARRUABARRENA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "53171",
+   "Nombre": "FRANCISCO ACUÑA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "43337",
+   "Nombre": "JUAN MANUEL URTIAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "45778",
+   "Nombre": "SANTIAGO BARBEITO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53386",
+   "Nombre": "AGUSTIN CALVO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52402",
+   "Nombre": "PEDRO SCHELOTTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "52184",
+   "Nombre": "DIEGO GIBERT",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54722",
+   "Nombre": "LUCAS SCAFARELLI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "45786",
+   "Nombre": "KEVIN TAUBER",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "53378",
+   "Nombre": "NICOLAS SILVA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67481",
+   "Nombre": "DYLAN IVAN VALLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65005",
+   "Nombre": "JUAN IGNACIO MENDEZ",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "52388",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61430",
+   "Nombre": "GASTON NICOLAS DE OLIVEIRA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64726",
+   "Nombre": "JOSE VALENTIN VILA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68518",
+   "Nombre": "AGUSTIN EMANUEL ORTIZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "62016",
+   "Nombre": "MARCO TADEO CRISTINO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "58912",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61420",
+   "Nombre": "DIEGO ALEXANDER GOTTERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58911",
+   "Nombre": "NICOLAS MOSQUEIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56535",
+   "Nombre": "FRANCO NICOLAS BARCELO",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64365",
+   "Jug_Sale": "JUAN BAUTISTA ARRUABARRENA",
+   "CarneEntra": "48445",
+   "Jug_Entra": "JUAN MANUEL DONDAN",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53386",
+   "Jug_Sale": "AGUSTIN CALVO",
+   "CarneEntra": "45772",
+   "Jug_Entra": "LUCAS POMI",
+   "camiseta": "56",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54722",
+   "Jug_Sale": "LUCAS SCAFARELLI",
+   "CarneEntra": "53623",
+   "Jug_Entra": "IGNACIO AÑON",
+   "camiseta": "76",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "52402",
+   "Jug_Sale": "PEDRO SCHELOTTO",
+   "CarneEntra": "62873",
+   "Jug_Entra": "MATEO AGUSTIN ARDENTE",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52184",
+   "Jug_Sale": "DIEGO GIBERT",
+   "CarneEntra": "49009",
+   "Jug_Entra": "FACUNDO ACUÑA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48445",
+   "Jug_Sale": "JUAN MANUEL DONDAN",
+   "CarneEntra": "52810",
+   "Jug_Entra": "ISMAEL VERA",
+   "camiseta": "30",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56535",
+   "Jug_Sale": "FRANCO NICOLAS BARCELO",
+   "CarneEntra": "58675",
+   "Jug_Entra": "CARMELO COCCO",
+   "camiseta": "81",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "58912",
+   "Jug_Sale": "SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "56755",
+   "Jug_Entra": "PABLO MARTIN ABREU",
+   "camiseta": "23",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "65005",
+   "Jug_Sale": "JUAN IGNACIO MENDEZ",
+   "CarneEntra": "59561",
+   "Jug_Entra": "FRANCISCO PLATEIRO",
+   "camiseta": "42",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "68518",
+   "Jug_Sale": "AGUSTIN EMANUEL ORTIZ",
+   "CarneEntra": "56535",
+   "Jug_Entra": "FRANCO NICOLAS BARCELO",
+   "camiseta": "77",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45772",
+   "Nombre": "LUCAS POMI",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58911",
+   "Nombre": "NICOLAS MOSQUEIRA",
+   "minutos": "32",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61420",
+   "Nombre": "DIEGO ALEXANDER GOTTERO",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,302 @@
+{
+ "id": "98783",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "E.L.F.",
+ "visitante": "LA BLANQUEADA",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "273",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-05-16 13:15:00",
+  "Fecha_fin": "2026-05-16 13:15:00",
+  "Locatario": "E.L.F.",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "LA BLANQUEADA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "41722",
+   "Nombre": "NICOLAS FREYER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38084",
+   "Nombre": "GUILLERMO RODRIGUEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "54930",
+   "Nombre": "JUAN PEDRO MICHELINI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "41367",
+   "Nombre": "FRANCISCO BARTESAGHI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "56280",
+   "Nombre": "SEBASTIAN MACHIN",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52276",
+   "Nombre": "SANTIAGO CARAVIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "43672",
+   "Nombre": "ALEJO CORRADI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "48949",
+   "Nombre": "IGNACIO JOSE PALLAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49458",
+   "Nombre": "GUZMAN RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "47572",
+   "Nombre": "FACUNDO MACRI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "46858",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "51935",
+   "Nombre": "SANTIAGO PAGANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54193",
+   "Nombre": "GASTON LOMBARDO",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "44550",
+   "Nombre": "FEDERICO JAVIER DE SIANO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "49915",
+   "Nombre": "GASTON GUTIERREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "56438",
+   "Nombre": "MARTIN CALERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47808",
+   "Nombre": "SANTIAGO FERNANDO IRURTIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51623",
+   "Nombre": "FEDERICO VELAZQUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53167",
+   "Nombre": "LUCA CORRALES",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55996",
+   "Nombre": "LUCIANO AGUSTIN ARAMBURU",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "50980",
+   "Nombre": "IGNACIO VELAZQUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "52034",
+   "Nombre": "DANIEL BLANCHARD",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "47572",
+   "Jug_Sale": "FACUNDO MACRI",
+   "CarneEntra": "44457",
+   "Jug_Entra": "BRUNO GIORDANO",
+   "camiseta": "21",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "46858",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "47483",
+   "Jug_Entra": "EMMANUEL KAKLOUK",
+   "camiseta": "23",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "52276",
+   "Jug_Sale": "SANTIAGO CARAVIA",
+   "CarneEntra": "42786",
+   "Jug_Entra": "MATEO CORRADI",
+   "camiseta": "10",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "38084",
+   "Jug_Sale": "GUILLERMO RODRIGUEZ",
+   "CarneEntra": "46978",
+   "Jug_Entra": "IGNACIO TASSANI",
+   "camiseta": "18",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "41367",
+   "Jug_Sale": "FRANCISCO BARTESAGHI",
+   "CarneEntra": "51153",
+   "Jug_Entra": "GUZMAN FEDERICO OEHLER",
+   "camiseta": "4",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "49458",
+   "Jug_Sale": "GUZMAN RODRIGUEZ",
+   "CarneEntra": "43242",
+   "Jug_Entra": "FRANCO PASARISA",
+   "camiseta": "28",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "56280",
+   "Jug_Sale": "SEBASTIAN MACHIN",
+   "CarneEntra": "47469",
+   "Jug_Entra": "MATEO AGUILAR",
+   "camiseta": "13",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "44550",
+   "Jug_Sale": "FEDERICO JAVIER DE SIANO",
+   "CarneEntra": "53692",
+   "Jug_Entra": "SANTIAGO VILAS",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47808",
+   "Jug_Sale": "SANTIAGO FERNANDO IRURTIA",
+   "CarneEntra": "48353",
+   "Jug_Entra": "TOMAS ARAMENDI",
+   "camiseta": "5",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "53167",
+   "Jug_Sale": "LUCA CORRALES",
+   "CarneEntra": "51381",
+   "Jug_Entra": "DIEGO MARTIN SUAREZ",
+   "camiseta": "36",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "56438",
+   "Jug_Sale": "MARTIN CALERO",
+   "CarneEntra": "53316",
+   "Jug_Entra": "SANTIAGO NAHUEL NUÑEZ",
+   "camiseta": "23",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "55996",
+   "Jug_Sale": "LUCIANO AGUSTIN ARAMBURU",
+   "CarneEntra": "50979",
+   "Jug_Entra": "MATIAS TOURNIER",
+   "camiseta": "21",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "41367",
+   "Nombre": "FRANCISCO BARTESAGHI",
+   "minutos": "42",
+   "EnContra": "0"
+  },
+  {
+   "carne": "46858",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "minutos": "46",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "50980",
+   "Nombre": "IGNACIO VELAZQUEZ",
+   "minutos": "84",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FACUNDO MACRI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "DANIEL BLANCHARD",
+   "observaciones": ""
+  }
+ ]
+}

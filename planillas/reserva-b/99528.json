@@ -1,0 +1,293 @@
+{
+ "id": "99528",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SANTA ELENA LAGOMAR",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "176",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-30 13:05:00",
+  "Fecha_fin": "2026-05-30 13:05:00",
+  "Locatario": "SANTA ELENA LAGOMAR",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61170",
+   "Nombre": "THIAGO HANDERSSON",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "47341",
+   "Nombre": "MATEO BACHINO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "46160",
+   "Nombre": "MATIAS GABRIEL BERNADA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47329",
+   "Nombre": "OCTAVIO SUM",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47333",
+   "Nombre": "JOAQUIN GAI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49388",
+   "Nombre": "FRANCO GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47338",
+   "Nombre": "JOAQUIN KAPITAN",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "49231",
+   "Nombre": "AGUSTIN MATEO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "50198",
+   "Nombre": "MATHIAS RAMILO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49243",
+   "Nombre": "IGNACIO JAVIER GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "49579",
+   "Nombre": "GUILLERMO VOLA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59480",
+   "Nombre": "ENZO LEON FREYER",
+   "camiseta": "57",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52135",
+   "Nombre": "LUCAS FONTES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "55630",
+   "Nombre": "SEBASTIAN ALEXIS YANES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "51785",
+   "Nombre": "SEBASTIAN VIGIL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "47916",
+   "Nombre": "MARTIN MENDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55606",
+   "Nombre": "GONZALO CHIESA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "47472",
+   "Nombre": "JUAN PABLO PLA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "44165",
+   "Nombre": "FEDERICO ABDO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49243",
+   "Jug_Sale": "IGNACIO JAVIER GONZALEZ",
+   "CarneEntra": "49209",
+   "Jug_Entra": "FEDERICO JOSE ERDOS",
+   "camiseta": "25",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "46160",
+   "Jug_Sale": "MATIAS GABRIEL BERNADA",
+   "CarneEntra": "47523",
+   "Jug_Entra": "IVAN NICOLAS PASTORINO",
+   "camiseta": "5",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "49579",
+   "Jug_Sale": "GUILLERMO VOLA",
+   "CarneEntra": "49234",
+   "Jug_Entra": "MANUEL SELAYARAN",
+   "camiseta": "3",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "49231",
+   "Jug_Sale": "AGUSTIN MATEO",
+   "CarneEntra": "49216",
+   "Jug_Entra": "RAFAEL PEREZ",
+   "camiseta": "9",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "47338",
+   "Jug_Sale": "JOAQUIN KAPITAN",
+   "CarneEntra": "45379",
+   "Jug_Entra": "LUIS MATIAS BELDERRAIN",
+   "camiseta": "17",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "47333",
+   "Jug_Sale": "JOAQUIN GAI",
+   "CarneEntra": "53101",
+   "Jug_Entra": "ROBERTO FRANCISCO PORTA",
+   "camiseta": "0",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "50198",
+   "Jug_Sale": "MATHIAS RAMILO",
+   "CarneEntra": "50872",
+   "Jug_Entra": "AGUSTIN  SANTIAGO RODRIGUEZ",
+   "camiseta": "21",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "55606",
+   "Jug_Sale": "GONZALO CHIESA",
+   "CarneEntra": "56779",
+   "Jug_Entra": "JOAQUIN ELOLA",
+   "camiseta": "11",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "52135",
+   "Jug_Sale": "LUCAS FONTES",
+   "CarneEntra": "43681",
+   "Jug_Entra": "SANTIAGO PAPA",
+   "camiseta": "31",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "59477",
+   "Jug_Sale": "NICOLAS PEDRO STEPANIUK",
+   "CarneEntra": "67243",
+   "Jug_Entra": "SEBASTIAN ROSSO",
+   "camiseta": "20",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "44165",
+   "Jug_Sale": "FEDERICO ABDO",
+   "CarneEntra": "56970",
+   "Jug_Entra": "SANTIAGO LAMBERT",
+   "camiseta": "17",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "57184",
+   "Jug_Sale": "MARCO ESTEBAN TORIELLI",
+   "CarneEntra": "51278",
+   "Jug_Entra": "GUILLERMO AGUSTIN BELANDO",
+   "camiseta": "3",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "47461",
+   "Jug_Sale": "AGUSTIN DE LOS SALNTOS",
+   "CarneEntra": "62269",
+   "Jug_Entra": "SEBASTIAN GEHR",
+   "camiseta": "29",
+   "minutos": "58"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "47916",
+   "Nombre": "MARTIN MENDEZ",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "55606",
+   "Nombre": "GONZALO CHIESA",
+   "minutos": "48",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

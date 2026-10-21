@@ -1,0 +1,254 @@
+{
+ "id": "101659",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS VERDE",
+ "visitante": "SANTA ELENA LAGOMAR",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "212",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-09-05 13:15:00",
+  "Fecha_fin": "2026-09-05 13:15:00",
+  "Locatario": "OLD CHRISTIANS VERDE",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "SANTA ELENA LAGOMAR",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68491",
+   "Nombre": "MARCOS SEIGAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35673",
+   "Nombre": "ALBERTO JERONIMO NOGUERA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52623",
+   "Nombre": "ALEJO PARODI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "51736",
+   "Nombre": "PEDRO HINSCH",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "44029",
+   "Nombre": "TOMAS SANTIAGO SLINGER",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "49487",
+   "Nombre": "FACUNDO MARTIN CRUCE",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "39754",
+   "Nombre": "JOAQUIN FEDERICO SLINGER",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "53976",
+   "Nombre": "MATEO STORACE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52966",
+   "Nombre": "LUCAS FRANCISCO PRESSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "55214",
+   "Nombre": "BAUTISTA RAFAEL LADOUX",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67388",
+   "Nombre": "SANTIAGO BERTORELLI",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61170",
+   "Nombre": "THIAGO HANDERSSON",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "46160",
+   "Nombre": "MATIAS GABRIEL BERNADA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "47523",
+   "Nombre": "IVAN NICOLAS PASTORINO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "47329",
+   "Nombre": "OCTAVIO SUM",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "47333",
+   "Nombre": "JOAQUIN GAI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "49388",
+   "Nombre": "FRANCO GONZALEZ",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49231",
+   "Nombre": "AGUSTIN MATEO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "47586",
+   "Nombre": "JUAN BAUTISTA NOVO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "49216",
+   "Nombre": "RAFAEL PEREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "49243",
+   "Nombre": "IGNACIO JAVIER GONZALEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45379",
+   "Nombre": "LUIS MATIAS BELDERRAIN",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "39754",
+   "Jug_Sale": "JOAQUIN FEDERICO SLINGER",
+   "CarneEntra": "56746",
+   "Jug_Entra": "JOAQUIN REINANTE",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52966",
+   "Jug_Sale": "LUCAS FRANCISCO PRESSO",
+   "CarneEntra": "37067",
+   "Jug_Entra": "TOMAS BERRO",
+   "camiseta": "93",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "53976",
+   "Jug_Sale": "MATEO STORACE",
+   "CarneEntra": "60425",
+   "Jug_Entra": "FACUNDO STURLA",
+   "camiseta": "2",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "47586",
+   "Jug_Sale": "JUAN BAUTISTA NOVO",
+   "CarneEntra": "47341",
+   "Jug_Entra": "MATEO BACHINO",
+   "camiseta": "16",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "49243",
+   "Jug_Sale": "IGNACIO JAVIER GONZALEZ",
+   "CarneEntra": "53101",
+   "Jug_Entra": "ROBERTO FRANCISCO PORTA",
+   "camiseta": "41",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "49216",
+   "Jug_Sale": "RAFAEL PEREZ",
+   "CarneEntra": "65031",
+   "Jug_Entra": "EDUARDO MANUEL SANTOS",
+   "camiseta": "41",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "46160",
+   "Jug_Sale": "MATIAS GABRIEL BERNADA",
+   "CarneEntra": "49234",
+   "Jug_Entra": "MANUEL SELAYARAN",
+   "camiseta": "91",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "49231",
+   "Jug_Sale": "AGUSTIN MATEO",
+   "CarneEntra": "53880",
+   "Jug_Entra": "EROS CABALLERO",
+   "camiseta": "31",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53976",
+   "Nombre": "MATEO STORACE",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "49388",
+   "Nombre": "FRANCO GONZALEZ",
+   "minutos": "64",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

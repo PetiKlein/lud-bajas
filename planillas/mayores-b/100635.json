@@ -1,0 +1,290 @@
+{
+ "id": "100635",
+ "categoria": "mayores-b",
+ "serie": "B",
+ "fecha": 11,
+ "fechaHora": "2026-06-28 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "CITY PARK",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "207",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-28 10:53:00",
+  "Fecha_fin": "2026-06-28 10:53:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CITY PARK",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47699",
+   "Nombre": "VALENTIN ROSSI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "51840",
+   "Nombre": "AGUSTIN CABALLERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "45391",
+   "Nombre": "FELIPE MOROSOFF",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "42648",
+   "Nombre": "AGUSTIN JOSE PODESTA",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50770",
+   "Nombre": "SANTIAGO IGNACIO FILGUEIRAS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56653",
+   "Nombre": "JOAQUIN CUBON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56810",
+   "Nombre": "JUAN IGNACIO ABATE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "51214",
+   "Nombre": "FACUNDO MIRANDA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62732",
+   "Nombre": "JOAQUIN AFONSO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "50934",
+   "Nombre": "JUAN IGNACIO MOLFINO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "43095",
+   "Nombre": "FACUNDO SEBASTIAN LÒPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39513",
+   "Nombre": "AGUSTIN BETANCOR",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64485",
+   "Nombre": "ALEX NAHUEL ABALO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "39313",
+   "Nombre": "AGUSTIN PEREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "42749",
+   "Nombre": "LUCAS BAEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "40368",
+   "Nombre": "PEDRO COSTA",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37305",
+   "Nombre": "LUCAS FIGUEROA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "52463",
+   "Nombre": "FACUNDO ALZAIBAR",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "38481",
+   "Nombre": "AGUSTIN MATEO RUIZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "33967",
+   "Nombre": "ANDRES YAFFE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "32802",
+   "Nombre": "SANTIAGO FUENTES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58113",
+   "Nombre": "BRUNO AGUSTIN ACOSTA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50770",
+   "Jug_Sale": "SANTIAGO IGNACIO FILGUEIRAS",
+   "CarneEntra": "55671",
+   "Jug_Entra": "JOAQUIN GUSTAVO MIGUES",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62732",
+   "Jug_Sale": "JOAQUIN AFONSO",
+   "CarneEntra": "51200",
+   "Jug_Entra": "LUCAS EXEQUIEL GUERRERO",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50934",
+   "Jug_Sale": "JUAN IGNACIO MOLFINO",
+   "CarneEntra": "56731",
+   "Jug_Entra": "JOAQUIN MAYER",
+   "camiseta": "80",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "51214",
+   "Jug_Sale": "FACUNDO MIRANDA",
+   "CarneEntra": "54010",
+   "Jug_Entra": "TOMAS NAHUEL MANCINI",
+   "camiseta": "30",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "42648",
+   "Jug_Sale": "AGUSTIN JOSE PODESTA",
+   "CarneEntra": "21536",
+   "Jug_Entra": "FRANCISCO SEBASTIAN FRONTINI",
+   "camiseta": "70",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "56810",
+   "Jug_Sale": "JUAN IGNACIO ABATE",
+   "CarneEntra": "42509",
+   "Jug_Entra": "JUAN PABLO MUÑOZ",
+   "camiseta": "10",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52463",
+   "Jug_Sale": "FACUNDO ALZAIBAR",
+   "CarneEntra": "49901",
+   "Jug_Entra": "LEANDRO JAVIER PEREZ",
+   "camiseta": "31",
+   "minutos": "33"
+  },
+  {
+   "CarneSale": "58113",
+   "Jug_Sale": "BRUNO AGUSTIN ACOSTA",
+   "CarneEntra": "30486",
+   "Jug_Entra": "SANTIAGO IVAN DE FREITAS",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42749",
+   "Jug_Sale": "LUCAS BAEZ",
+   "CarneEntra": "58113",
+   "Jug_Entra": "BRUNO AGUSTIN ACOSTA",
+   "camiseta": "9",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "37305",
+   "Jug_Sale": "LUCAS FIGUEROA",
+   "CarneEntra": "37077",
+   "Jug_Entra": "MATEO RODRIGUEZ",
+   "camiseta": "33",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "37077",
+   "Jug_Sale": "MATEO RODRIGUEZ",
+   "CarneEntra": "37305",
+   "Jug_Entra": "LUCAS FIGUEROA",
+   "camiseta": "32",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43095",
+   "Nombre": "FACUNDO SEBASTIAN LÒPEZ",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "43095",
+   "Nombre": "FACUNDO SEBASTIAN LÒPEZ",
+   "minutos": "95",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51214",
+   "Nombre": "FACUNDO MIRANDA",
+   "minutos": "83",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "32802",
+   "Nombre": "SANTIAGO FUENTES",
+   "minutos": "18",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

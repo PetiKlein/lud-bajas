@@ -1,0 +1,296 @@
+{
+ "id": "101223",
+ "categoria": "reserva-c",
+ "serie": "RS31",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "COMPLEJO DEVOTO",
+ "local": "WANDERERS",
+ "visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "271",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DEVOTO",
+  "Fecha_Inicio": "2026-08-29 00:00:00",
+  "Fecha_fin": "2026-08-29 00:00:00",
+  "Locatario": "WANDERERS",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57434",
+   "Nombre": "GONZALO ANDRES SANGUINETTI",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "66823",
+   "Nombre": "JOSE PABLO ANTUNEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "51001",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45274",
+   "Nombre": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59153",
+   "Nombre": "MARCOS VALENTIN GONZALEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "55308",
+   "Nombre": "JUAN MARTIN MALDONADO",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56585",
+   "Nombre": "TADEO IBAÑEZ",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "43616",
+   "Nombre": "SANTIAGO VEGLIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63183",
+   "Nombre": "MATEO REDIN",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "61300",
+   "Nombre": "LUCIANO DA SILVA",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52990",
+   "Nombre": "NICOLAS FEDERICO DIAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40019",
+   "Nombre": "RODRIGO TEJERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "52775",
+   "Nombre": "BRIAN EMANUEL MADERA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61951",
+   "Nombre": "EZEQUIEL BRITOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "52772",
+   "Nombre": "IGNACIO ELIZEIRE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "52987",
+   "Nombre": "RENZO GUZMAN RAMAGLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56514",
+   "Nombre": "BRUNO DI TOMASSO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "52357",
+   "Nombre": "BRUNO PASTORINI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57708",
+   "Nombre": "VALENTIN CUÑA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59869",
+   "Nombre": "LUKAS BERNARD KASEK",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67716",
+   "Nombre": "FABRIZIO ZANELLI",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66823",
+   "Jug_Sale": "JOSE PABLO ANTUNEZ",
+   "CarneEntra": "56589",
+   "Jug_Entra": "DARIO EMANUEL ARCHONDO",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59153",
+   "Jug_Sale": "MARCOS VALENTIN GONZALEZ",
+   "CarneEntra": "64727",
+   "Jug_Entra": "BENJAMIN AGUSTIN DIAZ",
+   "camiseta": "58",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "66607",
+   "Jug_Sale": "ALEXIS COLO",
+   "CarneEntra": "66824",
+   "Jug_Entra": "GABRIEL HERNANDEZ",
+   "camiseta": "16",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "56585",
+   "Jug_Sale": "TADEO IBAÑEZ",
+   "CarneEntra": "46318",
+   "Jug_Entra": "FACUNDO DEBENEDETTI",
+   "camiseta": "92",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "43616",
+   "Jug_Sale": "SANTIAGO VEGLIO",
+   "CarneEntra": "59917",
+   "Jug_Entra": "LUCAS BALTAZAR GARCIA",
+   "camiseta": "61",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "61300",
+   "Jug_Sale": "LUCIANO DA SILVA",
+   "CarneEntra": "67693",
+   "Jug_Entra": "ANDRES ELIAS MEJIA",
+   "camiseta": "29",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "45274",
+   "Jug_Sale": "ALEJANDRO GABRIEL MORALES",
+   "CarneEntra": "67264",
+   "Jug_Entra": "IGNACIO KWAME MACHADO",
+   "camiseta": "26",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56514",
+   "Jug_Sale": "BRUNO DI TOMASSO",
+   "CarneEntra": "32028",
+   "Jug_Entra": "FACUNDO RODRIGUEZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59869",
+   "Jug_Sale": "LUKAS BERNARD KASEK",
+   "CarneEntra": "69015",
+   "Jug_Entra": "SANTIAGO REMEDIOS",
+   "camiseta": "19",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "57708",
+   "Jug_Sale": "VALENTIN CUÑA",
+   "CarneEntra": "57708",
+   "Jug_Entra": "VALENTIN CUÑA",
+   "camiseta": "5",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "67716",
+   "Jug_Sale": "FABRIZIO ZANELLI",
+   "CarneEntra": "59869",
+   "Jug_Entra": "LUKAS BERNARD KASEK",
+   "camiseta": "9",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55308",
+   "Nombre": "JUAN MARTIN MALDONADO",
+   "minutos": "73",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56589",
+   "Nombre": "DARIO EMANUEL ARCHONDO",
+   "minutos": "68",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56589",
+   "Nombre": "DARIO EMANUEL ARCHONDO",
+   "minutos": "83",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61300",
+   "Nombre": "LUCIANO DA SILVA",
+   "minutos": "31",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "52357",
+   "Nombre": "BRUNO PASTORINI",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

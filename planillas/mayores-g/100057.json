@@ -1,0 +1,265 @@
+{
+ "id": "100057",
+ "categoria": "mayores-g",
+ "serie": "G",
+ "fecha": 9,
+ "fechaHora": "2026-06-14 09:00:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "RIVER PLATE UNIVERSITARIO",
+ "visitante": "NUESTRA SEÑORA DE LOURDES",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "791",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAYORES",
+  "categoria": "MAYORES MASCULINO",
+  "rueda": "1",
+  "Divisional": "DIVISIONAL \"G\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-06-14 11:00:00",
+  "Fecha_fin": "2026-06-14 11:00:00",
+  "Locatario": "RIVER PLATE UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "NUESTRA SEÑORA DE LOURDES",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66259",
+   "Nombre": "LUCIO GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "55311",
+   "Nombre": "LUCAS SIRIO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45684",
+   "Nombre": "RODRIGO FRANCISCO LEZAMA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67278",
+   "Nombre": "JOEL NICOLAS CORREA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67044",
+   "Nombre": "AGUSTIN JESUS CASTRO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62162",
+   "Nombre": "LAUTARO RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67045",
+   "Nombre": "JEAN PAUL CULSHAW",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67047",
+   "Nombre": "FRANCO GODOY",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67393",
+   "Nombre": "SANTIAGO BELOQUI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67280",
+   "Nombre": "SANTIAGO ORTIZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56805",
+   "Nombre": "FACUNDO NAHUEL SILVA",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "41455",
+   "Nombre": "ANGEL JOSE VIDAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49555",
+   "Nombre": "IGNACIO CHOPITEA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66838",
+   "Nombre": "FACUNDO NICOLAS LOUSTAU",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "38929",
+   "Nombre": "CARLOS FEDERICO SUAREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57085",
+   "Nombre": "MARCO ABDO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "32230",
+   "Nombre": "FEDERICO DEL NEGRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64190",
+   "Nombre": "PABLO MATIAS OLIVERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "37713",
+   "Nombre": "VALENTIN SANCHEZ",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46405",
+   "Nombre": "IGNACIO DANIEL MASSIOLO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "37753",
+   "Nombre": "DANIEL FEDERICO ARNOULD",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65342",
+   "Nombre": "IGNACIO FEDERICO NUÑEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67044",
+   "Jug_Sale": "AGUSTIN JESUS CASTRO",
+   "CarneEntra": "52015",
+   "Jug_Entra": "MARIO JAVIER BERGARA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67045",
+   "Jug_Sale": "JEAN PAUL CULSHAW",
+   "CarneEntra": "67043",
+   "Jug_Entra": "GERMAN CARUSO",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56805",
+   "Jug_Sale": "FACUNDO NAHUEL SILVA",
+   "CarneEntra": "21571",
+   "Jug_Entra": "GABRIEL SUAREZ",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67393",
+   "Jug_Sale": "SANTIAGO BELOQUI",
+   "CarneEntra": "67047",
+   "Jug_Entra": "FRANCO GODOY",
+   "camiseta": "0",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37753",
+   "Jug_Sale": "DANIEL FEDERICO ARNOULD",
+   "CarneEntra": "46015",
+   "Jug_Entra": "GUILLERMO ESPINEL",
+   "camiseta": "19",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "64190",
+   "Jug_Sale": "PABLO MATIAS OLIVERA",
+   "CarneEntra": "46879",
+   "Jug_Entra": "JOAQUIN PIÑEIRO",
+   "camiseta": "14",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "65342",
+   "Jug_Sale": "IGNACIO FEDERICO NUÑEZ",
+   "CarneEntra": "53580",
+   "Jug_Entra": "IGNACIO NICOLAS CIFUENTES",
+   "camiseta": "31",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "38929",
+   "Jug_Sale": "CARLOS FEDERICO SUAREZ",
+   "CarneEntra": "66246",
+   "Jug_Entra": "MATHIAS NICOLAS MOREIRA",
+   "camiseta": "52",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "37753",
+   "Nombre": "DANIEL FEDERICO ARNOULD",
+   "minutos": "34",
+   "EnContra": "1"
+  },
+  {
+   "carne": "37753",
+   "Nombre": "DANIEL FEDERICO ARNOULD",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46015",
+   "Nombre": "GUILLERMO ESPINEL",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65342",
+   "Nombre": "IGNACIO FEDERICO NUÑEZ",
+   "minutos": "62",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

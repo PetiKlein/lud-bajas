@@ -1,0 +1,286 @@
+{
+ "id": "97992",
+ "categoria": "reserva-b",
+ "serie": "RS2",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 11:15:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "125",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "RESERVA",
+  "categoria": "RESERVA MASCULINO",
+  "rueda": "1",
+  "Divisional": "RESERVA DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-04-11 13:15:00",
+  "Fecha_fin": "2026-04-11 13:15:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "28315",
+   "Nombre": "EMILIANO DE LOS SANTOS",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "54617",
+   "Nombre": "TOMAS DIAZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48966",
+   "Nombre": "IGNACIO FABIAN BOLLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "47104",
+   "Nombre": "MATIAS FLORENCIO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "48997",
+   "Nombre": "LORENZO NICOLAS RODRIGUEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54868",
+   "Nombre": "MAXIMILIANO ROMAY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "47116",
+   "Nombre": "SANTIAGO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47100",
+   "Nombre": "JOAQUIN PALABES",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "43124",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "46518",
+   "Nombre": "MAURO GERMAN GRECCO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "66028",
+   "Nombre": "MATEO AGUSTIN CHAKIYIN",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59480",
+   "Nombre": "ENZO LEON FREYER",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "57184",
+   "Nombre": "MARCO ESTEBAN TORIELLI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59477",
+   "Nombre": "NICOLAS PEDRO STEPANIUK",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "51785",
+   "Nombre": "SEBASTIAN VIGIL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "56779",
+   "Nombre": "JOAQUIN ELOLA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65964",
+   "Nombre": "BRUNO QUINELES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49808",
+   "Nombre": "BRUNO FERNANDEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "55606",
+   "Nombre": "GONZALO CHIESA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "55665",
+   "Nombre": "MATIAS VALSANGIACOMO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "47461",
+   "Nombre": "AGUSTIN DE LOS SALNTOS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "53458",
+   "Nombre": "SANTIAGO SPARKOV",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46518",
+   "Jug_Sale": "MAURO GERMAN GRECCO",
+   "CarneEntra": "53212",
+   "Jug_Entra": "IONAS PATRICIO JOSPONIS",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47116",
+   "Jug_Sale": "SANTIAGO RODRIGUEZ",
+   "CarneEntra": "46054",
+   "Jug_Entra": "FEDERICO ALALUF",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66028",
+   "Jug_Sale": "MATEO AGUSTIN CHAKIYIN",
+   "CarneEntra": "43121",
+   "Jug_Entra": "SIRO PIALI",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43124",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "46466",
+   "Jug_Entra": "PABLO JOAQUIN GATTO",
+   "camiseta": "96",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "48997",
+   "Jug_Sale": "LORENZO NICOLAS RODRIGUEZ",
+   "CarneEntra": "41292",
+   "Jug_Entra": "KEVIN FABRICIO VIDARTE",
+   "camiseta": "89",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59477",
+   "Jug_Sale": "NICOLAS PEDRO STEPANIUK",
+   "CarneEntra": "53447",
+   "Jug_Entra": "SANTIAGO RAMON URQUIZA",
+   "camiseta": "21",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "55606",
+   "Jug_Sale": "GONZALO CHIESA",
+   "CarneEntra": "47916",
+   "Jug_Entra": "MARTIN MENDEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55665",
+   "Jug_Sale": "MATIAS VALSANGIACOMO",
+   "CarneEntra": "51004",
+   "Jug_Entra": "AGUSTIN NICOLAS CHARLO",
+   "camiseta": "4",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "65964",
+   "Jug_Sale": "BRUNO QUINELES",
+   "CarneEntra": "56970",
+   "Jug_Entra": "SANTIAGO LAMBERT",
+   "camiseta": "7",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "47461",
+   "Jug_Sale": "AGUSTIN DE LOS SALNTOS",
+   "CarneEntra": "53999",
+   "Jug_Entra": "JUAN IGNACIO PORTA",
+   "camiseta": "69",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "53458",
+   "Jug_Sale": "SANTIAGO SPARKOV",
+   "CarneEntra": "67240",
+   "Jug_Entra": "JUAN MARTIN FAUST",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "57184",
+   "Jug_Sale": "MARCO ESTEBAN TORIELLI",
+   "CarneEntra": "47453",
+   "Jug_Entra": "FEDERICO IZA",
+   "camiseta": "2",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47104",
+   "Nombre": "MATIAS FLORENCIO",
+   "minutos": "94",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55606",
+   "Nombre": "GONZALO CHIESA",
+   "minutos": "40",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}
