@@ -1,0 +1,17 @@
+name: Explorar (temporal)
+on:
+  push:
+    branches: [sanciones]
+    paths: ['tmp/probe.sh']
+permissions:
+  contents: write
+jobs:
+  p:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - run: bash tmp/probe.sh
+      - run: |
+          git config user.name github-actions; git config user.email github-actions@users.noreply.github.com
+          git add -f tmp && git commit -m "exploración" && git push
