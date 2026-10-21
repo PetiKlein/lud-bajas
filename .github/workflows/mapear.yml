@@ -16,4 +16,4 @@ jobs:
       - run: node tmp/mapear.mjs
       - run: |
           git config user.name github-actions; git config user.email github-actions@users.noreply.github.com
-          git add tmp/mapa.json && git commit -m "Mapa de divisionales" && git push
+          git add tmp/mapa*.json && git commit -m "Mapa de divisionales" && git push
