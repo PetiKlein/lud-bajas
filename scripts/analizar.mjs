@@ -31,7 +31,18 @@ function analizarEquipo(p, lado, fin) {
   };
 
   if (titulares.length !== 11) problemas.push(`${titulares.length} titulares en la planilla (deberían ser 11).`);
-  for (const t of titulares) {
+  // Con más de 11 "titulares" la planilla suele estar anotando suplentes como titulares. Los que
+  // después aparecen entrando en un cambio se toman como suplentes.
+  const entran = new Set(cambios.map(c => c.CarneEntra));
+  let lista = titulares;
+  if (titulares.length > 11) {
+    const suplentes = titulares.filter(t => entran.has(t.carne));
+    if (suplentes.length) {
+      lista = titulares.filter(t => !entran.has(t.carne));
+      problemas.push(`Se tomaron como suplentes ${suplentes.map(t => lindo(t.Nombre)).join(', ')}: figuran como titulares pero después entran en un cambio.`);
+    }
+  }
+  for (const t of lista) {
     if (j[t.carne]) { problemas.push(`${lindo(t.Nombre)} figura dos veces entre los titulares.`); continue; }
     const x = get(t.carne, t.Nombre, t.camiseta);
     x.titular = true; x.capitan = !!t.Capitan?.trim(); x.desde = 0;
@@ -150,9 +161,11 @@ function alertasDeEquipo(equipo, lista, jugadores) {
         texto: `Expulsado contra ${ultJugado.rival}; ${seguidos === 1 ? 'no jugó el partido siguiente' : `lleva ${seguidos} partidos sin jugar`}. Probable suspensión.` });
       continue;
     }
-    const salioTemprano = x && x.sale != null && x.sale < 60;
+    // Salir antes del entretiempo y no jugar el siguiente huele a lesión. Un cambio en el entretiempo
+    // (45') o poco después suele ser táctico: se menciona, pero no sube el nivel.
+    const salioTemprano = x && x.sale != null && x.sale < 45;
     let texto = seguidos === 1 ? `Titular habitual, no jugó contra ${ult.rival}.` : `Titular habitual, lleva ${seguidos} partidos sin jugar.`;
-    if (salioTemprano) texto += ` En su último partido (vs ${ultJugado.rival}) salió a los ${x.sale}'.`;
+    if (x && x.sale != null && x.sale < 60) texto += ` En su último partido (vs ${ultJugado.rival}) salió a los ${x.sale}'.`;
     add(c, { tipo: salioTemprano ? 'lesion-probable' : 'no-jugo', nivel: salioTemprano || seguidos >= 2 ? 'alta' : 'media', sinJugar: seguidos, texto });
   }
 
