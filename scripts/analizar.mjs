@@ -194,7 +194,13 @@ function global(estados) {
     });
   }
   for (const l of Object.values(sanciones)) l.sort((a, b) => b.fecha.localeCompare(a.fecha));
-  return { porDiv, apariciones, sanciones, nombre };
+  // Resultados por par de clubes (para el cara a cara).
+  const porClub = {};
+  for (const st of estados) for (const p of st.partidos) {
+    const k = `${claveClub(clubDe(p.local))}|${claveClub(clubDe(p.visitante))}`;
+    (porClub[k] ??= []).push({ div: st.cat.id, id: p.id, dia: p.dia, etapa: p.etapa, local: p.local, visitante: p.visitante, gl: p.gl, gv: p.gv, planilla: p.planilla ? 1 : 0 });
+  }
+  return { porDiv, apariciones, sanciones, nombre, porClub, clubes: {} };
 }
 
 const NOMBRE_DIV = Object.fromEntries(DIVISIONALES.map(d => [d.id, d.nombre]));
@@ -409,6 +415,57 @@ function cargar(cat) {
   return { cat, partidos, porEquipo, jugadores, sinPlanilla, proximo, calidad };
 }
 
+// ---------- clubes: el mismo club juega con distintos nombres según la categoría ----------
+// "Elf Blanco" (Reserva D) y "ELF" son el mismo club; "Old Christians Azul" también es Old Christians.
+const ALIAS_CLUB = {
+  'Obc Azulgrana.': 'Old Boys', 'Seminario Universitario': 'Seminario', 'C. U. Catolica Azul': 'Club Universidad Catolica',
+  'Dfc': 'Danubio Futbol Club', 'Juan Xxiii Blanco': 'Juan XXIII', 'Elf Blanco': 'ELF',
+};
+export function clubDe(equipo) {
+  if (ALIAS_CLUB[equipo]) return ALIAS_CLUB[equipo];
+  return equipo.replace(/\s+(azul|blanco|verde|naranja|negro|rojo|amarillo|sub\s?\d+)$/i, '');
+}
+const claveClub = c => c.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+// Once probable: titularidades de los últimos 5 partidos, pesando más los recientes.
+// Los suspendidos quedan afuera; las dudas (lesión probable, salió temprano...) pesan menos.
+function onceProbable(equipo, lista, jugadores, alertas, G) {
+  const recientes = lista.slice(-5).reverse();
+  const W = [1, 0.8, 0.65, 0.5, 0.4];
+  const total = recientes.reduce((s, _, i) => s + W[i], 0);
+  const puntos = {}, camiseta = {};
+  recientes.forEach((pt, i) => {
+    for (const [c, x] of Object.entries(pt.jugadores)) {
+      const v = x.titular ? 1 : x.minutos >= 45 ? 0.45 : x.minutos > 0 ? 0.15 : 0;
+      puntos[c] = (puntos[c] || 0) + W[i] * v;
+      if (x.camiseta && !camiseta[c]) camiseta[c] = x.camiseta;
+    }
+  });
+  const porCarne = Object.fromEntries(alertas.filter(a => a.carne).map(a => [a.carne, a]));
+  const afuera = [], candidatos = [];
+  for (const [c, pts] of Object.entries(puntos)) {
+    const a = porCarne[c];
+    const susp = a && (a.tipo === 'suspendido' || (a.tipo === 'expulsado' && a.nivel === 'alta'));
+    if (susp) { if (pts / total >= 0.3) afuera.push({ c, motivo: a.tipo === 'suspendido' ? 'Suspendido' : 'Expulsado' }); continue; }
+    // Cuánto baja la chance cada tipo de duda (los que no jugaron ya pierden peso por no estar en el último).
+    const factor = !a || a.nivel === 'baja' ? 1 : { 'lesion-probable': 0.5, 'salio-temprano': 0.8, 'no-jugo': a.nivel === 'alta' ? 0.5 : 0.75 }[a.tipo] ?? 1;
+    const duda = factor < 1 ? a.texto : null;
+    candidatos.push({ c, cam: camiseta[c] || '', pct: Math.round(pts / total * 100), duda, peso: pts * factor });
+  }
+  candidatos.sort((a, b) => b.peso - a.peso || b.pct - a.pct);
+  const once = candidatos.slice(0, 11).map(({ peso, ...x }) => x)
+    .sort((a, b) => (Number(a.cam) || 99) - (Number(b.cam) || 99));
+  const alternativas = candidatos.slice(11, 15).map(({ peso, ...x }) => x);
+  return { once, alternativas, afuera, partidos: recientes.length };
+}
+
+// Partidos de la temporada entre dos clubes, en todas las categorías que seguimos.
+function caraACara(G, l, v) {
+  const a = clubDe(l), b = clubDe(v);
+  return (G.porClub[`${claveClub(a)}|${claveClub(b)}`] || []).concat(G.porClub[`${claveClub(b)}|${claveClub(a)}`] || [])
+    .sort((x, y) => y.dia.localeCompare(x.dia));
+}
+
 // ---------- una divisional: alertas, cruces y sanciones, con lo de toda la Liga a mano ----------
 function terminar(st, G) {
   const { cat, partidos, porEquipo, jugadores, sinPlanilla, proximo, calidad } = st;
@@ -422,6 +479,22 @@ function terminar(st, G) {
       pendientes: (sinPlanilla[equipo] || []).filter(x => x.dia >= ult.dia && x.id !== ult.id && !x.wo),
       alertas: alertasDeEquipo(equipo, lista, jugadores, cat, G),
     };
+    bajas[equipo].probable = onceProbable(equipo, lista, jugadores, bajas[equipo].alertas, G);
+    // Para "Mi equipo": resumen del equipo dentro de su club.
+    const club = clubDe(equipo);
+    const resumenClub = (G.clubes[claveClub(club)] ??= { nombre: club, equipos: [] });
+    resumenClub.equipos.push({
+      div: cat.id, equipo, ultimo: bajas[equipo].ultimo, proximo: bajas[equipo].proximo, pendientes: bajas[equipo].pendientes,
+      alertas: bajas[equipo].alertas.filter(a => a.nivel !== 'baja').map(({ carne, nombre, nivel, tipo, texto }) => ({ carne, nombre, nivel, tipo, texto })),
+    });
+  }
+
+  // Previas: cara a cara de la temporada para cada partido próximo de la divisional.
+  const previas = {};
+  for (const [equipo, b] of Object.entries(bajas)) {
+    if (!b.proximo) continue;
+    const [l, v] = b.proximo.local ? [equipo, b.proximo.rival] : [b.proximo.rival, equipo];
+    previas[`${l}~${v}`] ??= { l, v, dia: b.proximo.dia, hora: b.proximo.hora, cancha: b.proximo.cancha, etapa: b.proximo.etapa, caraACara: caraACara(G, l, v) };
   }
 
   const salida = {
@@ -429,6 +502,7 @@ function terminar(st, G) {
     equipos: Object.keys(porEquipo).sort((a, b) => a.localeCompare(b)),
     jugadores, partidos, bajas, calidad,
     cruces: crucesDeDivisional(cat, porEquipo, jugadores, G),
+    previas,
     sanciones: sancionesDeDivisional(cat, jugadores, G),
     resumen: {
       partidos: partidos.length,
@@ -478,3 +552,17 @@ const indice = {
   })).filter(c => c.divisionales.length),
 };
 writeFileSync(archIndice, JSON.stringify(indice, null, 1) + '\n');
+
+// Clubes (para "Mi equipo"): cada club con sus equipos en todas las divisionales. Si se procesó solo
+// una parte (SOLO), no se pisa el archivo.
+if (!SOLO.length) {
+  const orden = Object.fromEntries(DIVISIONALES.map((d, i) => [d.id, i]));
+  const clubes = Object.fromEntries(Object.entries(G.clubes).sort((a, b) => a[1].nombre.localeCompare(b[1].nombre))
+    .map(([k, c]) => [k, { ...c, equipos: c.equipos.sort((a, b) => orden[a.div] - orden[b.div]) }]));
+  const archClubes = new URL('clubes.json', OUT);
+  let previo = null; try { previo = JSON.parse(readFileSync(archClubes)); } catch {}
+  const salidaClubes = { actualizado: new Date().toISOString(), clubes };
+  if (previo && JSON.stringify({ ...previo, actualizado: null }) === JSON.stringify({ ...salidaClubes, actualizado: null })) salidaClubes.actualizado = previo.actualizado;
+  writeFileSync(archClubes, JSON.stringify(salidaClubes));
+  console.log(`Clubes: ${Object.keys(clubes).length}.`);
+}

@@ -11,6 +11,12 @@ Página: https://petiklein.github.io/lud-bajas/
 - **Bajas:** para cada partido de la próxima fecha, los jugadores de cada equipo que pueden faltar:
   expulsados, suspendidos probables, titulares habituales que no jugaron el último partido,
   lesiones probables (salió temprano y no jugó el siguiente) y titulares que salieron antes del entretiempo.
+- **Previas:** para cada partido de la próxima fecha, el once probable de cada equipo (titulares de los
+  últimos 5 partidos, sin suspendidos y con las dudas marcadas), las bajas, cómo vienen (últimos 5),
+  el cara a cara de la temporada entre esos clubes en todas las categorías, en qué minutos hacen y
+  reciben goles, y los goleadores en racha. Se puede compartir por WhatsApp.
+- **Mi equipo:** elegís tu club una vez (queda guardado en el navegador) y la web abre directo en lo
+  tuyo: próximo partido, bajas y suspendidos de todos los equipos del club, en todas las categorías.
 - **Equipos:** plantel con partidos, titularidades, minutos, goles y los últimos 5 partidos.
 - **Jugadores:** ficha de cada uno, partido a partido (cuándo entró, cuándo salió, reingresos y goles).
 - **Partidos:** minuto a minuto y formaciones con los minutos de cada jugador.
@@ -44,8 +50,10 @@ lesionado, de viaje o de exámenes. Las suspensiones se confirman en Fallos y Pe
   (códigos de `ligauniversitaria.org.uy/config/config.json` y de las páginas de estadísticas de la Liga).
   Para sumar una divisional alcanza con agregar una línea ahí: la web la muestra sola.
   `scripts/comun.mjs` tiene la temporada y los nombres cortos.
+- El mismo club juega con nombres distintos según la categoría ("Elf Blanco", "Old Christians Azul"...):
+  `clubDe()` en `analizar.mjs` los junta, con una lista de alias para los casos raros.
 - Los datos quedan uno por divisional (`data/mayores-a.json`, `data/reserva-d.json`, ...) y
-  `data/indice.json` lista las disponibles.
+  `data/indice.json` lista las disponibles. `data/clubes.json` tiene el resumen por club para "Mi equipo".
 - Variables útiles al correr a mano: `SOLO=mayores-b,reserva-a` (solo esas divisionales),
   `REBAJAR=1` (bajar todo de nuevo), `MAX_MIN=60` (cortar la bajada a los 60 minutos y seguir en la próxima).
 - GitHub Actions (`.github/workflows/actualizar.yml`) corre todo solo el domingo a las 18:35, de lunes
