@@ -1,0 +1,19 @@
+name: Mapear divisionales (temporal)
+on:
+  push:
+    branches: [mapear]
+    paths: ['tmp/mapear.mjs']
+permissions:
+  contents: write
+jobs:
+  mapear:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with: { node-version: 22 }
+      - run: node tmp/mapear.mjs
+      - run: |
+          git config user.name github-actions; git config user.email github-actions@users.noreply.github.com
+          git add tmp/mapa.json && git commit -m "Mapa de divisionales" && git push
