@@ -129,36 +129,150 @@ function asignarGoles(p, eq, problemas) {
     problemas.push(`La planilla tiene ${golesL} gol${golesL === 1 ? '' : 'es'} del local y ${golesV} del visitante, pero el resultado es ${p.gl}-${p.gv}.`);
 }
 
+// ---------- utilidades de fechas ----------
+const diaN = d => Math.round(new Date(d + 'T12:00:00Z').getTime() / 864e5);
+const ddmm = d => `${d.slice(8, 10)}/${d.slice(5, 7)}`;
+const plural = (n, s, p = s + 's') => `${n} ${n === 1 ? s : p}`;
+const slugEq = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/^(club|colegio)\s+/, '').replace(/\s+(club|universitario|u\.?)$/, '').replace(/[^a-z0-9]+/g, '');
+
+// ---------- lo de toda la Liga: apariciones por carné y sanciones ----------
+function global(estados) {
+  const porDiv = Object.fromEntries(estados.map(st => [st.cat.id, st]));
+  // carné -> partidos jugados en cualquier divisional
+  const apariciones = {};
+  for (const st of estados) for (const [equipo, lista] of Object.entries(st.porEquipo)) for (const pt of lista)
+    for (const [c, x] of Object.entries(pt.jugadores))
+      (apariciones[c] ??= []).push({ div: st.cat.id, equipo, dia: pt.dia, id: pt.id, min: x.minutos, t: x.titular ? 1 : 0, rival: pt.rival });
+  for (const l of Object.values(apariciones)) l.sort((a, b) => a.dia.localeCompare(b.dia));
+  const nombre = c => { for (const st of estados) if (st.jugadores[c]) return st.jugadores[c].nombre; return null; };
+
+  // (serie, nro de partido) -> partido, para ubicar dónde fue la infracción de cada sanción.
+  const porNro = {};
+  for (const st of estados) for (const p of st.partidos) if (p.nro) porNro[`${p.serie}|${p.nro}`] = { div: st.cat.id, p };
+
+  // Sanciones: se agrupan por jugador y partido; el fallo del Tribunal manda sobre la automática.
+  const grupos = {};
+  const dirS = new URL('planillas/_sanciones/', RAIZ);
+  if (existsSync(dirS)) for (const f of readdirSync(dirS).filter(f => f.endsWith('.json'))) {
+    for (const x of JSON.parse(readFileSync(new URL(f, dirS)))) {
+      const k = `${x.carne}|${x.serie}|${x.partido}`;
+      const g = (grupos[k] ??= { auto: null, fallo: null });
+      if (x.tipo === 'fallo') { if (!g.fallo || x.fecha >= g.fallo.fecha) g.fallo = x; }
+      else if (!g.auto || x.fecha >= g.auto.fecha) g.auto = x;
+    }
+  }
+  const hoy = diaN(new Date().toISOString().slice(0, 10));
+  const sanciones = {}; // carné -> [sanción con estado]
+  for (const g of Object.values(grupos)) {
+    const x = g.fallo || g.auto;
+    const partido = porNro[`${x.serie}|${x.partido}`];
+    const ap = partido ? (apariciones[x.carne] || []).find(a => a.id === partido.p.id) : null;
+    // Si no figura en la planilla (lo echaron desde el banco), el equipo sale del club de la sanción.
+    const club = corto(x.club || '');
+    const equipo = ap?.equipo || (partido ? [partido.p.local, partido.p.visitante].find(e => e === club || slugEq(e) === slugEq(club)) || null : null);
+    const rival = ap?.rival || (partido && equipo ? (equipo === partido.p.local ? partido.p.visitante : partido.p.local) : null);
+    const desde = partido?.p.dia || x.fecha;
+    // Fechas cumplidas: partidos que jugó su equipo en esa divisional después de la infracción.
+    let cumplidas = null;
+    if (partido && equipo) {
+      const st = porDiv[partido.div];
+      const jugados = (st.porEquipo[equipo] || []).filter(pt => pt.dia > desde).length;
+      const sinPl = (st.sinPlanilla[equipo] || []).filter(pt => pt.dia > desde && !pt.wo).length;
+      cumplidas = jugados + sinPl;
+    }
+    const preventiva = /PREVENTIVA/i.test(x.sancion);
+    let estado, restan = null;
+    if (preventiva) estado = 'vigente';
+    else if (!x.fechas) estado = x.tipo === 'fallo' ? 'sin-suspension' : 'pendiente';
+    else if (cumplidas == null) estado = hoy - diaN(x.fecha) <= 21 ? 'a-confirmar' : 'cumplida';
+    else { restan = Math.max(0, x.fechas - cumplidas); estado = restan > 0 ? 'vigente' : 'cumplida'; }
+    (sanciones[x.carne] ??= []).push({
+      carne: x.carne, tipo: g.fallo ? 'fallo' : 'automatica', preventiva, fecha: x.fecha, fechas: x.fechas, cumplidas, restan, estado,
+      texto: x.texto, detalle: x.detalle, club: x.club,
+      partido: partido ? { div: partido.div, id: partido.p.id, dia: partido.p.dia, rival, equipo } : null,
+      serie: x.serie,
+    });
+  }
+  for (const l of Object.values(sanciones)) l.sort((a, b) => b.fecha.localeCompare(a.fecha));
+  return { porDiv, apariciones, sanciones, nombre };
+}
+
+const NOMBRE_DIV = Object.fromEntries(DIVISIONALES.map(d => [d.id, d.nombre]));
+
+// Sanción vigente (o por confirmar) de un jugador, si tiene.
+function sancionVigente(G, c) {
+  return (G.sanciones[c] || []).find(s => s.estado === 'vigente' || s.estado === 'a-confirmar') || null;
+}
+function textoSancion(s, aquiDiv) {
+  const donde = s.partido ? `${s.partido.div !== aquiDiv ? `en ${NOMBRE_DIV[s.partido.div]} ` : ''}${s.partido.rival ? `vs ${s.partido.rival} ` : ''}(${ddmm(s.partido.dia)})` : `(sanción del ${ddmm(s.fecha)})`;
+  if (s.preventiva) return `Suspensión preventiva del Tribunal por el partido ${donde}.`;
+  const origen = s.tipo === 'fallo' ? `Suspendido ${plural(s.fechas, 'fecha')} por el Tribunal (fallo del ${ddmm(s.fecha)})` : `Suspensión automática de ${plural(s.fechas, 'fecha')} por la expulsión`;
+  const resto = s.restan != null ? ` Le ${s.restan === 1 ? 'queda 1 fecha' : `quedan ${s.restan} fechas`} (cumplió ${s.cumplidas}).` : ' No se puede calcular cuántas fechas cumplió.';
+  const todas = /TODAS LAS CATEG/i.test(s.texto) ? ' Cumple en todas las categorías.' : '';
+  return `${origen}, partido ${donde}.${resto}${todas}${s.tipo === 'automatica' ? ' El Tribunal todavía puede ampliarla.' : ''}`;
+}
+
+// ¿Jugó en otra divisional cerca de esa fecha? (devuelve la aparición)
+function jugoEnOtra(G, c, div, dia, margen = 3) {
+  return (G.apariciones[c] || []).filter(a => a.div !== div && Math.abs(diaN(a.dia) - diaN(dia)) <= margen).at(-1) || null;
+}
+
 // ---------- alertas de bajas ----------
-function alertasDeEquipo(equipo, lista, jugadores) {
+function alertasDeEquipo(equipo, lista, jugadores, cat, G) {
   const n = lista.length, ult = lista[n - 1];
   const previos = lista.slice(0, -1);
   const alertas = [], ya = new Set();
-  const add = (carne, a) => { if (ya.has(carne)) return; ya.add(carne); alertas.push({ carne, nombre: jugadores[carne]?.nombre ?? carne, ...a }); };
+  const add = (carne, a) => { if (ya.has(carne)) return; ya.add(carne); alertas.push({ carne, nombre: jugadores[carne]?.nombre ?? G.nombre(carne) ?? carne, ...a }); };
+  const plantel = new Set(lista.flatMap(pt => Object.keys(pt.jugadores)));
 
-  // Habituales: titulares en al menos 60% de los partidos previos, con 3 titularidades o más.
-  const tit = {};
-  for (const pt of previos) for (const [c, x] of Object.entries(pt.jugadores)) if (x.titular) tit[c] = (tit[c] || 0) + 1;
-  const habituales = Object.entries(tit).filter(([c, k]) => k >= 3 && k / previos.length >= 0.6).map(([c]) => c);
+  // 1) Suspensiones confirmadas por la Liga (de cualquier categoría: suelen cumplirse en todas).
+  for (const c of plantel) {
+    const s = sancionVigente(G, c);
+    if (!s) continue;
+    add(c, { tipo: 'suspendido', nivel: 'alta', confirmado: s.estado === 'vigente', restan: s.restan, texto: textoSancion(s, cat.id) });
+  }
 
-  for (const [c, x] of Object.entries(ult.jugadores)) if (x.expulsado)
-    add(c, { tipo: 'expulsado', nivel: 'alta', texto: `Expulsado contra ${ult.rival}. Probable suspensión: revisá Fallos y Penas el jueves.` });
+  // 2) Expulsados en el último partido.
+  for (const [c, x] of Object.entries(ult.jugadores)) if (x.expulsado) {
+    const s = (G.sanciones[c] || []).find(s => s.partido?.id === ult.id);
+    if (!s) add(c, { tipo: 'expulsado', nivel: 'alta', texto: `Expulsado contra ${ult.rival}. La Liga todavía no publicó la sanción: revisá Fallos y Penas el jueves.` });
+    else if (s.estado === 'pendiente') add(c, { tipo: 'expulsado', nivel: 'media', texto: `Expulsado contra ${ult.rival}. Sin suspensión automática; falta el fallo del Tribunal.` });
+    // cumplida o sin suspensión: no es baja
+  }
   for (const nombre of ult.expBanco || []) {
     const c = Object.keys(jugadores).find(k => jugadores[k].equipo === equipo && norm(jugadores[k].nombre) === nombre);
-    if (c) add(c, { tipo: 'expulsado', nivel: 'alta', texto: `Expulsado desde el banco contra ${ult.rival}. Probable suspensión: revisá Fallos y Penas el jueves.` });
+    if (c) { if (!sancionVigente(G, c) && !(G.sanciones[c] || []).some(s => s.partido?.id === ult.id))
+      add(c, { tipo: 'expulsado', nivel: 'alta', texto: `Expulsado desde el banco contra ${ult.rival}. Probable suspensión: revisá Fallos y Penas el jueves.` }); }
     else { ya.add(nombre); alertas.push({ carne: null, nombre: lindo(nombre), tipo: 'expulsado', nivel: 'alta', texto: `Expulsado desde el banco contra ${ult.rival} (no jugó ningún partido registrado). Probable suspensión.` }); }
   }
 
+  // 3) Titulares habituales que no jugaron el último partido.
+  const tit = {};
+  for (const pt of previos) for (const [c, x] of Object.entries(pt.jugadores)) if (x.titular) tit[c] = (tit[c] || 0) + 1;
+  const habituales = Object.entries(tit).filter(([c, k]) => k >= 3 && k / previos.length >= 0.6).map(([c]) => c);
   for (const c of habituales) {
-    if (ult.jugadores[c]) continue;
+    if (ult.jugadores[c] || ya.has(c)) continue;
     let seguidos = 0;
     for (let i = n - 1; i >= 0 && !lista[i].jugadores[c]; i--) seguidos++;
     if (seguidos > 3) continue; // ausencia larga: ya no es noticia de esta fecha
     const ultJugado = [...lista].reverse().find(pt => pt.jugadores[c]);
     const x = ultJugado?.jugadores[c];
+    // ¿Jugó ese fin de semana en otra divisional? Entonces no está lesionado.
+    const otra = jugoEnOtra(G, c, cat.id, ult.dia);
+    if (otra) {
+      add(c, { tipo: 'otra-categoria', nivel: 'baja', texto: `Titular habitual, no jugó contra ${ult.rival}: ese fin de semana jugó en ${NOMBRE_DIV[otra.div]} (${otra.min}' vs ${otra.rival}).` });
+      continue;
+    }
     if (x?.expulsado) {
-      add(c, { tipo: 'suspendido', nivel: 'alta', sinJugar: seguidos,
-        texto: `Expulsado contra ${ultJugado.rival}; ${seguidos === 1 ? 'no jugó el partido siguiente' : `lleva ${seguidos} partidos sin jugar`}. Probable suspensión.` });
+      const s = (G.sanciones[c] || []).find(s => s.partido?.id === ultJugado.id);
+      if (s && (s.estado === 'cumplida' || s.estado === 'sin-suspension')) {
+        add(c, { tipo: 'vuelve', nivel: 'baja', texto: s.estado === 'cumplida'
+          ? `Ya cumplió la suspensión (${plural(s.fechas, 'fecha')}) por la expulsión vs ${ultJugado.rival}: puede volver.`
+          : `Expulsado vs ${ultJugado.rival}, pero el Tribunal no lo suspendió. ${seguidos === 1 ? 'No jugó el último partido.' : `Lleva ${seguidos} partidos sin jugar.`}` });
+      } else if (!s) {
+        add(c, { tipo: 'suspendido', nivel: 'alta', sinJugar: seguidos,
+          texto: `Expulsado contra ${ultJugado.rival}; ${seguidos === 1 ? 'no jugó el partido siguiente' : `lleva ${seguidos} partidos sin jugar`}. Probable suspensión.` });
+      }
       continue;
     }
     // Salir antes del entretiempo y no jugar el siguiente huele a lesión. Un cambio en el entretiempo
@@ -169,6 +283,7 @@ function alertasDeEquipo(equipo, lista, jugadores) {
     add(c, { tipo: salioTemprano ? 'lesion-probable' : 'no-jugo', nivel: salioTemprano || seguidos >= 2 ? 'alta' : 'media', sinJugar: seguidos, texto });
   }
 
+  // 4) Cambios tempranos en el último partido.
   for (const [c, x] of Object.entries(ult.jugadores)) {
     if (x.sale == null) continue;
     if (x.titular && x.sale < 45)
@@ -180,8 +295,52 @@ function alertasDeEquipo(equipo, lista, jugadores) {
   return alertas.sort((a, b) => orden[a.nivel] - orden[b.nivel] || a.nombre.localeCompare(b.nombre));
 }
 
-// ---------- una categoría ----------
-function procesar(cat) {
+// ---------- cruces: jugadores de esta divisional que también jugaron en otras ----------
+function crucesDeDivisional(cat, porEquipo, jugadores, G) {
+  const out = {};
+  for (const [equipo, lista] of Object.entries(porEquipo)) {
+    const ultDia = lista.at(-1).dia;
+    const carnes = new Set(lista.flatMap(pt => Object.keys(pt.jugadores)));
+    const filas = [];
+    for (const c of carnes) {
+      const ap = G.apariciones[c] || [];
+      const aqui = ap.filter(a => a.div === cat.id && a.equipo === equipo);
+      const otras = ap.filter(a => a.div !== cat.id);
+      if (!otras.length || !aqui.length) continue;
+      const resumen = l => ({ pj: l.length, tit: l.reduce((s, a) => s + a.t, 0), min: l.reduce((s, a) => s + a.min, 0), ultimo: l.at(-1).dia, ultMin: l.at(-1).min });
+      const porDiv = {};
+      for (const a of otras) (porDiv[`${a.div}|${a.equipo}`] ??= []).push(a);
+      filas.push({
+        c, aqui: resumen(aqui),
+        otras: Object.entries(porDiv).map(([k, l]) => ({ div: k.split('|')[0], equipo: k.split('|')[1], ...resumen(l) }))
+          .sort((a, b) => b.ultimo.localeCompare(a.ultimo)),
+        // Jugó en otra divisional el último fin de semana de este equipo.
+        finde: otras.some(a => Math.abs(diaN(a.dia) - diaN(ultDia)) <= 3) ? 1 : 0,
+      });
+    }
+    if (filas.length) out[equipo] = filas.sort((a, b) => b.finde - a.finde || b.aqui.min - a.aqui.min);
+  }
+  return out;
+}
+
+// ---------- sanciones de los jugadores de esta divisional ----------
+function resumenSancion(s, div) {
+  if (s.estado === 'vigente' || s.estado === 'a-confirmar') return textoSancion(s, div);
+  const donde = s.partido ? `${s.partido.div !== div ? `en ${NOMBRE_DIV[s.partido.div]} ` : ''}${s.partido.rival ? `vs ${s.partido.rival} ` : ''}(${ddmm(s.partido.dia)})` : `(${ddmm(s.fecha)})`;
+  if (s.estado === 'pendiente') return `Expulsado ${donde}. Sin suspensión automática: falta el fallo del Tribunal.`;
+  if (s.estado === 'sin-suspension') return `Expulsado ${donde}. El Tribunal no lo suspendió.`;
+  return `${s.tipo === 'fallo' ? 'Suspendido' : 'Suspensión automática de'} ${plural(s.fechas, 'fecha')} por el partido ${donde}. Ya la cumplió.`;
+}
+function sancionesDeDivisional(cat, jugadores, G) {
+  const out = [];
+  for (const c of Object.keys(jugadores)) for (const s of G.sanciones[c] || [])
+    out.push({ c, equipo: jugadores[c].equipo, ...s, carne: undefined, resumen: resumenSancion(s, cat.id) });
+  const orden = { vigente: 0, 'a-confirmar': 1, pendiente: 2, cumplida: 3, 'sin-suspension': 4 };
+  return out.sort((a, b) => orden[a.estado] - orden[b.estado] || b.fecha.localeCompare(a.fecha));
+}
+
+// ---------- una divisional: lectura de planillas ----------
+function cargar(cat) {
   const dir = new URL(`planillas/${cat.id}/`, RAIZ);
   if (!existsSync(dir)) { console.log(`${cat.nombre}: sin datos todavía.`); return; }
   const archivos = readdirSync(dir).filter(f => /^\d+\.json$/.test(f));
@@ -199,7 +358,7 @@ function procesar(cat) {
   for (const p of crudos) {
     const local = corto(p.local), visitante = corto(p.visitante);
     const wo = p.detalle?.walk_over === '1';
-    const base = { id: p.id, serie: p.serie, etapa: cat.series[p.serie], fecha: p.fecha, dia: p.fechaHora.slice(0, 10), hora: p.fechaHora.slice(11, 16),
+    const base = { id: p.id, nro: p.detalle?.nro_partido || null, serie: p.serie, etapa: cat.series[p.serie], fecha: p.fecha, dia: p.fechaHora.slice(0, 10), hora: p.fechaHora.slice(11, 16),
       cancha: lindo(p.cancha || p.detalle?.Cancha || ''), local, visitante, gl: p.gl, gv: p.gv, wo, obs: p.detalle?.observaciones || '' };
     const conPlanilla = (p.titularesL?.length || 0) > 0 && (p.titularesV?.length || 0) > 0;
     if (!conPlanilla) {
@@ -247,6 +406,12 @@ function procesar(cat) {
       if (!proximo[yo]) proximo[yo] = { rival, dia: f.fechaHora.slice(0, 10), hora: f.fechaHora.slice(11, 16), local: esLocal, cancha: lindo(f.cancha || ''), etapa: cat.series[f.serie] };
   }
 
+  return { cat, partidos, porEquipo, jugadores, sinPlanilla, proximo, calidad };
+}
+
+// ---------- una divisional: alertas, cruces y sanciones, con lo de toda la Liga a mano ----------
+function terminar(st, G) {
+  const { cat, partidos, porEquipo, jugadores, sinPlanilla, proximo, calidad } = st;
   const bajas = {};
   for (const [equipo, lista] of Object.entries(porEquipo)) {
     const ult = lista.at(-1);
@@ -255,7 +420,7 @@ function procesar(cat) {
       proximo: proximo[equipo] || null,
       // Partidos jugados después del último con planilla: las alertas no los pueden ver.
       pendientes: (sinPlanilla[equipo] || []).filter(x => x.dia >= ult.dia && x.id !== ult.id && !x.wo),
-      alertas: alertasDeEquipo(equipo, lista, jugadores),
+      alertas: alertasDeEquipo(equipo, lista, jugadores, cat, G),
     };
   }
 
@@ -263,6 +428,8 @@ function procesar(cat) {
     id: cat.id, nombre: cat.nombre, actualizado: new Date().toISOString(),
     equipos: Object.keys(porEquipo).sort((a, b) => a.localeCompare(b)),
     jugadores, partidos, bajas, calidad,
+    cruces: crucesDeDivisional(cat, porEquipo, jugadores, G),
+    sanciones: sancionesDeDivisional(cat, jugadores, G),
     resumen: {
       partidos: partidos.length,
       conPlanilla: partidos.filter(p => p.planilla).length,
@@ -281,14 +448,17 @@ function procesar(cat) {
 }
 
 const SOLO = (process.env.SOLO || '').split(',').map(s => s.trim()).filter(Boolean);
+// Primera pasada: leer todas las divisionales (hace falta para cruzar jugadores y sanciones).
+const estados = DIVISIONALES.map(cargar).filter(Boolean);
+const G = global(estados);
 const resumenes = {};
-for (const cat of DIVISIONALES) {
-  if (SOLO.length && !SOLO.includes(cat.id)) continue;
-  const s = procesar(cat);
-  if (!s) continue;
-  resumenes[cat.id] = { actualizado: s.actualizado, ...s.resumen, equipos: s.equipos.length };
+for (const st of estados) {
+  if (SOLO.length && !SOLO.includes(st.cat.id)) continue;
+  const s = terminar(st, G);
+  resumenes[st.cat.id] = { actualizado: s.actualizado, ...s.resumen, equipos: s.equipos.length };
   const alertas = Object.values(s.bajas).reduce((n, b) => n + b.alertas.filter(a => a.nivel === 'alta').length, 0);
-  console.log(`${s.nombre}: ${s.resumen.partidos} partidos, ${s.resumen.conPlanilla} con planilla, ${s.resumen.conProblemas} con observaciones, ${alertas} alertas de nivel alto.`);
+  const vigentes = s.sanciones.filter(x => x.estado === 'vigente').length;
+  console.log(`${s.nombre}: ${s.resumen.partidos} partidos, ${s.resumen.conPlanilla} con planilla, ${s.resumen.conProblemas} con observaciones, ${alertas} alertas altas, ${vigentes} suspensiones vigentes, ${Object.values(s.cruces).flat().length} jugadores que también juegan en otra divisional.`);
   if (process.env.DETALLE === '1') for (const e of s.equipos) {
     const b = s.bajas[e];
     console.log(`  ${e} (último: F${b.ultimo.fecha} ${b.ultimo.etapa} vs ${b.ultimo.rival} ${b.ultimo.gf}-${b.ultimo.gc}${b.proximo ? `; próximo: vs ${b.proximo.rival} ${b.proximo.dia}` : ''})`);

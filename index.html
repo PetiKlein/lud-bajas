@@ -116,6 +116,40 @@ input.search{font:inherit;width:100%;padding:11px 14px;border-radius:12px;border
 .alert a:hover{text-decoration:underline}
 .alert span{color:var(--muted)}
 .ok{font-size:.85rem;color:var(--muted)}
+.fixture-h .share{margin-left:auto;flex:0 0 auto}
+.share{display:inline-flex;align-items:center;gap:6px;font:inherit;font-size:.78rem;font-weight:700;color:var(--accent);background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:6px 11px;cursor:pointer;white-space:nowrap}
+.share svg{width:15px;height:15px}
+.share:hover{border-color:var(--accent)}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--sel);color:var(--sel-fg);padding:10px 16px;border-radius:12px;font-size:.88rem;font-weight:600;z-index:20;box-shadow:0 6px 20px rgba(0,0,0,.25)}
+/* rankings */
+.rk{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
+.rk .card{padding:0;overflow:hidden}
+.rk h3{padding:12px 14px 4px}
+.rk .sub{padding:0 14px 8px;font-size:.78rem;color:var(--muted)}
+.rk ol{list-style:none;margin:0;padding:0}
+.rk li{display:grid;grid-template-columns:22px 28px minmax(0,1fr) auto;gap:8px;align-items:center;padding:7px 14px;border-top:1px solid var(--line);font-size:.88rem}
+.rk li .p{font-family:var(--display);font-weight:800;color:var(--muted);text-align:right}
+.rk li a{color:var(--fg);text-decoration:none;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rk li .eq{display:block;font-size:.74rem;color:var(--muted);font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rk li .v{font-family:var(--display);font-weight:800;font-size:1.15rem;font-variant-numeric:tabular-nums;text-align:right}
+.rk li .v small{font-family:var(--body);font-weight:500;font-size:.72rem;color:var(--muted);margin-left:3px}
+.rk .crest{width:24px;height:24px;flex-basis:24px;border-radius:6px}
+/* cruces y sanciones */
+.xrow{display:grid;grid-template-columns:minmax(0,1fr);gap:4px;padding:10px 14px;border-top:1px solid var(--line);font-size:.86rem}
+.xrow:first-of-type{border-top:0}
+.xrow > a{font-weight:700;color:var(--fg);text-decoration:none}
+.xrow .aqui{color:var(--muted);font-size:.8rem}
+.xrow .otra{display:flex;flex-wrap:wrap;gap:4px 8px;align-items:baseline}
+.xrow .otra a{font-weight:600}
+.xrow .otra span{color:var(--muted);font-size:.8rem}
+.tag.blue{background:var(--accent-soft);color:var(--accent)}
+.tag.amber{background:var(--amber-soft);color:var(--amber)}
+.sx{display:grid;grid-template-columns:auto minmax(0,1fr);gap:2px 10px;padding:10px 14px;border-top:1px solid var(--line);font-size:.86rem;align-items:start}
+.sx:first-of-type{border-top:0}
+.sx .crest{grid-row:span 2;margin-top:2px}
+.sx a.n{font-weight:700;color:var(--fg);text-decoration:none}
+.sx .t{color:var(--muted)}
+details.more summary{cursor:pointer;font-weight:600;padding:10px 14px;font-size:.9rem}
 
 /* tablas */
 .tablewrap{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:var(--r)}
@@ -225,7 +259,7 @@ async function indice() {
   }
   return INDICE;
 }
-const TABS = [['bajas', 'Bajas'], ['equipos', 'Equipos'], ['jugadores', 'Jugadores'], ['partidos', 'Partidos'], ['planillas', 'Planillas']];
+const TABS = [['bajas', 'Bajas'], ['equipos', 'Equipos'], ['jugadores', 'Jugadores'], ['partidos', 'Partidos'], ['rankings', 'Rankings'], ['cruces', 'Entre categorías'], ['sanciones', 'Sanciones'], ['planillas', 'Planillas']];
 const cache = {};
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -288,6 +322,7 @@ function chrome(cat, tab) {
   document.title = `${actual.nombre} · LUD Bajas`;
   const activa = { jugador: 'jugadores', partido: 'partidos', equipo: 'equipos' }[tab] || tab;
   $('#tabs').innerHTML = TABS.map(([id, n]) => `<a href="${link(cat, id)}"${id === activa ? ' aria-current="page"' : ''}>${n}</a>`).join('');
+  $('#tabs [aria-current]')?.scrollIntoView({ block: 'nearest', inline: 'center' });
 }
 
 // ---------- vistas ----------
@@ -314,22 +349,25 @@ function vBajas(d, cat, filtro) {
         : `<div class="ok">${b.alertas.length ? 'Solo alertas de nivel medio o bajo.' : 'Sin bajas detectadas.'}</div>`}</div>`;
   };
   const lista = [...pares.values()].sort((a, b) => (a.dia + a.hora).localeCompare(b.dia + b.hora));
+  COMPARTIR = { cat, nivel, lista };
   return `
   <div class="stack"><h2>Posibles bajas</h2>
   <p class="lede">Lo que se puede deducir de las planillas: expulsados, titulares habituales que no jugaron y los que salieron temprano. Son pistas, no partes médicos.</p></div>
   <details class="help"><summary>¿Cómo se calcula?</summary><ul>
-    <li><b>Expulsado / suspendido:</b> lo echaron en el último partido, o lo echaron y no volvió a jugar. Confirmalo en Fallos y Penas (se publica los jueves 21 h).</li>
+    <li><b>Suspendido:</b> sale de Fallos y Penas de la Liga (se actualiza los jueves). Dice cuántas fechas le quedarían, contando los partidos que jugó su equipo desde la expulsión. Si es de otra categoría también cuenta: la mayoría se cumplen en todas.</li>
+    <li><b>Expulsado:</b> lo echaron en el último partido y la Liga todavía no publicó la sanción.</li>
     <li><b>Lesión probable:</b> titular habitual que salió antes del entretiempo y no jugó el partido siguiente.</li>
     <li><b>No jugó:</b> titular en al menos 6 de cada 10 partidos que no apareció en el último. En la LUD también puede ser un examen, un viaje o trabajo.</li>
     <li><b>Salió temprano:</b> titular que salió antes del entretiempo y no volvió (en la Liga hay reingreso, así que si volvió no cuenta).</li>
     <li><b>Entró y salió:</b> suplente que duró 20 minutos o menos. Nivel bajo: muchas veces es táctico.</li>
+    <li><b>Jugó en otra categoría</b> o <b>puede volver</b> (ya cumplió la suspensión): nivel bajo, es para que sepas por qué no estuvo.</li>
   </ul></details>
   <div class="chips" role="group" aria-label="Filtro">
     <button class="chip" aria-pressed="${nivel === 'todas'}" onclick="location.hash='${link(cat, 'bajas')}'">Todas</button>
     <button class="chip" aria-pressed="${nivel === 'alta'}" onclick="location.hash='${link(cat, 'bajas', 'alta')}'">Solo nivel alto</button>
   </div>
-  ${lista.length ? `<h3>Próximos partidos</h3>` + lista.map(f => `<section class="fixture">
-      <div class="fixture-h"><span><b>${esc(f.l)} vs ${esc(f.v)}</b></span><span>${fDia(f.dia)}${f.hora !== '00:00' ? ' · ' + f.hora : ''}${f.etapa ? ' · ' + esc(f.etapa) : ''}</span></div>
+  ${lista.length ? `<div class="row between"><h3>Próximos partidos</h3><button class="share" onclick="compartir()">${ICONO_COMPARTIR}<span>Toda la fecha</span></button></div>` + lista.map((f, i) => `<section class="fixture">
+      <div class="fixture-h"><span><b>${esc(f.l)} vs ${esc(f.v)}</b><br>${fDia(f.dia)}${f.hora !== '00:00' ? ' · ' + f.hora : ''}${f.etapa ? ' · ' + esc(f.etapa) : ''}</span><button class="share" onclick="compartir(${i})" aria-label="Compartir las bajas de ${esc(f.l)} vs ${esc(f.v)}">${ICONO_COMPARTIR}<span>Compartir</span></button></div>
       ${lado(f.l)}${lado(f.v)}</section>`).join('') : ''}
   ${sueltos.length ? `<h3>${lista.length ? 'Sin partido programado' : 'Equipos'}</h3><section class="fixture">${sueltos.map(lado).join('')}</section>` : ''}`;
 }
@@ -419,6 +457,14 @@ function vJugador(d, cat, c) {
     <div class="tile"><b>${s.gol}</b><small>Goles</small></div>
     ${s.rojas ? `<div class="tile"><b style="color:var(--red)">${s.rojas}</b><small>Expulsiones</small></div>` : ''}
   </div>
+  ${(() => {
+    const otras = Object.values(d.cruces || {}).flat().find(x => x.c === c)?.otras || [];
+    return otras.length ? `<div class="stack"><h3>También jugó en</h3><div class="card" style="padding:0">${otras.map(o => `<div class="xrow"><span class="otra"><a href="${link(o.div, 'jugador', c)}">${esc(DIVS[o.div]?.nombre || o.div)}</a>${o.equipo !== info.equipo ? `<span>(${esc(o.equipo)})</span>` : ''}<span>${o.pj} PJ · ${o.tit} tit. · ${o.min}' · último ${fDia(o.ultimo)}</span></span></div>`).join('')}</div></div>` : '';
+  })()}
+  ${(() => {
+    const ss = (d.sanciones || []).filter(x => x.c === c);
+    return ss.length ? `<div class="stack"><h3>Sanciones</h3><div class="card" style="padding:0">${ss.map(x => filaSancion(cat, d, x)).join('')}</div></div>` : '';
+  })()}
   <div class="stack"><h3>Partido a partido</h3><div class="card log" style="padding:0">
   ${filas.map(({ x, j, eq }) => {
     const p = x.p, res = `${x.gf}-${x.gc}`, r = x.gf > x.gc ? 'G' : x.gf < x.gc ? 'P' : 'E';
@@ -483,6 +529,120 @@ function vPlanillas(d, cat) {
   ${d.calidad.length ? d.calidad.slice().reverse().map(c => `<div class="card stack"><a href="${link(cat, 'partido', c.id)}" style="font-weight:700;color:var(--fg)">${esc(c.etapa)} F${c.fecha}: ${esc(c.partido)}</a><ul class="issues">${c.problemas.map(t => `<li>${esc(t)}</li>`).join('')}</ul></div>`).join('') : '<div class="empty">Todas las planillas cierran.</div>'}`;
 }
 
+
+// ---------- compartir bajas ----------
+let COMPARTIR = null;
+const ICONO_COMPARTIR = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v13"/></svg>';
+function textoBajas(d, cat, f, nivel) {
+  const linea = eq => {
+    const b = d.bajas[eq];
+    const al = (b?.alertas || []).filter(a => (nivel === 'todas' ? a.nivel !== 'baja' : a.nivel === 'alta'));
+    if (!al.length) return `*${eq}:* sin bajas detectadas`;
+    return `*${eq}:*\n` + al.map(a => `• ${a.nombre}: ${a.texto}`).join('\n');
+  };
+  return `⚽ ${DIVS[cat].nombre} · ${f.l} vs ${f.v} (${fDia(f.dia)}${f.hora !== '00:00' ? ' ' + f.hora : ''})\n${linea(f.l)}\n${linea(f.v)}`;
+}
+async function compartir(i) {
+  const { cat, nivel, lista } = COMPARTIR; const d = cache[cat];
+  const partes = (i == null ? lista : [lista[i]]).map(f => textoBajas(d, cat, f, nivel));
+  const url = `${location.origin}${location.pathname}#/${cat}/bajas`;
+  const texto = `${i == null ? `Posibles bajas · ${DIVS[cat].nombre}\n\n` : ''}${partes.join('\n\n')}\n\n${url}`;
+  if (navigator.share) { try { await navigator.share({ text: texto }); return; } catch (e) { if (e.name === 'AbortError') return; } }
+  try { await navigator.clipboard.writeText(texto); } catch {}
+  window.open('https://wa.me/?text=' + encodeURIComponent(texto), '_blank', 'noopener');
+  aviso('Texto copiado. Se abre WhatsApp para mandarlo.');
+}
+function aviso(t) { const e = document.createElement('div'); e.className = 'toast'; e.textContent = t; document.body.append(e); setTimeout(() => e.remove(), 3200); }
+
+// ---------- rankings ----------
+function vRankings(d, cat) {
+  const P = {}; const usados = {}; const titDistintos = {};
+  const minEquipo = {};
+  for (const p of d.partidos) if (p.planilla) for (const [lado, eq] of [['L', p.local], ['V', p.visitante]]) {
+    minEquipo[eq] = (minEquipo[eq] || 0) + p.fin;
+    for (const j of p[lado]) {
+      const x = (P[j.c] ??= { c: j.c, eq, min: 0, pj: 0, tit: 0, gol: 0, golBanco: 0, ingresos: 0, rojas: 0 });
+      x.eq = eq; x.min += j.min; x.pj++; x.tit += j.t; x.gol += j.g.length; x.rojas += j.x;
+      if (!j.t) { x.ingresos++; x.golBanco += j.g.length; }
+      (usados[eq] ??= new Set()).add(j.c); if (j.t) (titDistintos[eq] ??= new Set()).add(j.c);
+    }
+  }
+  const L = Object.values(P);
+  const nom = c => d.jugadores[c]?.nombre || c;
+  const fila = (i, x, v, u) => `<li><span class="p">${i + 1}</span>${crest(x.eq)}<span style="min-width:0"><a href="${link(cat, 'jugador', x.c)}">${esc(nom(x.c))}</a><span class="eq">${esc(x.eq)}</span></span><span class="v">${v}${u ? `<small>${u}</small>` : ''}</span></li>`;
+  const top = (arr, k, n = 10) => arr.filter(k).slice(0, n);
+  const card = (t, sub, filas) => `<section class="card"><h3>${t}</h3>${sub ? `<div class="sub">${sub}</div>` : ''}<ol>${filas || '<li><span></span><span></span><span class="muted">Nadie todavía.</span><span></span></li>'}</ol></section>`;
+  const porMin = [...L].sort((a, b) => b.min - a.min);
+  const goleadores = [...L].sort((a, b) => b.gol - a.gol || a.min - b.min);
+  const cada90 = L.filter(x => x.min >= 450 && x.gol >= 2).map(x => ({ ...x, r: x.min / x.gol })).sort((a, b) => a.r - b.r);
+  const banco = [...L].sort((a, b) => b.ingresos - a.ingresos || b.golBanco - a.golBanco);
+  const pct = L.map(x => ({ ...x, pct: x.min / (minEquipo[x.eq] || 1) })).sort((a, b) => b.pct - a.pct);
+  const rojas = [...L].sort((a, b) => b.rojas - a.rojas);
+  const equipos = d.equipos.map(eq => ({ eq, u: usados[eq]?.size || 0, t: titDistintos[eq]?.size || 0 })).sort((a, b) => b.u - a.u);
+  return `<div class="stack"><h2>Rankings</h2><p class="lede">Con los minutos de las planillas de toda la temporada en ${esc(DIVS[cat].nombre)}.</p></div>
+  <div class="rk">
+    ${card('Más minutos', 'Minutos jugados en la temporada.', top(porMin, x => x.min).map((x, i) => fila(i, x, x.min, 'min')).join(''))}
+    ${card('Goleadores', 'Goles según las planillas (sin goles en contra).', top(goleadores, x => x.gol).map((x, i) => fila(i, x, x.gol, x.pj + ' PJ')).join(''))}
+    ${card('Gol cada pocos minutos', 'Minutos por gol. Mínimo 450 minutos y 2 goles.', top(cada90, x => 1).map((x, i) => fila(i, x, Math.round(x.r), "' por gol")).join(''))}
+    ${card('Siempre en cancha', 'Porcentaje de los minutos de su equipo que jugó.', top(pct, x => x.min).map((x, i) => fila(i, x, Math.round(x.pct * 100), '%')).join(''))}
+    ${card('Los que más entran', 'Veces que entró desde el banco (y goles saliendo del banco).', top(banco, x => x.ingresos).map((x, i) => fila(i, x, x.ingresos, x.golBanco ? `${x.golBanco} gol${x.golBanco > 1 ? 'es' : ''}` : 'veces')).join(''))}
+    ${card('Más expulsiones', 'Rojas según las planillas.', top(rojas, x => x.rojas).map((x, i) => fila(i, x, x.rojas, x.rojas > 1 ? 'rojas' : 'roja')).join(''))}
+    ${card('Equipos que más rotan', 'Jugadores distintos que usó cada equipo (y cuántos fueron titulares).', equipos.map((x, i) => `<li><span class="p">${i + 1}</span>${crest(x.eq)}<span style="min-width:0"><a href="${link(cat, 'equipo', x.eq)}">${esc(x.eq)}</a></span><span class="v">${x.u}<small>${x.t} tit.</small></span></li>`).join(''))}
+  </div>`;
+}
+
+// ---------- entre categorías ----------
+function vCruces(d, cat, filtro) {
+  const soloFinde = filtro === 'finde';
+  const nom = c => d.jugadores[c]?.nombre || c;
+  const grupos = Object.entries(d.cruces || {}).sort((a, b) => a[0].localeCompare(b[0]));
+  const total = grupos.reduce((n, [, l]) => n + l.length, 0);
+  const finde = grupos.reduce((n, [, l]) => n + l.filter(x => x.finde).length, 0);
+  const bloques = grupos.map(([eq, l]) => {
+    const filas = l.filter(x => !soloFinde || x.finde);
+    if (!filas.length) return '';
+    return `<section class="card" style="padding:0"><div class="fixture-h"><span class="row">${crest(eq)}<a href="${link(cat, 'equipo', eq)}" style="font-family:var(--display);font-weight:800;font-size:1.15rem;color:var(--fg);text-decoration:none">${esc(eq)}</a></span><span>${filas.length} jugador${filas.length > 1 ? 'es' : ''}</span></div>
+      ${filas.map(x => `<div class="xrow"><a href="${link(cat, 'jugador', x.c)}">${esc(nom(x.c))}${x.finde ? ' <span class="tag amber">este finde en otra</span>' : ''}</a>
+        <span class="aqui">Acá: ${x.aqui.pj} PJ · ${x.aqui.tit} tit. · ${x.aqui.min}' · último ${fDia(x.aqui.ultimo)}</span>
+        ${x.otras.map(o => `<span class="otra"><a href="${link(o.div, 'jugador', x.c)}">${esc(DIVS[o.div]?.nombre || o.div)}</a>${o.equipo !== eq ? `<span>(${esc(o.equipo)})</span>` : ''}<span>${o.pj} PJ · ${o.tit} tit. · ${o.min}' · último ${fDia(o.ultimo)} (${o.ultMin}')</span></span>`).join('')}
+      </div>`).join('')}</section>`;
+  }).join('');
+  return `<div class="stack"><h2>Entre categorías</h2>
+  <p class="lede">Jugadores de ${esc(DIVS[cat].nombre)} que también jugaron en otra divisional (mismo carné). Sirve para ver quién sube del Sub 20, quién baja a Reserva y quién jugó el mismo fin de semana en dos categorías.</p></div>
+  <div class="chips" role="group" aria-label="Filtro">
+    <button class="chip" aria-pressed="${!soloFinde}" onclick="location.hash='${link(cat, 'cruces')}'">Todos (${total})</button>
+    <button class="chip" aria-pressed="${soloFinde}" onclick="location.hash='${link(cat, 'cruces', 'finde')}'">Jugaron en otra el último finde (${finde})</button>
+  </div>
+  ${bloques || '<div class="empty">Nadie de esta divisional jugó en otra.</div>'}`;
+}
+
+// ---------- sanciones ----------
+const ESTADO = { vigente: ['Vigente', 'red'], 'a-confirmar': ['A confirmar', 'amber'], pendiente: ['Esperando fallo', 'amber'], cumplida: ['Cumplida', ''], 'sin-suspension': ['Sin suspensión', ''] };
+function filaSancion(cat, d, s) {
+  const [et, cl] = ESTADO[s.estado];
+  const nom = d.jugadores[s.c]?.nombre || s.c;
+  const ver = s.partido && s.partido.div === cat ? ` · <a href="${link(cat, 'partido', s.partido.id)}">ver partido</a>` : '';
+  return `<div class="sx">${crest(s.equipo)}<span><a class="n" href="${link(cat, 'jugador', s.c)}">${esc(nom)}</a> <span class="tag ${cl}">${et}</span>${s.restan ? ` <span class="tag red">le ${s.restan === 1 ? 'queda 1 fecha' : `quedan ${s.restan}`}</span>` : ''}</span>
+    <span class="t">${esc(s.equipo)} · ${esc(s.resumen)}${ver}</span></div>`;
+}
+function vSanciones(d, cat) {
+  const S = d.sanciones || [];
+  const vig = S.filter(s => s.estado === 'vigente' || s.estado === 'a-confirmar');
+  const pen = S.filter(s => s.estado === 'pendiente');
+  const hist = S.filter(s => s.estado === 'cumplida' || s.estado === 'sin-suspension').sort((a, b) => b.fecha.localeCompare(a.fecha));
+  return `<div class="stack"><h2>Sanciones</h2>
+  <p class="lede">De Fallos y Penas de la Liga: suspensiones automáticas por expulsión y fallos del Tribunal, de jugadores que jugaron en ${esc(DIVS[cat].nombre)}. Incluye sanciones de otras categorías, porque la mayoría se cumplen en todas.</p></div>
+  <details class="help"><summary>¿Cómo se cuentan las fechas?</summary><ul>
+    <li>La Liga dice cuántas fechas de suspensión le dieron. Las cumplidas se cuentan con los partidos que jugó su equipo, en la divisional donde lo expulsaron, después de ese partido.</li>
+    <li>Es una cuenta aproximada: si la Liga cuenta distinto (por ejemplo, partidos de otra categoría), puede variar.</li>
+    <li><b>Esperando fallo:</b> lo expulsaron, la sanción automática no lo suspendió y el Tribunal todavía no resolvió.</li>
+    <li>La Liga publica los fallos los jueves; el robot los baja el jueves de noche.</li>
+  </ul></details>
+  <section class="card" style="padding:0"><div class="fixture-h"><b>Vigentes</b><span>${vig.length}</span></div>${vig.map(s => filaSancion(cat, d, s)).join('') || '<div class="ok" style="padding:12px 14px">Nadie suspendido ahora.</div>'}</section>
+  ${pen.length ? `<section class="card" style="padding:0"><div class="fixture-h"><b>Esperando fallo</b><span>${pen.length}</span></div>${pen.map(s => filaSancion(cat, d, s)).join('')}</section>` : ''}
+  <section class="card" style="padding:0"><details class="more"><summary>Historial de la temporada (${hist.length})</summary>${hist.map(s => filaSancion(cat, d, s)).join('')}</details></section>`;
+}
+
 // ---------- router ----------
 async function render() {
   let [cat0, tab0, ...rest] = location.hash.replace(/^#\/?/, '').split('/').map(decodeURIComponent);
@@ -499,7 +659,8 @@ async function render() {
   catch (e) { main.innerHTML = `<div class="empty">${esc(e.message)}</div>`; return; }
   const arg = rest.join('/');
   const v = { bajas: () => vBajas(d, cat, arg), equipos: () => vEquipos(d, cat), equipo: () => vEquipo(d, cat, arg), jugadores: () => vJugadores(d, cat, arg),
-    jugador: () => vJugador(d, cat, arg), partidos: () => vPartidos(d, cat), partido: () => vPartido(d, cat, arg), planillas: () => vPlanillas(d, cat) }[tab] || (() => vBajas(d, cat));
+    jugador: () => vJugador(d, cat, arg), partidos: () => vPartidos(d, cat), partido: () => vPartido(d, cat, arg), planillas: () => vPlanillas(d, cat),
+    rankings: () => vRankings(d, cat), cruces: () => vCruces(d, cat, arg), sanciones: () => vSanciones(d, cat) }[tab] || (() => vBajas(d, cat));
   main.innerHTML = v();
   const act = new Date(d.actualizado);
   $('#foot').innerHTML = `Datos de las planillas de la <a href="https://ligauniversitaria.org.uy" target="_blank" rel="noopener">Liga Universitaria</a>, actualizados el ${act.toLocaleDateString('es-UY', { day: 'numeric', month: 'long' })} a las ${act.toLocaleTimeString('es-UY', { hour: '2-digit', minute: '2-digit' })}. Los minutos de los expulsados pueden quedar de más: la Liga no anota el minuto de la expulsión.`;

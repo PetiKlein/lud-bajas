@@ -14,7 +14,16 @@ Página: https://petiklein.github.io/lud-bajas/
 - **Equipos:** plantel con partidos, titularidades, minutos, goles y los últimos 5 partidos.
 - **Jugadores:** ficha de cada uno, partido a partido (cuándo entró, cuándo salió, reingresos y goles).
 - **Partidos:** minuto a minuto y formaciones con los minutos de cada jugador.
+- **Rankings:** más minutos, goleadores, minutos por gol, los que siempre están en cancha, los que más
+  entran desde el banco, expulsiones y equipos que más rotan.
+- **Entre categorías:** jugadores que también jugaron en otra divisional (mismo carné): quién sube del
+  Sub 20, quién baja a Reserva y quién jugó el último fin de semana en dos categorías.
+- **Sanciones:** suspensiones automáticas y fallos del Tribunal (de Fallos y Penas), con cuántas fechas
+  le quedarían a cada uno.
 - **Planillas:** lo que no cierra en las planillas de la Liga y cómo se resolvió.
+
+En Bajas, cada partido tiene un botón para compartir las bajas por WhatsApp (o con el menú de compartir
+del celular), y otro para mandar toda la fecha.
 
 Son pistas sacadas de las planillas, no partes médicos: un titular que no juega puede estar
 lesionado, de viaje o de exámenes. Las suspensiones se confirman en Fallos y Penas de la Liga
@@ -26,6 +35,9 @@ lesionado, de viaje o de exámenes. Las suspensiones se confirman en Fallos y Pe
   desde la API de la Liga (`resultados/api.php?action=...&id=<ID>`) y el fixture de los próximos
   partidos. Solo baja lo que falta; un partido se vuelve a bajar durante 4 días por si la Liga
   corrige la planilla. Con `REBAJAR=1` baja todo de nuevo.
+- `scripts/sanciones.mjs` baja las sanciones de la temporada del buscador de Fallos y Penas
+  (`ligauniversitaria.org.uy/fallosypenas/api.php`) a `planillas/_sanciones/<categoria>.json`.
+  Cada sanción trae carné, serie y número de partido, así que se cruza con las planillas.
 - `scripts/analizar.mjs` revisa cada planilla, calcula minutos (con reingresos) y alertas, y escribe
   `data/<categoria>.json`, que es lo que lee `index.html`.
 - `scripts/categorias.mjs` define qué categorías y divisionales se siguen y qué series tiene cada una
@@ -36,8 +48,8 @@ lesionado, de viaje o de exámenes. Las suspensiones se confirman en Fallos y Pe
   `data/indice.json` lista las disponibles.
 - Variables útiles al correr a mano: `SOLO=mayores-b,reserva-a` (solo esas divisionales),
   `REBAJAR=1` (bajar todo de nuevo), `MAX_MIN=60` (cortar la bajada a los 60 minutos y seguir en la próxima).
-- GitHub Actions (`.github/workflows/actualizar.yml`) corre todo solo el domingo a las 18:35 y de lunes
-  a jueves a las 20:35 (hora de Montevideo). También se puede correr a mano: Actions > "Actualizar
+- GitHub Actions (`.github/workflows/actualizar.yml`) corre todo solo el domingo a las 18:35, de lunes
+  a jueves a las 20:35 y el jueves a las 22:35, después de que salen los fallos (hora de Montevideo). También se puede correr a mano: Actions > "Actualizar
   planillas y bajas" > Run workflow.
 
 ## Lo que hay que saber de las planillas de la Liga
@@ -49,6 +61,12 @@ lesionado, de viaje o de exámenes. Las suspensiones se confirman en Fallos y Pe
 - A veces la planilla hace salir a alguien que ya había salido: se toma como salida de quien había
   entrado por él. Lo que no tiene arreglo obvio se descarta del cálculo y queda anotado.
 
+## Cómo se cuentan las fechas de suspensión
+
+La Liga publica cuántas fechas le dieron a cada uno (`F:2` = 2 fechas). Las cumplidas se cuentan con los
+partidos que jugó su equipo, en la divisional de la expulsión, después de ese partido. Es aproximado: si
+la Liga cuenta partidos de otra categoría, puede variar.
+
 ## Temporada nueva
 
-Cambiar `TEMPORADA` en `scripts/comun.mjs` (y los códigos de serie en `categorias.mjs` si cambian).
+Cambiar `TEMPORADA` e `INICIO_TEMPORADA` en `scripts/comun.mjs` (y los códigos de serie en `categorias.mjs` si cambian).

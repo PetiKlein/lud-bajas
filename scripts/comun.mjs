@@ -1,5 +1,6 @@
 // Cosas compartidas: temporada actual y nombres cortos de los equipos.
 export const TEMPORADA = 113; // temporada 2026 en el sistema de la Liga Universitaria
+export const INICIO_TEMPORADA = '2026-01-01'; // las sanciones se leen desde esta fecha
 
 // Nombres como los muestra la Liga -> como los mostramos acá.
 export const NOMBRES = {
