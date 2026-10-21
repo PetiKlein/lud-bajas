@@ -1,0 +1,991 @@
+{
+ "mayores-a": [
+  {
+   "titulo": "Titulo",
+   "archivo": "F21AT",
+   "config": {
+    "ID": "10",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "AT"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "CARRASCO POLO CLUB",
+    "E.L.F.",
+    "NACIONAL UNIVERSITARIO",
+    "OLD BOYS CLUB",
+    "OLD WOODLANDS CLUB",
+    "TAPE",
+    "TENIS EL PINAR",
+    "URUNDAY UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F21APD",
+   "config": {
+    "ID": "11",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "APD"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "CARRASCO LAWN TENNIS",
+    "CLUB SEMINARIO",
+    "HEBRAICA UNIVERSITARIO",
+    "JUAN XXIII",
+    "OLD CHRISTIANS CLUB",
+    "OLD IVY",
+    "PLAYA HONDA UNIVERSITARIO",
+    "SANTA ELENA LAGOMAR"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F21A",
+   "config": {
+    "ID": "2",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "A"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "CARRASCO LAWN TENNIS",
+    "CARRASCO POLO CLUB",
+    "CLUB SEMINARIO",
+    "E.L.F.",
+    "HEBRAICA UNIVERSITARIO",
+    "JUAN XXIII",
+    "NACIONAL UNIVERSITARIO",
+    "OLD BOYS CLUB",
+    "OLD CHRISTIANS CLUB",
+    "OLD IVY",
+    "OLD WOODLANDS CLUB",
+    "PLAYA HONDA UNIVERSITARIO",
+    "SANTA ELENA LAGOMAR",
+    "TAPE",
+    "TENIS EL PINAR",
+    "URUNDAY UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "mayores-b": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F21BTA",
+   "config": {
+    "ID": "12",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "BTA"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "ALEMAN UNIVERSITARIO",
+    "CEIBOS CLUB",
+    "ELBIO FERNANDEZ",
+    "J.M.L.M",
+    "NAUTICO CARRASCO Y PUNTA GORDA",
+    "OLD BRENDANS CLUB",
+    "SAGRADA FAMILIA UNIVERSITARIO",
+    "SAN ISIDRO LOMAS UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F21BPD",
+   "config": {
+    "ID": "13",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "BPD"
+   },
+   "jugados": 15,
+   "proximos": 13,
+   "equipos": [
+    "CENTRO CRISTOBAL COLON",
+    "CIRCULO DE TENIS MONTEVIDEO",
+    "CITY PARK",
+    "CLUB JESUS MARIA",
+    "CLUB UNIVERSIDAD CATOLICA",
+    "INDEPENDIENTE",
+    "OLIMAR",
+    "SAN JUAN BAUTISTA"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F21B",
+   "config": {
+    "ID": "3",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "B"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "ALEMAN UNIVERSITARIO",
+    "CEIBOS CLUB",
+    "CENTRO CRISTOBAL COLON",
+    "CIRCULO DE TENIS MONTEVIDEO",
+    "CITY PARK",
+    "CLUB JESUS MARIA",
+    "CLUB UNIVERSIDAD CATOLICA",
+    "ELBIO FERNANDEZ",
+    "INDEPENDIENTE",
+    "J.M.L.M",
+    "NAUTICO CARRASCO Y PUNTA GORDA",
+    "OLD BRENDANS CLUB",
+    "OLIMAR",
+    "SAGRADA FAMILIA UNIVERSITARIO",
+    "SAN ISIDRO LOMAS UNIVERSITARIO",
+    "SAN JUAN BAUTISTA"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "mayores-c": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F21CTA",
+   "config": {
+    "ID": "14",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "CTA"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "COLEGIO SANTA ELENA",
+    "COLEGIO Y LICEO INGLES",
+    "CRANDON UNIVERSITARIO",
+    "DANUBIO FUTBOL CLUB",
+    "ISASA UNIVERSITARIO",
+    "LA BLANQUEADA",
+    "MATURANA UNIVERSITARIO",
+    "WOLFRAMIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F21CPD",
+   "config": {
+    "ID": "15",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "CPD"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "A.E.B.U",
+    "ARQUITECTURA JRS.",
+    "C.A.L.I.",
+    "CLUB SOCIAL PIEDRAS BLANCAS",
+    "DEFENSOR SPORTING",
+    "POCO SITIO PLAYA VERDE",
+    "SAN PABLO UNIVERSITARIO",
+    "WANDERERS"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F21C",
+   "config": {
+    "ID": "4",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "C"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "A.E.B.U",
+    "ARQUITECTURA JRS.",
+    "C.A.L.I.",
+    "CLUB SOCIAL PIEDRAS BLANCAS",
+    "COLEGIO SANTA ELENA",
+    "COLEGIO Y LICEO INGLES",
+    "CRANDON UNIVERSITARIO",
+    "DANUBIO FUTBOL CLUB",
+    "DEFENSOR SPORTING",
+    "ISASA UNIVERSITARIO",
+    "LA BLANQUEADA",
+    "MATURANA UNIVERSITARIO",
+    "POCO SITIO PLAYA VERDE",
+    "SAN PABLO UNIVERSITARIO",
+    "WANDERERS",
+    "WOLFRAMIO"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "mayores-d": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F21DTA",
+   "config": {
+    "ID": "16",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "DTA"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "CLUB ATLETICO LIMBURGO",
+    "DEPORTIVO LS UNIVERSITARIO",
+    "LA 12 UNIVERSITARIA",
+    "MOSSENS",
+    "NUMA TURCATTI",
+    "SCUOLA PALERMO",
+    "YAGUARI",
+    "YOUNG UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F21DPD",
+   "config": {
+    "ID": "17",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "DPD"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "DEPORTIVO MORON",
+    "LATINO FUTBOL CLUB",
+    "PERRY SEXTA UNIVERSITARIO",
+    "PEÑAROL UNIVERSITARIO",
+    "SALESIANOS DE LAS PIEDRAS",
+    "SAN EUGENIO",
+    "TROUVILLE UNIVERSITARIO",
+    "UNIVERSITARIO VERONES"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F21D",
+   "config": {
+    "ID": "5",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "D"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "CLUB ATLETICO LIMBURGO",
+    "DEPORTIVO LS UNIVERSITARIO",
+    "DEPORTIVO MORON",
+    "LA 12 UNIVERSITARIA",
+    "LATINO FUTBOL CLUB",
+    "MOSSENS",
+    "NUMA TURCATTI",
+    "PERRY SEXTA UNIVERSITARIO",
+    "PEÑAROL UNIVERSITARIO",
+    "SALESIANOS DE LAS PIEDRAS",
+    "SAN EUGENIO",
+    "SCUOLA PALERMO",
+    "TROUVILLE UNIVERSITARIO",
+    "UNIVERSITARIO VERONES",
+    "YAGUARI",
+    "YOUNG UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "mayores-e": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F21ETA",
+   "config": {
+    "ID": "18",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "ETA"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "BODY FACTORY",
+    "CAFU",
+    "CERVANTES UNIVERSITARIO",
+    "CLUB ESTUDIANTES INGENIERIA",
+    "DEPORTIVO MITRE",
+    "ESTUDIANTES ESPAÑOLES",
+    "SAN AGUSTIN",
+    "SAN CONO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F21EPD",
+   "config": {
+    "ID": "19",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "EPD"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "CLARA JACKSON UNIVERSITARIO",
+    "CLUB RICHARD ANDERSON UNIV.",
+    "DEPORTIVO SALTO",
+    "EL CHORRO FUTBOL CLUB",
+    "JEAN PIAGET",
+    "OLD SAMPA CLUB",
+    "SUDAMERICA UNIVERSITARIO",
+    "UT SERVIAM"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F21E",
+   "config": {
+    "ID": "6",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "E"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "BODY FACTORY",
+    "CAFU",
+    "CERVANTES UNIVERSITARIO",
+    "CLARA JACKSON UNIVERSITARIO",
+    "CLUB ESTUDIANTES INGENIERIA",
+    "CLUB RICHARD ANDERSON UNIV.",
+    "DEPORTIVO MITRE",
+    "DEPORTIVO SALTO",
+    "EL CHORRO FUTBOL CLUB",
+    "ESTUDIANTES ESPAÑOLES",
+    "JEAN PIAGET",
+    "OLD SAMPA CLUB",
+    "SAN AGUSTIN",
+    "SAN CONO",
+    "SUDAMERICA UNIVERSITARIO",
+    "UT SERVIAM"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "mayores-f": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F21FTA",
+   "config": {
+    "ID": "20",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "FTA"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "BELLA UNION UNIVERSITARIO",
+    "DEP.de la C. ARETEIA BIMBULLY",
+    "ESCUELA MILITAR",
+    "FLORES UNIVERSITARIO",
+    "PALLOTTI UNIVERSITARIO",
+    "SAN JOSE DE LA PROVIDENCIA uni",
+    "TACUAREMBO UNIVERSITARIO",
+    "VETERINARIA UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F21FPD",
+   "config": {
+    "ID": "21",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "FPD"
+   },
+   "jugados": 15,
+   "proximos": 13,
+   "equipos": [
+    "AMERICA UNIVERSITARIO",
+    "ANGLO SCHOOL UNIVERSITARIO",
+    "CLUB FUERZA AEREA",
+    "ESCUELA NAVAL",
+    "ESPARTA UNIVERSITARIO",
+    "KENNEDY UNIVERSITARIO",
+    "LA CUEVA DEL LOBIZON",
+    "PAYSANDU UNVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F21F",
+   "config": {
+    "ID": "7",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "F"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "AMERICA UNIVERSITARIO",
+    "ANGLO SCHOOL UNIVERSITARIO",
+    "BELLA UNION UNIVERSITARIO",
+    "CLUB FUERZA AEREA",
+    "DEP.de la C. ARETEIA BIMBULLY",
+    "ESCUELA MILITAR",
+    "ESCUELA NAVAL",
+    "ESPARTA UNIVERSITARIO",
+    "FLORES UNIVERSITARIO",
+    "KENNEDY UNIVERSITARIO",
+    "LA CUEVA DEL LOBIZON",
+    "PALLOTTI UNIVERSITARIO",
+    "PAYSANDU UNVERSITARIO",
+    "SAN JOSE DE LA PROVIDENCIA uni",
+    "TACUAREMBO UNIVERSITARIO",
+    "VETERINARIA UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "mayores-g": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F21GTA",
+   "config": {
+    "ID": "22",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "GTA"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": [
+    "APENAS UNIVERSITARIO",
+    "COLEGIO SAN ISIDRO",
+    "DEPORTIVO NAVAL",
+    "FAMILIAR UNIVERSITARIO",
+    "GOMENSORO",
+    "MARISTAS DEPORTIVO",
+    "NUESTRA SEÑORA DE LOURDES",
+    "VARELA UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Copa de Plata",
+   "archivo": "F21GPD",
+   "config": {
+    "ID": "23",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2",
+    "Categoria": "1",
+    "Serie": "GPD"
+   },
+   "jugados": 9,
+   "proximos": 19,
+   "equipos": [
+    "CENTRO GALLEGO",
+    "CLUB ATLETICO BELLA VISTA",
+    "COLEGIO SALESIANO DE LA COSTA",
+    "COLEGIO Y LICEO SANTO DOMINGO",
+    "FECHA LIBRE",
+    "MARISCAL NASAZZI",
+    "PAMPERO",
+    "RIVER PLATE UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F21G"
+  }
+ ],
+ "sub20-a": [
+  {
+   "titulo": "Titulo",
+   "archivo": "F202020AT",
+   "config": {
+    "ID": "62",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "20",
+    "Categoria": "20",
+    "Serie": "20AT"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "CEIBOS CLUB",
+    "CLUB SEMINARIO",
+    "E.L.F.",
+    "J.M.L.M",
+    "NACIONAL UNIVERSITARIO",
+    "OLD BRENDANS CLUB",
+    "OLD CHRISTIANS CLUB",
+    "OLD WOODLANDS CLUB"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F202020APD",
+   "config": {
+    "ID": "63",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "20",
+    "Categoria": "20",
+    "Serie": "20APD"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "CARRASCO LAWN TENNIS",
+    "MATURANA UNIVERSITARIO",
+    "NAUTICO CARRASCO Y PUNTA GORDA",
+    "OLD BOYS CLUB",
+    "PLAYA HONDA UNIVERSITARIO",
+    "SAN JUAN BAUTISTA",
+    "SAN PABLO UNIVERSITARIO",
+    "TENIS EL PINAR"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F202020A",
+   "config": {
+    "ID": "58",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "20",
+    "Categoria": "20",
+    "Serie": "20A"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "CARRASCO LAWN TENNIS",
+    "CEIBOS CLUB",
+    "CLUB SEMINARIO",
+    "E.L.F.",
+    "J.M.L.M",
+    "MATURANA UNIVERSITARIO",
+    "NACIONAL UNIVERSITARIO",
+    "NAUTICO CARRASCO Y PUNTA GORDA",
+    "OLD BOYS CLUB",
+    "OLD BRENDANS CLUB",
+    "OLD CHRISTIANS CLUB",
+    "OLD WOODLANDS CLUB",
+    "PLAYA HONDA UNIVERSITARIO",
+    "SAN JUAN BAUTISTA",
+    "SAN PABLO UNIVERSITARIO",
+    "TENIS EL PINAR"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "sub20-b": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F202020BTA",
+   "config": {
+    "ID": "64",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "20",
+    "Categoria": "20",
+    "Serie": "20BTA"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "CARRASCO POLO CLUB",
+    "CIRCULO DE TENIS MONTEVIDEO",
+    "COLEGIO SANTA ELENA",
+    "CRANDON UNIVERSITARIO",
+    "DEPORTIVO LS UNIVERSITARIO",
+    "ISASA UNIVERSITARIO",
+    "OLD IVY",
+    "URUNDAY UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F202020BPD",
+   "config": {
+    "ID": "65",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "20",
+    "Categoria": "20",
+    "Serie": "20BPD"
+   },
+   "jugados": 16,
+   "proximos": 12,
+   "equipos": [
+    "ARQUITECTURA JRS.",
+    "ELBIO FERNANDEZ",
+    "LA BLANQUEADA",
+    "SAN AGUSTIN",
+    "SAN JOSE DE LA PROVIDENCIA uni",
+    "SANTA ELENA LAGOMAR",
+    "SEMINARIO UNIVERSITARIO",
+    "TROUVILLE UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F202020B",
+   "config": {
+    "ID": "60",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "20",
+    "Categoria": "20",
+    "Serie": "20B"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "ARQUITECTURA JRS.",
+    "CARRASCO POLO CLUB",
+    "CIRCULO DE TENIS MONTEVIDEO",
+    "COLEGIO SANTA ELENA",
+    "CRANDON UNIVERSITARIO",
+    "DEPORTIVO LS UNIVERSITARIO",
+    "ELBIO FERNANDEZ",
+    "ISASA UNIVERSITARIO",
+    "LA BLANQUEADA",
+    "OLD IVY",
+    "SAN AGUSTIN",
+    "SAN JOSE DE LA PROVIDENCIA uni",
+    "SANTA ELENA LAGOMAR",
+    "SEMINARIO UNIVERSITARIO",
+    "TROUVILLE UNIVERSITARIO",
+    "URUNDAY UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "sub20-c": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F202020C2"
+  },
+  {
+   "titulo": "Copa de Plata",
+   "archivo": "F202020CP"
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F202020C",
+   "config": {
+    "ID": "61",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "20",
+    "Categoria": "20",
+    "Serie": "20C"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "ALEMAN UNIVERSITARIO",
+    "ANGLO SCHOOL UNIVERSITARIO",
+    "CENTRO CRISTOBAL COLON",
+    "CLUB JESUS MARIA",
+    "CLUB SOC. y DEP. LA CHISPA",
+    "COLEGIO SAN ISIDRO",
+    "COLEGIO Y LICEO SANTO DOMINGO",
+    "DANUBIO FUTBOL CLUB",
+    "DFC",
+    "FLORES UNIVERSITARIO",
+    "JUAN XXIII",
+    "MARISTAS DEPORTIVO",
+    "MONTEVIDEO COLLEGE",
+    "PALLOTTI UNIVERSITARIO",
+    "SAGRADA FAMILIA UNIVERSITARIO",
+    "VARELA UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "reserva-a": [
+  {
+   "titulo": "Titulo",
+   "archivo": "F2B2RSAT",
+   "config": {
+    "ID": "29",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2B",
+    "Categoria": "2",
+    "Serie": "RSAT"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": [
+    "CARRASCO LAWN TENNIS",
+    "CARRASCO POLO CLUB",
+    "NAUTICO CARRASCO Y PUNTA GORDA",
+    "OLD BOYS CLUB",
+    "OLD CHRISTIANS AZUL",
+    "OLD CHRISTIANS CLUB",
+    "OLD WOODLANDS CLUB",
+    "PLAYA HONDA UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F2B2RSAPD",
+   "config": {
+    "ID": "30",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2B",
+    "Categoria": "2",
+    "Serie": "RSAPD"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": [
+    "ALEMAN UNIVERSITARIO",
+    "CEIBOS CLUB",
+    "CLUB SEMINARIO",
+    "NACIONAL UNIVERSITARIO",
+    "OBC AZULGRANA.",
+    "SAGRADA FAMILIA UNIVERSITARIO",
+    "TAPE",
+    "TENIS EL PINAR"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F2B2RS1",
+   "config": {
+    "ID": "25",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2B",
+    "Categoria": "2",
+    "Serie": "RS1"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "ALEMAN UNIVERSITARIO",
+    "CARRASCO LAWN TENNIS",
+    "CARRASCO POLO CLUB",
+    "CEIBOS CLUB",
+    "CLUB SEMINARIO",
+    "NACIONAL UNIVERSITARIO",
+    "NAUTICO CARRASCO Y PUNTA GORDA",
+    "OBC AZULGRANA.",
+    "OLD BOYS CLUB",
+    "OLD CHRISTIANS AZUL",
+    "OLD CHRISTIANS CLUB",
+    "OLD WOODLANDS CLUB",
+    "PLAYA HONDA UNIVERSITARIO",
+    "SAGRADA FAMILIA UNIVERSITARIO",
+    "TAPE",
+    "TENIS EL PINAR"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "reserva-b": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F2B2RSBTA",
+   "config": {
+    "ID": "31",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2B",
+    "Categoria": "2",
+    "Serie": "RSBTA"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": [
+    "ELBIO FERNANDEZ",
+    "HEBRAICA UNIVERSITARIO",
+    "INDEPENDIENTE",
+    "J.M.L.M",
+    "OLD BRENDANS CLUB",
+    "OLD CHRISTIANS BLANCO",
+    "OLD CHRISTIANS VERDE",
+    "URUNDAY UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F2B2RSBPD"
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F2B2RS2",
+   "config": {
+    "ID": "26",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2B",
+    "Categoria": "2",
+    "Serie": "RS2"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "CIRCULO DE TENIS MONTEVIDEO",
+    "CLUB UNIVERSIDAD CATOLICA",
+    "COLEGIO SANTA ELENA",
+    "CRANDON UNIVERSITARIO",
+    "ELBIO FERNANDEZ",
+    "HEBRAICA UNIVERSITARIO",
+    "INDEPENDIENTE",
+    "J.M.L.M",
+    "JUAN XXIII",
+    "OLD BRENDANS CLUB",
+    "OLD CHRISTIANS BLANCO",
+    "OLD CHRISTIANS VERDE",
+    "OLD IVY",
+    "SAN JUAN BAUTISTA",
+    "SANTA ELENA LAGOMAR",
+    "URUNDAY UNIVERSITARIO"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "reserva-c": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F2B2RSCTA"
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F2B2RSCPD"
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F2B2RS31",
+   "config": {
+    "ID": "27",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "2B",
+    "Categoria": "2",
+    "Serie": "RS31"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": [
+    "CEIBOS CLUB VERDE",
+    "CENTRO CRISTOBAL COLON",
+    "COLEGIO Y LICEO INGLES",
+    "DANUBIO FUTBOL CLUB",
+    "E.L.F.",
+    "JUAN XXIII BLANCO",
+    "LA BLANQUEADA",
+    "NUMA TURCATTI",
+    "OLD BRENDANS VERDE",
+    "OLD CHRISTIANS NARANJA",
+    "PEÑAROL UNIVERSITARIO",
+    "SAN EUGENIO",
+    "SAN ISIDRO LOMAS UNIVERSITARIO",
+    "SAN PABLO UNIVERSITARIO",
+    "SEMINARIO UNIVERSITARIO",
+    "WANDERERS"
+   ],
+   "muestraTitulares": 11
+  }
+ ],
+ "reserva-d": [
+  {
+   "titulo": "TITULO y ASCENSOS",
+   "archivo": "F2B2RSDTA"
+  },
+  {
+   "titulo": "COPA DE PLATA y PERMANENCIA",
+   "archivo": "F2B2RSDPD"
+  },
+  {
+   "titulo": "SERIE 1",
+   "archivo": "F2B2RS32"
+  },
+  {
+   "titulo": "SERIE 2",
+   "archivo": "F2B2RS33"
+  }
+ ]
+}
