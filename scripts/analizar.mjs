@@ -8,7 +8,7 @@
 //  - Los expulsados vienen con nombre pero sin minuto: sus minutos pueden quedar de más.
 import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { corto } from './comun.mjs';
-import { CATEGORIAS } from './categorias.mjs';
+import { CATEGORIAS, DIVISIONALES } from './categorias.mjs';
 
 const RAIZ = new URL('../', import.meta.url);
 const OUT = new URL('data/', RAIZ);
@@ -267,16 +267,31 @@ function procesar(cat) {
   return salida;
 }
 
-const indice = [];
-for (const cat of CATEGORIAS) {
+const SOLO = (process.env.SOLO || '').split(',').map(s => s.trim()).filter(Boolean);
+const resumenes = {};
+for (const cat of DIVISIONALES) {
+  if (SOLO.length && !SOLO.includes(cat.id)) continue;
   const s = procesar(cat);
   if (!s) continue;
-  indice.push({ id: s.id, nombre: s.nombre, actualizado: s.actualizado, ...s.resumen });
-  console.log(`\n=== ${s.nombre}: ${s.resumen.partidos} partidos, ${s.resumen.conPlanilla} con planilla, ${s.resumen.conProblemas} con observaciones.`);
-  for (const e of s.equipos) {
+  resumenes[cat.id] = { actualizado: s.actualizado, ...s.resumen, equipos: s.equipos.length };
+  const alertas = Object.values(s.bajas).reduce((n, b) => n + b.alertas.filter(a => a.nivel === 'alta').length, 0);
+  console.log(`${s.nombre}: ${s.resumen.partidos} partidos, ${s.resumen.conPlanilla} con planilla, ${s.resumen.conProblemas} con observaciones, ${alertas} alertas de nivel alto.`);
+  if (process.env.DETALLE === '1') for (const e of s.equipos) {
     const b = s.bajas[e];
-    console.log(`${e} (último: F${b.ultimo.fecha} ${b.ultimo.etapa} vs ${b.ultimo.rival} ${b.ultimo.gf}-${b.ultimo.gc}${b.proximo ? `; próximo: vs ${b.proximo.rival} ${b.proximo.dia}` : ''})`);
-    for (const a of b.alertas) console.log(`  [${a.nivel}] ${a.nombre}: ${a.texto}`);
+    console.log(`  ${e} (último: F${b.ultimo.fecha} ${b.ultimo.etapa} vs ${b.ultimo.rival} ${b.ultimo.gf}-${b.ultimo.gc}${b.proximo ? `; próximo: vs ${b.proximo.rival} ${b.proximo.dia}` : ''})`);
+    for (const a of b.alertas) console.log(`    [${a.nivel}] ${a.nombre}: ${a.texto}`);
   }
 }
-writeFileSync(new URL('indice.json', OUT), JSON.stringify(indice, null, 1) + '\n');
+// Índice para la web: categorías y divisionales con datos. Se conserva lo de las que no se procesaron.
+const archIndice = new URL('indice.json', OUT);
+let viejo = {};
+try { const v = JSON.parse(readFileSync(archIndice)); if (v && !Array.isArray(v)) for (const c of v.categorias || []) for (const d of c.divisionales) viejo[d.id] = d; } catch {}
+const indice = {
+  categorias: CATEGORIAS.map(c => ({
+    id: c.id, nombre: c.nombre,
+    divisionales: c.divisionales
+      .map(d => ({ id: d.id, letra: d.letra, nombre: `${c.nombre} ${d.letra}`, ...(resumenes[d.id] || viejo[d.id] || {}) }))
+      .filter(d => d.partidos),
+  })).filter(c => c.divisionales.length),
+};
+writeFileSync(archIndice, JSON.stringify(indice, null, 1) + '\n');

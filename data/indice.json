@@ -1,18 +1,36 @@
-[
- {
-  "id": "mayores",
-  "nombre": "Mayores A",
-  "actualizado": "2026-10-21T15:56:11.207Z",
-  "partidos": 152,
-  "conPlanilla": 152,
-  "conProblemas": 22
- },
- {
-  "id": "sub20",
-  "nombre": "Sub 20 A",
-  "actualizado": "2026-10-21T15:56:11.319Z",
-  "partidos": 152,
-  "conPlanilla": 150,
-  "conProblemas": 35
- }
-]
+{
+ "categorias": [
+  {
+   "id": "mayores",
+   "nombre": "Mayores",
+   "divisionales": [
+    {
+     "id": "mayores-a",
+     "letra": "A",
+     "nombre": "Mayores A",
+     "actualizado": "2026-10-21T20:03:46.990Z",
+     "partidos": 152,
+     "conPlanilla": 152,
+     "conProblemas": 22,
+     "equipos": 16
+    }
+   ]
+  },
+  {
+   "id": "sub20",
+   "nombre": "Sub 20",
+   "divisionales": [
+    {
+     "id": "sub20-a",
+     "letra": "A",
+     "nombre": "Sub 20 A",
+     "actualizado": "2026-10-21T20:03:47.110Z",
+     "partidos": 152,
+     "conPlanilla": 150,
+     "conProblemas": 35,
+     "equipos": 16
+    }
+   ]
+  }
+ ]
+}

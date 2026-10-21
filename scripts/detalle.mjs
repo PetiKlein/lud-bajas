@@ -6,11 +6,17 @@
 // Los amonestados no se piden: la Liga no los carga y en la LUD no hay acumulación de amarillas.
 import { mkdirSync, existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { TEMPORADA } from './comun.mjs';
-import { CATEGORIAS } from './categorias.mjs';
+import { DIVISIONALES } from './categorias.mjs';
 
 const BASE = 'https://ligauniversitaria.org.uy/resultados/api.php';
 const BASE_FIXTURE = 'https://ligauniversitaria.org.uy/partidos/api.php';
 const REBAJAR = process.env.REBAJAR === '1';
+// SOLO=mayores-b,reserva-a baja solo esas divisionales.
+const SOLO = (process.env.SOLO || '').split(',').map(s => s.trim()).filter(Boolean);
+// Tiempo máximo de bajada (minutos). Al llegar, deja de pedir partidos nuevos y guarda lo que tiene:
+// la próxima corrida sigue desde ahí.
+const LIMITE = Date.now() + Number(process.env.MAX_MIN || 100) * 60e3;
+let cortado = false, errores = 0;
 
 const ACCIONES = {
   detalle: 'cargarDetallesPartido',
@@ -42,7 +48,8 @@ async function api(params, base = BASE) {
   }
 }
 
-for (const cat of CATEGORIAS) {
+for (const cat of DIVISIONALES.filter(d => !SOLO.length || SOLO.includes(d.id))) {
+  if (Date.now() > LIMITE) { cortado = true; break; }
   const DIR = new URL(`../planillas/${cat.id}/`, import.meta.url);
   mkdirSync(DIR, { recursive: true });
   let bajados = 0, salteados = 0, sinJugar = 0;
@@ -55,10 +62,11 @@ for (const cat of CATEGORIAS) {
   }
   // Próximos partidos (fixture sin resultado), para mostrar el rival de cada equipo.
   writeFileSync(new URL('_proximos.json', DIR), JSON.stringify(proximos.sort((a, b) => a.fechaHora.localeCompare(b.fechaHora)), null, 1) + '\n');
-  // De a 4 partidos por vez, para no saturar a la Liga.
+  // De a 5 partidos por vez, para no saturar a la Liga.
   const cola = [...tareas];
-  await Promise.all(Array.from({ length: 4 }, async () => {
+  await Promise.all(Array.from({ length: 5 }, async () => {
     for (let t; (t = cola.shift());) {
+      if (Date.now() > LIMITE) { cortado = true; break; }
       const { serie, p } = t;
       if (p.GL === '' || p.GL == null) { sinJugar++; continue; } // todavía no se jugó
       const archivo = new URL(`${p.ID}.json`, DIR);
@@ -69,7 +77,9 @@ for (const cat of CATEGORIAS) {
         if (viejo.titularesL?.length && viejo.titularesV?.length) { salteados++; continue; }
       }
       const out = { id: p.ID, categoria: cat.id, serie, fecha: Number(p.Fecha), fechaHora: p.Fecha_Hora, cancha: p.Cancha, local: p.Locatario, visitante: p.Visitante, gl: Number(p.GL), gv: Number(p.GV) };
-      const partes = await Promise.all(Object.entries(ACCIONES).map(async ([k, action]) => [k, await api({ action, id: p.ID })]));
+      let partes;
+      try { partes = await Promise.all(Object.entries(ACCIONES).map(async ([k, action]) => [k, await api({ action, id: p.ID })])); }
+      catch (e) { console.log(`  No se pudo bajar el partido ${p.ID} (${e.message}). Se reintenta en la próxima corrida.`); errores++; continue; }
       Object.assign(out, Object.fromEntries(partes));
       out.detalle = out.detalle[0] || null;
       writeFileSync(archivo, JSON.stringify(out, null, 1) + '\n');
@@ -78,3 +88,5 @@ for (const cat of CATEGORIAS) {
   }));
   console.log(`${cat.nombre}: bajados ${bajados}, ya estaban ${salteados}, sin jugar ${sinJugar}.`);
 }
+if (cortado) console.log('Se cortó por tiempo: la próxima corrida sigue con lo que falta.');
+if (errores) console.log(`Partidos que no se pudieron bajar: ${errores}.`);

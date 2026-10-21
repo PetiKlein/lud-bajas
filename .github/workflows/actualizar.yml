@@ -7,7 +7,7 @@ on:
     - cron: '35 21 * * 0'
     - cron: '35 23 * * 1-4'
   push:
-    branches: [main]
+    branches: [main, divisionales]
     paths: ['scripts/**', '.github/workflows/actualizar.yml']
   workflow_dispatch: {}
 
@@ -21,13 +21,15 @@ concurrency:
 jobs:
   actualizar:
     runs-on: ubuntu-24.04
-    timeout-minutes: 30
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
         with:
           node-version: 22
       - run: node scripts/detalle.mjs
+        env:
+          MAX_MIN: '120'
       - run: node scripts/analizar.mjs
       - name: Guardar datos
         if: always()
