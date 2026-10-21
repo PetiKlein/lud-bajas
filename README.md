@@ -6,8 +6,22 @@ etapas: primera rueda, título y ascenso, permanencia o copa de plata.
 
 Página: https://petiklein.github.io/lud-bajas/
 
+## Diseño
+
+Basado en la estructura de una web profesional (PROTECH): superficie oscura para el encabezado, la
+portada y el pie; un solo color de acento (verde césped) y colores semánticos para los estados (rojo =
+nivel alto, ámbar = medio); escala de espaciado fija; tarjetas redondeadas con sombra suave; tipografía
+Work Sans (títulos) + Source Sans 3 (texto); etiquetas chicas en mayúscula arriba de cada título; cifras
+grandes en la portada; aparición suave al hacer scroll (se apaga si el teléfono pide reducir movimiento).
+Todos los colores, radios, sombras y espacios son variables al principio del `<style>` de `index.html`.
+
+En el celular hay barra de navegación abajo (Inicio, Bajas, Previas, Equipos y Más) y la divisional se
+elige desde el botón del encabezado. En la compu las secciones van en una fila arriba. `og.png` es la
+imagen que aparece al compartir el link por WhatsApp.
+
 ## Qué muestra
 
+- **Inicio:** la próxima fecha de un vistazo: cifras clave, partidos con la forma de cada equipo y las bajas más importantes.
 - **Bajas:** para cada partido de la próxima fecha, los jugadores de cada equipo que pueden faltar:
   expulsados, suspendidos probables, titulares habituales que no jugaron el último partido,
   lesiones probables (salió temprano y no jugó el siguiente) y titulares que salieron antes del entretiempo.
