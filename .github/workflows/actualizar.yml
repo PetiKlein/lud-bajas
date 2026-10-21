@@ -7,7 +7,7 @@ on:
     - cron: '35 21 * * 0'
     - cron: '35 23 * * 1-4'
   push:
-    branches: [main, divisionales]
+    branches: [main]
     paths: ['scripts/**', '.github/workflows/actualizar.yml']
   workflow_dispatch: {}
 
