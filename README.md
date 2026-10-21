@@ -1,7 +1,8 @@
 # LUD Bajas
 
 Minutos jugados y posibles bajas de la Liga Universitaria de Deportes (Uruguay), sacados de las
-planillas oficiales. Sigue Mayores A y Sub 20 A (primera rueda, título y permanencia).
+planillas oficiales. Sigue Mayores (A a G), Sub 20 (A a C) y Reserva (A a D), con todas sus
+etapas: primera rueda, título y ascenso, permanencia o copa de plata.
 
 Página: https://petiklein.github.io/lud-bajas/
 
@@ -27,8 +28,14 @@ lesionado, de viaje o de exámenes. Las suspensiones se confirman en Fallos y Pe
   corrige la planilla. Con `REBAJAR=1` baja todo de nuevo.
 - `scripts/analizar.mjs` revisa cada planilla, calcula minutos (con reingresos) y alertas, y escribe
   `data/<categoria>.json`, que es lo que lee `index.html`.
-- `scripts/categorias.mjs` define qué categorías se siguen (códigos de
-  `ligauniversitaria.org.uy/config/config.json`). `scripts/comun.mjs` tiene la temporada y los nombres cortos.
+- `scripts/categorias.mjs` define qué categorías y divisionales se siguen y qué series tiene cada una
+  (códigos de `ligauniversitaria.org.uy/config/config.json` y de las páginas de estadísticas de la Liga).
+  Para sumar una divisional alcanza con agregar una línea ahí: la web la muestra sola.
+  `scripts/comun.mjs` tiene la temporada y los nombres cortos.
+- Los datos quedan uno por divisional (`data/mayores-a.json`, `data/reserva-d.json`, ...) y
+  `data/indice.json` lista las disponibles.
+- Variables útiles al correr a mano: `SOLO=mayores-b,reserva-a` (solo esas divisionales),
+  `REBAJAR=1` (bajar todo de nuevo), `MAX_MIN=60` (cortar la bajada a los 60 minutos y seguir en la próxima).
 - GitHub Actions (`.github/workflows/actualizar.yml`) corre todo solo el domingo a las 18:35 y de lunes
   a jueves a las 20:35 (hora de Montevideo). También se puede correr a mano: Actions > "Actualizar
   planillas y bajas" > Run workflow.

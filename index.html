@@ -54,13 +54,18 @@ button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{ou
 /* ---------- cancha ---------- */
 .pitch{position:relative;overflow:hidden;color:var(--chalk);background:repeating-linear-gradient(90deg,var(--pitch) 0 56px,var(--pitch-2) 56px 112px)}
 .pitch::after{content:"";position:absolute;pointer-events:none;width:300px;height:300px;right:-110px;bottom:-170px;border:2px solid color-mix(in srgb,var(--chalk) 22%,transparent);border-radius:50%}
-header.top{position:relative;z-index:1;padding-block:16px 14px;display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap}
+header.top{position:relative;z-index:1;padding-block:16px 12px}
 header.top h1{font-family:var(--display);font-weight:900;font-size:2rem;line-height:.95;margin:0}
 header.top p{margin:4px 0 0;font-size:.78rem;color:color-mix(in srgb,var(--chalk) 75%,transparent)}
 header.top p a{color:var(--chalk)}
+.picker{position:relative;z-index:1;display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;padding-bottom:14px}
 .cats{display:flex;background:color-mix(in srgb,var(--pitch-ink) 70%,transparent);border-radius:999px;padding:3px}
 .cats button{font-family:var(--display);font-weight:800;font-size:1.05rem;border:0;background:none;color:color-mix(in srgb,var(--chalk) 70%,transparent);padding:5px 13px 4px;border-radius:999px;cursor:pointer;white-space:nowrap}
 .cats button[aria-pressed="true"]{background:var(--chalk);color:var(--pitch-ink)}
+.divs{display:flex;gap:4px;flex-wrap:wrap}
+.divs button{font-family:var(--display);font-weight:800;font-size:1.05rem;min-width:36px;height:36px;border-radius:10px;border:1.5px solid color-mix(in srgb,var(--chalk) 35%,transparent);background:none;color:var(--chalk);cursor:pointer}
+.divs button[aria-pressed="true"]{background:var(--chalk);border-color:var(--chalk);color:var(--pitch-ink)}
+.divs button:hover{border-color:var(--chalk)}
 nav.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--pitch-ink)}
 nav.tabs .wrap{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
 nav.tabs a{font-family:var(--display);font-weight:800;font-size:1.12rem;text-decoration:none;color:color-mix(in srgb,var(--chalk) 60%,transparent);padding:10px 11px 8px;border-bottom:3px solid transparent;white-space:nowrap}
@@ -195,15 +200,31 @@ footer{font-size:.78rem;color:var(--muted);padding-bottom:24px}
       <h1>LUD Bajas</h1>
       <p>Minutos y posibles bajas, sacados de las planillas oficiales de la Liga Universitaria</p>
     </div>
-    <div class="cats" id="cats" role="group" aria-label="Categoría"></div>
   </header>
+  <div class="picker wrap">
+    <div class="cats" id="cats" role="group" aria-label="Categoría"></div>
+    <div class="divs" id="divs" role="group" aria-label="Divisional"></div>
+  </div>
 </div>
 <nav class="tabs" aria-label="Secciones"><div class="wrap" id="tabs"></div></nav>
 <main class="wrap" id="main"><div class="empty">Cargando…</div></main>
 <footer class="wrap" id="foot"></footer>
 
 <script>
-const CATS = [{ id: 'mayores', nombre: 'Mayores A' }, { id: 'sub20', nombre: 'Sub 20 A' }];
+// Categorías y divisionales disponibles: salen de data/indice.json (lo escribe el robot).
+let INDICE = null;
+const DIVS = {}; // id de divisional -> { id, letra, nombre, categoria }
+const ALIAS = { mayores: 'mayores-a', sub20: 'sub20-a' }; // links viejos
+const guardar = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
+const leer = k => { try { return localStorage.getItem(k); } catch { return null; } };
+async function indice() {
+  if (!INDICE) {
+    const r = await fetch(`data/indice.json?v=${Math.floor(Date.now() / 6e5)}`);
+    INDICE = await r.json();
+    for (const c of INDICE.categorias) for (const d of c.divisionales) DIVS[d.id] = { ...d, categoria: c.id };
+  }
+  return INDICE;
+}
 const TABS = [['bajas', 'Bajas'], ['equipos', 'Equipos'], ['jugadores', 'Jugadores'], ['partidos', 'Partidos'], ['planillas', 'Planillas']];
 const cache = {};
 const $ = s => document.querySelector(s);
@@ -239,7 +260,7 @@ function rol(j) {
 async function datos(cat) {
   if (!cache[cat]) {
     const r = await fetch(`data/${cat}.json?v=${Math.floor(Date.now() / 6e5)}`);
-    if (!r.ok) throw new Error('Todavía no hay datos de esta categoría.');
+    if (!r.ok) throw new Error('Todavía no hay datos de esta divisional.');
     const d = await r.json();
     // Índices útiles.
     d.porId = Object.fromEntries(d.partidos.map(p => [p.id, p]));
@@ -257,7 +278,14 @@ async function datos(cat) {
 }
 
 function chrome(cat, tab) {
-  $('#cats').innerHTML = CATS.map(c => `<button aria-pressed="${c.id === cat}" onclick="location.hash='${link(c.id, tab === 'jugador' || tab === 'partido' || tab === 'equipo' ? tab.replace(/^(jugador|partido|equipo)$/, m => ({ jugador: 'jugadores', partido: 'partidos', equipo: 'equipos' })[m]) : tab)}'">${c.nombre}</button>`).join('');
+  // Al cambiar de divisional se queda en la misma sección (la lista, no la ficha).
+  const seccion = { jugador: 'jugadores', partido: 'partidos', equipo: 'equipos' }[tab] || tab;
+  const actual = DIVS[cat];
+  const ultimaDe = c => { const u = leer('div-' + c.id); return c.divisionales.some(d => d.id === u) ? u : c.divisionales[0].id; };
+  $('#cats').innerHTML = INDICE.categorias.map(c => `<button aria-pressed="${c.id === actual.categoria}" onclick="location.hash='${link(c.id === actual.categoria ? cat : ultimaDe(c), seccion)}'">${esc(c.nombre)}</button>`).join('');
+  const cActual = INDICE.categorias.find(c => c.id === actual.categoria);
+  $('#divs').innerHTML = cActual.divisionales.length > 1 ? cActual.divisionales.map(d => `<button aria-pressed="${d.id === cat}" aria-label="${esc(d.nombre)}" onclick="location.hash='${link(d.id, seccion)}'">${esc(d.letra)}</button>`).join('') : '';
+  document.title = `${actual.nombre} · LUD Bajas`;
   const activa = { jugador: 'jugadores', partido: 'partidos', equipo: 'equipos' }[tab] || tab;
   $('#tabs').innerHTML = TABS.map(([id, n]) => `<a href="${link(cat, id)}"${id === activa ? ' aria-current="page"' : ''}>${n}</a>`).join('');
 }
@@ -457,9 +485,13 @@ function vPlanillas(d, cat) {
 
 // ---------- router ----------
 async function render() {
-  const [cat0, tab0, ...rest] = location.hash.replace(/^#\/?/, '').split('/').map(decodeURIComponent);
-  const cat = CATS.some(c => c.id === cat0) ? cat0 : 'mayores';
+  let [cat0, tab0, ...rest] = location.hash.replace(/^#\/?/, '').split('/').map(decodeURIComponent);
+  try { await indice(); }
+  catch { $('#main').innerHTML = '<div class="empty">No se pudieron cargar los datos. Probá recargar la página.</div>'; return; }
+  cat0 = ALIAS[cat0] || cat0;
+  const cat = DIVS[cat0] ? cat0 : (DIVS[leer('div')] ? leer('div') : Object.keys(DIVS)[0]);
   const tab = tab0 || 'bajas';
+  guardar('div', cat); guardar('div-' + DIVS[cat].categoria, cat);
   chrome(cat, tab);
   const main = $('#main');
   let d;
