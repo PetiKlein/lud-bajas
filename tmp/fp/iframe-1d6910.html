@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalle de las fechas</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="filters-container"> <!-- Contenedor agregado para los filtros -->
+            <div class="filter">
+                <label for="deporte">Deporte:</label>
+                <select id="deporte">
+                    <option value="">Selecciona un Deporte</option>
+                    <!-- Las opciones de deporte se cargarán dinámicamente -->
+                </select>
+            </div>
+
+            <div class="filter">
+                <label for="torneo">Torneo:</label>
+                <select id="torneo" disabled>
+                    <option value="">Selecciona un Torneo</option>
+                    <!-- Las opciones de torneo se cargarán dinámicamente -->
+                </select>
+            </div>
+            
+            <div class="filter">
+                <label for="fecha">Fecha Desde:</label>
+                <select id="fecha" disabled>
+                    <option value="">Selecciona una Fecha</option>
+                    <!-- Las opciones de fecha se cargarán dinámicamente -->
+                </select>
+            </div>
+
+            <div class="filter">
+                <label for="tipoSancion">Tipo de Sanción:</label>
+                <select id="tipoSancion" onchange="tipoSancionCambiado()" disabled>
+                    <option value="">Selecciona el Tipo de Sanción</option>
+                    <option value="sanciones">Sanciones Automáticas</option>
+                    <option value="fallos">Fallos de Jugadores</option>
+                    <option value="fallos-personas">Fallos de Personas</option>
+                    <option value="amonestaciones">Amonestaciones</option>
+                    <option value="fallos-instituciones">Fallos de Instituciones</option>
+                </select>
+            </div>
+        </div> <!-- Fin del contenedor de filtros -->
+
+        <!-- Contenedor para mostrar resultados de partidos -->
+        <div id="resultadosPartidos" class="responsive-table">
+            <!-- La estructura de la tabla se carga aquí con script.js -->
+        </div>
+    </div>
+</body>
+</html>
