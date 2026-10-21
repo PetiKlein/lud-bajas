@@ -1,24 +1,17 @@
 #!/bin/bash
-# Temporal: baja la lista de equipos de lud-stats (con logo_url) y cada logo.
-A=https://lud-backend-ld7d.onrender.com/api
+# Temporal: los tres logos con Ñ en el nombre (hay que codificar la URL).
 mkdir -p tmp/ls/logos && cd tmp/ls
-for i in 1 2 3 4; do curl -sL --max-time 120 "$A/teams/?ordering=name&limit=500" -o teams.json && python3 -c "import json;json.load(open('teams.json'))" && break; sleep 20; done
 python3 - <<'PY'
-import json, urllib.request, os, re, hashlib
-d = json.load(open('teams.json'))
-equipos = d['results'] if isinstance(d, dict) and 'results' in d else d
-print('equipos:', len(equipos), 'claves:', list(equipos[0].keys()))
-ok = 0
-for e in equipos:
-    u = e.get('logo_url')
-    if not u: continue
-    ext = os.path.splitext(u.split('?')[0])[1].lower() or '.png'
-    nombre = f"{e.get('id')}{ext}"
-    try:
-        req = urllib.request.Request(u, headers={'User-Agent': 'lud-bajas'})
-        open('logos/' + nombre, 'wb').write(urllib.request.urlopen(req, timeout=30).read()); ok += 1
-    except Exception as ex:
-        print('fallo', u, ex)
-print('logos bajados:', ok)
+import json, urllib.request, urllib.parse, unicodedata
+for raw, id_, u in json.load(open('../faltan.json')):
+    ok = False
+    for forma in ('NFC', 'NFD'):
+        uu = urllib.parse.quote(unicodedata.normalize(forma, u), safe=':/')
+        try:
+            data = urllib.request.urlopen(urllib.request.Request(uu, headers={'User-Agent': 'lud-bajas'}), timeout=30).read()
+            if data:
+                open(f'logos/{id_}.png', 'wb').write(data); print('ok', raw, forma, len(data)); ok = True; break
+        except Exception as e:
+            print('fallo', raw, forma, e)
+    if not ok: print('NO', raw)
 PY
-ls logos | head; du -sh logos
