@@ -117,7 +117,10 @@ export async function armarPicantes() {
       const pl = pos[f.etapa]?.[f.l], pv = pos[f.etapa]?.[f.v], n = Object.keys(pos[f.etapa] || {}).length;
       const tipo = tipoPicante(f.etapa, pl, pv, n);
       if (!tipo) continue;
-      partidos.push({ div: div.id, divNombre: div.nombre, letra: div.letra, orden, k, l: f.l, v: f.v, dia: f.dia, hora: f.hora, etapa: f.etapa, pl, pv, n, tipo, altasL: altas(f.l), altasV: altas(f.v) });
+      // Para mostrar: en los grupos de abajo, la posición en la tabla general (el 1° de la permanencia es el 9°).
+      const arriba = Object.keys(pos).find(et => /t[ií]tulo/i.test(et));
+      const base = pesoEtapa(f.etapa) && arriba ? Object.keys(pos[arriba]).length : 0;
+      partidos.push({ div: div.id, divNombre: div.nombre, letra: div.letra, orden, k, l: f.l, v: f.v, dia: f.dia, hora: f.hora, etapa: f.etapa, pl, pv, n, base, tipo, altasL: altas(f.l), altasV: altas(f.v) });
     }
   }
   partidos.sort((a, b) => picantez(b) - picantez(a) || a.letra.localeCompare(b.letra) || a.orden - b.orden || (a.dia + a.hora).localeCompare(b.dia + b.hora));

@@ -672,7 +672,7 @@ function vBajas(d, cat, filtro) {
     <button class="chip" aria-pressed="${nivel === 'alta'}" onclick="location.hash='${link(cat, 'bajas', 'alta')}'">Solo nivel alto</button>
   </div>
   ${lista.length ? `<div class="row between"><h3>Próximos partidos</h3><button class="share" onclick="compartir()">${ICONO_COMPARTIR}<span>Toda la fecha</span></button></div>` + lista.map((f, i) => `<section class="fixture">
-      <div class="fixture-h"><span><b>${esc(f.l)} vs ${esc(f.v)}</b>${picanteHtml(d, f)}<br>${fDia(f.dia)}${f.hora !== '00:00' ? ' · ' + f.hora : ''}${f.etapa ? ' · ' + esc(f.etapa) : ''}${(p => p.l && p.v ? ` · ${p.l}° vs ${p.v}°` : '')(puesto(d, f))}</span><span class="row" style="gap:6px;margin-left:auto"><a class="share" href="${link(cat, 'previa', f.l + '~' + f.v)}">Previa</a><button class="share" onclick="compartir(${i})" aria-label="Compartir las bajas de ${esc(f.l)} vs ${esc(f.v)}">${ICONO_COMPARTIR}<span>Compartir</span></button></span></div>
+      <div class="fixture-h"><span><b>${esc(f.l)} vs ${esc(f.v)}</b>${picanteHtml(d, f)}<br>${fDia(f.dia)}${f.hora !== '00:00' ? ' · ' + f.hora : ''}${f.etapa ? ' · ' + esc(f.etapa) : ''}${(p => p.l && p.v ? ` · ${p.l}° vs ${p.v}°` : '')(general(d, f))}</span><span class="row" style="gap:6px;margin-left:auto"><a class="share" href="${link(cat, 'previa', f.l + '~' + f.v)}">Previa</a><button class="share" onclick="compartir(${i})" aria-label="Compartir las bajas de ${esc(f.l)} vs ${esc(f.v)}">${ICONO_COMPARTIR}<span>Compartir</span></button></span></div>
       ${lado(f.l)}${lado(f.v)}</section>`).join('') : ''}
   ${sueltos.length ? `<h3>${lista.length ? 'Sin partido programado' : 'Equipos'}</h3><section class="fixture">${sueltos.map(lado).join('')}</section>` : ''}`;
 }
@@ -1016,7 +1016,16 @@ function picante(d, f) {
   return null;
 }
 const tagPicante = t => t ? `<span class="tag picante${t === 'descenso' ? ' baja' : ''}">${t === 'descenso' ? 'Descenso' : 'Picante'}</span>` : '';
-const puestosHtml = (d, f) => { const p = puesto(d, f); return p.l && p.v ? `<span class="pos">${p.l}° vs ${p.v}°</span>` : ''; };
+// Los grupos de abajo (permanencia, copa de plata) son la segunda mitad de la tabla: su 1° es el 9° de la
+// divisional si arriba hay 8. Para mostrar, se suma la cantidad de equipos del grupo de arriba.
+function base(d, etapa) {
+  if (!pesoEtapa(etapa)) return 0;
+  const pos = posiciones(d);
+  const arriba = Object.keys(pos).find(et => /t[ií]tulo/i.test(et));
+  return arriba ? Object.keys(pos[arriba]).length : 0;
+}
+function general(d, f) { const p = puesto(d, f), b = base(d, f.etapa); return { l: p.l && p.l + b, v: p.v && p.v + b }; }
+const puestosHtml = (d, f) => { const p = general(d, f); return p.l && p.v ? `<span class="pos">${p.l}° vs ${p.v}°</span>` : ''; };
 const picanteHtml = (d, f) => tagPicante(picante(d, f));
 const previasOrden = d => { const c = importancia(d); return Object.entries(d.previas || {}).sort((a, b) => c(a[1], b[1])); };
 function vPrevias(d, cat) {
@@ -1226,7 +1235,7 @@ async function pintarPicantes() {
   const lado = (eq, x) => `<span class="t">${crest(eq)}<span>${esc(eq)}</span>${x ? `<span class="al">${x} baja${x > 1 ? 's' : ''}</span>` : ''}</span>`;
   const tarjeta = (p, i) => `<a class="pv-card" href="${link(p.div, 'previa', p.k)}"${i >= VISIBLES ? ' hidden' : ''}>
       ${lado(p.l, p.altasL)}
-      <span class="mid">${p.tipo === 'descenso' ? tagPicante('descenso') : ''}<span class="divi">${esc(p.divNombre)}</span><b>${fDia(p.dia)}</b>${p.hora !== '00:00' ? p.hora : 'a confirmar'}<span class="pos">${p.pl}° vs ${p.pv}°</span></span>
+      <span class="mid">${p.tipo === 'descenso' ? tagPicante('descenso') : ''}<span class="divi">${esc(p.divNombre)}</span><b>${fDia(p.dia)}</b>${p.hora !== '00:00' ? p.hora : 'a confirmar'}<span class="pos">${p.pl + (p.base || 0)}° vs ${p.pv + (p.base || 0)}°</span></span>
       ${lado(p.v, p.altasV)}</a>`;
   el.innerHTML = `<div><p class="eyebrow">Mayores, Sub 20 y Reserva</p><h2>Lo más picante</h2>
     <p class="lede">Cruces entre los cuatro de arriba (pelea por el título o el ascenso) y entre los cuatro de abajo de la permanencia (pelea por no descender), de todas las categorías juntas. Suma lo cerca de la punta o del fondo que están los dos equipos y lo alta que es la divisional.</p></div>
