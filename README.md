@@ -34,7 +34,8 @@ imagen que aparece al compartir el link por WhatsApp.
 - **Bajas:** para cada partido de la próxima fecha, los jugadores de cada equipo que pueden faltar:
   expulsados, suspendidos probables, titulares habituales que no jugaron el último partido,
   lesiones probables (salió temprano y no jugó el siguiente) y titulares que salieron antes del entretiempo.
-- **Previas:** para cada partido de la próxima fecha, el once probable de cada equipo (titulares de los
+- **Partidos:** arriba, la próxima fecha con la previa de cada partido; abajo, los resultados de la temporada.
+  La previa de cada partido trae el once probable de cada equipo (titulares de los
   últimos 5 partidos, sin suspendidos, con las dudas marcadas y un solo arquero), las bajas, cómo vienen (últimos 5),
   el cara a cara de la temporada entre esos clubes en todas las categorías, en qué minutos hacen y
   reciben goles, y los goleadores en racha. Se puede compartir por WhatsApp.
@@ -45,11 +46,8 @@ imagen que aparece al compartir el link por WhatsApp.
 - **Partidos:** minuto a minuto y formaciones con los minutos de cada jugador.
 - **Rankings:** más minutos, goleadores, minutos por gol, los que siempre están en cancha, los que más
   entran desde el banco, expulsiones y equipos que más rotan.
-- **Entre categorías:** jugadores que también jugaron en otra divisional (mismo carné): quién sube del
-  Sub 20, quién baja a Reserva y quién jugó el último fin de semana en dos categorías.
 - **Sanciones:** suspensiones automáticas y fallos del Tribunal (de Fallos y Penas), con cuántas fechas
   le quedarían a cada uno.
-- **Planillas:** lo que no cierra en las planillas de la Liga y cómo se resolvió.
 
 En Bajas, cada partido tiene un botón para compartir las bajas por WhatsApp (o con el menú de compartir
 del celular), y otro para mandar toda la fecha.
