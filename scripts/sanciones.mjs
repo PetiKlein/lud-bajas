@@ -15,7 +15,7 @@ async function api(params) {
   const q = new URLSearchParams(params).toString().replace(/\+/g, '%20');
   for (let intento = 1; ; intento++) {
     try {
-      const r = await fetch(`${API}?${q}`, { headers: { 'User-Agent': 'lud-bajas (github.com/PetiKlein/lud-bajas)' }, signal: AbortSignal.timeout(120000) });
+      const r = await fetch(`${API}?${q}`, { headers: { 'User-Agent': 'planilla-lud (github.com/PetiKlein/planilla-lud)' }, signal: AbortSignal.timeout(120000) });
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
       const t = (await r.text()).trim();
       if (!t) return [];

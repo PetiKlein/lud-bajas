@@ -1,4 +1,4 @@
-# LUD Bajas
+# Planilla LUD
 
 Minutos jugados y posibles bajas de la Liga Universitaria de Deportes (Uruguay), sacados de las
 planillas oficiales. Sigue Mayores (A a G), Sub 20 (A a C), Reserva (A a D), Pre Senior (A a E),
@@ -8,7 +8,7 @@ bloque, así cada equipo conserva su historia de las series, y la web muestra un
 Plata, Bronce, Competencia, Confraternidad, Amistad) con sus equipos y todos sus partidos de la temporada
 (`VISTAS` en `categorias.mjs`, `partirEnCopas()` en `analizar.mjs`).
 
-Página: https://petiklein.github.io/lud-bajas/
+Página: https://petiklein.github.io/planilla-lud/
 
 ## Diseño
 

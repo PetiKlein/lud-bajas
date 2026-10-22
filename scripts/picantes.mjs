@@ -80,7 +80,7 @@ function grupos(d) {
 async function oficial(div, serie, equipos) {
   try {
     const q = new URLSearchParams({ action: 'cargarPosiciones', temporada: TEMPORADA, deporte: 'F', torneo: div.torneo, categoria: div.categoria, serie });
-    const r = await fetch(`${API}?${q}`, { headers: { 'User-Agent': 'lud-bajas (github.com/PetiKlein/lud-bajas)' }, signal: AbortSignal.timeout(25000) });
+    const r = await fetch(`${API}?${q}`, { headers: { 'User-Agent': 'planilla-lud (github.com/PetiKlein/planilla-lud)' }, signal: AbortSignal.timeout(25000) });
     if (!r.ok) return null;
     const t = await r.json();
     const orden = t.map(x => corto(x.Institucion));
