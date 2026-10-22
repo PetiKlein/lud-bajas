@@ -43,7 +43,7 @@ imagen que aparece al compartir el link por WhatsApp.
   tuyo: próximo partido, bajas y suspendidos de todos los equipos del club, en todas las categorías.
 - **Equipos:** plantel con partidos, titularidades, minutos, goles y los últimos 5 partidos.
 - **Jugadores:** ficha de cada uno, partido a partido (cuándo entró, cuándo salió, reingresos y goles).
-- **Partidos:** minuto a minuto y formaciones con los minutos de cada jugador.
+- **Detalle de cada partido jugado:** minuto a minuto y formaciones con los minutos de cada jugador.
 - **Rankings:** más minutos, goleadores, minutos por gol, los que siempre están en cancha, los que más
   entran desde el banco, expulsiones y equipos que más rotan.
 - **Sanciones:** suspensiones automáticas y fallos del Tribunal (de Fallos y Penas), con cuántas fechas
