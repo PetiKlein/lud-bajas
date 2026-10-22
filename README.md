@@ -35,7 +35,7 @@ imagen que aparece al compartir el link por WhatsApp.
   expulsados, suspendidos probables, titulares habituales que no jugaron el último partido,
   lesiones probables (salió temprano y no jugó el siguiente) y titulares que salieron antes del entretiempo.
 - **Previas:** para cada partido de la próxima fecha, el once probable de cada equipo (titulares de los
-  últimos 5 partidos, sin suspendidos y con las dudas marcadas), las bajas, cómo vienen (últimos 5),
+  últimos 5 partidos, sin suspendidos, con las dudas marcadas y un solo arquero), las bajas, cómo vienen (últimos 5),
   el cara a cara de la temporada entre esos clubes en todas las categorías, en qué minutos hacen y
   reciben goles, y los goleadores en racha. Se puede compartir por WhatsApp.
 - **Mi equipo:** elegís tu club una vez (queda guardado en el navegador) y la web abre directo en lo
@@ -88,6 +88,13 @@ lesionado, de viaje o de exámenes. Las suspensiones se confirman en Fallos y Pe
 - GitHub Actions (`.github/workflows/actualizar.yml`) corre todo solo el domingo a las 18:35, de lunes
   a jueves a las 20:35 y el jueves a las 22:35, después de que salen los fallos (hora de Montevideo). También se puede correr a mano: Actions > "Actualizar
   planillas y bajas" > Run workflow.
+
+## Arqueros
+
+La planilla no trae posiciones. El arquero se deduce (`arqueros()` en `analizar.mjs`): arranca con la 1 o
+la 12 en al menos 6 de cada 10 partidos que es titular (y 2 como mínimo), casi nunca sale reemplazado antes
+del 80' y no hace goles. Se identifica en unos 190 de los 230 equipos; en el resto nadie usa la 1 o la 12
+de forma fija y la web lo aclara. El once probable lleva siempre un solo arquero (el más reciente).
 
 ## Lo que hay que saber de las planillas de la Liga
 

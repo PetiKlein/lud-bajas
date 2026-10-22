@@ -430,6 +430,25 @@ const claveClub = c => c.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').
 
 // Once probable: titularidades de los últimos 5 partidos, pesando más los recientes.
 // Los suspendidos quedan afuera; las dudas (lesión probable, salió temprano...) pesan menos.
+// Arqueros de un equipo. La planilla no trae posiciones, así que se deducen: el que arranca con la 1 o
+// la 12, casi nunca sale reemplazado antes del 80' y no hace goles. Hace falta que haya pasado al menos 2 veces.
+// Devuelve los carnés de mayor a menor (titular y suplente). Si no hay ninguno claro, lista vacía.
+const NUMEROS_ARQUERO = new Set(['1', '12']);
+export function arqueros(lista) {
+  const e = {};
+  for (const pt of lista) for (const [c, x] of Object.entries(pt.jugadores)) {
+    const v = (e[c] ??= { tit: 0, arq: 0, sale: 0, goles: 0 });
+    v.goles += x.goles.length;
+    if (!x.titular) continue;
+    v.tit++;
+    if (NUMEROS_ARQUERO.has(String(x.camiseta).trim())) v.arq++;
+    if (x.sale != null && x.sale < 80) v.sale++; // un cambio sobre el final no cuenta
+  }
+  return Object.entries(e)
+    .filter(([, v]) => v.arq >= 2 && v.arq / v.tit >= 0.6 && v.sale / v.tit <= 0.2 && v.goles <= 1)
+    .sort((a, b) => b[1].arq - a[1].arq).map(([c]) => c);
+}
+
 function onceProbable(equipo, lista, jugadores, alertas, G) {
   const recientes = lista.slice(-5).reverse();
   const W = [1, 0.8, 0.65, 0.5, 0.4];
@@ -454,10 +473,30 @@ function onceProbable(equipo, lista, jugadores, alertas, G) {
     candidatos.push({ c, cam: camiseta[c] || '', pct: Math.round(pts / total * 100), duda, peso: pts * factor });
   }
   candidatos.sort((a, b) => b.peso - a.peso || b.pct - a.pct);
-  const once = candidatos.slice(0, 11).map(({ peso, ...x }) => x)
-    .sort((a, b) => (Number(a.cam) || 99) - (Number(b.cam) || 99));
-  const alternativas = candidatos.slice(11, 15).map(({ peso, ...x }) => x);
-  return { once, alternativas, afuera, partidos: recientes.length };
+  // Un once tiene un solo arquero: el más probable de los arqueros del equipo. Si no quedó ninguno
+  // (por ejemplo, el titular está suspendido y el suplente casi no jugó), entra el mejor arquero
+  // disponible en lugar del último de la lista; si quedaron dos, el segundo pasa a las alternativas.
+  const arqs = arqueros(lista);
+  let elegidos = candidatos.slice(0, 11), resto = candidatos.slice(11);
+  if (arqs.length) {
+    const esArq = x => arqs.includes(x.c);
+    const enOnce = elegidos.filter(esArq);
+    const arq = enOnce[0] || candidatos.find(esArq);
+    if (arq) {
+      const fuera = elegidos.filter(x => esArq(x) && x !== arq);
+      elegidos = elegidos.filter(x => !esArq(x) || x === arq);
+      if (!elegidos.includes(arq)) elegidos.push(arq);
+      resto = [...fuera, ...resto.filter(x => x !== arq)];
+      for (const x of resto.filter(x => !esArq(x))) { if (elegidos.length >= 11) break; elegidos.push(x); }
+      resto = resto.filter(x => !elegidos.includes(x));
+      while (elegidos.length > 11) resto.unshift(elegidos.splice(elegidos.findLastIndex(x => x !== arq), 1)[0]);
+      arq.arq = 1;
+    }
+  }
+  const once = elegidos.map(({ peso, ...x }) => x)
+    .sort((a, b) => (b.arq || 0) - (a.arq || 0) || (Number(a.cam) || 99) - (Number(b.cam) || 99));
+  const alternativas = resto.slice(0, 4).map(({ peso, ...x }) => x);
+  return { once, alternativas, afuera, arqueros: arqs, partidos: recientes.length };
 }
 
 // Partidos de la temporada entre dos clubes, en todas las categorías que seguimos.

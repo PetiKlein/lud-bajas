@@ -447,6 +447,7 @@ details.more summary{cursor:pointer;font-weight:600;padding:12px 16px}
 .mine{flex:0 0 auto}
 @media (max-width:400px){.top .wrap{gap:8px}.logo b{font-size:1rem}}
 .pv-card .mid .tag.picante{display:table;margin:0 auto 6px}
+.tag.arq{background:var(--info-soft);color:var(--info)}
 </style>
 </head>
 <body>
@@ -718,7 +719,7 @@ function vEquipo(d, cat, eq) {
   ${b?.alertas.length || b?.pendientes?.length ? `<section class="fixture"><div class="fixture-h"><b>Posibles bajas</b><span>${b.proximo ? 'Próximo: vs ' + esc(b.proximo.rival) + ' · ' + fDia(b.proximo.dia) : ''}</span></div><div class="side">${pend(b)}${b.alertas.map(a => `<div class="alert"><b class="lvl ${a.nivel}">${a.nivel}</b>${a.carne ? `<a href="${link(cat, 'jugador', a.carne)}">${esc(a.nombre)}</a>` : `<b>${esc(a.nombre)}</b>`}<span>${esc(a.texto)}</span></div>`).join('')}</div></section>` : ''}
   <div class="stack"><h3>Plantel</h3><p class="lede small">Tocá un encabezado para ordenar. En los últimos 5, la barra es el tiempo jugado: verde oscuro si fue titular, claro si entró desde el banco, punteado si no jugó y la esquina roja es una expulsión.</p></div>
   <div class="tablewrap"><table id="plantel"><thead><tr>${th('nombre', 'Jugador')}${th('pj', 'PJ')}${th('tit', 'Tit')}${th('min', 'Min')}${th('gol', 'Gol')}<th>Últimos 5</th></tr></thead><tbody>
-  ${lista.map(f => `<tr><td class="name"><a href="${link(cat, 'jugador', f.c)}">${f.cam ? `<span class="num">${esc(f.cam)}</span>` : ''}${esc(f.nombre)}</a>${f.rojas ? ' <span class="tag red">' + f.rojas + ' roja' + (f.rojas > 1 ? 's' : '') + '</span>' : ''}</td><td>${f.pj}</td><td>${f.tit}</td><td><b>${f.min}</b></td><td>${f.gol || ''}</td><td><span class="last5">${cel(f)}</span></td></tr>`).join('')}
+  ${lista.map(f => `<tr><td class="name"><a href="${link(cat, 'jugador', f.c)}">${f.cam ? `<span class="num">${esc(f.cam)}</span>` : ''}${esc(f.nombre)}</a>${esArquero(d, eq, f.c) ? ' ' + TAG_ARQ : ''}${f.rojas ? ' <span class="tag red">' + f.rojas + ' roja' + (f.rojas > 1 ? 's' : '') + '</span>' : ''}</td><td>${f.pj}</td><td>${f.tit}</td><td><b>${f.min}</b></td><td>${f.gol || ''}</td><td><span class="last5">${cel(f)}</span></td></tr>`).join('')}
   </tbody></table></div>
   <div class="stack"><h3>Partidos</h3><div class="card" style="padding:0">${filaPartidos(cat, todos.map(x => x.p).slice().reverse())}</div></div>`;
 }
@@ -817,7 +818,7 @@ function vPartido(d, cat, id) {
   }).join('');
   const lineup = (lado, eq) => {
     const js = p[lado];
-    const pl = j => `<div class="pl"><span class="n">${esc(j.cam)}</span><a href="${link(cat, 'jugador', j.c)}">${esc(nom(j.c))}${j.cap ? ' <span class="tag">C</span>' : ''}${j.x ? ' <span class="tag red">roja</span>' : ''}</a><span class="mm">${j.min}'</span>${barra(j, p.fin)}</div>`;
+    const pl = j => `<div class="pl"><span class="n">${esc(j.cam)}</span><a href="${link(cat, 'jugador', j.c)}">${esc(nom(j.c))}${j.t && esArquero(d, eq, j.c) ? ' ' + TAG_ARQ : ''}${j.cap ? ' <span class="tag">C</span>' : ''}${j.x ? ' <span class="tag red">roja</span>' : ''}</a><span class="mm">${j.min}'</span>${barra(j, p.fin)}</div>`;
     return `<div class="card lineup"><h3>${esc(eq)}</h3><div class="sep">Titulares</div>${js.filter(j => j.t).map(pl).join('')}${js.some(j => !j.t) ? '<div class="sep">Entraron</div>' + js.filter(j => !j.t).map(pl).join('') : ''}</div>`;
   };
   const obs = d.calidad.find(c => c.id === p.id);
@@ -1071,14 +1072,18 @@ function goleadoresForma(d, eq) {
   for (const { x } of racha(d, eq)) if (x.p.planilla) for (const j of x.p[x.lado]) if (j.g.length) g[j.c] = (g[j.c] || 0) + j.g.length;
   return Object.entries(g).sort((a, b) => b[1] - a[1]).slice(0, 4);
 }
+// Arqueros deducidos por el robot (la planilla no trae posiciones): ver arqueros() en analizar.mjs.
+const esArquero = (d, eq, c) => (d.bajas[eq]?.probable?.arqueros || []).includes(c);
+const TAG_ARQ = '<span class="tag arq" title="Arquero (deducido: arranca con la 1 o la 12, casi nunca sale y no hace goles)">Arquero</span>';
 function vOnce(d, cat, eq) {
   const pr = d.bajas[eq]?.probable;
   if (!pr || !pr.once.length) return `<div class="card lineup"><h3>${esc(eq)}</h3><div class="ok">Sin planillas suficientes.</div></div>`;
   const nom = c => d.jugadores[c]?.nombre || c;
-  const pl = x => `<div class="pl"><span class="n">${esc(x.cam)}</span><a href="${link(cat, 'jugador', x.c)}">${esc(nom(x.c))}</a><span class="pc">${x.pct}%</span>
+  const pl = x => `<div class="pl"><span class="n">${esc(x.cam)}</span><a href="${link(cat, 'jugador', x.c)}">${esc(nom(x.c))}${x.arq || esArquero(d, eq, x.c) ? ' ' + TAG_ARQ : ''}</a><span class="pc">${x.pct}%</span>
     <div class="bar"><span style="left:0;width:${x.pct}%"></span></div>${x.duda ? `<span></span><span class="small" style="grid-column:2/4;color:var(--amber)">Duda: ${esc(x.duda)}</span>` : ''}</div>`;
   return `<div class="card xi"><h3>${esc(eq)}</h3>
     ${pr.once.map(pl).join('')}
+    ${pr.arqueros && !pr.arqueros.length ? '<p class="small muted" style="margin:8px 0 0">No se pudo identificar al arquero: nadie arranca seguido con la 1 o la 12.</p>' : ''}
     ${pr.afuera.length ? `<div class="sep">Afuera</div>${pr.afuera.map(x => `<div class="pl"><span class="n"></span><a href="${link(cat, 'jugador', x.c)}">${esc(nom(x.c))}</a><span class="pc" style="color:var(--red)">${esc(x.motivo)}</span></div>`).join('')}` : ''}
     ${pr.alternativas.length ? `<div class="sep">Los que pelean el lugar</div>${pr.alternativas.map(pl).join('')}` : ''}</div>`;
 }
@@ -1116,7 +1121,7 @@ async function compartirPrevia() {
   const { cat, k } = PREVIA; const d = cache[cat]; const f = d.previas[k];
   const nom = c => d.jugadores[c]?.nombre || c;
   const forma = eq => racha(d, eq).map(x => x.r).join('');
-  const once = eq => (d.bajas[eq]?.probable?.once || []).map(x => nom(x.c).split(' ').slice(-1)[0] + (x.duda ? ' (duda)' : '')).join(', ');
+  const once = eq => (d.bajas[eq]?.probable?.once || []).map(x => nom(x.c).split(' ').slice(-1)[0] + (x.arq ? ' (arq.)' : '') + (x.duda ? ' (duda)' : '')).join(', ');
   const bajas = eq => { const al = (d.bajas[eq]?.alertas || []).filter(a => a.nivel === 'alta'); return al.length ? al.map(a => `• ${a.nombre}: ${a.texto}`).join('\n') : 'sin bajas importantes'; };
   const texto = `⚽ Previa ${DIVS[cat].nombre}: ${f.l} vs ${f.v} (${fDia(f.dia)}${f.hora !== '00:00' ? ' ' + f.hora : ''})
 
