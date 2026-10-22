@@ -1,0 +1,261 @@
+{
+ "id": "102468",
+ "categoria": "presenior-c",
+ "serie": "PSCTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "EL CHORRO FUTBOL CLUB",
+ "gl": 6,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "982",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"C\" TIT. y ASC.",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-10-03 11:00:00",
+  "Fecha_fin": "2026-10-03 11:00:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "EL CHORRO FUTBOL CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "26521",
+   "Nombre": "SEBASTIAN DE AZPITARTE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27970",
+   "Nombre": "FELIPE GIRIBALDI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "39835",
+   "Nombre": "FRANCISCO HELMUT QUINCKE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "27147",
+   "Nombre": "JUAN IGNACIO LEONE",
+   "camiseta": "99",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28020",
+   "Nombre": "JOAQUIN JOSE CURA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "30718",
+   "Nombre": "RUDOLF RAUHUT",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "38064",
+   "Nombre": "TEOFILO SCHAICH",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "26675",
+   "Nombre": "MATIAS ALONSO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "27399",
+   "Nombre": "JOAQUIN PASQUET",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "29507",
+   "Nombre": "ANTONIO SOTO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "23517",
+   "Nombre": "ALEXANDER REINER KOSSMANN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26931",
+   "Nombre": "FEDERICO ROVELLA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "29760",
+   "Nombre": "SANTIAGO QUEIROLO",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "16337",
+   "Nombre": "NICOLAS RIENZI",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "27948",
+   "Nombre": "FEDERICO BRUN",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "34897",
+   "Nombre": "JOAQUIN PEREIRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "25837",
+   "Nombre": "VALENTIN MOSCONE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "22201",
+   "Nombre": "ALEJANDRO CASABO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "24512",
+   "Nombre": "ALVARO MARCELO BONILLA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "27940",
+   "Nombre": "JOAQUIN GARAYALDE",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33524",
+   "Nombre": "NICOLAS CHIANCONE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "33095",
+   "Nombre": "MAURICIO BINNEWIES",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27970",
+   "Jug_Sale": "FELIPE GIRIBALDI",
+   "CarneEntra": "36830",
+   "Jug_Entra": "MARIO ANDRES ORTIZ",
+   "camiseta": "25",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "30718",
+   "Jug_Sale": "RUDOLF RAUHUT",
+   "CarneEntra": "38020",
+   "Jug_Entra": "IGNACIO MARCELO URTIAGA",
+   "camiseta": "37",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "26675",
+   "Jug_Sale": "MATIAS ALONSO",
+   "CarneEntra": "27493",
+   "Jug_Entra": "JUAN FRANCISCO ZORZIN",
+   "camiseta": "19",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "29760",
+   "Jug_Sale": "SANTIAGO QUEIROLO",
+   "CarneEntra": "28130",
+   "Jug_Entra": "JUAN MARTIN FIGUEREDO",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16337",
+   "Jug_Sale": "NICOLAS RIENZI",
+   "CarneEntra": "17970",
+   "Jug_Entra": "ANDRES MARCEL ALALLON",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33524",
+   "Jug_Sale": "NICOLAS CHIANCONE",
+   "CarneEntra": "28130",
+   "Jug_Entra": "JUAN MARTIN FIGUEREDO",
+   "camiseta": "23",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23517",
+   "Nombre": "ALEXANDER REINER KOSSMANN",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "23517",
+   "Nombre": "ALEXANDER REINER KOSSMANN",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "27399",
+   "Nombre": "JOAQUIN PASQUET",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "27493",
+   "Nombre": "JUAN FRANCISCO ZORZIN",
+   "minutos": "81",
+   "EnContra": "0"
+  },
+  {
+   "carne": "29507",
+   "Nombre": "ANTONIO SOTO",
+   "minutos": "17",
+   "EnContra": "0"
+  },
+  {
+   "carne": "29507",
+   "Nombre": "ANTONIO SOTO",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

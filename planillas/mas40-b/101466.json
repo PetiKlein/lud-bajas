@@ -1,0 +1,253 @@
+{
+ "id": "101466",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "COMPLEJO LA CORUÑA(MALVAREZ)",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "SINDICATO MEDICO DEL URUGUAY",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "214",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LA CORUÑA(MALVAREZ)",
+  "Fecha_Inicio": "2026-09-05 11:05:00",
+  "Fecha_fin": "2026-09-05 11:05:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "19566",
+   "Nombre": "IGNACIO RIVAROLA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25956",
+   "Nombre": "NICOLAS FABIAN FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "23243",
+   "Nombre": "IGNACIO ROLDAN",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24705",
+   "Nombre": "RODRIGO RIVERA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "19568",
+   "Nombre": "SANTIAGO CAZALES",
+   "camiseta": "59",
+   "Capitan": ""
+  },
+  {
+   "carne": "49509",
+   "Nombre": "ADRIAN LAURINO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "23518",
+   "Nombre": "DIEGO HERNAN SCOTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62801",
+   "Nombre": "FERNANDO GABRIEL MONTIE",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "32202",
+   "Nombre": "DARIO MARTIN PIZANO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "40409",
+   "Nombre": "CARLOS FEDERICO FERREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "24154",
+   "Nombre": "JOSE IGNACIO RABELLINO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57110",
+   "Nombre": "RICHARD ALEJANDRO ARAUJO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62618",
+   "Nombre": "GERMAN GIL",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "21378",
+   "Nombre": "NICOLAS ANTUNEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "15384",
+   "Nombre": "EDUARDO NAKLE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "44695",
+   "Nombre": "GUIDO CIRINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "11858",
+   "Nombre": "JUAN ANDRES ARRAGA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "19035",
+   "Nombre": "STEVEN GABRIEL STOLFI",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30026",
+   "Nombre": "ALEJANDRO AZZIZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "25654",
+   "Nombre": "GUILLERMO DANIEL MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "43128",
+   "Nombre": "LUIS MARCELO JURADO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "56037",
+   "Nombre": "MARCOS MARSET",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23518",
+   "Jug_Sale": "DIEGO HERNAN SCOTTI",
+   "CarneEntra": "24828",
+   "Jug_Entra": "FABIAN SOSA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19568",
+   "Jug_Sale": "SANTIAGO CAZALES",
+   "CarneEntra": "44855",
+   "Jug_Entra": "GABRIEL ADOLFO CASTILLA",
+   "camiseta": "31",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "11858",
+   "Jug_Sale": "JUAN ANDRES ARRAGA",
+   "CarneEntra": "30779",
+   "Jug_Entra": "FABRICIO JORDAN LUCERO",
+   "camiseta": "24",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "25654",
+   "Jug_Sale": "GUILLERMO DANIEL MARTINEZ",
+   "CarneEntra": "62618",
+   "Jug_Entra": "GERMAN GIL",
+   "camiseta": "27",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62618",
+   "Jug_Sale": "GERMAN GIL",
+   "CarneEntra": "57110",
+   "Jug_Entra": "RICHARD ALEJANDRO ARAUJO",
+   "camiseta": "30",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "57110",
+   "Jug_Sale": "RICHARD ALEJANDRO ARAUJO",
+   "CarneEntra": "16606",
+   "Jug_Entra": "ALVARO CHIRICO",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62618",
+   "Jug_Sale": "GERMAN GIL",
+   "CarneEntra": "14857",
+   "Jug_Entra": "ROLANDO SANTANA",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30026",
+   "Jug_Sale": "ALEJANDRO AZZIZ",
+   "CarneEntra": "35376",
+   "Jug_Entra": "CARLOS ALBERTO FERREIRA",
+   "camiseta": "21",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "24705",
+   "Nombre": "RODRIGO RIVERA",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40409",
+   "Nombre": "CARLOS FEDERICO FERREIRA",
+   "minutos": "70",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

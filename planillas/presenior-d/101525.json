@@ -1,0 +1,252 @@
+{
+ "id": "101525",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "COMPLEJO MARLUNA",
+ "local": "MATECHA",
+ "visitante": "ESTUDIANTES ESPAÑOLES",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "665",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO MARLUNA",
+  "Fecha_Inicio": "2026-09-05 10:50:00",
+  "Fecha_fin": "2026-09-05 10:50:00",
+  "Locatario": "MATECHA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ESTUDIANTES ESPAÑOLES",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "34858",
+   "Nombre": "DARDO LUIS ARISMENDI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65980",
+   "Nombre": "FABRICIO MARTIN FLORES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "25641",
+   "Nombre": "MAICOHOL GABRIEL GARCIA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "26640",
+   "Nombre": "JUAN DIEGO ZUNINO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61724",
+   "Nombre": "LEANDRO REYES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "45167",
+   "Nombre": "NICOLAS RISSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67415",
+   "Nombre": "JOSE ALEJANDRO MELLUSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "41343",
+   "Nombre": "DARIO DANIEL GAZZO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57305",
+   "Nombre": "SERGIO DANIEL CAMPOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59836",
+   "Nombre": "EMILIANO ZOCCOLINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65962",
+   "Nombre": "IGNACIO PEREIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53640",
+   "Nombre": "HENRY GASTON LINK",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41079",
+   "Nombre": "RODRIGO MARCEL OVIEDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "29200",
+   "Nombre": "JAVIER RODRIGUEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "26654",
+   "Nombre": "FEDERICO GASTON GORRIA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "31375",
+   "Nombre": "GONZALO CAIRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "43679",
+   "Nombre": "BRUNO ERNESTO ALARIO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "23753",
+   "Nombre": "DIEGO MAURICIO ACOSTA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "28364",
+   "Nombre": "DANIEL SAULEDA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "23946",
+   "Nombre": "ALEJANDRO AGUSTIN DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "41852",
+   "Nombre": "GASTON FEDERICO VAURO",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "26279",
+   "Nombre": "RODRIGO EMILIANO ANTELO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "25641",
+   "Jug_Sale": "MAICOHOL GABRIEL GARCIA",
+   "CarneEntra": "66341",
+   "Jug_Entra": "SERGIO GABRIEL GUTIERREZ",
+   "camiseta": "17",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "67415",
+   "Jug_Sale": "JOSE ALEJANDRO MELLUSO",
+   "CarneEntra": "68883",
+   "Jug_Entra": "HUGO FRANCISCO OLIVERA",
+   "camiseta": "25",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "65962",
+   "Jug_Sale": "IGNACIO PEREIRA",
+   "CarneEntra": "53616",
+   "Jug_Entra": "MAURICIO VEGA",
+   "camiseta": "8",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "41343",
+   "Jug_Sale": "DARIO DANIEL GAZZO",
+   "CarneEntra": "67414",
+   "Jug_Entra": "SEBASTIAN ALEJANDRO HAHN",
+   "camiseta": "23",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "65980",
+   "Jug_Sale": "FABRICIO MARTIN FLORES",
+   "CarneEntra": "67415",
+   "Jug_Entra": "JOSE ALEJANDRO MELLUSO",
+   "camiseta": "22",
+   "minutos": "93"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "23753",
+   "Jug_Sale": "DIEGO MAURICIO ACOSTA",
+   "CarneEntra": "28364",
+   "Jug_Entra": "DANIEL SAULEDA",
+   "camiseta": "28",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "28364",
+   "Jug_Sale": "DANIEL SAULEDA",
+   "CarneEntra": "31538",
+   "Jug_Entra": "MAURICIO BELLORA",
+   "camiseta": "70",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57305",
+   "Nombre": "SERGIO DANIEL CAMPOS",
+   "minutos": "19",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "23946",
+   "Nombre": "ALEJANDRO AGUSTIN DIAZ",
+   "minutos": "72",
+   "EnContra": "1"
+  },
+  {
+   "carne": "41852",
+   "Nombre": "GASTON FEDERICO VAURO",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

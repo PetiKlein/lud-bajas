@@ -1,0 +1,310 @@
+{
+ "id": "102002",
+ "categoria": "sub18",
+ "serie": "18-22",
+ "fecha": 2,
+ "fechaHora": "2026-09-16 19:30:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "E.L.F.",
+ "visitante": "HEBRAICA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "218",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 2 RUEDA 2",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-09-16 21:30:00",
+  "Fecha_fin": "2026-09-16 21:30:00",
+  "Locatario": "E.L.F.",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "HEBRAICA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62388",
+   "Nombre": "GONZALO VERANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59824",
+   "Nombre": "ALFONSO JOSE BECOÑA",
+   "camiseta": "59",
+   "Capitan": ""
+  },
+  {
+   "carne": "59812",
+   "Nombre": "FRANCO EMANUEL NUÑEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "60273",
+   "Nombre": "LUCAS FLORENTINO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "57687",
+   "Nombre": "RAMIRO MENDEZ",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60555",
+   "Nombre": "MARCOS TRIGO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "57955",
+   "Nombre": "MATIAS VIÑAR",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64092",
+   "Nombre": "JUAN ENRIQUE ALVES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64228",
+   "Nombre": "FELIPE BARDIER",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61087",
+   "Nombre": "MANUEL RODRIGUEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67093",
+   "Nombre": "FEDERICO SISIASVILI",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59817",
+   "Nombre": "THIAGO MARTINEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "61576",
+   "Nombre": "FRANCO WAINBERG",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62778",
+   "Nombre": "TOMAS MADERO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59292",
+   "Nombre": "EZEQUIEL SKORKA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65775",
+   "Nombre": "FACUNDO KOLENDER",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59820",
+   "Nombre": "MATIAS KAPLAN",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61575",
+   "Nombre": "RONY GANDELMAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61577",
+   "Nombre": "RODRIGO BIDERMAN",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "61571",
+   "Nombre": "URIEL CYJON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62782",
+   "Nombre": "BENICIO GERSTENFELD",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "57693",
+   "Nombre": "BENJAMIN LOBLOWITZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59824",
+   "Jug_Sale": "ALFONSO JOSE BECOÑA",
+   "CarneEntra": "61161",
+   "Jug_Entra": "FACUNDO CORREA",
+   "camiseta": "90",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "57955",
+   "Jug_Sale": "MATIAS VIÑAR",
+   "CarneEntra": "62369",
+   "Jug_Entra": "MAURICIO ZECCHI",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60555",
+   "Jug_Sale": "MARCOS TRIGO",
+   "CarneEntra": "57571",
+   "Jug_Entra": "THEO FAURE",
+   "camiseta": "30",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "59812",
+   "Jug_Sale": "FRANCO EMANUEL NUÑEZ",
+   "CarneEntra": "67529",
+   "Jug_Entra": "PEDRO BAZ",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60273",
+   "Jug_Sale": "LUCAS FLORENTINO",
+   "CarneEntra": "62844",
+   "Jug_Entra": "THIAGO BOUREL",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57687",
+   "Jug_Sale": "RAMIRO MENDEZ",
+   "CarneEntra": "62054",
+   "Jug_Entra": "GERVASIO BAZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64092",
+   "Jug_Sale": "JUAN ENRIQUE ALVES",
+   "CarneEntra": "62055",
+   "Jug_Entra": "IGNACIO PAKLAYAN",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64228",
+   "Jug_Sale": "FELIPE BARDIER",
+   "CarneEntra": "59811",
+   "Jug_Entra": "JOAQUIN LEONARDO NUÑEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67093",
+   "Jug_Sale": "FEDERICO SISIASVILI",
+   "CarneEntra": "60455",
+   "Jug_Entra": "FRANCO INSAUSTI",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61087",
+   "Jug_Sale": "MANUEL RODRIGUEZ",
+   "CarneEntra": "61337",
+   "Jug_Entra": "FELIPE GRANOTICH",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59811",
+   "Jug_Sale": "JOAQUIN LEONARDO NUÑEZ",
+   "CarneEntra": "66787",
+   "Jug_Entra": "EZEQUIEL HERNANDEZ",
+   "camiseta": "80",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61571",
+   "Jug_Sale": "URIEL CYJON",
+   "CarneEntra": "62775",
+   "Jug_Entra": "ALAN BARILAS",
+   "camiseta": "10",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "62782",
+   "Jug_Sale": "BENICIO GERSTENFELD",
+   "CarneEntra": "59288",
+   "Jug_Entra": "NICOLAS COSAC",
+   "camiseta": "6",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "61575",
+   "Jug_Sale": "RONY GANDELMAN",
+   "CarneEntra": "63970",
+   "Jug_Entra": "TOBIAS EIDELMAN",
+   "camiseta": "30",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "61577",
+   "Jug_Sale": "RODRIGO BIDERMAN",
+   "CarneEntra": "59285",
+   "Jug_Entra": "MATIAS LEVY",
+   "camiseta": "7",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61087",
+   "Nombre": "MANUEL RODRIGUEZ",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57693",
+   "Nombre": "BENJAMIN LOBLOWITZ",
+   "minutos": "40",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

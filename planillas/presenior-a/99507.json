@@ -1,0 +1,279 @@
+{
+ "id": "99507",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "MADRUGADA F.C",
+ "visitante": "TENIS EL PINAR",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "55",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-30 11:00:00",
+  "Fecha_fin": "2026-05-30 11:00:00",
+  "Locatario": "MADRUGADA F.C",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "21347",
+   "Nombre": "GUILLERMO FERNANDO TORIJA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "34213",
+   "Nombre": "MATEO MARQUES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "29114",
+   "Nombre": "JOSE SEBASTIAN GRATTAROLA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "31517",
+   "Nombre": "ALEJANDRO BAUDO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "34340",
+   "Nombre": "FEDERICO VARGHA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "19135",
+   "Nombre": "NICOLAS ANDRES SCHENONE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "31925",
+   "Nombre": "PEDRO NICOLAS GARCIA",
+   "camiseta": "87",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40268",
+   "Nombre": "FABIAN RODRIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "22757",
+   "Nombre": "SEBASTIAN CORREA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "51373",
+   "Nombre": "SERGIO MAXIMILIANO PEREZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "54309",
+   "Nombre": "JUAN MANUEL PUERTA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "34543",
+   "Nombre": "HERNAN GOMEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34110",
+   "Nombre": "RODRIGO CARSIN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "38595",
+   "Nombre": "PABLO FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "29901",
+   "Nombre": "CAMILO LAGUNA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26514",
+   "Nombre": "JUAN PEDRO CHIAPPARA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "34812",
+   "Nombre": "FELIPE MOTTA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "31053",
+   "Nombre": "MARTIN NICOLAS BINCE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "37081",
+   "Nombre": "SANTIAGO LAGO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "35020",
+   "Nombre": "FEDERICO YANNUZZI",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23905",
+   "Nombre": "IGNACIO RAFAEL D AVILA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "30511",
+   "Nombre": "BRUNO ERNESTO MILAN",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "22757",
+   "Jug_Sale": "SEBASTIAN CORREA",
+   "CarneEntra": "30158",
+   "Jug_Entra": "MATIAS LIVCHICH",
+   "camiseta": "26",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "29114",
+   "Jug_Sale": "JOSE SEBASTIAN GRATTAROLA",
+   "CarneEntra": "28237",
+   "Jug_Entra": "MARCELO DAMIAN CASTRILLEJO",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "34213",
+   "Jug_Sale": "MATEO MARQUES",
+   "CarneEntra": "18456",
+   "Jug_Entra": "MARTIN MARUCA",
+   "camiseta": "17",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "35020",
+   "Jug_Sale": "FEDERICO YANNUZZI",
+   "CarneEntra": "35037",
+   "Jug_Entra": "FEDERICO CARSIN",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29901",
+   "Jug_Sale": "CAMILO LAGUNA",
+   "CarneEntra": "54800",
+   "Jug_Entra": "ADRIAN AGUIAR GERARDO",
+   "camiseta": "10",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "30511",
+   "Jug_Sale": "BRUNO ERNESTO MILAN",
+   "CarneEntra": "43193",
+   "Jug_Entra": "MATHIAS ADINOLFI",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "31053",
+   "Jug_Sale": "MARTIN NICOLAS BINCE",
+   "CarneEntra": "55681",
+   "Jug_Entra": "GABRIEL SEBASTIAN MASNER",
+   "camiseta": "7",
+   "minutos": "7"
+  },
+  {
+   "CarneSale": "37081",
+   "Jug_Sale": "SANTIAGO LAGO",
+   "CarneEntra": "26840",
+   "Jug_Entra": "HECTOR MARIANO MENDEZ",
+   "camiseta": "14",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "34812",
+   "Jug_Sale": "FELIPE MOTTA",
+   "CarneEntra": "39911",
+   "Jug_Entra": "LORENZO RAUL TENCA",
+   "camiseta": "29",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54309",
+   "Nombre": "JUAN MANUEL PUERTA",
+   "minutos": "41",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "23905",
+   "Nombre": "IGNACIO RAFAEL D AVILA",
+   "minutos": "22",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23905",
+   "Nombre": "IGNACIO RAFAEL D AVILA",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "34812",
+   "Nombre": "FELIPE MOTTA",
+   "minutos": "66",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SERGIO MAXIMILIANO PEREZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

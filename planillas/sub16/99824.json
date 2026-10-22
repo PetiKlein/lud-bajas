@@ -1,0 +1,271 @@
+{
+ "id": "99824",
+ "categoria": "sub16",
+ "serie": "16-5-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 13:30:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DLS CLUB",
+ "visitante": "ESTUDIANTES DEL PLATA",
+ "gl": 5,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "140",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 5",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-06-07 15:20:00",
+  "Fecha_fin": "2026-06-07 15:20:00",
+  "Locatario": "DLS CLUB",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "ESTUDIANTES DEL PLATA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65473",
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61947",
+   "Nombre": "TIZIANO GAMBAROTTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67087",
+   "Nombre": "FELIPE PARDO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64294",
+   "Nombre": "BENJAMIN ALVARO VILA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60631",
+   "Nombre": "EMILIANO PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67873",
+   "Nombre": "FIDEL ERNESTO REVELLO",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "67089",
+   "Nombre": "ALVARO BENJAMIN ROSEMBERG",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "68465",
+   "Nombre": "RENZO VALENTINO PORRO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66730",
+   "Nombre": "MATIAS CATTINI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67867",
+   "Nombre": "FACUNDO DIAZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65471",
+   "Nombre": "GUILLERMO LAUTARO URETA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65282",
+   "Nombre": "AGUSTIN GRECO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65287",
+   "Nombre": "JOAQUIN NICOLAS ANDRIOLI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "60482",
+   "Nombre": "DIEGO AZAMBUJA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68544",
+   "Nombre": "IGNACIO FABIAN ALPUY",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68049",
+   "Nombre": "FRANCO LESCANO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "65294",
+   "Nombre": "MARIANO ARAMIS SARINA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68545",
+   "Nombre": "IGNACIO DENIS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "65281",
+   "Nombre": "ALEJANDRO MARTIN COSTA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68051",
+   "Nombre": "FERNANDEZ GUTIERREZ NICOLAS",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67745",
+   "Nombre": "LUCIANO NICOLAS BOGAO",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67087",
+   "Jug_Sale": "FELIPE PARDO",
+   "CarneEntra": "68734",
+   "Jug_Entra": "FABIO LEONARDO DE ARMAS",
+   "camiseta": "20",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67745",
+   "Jug_Sale": "LUCIANO NICOLAS BOGAO",
+   "CarneEntra": "68678",
+   "Jug_Entra": "ENZO CASTRO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68544",
+   "Jug_Sale": "IGNACIO FABIAN ALPUY",
+   "CarneEntra": "67741",
+   "Jug_Entra": "ANDREW NICOLAS FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68049",
+   "Jug_Sale": "FRANCO LESCANO",
+   "CarneEntra": "68045",
+   "Jug_Entra": "LAUTARO MAXIMILIANO MACCIO",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65294",
+   "Jug_Sale": "MARIANO ARAMIS SARINA",
+   "CarneEntra": "68050",
+   "Jug_Entra": "THIAGO NAHUEL MUELA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65281",
+   "Jug_Sale": "ALEJANDRO MARTIN COSTA",
+   "CarneEntra": "67757",
+   "Jug_Entra": "ANYEL JULIAN SAHAKIAN",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68051",
+   "Jug_Sale": "FERNANDEZ GUTIERREZ NICOLAS",
+   "CarneEntra": "67747",
+   "Jug_Entra": "ENZO GERMAN ALDERETTE",
+   "camiseta": "7",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "65282",
+   "Jug_Sale": "AGUSTIN GRECO",
+   "CarneEntra": "68047",
+   "Jug_Entra": "FELIPE MONTES DE OCA",
+   "camiseta": "18",
+   "minutos": "55"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60631",
+   "Nombre": "EMILIANO PEREZ",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "minutos": "8",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

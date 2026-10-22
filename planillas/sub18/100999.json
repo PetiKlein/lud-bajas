@@ -1,0 +1,246 @@
+{
+ "id": "100999",
+ "categoria": "sub18",
+ "serie": "18-12",
+ "fecha": 5,
+ "fechaHora": "2026-08-16 15:30:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS CLUB",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "204",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 1 RUEDA 2",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-08-16 17:25:00",
+  "Fecha_fin": "2026-08-16 17:25:00",
+  "Locatario": "OLD CHRISTIANS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68857",
+   "Nombre": "FRANCISCO PINTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57500",
+   "Nombre": "TOMAS FESTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60209",
+   "Nombre": "BAUTISTA COSTA",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "57481",
+   "Nombre": "FACUNDO CONEN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "57496",
+   "Nombre": "TOMAS FERNANDEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "62469",
+   "Nombre": "TEO VALENTE",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61201",
+   "Nombre": "EMILIANO MAGLIONE",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "60556",
+   "Nombre": "JUAN FRANCISCO JUTGLA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "60570",
+   "Nombre": "ALFONSO PINTOS",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "57486",
+   "Nombre": "AGUSTIN TORRES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "56128",
+   "Nombre": "FRANCESCO SETTIN",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58980",
+   "Nombre": "MATEO PONCE DE LEON",
+   "camiseta": "78",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58855",
+   "Nombre": "JOAQUIN MARTINEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "62640",
+   "Nombre": "FRANCO ANDRES LOPEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59474",
+   "Nombre": "AGUSTIN CHIAPPORI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64335",
+   "Nombre": "JUAN FRANCISCO ALTESOR",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "59109",
+   "Nombre": "SANTIAGO ALVAREZ",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "59473",
+   "Nombre": "SANTIAGO OUTERELO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "68153",
+   "Nombre": "MATEO DEAMBROSI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64307",
+   "Nombre": "VALENTIN GRUBITS",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "58845",
+   "Nombre": "JUAN ENRIQUE GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62637",
+   "Nombre": "AGUSTIN GAVEL",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57500",
+   "Jug_Sale": "TOMAS FESTA",
+   "CarneEntra": "64498",
+   "Jug_Entra": "JOAQUIN GORRITI",
+   "camiseta": "90",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61201",
+   "Jug_Sale": "EMILIANO MAGLIONE",
+   "CarneEntra": "57492",
+   "Jug_Entra": "SANTIAGO BELLO",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "57496",
+   "Jug_Sale": "TOMAS FERNANDEZ",
+   "CarneEntra": "60563",
+   "Jug_Entra": "LORENZO HUGHES",
+   "camiseta": "10",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68153",
+   "Jug_Sale": "MATEO DEAMBROSI",
+   "CarneEntra": "57678",
+   "Jug_Entra": "MATIAS AGUSTIN ALVES",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64335",
+   "Jug_Sale": "JUAN FRANCISCO ALTESOR",
+   "CarneEntra": "59264",
+   "Jug_Entra": "JUAN FRANCISCO JIMENEZ DE ARECHAGA",
+   "camiseta": "73",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62640",
+   "Jug_Sale": "FRANCO ANDRES LOPEZ",
+   "CarneEntra": "62939",
+   "Jug_Entra": "JOAQUIN PACHECO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59474",
+   "Jug_Sale": "AGUSTIN CHIAPPORI",
+   "CarneEntra": "59753",
+   "Jug_Entra": "MATIAS REVELLO",
+   "camiseta": "40",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57492",
+   "Nombre": "SANTIAGO BELLO",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59109",
+   "Nombre": "SANTIAGO ALVAREZ",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,274 @@
+{
+ "id": "100325",
+ "categoria": "sub18",
+ "serie": "18-42",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 15:30:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "SEMINARIO UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "272",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 4 RUEDA 2",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-06-21 17:25:00",
+  "Fecha_fin": "2026-06-21 17:25:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "SEMINARIO UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56185",
+   "Nombre": "JUAN ANDRES BAYARDI",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60889",
+   "Nombre": "MATEO OLIVEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61620",
+   "Nombre": "FACUNDO PORRAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66346",
+   "Nombre": "FELIPE PACHECO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63690",
+   "Nombre": "BRUNO LEAL",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67913",
+   "Nombre": "ISAIAS ANDRES MACEIRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61615",
+   "Nombre": "SEBASTIAN VAITKEVICIUS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63081",
+   "Nombre": "ALEX MONNERJAHN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61625",
+   "Nombre": "FACUNDO GOLDARACENA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "61622",
+   "Nombre": "MATEO OMAR ROLAND",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "62853",
+   "Nombre": "GUILLERMO BAROFFIO",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62032",
+   "Nombre": "PEDRO NOVOA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62169",
+   "Nombre": "BAUTISTA WINS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62572",
+   "Nombre": "JUAN MARTIN AYERZA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62031",
+   "Nombre": "JUAN PEDRO GARCIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62177",
+   "Nombre": "JUAN PEDRO CARVALHO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63120",
+   "Nombre": "MANUEL LORENZO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63297",
+   "Nombre": "ALFONSO MONTESERIN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63122",
+   "Nombre": "PEDRO SANCHEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62163",
+   "Nombre": "JUAN JUSTO TRUJILLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62172",
+   "Nombre": "FELIPE LONGRES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63299",
+   "Nombre": "JOAQUIN SANTIAGO",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67913",
+   "Jug_Sale": "ISAIAS ANDRES MACEIRA",
+   "CarneEntra": "67021",
+   "Jug_Entra": "TOMAS ROMERO",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "63690",
+   "Jug_Sale": "BRUNO LEAL",
+   "CarneEntra": "64242",
+   "Jug_Entra": "GERONIMO VAYTKEVCIUS",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60889",
+   "Jug_Sale": "MATEO OLIVEIRA",
+   "CarneEntra": "66598",
+   "Jug_Entra": "SANTINO DURAND",
+   "camiseta": "22",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "61625",
+   "Jug_Sale": "FACUNDO GOLDARACENA",
+   "CarneEntra": "58653",
+   "Jug_Entra": "MATIAS HERNANDEZ",
+   "camiseta": "4",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "61615",
+   "Jug_Sale": "SEBASTIAN VAITKEVICIUS",
+   "CarneEntra": "60889",
+   "Jug_Entra": "MATEO OLIVEIRA",
+   "camiseta": "11",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62172",
+   "Jug_Sale": "FELIPE LONGRES",
+   "CarneEntra": "62558",
+   "Jug_Entra": "FELIPE PEREZ",
+   "camiseta": "8",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "63299",
+   "Jug_Sale": "JOAQUIN SANTIAGO",
+   "CarneEntra": "65366",
+   "Jug_Entra": "FACUNDO DELFINO",
+   "camiseta": "17",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "62169",
+   "Jug_Sale": "BAUTISTA WINS",
+   "CarneEntra": "63299",
+   "Jug_Entra": "JOAQUIN SANTIAGO",
+   "camiseta": "9",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63120",
+   "Jug_Sale": "MANUEL LORENZO",
+   "CarneEntra": "68243",
+   "Jug_Entra": "APARICIO OLIVERA",
+   "camiseta": "14",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60889",
+   "Nombre": "MATEO OLIVEIRA",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61622",
+   "Nombre": "MATEO OMAR ROLAND",
+   "minutos": "61",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63297",
+   "Nombre": "ALFONSO MONTESERIN",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63299",
+   "Nombre": "JOAQUIN SANTIAGO",
+   "minutos": "25",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

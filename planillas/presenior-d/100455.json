@@ -1,0 +1,284 @@
+{
+ "id": "100455",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 11,
+ "fechaHora": "2026-06-25 22:00:00",
+ "cancha": "COMPLEJO INGENIERO DEL CAMPO",
+ "local": "UT SERVIAM",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "651",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO INGENIERO DEL CAMPO",
+  "Fecha_Inicio": "2026-06-25 00:00:00",
+  "Fecha_fin": "2026-06-25 00:00:00",
+  "Locatario": "UT SERVIAM",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52060",
+   "Nombre": "SANTIAGO MARTIN PERALTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36337",
+   "Nombre": "MATIAS NICOLAS SILVEYRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "25334",
+   "Nombre": "ALBERTO JONATAN DUARTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "28727",
+   "Nombre": "GUILLERMO JOSE PAIS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "29251",
+   "Nombre": "SANTIAGO JOSE MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "31891",
+   "Nombre": "JUAN FRANCISCO IRRAZABAL",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31636",
+   "Nombre": "GABRIEL JOSE OLIVERA",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "36244",
+   "Nombre": "LUIS IGNACIO CAMPON",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "30114",
+   "Nombre": "GONZALO FELIPE IRRAZABAL",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "67336",
+   "Nombre": "DIEGO REZK",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "31791",
+   "Nombre": "JOAQUIN MARQUEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46295",
+   "Nombre": "MARTIN VARELA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30402",
+   "Nombre": "GONZALO MARTIN PERALTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "35156",
+   "Nombre": "ESTEBAN ORLANDO CABO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67893",
+   "Nombre": "FEDERICO JAVIER GONZALEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "50518",
+   "Nombre": "LUCIANO MONTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "32607",
+   "Nombre": "SANTIAGO DANIEL CARAMELLI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39618",
+   "Nombre": "AGUSTIN COSTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "37149",
+   "Nombre": "GERMAN REY",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58504",
+   "Nombre": "EMMANUEL OSCAR GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "33169",
+   "Nombre": "LUCA PRATTO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "41544",
+   "Nombre": "FEDRICO ANDRES DURAN",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "28727",
+   "Jug_Sale": "GUILLERMO JOSE PAIS",
+   "CarneEntra": "33873",
+   "Jug_Entra": "JOSE IGNACIO DALLORSO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67336",
+   "Jug_Sale": "DIEGO REZK",
+   "CarneEntra": "25307",
+   "Jug_Entra": "RAFAEL MARASCIO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36337",
+   "Jug_Sale": "MATIAS NICOLAS SILVEYRA",
+   "CarneEntra": "42325",
+   "Jug_Entra": "NICOLAS RODRIGUEZ",
+   "camiseta": "17",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "31636",
+   "Jug_Sale": "GABRIEL JOSE OLIVERA",
+   "CarneEntra": "38233",
+   "Jug_Entra": "GASTON MOLINELLI",
+   "camiseta": "8",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "36244",
+   "Jug_Sale": "LUIS IGNACIO CAMPON",
+   "CarneEntra": "46535",
+   "Jug_Entra": "MATHIAS NICOLAS MORAES",
+   "camiseta": "91",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "29251",
+   "Jug_Sale": "SANTIAGO JOSE MARTINEZ",
+   "CarneEntra": "30249",
+   "Jug_Entra": "NICOLAS JULIO BAUDEAN",
+   "camiseta": "21",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33169",
+   "Jug_Sale": "LUCA PRATTO",
+   "CarneEntra": "25665",
+   "Jug_Entra": "JONATHAN ADRIAN PACHECO",
+   "camiseta": "32",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "41544",
+   "Jug_Sale": "FEDRICO ANDRES DURAN",
+   "CarneEntra": "64852",
+   "Jug_Entra": "MAXIMO SALVATORE",
+   "camiseta": "8",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "37149",
+   "Jug_Sale": "GERMAN REY",
+   "CarneEntra": "36714",
+   "Jug_Entra": "GONZALO MARTIN FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "39618",
+   "Jug_Sale": "AGUSTIN COSTA",
+   "CarneEntra": "30387",
+   "Jug_Entra": "AGUSTIN NICOLAS GUARCH",
+   "camiseta": "36",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "58504",
+   "Jug_Sale": "EMMANUEL OSCAR GARCIA",
+   "CarneEntra": "41273",
+   "Jug_Entra": "DIEGO BRUNO ESTELLANO",
+   "camiseta": "13",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "31791",
+   "Nombre": "JOAQUIN MARQUEZ",
+   "minutos": "76",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "37149",
+   "Nombre": "GERMAN REY",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "41544",
+   "Nombre": "FEDRICO ANDRES DURAN",
+   "minutos": "59",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

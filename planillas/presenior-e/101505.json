@@ -1,0 +1,288 @@
+{
+ "id": "101505",
+ "categoria": "presenior-e",
+ "serie": "PSEB",
+ "fecha": 3,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "OLD CHRISTIANS AZUL",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "742",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PS DIV.E 1ªR COPA BRONCE",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-09-05 13:00:00",
+  "Fecha_fin": "2026-09-05 13:00:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS AZUL",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55924",
+   "Nombre": "IGNACIO ARTURO NAVARRO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41784",
+   "Nombre": "GONZALO SEBASTIAN RUELLA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28636",
+   "Nombre": "DANIEL CHIAPPINI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "25141",
+   "Nombre": "MATHIAS FRAGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63973",
+   "Nombre": "PABLO BIASCO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "21746",
+   "Nombre": "NICOLAS FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "27230",
+   "Nombre": "NICOLAS FASCIOLI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "15665",
+   "Nombre": "JOSE IGNACIO MURIAS",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31248",
+   "Nombre": "FELIPE ISI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "33205",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "42887",
+   "Nombre": "FEDERICO EDUARDO GARRIDO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29684",
+   "Nombre": "FRANCISCO MARQUES",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "44023",
+   "Nombre": "FRANCISCO CERVINO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "32831",
+   "Nombre": "IGNACIO ANDRES PONTE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62421",
+   "Nombre": "MATEO SEGURA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "54428",
+   "Nombre": "JOAQUIN GINZO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "32278",
+   "Nombre": "JAVIER LUSSICH",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62140",
+   "Nombre": "FRANCO ANDRES BOLDRINI",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "56426",
+   "Nombre": "MARTIN BALPARDA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39794",
+   "Nombre": "SEBASTIAN GUSTAVO RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "32417",
+   "Nombre": "ALBERTO ANDRES LECUEDER",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "32366",
+   "Nombre": "FELIPE ALONSO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31248",
+   "Jug_Sale": "FELIPE ISI",
+   "CarneEntra": "30625",
+   "Jug_Entra": "GIANNI IAQUINTA",
+   "camiseta": "19",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "21746",
+   "Jug_Sale": "NICOLAS FERNANDEZ",
+   "CarneEntra": "31709",
+   "Jug_Entra": "FELIPE HOUNIE",
+   "camiseta": "9",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "41784",
+   "Jug_Sale": "GONZALO SEBASTIAN RUELLA",
+   "CarneEntra": "31248",
+   "Jug_Entra": "FELIPE ISI",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42887",
+   "Jug_Sale": "FEDERICO EDUARDO GARRIDO",
+   "CarneEntra": "57281",
+   "Jug_Entra": "ALVARO MAXIMILIANO MALDONADO",
+   "camiseta": "12",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "32417",
+   "Jug_Sale": "ALBERTO ANDRES LECUEDER",
+   "CarneEntra": "36002",
+   "Jug_Entra": "SANTIAGO MANUEL NARANCIO",
+   "camiseta": "7",
+   "minutos": "39"
+  },
+  {
+   "CarneSale": "62421",
+   "Jug_Sale": "MATEO SEGURA",
+   "CarneEntra": "30216",
+   "Jug_Entra": "JOAQUIN MARQUES",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44023",
+   "Jug_Sale": "FRANCISCO CERVINO",
+   "CarneEntra": "62935",
+   "Jug_Entra": "IGNACIO DURANONA",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56426",
+   "Jug_Sale": "MARTIN BALPARDA",
+   "CarneEntra": "62611",
+   "Jug_Entra": "JACINTO MANUEL PIGURINA",
+   "camiseta": "25",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "32278",
+   "Jug_Sale": "JAVIER LUSSICH",
+   "CarneEntra": "44023",
+   "Jug_Entra": "FRANCISCO CERVINO",
+   "camiseta": "28",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "36002",
+   "Jug_Sale": "SANTIAGO MANUEL NARANCIO",
+   "CarneEntra": "22234",
+   "Jug_Entra": "SANTIAGO HORACIO SASSI",
+   "camiseta": "18",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "27230",
+   "Nombre": "NICOLAS FASCIOLI",
+   "minutos": "39",
+   "EnContra": "0"
+  },
+  {
+   "carne": "41784",
+   "Nombre": "GONZALO SEBASTIAN RUELLA",
+   "minutos": "86",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "32417",
+   "Nombre": "ALBERTO ANDRES LECUEDER",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "39794",
+   "Nombre": "SEBASTIAN GUSTAVO RODRIGUEZ",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "39794",
+   "Nombre": "SEBASTIAN GUSTAVO RODRIGUEZ",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

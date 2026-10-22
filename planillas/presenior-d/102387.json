@@ -1,0 +1,284 @@
+{
+ "id": "102387",
+ "categoria": "presenior-d",
+ "serie": "PSDPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "JEAN PIAGET",
+ "visitante": "UT SERVIAM",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "950",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"D\" PER. y DESC",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-09-26 11:00:00",
+  "Fecha_fin": "2026-09-26 11:00:00",
+  "Locatario": "JEAN PIAGET",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "UT SERVIAM",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "27576",
+   "Nombre": "JUAN SEBASTIAN RIOS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "43721",
+   "Nombre": "BRUNO RIVERO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "57709",
+   "Nombre": "FRANCISCO ETCHENIQUE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "43847",
+   "Nombre": "JOAQUIN STIRLING",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "21009",
+   "Nombre": "MAXIMILIANO AUGUSTO PEÑALVA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "45283",
+   "Nombre": "DIEGO GAURONAS",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41052",
+   "Nombre": "VALENTIN MATEO PEÑALVA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "21011",
+   "Nombre": "DANIEL IGAL GROISMAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57047",
+   "Nombre": "SERGIO GASTON MARTINEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41805",
+   "Nombre": "DIEGO AUGUSTO LORENZO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "23970",
+   "Nombre": "DIEGO ANDRES WOLF",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29251",
+   "Nombre": "SANTIAGO JOSE MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26064",
+   "Nombre": "NICOLAS GLAUSIUSS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "36337",
+   "Nombre": "MATIAS NICOLAS SILVEYRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "30308",
+   "Nombre": "GONZALO COSTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "33873",
+   "Nombre": "JOSE IGNACIO DALLORSO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "25334",
+   "Nombre": "ALBERTO JONATAN DUARTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "28828",
+   "Nombre": "DIEGO FEDERICO ROSELLI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "36244",
+   "Nombre": "LUIS IGNACIO CAMPON",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "30816",
+   "Nombre": "LUCAS RODRIGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67336",
+   "Nombre": "DIEGO REZK",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "66665",
+   "Nombre": "LUIS ISMAEL UMPIERREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23970",
+   "Jug_Sale": "DIEGO ANDRES WOLF",
+   "CarneEntra": "23874",
+   "Jug_Entra": "GAI BOROVIK",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57709",
+   "Jug_Sale": "FRANCISCO ETCHENIQUE",
+   "CarneEntra": "31632",
+   "Jug_Entra": "JUAN PEDRO IZQUIERDO",
+   "camiseta": "21",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "43847",
+   "Jug_Sale": "JOAQUIN STIRLING",
+   "CarneEntra": "44952",
+   "Jug_Entra": "ANDRES BURCATOVSKY",
+   "camiseta": "32",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "57047",
+   "Jug_Sale": "SERGIO GASTON MARTINEZ",
+   "CarneEntra": "57709",
+   "Jug_Entra": "FRANCISCO ETCHENIQUE",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "45283",
+   "Jug_Sale": "DIEGO GAURONAS",
+   "CarneEntra": "23970",
+   "Jug_Entra": "DIEGO ANDRES WOLF",
+   "camiseta": "8",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "26064",
+   "Jug_Sale": "NICOLAS GLAUSIUSS",
+   "CarneEntra": "35091",
+   "Jug_Entra": "AGUSTIN ODIZZIO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33873",
+   "Jug_Sale": "JOSE IGNACIO DALLORSO",
+   "CarneEntra": "46535",
+   "Jug_Entra": "MATHIAS NICOLAS MORAES",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67336",
+   "Jug_Sale": "DIEGO REZK",
+   "CarneEntra": "31791",
+   "Jug_Entra": "JOAQUIN MARQUEZ",
+   "camiseta": "49",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66665",
+   "Jug_Sale": "LUIS ISMAEL UMPIERREZ",
+   "CarneEntra": "38233",
+   "Jug_Entra": "GASTON MOLINELLI",
+   "camiseta": "8",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "28828",
+   "Jug_Sale": "DIEGO FEDERICO ROSELLI",
+   "CarneEntra": "36025",
+   "Jug_Entra": "JOAQUIN ENRIQUE SILVEYRA",
+   "camiseta": "13",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "36244",
+   "Jug_Sale": "LUIS IGNACIO CAMPON",
+   "CarneEntra": "30249",
+   "Jug_Entra": "NICOLAS JULIO BAUDEAN",
+   "camiseta": "21",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45283",
+   "Nombre": "DIEGO GAURONAS",
+   "minutos": "18",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28828",
+   "Nombre": "DIEGO FEDERICO ROSELLI",
+   "minutos": "14",
+   "EnContra": "1"
+  },
+  {
+   "carne": "35091",
+   "Nombre": "AGUSTIN ODIZZIO",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

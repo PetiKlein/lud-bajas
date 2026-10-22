@@ -1,0 +1,287 @@
+{
+ "id": "98238",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "ESTUDIANTES ESPAÑOLES",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "580",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-04-18 13:05:00",
+  "Fecha_fin": "2026-04-18 13:05:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ESTUDIANTES ESPAÑOLES",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "31313",
+   "Nombre": "LUIS DANIEL ROSSANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51361",
+   "Nombre": "FABRICIO PEREYRA",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40452",
+   "Nombre": "PEDRO GUILLERMO LORENZOTTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59690",
+   "Nombre": "GONZALO GABRIEL",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "64581",
+   "Nombre": "ALVARO MONTELONGO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "28662",
+   "Nombre": "JOAQUIN AMENGUAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "24842",
+   "Nombre": "ALEJANDRO ANDRES SOCA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "41680",
+   "Nombre": "MATEO GUZMAN BERGARA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "54392",
+   "Nombre": "RODRIGO ALBANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "35395",
+   "Nombre": "MASSIMILIANO PECORA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "30257",
+   "Nombre": "RODRIGO JAVIER BERASAIN",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53640",
+   "Nombre": "HENRY GASTON LINK",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "43679",
+   "Nombre": "BRUNO ERNESTO ALARIO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "34626",
+   "Nombre": "RODRIGO SEBASTIAN ANDRADA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "41417",
+   "Nombre": "MAURICIO PELUFFO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "31375",
+   "Nombre": "GONZALO CAIRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61545",
+   "Nombre": "RODRIGO DANIEL BALBI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "26654",
+   "Nombre": "FEDERICO GASTON GORRIA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "23753",
+   "Nombre": "DIEGO MAURICIO ACOSTA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "26279",
+   "Nombre": "RODRIGO EMILIANO ANTELO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64752",
+   "Nombre": "SANTIAGO OLIVERA OLIVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "29200",
+   "Nombre": "JAVIER RODRIGUEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59690",
+   "Jug_Sale": "GONZALO GABRIEL",
+   "CarneEntra": "28070",
+   "Jug_Entra": "ERNESTO ELGUE",
+   "camiseta": "20",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "28662",
+   "Jug_Sale": "JOAQUIN AMENGUAL",
+   "CarneEntra": "28071",
+   "Jug_Entra": "SEBASTIAN PENA",
+   "camiseta": "18",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "64581",
+   "Jug_Sale": "ALVARO MONTELONGO",
+   "CarneEntra": "31561",
+   "Jug_Entra": "MATHIAS GUSTAVO OSSOLA",
+   "camiseta": "46",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "51361",
+   "Jug_Sale": "FABRICIO PEREYRA",
+   "CarneEntra": "31909",
+   "Jug_Entra": "JUAN PABLO LALUZ",
+   "camiseta": "55",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35395",
+   "Jug_Sale": "MASSIMILIANO PECORA",
+   "CarneEntra": "37588",
+   "Jug_Entra": "JOSE IGNACIO SAN MARTIN",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30257",
+   "Jug_Sale": "RODRIGO JAVIER BERASAIN",
+   "CarneEntra": "67695",
+   "Jug_Entra": "JUAN ANTONIO ALVAREZ",
+   "camiseta": "71",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61545",
+   "Jug_Sale": "RODRIGO DANIEL BALBI",
+   "CarneEntra": "29200",
+   "Jug_Entra": "JAVIER RODRIGUEZ",
+   "camiseta": "3",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "29200",
+   "Jug_Sale": "JAVIER RODRIGUEZ",
+   "CarneEntra": "67556",
+   "Jug_Entra": "ADRIAN MARCEL CARRION",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31375",
+   "Jug_Sale": "GONZALO CAIRO",
+   "CarneEntra": "23946",
+   "Jug_Entra": "ALEJANDRO AGUSTIN DIAZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34626",
+   "Jug_Sale": "RODRIGO SEBASTIAN ANDRADA",
+   "CarneEntra": "41404",
+   "Jug_Entra": "SANTIAGO BALLETTO BALLETTO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26654",
+   "Jug_Sale": "FEDERICO GASTON GORRIA",
+   "CarneEntra": "41081",
+   "Jug_Entra": "MARCOS AGUSTIN GARCIA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64752",
+   "Jug_Sale": "SANTIAGO OLIVERA OLIVERA",
+   "CarneEntra": "31538",
+   "Jug_Entra": "MAURICIO BELLORA",
+   "camiseta": "70",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "26279",
+   "Jug_Sale": "RODRIGO EMILIANO ANTELO",
+   "CarneEntra": "31375",
+   "Jug_Entra": "GONZALO CAIRO",
+   "camiseta": "5",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "43679",
+   "Nombre": "BRUNO ERNESTO ALARIO",
+   "minutos": "12",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

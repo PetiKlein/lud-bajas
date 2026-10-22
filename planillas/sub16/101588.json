@@ -1,0 +1,247 @@
+{
+ "id": "101588",
+ "categoria": "sub16",
+ "serie": "16-32",
+ "fecha": 7,
+ "fechaHora": "2026-09-06 13:30:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "SCUOLA PALERMO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "224",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 3 RUEDA 2",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-09-06 15:10:00",
+  "Fecha_fin": "2026-09-06 15:10:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "SCUOLA PALERMO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61771",
+   "Nombre": "FILIPPO DE MORI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63037",
+   "Nombre": "NICOLAS SZAMES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62740",
+   "Nombre": "FELIPE CLEMENT",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63919",
+   "Nombre": "SANTINO AMAYA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64007",
+   "Nombre": "LAUTARO FERNANDEZ",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63942",
+   "Nombre": "SANTINO MORISIO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "65044",
+   "Nombre": "NICOLAS CUELLO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "63918",
+   "Nombre": "FELIPE MORIS",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "66320",
+   "Nombre": "BENJAMIN GRUDZIEN",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "63921",
+   "Nombre": "JOAQUIN ZUBILLAGA",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "63920",
+   "Nombre": "FELIPE ZUBILLAGA",
+   "camiseta": "73",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64377",
+   "Nombre": "LUCAS DI MAURO",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68377",
+   "Nombre": "THIAN BAUTISTA MORALES",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "60764",
+   "Nombre": "FACUNDO CARAMBULA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "68376",
+   "Nombre": "JUAN IGNACIO MUÑOZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60475",
+   "Nombre": "AGUSTIN ANTELO",
+   "camiseta": "56",
+   "Capitan": ""
+  },
+  {
+   "carne": "65718",
+   "Nombre": "VICENTE VALENTIN VIERA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "61437",
+   "Nombre": "MARTIN BREGSTEIN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64756",
+   "Nombre": "FELIPE REINALDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65887",
+   "Nombre": "FABRIZIO BISOGNO",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "64862",
+   "Nombre": "THIAGO PORTEIRO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "65610",
+   "Nombre": "LUCA GONZALEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63919",
+   "Jug_Sale": "SANTINO AMAYA",
+   "CarneEntra": "62741",
+   "Jug_Entra": "PEDRO MIGNONE",
+   "camiseta": "60",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63920",
+   "Jug_Sale": "FELIPE ZUBILLAGA",
+   "CarneEntra": "65599",
+   "Jug_Entra": "SEBASTIAN MARTINEZ",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66320",
+   "Jug_Sale": "BENJAMIN GRUDZIEN",
+   "CarneEntra": "65411",
+   "Jug_Entra": "FRANCISCO IGLESIA",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63921",
+   "Jug_Sale": "JOAQUIN ZUBILLAGA",
+   "CarneEntra": "63920",
+   "Jug_Entra": "FELIPE ZUBILLAGA",
+   "camiseta": "73",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64862",
+   "Jug_Sale": "THIAGO PORTEIRO",
+   "CarneEntra": "61927",
+   "Jug_Entra": "SANTIAGO BRUN",
+   "camiseta": "2",
+   "minutos": "36"
+  },
+  {
+   "CarneSale": "68377",
+   "Jug_Sale": "THIAN BAUTISTA MORALES",
+   "CarneEntra": "64160",
+   "Jug_Entra": "ALFONSO BROCH",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64862",
+   "Jug_Sale": "THIAGO PORTEIRO",
+   "CarneEntra": "68378",
+   "Jug_Entra": "SANTIAGO MATTERA",
+   "camiseta": "28",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "60475",
+   "Jug_Sale": "AGUSTIN ANTELO",
+   "CarneEntra": "64862",
+   "Jug_Entra": "THIAGO PORTEIRO",
+   "camiseta": "47",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62741",
+   "Nombre": "PEDRO MIGNONE",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

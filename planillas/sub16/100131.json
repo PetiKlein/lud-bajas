@@ -1,0 +1,241 @@
+{
+ "id": "100131",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 13:30:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "OLD CHRISTIANS CLUB",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "10",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-06-14 15:25:00",
+  "Fecha_fin": "2026-06-14 15:25:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68278",
+   "Nombre": "MATEO VALLARINO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66935",
+   "Nombre": "FRANCISCO GALLESIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61918",
+   "Nombre": "LORENZO SILVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67851",
+   "Nombre": "DIAGO CESAR MARIÑO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64906",
+   "Nombre": "JOSE APARICIO PERRIER",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64903",
+   "Nombre": "GUILLERMO LOPEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67712",
+   "Nombre": "JUAN MANUEL LAGISQUET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64905",
+   "Nombre": "TOMAS GALLO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62390",
+   "Nombre": "SANTIAGO LOMBARDO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66933",
+   "Nombre": "FRANCISCO BERRIEL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "61920",
+   "Nombre": "BAUTISTA TARIGO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62854",
+   "Nombre": "JUAN IGNACIO PIVEL",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62094",
+   "Nombre": "JUAN MARTIN MAGRI",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "67541",
+   "Nombre": "ALEJO STORACE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68039",
+   "Nombre": "SANTINO BORRAZAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67105",
+   "Nombre": "ALEJO EDUARDO LENOBLE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63325",
+   "Nombre": "JUAN MIGUEL REGUSCI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "67098",
+   "Nombre": "FELIPE ALONSO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62096",
+   "Nombre": "APARICIO SUAREZ",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "64679",
+   "Nombre": "JUAN PEDRO LANDAUER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62093",
+   "Nombre": "JUAN MANUEL BELLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62091",
+   "Nombre": "ALEJO TELLERIA",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67712",
+   "Jug_Sale": "JUAN MANUEL LAGISQUET",
+   "CarneEntra": "68363",
+   "Jug_Entra": "MATHEUS HAESBAERT",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61918",
+   "Jug_Sale": "LORENZO SILVA",
+   "CarneEntra": "63445",
+   "Jug_Entra": "TIZIANO FRASCHERI",
+   "camiseta": "4",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "62390",
+   "Jug_Sale": "SANTIAGO LOMBARDO",
+   "CarneEntra": "62396",
+   "Jug_Entra": "FELIPE ORTIZ",
+   "camiseta": "22",
+   "minutos": "17"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68039",
+   "Jug_Sale": "SANTINO BORRAZAS",
+   "CarneEntra": "68037",
+   "Jug_Entra": "DIEGO LAVISTA",
+   "camiseta": "15",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "62096",
+   "Jug_Sale": "APARICIO SUAREZ",
+   "CarneEntra": "68167",
+   "Jug_Entra": "IGNACIO COMAS",
+   "camiseta": "44",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "62091",
+   "Nombre": "ALEJO TELLERIA",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62093",
+   "Nombre": "JUAN MANUEL BELLO",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62093",
+   "Nombre": "JUAN MANUEL BELLO",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68039",
+   "Nombre": "SANTINO BORRAZAS",
+   "minutos": "72",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,299 @@
+{
+ "id": "99922",
+ "categoria": "mas40-c",
+ "serie": "40S23",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "WANDERERS",
+ "visitante": "ARQUITECTURA JRS.",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "328",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 2",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-13 11:00:00",
+  "Fecha_fin": "2026-06-13 11:00:00",
+  "Locatario": "WANDERERS",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "ARQUITECTURA JRS.",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "17824",
+   "Nombre": "DIEGO ANDRES PICUN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "20364",
+   "Nombre": "NICOLAS MARTIN ERRICO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "15281",
+   "Nombre": "JAVIER GONZALEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "30357",
+   "Nombre": "PABLO HERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "23413",
+   "Nombre": "JOSE IGNACIO PEREZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "28497",
+   "Nombre": "RODRIGO FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "22331",
+   "Nombre": "DIEGO ALBERTO FALCO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "53619",
+   "Nombre": "GABRIEL ALEJANDRO DACAL",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "17546",
+   "Nombre": "PABLO AGUSTIN EGUES",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "13375",
+   "Nombre": "EMILIANO CAMACHO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "17886",
+   "Nombre": "ENZO BOSSANO",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65224",
+   "Nombre": "LUIS SEBASTIAN VILLALBA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "34872",
+   "Nombre": "SALVADOR DANGIOLILLO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "16364",
+   "Nombre": "JUAN PABLO GESUELE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "21051",
+   "Nombre": "WALTER FEDERICO PEREZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "17884",
+   "Nombre": "DIEGO ALEJANDRO VILLAR",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "30818",
+   "Nombre": "PABLO FRADILETTI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "18044",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "26116",
+   "Nombre": "LEONARDO FACUNDO SORIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "16685",
+   "Nombre": "SEBASTIAN TURELL",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20909",
+   "Nombre": "JUAN MANUEL BLANCO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "42426",
+   "Nombre": "GERMAN PEREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "13375",
+   "Jug_Sale": "EMILIANO CAMACHO",
+   "CarneEntra": "20905",
+   "Jug_Entra": "FACUNDO LOPEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28497",
+   "Jug_Sale": "RODRIGO FERNANDEZ",
+   "CarneEntra": "13707",
+   "Jug_Entra": "FRANCISCO FRONTINI",
+   "camiseta": "17",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "23413",
+   "Jug_Sale": "JOSE IGNACIO PEREZ",
+   "CarneEntra": "61953",
+   "Jug_Entra": "NICOLAS JULIO CANESSA",
+   "camiseta": "24",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "22331",
+   "Jug_Sale": "DIEGO ALBERTO FALCO",
+   "CarneEntra": "23120",
+   "Jug_Entra": "FABRICIO ADRIAN RICOBALDI",
+   "camiseta": "10",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42426",
+   "Jug_Sale": "GERMAN PEREZ",
+   "CarneEntra": "27004",
+   "Jug_Entra": "WILSON ANDRES CORIA",
+   "camiseta": "19",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "16685",
+   "Jug_Sale": "SEBASTIAN TURELL",
+   "CarneEntra": "51375",
+   "Jug_Entra": "DORON URWICZ",
+   "camiseta": "16",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "20909",
+   "Jug_Sale": "JUAN MANUEL BLANCO",
+   "CarneEntra": "23469",
+   "Jug_Entra": "NICHOLAS STRONGITHARM",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17884",
+   "Jug_Sale": "DIEGO ALEJANDRO VILLAR",
+   "CarneEntra": "33969",
+   "Jug_Entra": "JAVIER CURIEL",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30818",
+   "Jug_Sale": "PABLO FRADILETTI",
+   "CarneEntra": "53691",
+   "Jug_Entra": "LEONARDO JAVIER DIAZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16364",
+   "Jug_Sale": "JUAN PABLO GESUELE",
+   "CarneEntra": "26469",
+   "Jug_Entra": "OSCAR MARTIN BADALA",
+   "camiseta": "27",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "17546",
+   "Nombre": "PABLO AGUSTIN EGUES",
+   "minutos": "87",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53619",
+   "Nombre": "GABRIEL ALEJANDRO DACAL",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "21051",
+   "Nombre": "WALTER FEDERICO PEREZ",
+   "minutos": "76",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23469",
+   "Nombre": "NICHOLAS STRONGITHARM",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23469",
+   "Nombre": "NICHOLAS STRONGITHARM",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "42426",
+   "Nombre": "GERMAN PEREZ",
+   "minutos": "15",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "ENZO BOSSANO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

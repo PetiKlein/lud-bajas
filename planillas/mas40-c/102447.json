@@ -1,0 +1,204 @@
+{
+ "id": "102447",
+ "categoria": "mas40-c",
+ "serie": "M40B2",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:15:00",
+ "cancha": "ACADEMIA",
+ "local": "FERROTANQUE",
+ "visitante": "UNIVERSIDAD DE MONTEVIDEO",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "395",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "3",
+  "Divisional": "M40 DIV. C COPA BRONCE R2",
+  "Cancha": "ACADEMIA",
+  "Fecha_Inicio": "2026-10-03 11:15:00",
+  "Fecha_fin": "2026-10-03 11:15:00",
+  "Locatario": "FERROTANQUE",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "UNIVERSIDAD DE MONTEVIDEO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "12221",
+   "Nombre": "MARIO CESAR RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39807",
+   "Nombre": "GUSTAVO MOSQUERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "69079",
+   "Nombre": "SANTIAGO ROBERTO BERNARDI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "22210",
+   "Nombre": "MARCOS ADOLFO AMESPIL",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "17855",
+   "Nombre": "WASHINGTON SILVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68626",
+   "Nombre": "MARIANO REBELLATO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "16747",
+   "Nombre": "PABLO DANIEL GOMEZ",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21293",
+   "Nombre": "SEBASTIAN NICOLAS BARLOCCO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "44183",
+   "Nombre": "PABLO GARRO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "69088",
+   "Nombre": "RICARDO GABRIEL ARRIETA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "49339",
+   "Nombre": "VICTOR MARTIN GUERRA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "16205",
+   "Nombre": "AITOR GALDONA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42605",
+   "Nombre": "NESTOR SCLAVI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "26201",
+   "Nombre": "CARLOS DAMYAN IGNARIO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "24784",
+   "Nombre": "RODRIGO ANTONIO VAZQUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "24432",
+   "Nombre": "MARCELO JAVIER SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "47400",
+   "Nombre": "ESTEBAN DANIEL GARCIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "13042",
+   "Nombre": "ALVARO IGNACIO AGUIRRE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "20413",
+   "Nombre": "GABRIEL CARRIQUIRY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "23543",
+   "Nombre": "SARKIS DANIEL ICHKHANIAN",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "44183",
+   "Jug_Sale": "PABLO GARRO",
+   "CarneEntra": "40570",
+   "Jug_Entra": "JOSE LEONARDO BERMUDEZ",
+   "camiseta": "19",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "21293",
+   "Jug_Sale": "SEBASTIAN NICOLAS BARLOCCO",
+   "CarneEntra": "44183",
+   "Jug_Entra": "PABLO GARRO",
+   "camiseta": "19",
+   "minutos": "40"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "40570",
+   "Nombre": "JOSE LEONARDO BERMUDEZ",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49339",
+   "Nombre": "VICTOR MARTIN GUERRA",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68626",
+   "Nombre": "MARIANO REBELLATO",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68626",
+   "Nombre": "MARIANO REBELLATO",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,306 @@
+{
+ "id": "99094",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "FUERZA AEREA",
+ "local": "CLUB FUERZA AEREA",
+ "visitante": "UT SERVIAM",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "611",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "FUERZA AEREA",
+  "Fecha_Inicio": "2026-05-23 11:00:00",
+  "Fecha_fin": "2026-05-23 11:00:00",
+  "Locatario": "CLUB FUERZA AEREA",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "UT SERVIAM",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35538",
+   "Nombre": "YAIR EDGAR MORALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24179",
+   "Nombre": "SERGIO DANIEL BIANCHI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "24282",
+   "Nombre": "GERARDO MOREIRA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "17537",
+   "Nombre": "ANGEL SEBASTIAN MOREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "18698",
+   "Nombre": "FERNANDO MACEIRA",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25991",
+   "Nombre": "FEDERICO BARDIER",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "27122",
+   "Nombre": "LEANDRO MIGUEL GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "36916",
+   "Nombre": "SANTIAGO NICOLAS RUGLIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "21318",
+   "Nombre": "PABLO DANIEL REINOSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "27563",
+   "Nombre": "ALVARO MARTIN BARDIER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "17844",
+   "Nombre": "YAMANDU SEBASTIAN SILVA",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52060",
+   "Nombre": "SANTIAGO MARTIN PERALTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "29251",
+   "Nombre": "SANTIAGO JOSE MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "37586",
+   "Nombre": "MATIAS OLALDE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "55031",
+   "Nombre": "HUGO IGNACIO TRIAS",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "31891",
+   "Nombre": "JUAN FRANCISCO IRRAZABAL",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "36244",
+   "Nombre": "LUIS IGNACIO CAMPON",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67336",
+   "Nombre": "DIEGO REZK",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "27245",
+   "Nombre": "FELIPE SPOSARO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "25334",
+   "Nombre": "ALBERTO JONATAN DUARTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "30308",
+   "Nombre": "GONZALO COSTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "31791",
+   "Nombre": "JOAQUIN MARQUEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24282",
+   "Jug_Sale": "GERARDO MOREIRA",
+   "CarneEntra": "66178",
+   "Jug_Entra": "JAIRO ALTAMIR DE LOS SANTOS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21318",
+   "Jug_Sale": "PABLO DANIEL REINOSO",
+   "CarneEntra": "26801",
+   "Jug_Entra": "RAMIRO QUAGLIATA",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27563",
+   "Jug_Sale": "ALVARO MARTIN BARDIER",
+   "CarneEntra": "21333",
+   "Jug_Entra": "GUSTAVO DANIEL GESTIDO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24179",
+   "Jug_Sale": "SERGIO DANIEL BIANCHI",
+   "CarneEntra": "20859",
+   "Jug_Entra": "IGNACIO OTASU",
+   "camiseta": "6",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "27122",
+   "Jug_Sale": "LEANDRO MIGUEL GONZALEZ",
+   "CarneEntra": "32752",
+   "Jug_Entra": "ALVARO DARIO BALCEMAO",
+   "camiseta": "27",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "20859",
+   "Jug_Sale": "IGNACIO OTASU",
+   "CarneEntra": "21755",
+   "Jug_Entra": "ROBERTO BORBONET",
+   "camiseta": "19",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "17844",
+   "Jug_Sale": "YAMANDU SEBASTIAN SILVA",
+   "CarneEntra": "63106",
+   "Jug_Entra": "NICOLAS LOPEZ",
+   "camiseta": "8",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "18698",
+   "Jug_Sale": "FERNANDO MACEIRA",
+   "CarneEntra": "20772",
+   "Jug_Entra": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67336",
+   "Jug_Sale": "DIEGO REZK",
+   "CarneEntra": "35916",
+   "Jug_Entra": "RODRIGO LUIS CUBRIA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36244",
+   "Jug_Sale": "LUIS IGNACIO CAMPON",
+   "CarneEntra": "30219",
+   "Jug_Entra": "SEBASTIAN FERRANDO",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27245",
+   "Jug_Sale": "FELIPE SPOSARO",
+   "CarneEntra": "36025",
+   "Jug_Entra": "JOAQUIN ENRIQUE SILVEYRA",
+   "camiseta": "13",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "29251",
+   "Jug_Sale": "SANTIAGO JOSE MARTINEZ",
+   "CarneEntra": "25307",
+   "Jug_Entra": "RAFAEL MARASCIO",
+   "camiseta": "9",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "25334",
+   "Jug_Sale": "ALBERTO JONATAN DUARTE",
+   "CarneEntra": "38233",
+   "Jug_Entra": "GASTON MOLINELLI",
+   "camiseta": "8",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "17844",
+   "Nombre": "YAMANDU SEBASTIAN SILVA",
+   "minutos": "64",
+   "EnContra": "0"
+  },
+  {
+   "carne": "17844",
+   "Nombre": "YAMANDU SEBASTIAN SILVA",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "27122",
+   "Nombre": "LEANDRO MIGUEL GONZALEZ",
+   "minutos": "49",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "minutos": "47",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

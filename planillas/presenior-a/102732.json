@@ -1,0 +1,304 @@
+{
+ "id": "102732",
+ "categoria": "presenior-a",
+ "serie": "PSAT",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 11:15:00",
+ "cancha": "()",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "OLD CHRISTIANS CLUB",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "787",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"A\" TITULO",
+  "Cancha": "()",
+  "Fecha_Inicio": "2026-10-10 13:00:00",
+  "Fecha_fin": "2026-10-10 13:00:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "36841",
+   "Nombre": "JUAN MANUEL RIVERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35042",
+   "Nombre": "GUILLERMO SEBASTIAN SUAREZ",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32218",
+   "Nombre": "IGNACIO DANIEL SIRIANI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "63605",
+   "Nombre": "JAVIER ADRIAN GUERRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "31721",
+   "Nombre": "AGUSTIN CHIAPPINI",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "52326",
+   "Nombre": "ALEXIS BAYON",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "54316",
+   "Nombre": "JUAN MANUEL SORIA",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "66202",
+   "Nombre": "MAURICIO ANTONIO DE LOS SANTOS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "21795",
+   "Nombre": "MAXIMILIANO PEREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31137",
+   "Nombre": "PABLO DANIEL SCALONE",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "38368",
+   "Nombre": "JUAN MANUEL BOGADO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26015",
+   "Nombre": "GUILLERMO FEDERICO BRITOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "28899",
+   "Nombre": "IGNACIO MUÑOZ",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28835",
+   "Nombre": "JUAN IGNACIO GORBARAN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "22099",
+   "Nombre": "IGNACIO MARIA PEREZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "28410",
+   "Nombre": "FELIPE JUAN URIOSTE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26729",
+   "Nombre": "LUIS IGNACIO CRISCI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33189",
+   "Nombre": "THOMAS SCHIMDT",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "51231",
+   "Nombre": "ALEJO MAYORGA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "20036",
+   "Nombre": "MATIAS CROSTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60126",
+   "Nombre": "DIEGO REIMUNDES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28143",
+   "Nombre": "EMILIANO GIOIA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63605",
+   "Jug_Sale": "JAVIER ADRIAN GUERRA",
+   "CarneEntra": "49591",
+   "Jug_Entra": "YONATAN GONZALEZ",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54316",
+   "Jug_Sale": "JUAN MANUEL SORIA",
+   "CarneEntra": "42139",
+   "Jug_Entra": "RODRIGO DANIEL SIRIANI",
+   "camiseta": "30",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "31721",
+   "Jug_Sale": "AGUSTIN CHIAPPINI",
+   "CarneEntra": "41163",
+   "Jug_Entra": "JUAN IGNACIO GOMEZ",
+   "camiseta": "34",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "32218",
+   "Jug_Sale": "IGNACIO DANIEL SIRIANI",
+   "CarneEntra": "33442",
+   "Jug_Entra": "ANTONIO GABRIEL BERMUDEZ",
+   "camiseta": "51",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "66202",
+   "Jug_Sale": "MAURICIO ANTONIO DE LOS SANTOS",
+   "CarneEntra": "29982",
+   "Jug_Entra": "JUAN ESTEBAN ELHORDOY",
+   "camiseta": "77",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "21795",
+   "Jug_Sale": "MAXIMILIANO PEREZ",
+   "CarneEntra": "34306",
+   "Jug_Entra": "MATHIAS LANZZERI",
+   "camiseta": "7",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "28143",
+   "Jug_Sale": "EMILIANO GIOIA",
+   "CarneEntra": "26727",
+   "Jug_Entra": "CARLOS EDUARDO SCHECK",
+   "camiseta": "23",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "28410",
+   "Jug_Sale": "FELIPE JUAN URIOSTE",
+   "CarneEntra": "40060",
+   "Jug_Entra": "MATEO LONG",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51231",
+   "Jug_Sale": "ALEJO MAYORGA",
+   "CarneEntra": "37322",
+   "Jug_Entra": "ANDRES ENRIQUE URIOSTE",
+   "camiseta": "22",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "33189",
+   "Jug_Sale": "THOMAS SCHIMDT",
+   "CarneEntra": "33837",
+   "Jug_Entra": "MARTIN GUIDOBONO",
+   "camiseta": "68",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "22099",
+   "Jug_Sale": "IGNACIO MARIA PEREZ",
+   "CarneEntra": "26731",
+   "Jug_Entra": "JOSE PEDRO ARAMENDIA",
+   "camiseta": "91",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "26729",
+   "Jug_Sale": "LUIS IGNACIO CRISCI",
+   "CarneEntra": "24790",
+   "Jug_Entra": "IGNACIO NOGUEIRA",
+   "camiseta": "11",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66202",
+   "Nombre": "MAURICIO ANTONIO DE LOS SANTOS",
+   "minutos": "28",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "24790",
+   "Nombre": "IGNACIO NOGUEIRA",
+   "minutos": "93",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28835",
+   "Nombre": "JUAN IGNACIO GORBARAN",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60126",
+   "Nombre": "DIEGO REIMUNDES",
+   "minutos": "26",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60126",
+   "Nombre": "DIEGO REIMUNDES",
+   "minutos": "68",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

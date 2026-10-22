@@ -1,0 +1,280 @@
+{
+ "id": "100993",
+ "categoria": "sub16",
+ "serie": "16-12",
+ "fecha": 5,
+ "fechaHora": "2026-08-16 13:30:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS CLUB",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "159",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 1 RUEDA 2",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-08-16 00:00:00",
+  "Fecha_fin": "2026-08-16 00:00:00",
+  "Locatario": "OLD CHRISTIANS CLUB",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61958",
+   "Nombre": "EUGENIO RESTANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65271",
+   "Nombre": "PEDRO JOSE LAPETINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61959",
+   "Nombre": "JUAN IGNACIO RISSO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "60379",
+   "Nombre": "JUAN FRANCISCO MILA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62096",
+   "Nombre": "APARICIO SUAREZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "62094",
+   "Nombre": "JUAN MARTIN MAGRI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64679",
+   "Nombre": "JUAN PEDRO LANDAUER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65264",
+   "Nombre": "JUANCRUZ STORACE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62093",
+   "Nombre": "JUAN MANUEL BELLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67105",
+   "Nombre": "ALEJO EDUARDO LENOBLE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62091",
+   "Nombre": "ALEJO TELLERIA",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64328",
+   "Nombre": "LORENZO BRUNO PEZZANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66947",
+   "Nombre": "TOMAS VILENSKY",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "62937",
+   "Nombre": "LEON PEDRO SCHILDE",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "66945",
+   "Nombre": "FACUNDO PERERA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "65916",
+   "Nombre": "EMILIANO PUJADAS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "67409",
+   "Nombre": "ALEJO CONDE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64890",
+   "Nombre": "MARTIN PONCE DE LEON",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63038",
+   "Nombre": "FELIPE LIGÜERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60486",
+   "Nombre": "JUAN PEDRO ALVEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62091",
+   "Jug_Sale": "ALEJO TELLERIA",
+   "CarneEntra": "63325",
+   "Jug_Entra": "JUAN MIGUEL REGUSCI",
+   "camiseta": "29",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65264",
+   "Jug_Sale": "JUANCRUZ STORACE",
+   "CarneEntra": "67541",
+   "Jug_Entra": "ALEJO STORACE",
+   "camiseta": "19",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67105",
+   "Jug_Sale": "ALEJO EDUARDO LENOBLE",
+   "CarneEntra": "62854",
+   "Jug_Entra": "JUAN IGNACIO PIVEL",
+   "camiseta": "18",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "60379",
+   "Jug_Sale": "JUAN FRANCISCO MILA",
+   "CarneEntra": "68037",
+   "Jug_Entra": "DIEGO LAVISTA",
+   "camiseta": "15",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "62093",
+   "Jug_Sale": "JUAN MANUEL BELLO",
+   "CarneEntra": "62229",
+   "Jug_Entra": "FRANCISCO CARDOSO",
+   "camiseta": "14",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65916",
+   "Jug_Sale": "EMILIANO PUJADAS",
+   "CarneEntra": "66948",
+   "Jug_Entra": "FACUNDO RADESCA",
+   "camiseta": "27",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "66947",
+   "Jug_Sale": "TOMAS VILENSKY",
+   "CarneEntra": "68771",
+   "Jug_Entra": "VALENTIN COUAYRAHOURCQ",
+   "camiseta": "77",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "60486",
+   "Jug_Sale": "JUAN PEDRO ALVEZ",
+   "CarneEntra": "66951",
+   "Jug_Entra": "MANUEL VILENSKY",
+   "camiseta": "84",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66950",
+   "Jug_Sale": "FRANCISCO CHIAPPORI",
+   "CarneEntra": "65257",
+   "Jug_Entra": "FACUNDO QUEIROLO",
+   "camiseta": "23",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64890",
+   "Jug_Sale": "MARTIN PONCE DE LEON",
+   "CarneEntra": "64330",
+   "Jug_Entra": "BAUTISTA TRIGO",
+   "camiseta": "8",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61959",
+   "Nombre": "JUAN IGNACIO RISSO",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62093",
+   "Nombre": "JUAN MANUEL BELLO",
+   "minutos": "24",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63325",
+   "Nombre": "JUAN MIGUEL REGUSCI",
+   "minutos": "74",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN MANUEL BELLO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

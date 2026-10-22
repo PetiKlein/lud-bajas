@@ -1,0 +1,263 @@
+{
+ "id": "99938",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "VERDE BREMEN",
+ "local": "RIVER PLATE UNIVERSITARIO",
+ "visitante": "SA.FE.MA",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "190",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "VERDE BREMEN",
+  "Fecha_Inicio": "2026-06-13 13:05:00",
+  "Fecha_fin": "2026-06-13 13:05:00",
+  "Locatario": "RIVER PLATE UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SA.FE.MA",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59168",
+   "Nombre": "FERNANDO IGNACIO SILVA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "21571",
+   "Nombre": "GABRIEL SUAREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61117",
+   "Nombre": "FABIAN REDIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "33349",
+   "Nombre": "GUSTAVO ELOY DELGADO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "24427",
+   "Nombre": "MARTIN FERNANDO PUERTO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "20049",
+   "Nombre": "SEBASTIAN AUYANET",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64148",
+   "Nombre": "ROBERTO EKKER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "26052",
+   "Nombre": "PABLO SEBASTIAN FERNANDEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "39847",
+   "Nombre": "JAIME GARCIA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "20360",
+   "Nombre": "GUSTAVO JUAN HONORIO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "29363",
+   "Nombre": "RAFAEL ENRIQUE PERDOMO",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "15555",
+   "Nombre": "SANTIAGO JAVIER CABALLERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35585",
+   "Nombre": "DAMIAN ANDRES PERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46359",
+   "Nombre": "GERARDO ANDRES FERRARI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "49350",
+   "Nombre": "DIEGO GUSTAVO DELFANTE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66997",
+   "Nombre": "ERNESTO ACUÑA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28626",
+   "Nombre": "JUAN JOSE MALACIC",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "22359",
+   "Nombre": "JUAN CARLOS MUSSIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "19368",
+   "Nombre": "LUCAS SOTELO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59038",
+   "Nombre": "IÑAKI BUSTINGORRI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "47402",
+   "Nombre": "MANUEL SOTELO",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48821",
+   "Nombre": "JOAQUIN ANDRES ZUNINO",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26052",
+   "Jug_Sale": "PABLO SEBASTIAN FERNANDEZ",
+   "CarneEntra": "55272",
+   "Jug_Entra": "GASTON RAFAEL PERGOLA",
+   "camiseta": "24",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "20049",
+   "Jug_Sale": "SEBASTIAN AUYANET",
+   "CarneEntra": "46421",
+   "Jug_Entra": "LUIS PABLO CHITARO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29363",
+   "Jug_Sale": "RAFAEL ENRIQUE PERDOMO",
+   "CarneEntra": "20049",
+   "Jug_Entra": "SEBASTIAN AUYANET",
+   "camiseta": "8",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "33349",
+   "Jug_Sale": "GUSTAVO ELOY DELGADO",
+   "CarneEntra": "29363",
+   "Jug_Entra": "RAFAEL ENRIQUE PERDOMO",
+   "camiseta": "14",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22359",
+   "Jug_Sale": "JUAN CARLOS MUSSIO",
+   "CarneEntra": "46359",
+   "Jug_Entra": "GERARDO ANDRES FERRARI",
+   "camiseta": "6",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "46359",
+   "Jug_Sale": "GERARDO ANDRES FERRARI",
+   "CarneEntra": "17552",
+   "Jug_Entra": "MARTIN SEBASTIAN MARQUES",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49350",
+   "Jug_Sale": "DIEGO GUSTAVO DELFANTE",
+   "CarneEntra": "62621",
+   "Jug_Entra": "ALEX JOHANN BONJOUR",
+   "camiseta": "22",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "47402",
+   "Nombre": "MANUEL SOTELO",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47402",
+   "Nombre": "MANUEL SOTELO",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "47402",
+   "Nombre": "MANUEL SOTELO",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48821",
+   "Nombre": "JOAQUIN ANDRES ZUNINO",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59038",
+   "Nombre": "IÑAKI BUSTINGORRI",
+   "minutos": "55",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

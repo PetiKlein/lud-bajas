@@ -1,0 +1,348 @@
+{
+ "id": "98191",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "DEPORTIVO MATADERO",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 4,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "586",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-18 13:10:00",
+  "Fecha_fin": "2026-04-18 13:10:00",
+  "Locatario": "DEPORTIVO MATADERO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "20058",
+   "Nombre": "NICOLAS VOLONTERIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37263",
+   "Nombre": "FELIPE MAURENTE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "28654",
+   "Nombre": "FEDERICO ISLAS",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31617",
+   "Nombre": "SANTIAGO MATO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52369",
+   "Nombre": "JOSE MARIA FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "29431",
+   "Nombre": "FRANCISCO JORGE AGUERRE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "33861",
+   "Nombre": "RODRIGO ACOSTA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "30561",
+   "Nombre": "FLAVIO STEFANO PALOMBO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "26924",
+   "Nombre": "ALVARO NICOLAS NERIS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62589",
+   "Nombre": "DIEGO NICOLAS SANTOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "48145",
+   "Nombre": "JUAN MANUEL MARTINEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59021",
+   "Nombre": "HORACIO MATIAS DEL CORRO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "37016",
+   "Nombre": "JUAN ANDRES CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "36137",
+   "Nombre": "FEDERICO MENDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "34916",
+   "Nombre": "MARCOS ALEJO SANCHEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "33691",
+   "Nombre": "GONZALO SUCAZES",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "30155",
+   "Nombre": "MANUEL FELIPE BOERO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "43724",
+   "Nombre": "EDISON ALEXANDER MONZON",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "31035",
+   "Nombre": "GIANFRANCO AMADO POSE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62589",
+   "Jug_Sale": "DIEGO NICOLAS SANTOS",
+   "CarneEntra": "31941",
+   "Jug_Entra": "RODRIGO MARTINEZ",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26924",
+   "Jug_Sale": "ALVARO NICOLAS NERIS",
+   "CarneEntra": "19723",
+   "Jug_Entra": "FEDERICO JAVIER GEDANKE",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48145",
+   "Jug_Sale": "JUAN MANUEL MARTINEZ",
+   "CarneEntra": "47886",
+   "Jug_Entra": "FELIPE ORDOQUI",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31617",
+   "Jug_Sale": "SANTIAGO MATO",
+   "CarneEntra": "18823",
+   "Jug_Entra": "SANTIAGO ADOLFO DIAZ",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28654",
+   "Jug_Sale": "FEDERICO ISLAS",
+   "CarneEntra": "32024",
+   "Jug_Entra": "DIEGO MARTIN PIÑEIRO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29431",
+   "Jug_Sale": "FRANCISCO JORGE AGUERRE",
+   "CarneEntra": "19824",
+   "Jug_Entra": "FEDERICO BRUSCHI",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33861",
+   "Jug_Sale": "RODRIGO ACOSTA",
+   "CarneEntra": "41699",
+   "Jug_Entra": "FEDERICO AGUSTIN CORES",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30561",
+   "Jug_Sale": "FLAVIO STEFANO PALOMBO",
+   "CarneEntra": "29431",
+   "Jug_Entra": "FRANCISCO JORGE AGUERRE",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19723",
+   "Jug_Sale": "FEDERICO JAVIER GEDANKE",
+   "CarneEntra": "23337",
+   "Jug_Entra": "JOAQUIN SANTIAGO MOSCA",
+   "camiseta": "20",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33691",
+   "Jug_Sale": "GONZALO SUCAZES",
+   "CarneEntra": "37034",
+   "Jug_Entra": "LEANDRO GERMAN TARANTO",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59021",
+   "Jug_Sale": "HORACIO MATIAS DEL CORRO",
+   "CarneEntra": "36444",
+   "Jug_Entra": "MARCELO JESUS BINCE",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31035",
+   "Jug_Sale": "GIANFRANCO AMADO POSE",
+   "CarneEntra": "34914",
+   "Jug_Entra": "SANTIAGO FERNANDEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34916",
+   "Jug_Sale": "MARCOS ALEJO SANCHEZ",
+   "CarneEntra": "37034",
+   "Jug_Entra": "LEANDRO GERMAN TARANTO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36444",
+   "Jug_Sale": "MARCELO JESUS BINCE",
+   "CarneEntra": "37036",
+   "Jug_Entra": "IGNACIO GONZALO PAOLILLO",
+   "camiseta": "26",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "43724",
+   "Jug_Sale": "EDISON ALEXANDER MONZON",
+   "CarneEntra": "33744",
+   "Jug_Entra": "NICOLAS MOREIRA",
+   "camiseta": "28",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "21819",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "33410",
+   "Jug_Entra": "JOSE ARAUJO",
+   "camiseta": "6",
+   "minutos": "69"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "29431",
+   "Nombre": "FRANCISCO JORGE AGUERRE",
+   "minutos": "23",
+   "EnContra": "0"
+  },
+  {
+   "carne": "30561",
+   "Nombre": "FLAVIO STEFANO PALOMBO",
+   "minutos": "19",
+   "EnContra": "0"
+  },
+  {
+   "carne": "30561",
+   "Nombre": "FLAVIO STEFANO PALOMBO",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "30561",
+   "Nombre": "FLAVIO STEFANO PALOMBO",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "33744",
+   "Nombre": "NICOLAS MOREIRA",
+   "minutos": "86",
+   "EnContra": "1"
+  },
+  {
+   "carne": "43724",
+   "Nombre": "EDISON ALEXANDER MONZON",
+   "minutos": "29",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "49",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

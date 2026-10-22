@@ -1,0 +1,256 @@
+{
+ "id": "101254",
+ "categoria": "mas40-c",
+ "serie": "M40B",
+ "fecha": 5,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "UNIVERSIDAD DE MONTEVIDEO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "376",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "M40 DIV. C COPA BRONCE R1",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-08-29 10:50:00",
+  "Fecha_fin": "2026-08-29 10:50:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "UNIVERSIDAD DE MONTEVIDEO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56722",
+   "Nombre": "ALFREDO LAGUARDA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "53136",
+   "Nombre": "RODRIGO ALONSO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67568",
+   "Nombre": "GASTON LEIVA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66459",
+   "Nombre": "IGNACIO DE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63890",
+   "Nombre": "GUSTAVO ENRIQUE COSTAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "19530",
+   "Nombre": "ALEJANDRO BENTANCUR",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "20419",
+   "Nombre": "SEBASTIAN FERNANDO DEANGELILLO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "39708",
+   "Nombre": "ANIBAL LEONARDO BARRIOS",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "31628",
+   "Nombre": "MARCELO PACHECO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57477",
+   "Nombre": "RICHARD ARTURO GENOVESE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "65311",
+   "Nombre": "WASHINGTON JOSE RODRIGUEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "20413",
+   "Nombre": "GABRIEL CARRIQUIRY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42430",
+   "Nombre": "LEANDRO TABARE VAZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "42605",
+   "Nombre": "NESTOR SCLAVI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "16205",
+   "Nombre": "AITOR GALDONA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "24784",
+   "Nombre": "RODRIGO ANTONIO VAZQUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "47400",
+   "Nombre": "ESTEBAN DANIEL GARCIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "23543",
+   "Nombre": "SARKIS DANIEL ICHKHANIAN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "20056",
+   "Nombre": "RAUL EDUARDO HIDALGO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "26201",
+   "Nombre": "CARLOS DAMYAN IGNARIO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "22645",
+   "Nombre": "IGNACIO AMERICO ECHENIQUE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "24432",
+   "Nombre": "MARCELO JAVIER SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65311",
+   "Jug_Sale": "WASHINGTON JOSE RODRIGUEZ",
+   "CarneEntra": "51564",
+   "Jug_Entra": "GONZALO MARTIN GARATE",
+   "camiseta": "77",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "57477",
+   "Jug_Sale": "RICHARD ARTURO GENOVESE",
+   "CarneEntra": "18199",
+   "Jug_Entra": "NICOLAS LOPEZ",
+   "camiseta": "3",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "39708",
+   "Jug_Sale": "ANIBAL LEONARDO BARRIOS",
+   "CarneEntra": "60166",
+   "Jug_Entra": "JAVIER ALEJANDRO CAMPOS",
+   "camiseta": "0",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "63890",
+   "Jug_Sale": "GUSTAVO ENRIQUE COSTAS",
+   "CarneEntra": "37208",
+   "Jug_Entra": "FEDERICO ISMAEL WOLCAN",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20419",
+   "Jug_Sale": "SEBASTIAN FERNANDO DEANGELILLO",
+   "CarneEntra": "26147",
+   "Jug_Entra": "ALEJANDRO JAVIER CIMAS",
+   "camiseta": "28",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42430",
+   "Jug_Sale": "LEANDRO TABARE VAZ",
+   "CarneEntra": "26201",
+   "Jug_Entra": "CARLOS DAMYAN IGNARIO",
+   "camiseta": "14",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "22645",
+   "Jug_Sale": "IGNACIO AMERICO ECHENIQUE",
+   "CarneEntra": "47400",
+   "Jug_Entra": "ESTEBAN DANIEL GARCIA",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "47400",
+   "Jug_Sale": "ESTEBAN DANIEL GARCIA",
+   "CarneEntra": "13042",
+   "Jug_Entra": "ALVARO IGNACIO AGUIRRE",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26201",
+   "Jug_Sale": "CARLOS DAMYAN IGNARIO",
+   "CarneEntra": "17667",
+   "Jug_Entra": "WILFREDO CLAUDIO CAMACHO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47400",
+   "Jug_Sale": "ESTEBAN DANIEL GARCIA",
+   "CarneEntra": "42430",
+   "Jug_Entra": "LEANDRO TABARE VAZ",
+   "camiseta": "18",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

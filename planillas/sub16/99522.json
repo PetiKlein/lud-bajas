@@ -1,0 +1,325 @@
+{
+ "id": "99522",
+ "categoria": "sub16",
+ "serie": "16-3-",
+ "fecha": 6,
+ "fechaHora": "2026-05-31 13:30:00",
+ "cancha": "SCUOLA ITALIANA",
+ "local": "SCUOLA PALERMO",
+ "visitante": "A.E.B.U",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "77",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 3",
+  "Cancha": "SCUOLA ITALIANA",
+  "Fecha_Inicio": "2026-05-31 15:30:00",
+  "Fecha_fin": "2026-05-31 15:30:00",
+  "Locatario": "SCUOLA PALERMO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "A.E.B.U",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65600",
+   "Nombre": "BENICIO SASSON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68377",
+   "Nombre": "THIAN BAUTISTA MORALES",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60764",
+   "Nombre": "FACUNDO CARAMBULA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "60475",
+   "Nombre": "AGUSTIN ANTELO",
+   "camiseta": "56",
+   "Capitan": ""
+  },
+  {
+   "carne": "65887",
+   "Nombre": "FABRIZIO BISOGNO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63142",
+   "Nombre": "SANTIAGO METTEO SEVRINI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "63514",
+   "Nombre": "LUCAS TAROCO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "61437",
+   "Nombre": "MARTIN BREGSTEIN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64862",
+   "Nombre": "THIAGO PORTEIRO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "65718",
+   "Nombre": "VICENTE VALENTIN VIERA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "60477",
+   "Nombre": "LUCA LORIETO",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65140",
+   "Nombre": "JOAQUIN REVELLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65132",
+   "Nombre": "ANGEL AMENGOR",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65133",
+   "Nombre": "MARCO STEFANO FERRANTY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67229",
+   "Nombre": "VALENTIN CABRERA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67228",
+   "Nombre": "THIAGO PEREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65130",
+   "Nombre": "FELIPE CUETO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "68641",
+   "Nombre": "BENICIO CAYAFFA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67733",
+   "Nombre": "ALEJANDRO MARRERO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "66119",
+   "Nombre": "SANTIAGO MANUEL SILVA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67734",
+   "Nombre": "BENJAMIN PAIS",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "65128",
+   "Nombre": "RONALD CASTELLON",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63142",
+   "Jug_Sale": "SANTIAGO METTEO SEVRINI",
+   "CarneEntra": "68376",
+   "Jug_Entra": "JUAN IGNACIO MUÑOZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63514",
+   "Jug_Sale": "LUCAS TAROCO",
+   "CarneEntra": "64756",
+   "Jug_Entra": "FELIPE REINALDO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61437",
+   "Jug_Sale": "MARTIN BREGSTEIN",
+   "CarneEntra": "68377",
+   "Jug_Entra": "THIAN BAUTISTA MORALES",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68377",
+   "Jug_Sale": "THIAN BAUTISTA MORALES",
+   "CarneEntra": "61927",
+   "Jug_Entra": "SANTIAGO BRUN",
+   "camiseta": "2",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "60764",
+   "Jug_Sale": "FACUNDO CARAMBULA",
+   "CarneEntra": "64160",
+   "Jug_Entra": "ALFONSO BROCH",
+   "camiseta": "23",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "64862",
+   "Jug_Sale": "THIAGO PORTEIRO",
+   "CarneEntra": "65615",
+   "Jug_Entra": "MAURIZIO XAVIER SORRONDEGUI",
+   "camiseta": "20",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "65718",
+   "Jug_Sale": "VICENTE VALENTIN VIERA",
+   "CarneEntra": "63142",
+   "Jug_Entra": "SANTIAGO METTEO SEVRINI",
+   "camiseta": "77",
+   "minutos": "63"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65140",
+   "Jug_Sale": "JOAQUIN REVELLO",
+   "CarneEntra": "67290",
+   "Jug_Entra": "DIEGO FERNANDO NICOLENCO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65133",
+   "Jug_Sale": "MARCO STEFANO FERRANTY",
+   "CarneEntra": "67231",
+   "Jug_Entra": "CAMILO MARTIN PEREZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65128",
+   "Jug_Sale": "RONALD CASTELLON",
+   "CarneEntra": "65139",
+   "Jug_Entra": "DANIEL ANTONIO LEYVA",
+   "camiseta": "30",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "67228",
+   "Jug_Sale": "THIAGO PEREZ",
+   "CarneEntra": "67230",
+   "Jug_Entra": "JOSE FRANCISCO BLANCO",
+   "camiseta": "14",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "65132",
+   "Jug_Sale": "ANGEL AMENGOR",
+   "CarneEntra": "65422",
+   "Jug_Entra": "AGUSTIN NUÑEZ",
+   "camiseta": "6",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "68641",
+   "Jug_Sale": "BENICIO CAYAFFA",
+   "CarneEntra": "65128",
+   "Jug_Entra": "RONALD CASTELLON",
+   "camiseta": "2",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "67733",
+   "Jug_Sale": "ALEJANDRO MARRERO",
+   "CarneEntra": "67228",
+   "Jug_Entra": "THIAGO PEREZ",
+   "camiseta": "20",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60477",
+   "Nombre": "LUCA LORIETO",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60477",
+   "Nombre": "LUCA LORIETO",
+   "minutos": "82",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61927",
+   "Nombre": "SANTIAGO BRUN",
+   "minutos": "73",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64756",
+   "Nombre": "FELIPE REINALDO",
+   "minutos": "44",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67733",
+   "Nombre": "ALEJANDRO MARRERO",
+   "minutos": "4",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "VALENTIN CABRERA",
+   "observaciones": ""
+  }
+ ]
+}

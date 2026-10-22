@@ -1,0 +1,261 @@
+{
+ "id": "100229",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "ARGOS ",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "198",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-06-20 13:15:00",
+  "Fecha_fin": "2026-06-20 13:15:00",
+  "Locatario": "ARGOS ",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "27339",
+   "Nombre": "RODRIGO LEONEL GONZALEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "65239",
+   "Nombre": "GUZMAN MOUHAPE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "50530",
+   "Nombre": "SEBASTIAN JARA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "33380",
+   "Nombre": "GERARDO MENDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "31613",
+   "Nombre": "LUCAS LEONEL BOUISSA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64831",
+   "Nombre": "DARIO MARTIN SANCHEZ",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35424",
+   "Nombre": "MARIO MACHADO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67473",
+   "Nombre": "JUAN FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68573",
+   "Nombre": "DIEGO COSTA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "32868",
+   "Nombre": "GUILLERMO SILVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38103",
+   "Nombre": "FACUNDO PEREYRA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67636",
+   "Nombre": "RICARDO GONCALVES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25030",
+   "Nombre": "JUAN MANUEL ROVELLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "31935",
+   "Nombre": "JUAN ANDRES SILVA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "16315",
+   "Nombre": "MATIAS FERMIN IRAZABAL",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25876",
+   "Nombre": "SANTIAGO ANDRES ARROYO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "28502",
+   "Nombre": "MARTIN PRESNO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "29031",
+   "Nombre": "FERNANDO BELOSO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "28499",
+   "Nombre": "MARTIN LARRAURI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62272",
+   "Nombre": "DIEGO NICOLAS LA PAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "25301",
+   "Nombre": "GERONIMO METHOL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68614",
+   "Nombre": " JUAN FRANCISCO CASTRO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "35424",
+   "Jug_Sale": "MARIO MACHADO",
+   "CarneEntra": "66159",
+   "Jug_Entra": "JHONY ALEXANDER BARCIA",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33380",
+   "Jug_Sale": "GERARDO MENDEZ",
+   "CarneEntra": "62323",
+   "Jug_Entra": "JEREMMY MICHAEL RAMIREZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64831",
+   "Jug_Sale": "DARIO MARTIN SANCHEZ",
+   "CarneEntra": "35424",
+   "Jug_Entra": "MARIO MACHADO",
+   "camiseta": "8",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67636",
+   "Jug_Sale": "RICARDO GONCALVES",
+   "CarneEntra": "33528",
+   "Jug_Entra": "DARWIN ERNESTO RODRIGUEZ",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29031",
+   "Jug_Sale": "FERNANDO BELOSO",
+   "CarneEntra": "23563",
+   "Jug_Entra": "JOSE LUIS OLIVERA",
+   "camiseta": "14",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "28502",
+   "Jug_Sale": "MARTIN PRESNO",
+   "CarneEntra": "33243",
+   "Jug_Entra": "ALFONSO FREIRIA",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "68614",
+   "Jug_Sale": " JUAN FRANCISCO CASTRO",
+   "CarneEntra": "17005",
+   "Jug_Entra": "RAFAEL STARICCO",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "28499",
+   "Jug_Sale": "MARTIN LARRAURI",
+   "CarneEntra": "37949",
+   "Jug_Entra": "IGNACIO ROSATI",
+   "camiseta": "13",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "25301",
+   "Jug_Sale": "GERONIMO METHOL",
+   "CarneEntra": "28502",
+   "Jug_Entra": "MARTIN PRESNO",
+   "camiseta": "19",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "28502",
+   "Nombre": "MARTIN PRESNO",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68614",
+   "Nombre": " JUAN FRANCISCO CASTRO",
+   "minutos": "17",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

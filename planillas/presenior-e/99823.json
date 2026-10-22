@@ -1,0 +1,311 @@
+{
+ "id": "99823",
+ "categoria": "presenior-e",
+ "serie": "PSE2",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 09:00:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "CLUB ATLETICO AGUADA",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "561",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 2",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-06-06 10:50:00",
+  "Fecha_fin": "2026-06-06 10:50:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ATLETICO AGUADA",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "22425",
+   "Nombre": "MARTIN SCAVONE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27230",
+   "Nombre": "NICOLAS FASCIOLI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "28829",
+   "Nombre": "SERGIO GERARDO BESOMI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "63973",
+   "Nombre": "PABLO BIASCO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "15665",
+   "Nombre": "JOSE IGNACIO MURIAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "41784",
+   "Nombre": "GONZALO SEBASTIAN RUELLA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "21746",
+   "Nombre": "NICOLAS FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "31248",
+   "Nombre": "FELIPE ISI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "55924",
+   "Nombre": "IGNACIO ARTURO NAVARRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "25141",
+   "Nombre": "MATHIAS FRAGA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56145",
+   "Nombre": "GIOVANNI FEDERICO BENVENUTO",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52551",
+   "Nombre": "GIANCARLO CORBELLINI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36896",
+   "Nombre": "JUAN IGNACIO PEYRO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "28132",
+   "Nombre": "MARTIN ECHEGARAY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "24851",
+   "Nombre": "DANIEL ECHAGARAY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39203",
+   "Nombre": "ANDRY WAY RUIZ DIAZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32733",
+   "Nombre": "RAMIRO DE LA PUENTE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "33312",
+   "Nombre": "HERNAN RUMBO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "37270",
+   "Nombre": "LEONARDO MAURICIO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "32569",
+   "Nombre": "EDUARDO DANIEL SAURINA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "29741",
+   "Nombre": "JUAN IGNACIO BRESQUE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54433",
+   "Nombre": "GONZALO GRILLE",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "28829",
+   "Jug_Sale": "SERGIO GERARDO BESOMI",
+   "CarneEntra": "31709",
+   "Jug_Entra": "FELIPE HOUNIE",
+   "camiseta": "9",
+   "minutos": "29"
+  },
+  {
+   "CarneSale": "41784",
+   "Jug_Sale": "GONZALO SEBASTIAN RUELLA",
+   "CarneEntra": "42353",
+   "Jug_Entra": "NICOLAS MARTIN",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63973",
+   "Jug_Sale": "PABLO BIASCO",
+   "CarneEntra": "31679",
+   "Jug_Entra": "DIEGO TOME",
+   "camiseta": "11",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "31248",
+   "Jug_Sale": "FELIPE ISI",
+   "CarneEntra": "30625",
+   "Jug_Entra": "GIANNI IAQUINTA",
+   "camiseta": "19",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "56145",
+   "Jug_Sale": "GIOVANNI FEDERICO BENVENUTO",
+   "CarneEntra": "33113",
+   "Jug_Entra": "GERONIMO SANCHEZ",
+   "camiseta": "40",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "22425",
+   "Jug_Sale": "MARTIN SCAVONE",
+   "CarneEntra": "67882",
+   "Jug_Entra": "IGNACIO SCELZA",
+   "camiseta": "80",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52551",
+   "Jug_Sale": "GIANCARLO CORBELLINI",
+   "CarneEntra": "27765",
+   "Jug_Entra": "RODRIGO GRILLE",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36896",
+   "Jug_Sale": "JUAN IGNACIO PEYRO",
+   "CarneEntra": "31934",
+   "Jug_Entra": "JAVIER ANDRES GARCIA",
+   "camiseta": "50",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54433",
+   "Jug_Sale": "GONZALO GRILLE",
+   "CarneEntra": "28276",
+   "Jug_Entra": "DIEGO MARTIN GUTIERREZ",
+   "camiseta": "9",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "29741",
+   "Jug_Sale": "JUAN IGNACIO BRESQUE",
+   "CarneEntra": "50541",
+   "Jug_Entra": "MARCELO JUNIOR FERNANDEZ",
+   "camiseta": "13",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "32733",
+   "Jug_Sale": "RAMIRO DE LA PUENTE",
+   "CarneEntra": "65002",
+   "Jug_Entra": "LESTER DIAZ",
+   "camiseta": "3",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "27230",
+   "Nombre": "NICOLAS FASCIOLI",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "27230",
+   "Nombre": "NICOLAS FASCIOLI",
+   "minutos": "55",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "29741",
+   "Nombre": "JUAN IGNACIO BRESQUE",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "33312",
+   "Nombre": "HERNAN RUMBO",
+   "minutos": "36",
+   "EnContra": "1"
+  },
+  {
+   "carne": "39203",
+   "Nombre": "ANDRY WAY RUIZ DIAZ",
+   "minutos": "91",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54433",
+   "Nombre": "GONZALO GRILLE",
+   "minutos": "48",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SERGIO GERARDO BESOMI",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "IGNACIO ARTURO NAVARRO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

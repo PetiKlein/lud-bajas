@@ -1,0 +1,236 @@
+{
+ "id": "102466",
+ "categoria": "mas40-a",
+ "serie": "40CO",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "UNIVERSITARIO VERONES",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "407",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAS40 \"A\" TITULO",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-10-03 11:00:00",
+  "Fecha_fin": "2026-10-03 11:00:00",
+  "Locatario": "UNIVERSITARIO VERONES",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63287",
+   "Nombre": "RICARDO DANIEL PAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33519",
+   "Nombre": "PABLO BERMUDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "32302",
+   "Nombre": "HECTOR MARCELO PEREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "32893",
+   "Nombre": "MAURICIO ANDRES REFRESQUINI",
+   "camiseta": "85",
+   "Capitan": ""
+  },
+  {
+   "carne": "18132",
+   "Nombre": "SEBASTIAN MIGUEL GARCIA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "17835",
+   "Nombre": "FERNANDO SILVA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "25293",
+   "Nombre": "NICOLAS GALUP",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "19369",
+   "Nombre": "LUIS IGNACIO FORTE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "16647",
+   "Nombre": "FERNANDO DANIEL BETARTE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54394",
+   "Nombre": "DANIEL NICOLAS ALVAREZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "40522",
+   "Nombre": "PABLO MIGUEL OTTONELLI",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29630",
+   "Nombre": "GUILLERMO ALTMANN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "21016",
+   "Nombre": "DIEGO CUENCA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "19652",
+   "Nombre": "NICOLAS VILASECA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "18057",
+   "Nombre": "GUSTAVO CHIARINO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "21640",
+   "Nombre": "FEDERICO VILASECA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "16467",
+   "Nombre": "FERNANDO JIMENEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "19656",
+   "Nombre": "JUAN MARTIN GORTARI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "19571",
+   "Nombre": "GABRIEL PAYSSE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "18136",
+   "Nombre": "RODNEY CARLOS BRUCE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "16225",
+   "Nombre": "NICOLAS JUAN BRAUSE",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "16827",
+   "Nombre": "JAVIER BURGOS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "17835",
+   "Jug_Sale": "FERNANDO SILVA",
+   "CarneEntra": "35285",
+   "Jug_Entra": "JULIO BRAYAN MELLO",
+   "camiseta": "18",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "40522",
+   "Jug_Sale": "PABLO MIGUEL OTTONELLI",
+   "CarneEntra": "38761",
+   "Jug_Entra": "CHRISTIANS ADRIAN QUIMBO",
+   "camiseta": "16",
+   "minutos": "42"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "19656",
+   "Jug_Sale": "JUAN MARTIN GORTARI",
+   "CarneEntra": "20004",
+   "Jug_Entra": "IGNACIO ABADIE",
+   "camiseta": "18",
+   "minutos": "1"
+  },
+  {
+   "CarneSale": "16225",
+   "Jug_Sale": "NICOLAS JUAN BRAUSE",
+   "CarneEntra": "18545",
+   "Jug_Entra": "DIEGO RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "18545",
+   "Jug_Sale": "DIEGO RODRIGUEZ",
+   "CarneEntra": "16410",
+   "Jug_Entra": "JUAN PEDRO SABELLA",
+   "camiseta": "24",
+   "minutos": "92"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "19369",
+   "Nombre": "LUIS IGNACIO FORTE",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "16827",
+   "Nombre": "JAVIER BURGOS",
+   "minutos": "7",
+   "EnContra": "1"
+  },
+  {
+   "carne": "20004",
+   "Nombre": "IGNACIO ABADIE",
+   "minutos": "56",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,350 @@
+{
+ "id": "99759",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 13:30:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "POCO SITIO PLAYA VERDE",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "27",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-06-07 15:10:00",
+  "Fecha_fin": "2026-06-07 15:10:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "POCO SITIO PLAYA VERDE",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67901",
+   "Nombre": "MATEO CHAVES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62257",
+   "Nombre": "EMILIANO GARCIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62250",
+   "Nombre": "JUSTINO QUINTERO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67899",
+   "Nombre": "DIEGO AGUSTIN RIVERO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64458",
+   "Nombre": "MATEO CUSATO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "68525",
+   "Nombre": "ADIP NASSER",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64456",
+   "Nombre": "GIANLUCA IORLANO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "62247",
+   "Nombre": "TOMAS BENTANCOR",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66828",
+   "Nombre": "JUAN MARTIN BELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62268",
+   "Nombre": "MATEO RULLO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "62252",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68723",
+   "Nombre": "MATIAS ARMAND UGON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67115",
+   "Nombre": "NICOLAS STORACE",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67118",
+   "Nombre": "PAOLO FORNARI TASHIRO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67120",
+   "Nombre": "FAUSTINO BACHINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67110",
+   "Nombre": "JOAQUIN MENDOZA IZETTA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "67119",
+   "Nombre": "JUAN IGNACIO ESTELLES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67123",
+   "Nombre": "FELIPE SALVIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67109",
+   "Nombre": "NICOLAS PAIS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67973",
+   "Nombre": "LUCAS CASTRO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67972",
+   "Nombre": "BENJAMIN BERMUDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67971",
+   "Nombre": "AGUSTIN LUCAS GALICIA",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67901",
+   "Jug_Sale": "MATEO CHAVES",
+   "CarneEntra": "60587",
+   "Jug_Entra": "LEONEL GERONIMO SINFUENTES",
+   "camiseta": "89",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62257",
+   "Jug_Sale": "EMILIANO GARCIA",
+   "CarneEntra": "67896",
+   "Jug_Entra": "MATEO HERNANDEZ",
+   "camiseta": "66",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64458",
+   "Jug_Sale": "MATEO CUSATO",
+   "CarneEntra": "67898",
+   "Jug_Entra": "MATHIAS MANUEL SALDAÑA",
+   "camiseta": "77",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64456",
+   "Jug_Sale": "GIANLUCA IORLANO",
+   "CarneEntra": "68766",
+   "Jug_Entra": "SANTIAGO DIAZ",
+   "camiseta": "29",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62247",
+   "Jug_Sale": "TOMAS BENTANCOR",
+   "CarneEntra": "67900",
+   "Jug_Entra": "NICOLAS CAPORALE",
+   "camiseta": "21",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62268",
+   "Jug_Sale": "MATEO RULLO",
+   "CarneEntra": "68277",
+   "Jug_Entra": "VALENTINO LOPEZ",
+   "camiseta": "79",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67899",
+   "Jug_Sale": "DIEGO AGUSTIN RIVERO",
+   "CarneEntra": "62483",
+   "Jug_Entra": "JUAN IGNACIO FREGUEIRO",
+   "camiseta": "15",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "68525",
+   "Jug_Sale": "ADIP NASSER",
+   "CarneEntra": "65450",
+   "Jug_Entra": "RAMIRO BOO",
+   "camiseta": "18",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "66828",
+   "Jug_Sale": "JUAN MARTIN BELLO",
+   "CarneEntra": "67845",
+   "Jug_Entra": "BENJAMIN TORRES",
+   "camiseta": "9",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "62252",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "67222",
+   "Jug_Entra": "ANTONY DAVID ZARRAGA",
+   "camiseta": "84",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "62250",
+   "Jug_Sale": "JUSTINO QUINTERO",
+   "CarneEntra": "67221",
+   "Jug_Entra": "SEBASTIAN JESUS ALBINO",
+   "camiseta": "71",
+   "minutos": "64"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67115",
+   "Jug_Sale": "NICOLAS STORACE",
+   "CarneEntra": "67109",
+   "Jug_Entra": "NICOLAS PAIS",
+   "camiseta": "22",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "68723",
+   "Jug_Sale": "MATIAS ARMAND UGON",
+   "CarneEntra": "67125",
+   "Jug_Entra": "VICENTE SAUTO",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67119",
+   "Jug_Sale": "JUAN IGNACIO ESTELLES",
+   "CarneEntra": "67970",
+   "Jug_Entra": "FEDERICO LUMACA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67109",
+   "Jug_Sale": "NICOLAS PAIS",
+   "CarneEntra": "67126",
+   "Jug_Entra": "JUAN IGNACIO VIEITES",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67118",
+   "Jug_Sale": "PAOLO FORNARI TASHIRO",
+   "CarneEntra": "67124",
+   "Jug_Entra": "DIEGO GAMBARDELLA",
+   "camiseta": "33",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "67973",
+   "Jug_Sale": "LUCAS CASTRO",
+   "CarneEntra": "67119",
+   "Jug_Entra": "JUAN IGNACIO ESTELLES",
+   "camiseta": "5",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62252",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "minutos": "9",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65450",
+   "Nombre": "RAMIRO BOO",
+   "minutos": "61",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66828",
+   "Nombre": "JUAN MARTIN BELLO",
+   "minutos": "19",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67898",
+   "Nombre": "MATHIAS MANUEL SALDAÑA",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67900",
+   "Nombre": "NICOLAS CAPORALE",
+   "minutos": "72",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67972",
+   "Nombre": "BENJAMIN BERMUDEZ",
+   "minutos": "69",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

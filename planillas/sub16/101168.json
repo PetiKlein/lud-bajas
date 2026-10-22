@@ -1,0 +1,278 @@
+{
+ "id": "101168",
+ "categoria": "sub16",
+ "serie": "16-52",
+ "fecha": 6,
+ "fechaHora": "2026-08-28 20:00:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "TACUAREMBO UNIVERSITARIO",
+ "visitante": "DLS CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "273",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 5 RUEDA 2",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-08-28 21:30:00",
+  "Fecha_fin": "2026-08-28 21:30:00",
+  "Locatario": "TACUAREMBO UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DLS CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "69039",
+   "Nombre": "VELENTINO MARQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66912",
+   "Nombre": "RODRIGO SANCHEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66915",
+   "Nombre": "FRANCISCO NIEMANN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66914",
+   "Nombre": "VICENTE BERRIEL",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67217",
+   "Nombre": "NICOLAS CASTELLUCCIO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67213",
+   "Nombre": "JUAN MANUEL PALEO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66753",
+   "Nombre": "ISMAEL ALEJANDRO IFRAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67219",
+   "Nombre": "TOMAS RAMA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66916",
+   "Nombre": "THIAGO MARTIN QUIRICO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67829",
+   "Nombre": "MANUEL RAMIREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65277",
+   "Nombre": "THIAGO CALCAGNO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64054",
+   "Nombre": "SALVADOR MANUEL LAGOA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65473",
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "68734",
+   "Nombre": "FABIO LEONARDO DE ARMAS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "61695",
+   "Nombre": "BRUNO GABRIEL PAZO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61698",
+   "Nombre": "BENJAMIN MOREIRA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61700",
+   "Nombre": "MATIAS GONZALEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67087",
+   "Nombre": "FELIPE PARDO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64294",
+   "Nombre": "BENJAMIN ALVARO VILA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61699",
+   "Nombre": "MATIAS DELGADO",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "60704",
+   "Nombre": "ALAN GABRIEL CHAPARRO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66915",
+   "Jug_Sale": "FRANCISCO NIEMANN",
+   "CarneEntra": "66750",
+   "Jug_Entra": "EMILIANO MOLINA",
+   "camiseta": "67",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "67829",
+   "Jug_Sale": "MANUEL RAMIREZ",
+   "CarneEntra": "68990",
+   "Jug_Entra": "FELIPE CORNU",
+   "camiseta": "45",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "66912",
+   "Jug_Sale": "RODRIGO SANCHEZ",
+   "CarneEntra": "66751",
+   "Jug_Entra": "JUAN IGNACIO TIO",
+   "camiseta": "27",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "65277",
+   "Jug_Sale": "THIAGO CALCAGNO",
+   "CarneEntra": "66919",
+   "Jug_Entra": "JUAN IGNACIO GALMES",
+   "camiseta": "14",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61698",
+   "Jug_Sale": "BENJAMIN MOREIRA",
+   "CarneEntra": "60631",
+   "Jug_Entra": "EMILIANO PEREZ",
+   "camiseta": "7",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "61699",
+   "Jug_Sale": "MATIAS DELGADO",
+   "CarneEntra": "61947",
+   "Jug_Entra": "TIZIANO GAMBAROTTA",
+   "camiseta": "18",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "67087",
+   "Jug_Sale": "FELIPE PARDO",
+   "CarneEntra": "67089",
+   "Jug_Entra": "ALVARO BENJAMIN ROSEMBERG",
+   "camiseta": "16",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "60704",
+   "Jug_Sale": "ALAN GABRIEL CHAPARRO",
+   "CarneEntra": "66007",
+   "Jug_Entra": "MARCELO ALESSANDRO CEPELLINI",
+   "camiseta": "8",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64294",
+   "Jug_Sale": "BENJAMIN ALVARO VILA",
+   "CarneEntra": "66728",
+   "Jug_Entra": "GABRIEL SORIANO",
+   "camiseta": "13",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67829",
+   "Nombre": "MANUEL RAMIREZ",
+   "minutos": "4",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64294",
+   "Nombre": "BENJAMIN ALVARO VILA",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64294",
+   "Nombre": "BENJAMIN ALVARO VILA",
+   "minutos": "79",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "TOMAS RAMA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "observaciones": ""
+  }
+ ]
+}

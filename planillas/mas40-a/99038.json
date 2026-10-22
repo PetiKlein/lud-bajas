@@ -1,0 +1,304 @@
+{
+ "id": "99038",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "X - 13 UNIVERSITARIO",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "47",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-23 10:50:00",
+  "Fecha_fin": "2026-05-23 10:50:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "X - 13 UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "29565",
+   "Nombre": "CARLOS WILFREDO ANDRIOLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "40599",
+   "Nombre": "FEDERICO ANTONIO LOVESIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "28701",
+   "Nombre": "RICHARD JESUS LERETE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "18894",
+   "Nombre": "IGNACIO ROBERTO DE MULA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "18904",
+   "Nombre": "FEDERICO BICCHIERAI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "13715",
+   "Nombre": "DIEGO FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "21536",
+   "Nombre": "FRANCISCO SEBASTIAN FRONTINI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "14617",
+   "Nombre": "OSMAR DARIO MUÑOZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "19586",
+   "Nombre": "FEDERICO REYES",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "21549",
+   "Nombre": "DIEGO OMAR BUCERO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "19945",
+   "Nombre": "MARCELO CID DE LA PAZ",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "23492",
+   "Nombre": "SANTIAGO MATIAS ORTIZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26702",
+   "Nombre": "JOSE LUIS LOMBARDO",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "26156",
+   "Nombre": "PABLO IGNACIO COLL",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42683",
+   "Nombre": "FABIO ENRIQUE RICCA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "21138",
+   "Nombre": "MARCELO DANIEL MULLER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "39630",
+   "Nombre": "JAVIER ISAAC SCOTTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "67179",
+   "Nombre": "SEBASTIAN ALBERTO BALIÑO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "25647",
+   "Nombre": "ANIBAL VILLA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "28639",
+   "Nombre": "PEDRO ESTEBAN CHIFFONE",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "18644",
+   "Nombre": "MAURICIO GONZALO SANTOS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "54450",
+   "Nombre": "BERNARDO GABRIEL BACCINO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "21549",
+   "Jug_Sale": "DIEGO OMAR BUCERO",
+   "CarneEntra": "31040",
+   "Jug_Entra": "JUAN PEDRO CID DE LA PAZ",
+   "camiseta": "24",
+   "minutos": "11"
+  },
+  {
+   "CarneSale": "40599",
+   "Jug_Sale": "FEDERICO ANTONIO LOVESIO",
+   "CarneEntra": "20885",
+   "Jug_Entra": "BRUNO ELIS VERNASSA",
+   "camiseta": "11",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "19945",
+   "Jug_Sale": "MARCELO CID DE LA PAZ",
+   "CarneEntra": "32421",
+   "Jug_Entra": "PABLO GUSTAVO MUÑOZ",
+   "camiseta": "26",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "31040",
+   "Jug_Sale": "JUAN PEDRO CID DE LA PAZ",
+   "CarneEntra": "14849",
+   "Jug_Entra": "WALTER DE LAZZARI",
+   "camiseta": "17",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "13715",
+   "Jug_Sale": "DIEGO FERNANDEZ",
+   "CarneEntra": "62048",
+   "Jug_Entra": "PABLO ROTULO",
+   "camiseta": "29",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "26702",
+   "Jug_Sale": "JOSE LUIS LOMBARDO",
+   "CarneEntra": "15796",
+   "Jug_Entra": "DAMIAN DIAZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25647",
+   "Jug_Sale": "ANIBAL VILLA",
+   "CarneEntra": "19072",
+   "Jug_Entra": "NICOLAS MAXIMILIANO IVANOVICH",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26156",
+   "Jug_Sale": "PABLO IGNACIO COLL",
+   "CarneEntra": "33162",
+   "Jug_Entra": "FEDERICO DAMIAN PAIVA",
+   "camiseta": "45",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67179",
+   "Jug_Sale": "SEBASTIAN ALBERTO BALIÑO",
+   "CarneEntra": "54287",
+   "Jug_Entra": "JOAQUIN LOPEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42683",
+   "Jug_Sale": "FABIO ENRIQUE RICCA",
+   "CarneEntra": "21241",
+   "Jug_Entra": "NICOLAS VALLVERDU",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28639",
+   "Jug_Sale": "PEDRO ESTEBAN CHIFFONE",
+   "CarneEntra": "18938",
+   "Jug_Entra": "CARLOS FEDERICO GHIO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18644",
+   "Jug_Sale": "MAURICIO GONZALO SANTOS",
+   "CarneEntra": "25647",
+   "Jug_Entra": "ANIBAL VILLA",
+   "camiseta": "55",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "19586",
+   "Nombre": "FEDERICO REYES",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "19586",
+   "Nombre": "FEDERICO REYES",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "19586",
+   "Nombre": "FEDERICO REYES",
+   "minutos": "95",
+   "EnContra": "0"
+  },
+  {
+   "carne": "28701",
+   "Nombre": "RICHARD JESUS LERETE",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "18644",
+   "Nombre": "MAURICIO GONZALO SANTOS",
+   "minutos": "38",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

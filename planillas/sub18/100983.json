@@ -1,0 +1,236 @@
+{
+ "id": "100983",
+ "categoria": "sub18",
+ "serie": "18-52",
+ "fecha": 5,
+ "fechaHora": "2026-08-16 15:30:00",
+ "cancha": "ELBIO FERNANDEZ",
+ "local": "ELBIO FERNANDEZ",
+ "visitante": "HCA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "314",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 5 RUEDA 2",
+  "Cancha": "ELBIO FERNANDEZ",
+  "Fecha_Inicio": "2026-08-16 00:00:00",
+  "Fecha_fin": "2026-08-16 00:00:00",
+  "Locatario": "ELBIO FERNANDEZ",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "HCA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58389",
+   "Nombre": "JERONIMO MARTINEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "66347",
+   "Nombre": "LEONIDAS ALEJANDRO VARELA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67298",
+   "Nombre": "FRANCISCO BAUTISTA MARTINEZ",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "64537",
+   "Nombre": "GIULIANO FRANCO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64432",
+   "Nombre": "FEDERICO GASTELUMENDI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64434",
+   "Nombre": "SANTIAGO LAPENTE",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64532",
+   "Nombre": "GUILLERMO NALERIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68372",
+   "Nombre": "FELIPE CORREA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "68974",
+   "Nombre": "LORENZO SILVERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64373",
+   "Nombre": "EDUARDO SABINO RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67296",
+   "Nombre": "SANTIAGO JANSSEN",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64610",
+   "Nombre": "JUAN PEDRO CASANOVA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64613",
+   "Nombre": "FELIPE DE MEDINA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "64617",
+   "Nombre": "MATEO EMILIANO MARRERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64615",
+   "Nombre": "JOAQUIN MORENO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65374",
+   "Nombre": "JUAN MATIAS PEREIRA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "64918",
+   "Nombre": "FACUNDO JESUS CESAR",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64609",
+   "Nombre": "IVAN CHARABARUK",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56771",
+   "Nombre": "SANTIAGO MARTIN ARREGIN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64602",
+   "Nombre": "JOAQUIN ALEJANDRO RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "65724",
+   "Nombre": "THIAGO ALTEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68166",
+   "Nombre": "RODRIGO GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67298",
+   "Jug_Sale": "FRANCISCO BAUTISTA MARTINEZ",
+   "CarneEntra": "64367",
+   "Jug_Entra": "MARTIN IGNACIO VARELA",
+   "camiseta": "27",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "67296",
+   "Jug_Sale": "SANTIAGO JANSSEN",
+   "CarneEntra": "69003",
+   "Jug_Entra": "MARIANO DIAZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68372",
+   "Jug_Sale": "FELIPE CORREA",
+   "CarneEntra": "64830",
+   "Jug_Entra": "THIAGO FOJO",
+   "camiseta": "80",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "64434",
+   "Jug_Sale": "SANTIAGO LAPENTE",
+   "CarneEntra": "65873",
+   "Jug_Entra": "FEDERICO GOÑI",
+   "camiseta": "9",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65724",
+   "Jug_Sale": "THIAGO ALTEZ",
+   "CarneEntra": "64606",
+   "Jug_Entra": "FACUNDO FEDERICO PATTETA",
+   "camiseta": "19",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64373",
+   "Nombre": "EDUARDO SABINO RODRIGUEZ",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64373",
+   "Nombre": "EDUARDO SABINO RODRIGUEZ",
+   "minutos": "60",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "65374",
+   "Nombre": "JUAN MATIAS PEREIRA",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

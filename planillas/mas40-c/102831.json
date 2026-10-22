@@ -1,0 +1,206 @@
+{
+ "id": "102831",
+ "categoria": "mas40-c",
+ "serie": "M40B2",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "DEPORTIVO MORON",
+ "visitante": "ANGLO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "397",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "3",
+  "Divisional": "M40 DIV. C COPA BRONCE R2",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-10-10 13:15:00",
+  "Fecha_fin": "2026-10-10 13:15:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ANGLO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60166",
+   "Nombre": "JAVIER ALEJANDRO CAMPOS",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "37208",
+   "Nombre": "FEDERICO ISMAEL WOLCAN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67568",
+   "Nombre": "GASTON LEIVA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66459",
+   "Nombre": "IGNACIO DE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "56722",
+   "Nombre": "ALFREDO LAGUARDA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53136",
+   "Nombre": "RODRIGO ALONSO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "19530",
+   "Nombre": "ALEJANDRO BENTANCUR",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28668",
+   "Nombre": "SERGIO ANDRES MORGADES",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "31628",
+   "Nombre": "MARCELO PACHECO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "26147",
+   "Nombre": "ALEJANDRO JAVIER CIMAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65311",
+   "Nombre": "WASHINGTON JOSE RODRIGUEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "15654",
+   "Nombre": "GERARDO GABRIEL HERNANDEZ",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "15656",
+   "Nombre": "ALEJANDRO SEGREDO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "34908",
+   "Nombre": "DANIEL ADRIAN GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "21275",
+   "Nombre": "GERMAN CAPDEHOURAT",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62119",
+   "Nombre": "ANIBAL LEONARDO LEIFERT",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "19709",
+   "Nombre": "ALEJANDRO ANDRES KING",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "19388",
+   "Nombre": "MARCELO FABIAN GONZALEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "40391",
+   "Nombre": "PABLO AUGUSTO CORDERO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64346",
+   "Nombre": "FEDERICO RAUL STRAZZARINO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64634",
+   "Nombre": "LEONARDO GABRIEL HERNANDEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "20842",
+   "Nombre": "CARLOS ADRIAN PAREDES",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65311",
+   "Jug_Sale": "WASHINGTON JOSE RODRIGUEZ",
+   "CarneEntra": "51564",
+   "Jug_Entra": "GONZALO MARTIN GARATE",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53136",
+   "Jug_Sale": "RODRIGO ALONSO",
+   "CarneEntra": "68413",
+   "Jug_Entra": "IVES FERNANDO MUÑOZ",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "31628",
+   "Jug_Sale": "MARCELO PACHECO",
+   "CarneEntra": "18199",
+   "Jug_Entra": "NICOLAS LOPEZ",
+   "camiseta": "3",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "62119",
+   "Nombre": "ANIBAL LEONARDO LEIFERT",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

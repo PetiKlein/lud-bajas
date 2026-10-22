@@ -1,0 +1,275 @@
+{
+ "id": "100624",
+ "categoria": "sub16",
+ "serie": "16-5-",
+ "fecha": 3,
+ "fechaHora": "2026-06-28 13:30:00",
+ "cancha": "COMPLEJO DFC",
+ "local": "DFC",
+ "visitante": "DLS CLUB",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "123",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 5",
+  "Cancha": "COMPLEJO DFC",
+  "Fecha_Inicio": "2026-06-28 15:15:00",
+  "Fecha_fin": "2026-06-28 15:15:00",
+  "Locatario": "DFC",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DLS CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63051",
+   "Nombre": "LUCIANO MONTAÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68184",
+   "Nombre": "SANTIAGO FONTOURA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67604",
+   "Nombre": "IGNACIO GARCIA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67469",
+   "Nombre": "SANTIAGO DANIEL DE LA LLANA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67602",
+   "Nombre": "VALENTINO LAUTARO DE ARMAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67609",
+   "Nombre": "NICOLAS RAUL PEREIRO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67607",
+   "Nombre": "LAUTARO ALEXANDER ALANIS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67599",
+   "Nombre": "MATEO TIZIANO CASTRO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68452",
+   "Nombre": "SANDINO GABRIEL CUNHA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67932",
+   "Nombre": "BAUTISTA PAZ",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64054",
+   "Nombre": "SALVADOR MANUEL LAGOA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64058",
+   "Nombre": "EMILIANO ANTELO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65473",
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61695",
+   "Nombre": "BRUNO GABRIEL PAZO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61947",
+   "Nombre": "TIZIANO GAMBAROTTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61700",
+   "Nombre": "MATIAS GONZALEZ",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67087",
+   "Nombre": "FELIPE PARDO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64294",
+   "Nombre": "BENJAMIN ALVARO VILA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61699",
+   "Nombre": "MATIAS DELGADO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60704",
+   "Nombre": "ALAN GABRIEL CHAPARRO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67599",
+   "Jug_Sale": "MATEO TIZIANO CASTRO",
+   "CarneEntra": "68774",
+   "Jug_Entra": "LAUTARO TERRA",
+   "camiseta": "29",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "68184",
+   "Jug_Sale": "SANTIAGO FONTOURA",
+   "CarneEntra": "67931",
+   "Jug_Entra": "FACUNDO MANUEL CAUTO",
+   "camiseta": "88",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67469",
+   "Jug_Sale": "SANTIAGO DANIEL DE LA LLANA",
+   "CarneEntra": "68451",
+   "Jug_Entra": "GUSTAVO ALEJANDRO ATENCIO",
+   "camiseta": "28",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "68452",
+   "Jug_Sale": "SANDINO GABRIEL CUNHA",
+   "CarneEntra": "67612",
+   "Jug_Entra": "AGUSTIN CASASOLA",
+   "camiseta": "21",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61700",
+   "Jug_Sale": "MATIAS GONZALEZ",
+   "CarneEntra": "68734",
+   "Jug_Entra": "FABIO LEONARDO DE ARMAS",
+   "camiseta": "20",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "67087",
+   "Jug_Sale": "FELIPE PARDO",
+   "CarneEntra": "66007",
+   "Jug_Entra": "MARCELO ALESSANDRO CEPELLINI",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67079",
+   "Jug_Sale": "THIAGO MELGAREJO",
+   "CarneEntra": "60631",
+   "Jug_Entra": "EMILIANO PEREZ",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61699",
+   "Jug_Sale": "MATIAS DELGADO",
+   "CarneEntra": "60291",
+   "Jug_Entra": "FACUNDO CARREÑO",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61700",
+   "Jug_Sale": "MATIAS GONZALEZ",
+   "CarneEntra": "66728",
+   "Jug_Entra": "GABRIEL SORIANO",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "61947",
+   "Jug_Sale": "TIZIANO GAMBAROTTA",
+   "CarneEntra": "67081",
+   "Jug_Entra": "LAUTARO CARLIS",
+   "camiseta": "16",
+   "minutos": "74"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "60704",
+   "Nombre": "ALAN GABRIEL CHAPARRO",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64294",
+   "Nombre": "BENJAMIN ALVARO VILA",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65473",
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "minutos": "5",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

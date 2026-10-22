@@ -1,0 +1,259 @@
+{
+ "id": "101887",
+ "categoria": "sub18",
+ "serie": "18-52",
+ "fecha": 2,
+ "fechaHora": "2026-09-13 15:30:00",
+ "cancha": "ELBIO FERNANDEZ",
+ "local": "ELBIO FERNANDEZ",
+ "visitante": "JUAN XXIII",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "304",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 5 RUEDA 2",
+  "Cancha": "ELBIO FERNANDEZ",
+  "Fecha_Inicio": "2026-09-13 17:30:00",
+  "Fecha_fin": "2026-09-13 17:30:00",
+  "Locatario": "ELBIO FERNANDEZ",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58389",
+   "Nombre": "JERONIMO MARTINEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66347",
+   "Nombre": "LEONIDAS ALEJANDRO VARELA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "68974",
+   "Nombre": "LORENZO SILVERA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64367",
+   "Nombre": "MARTIN IGNACIO VARELA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "69003",
+   "Nombre": "MARIANO DIAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64434",
+   "Nombre": "SANTIAGO LAPENTE",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68372",
+   "Nombre": "FELIPE CORREA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "64432",
+   "Nombre": "FEDERICO GASTELUMENDI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64373",
+   "Nombre": "EDUARDO SABINO RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64830",
+   "Nombre": "THIAGO FOJO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "66410",
+   "Nombre": "IGNACIO SEGUNDO BILCHE",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62147",
+   "Nombre": "LEANDRO MINTEGUI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64875",
+   "Nombre": "JOAQUIN VAZQUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56150",
+   "Nombre": "FACUNDO CANAN",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "61098",
+   "Nombre": "JUAN BAUTISTA DANS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59604",
+   "Nombre": "MAXIMO WERNER QUINCKE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61796",
+   "Nombre": "JUAN IGNACIO PIÑERA",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "64876",
+   "Nombre": "GUZMAN ISMAEL RODRIGUEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "68764",
+   "Nombre": "BRUNO GONZALO BAZZANO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "59079",
+   "Nombre": "DIEGO MARTINO",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63012",
+   "Nombre": "DAMIAN ALEJANDRO VELCOFF",
+   "camiseta": "50",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64432",
+   "Jug_Sale": "FEDERICO GASTELUMENDI",
+   "CarneEntra": "65873",
+   "Jug_Entra": "FEDERICO GOÑI",
+   "camiseta": "9",
+   "minutos": "44"
+  },
+  {
+   "CarneSale": "64830",
+   "Jug_Sale": "THIAGO FOJO",
+   "CarneEntra": "64536",
+   "Jug_Entra": "JOAQUIN RODRIGUEZ",
+   "camiseta": "19",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "64367",
+   "Jug_Sale": "MARTIN IGNACIO VARELA",
+   "CarneEntra": "67298",
+   "Jug_Entra": "FRANCISCO BAUTISTA MARTINEZ",
+   "camiseta": "92",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64875",
+   "Jug_Sale": "JOAQUIN VAZQUEZ",
+   "CarneEntra": "68867",
+   "Jug_Entra": "CAMILO ALFREDO BACCI",
+   "camiseta": "17",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "64876",
+   "Jug_Sale": "GUZMAN ISMAEL RODRIGUEZ",
+   "CarneEntra": "68229",
+   "Jug_Entra": "BENICIO DIAZ",
+   "camiseta": "19",
+   "minutos": "32"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64373",
+   "Nombre": "EDUARDO SABINO RODRIGUEZ",
+   "minutos": "66",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64536",
+   "Nombre": "JOAQUIN RODRIGUEZ",
+   "minutos": "54",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68372",
+   "Nombre": "FELIPE CORREA",
+   "minutos": "8",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "minutos": "13",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "minutos": "47",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "MARIANO DIAZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

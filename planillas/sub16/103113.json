@@ -1,0 +1,250 @@
+{
+ "id": "103113",
+ "categoria": "sub16",
+ "serie": "16P",
+ "fecha": 1,
+ "fechaHora": "2026-10-18 13:30:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 4,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "310",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "3",
+  "Divisional": "SUB16 PLATA",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-10-18 15:10:00",
+  "Fecha_fin": "2026-10-18 15:10:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "4",
+  "puntos_locatario": "1",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "4",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66405",
+   "Nombre": "FRANCO CHIAPPE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62923",
+   "Nombre": "FRANCISCO CROSSA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67862",
+   "Nombre": "LAUTARO GASTON GIORDANO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67499",
+   "Nombre": "FRANCO SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67492",
+   "Nombre": "EZEQUIEL PERDOMO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66678",
+   "Nombre": "FABIO ALEXANDER SUREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61458",
+   "Nombre": "GERONIMO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61456",
+   "Nombre": "EMILIANO ANDRES OCAMPO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61560",
+   "Nombre": "ANTONIO CARVALLIDO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66814",
+   "Nombre": "LUCIO AGUSTIN BENITEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63588",
+   "Nombre": "JUAN IGNACIO RAIMONDO",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61771",
+   "Nombre": "FILIPPO DE MORI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62741",
+   "Nombre": "PEDRO MIGNONE",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "63920",
+   "Nombre": "FELIPE ZUBILLAGA",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "63921",
+   "Nombre": "JOAQUIN ZUBILLAGA",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "63918",
+   "Nombre": "FELIPE MORIS",
+   "camiseta": "34",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63942",
+   "Nombre": "SANTINO MORISIO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "65044",
+   "Nombre": "NICOLAS CUELLO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "63037",
+   "Nombre": "NICOLAS SZAMES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64007",
+   "Nombre": "LAUTARO FERNANDEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "63919",
+   "Nombre": "SANTINO AMAYA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "62740",
+   "Nombre": "FELIPE CLEMENT",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61456",
+   "Jug_Sale": "EMILIANO ANDRES OCAMPO",
+   "CarneEntra": "67491",
+   "Jug_Entra": "FELIPE SABIANO",
+   "camiseta": "5",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62741",
+   "Jug_Sale": "PEDRO MIGNONE",
+   "CarneEntra": "65411",
+   "Jug_Entra": "FRANCISCO IGLESIA",
+   "camiseta": "32",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "63919",
+   "Jug_Sale": "SANTINO AMAYA",
+   "CarneEntra": "65573",
+   "Jug_Entra": "BENJAMIN ALISKEVICH",
+   "camiseta": "61",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61456",
+   "Nombre": "EMILIANO ANDRES OCAMPO",
+   "minutos": "50",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61560",
+   "Nombre": "ANTONIO CARVALLIDO",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66814",
+   "Nombre": "LUCIO AGUSTIN BENITEZ",
+   "minutos": "19",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67492",
+   "Nombre": "EZEQUIEL PERDOMO",
+   "minutos": "7",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62740",
+   "Nombre": "FELIPE CLEMENT",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63037",
+   "Nombre": "NICOLAS SZAMES",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64007",
+   "Nombre": "LAUTARO FERNANDEZ",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64007",
+   "Nombre": "LAUTARO FERNANDEZ",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,288 @@
+{
+ "id": "101607",
+ "categoria": "sub18",
+ "serie": "18-52",
+ "fecha": 7,
+ "fechaHora": "2026-09-06 15:30:00",
+ "cancha": "ELBIO FERNANDEZ",
+ "local": "ELBIO FERNANDEZ",
+ "visitante": "ANGLO SCHOOL UNIVERSITARIO",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "323",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 5 RUEDA 2",
+  "Cancha": "ELBIO FERNANDEZ",
+  "Fecha_Inicio": "2026-09-06 17:20:00",
+  "Fecha_fin": "2026-09-06 17:20:00",
+  "Locatario": "ELBIO FERNANDEZ",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58389",
+   "Nombre": "JERONIMO MARTINEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66347",
+   "Nombre": "LEONIDAS ALEJANDRO VARELA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64372",
+   "Nombre": "AGUSTIN VALSANGIACOMO",
+   "camiseta": "99",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67298",
+   "Nombre": "FRANCISCO BAUTISTA MARTINEZ",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "64537",
+   "Nombre": "GIULIANO FRANCO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64532",
+   "Nombre": "GUILLERMO NALERIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64432",
+   "Nombre": "FEDERICO GASTELUMENDI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64434",
+   "Nombre": "SANTIAGO LAPENTE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68372",
+   "Nombre": "FELIPE CORREA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "64373",
+   "Nombre": "EDUARDO SABINO RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67296",
+   "Nombre": "SANTIAGO JANSSEN",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62547",
+   "Nombre": "GUILERMO DIEGO POMI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66778",
+   "Nombre": "SANTIAGO MACEDO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "60337",
+   "Nombre": "MATEO GLISENTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60487",
+   "Nombre": "SANTIAGO LUVIZIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64236",
+   "Nombre": "NICOLAS KRUL",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "60434",
+   "Nombre": "BAUTISTA PATRONE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "63040",
+   "Nombre": "LORENZO PEREIRA DA FONSECA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60481",
+   "Nombre": "IGNACIO MARTIN GOMEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "60554",
+   "Nombre": "JUAN PATRICIO MOSCA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66732",
+   "Nombre": "FACUNDO GALLINO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65630",
+   "Nombre": "IGNACIO BADANO",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67296",
+   "Jug_Sale": "SANTIAGO JANSSEN",
+   "CarneEntra": "66410",
+   "Jug_Entra": "IGNACIO SEGUNDO BILCHE",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67298",
+   "Jug_Sale": "FRANCISCO BAUTISTA MARTINEZ",
+   "CarneEntra": "69003",
+   "Jug_Entra": "MARIANO DIAZ",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68372",
+   "Jug_Sale": "FELIPE CORREA",
+   "CarneEntra": "65873",
+   "Jug_Entra": "FEDERICO GOÑI",
+   "camiseta": "9",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "64373",
+   "Jug_Sale": "EDUARDO SABINO RODRIGUEZ",
+   "CarneEntra": "65872",
+   "Jug_Entra": "LUCAS LORIENTE",
+   "camiseta": "24",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "64432",
+   "Jug_Sale": "FEDERICO GASTELUMENDI",
+   "CarneEntra": "63367",
+   "Jug_Entra": "JUAN MARTIN HERNANDEZ",
+   "camiseta": "15",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60487",
+   "Jug_Sale": "SANTIAGO LUVIZIO",
+   "CarneEntra": "60461",
+   "Jug_Entra": "BAUTISTA LOPEZ",
+   "camiseta": "15",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "60434",
+   "Jug_Sale": "BAUTISTA PATRONE",
+   "CarneEntra": "60479",
+   "Jug_Entra": "JOAQUIN GOMEZ",
+   "camiseta": "13",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "63040",
+   "Jug_Sale": "LORENZO PEREIRA DA FONSECA",
+   "CarneEntra": "67130",
+   "Jug_Entra": "JUAN FLEITAS",
+   "camiseta": "28",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "60554",
+   "Jug_Sale": "JUAN PATRICIO MOSCA",
+   "CarneEntra": "60434",
+   "Jug_Entra": "BAUTISTA PATRONE",
+   "camiseta": "30",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "60481",
+   "Jug_Sale": "IGNACIO MARTIN GOMEZ",
+   "CarneEntra": "67129",
+   "Jug_Entra": "DELLAN SANTANA",
+   "camiseta": "25",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64434",
+   "Nombre": "SANTIAGO LAPENTE",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64434",
+   "Nombre": "SANTIAGO LAPENTE",
+   "minutos": "88",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "60434",
+   "Nombre": "BAUTISTA PATRONE",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60554",
+   "Nombre": "JUAN PATRICIO MOSCA",
+   "minutos": "28",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66732",
+   "Nombre": "FACUNDO GALLINO",
+   "minutos": "7",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

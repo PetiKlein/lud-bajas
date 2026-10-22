@@ -1,0 +1,295 @@
+{
+ "id": "101169",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "147",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-08-29 11:00:00",
+  "Fecha_fin": "2026-08-29 11:00:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63411",
+   "Nombre": "MAURICIO MANASSI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22253",
+   "Nombre": "LUCAS MORISIO",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "18137",
+   "Nombre": "MATIAS VALENTIN ROSENDE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "25821",
+   "Nombre": "JOAQUIN MAGALLAN",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "34400",
+   "Nombre": "CARLOS MANUEL DE MELLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "19944",
+   "Nombre": "MAURICIO JAVIER GENINAZZI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "28144",
+   "Nombre": "ANDRES ANTONIO BESIO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "18574",
+   "Nombre": "PABLO AGUSTIN FERNANDEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "26011",
+   "Nombre": "MAURO GIAMMARCHI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "35975",
+   "Nombre": "RODRIGO SCHRAMM",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "29072",
+   "Nombre": "BRUNO RODRIGUEZ",
+   "camiseta": "69",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67636",
+   "Nombre": "RICARDO GONCALVES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25030",
+   "Nombre": "JUAN MANUEL ROVELLA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "28851",
+   "Nombre": "GUILLERMO MUTAY",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "16315",
+   "Nombre": "MATIAS FERMIN IRAZABAL",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25876",
+   "Nombre": "SANTIAGO ANDRES ARROYO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "28502",
+   "Nombre": "MARTIN PRESNO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "28499",
+   "Nombre": "MARTIN LARRAURI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "29031",
+   "Nombre": "FERNANDO BELOSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68244",
+   "Nombre": "JORGE SEBASTIAN CALATAYUD",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "62272",
+   "Nombre": "DIEGO NICOLAS LA PAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68614",
+   "Nombre": " JUAN FRANCISCO CASTRO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "29072",
+   "Jug_Sale": "BRUNO RODRIGUEZ",
+   "CarneEntra": "23708",
+   "Jug_Entra": "LEANDRO JOSE FERNANDEZ",
+   "camiseta": "46",
+   "minutos": "8"
+  },
+  {
+   "CarneSale": "19944",
+   "Jug_Sale": "MAURICIO JAVIER GENINAZZI",
+   "CarneEntra": "29289",
+   "Jug_Entra": "ANKIN APRAHAMIAN",
+   "camiseta": "23",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "35975",
+   "Jug_Sale": "RODRIGO SCHRAMM",
+   "CarneEntra": "20483",
+   "Jug_Entra": "NICOLAS KARDJIAN",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "26011",
+   "Jug_Sale": "MAURO GIAMMARCHI",
+   "CarneEntra": "28371",
+   "Jug_Entra": "MAXIMILIANO JAVIER CRISTIANI",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "25821",
+   "Jug_Sale": "JOAQUIN MAGALLAN",
+   "CarneEntra": "48257",
+   "Jug_Entra": "RODRIGO CABRAL",
+   "camiseta": "69",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "29031",
+   "Jug_Sale": "FERNANDO BELOSO",
+   "CarneEntra": "23563",
+   "Jug_Entra": "JOSE LUIS OLIVERA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68244",
+   "Jug_Sale": "JORGE SEBASTIAN CALATAYUD",
+   "CarneEntra": "37949",
+   "Jug_Entra": "IGNACIO ROSATI",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "25030",
+   "Jug_Sale": "JUAN MANUEL ROVELLA",
+   "CarneEntra": "55496",
+   "Jug_Entra": "JOAQUIN ANDRES DELFINER",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "28502",
+   "Jug_Sale": "MARTIN PRESNO",
+   "CarneEntra": "24772",
+   "Jug_Entra": "DANIEL ANTONIO MARTINEZ",
+   "camiseta": "13",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "28499",
+   "Jug_Sale": "MARTIN LARRAURI",
+   "CarneEntra": "18842",
+   "Jug_Entra": "RODRIGO ALBERTO DURAN",
+   "camiseta": "17",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "16315",
+   "Jug_Sale": "MATIAS FERMIN IRAZABAL",
+   "CarneEntra": "31935",
+   "Jug_Entra": "JUAN ANDRES SILVA",
+   "camiseta": "15",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23708",
+   "Nombre": "LEANDRO JOSE FERNANDEZ",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "26011",
+   "Nombre": "MAURO GIAMMARCHI",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "28144",
+   "Nombre": "ANDRES ANTONIO BESIO",
+   "minutos": "29",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "68614",
+   "Nombre": " JUAN FRANCISCO CASTRO",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": " JUAN FRANCISCO CASTRO",
+   "observaciones": ""
+  }
+ ]
+}

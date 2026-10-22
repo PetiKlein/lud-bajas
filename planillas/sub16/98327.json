@@ -1,0 +1,344 @@
+{
+ "id": "98327",
+ "categoria": "sub16",
+ "serie": "16-3-",
+ "fecha": 1,
+ "fechaHora": "2026-04-19 13:30:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "UNIVERSITARIO VERONES",
+ "visitante": "SCUOLA PALERMO",
+ "gl": 8,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "58",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 3",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-19 15:15:00",
+  "Fecha_fin": "2026-04-19 15:15:00",
+  "Locatario": "UNIVERSITARIO VERONES",
+  "goles_locatario": "8",
+  "puntos_locatario": "3",
+  "Visitante": "SCUOLA PALERMO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62515",
+   "Nombre": "SANTIAGO ACOSTA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62520",
+   "Nombre": "RODRIGO LIGÜERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62548",
+   "Nombre": "FACUNDO NICOLAS CASTAÑARES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68101",
+   "Nombre": "KEVIN SANTIAGO MONTES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62828",
+   "Nombre": "FELIPE DUARTE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67436",
+   "Nombre": "FACUNDO NICOLAS ROLIN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62532",
+   "Nombre": "AUGUSTO RODRIGUEZ",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64345",
+   "Nombre": "ELIAS DAVID MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62523",
+   "Nombre": "GUILLERMO WARREN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68103",
+   "Nombre": "VALENTINO GUSTAVO ROSA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "60532",
+   "Nombre": "MANUEL FELIPE PEREIRA",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65600",
+   "Nombre": "BENICIO SASSON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60764",
+   "Nombre": "FACUNDO CARAMBULA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "65716",
+   "Nombre": "MATEO DEVITA",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "61927",
+   "Nombre": "SANTIAGO BRUN",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65887",
+   "Nombre": "FABRIZIO BISOGNO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "61437",
+   "Nombre": "MARTIN BREGSTEIN",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "63514",
+   "Nombre": "LUCAS TAROCO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64388",
+   "Nombre": "NICOLAS ALVAREZ DE RON",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "64377",
+   "Nombre": "LUCAS DI MAURO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "65718",
+   "Nombre": "VICENTE VALENTIN VIERA",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "64756",
+   "Nombre": "FELIPE REINALDO",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62828",
+   "Jug_Sale": "FELIPE DUARTE",
+   "CarneEntra": "67436",
+   "Jug_Entra": "FACUNDO NICOLAS ROLIN",
+   "camiseta": "7",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "62520",
+   "Jug_Sale": "RODRIGO LIGÜERA",
+   "CarneEntra": "65920",
+   "Jug_Entra": "EMILIANO MONTES DE OCA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62515",
+   "Jug_Sale": "SANTIAGO ACOSTA",
+   "CarneEntra": "62831",
+   "Jug_Entra": "DYLAN   ALEXANDER FERNANDEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62548",
+   "Jug_Sale": "FACUNDO NICOLAS CASTAÑARES",
+   "CarneEntra": "64022",
+   "Jug_Entra": "BENJAMIN MENDEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68101",
+   "Jug_Sale": "KEVIN SANTIAGO MONTES",
+   "CarneEntra": "62829",
+   "Jug_Entra": "MARTIN BRUNO LACUESTA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62523",
+   "Jug_Sale": "GUILLERMO WARREN",
+   "CarneEntra": "66830",
+   "Jug_Entra": "SANTINO MARTINEZ",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68103",
+   "Jug_Sale": "VALENTINO GUSTAVO ROSA",
+   "CarneEntra": "67439",
+   "Jug_Entra": "SANTIAGO NICOLAS HERRERA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67436",
+   "Jug_Sale": "FACUNDO NICOLAS ROLIN",
+   "CarneEntra": "66954",
+   "Jug_Entra": "LUIS LEONEL SILVA",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60532",
+   "Jug_Sale": "MANUEL FELIPE PEREIRA",
+   "CarneEntra": "62554",
+   "Jug_Entra": "SANTIAGO MARTINEZ",
+   "camiseta": "22",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65716",
+   "Jug_Sale": "MATEO DEVITA",
+   "CarneEntra": "60475",
+   "Jug_Entra": "AGUSTIN ANTELO",
+   "camiseta": "56",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "60764",
+   "Jug_Sale": "FACUNDO CARAMBULA",
+   "CarneEntra": "65615",
+   "Jug_Entra": "MAURIZIO XAVIER SORRONDEGUI",
+   "camiseta": "40",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65887",
+   "Jug_Sale": "FABRIZIO BISOGNO",
+   "CarneEntra": "64160",
+   "Jug_Entra": "ALFONSO BROCH",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63514",
+   "Jug_Sale": "LUCAS TAROCO",
+   "CarneEntra": "64381",
+   "Jug_Entra": "FACUNDO POTENZA",
+   "camiseta": "79",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64377",
+   "Jug_Sale": "LUCAS DI MAURO",
+   "CarneEntra": "65610",
+   "Jug_Entra": "LUCA GONZALEZ",
+   "camiseta": "24",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62520",
+   "Nombre": "RODRIGO LIGÜERA",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62520",
+   "Nombre": "RODRIGO LIGÜERA",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62520",
+   "Nombre": "RODRIGO LIGÜERA",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62520",
+   "Nombre": "RODRIGO LIGÜERA",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62523",
+   "Nombre": "GUILLERMO WARREN",
+   "minutos": "31",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62828",
+   "Nombre": "FELIPE DUARTE",
+   "minutos": "72",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66954",
+   "Nombre": "LUIS LEONEL SILVA",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68101",
+   "Nombre": "KEVIN SANTIAGO MONTES",
+   "minutos": "17",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64756",
+   "Nombre": "FELIPE REINALDO",
+   "minutos": "57",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

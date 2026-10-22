@@ -1,0 +1,287 @@
+{
+ "id": "98334",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 1,
+ "fechaHora": "2026-04-19 13:30:00",
+ "cancha": "SANDY FUTBOL",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "OLD CHRISTIANS CLUB",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "1",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "SANDY FUTBOL",
+  "Fecha_Inicio": "2026-04-19 15:20:00",
+  "Fecha_fin": "2026-04-19 15:20:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS CLUB",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64544",
+   "Nombre": "JOAQUIN SEBASTIAN MEDINA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65250",
+   "Nombre": "MARIANO ESTRELLA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64528",
+   "Nombre": "SANTIAGO COPATTI",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64534",
+   "Nombre": "JORDAN SANTIAGO BORBA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64541",
+   "Nombre": "VALENTINO SANCHEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62764",
+   "Nombre": "PATRICIO TADEO LARROSA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67313",
+   "Nombre": "LAUTARO SALVARREY",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65792",
+   "Nombre": "JOAQUIN NICOLAS RECAETA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60538",
+   "Nombre": "RODRIGO BIANCO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61958",
+   "Nombre": "EUGENIO RESTANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61959",
+   "Nombre": "JUAN IGNACIO RISSO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "60379",
+   "Nombre": "JUAN FRANCISCO MILA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "65269",
+   "Nombre": "TOMAS LUSSICH",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62096",
+   "Nombre": "APARICIO SUAREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65271",
+   "Nombre": "PEDRO JOSE LAPETINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62094",
+   "Nombre": "JUAN MARTIN MAGRI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61957",
+   "Nombre": "JUAN BAUTISTA MARTINEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "68039",
+   "Nombre": "SANTINO BORRAZAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67105",
+   "Nombre": "ALEJO EDUARDO LENOBLE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62091",
+   "Nombre": "ALEJO TELLERIA",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60538",
+   "Jug_Sale": "RODRIGO BIANCO",
+   "CarneEntra": "60542",
+   "Jug_Entra": "ALEJO BALESTRA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65792",
+   "Jug_Sale": "JOAQUIN NICOLAS RECAETA",
+   "CarneEntra": "68165",
+   "Jug_Entra": "TIAN LO RUSSO",
+   "camiseta": "16",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "60538",
+   "Jug_Sale": "RODRIGO BIANCO",
+   "CarneEntra": "60542",
+   "Jug_Entra": "ALEJO BALESTRA",
+   "camiseta": "21",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65269",
+   "Jug_Sale": "TOMAS LUSSICH",
+   "CarneEntra": "62093",
+   "Jug_Entra": "JUAN MANUEL BELLO",
+   "camiseta": "8",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "61959",
+   "Jug_Sale": "JUAN IGNACIO RISSO",
+   "CarneEntra": "62855",
+   "Jug_Entra": "FELIPE PEREZ",
+   "camiseta": "2",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "62094",
+   "Jug_Sale": "JUAN MARTIN MAGRI",
+   "CarneEntra": "67541",
+   "Jug_Entra": "ALEJO STORACE",
+   "camiseta": "19",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "68039",
+   "Jug_Sale": "SANTINO BORRAZAS",
+   "CarneEntra": "65264",
+   "Jug_Entra": "JUANCRUZ STORACE",
+   "camiseta": "20",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "67105",
+   "Jug_Sale": "ALEJO EDUARDO LENOBLE",
+   "CarneEntra": "65265",
+   "Jug_Entra": "BAUTISTA SHAW",
+   "camiseta": "46",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "61957",
+   "Jug_Sale": "JUAN BAUTISTA MARTINEZ",
+   "CarneEntra": "64679",
+   "Jug_Entra": "JUAN PEDRO LANDAUER",
+   "camiseta": "7",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62091",
+   "Jug_Sale": "ALEJO TELLERIA",
+   "CarneEntra": "63326",
+   "Jug_Entra": "JOAQUIN MENAFRA",
+   "camiseta": "44",
+   "minutos": "40"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "62094",
+   "Nombre": "JUAN MARTIN MAGRI",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64679",
+   "Nombre": "JUAN PEDRO LANDAUER",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64679",
+   "Nombre": "JUAN PEDRO LANDAUER",
+   "minutos": "67",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67105",
+   "Nombre": "ALEJO EDUARDO LENOBLE",
+   "minutos": "63",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68039",
+   "Nombre": "SANTINO BORRAZAS",
+   "minutos": "18",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

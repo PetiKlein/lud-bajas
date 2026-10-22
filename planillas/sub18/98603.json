@@ -1,0 +1,316 @@
+{
+ "id": "98603",
+ "categoria": "sub18",
+ "serie": "18-6-",
+ "fecha": 2,
+ "fechaHora": "2026-04-26 15:30:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "TROUVILLE UNIVERSITARIO",
+ "gl": 5,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "150",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 6",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-04-26 17:20:00",
+  "Fecha_fin": "2026-04-26 17:20:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "TROUVILLE UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64191",
+   "Nombre": "NICOLAS ANTONIO DE ARMAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62110",
+   "Nombre": "IGNACIO PUPPO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "57781",
+   "Nombre": "JUAN PEDRO LANARO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62898",
+   "Nombre": "IGNACIO MELENDRE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62670",
+   "Nombre": "LORENZO MONTERO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61182",
+   "Nombre": "LUCAS CANOSA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61163",
+   "Nombre": "MATEO LAPLAZOTTE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58908",
+   "Nombre": "MANUEL PONS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64436",
+   "Nombre": "FACUNDO FUENTES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57785",
+   "Nombre": "JUAN CAPPELLINI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61694",
+   "Nombre": "SANTIAGO RIOS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58328",
+   "Nombre": "MIRKO NICOLAS ZUVELA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66441",
+   "Nombre": "EZEQUIEL ADRIAN GOMEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63830",
+   "Nombre": "GERMAN VEGA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61112",
+   "Nombre": "GUILLERMO BALDOVINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59195",
+   "Nombre": "AGUSTIN CERUELO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65480",
+   "Nombre": "TIZIANO LUIGI FRASCHINI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67690",
+   "Nombre": "BENJAMIN KOUYMTCHIAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65732",
+   "Nombre": "SANTIAGO SESINI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64698",
+   "Nombre": "LORENZO GALEANO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68285",
+   "Nombre": "IGNACIO FONTES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61628",
+   "Nombre": "TOMAS VAZQUEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58908",
+   "Jug_Sale": "MANUEL PONS",
+   "CarneEntra": "67411",
+   "Jug_Entra": "SANTIAGO SERRANO",
+   "camiseta": "15",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "64436",
+   "Jug_Sale": "FACUNDO FUENTES",
+   "CarneEntra": "62570",
+   "Jug_Entra": "JUAN BERNARDO HERNANDEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61694",
+   "Jug_Sale": "SANTIAGO RIOS",
+   "CarneEntra": "57840",
+   "Jug_Entra": "DIEGO BIDEGAIN",
+   "camiseta": "77",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "57785",
+   "Jug_Sale": "JUAN CAPPELLINI",
+   "CarneEntra": "64188",
+   "Jug_Entra": "TOMAS ARAUJO",
+   "camiseta": "28",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "61182",
+   "Jug_Sale": "LUCAS CANOSA",
+   "CarneEntra": "65258",
+   "Jug_Entra": "GASTON OMAR VANNI",
+   "camiseta": "99",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65732",
+   "Jug_Sale": "SANTIAGO SESINI",
+   "CarneEntra": "59294",
+   "Jug_Entra": "THIAGO COITIÑO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65480",
+   "Jug_Sale": "TIZIANO LUIGI FRASCHINI",
+   "CarneEntra": "63238",
+   "Jug_Entra": "PEDRO LATAILLADE",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68285",
+   "Jug_Sale": "IGNACIO FONTES",
+   "CarneEntra": "65486",
+   "Jug_Entra": "FACUNDO EZEQUIEL AGAZZI",
+   "camiseta": "7",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "63830",
+   "Jug_Sale": "GERMAN VEGA",
+   "CarneEntra": "61490",
+   "Jug_Entra": "IGNACIO RODRIGUEZ",
+   "camiseta": "3",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "61112",
+   "Jug_Sale": "GUILLERMO BALDOVINO",
+   "CarneEntra": "65733",
+   "Jug_Entra": "IGNACIO BERRUTTI",
+   "camiseta": "13",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "59195",
+   "Jug_Sale": "AGUSTIN CERUELO",
+   "CarneEntra": "59764",
+   "Jug_Entra": "SANTIAGO IRIARTE",
+   "camiseta": "2",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "67690",
+   "Jug_Sale": "BENJAMIN KOUYMTCHIAN",
+   "CarneEntra": "61436",
+   "Jug_Entra": "ENZO BESOZZI",
+   "camiseta": "19",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57785",
+   "Nombre": "JUAN CAPPELLINI",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57785",
+   "Nombre": "JUAN CAPPELLINI",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57840",
+   "Nombre": "DIEGO BIDEGAIN",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61163",
+   "Nombre": "MATEO LAPLAZOTTE",
+   "minutos": "57",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67411",
+   "Nombre": "SANTIAGO SERRANO",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64698",
+   "Nombre": "LORENZO GALEANO",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66441",
+   "Nombre": "EZEQUIEL ADRIAN GOMEZ",
+   "minutos": "89",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

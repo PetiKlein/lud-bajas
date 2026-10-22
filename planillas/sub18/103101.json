@@ -1,0 +1,250 @@
+{
+ "id": "103101",
+ "categoria": "sub18",
+ "serie": "18P",
+ "fecha": 1,
+ "fechaHora": "2026-10-18 15:30:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "375",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "3",
+  "Divisional": "SUB18 PLATA",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-10-18 17:35:00",
+  "Fecha_fin": "2026-10-18 17:35:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61996",
+   "Nombre": "JUAN MATEO MAGUNA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58771",
+   "Nombre": "ALEJO RODRIGUEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57779",
+   "Nombre": "NICOLAS LLANES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57774",
+   "Nombre": "BRUNO SICA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66249",
+   "Nombre": "FACUNDO DIAZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57780",
+   "Nombre": "DIEGO BETTINELLI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63643",
+   "Nombre": "MATEO FAULORD",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68658",
+   "Nombre": "SANTINO GOMEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68258",
+   "Nombre": "MAXIMILIANO CUBA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64944",
+   "Nombre": "VALENTINO DECIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "59260",
+   "Nombre": "ALFONSO VERDUN",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62694",
+   "Nombre": "NOAH ELIAS LEFKARITIS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66217",
+   "Nombre": "JUAN GENARO TABO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58409",
+   "Nombre": "LUCIANO CABRERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58136",
+   "Nombre": "MATEO BENSASSON",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68956",
+   "Nombre": "LUCAS ROMAN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62530",
+   "Nombre": "ELIAN SHARIM TEJERIA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68808",
+   "Nombre": "FRANCISCO FERNANDEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63150",
+   "Nombre": "MATHIAS PABLO FAZZIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66257",
+   "Nombre": "FACUNDO CIPILIANO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64156",
+   "Nombre": "GUILLERMO ZAMPROGNO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62528",
+   "Nombre": "IGNACIO ARIMON",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57774",
+   "Jug_Sale": "BRUNO SICA",
+   "CarneEntra": "57778",
+   "Jug_Entra": "MANUEL CAMPOS",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66249",
+   "Jug_Sale": "FACUNDO DIAZ",
+   "CarneEntra": "66111",
+   "Jug_Entra": "MATIAS PEPELESCOV",
+   "camiseta": "3",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "68658",
+   "Jug_Sale": "SANTINO GOMEZ",
+   "CarneEntra": "57790",
+   "Jug_Entra": "FELIPE VALENTIN GARI",
+   "camiseta": "12",
+   "minutos": "62"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66257",
+   "Jug_Sale": "FACUNDO CIPILIANO",
+   "CarneEntra": "68391",
+   "Jug_Entra": "SANTINO GORDILLO",
+   "camiseta": "22",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "62528",
+   "Jug_Sale": "IGNACIO ARIMON",
+   "CarneEntra": "67071",
+   "Jug_Entra": "BRUNO SANCHEZ",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "62530",
+   "Jug_Sale": "ELIAN SHARIM TEJERIA",
+   "CarneEntra": "58135",
+   "Jug_Entra": "TIAGO JULIEN ALVAREZ",
+   "camiseta": "10",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "63150",
+   "Jug_Sale": "MATHIAS PABLO FAZZIO",
+   "CarneEntra": "63760",
+   "Jug_Entra": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "NICOLAS LLANES",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "FACUNDO CIPILIANO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "GUILLERMO ZAMPROGNO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "IGNACIO ARIMON",
+   "observaciones": ""
+  }
+ ]
+}

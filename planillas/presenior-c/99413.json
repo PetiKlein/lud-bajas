@@ -1,0 +1,318 @@
+{
+ "id": "99413",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "POLIDEPORTIVO FAUQUET",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 1,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "295",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "POLIDEPORTIVO FAUQUET",
+  "Fecha_Inicio": "2026-05-30 10:48:00",
+  "Fecha_fin": "2026-05-30 10:48:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "24630",
+   "Nombre": "DANIEL IGNACIO DIAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "21480",
+   "Nombre": "MARCO GASTON GENTINI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "48986",
+   "Nombre": "GUILLERMO GERARDO MELGAREJO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "35454",
+   "Nombre": "GUILLERMO MATTOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "40466",
+   "Nombre": "CARLOS ANDRES FERNANDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "29550",
+   "Nombre": "PABLO SERGIO FERREIRA",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40582",
+   "Nombre": "NESTOR EDUARDO MELO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "47052",
+   "Nombre": "MANUEL SAVIOZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "19451",
+   "Nombre": "DIEGO MARTIN GIGENA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "58564",
+   "Nombre": "MAURO ARTURO GANDIN",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "28117",
+   "Nombre": "DANIEL GASTON BERTINO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29820",
+   "Nombre": "LUCAS MILTON ACEVEDO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27961",
+   "Nombre": "JUAN MANUEL SCHAICH",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "36830",
+   "Nombre": "MARIO ANDRES ORTIZ",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40218",
+   "Nombre": "JOSE IGNACIO SAEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "28020",
+   "Nombre": "JOAQUIN JOSE CURA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "26675",
+   "Nombre": "MATIAS ALONSO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "38064",
+   "Nombre": "TEOFILO SCHAICH",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "27399",
+   "Nombre": "JOAQUIN PASQUET",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "32273",
+   "Nombre": "NICOLAS SCHAICH",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "29507",
+   "Nombre": "ANTONIO SOTO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "23517",
+   "Nombre": "ALEXANDER REINER KOSSMANN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48986",
+   "Jug_Sale": "GUILLERMO GERARDO MELGAREJO",
+   "CarneEntra": "36406",
+   "Jug_Entra": "MATHIAS FEDERICO GONZALEZ",
+   "camiseta": "2",
+   "minutos": "9"
+  },
+  {
+   "CarneSale": "21480",
+   "Jug_Sale": "MARCO GASTON GENTINI",
+   "CarneEntra": "44380",
+   "Jug_Entra": "MATHIAS ALEJANDRO LABITOLA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47052",
+   "Jug_Sale": "MANUEL SAVIOZ",
+   "CarneEntra": "21480",
+   "Jug_Entra": "MARCO GASTON GENTINI",
+   "camiseta": "33",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "58564",
+   "Jug_Sale": "MAURO ARTURO GANDIN",
+   "CarneEntra": "38925",
+   "Jug_Entra": "SANTIAGO GASTON BANQUERO",
+   "camiseta": "5",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "36406",
+   "Jug_Sale": "MATHIAS FEDERICO GONZALEZ",
+   "CarneEntra": "20037",
+   "Jug_Entra": "RAMIRO ERNESTO BAVA",
+   "camiseta": "11",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "28117",
+   "Jug_Sale": "DANIEL GASTON BERTINO",
+   "CarneEntra": "47052",
+   "Jug_Entra": "MANUEL SAVIOZ",
+   "camiseta": "24",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "36830",
+   "Jug_Sale": "MARIO ANDRES ORTIZ",
+   "CarneEntra": "57860",
+   "Jug_Entra": "ALFRED GOLLER",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23517",
+   "Jug_Sale": "ALEXANDER REINER KOSSMANN",
+   "CarneEntra": "27930",
+   "Jug_Entra": "SANTIAGO DE AZPITARTE",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29507",
+   "Jug_Sale": "ANTONIO SOTO",
+   "CarneEntra": "28376",
+   "Jug_Entra": "JUAN MANUEL ROMERO",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "32273",
+   "Jug_Sale": "NICOLAS SCHAICH",
+   "CarneEntra": "38020",
+   "Jug_Entra": "IGNACIO MARCELO URTIAGA",
+   "camiseta": "37",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "26675",
+   "Jug_Sale": "MATIAS ALONSO",
+   "CarneEntra": "28000",
+   "Jug_Entra": "JOAQUIN CAMEJO",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "27399",
+   "Jug_Sale": "JOAQUIN PASQUET",
+   "CarneEntra": "34883",
+   "Jug_Entra": "SANTIAGO ANDRES GARELLI",
+   "camiseta": "99",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "28020",
+   "Jug_Sale": "JOAQUIN JOSE CURA",
+   "CarneEntra": "26675",
+   "Jug_Entra": "MATIAS ALONSO",
+   "camiseta": "18",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58564",
+   "Nombre": "MAURO ARTURO GANDIN",
+   "minutos": "1",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "23517",
+   "Nombre": "ALEXANDER REINER KOSSMANN",
+   "minutos": "15",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23517",
+   "Nombre": "ALEXANDER REINER KOSSMANN",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27930",
+   "Nombre": "SANTIAGO DE AZPITARTE",
+   "minutos": "59",
+   "EnContra": "1"
+  },
+  {
+   "carne": "29507",
+   "Nombre": "ANTONIO SOTO",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "38064",
+   "Nombre": "TEOFILO SCHAICH",
+   "minutos": "25",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

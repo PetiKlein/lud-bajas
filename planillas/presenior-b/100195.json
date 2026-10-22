@@ -1,0 +1,244 @@
+{
+ "id": "100195",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "CENTRO CRISTOBAL COLON",
+ "visitante": "E.L.F.",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "193",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-20 11:00:00",
+  "Fecha_fin": "2026-06-20 11:00:00",
+  "Locatario": "CENTRO CRISTOBAL COLON",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "E.L.F.",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "29107",
+   "Nombre": "FABRIZIO DANIEL BORSANI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "42715",
+   "Nombre": "MARCOS JUNIORS MARTINEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "45399",
+   "Nombre": "MATIAS DANIEL AGUIRREZABAL",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "24898",
+   "Nombre": "MATIAS SENTANARO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "35668",
+   "Nombre": "MATTIAS JOAN ALVEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "31424",
+   "Nombre": "DIEGO ALBERTO LOPEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "40038",
+   "Nombre": "EMILIANO DARIO WUNSCH",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "30910",
+   "Nombre": "LEANDRO MARCELO KENES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "30355",
+   "Nombre": "SEBASTIAN SANTOS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "36351",
+   "Nombre": "DANIEL ALEJANDRO TUCUNA",
+   "camiseta": "59",
+   "Capitan": ""
+  },
+  {
+   "carne": "28196",
+   "Nombre": "WALTER GUILLERMO RIVERO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62001",
+   "Nombre": "ANTONIO SANTIAGO PEREYRA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "66157",
+   "Nombre": "FABIAN GASTON BLANCO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "27935",
+   "Nombre": "NICOLAS MARTIN PARDO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "26340",
+   "Nombre": "AGUSTIN CAÑADAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "50274",
+   "Nombre": "SANTIAGO ESPAÑA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "33595",
+   "Nombre": "FACUNDO CALVI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "28848",
+   "Nombre": "MARTIN ALEJANDRO SANCHEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "25659",
+   "Nombre": "FREDY GASTON BATISTA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26824",
+   "Nombre": "MATHIAS PENSATORI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "28553",
+   "Nombre": "MARCELO DEUS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "28308",
+   "Nombre": "MARTIN SERORENA",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42715",
+   "Jug_Sale": "MARCOS JUNIORS MARTINEZ",
+   "CarneEntra": "31583",
+   "Jug_Entra": "ADRIAN MAYOR",
+   "camiseta": "25",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "36351",
+   "Jug_Sale": "DANIEL ALEJANDRO TUCUNA",
+   "CarneEntra": "44678",
+   "Jug_Entra": "MATIAS ENRIQUE CHAVES",
+   "camiseta": "20",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "35668",
+   "Jug_Sale": "MATTIAS JOAN ALVEZ",
+   "CarneEntra": "27306",
+   "Jug_Entra": "FABRICIO GASTON BONILLA",
+   "camiseta": "17",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "28308",
+   "Jug_Sale": "MARTIN SERORENA",
+   "CarneEntra": "34958",
+   "Jug_Entra": "FEDERICO CAMPOS",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "33595",
+   "Jug_Sale": "FACUNDO CALVI",
+   "CarneEntra": "61685",
+   "Jug_Entra": "JUAN LUIS OSORIO",
+   "camiseta": "18",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "50274",
+   "Jug_Sale": "SANTIAGO ESPAÑA",
+   "CarneEntra": "26741",
+   "Jug_Entra": "FRANCO CROTTI",
+   "camiseta": "8",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "36351",
+   "Nombre": "DANIEL ALEJANDRO TUCUNA",
+   "minutos": "8",
+   "EnContra": "0"
+  },
+  {
+   "carne": "45399",
+   "Nombre": "MATIAS DANIEL AGUIRREZABAL",
+   "minutos": "49",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "26824",
+   "Nombre": "MATHIAS PENSATORI",
+   "minutos": "36",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

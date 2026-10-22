@@ -1,0 +1,287 @@
+{
+ "id": "98316",
+ "categoria": "sub16",
+ "serie": "16-3-",
+ "fecha": 1,
+ "fechaHora": "2026-04-19 13:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "COLEGIO SANTA ELENA",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 1,
+ "gv": 8,
+ "detalle": {
+  "nro_partido": "59",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 3",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-04-19 17:15:00",
+  "Fecha_fin": "2026-04-19 17:15:00",
+  "Locatario": "COLEGIO SANTA ELENA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "8",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65397",
+   "Nombre": "LUCIO AGUSTIN INDART",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66009",
+   "Nombre": "JOAQUIN DOMINGO LUCA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65405",
+   "Nombre": "IGNACIO FERREIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "65951",
+   "Nombre": "BENJAMIN SANCHEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65398",
+   "Nombre": "BRUNO ANTONIO GIACOMINI",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65396",
+   "Nombre": "IÑAKI SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65402",
+   "Nombre": "FRANCO VILLAGRAN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65383",
+   "Nombre": "JUAN MANUEL MORENA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "65400",
+   "Nombre": "JUAN EMILIO BORGEAUD",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65389",
+   "Nombre": "LORENZO PERROTTA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62758",
+   "Nombre": "MANUEL LORENZO FAZZIO",
+   "camiseta": "1",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67316",
+   "Nombre": "AGUSTIN BONNET",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64586",
+   "Nombre": "FACUNDO MARIO SEGREDO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61690",
+   "Nombre": "FACUNDO JORGE DEMARCO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "66295",
+   "Nombre": "JUAN MARTIN DECUADRO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61691",
+   "Nombre": "MATIAS AGUSTIN COLINA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61692",
+   "Nombre": "SANTIAGO HERNANDEZ",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64089",
+   "Nombre": "CAMILO TOMAS MATEU",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64088",
+   "Nombre": "DIEGO MARTIN PINTOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64091",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "61926",
+   "Nombre": "TOMAS MONTENEGRO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "62394",
+   "Nombre": "SANTIAGO VERNAZZA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [],
+ "cambiosV": [
+  {
+   "CarneSale": "61691",
+   "Jug_Sale": "MATIAS AGUSTIN COLINA",
+   "CarneEntra": "64586",
+   "Jug_Entra": "FACUNDO MARIO SEGREDO",
+   "camiseta": "24",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "64088",
+   "Jug_Sale": "DIEGO MARTIN PINTOS",
+   "CarneEntra": "61926",
+   "Jug_Entra": "TOMAS MONTENEGRO",
+   "camiseta": "99",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "64091",
+   "Jug_Sale": "SANTIAGO FERNANDEZ",
+   "CarneEntra": "66295",
+   "Jug_Entra": "JUAN MARTIN DECUADRO",
+   "camiseta": "4",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "62394",
+   "Jug_Sale": "SANTIAGO VERNAZZA",
+   "CarneEntra": "61691",
+   "Jug_Entra": "MATIAS AGUSTIN COLINA",
+   "camiseta": "21",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "66295",
+   "Jug_Sale": "JUAN MARTIN DECUADRO",
+   "CarneEntra": "63039",
+   "Jug_Entra": "MATEO TAIS",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64586",
+   "Jug_Sale": "FACUNDO MARIO SEGREDO",
+   "CarneEntra": "66974",
+   "Jug_Entra": "FEDERICO HERNANDEZ",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61926",
+   "Jug_Sale": "TOMAS MONTENEGRO",
+   "CarneEntra": "67925",
+   "Jug_Entra": "SEBASTIAN OMAR PERALTA",
+   "camiseta": "6",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65396",
+   "Nombre": "IÑAKI SOSA",
+   "minutos": "20",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61692",
+   "Nombre": "SANTIAGO HERNANDEZ",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62394",
+   "Nombre": "SANTIAGO VERNAZZA",
+   "minutos": "5",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62394",
+   "Nombre": "SANTIAGO VERNAZZA",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63039",
+   "Nombre": "MATEO TAIS",
+   "minutos": "78",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64088",
+   "Nombre": "DIEGO MARTIN PINTOS",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64088",
+   "Nombre": "DIEGO MARTIN PINTOS",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64091",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "minutos": "59",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66295",
+   "Nombre": "JUAN MARTIN DECUADRO",
+   "minutos": "66",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

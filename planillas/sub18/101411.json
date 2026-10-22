@@ -1,0 +1,381 @@
+{
+ "id": "101411",
+ "categoria": "sub18",
+ "serie": "18-42",
+ "fecha": 6,
+ "fechaHora": "2026-08-27 18:00:00",
+ "cancha": "BRITISH SCHOOL",
+ "local": "TENIS EL PINAR",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 1,
+ "gv": 12,
+ "detalle": {
+  "nro_partido": "291",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 4 RUEDA 2",
+  "Cancha": "BRITISH SCHOOL",
+  "Fecha_Inicio": "2026-08-27 20:00:00",
+  "Fecha_fin": "2026-08-27 20:00:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "12",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67020",
+   "Nombre": "FELIPE DURAND",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61625",
+   "Nombre": "FACUNDO GOLDARACENA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61622",
+   "Nombre": "MATEO OMAR ROLAND",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "60889",
+   "Nombre": "MATEO OLIVEIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61620",
+   "Nombre": "FACUNDO PORRAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63081",
+   "Nombre": "ALEX MONNERJAHN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61856",
+   "Nombre": "TOMAS AICARDI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62853",
+   "Nombre": "GUILLERMO BAROFFIO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63690",
+   "Nombre": "BRUNO LEAL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61615",
+   "Nombre": "SEBASTIAN VAITKEVICIUS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67913",
+   "Nombre": "ISAIAS ANDRES MACEIRA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58840",
+   "Nombre": "BENJAMIN VALERIANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57001",
+   "Nombre": "MANUEL BOSCH",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "56265",
+   "Nombre": "JUAN MARTIN HRILJAC",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57002",
+   "Nombre": "JUAN MARTIN CANUTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "56261",
+   "Nombre": "FRANCISCO NOVEGIL",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62988",
+   "Nombre": "LUCAS BENJAMIN WOYCIK",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "56273",
+   "Nombre": "ALEXIS BRUCE",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "56262",
+   "Nombre": "FRANCISCO NAVARRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "56255",
+   "Nombre": "TOMAS YOUNG",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56267",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "58858",
+   "Nombre": "JOAQUIN QUINTO REYES",
+   "camiseta": "67",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63081",
+   "Jug_Sale": "ALEX MONNERJAHN",
+   "CarneEntra": "61614",
+   "Jug_Entra": "GERONIMO  ARTURO MUÑOZ",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61615",
+   "Jug_Sale": "SEBASTIAN VAITKEVICIUS",
+   "CarneEntra": "61618",
+   "Jug_Entra": "BAUTISTA MORALES",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67913",
+   "Jug_Sale": "ISAIAS ANDRES MACEIRA",
+   "CarneEntra": "61617",
+   "Jug_Entra": "LUCIO  JOSE MORENO",
+   "camiseta": "15",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "61856",
+   "Jug_Sale": "TOMAS AICARDI",
+   "CarneEntra": "66598",
+   "Jug_Entra": "SANTINO DURAND",
+   "camiseta": "22",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "60889",
+   "Jug_Sale": "MATEO OLIVEIRA",
+   "CarneEntra": "67913",
+   "Jug_Entra": "ISAIAS ANDRES MACEIRA",
+   "camiseta": "9",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "61625",
+   "Jug_Sale": "FACUNDO GOLDARACENA",
+   "CarneEntra": "60889",
+   "Jug_Entra": "MATEO OLIVEIRA",
+   "camiseta": "10",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "56261",
+   "Jug_Sale": "FRANCISCO NOVEGIL",
+   "CarneEntra": "56270",
+   "Jug_Entra": "VICENTE DANERI",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56262",
+   "Jug_Sale": "FRANCISCO NAVARRO",
+   "CarneEntra": "60174",
+   "Jug_Entra": "SANTIAGO VILLALBA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57001",
+   "Jug_Sale": "MANUEL BOSCH",
+   "CarneEntra": "57005",
+   "Jug_Entra": "IGNACIO IBARBURU",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57002",
+   "Jug_Sale": "JUAN MARTIN CANUTI",
+   "CarneEntra": "58844",
+   "Jug_Entra": "NICOLAS MONTERO",
+   "camiseta": "45",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56255",
+   "Jug_Sale": "TOMAS YOUNG",
+   "CarneEntra": "57040",
+   "Jug_Entra": "MANUEL ECHEGUIA",
+   "camiseta": "4",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "56265",
+   "Jug_Sale": "JUAN MARTIN HRILJAC",
+   "CarneEntra": "56271",
+   "Jug_Entra": "SANTIAGO CARDOSO",
+   "camiseta": "99",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "56273",
+   "Jug_Sale": "ALEXIS BRUCE",
+   "CarneEntra": "58841",
+   "Jug_Entra": "JUAN BAUTISTA BONOMI",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56267",
+   "Jug_Sale": "JOAQUIN GUTIERREZ",
+   "CarneEntra": "56259",
+   "Jug_Entra": "JUAN BAUTISTA PERCIAVALLE",
+   "camiseta": "24",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62988",
+   "Jug_Sale": "LUCAS BENJAMIN WOYCIK",
+   "CarneEntra": "65329",
+   "Jug_Entra": "MANUEL SEIZER",
+   "camiseta": "66",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61622",
+   "Nombre": "MATEO OMAR ROLAND",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56255",
+   "Nombre": "TOMAS YOUNG",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56255",
+   "Nombre": "TOMAS YOUNG",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56267",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "minutos": "6",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56267",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "minutos": "11",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56267",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "minutos": "13",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56267",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56267",
+   "Nombre": "JOAQUIN GUTIERREZ",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56270",
+   "Nombre": "VICENTE DANERI",
+   "minutos": "59",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58844",
+   "Nombre": "NICOLAS MONTERO",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58858",
+   "Nombre": "JOAQUIN QUINTO REYES",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58858",
+   "Nombre": "JOAQUIN QUINTO REYES",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65329",
+   "Nombre": "MANUEL SEIZER",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "BRUNO LEAL",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

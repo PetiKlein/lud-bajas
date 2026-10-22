@@ -1,0 +1,271 @@
+{
+ "id": "99949",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "SANDY FUTBOL",
+ "local": "RESISTENCIA",
+ "visitante": "PERRY SEXTA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "186",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "SANDY FUTBOL",
+  "Fecha_Inicio": "2026-06-13 13:15:00",
+  "Fecha_fin": "2026-06-13 13:15:00",
+  "Locatario": "RESISTENCIA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "PERRY SEXTA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31507",
+   "Nombre": "JOAQUIN BADO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26846",
+   "Nombre": "RODRIGO ROCHA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "25142",
+   "Nombre": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "27066",
+   "Nombre": "SANTIAGO JULIAN LAGOMARSINO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "22462",
+   "Nombre": "PEDRO CAPRANI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "26679",
+   "Nombre": "PABLO FREIRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "23840",
+   "Nombre": "RODRIGO AÑON",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53706",
+   "Nombre": "RAMIRO CABRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37677",
+   "Nombre": "GABRIEL CANTERA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "24867",
+   "Nombre": "GUILLERMO RUIZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "43467",
+   "Nombre": "NICOLAS PATRICIO LLAMBI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "32042",
+   "Nombre": "RODRIGO ERNESTO CAPRARIO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "24836",
+   "Nombre": "AGUSTIN ROLDAN",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30203",
+   "Nombre": "MAXIMILIANO MATEAUDA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "47661",
+   "Nombre": "EMILIANO MIELS SANTOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "24958",
+   "Nombre": "MATHIAS NICOLAS VARELA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "28796",
+   "Nombre": "RODRIGO EDUARDO POSTIGLIONE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "26146",
+   "Nombre": "HORACIO ALDO MONTORO",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26679",
+   "Jug_Sale": "PABLO FREIRE",
+   "CarneEntra": "53274",
+   "Jug_Entra": "FACUNDO JOSE MELGAR",
+   "camiseta": "24",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "23840",
+   "Jug_Sale": "RODRIGO AÑON",
+   "CarneEntra": "28831",
+   "Jug_Entra": "JOSE IGNACIO SANCHEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27066",
+   "Jug_Sale": "SANTIAGO JULIAN LAGOMARSINO",
+   "CarneEntra": "23891",
+   "Jug_Entra": "SEBASTIAN GALISTEO",
+   "camiseta": "11",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24958",
+   "Jug_Sale": "MATHIAS NICOLAS VARELA",
+   "CarneEntra": "30262",
+   "Jug_Entra": "SEBASTIAN MARIO LADO",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26146",
+   "Jug_Sale": "HORACIO ALDO MONTORO",
+   "CarneEntra": "38941",
+   "Jug_Entra": "CHRISTIAN NICOLAS ALVERNAZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24867",
+   "Jug_Sale": "GUILLERMO RUIZ",
+   "CarneEntra": "52556",
+   "Jug_Entra": "RODRIGO ANDRES GONZALEZ",
+   "camiseta": "19",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "43467",
+   "Jug_Sale": "NICOLAS PATRICIO LLAMBI",
+   "CarneEntra": "52190",
+   "Jug_Entra": "EDUARDO SEBASTIAN DA CUNHA",
+   "camiseta": "2",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "47661",
+   "Jug_Sale": "EMILIANO MIELS SANTOS",
+   "CarneEntra": "54338",
+   "Jug_Entra": "MARCELO DANIEL PITTAMEGLIO",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "37677",
+   "Jug_Sale": "GABRIEL CANTERA",
+   "CarneEntra": "25013",
+   "Jug_Entra": "ISMAEL LUJAN",
+   "camiseta": "10",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "22462",
+   "Nombre": "PEDRO CAPRANI",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "23840",
+   "Nombre": "RODRIGO AÑON",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "CRISTIAN AROCHA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "AGUSTIN ROLDAN",
+   "observaciones": ""
+  }
+ ]
+}

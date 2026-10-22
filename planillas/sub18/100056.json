@@ -1,0 +1,260 @@
+{
+ "id": "100056",
+ "categoria": "sub18",
+ "serie": "18-1-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 15:30:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "11",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 1",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-06-14 17:00:00",
+  "Fecha_fin": "2026-06-14 17:00:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61026",
+   "Nombre": "MANUEL BARRERA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62927",
+   "Nombre": "LORENZO ANTONIO FERRARI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63703",
+   "Nombre": "MATHIAS AGUSTIN LOPEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61057",
+   "Nombre": "MATEO NICOLI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67080",
+   "Nombre": "LUCIANO DAVID MOURA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "59411",
+   "Nombre": "TIAGO MARTIN RAYMONDO",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "68635",
+   "Nombre": "EZEQUIEL FABIAN VERA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61696",
+   "Nombre": "SANTIAGO CHA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59433",
+   "Nombre": "TOMAS SEBASTIAN FRANCO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "66726",
+   "Nombre": "FACUNDO BIQUE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66182",
+   "Nombre": "FABIAN LEONEL DZIEWULECKA",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57591",
+   "Nombre": "FRANCISCO DUARTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "57602",
+   "Nombre": "SANTIAGO BOGGIA",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57632",
+   "Nombre": "AGUSTIN MANTERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61411",
+   "Nombre": "FRANCISCO BOUBET",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "57603",
+   "Nombre": "SANTIAGO COSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57604",
+   "Nombre": "SANTIAGO MANUEL CURBELO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57587",
+   "Nombre": "AGUSTIN CRAVIOTTO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57601",
+   "Nombre": "RODRIGO INFANTOZZI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58627",
+   "Nombre": "PIERRE VALENTINO BONILLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61431",
+   "Nombre": "MARTIN RAMA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "57631",
+   "Nombre": "JUAN IGNACIO DIAZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61696",
+   "Jug_Sale": "SANTIAGO CHA",
+   "CarneEntra": "68382",
+   "Jug_Entra": "TIAGO BAUTISTA PINTOS",
+   "camiseta": "66",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "66182",
+   "Jug_Sale": "FABIAN LEONEL DZIEWULECKA",
+   "CarneEntra": "67172",
+   "Jug_Entra": "JOAQUIN ACOSTA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59411",
+   "Jug_Sale": "TIAGO MARTIN RAYMONDO",
+   "CarneEntra": "60293",
+   "Jug_Entra": "JOAQUIN PASSADORE",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67080",
+   "Jug_Sale": "LUCIANO DAVID MOURA",
+   "CarneEntra": "59414",
+   "Jug_Entra": "FACUNDO RODRIGUEZ",
+   "camiseta": "50",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "62927",
+   "Jug_Sale": "LORENZO ANTONIO FERRARI",
+   "CarneEntra": "64045",
+   "Jug_Entra": "MATIAS FERNANDO PAOLILLO",
+   "camiseta": "2",
+   "minutos": "42"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61431",
+   "Jug_Sale": "MARTIN RAMA",
+   "CarneEntra": "67894",
+   "Jug_Entra": "LORENZO VELAZCO",
+   "camiseta": "2",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "57587",
+   "Jug_Sale": "AGUSTIN CRAVIOTTO",
+   "CarneEntra": "58634",
+   "Jug_Entra": "THIAGO MISA",
+   "camiseta": "7",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "61431",
+   "Jug_Sale": "MARTIN RAMA",
+   "CarneEntra": "58626",
+   "Jug_Entra": "SANTIAGO CASTRO",
+   "camiseta": "15",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63703",
+   "Nombre": "MATHIAS AGUSTIN LOPEZ",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68382",
+   "Nombre": "TIAGO BAUTISTA PINTOS",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57631",
+   "Nombre": "JUAN IGNACIO DIAZ",
+   "minutos": "20",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,305 @@
+{
+ "id": "100487",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "SAN ISIDRO LOMAS",
+ "local": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "visitante": "LA ESCAPADA UNIVERSITARIO",
+ "gl": 3,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "326",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "SAN ISIDRO LOMAS",
+  "Fecha_Inicio": "2026-06-27 13:00:00",
+  "Fecha_fin": "2026-06-27 13:00:00",
+  "Locatario": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "LA ESCAPADA UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44887",
+   "Nombre": "MATIAS SOSA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "27331",
+   "Nombre": "ALEJANDRO FABIAN GADEA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "66189",
+   "Nombre": "MARTIN BAGNASCO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "28357",
+   "Nombre": "MAURICIO FUENTES",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "38777",
+   "Nombre": "LADARIO MARCELO DA ROSA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "18291",
+   "Nombre": "LEONARDO DANIEL FERNANDEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "65126",
+   "Nombre": "GONZALO JOEL ARANDA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66451",
+   "Nombre": "FEDERICO MATHIAS PERCOPO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "34193",
+   "Nombre": "ANDRES EZEQUIEL DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "24149",
+   "Nombre": "IGNACIO FLORES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "28600",
+   "Nombre": "SEBASTIAN RUIZ",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "23759",
+   "Nombre": "HUGO MARTIN MARIZCURRENA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "39559",
+   "Nombre": "SANTIAGO ALVAREZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "33966",
+   "Nombre": "FACUNDO CASTRO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "26328",
+   "Nombre": "JOSE PEDRO RODRIGUEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "30932",
+   "Nombre": "MATHIAS RODDA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "38839",
+   "Nombre": "AGUSTIN RIOS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "26682",
+   "Nombre": "GUILLERMO VARELA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "27677",
+   "Nombre": "BRUNO RAVA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "26345",
+   "Nombre": "FEDERICO LALUZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "16374",
+   "Nombre": "PATRICIO RAFAEL FERRES",
+   "camiseta": "81",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26372",
+   "Nombre": "PABLO COSTANIAN",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66451",
+   "Jug_Sale": "FEDERICO MATHIAS PERCOPO",
+   "CarneEntra": "33056",
+   "Jug_Entra": "PABLO PANTIN",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28357",
+   "Jug_Sale": "MAURICIO FUENTES",
+   "CarneEntra": "33102",
+   "Jug_Entra": "NICOLAS EMILIO LASSERRA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33056",
+   "Jug_Sale": "PABLO PANTIN",
+   "CarneEntra": "19472",
+   "Jug_Entra": "RODOLFO GASTON GRAÑA",
+   "camiseta": "19",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "34193",
+   "Jug_Sale": "ANDRES EZEQUIEL DIAZ",
+   "CarneEntra": "28357",
+   "Jug_Entra": "MAURICIO FUENTES",
+   "camiseta": "32",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "16374",
+   "Jug_Sale": "PATRICIO RAFAEL FERRES",
+   "CarneEntra": "24928",
+   "Jug_Entra": "GERARDO LUIS DA PRA",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26345",
+   "Jug_Sale": "FEDERICO LALUZ",
+   "CarneEntra": "26346",
+   "Jug_Entra": "TOMAS CAYOTA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33966",
+   "Jug_Sale": "FACUNDO CASTRO",
+   "CarneEntra": "54449",
+   "Jug_Entra": "PABLO EDUARDO FONTES",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26682",
+   "Jug_Sale": "GUILLERMO VARELA",
+   "CarneEntra": "16374",
+   "Jug_Entra": "PATRICIO RAFAEL FERRES",
+   "camiseta": "81",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30932",
+   "Jug_Sale": "MATHIAS RODDA",
+   "CarneEntra": "27695",
+   "Jug_Entra": "JUAN MARTIN RODRIGUEZ",
+   "camiseta": "6",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "26328",
+   "Jug_Sale": "JOSE PEDRO RODRIGUEZ",
+   "CarneEntra": "38861",
+   "Jug_Entra": "DIEGO MARTIN IRAZUN",
+   "camiseta": "18",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "24149",
+   "Nombre": "IGNACIO FLORES",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "24149",
+   "Nombre": "IGNACIO FLORES",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "24149",
+   "Nombre": "IGNACIO FLORES",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "26328",
+   "Nombre": "JOSE PEDRO RODRIGUEZ",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "26328",
+   "Nombre": "JOSE PEDRO RODRIGUEZ",
+   "minutos": "44",
+   "EnContra": "1"
+  },
+  {
+   "carne": "26372",
+   "Nombre": "PABLO COSTANIAN",
+   "minutos": "95",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27677",
+   "Nombre": "BRUNO RAVA",
+   "minutos": "36",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "MARTIN BAGNASCO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

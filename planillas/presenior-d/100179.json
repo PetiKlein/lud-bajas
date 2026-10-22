@@ -1,0 +1,302 @@
+{
+ "id": "100179",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 10,
+ "fechaHora": "2026-06-17 22:00:00",
+ "cancha": "ST. BRENDANS",
+ "local": "OLD BRENDANS CLUB",
+ "visitante": "UT SERVIAM",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "643",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "ST. BRENDANS",
+  "Fecha_Inicio": "2026-06-17 00:00:00",
+  "Fecha_fin": "2026-06-17 00:00:00",
+  "Locatario": "OLD BRENDANS CLUB",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "UT SERVIAM",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "21036",
+   "Nombre": "JUAN AGUSTIN MURIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54798",
+   "Nombre": "YORYI LOPEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "20251",
+   "Nombre": "PABLO HERRERA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "38649",
+   "Nombre": "ADRIAN RIBERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35203",
+   "Nombre": "SANTIAGO HUELMO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "33066",
+   "Nombre": "RAFAEL ESTEBAN GIMENEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "41985",
+   "Nombre": "PABLO ANDRES GINARD",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "34281",
+   "Nombre": "MIGUEL PITETTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "63840",
+   "Nombre": "EMILIO NICOLAS CAMEJO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52060",
+   "Nombre": "SANTIAGO MARTIN PERALTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31791",
+   "Nombre": "JOAQUIN MARQUEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "29251",
+   "Nombre": "SANTIAGO JOSE MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "30308",
+   "Nombre": "GONZALO COSTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "25334",
+   "Nombre": "ALBERTO JONATAN DUARTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "36244",
+   "Nombre": "LUIS IGNACIO CAMPON",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31891",
+   "Nombre": "JUAN FRANCISCO IRRAZABAL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "30114",
+   "Nombre": "GONZALO FELIPE IRRAZABAL",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "55031",
+   "Nombre": "HUGO IGNACIO TRIAS",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37586",
+   "Nombre": "MATIAS OLALDE",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63840",
+   "Jug_Sale": "EMILIO NICOLAS CAMEJO",
+   "CarneEntra": "63917",
+   "Jug_Entra": "BRUNO FRANCISCO CONTE",
+   "camiseta": "77",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "33066",
+   "Jug_Sale": "RAFAEL ESTEBAN GIMENEZ",
+   "CarneEntra": "18387",
+   "Jug_Entra": "ALVARO BELISTRI",
+   "camiseta": "51",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "31607",
+   "Jug_Sale": "FEDERICO MARTIN GOMEZ",
+   "CarneEntra": "26634",
+   "Jug_Entra": "GABRIEL GENTA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26634",
+   "Jug_Sale": "GABRIEL GENTA",
+   "CarneEntra": "51479",
+   "Jug_Entra": "LUIS ANDRES SOSA",
+   "camiseta": "50",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "34281",
+   "Jug_Sale": "MIGUEL PITETTA",
+   "CarneEntra": "33066",
+   "Jug_Entra": "RAFAEL ESTEBAN GIMENEZ",
+   "camiseta": "10",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "21036",
+   "Jug_Sale": "JUAN AGUSTIN MURIAS",
+   "CarneEntra": "53907",
+   "Jug_Entra": "RODRIGO ANDRES CLAVIJO",
+   "camiseta": "26",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30308",
+   "Jug_Sale": "GONZALO COSTA",
+   "CarneEntra": "36337",
+   "Jug_Entra": "MATIAS NICOLAS SILVEYRA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31891",
+   "Jug_Sale": "JUAN FRANCISCO IRRAZABAL",
+   "CarneEntra": "37514",
+   "Jug_Entra": "MARTIN BARBAGELATA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30114",
+   "Jug_Sale": "GONZALO FELIPE IRRAZABAL",
+   "CarneEntra": "33873",
+   "Jug_Entra": "JOSE IGNACIO DALLORSO",
+   "camiseta": "19",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "36244",
+   "Jug_Sale": "LUIS IGNACIO CAMPON",
+   "CarneEntra": "67336",
+   "Jug_Entra": "DIEGO REZK",
+   "camiseta": "36",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "37586",
+   "Jug_Sale": "MATIAS OLALDE",
+   "CarneEntra": "30114",
+   "Jug_Entra": "GONZALO FELIPE IRRAZABAL",
+   "camiseta": "99",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "minutos": "2",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63840",
+   "Nombre": "EMILIO NICOLAS CAMEJO",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31791",
+   "Nombre": "JOAQUIN MARQUEZ",
+   "minutos": "20",
+   "EnContra": "1"
+  },
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "minutos": "54",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

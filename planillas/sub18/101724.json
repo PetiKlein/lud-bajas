@@ -1,0 +1,301 @@
+{
+ "id": "101724",
+ "categoria": "sub18",
+ "serie": "18-62",
+ "fecha": 2,
+ "fechaHora": "2026-09-09 20:15:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "SAN PABLO UNIVERSITARIO",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "338",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 6 GRUPO 2",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-09-09 22:15:00",
+  "Fecha_fin": "2026-09-09 22:15:00",
+  "Locatario": "SAN PABLO UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64484",
+   "Nombre": "PABLO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66026",
+   "Nombre": "JOAQUIN GIRAUDIN",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "67402",
+   "Nombre": "MARTINO FRANCESCOLI",
+   "camiseta": "90",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64492",
+   "Nombre": "SEBASTIAN SOSA",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "60280",
+   "Nombre": "MATIAS MENDOZA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64825",
+   "Nombre": "LORENZO MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65764",
+   "Nombre": "JOAQUIN CARRASCO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64828",
+   "Nombre": "JUAN AGUSTIN PUPPO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "66462",
+   "Nombre": "JUAN IGNACIO PEREZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "68042",
+   "Nombre": "OCTAVIO ESQUIBEL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "68529",
+   "Nombre": "SANTIAGO DE LEON",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62423",
+   "Nombre": "ISMAEL BENADERET",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60191",
+   "Nombre": "RENZO DIAZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "60285",
+   "Nombre": "FELIPE AGUIRRE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65975",
+   "Nombre": "GIANFRANCO MICHELE GALLIUSSI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58692",
+   "Nombre": "BENJAMIN SPOTURNO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58681",
+   "Nombre": "MARTIN TOMAS GARCIA GARCIA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "67874",
+   "Nombre": "EMILIANO RORIGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66812",
+   "Nombre": "FELIPE LARREGUI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61835",
+   "Nombre": "MAXIMILIANO NUÑEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65070",
+   "Nombre": "JUAN GERMAN DAVILA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "66807",
+   "Nombre": "INTI DESCOINS",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68529",
+   "Jug_Sale": "SANTIAGO DE LEON",
+   "CarneEntra": "60281",
+   "Jug_Entra": "JOAQUIN LEMA",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64825",
+   "Jug_Sale": "LORENZO MARTINEZ",
+   "CarneEntra": "64491",
+   "Jug_Entra": "GASTON SOSA MACHADO",
+   "camiseta": "87",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67402",
+   "Jug_Sale": "MARTINO FRANCESCOLI",
+   "CarneEntra": "67400",
+   "Jug_Entra": "JOAQUIN PEÑA",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60280",
+   "Jug_Sale": "MATIAS MENDOZA",
+   "CarneEntra": "65436",
+   "Jug_Entra": "SANTINO ROMAGNOLI",
+   "camiseta": "92",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "66462",
+   "Jug_Sale": "JUAN IGNACIO PEREZ",
+   "CarneEntra": "68528",
+   "Jug_Entra": "FRANCISCO CASTRILLON",
+   "camiseta": "34",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "64492",
+   "Jug_Sale": "SEBASTIAN SOSA",
+   "CarneEntra": "68531",
+   "Jug_Entra": "FRANCISCO SALABERRY",
+   "camiseta": "31",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58692",
+   "Jug_Sale": "BENJAMIN SPOTURNO",
+   "CarneEntra": "67661",
+   "Jug_Entra": "SANTIAGO SAUCO",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66807",
+   "Jug_Sale": "INTI DESCOINS",
+   "CarneEntra": "58695",
+   "Jug_Entra": "AGUSTIN SANTOS",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67874",
+   "Jug_Sale": "EMILIANO RORIGUEZ",
+   "CarneEntra": "65982",
+   "Jug_Entra": "JUAN VALENTINO BRINGA",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65975",
+   "Jug_Sale": "GIANFRANCO MICHELE GALLIUSSI",
+   "CarneEntra": "66387",
+   "Jug_Entra": "URIEL FEDERICO PERA",
+   "camiseta": "32",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "60191",
+   "Jug_Sale": "RENZO DIAZ",
+   "CarneEntra": "67180",
+   "Jug_Entra": "BENJAMIN HELANDER",
+   "camiseta": "7",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "65070",
+   "Jug_Sale": "JUAN GERMAN DAVILA",
+   "CarneEntra": "58699",
+   "Jug_Entra": "FEDERICO MATIAS SACHETTI",
+   "camiseta": "56",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "61835",
+   "Jug_Sale": "MAXIMILIANO NUÑEZ",
+   "CarneEntra": "58951",
+   "Jug_Entra": "IGNACIO GERMAN ARES",
+   "camiseta": "77",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "58681",
+   "Jug_Sale": "MARTIN TOMAS GARCIA GARCIA",
+   "CarneEntra": "58692",
+   "Jug_Entra": "BENJAMIN SPOTURNO",
+   "camiseta": "6",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "62423",
+   "Nombre": "ISMAEL BENADERET",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62423",
+   "Nombre": "ISMAEL BENADERET",
+   "minutos": "2",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

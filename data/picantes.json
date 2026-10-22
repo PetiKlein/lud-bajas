@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-22T11:12:17.135Z",
+ "actualizado": "2026-10-22T13:10:58.190Z",
  "partidos": [
   {
    "div": "sub20-a",
@@ -33,7 +33,7 @@
    "base": 0,
    "tipo": "titulo",
    "altasL": 1,
-   "altasV": 2
+   "altasV": 1
   },
   {
    "div": "mayores-a",
@@ -189,6 +189,57 @@
    "altasV": 2
   },
   {
+   "div": "presenior-a",
+   "divNombre": "Pre Senior A",
+   "k": "Madrugada F.C~Hebraica y Macabi",
+   "l": "Madrugada F.C",
+   "v": "Hebraica y Macabi",
+   "dia": "2026-10-24",
+   "hora": "09:00",
+   "etapa": "Permanencia",
+   "pl": 8,
+   "pv": 6,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 3,
+   "altasV": 2
+  },
+  {
+   "div": "presenior-b",
+   "divNombre": "Pre Senior B",
+   "k": "Wolframio~Argos",
+   "l": "Wolframio",
+   "v": "Argos",
+   "dia": "2026-10-24",
+   "hora": "11:15",
+   "etapa": "Permanencia",
+   "pl": 8,
+   "pv": 7,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 0,
+   "altasV": 0
+  },
+  {
+   "div": "mas40-b",
+   "divNombre": "Más 40 B",
+   "k": "Familiar Universitario~Sindicato Medico Del Uruguay",
+   "l": "Familiar Universitario",
+   "v": "Sindicato Medico Del Uruguay",
+   "dia": "2026-10-31",
+   "hora": "11:15",
+   "etapa": "Permanencia",
+   "pl": 8,
+   "pv": 7,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 2,
+   "altasV": 2
+  },
+  {
    "div": "sub20-c",
    "divNombre": "Sub 20 C",
    "k": "Maristas Deportivo~Anglo School Universitario",
@@ -240,6 +291,23 @@
    "altasV": 0
   },
   {
+   "div": "presenior-a",
+   "divNombre": "Pre Senior A",
+   "k": "Independiente~Nacional U.",
+   "l": "Independiente",
+   "v": "Nacional U.",
+   "dia": "2026-10-24",
+   "hora": "09:00",
+   "etapa": "Título",
+   "pl": 1,
+   "pv": 4,
+   "n": 8,
+   "base": 0,
+   "tipo": "titulo",
+   "altasL": 1,
+   "altasV": 0
+  },
+  {
    "div": "mayores-b",
    "divNombre": "Mayores B",
    "k": "City Park~Centro Cristobal Colon",
@@ -270,7 +338,7 @@
    "n": 8,
    "base": 8,
    "tipo": "descenso",
-   "altasL": 3,
+   "altasL": 1,
    "altasV": 3
   },
   {
@@ -289,6 +357,23 @@
    "tipo": "descenso",
    "altasL": 1,
    "altasV": 1
+  },
+  {
+   "div": "mas40-a",
+   "divNombre": "Más 40 A",
+   "k": "X - 13 Universitario~Crandon Universitario",
+   "l": "X - 13 Universitario",
+   "v": "Crandon Universitario",
+   "dia": "2026-10-24",
+   "hora": "11:15",
+   "etapa": "Permanencia",
+   "pl": 7,
+   "pv": 5,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 1,
+   "altasV": 0
   },
   {
    "div": "mayores-b",
@@ -342,6 +427,23 @@
    "altasV": 3
   },
   {
+   "div": "presenior-c",
+   "divNombre": "Pre Senior C",
+   "k": "Deportivo Mitre~San Isidro Lomas Universitario",
+   "l": "Deportivo Mitre",
+   "v": "San Isidro Lomas Universitario",
+   "dia": "2026-10-24",
+   "hora": "11:15",
+   "etapa": "Permanencia",
+   "pl": 8,
+   "pv": 6,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 0,
+   "altasV": 2
+  },
+  {
    "div": "mayores-d",
    "divNombre": "Mayores D",
    "k": "La 12 Universitaria~Deportivo Ls Universitario",
@@ -393,38 +495,21 @@
    "altasV": 1
   },
   {
-   "div": "mayores-f",
-   "divNombre": "Mayores F",
-   "k": "Paysandu Unversitario~La Cueva Del Lobizon",
-   "l": "Paysandu Unversitario",
-   "v": "La Cueva Del Lobizon",
-   "dia": "2026-10-25",
+   "div": "mas40-b",
+   "divNombre": "Más 40 B",
+   "k": "Sindicato Medico Del Uruguay~San Isidro Lomas Universitario",
+   "l": "Sindicato Medico Del Uruguay",
+   "v": "San Isidro Lomas Universitario",
+   "dia": "2026-10-24",
    "hora": "09:00",
    "etapa": "Permanencia",
-   "pl": 5,
-   "pv": 6,
+   "pl": 7,
+   "pv": 5,
    "n": 8,
    "base": 8,
    "tipo": "descenso",
-   "altasL": 3,
-   "altasV": 0
-  },
-  {
-   "div": "mayores-f",
-   "divNombre": "Mayores F",
-   "k": "Tacuarembo Universitario~Flores Universitario",
-   "l": "Tacuarembo Universitario",
-   "v": "Flores Universitario",
-   "dia": "2026-10-25",
-   "hora": "09:00",
-   "etapa": "Título y ascenso",
-   "pl": 3,
-   "pv": 4,
-   "n": 8,
-   "base": 0,
-   "tipo": "titulo",
-   "altasL": 1,
-   "altasV": 0
+   "altasL": 2,
+   "altasV": 1
   }
  ]
 }

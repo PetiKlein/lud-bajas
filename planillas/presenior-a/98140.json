@@ -1,0 +1,312 @@
+{
+ "id": "98140",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "MADRUGADA F.C",
+ "visitante": "PLAYA HONDA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "10",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-04-18 11:00:00",
+  "Fecha_fin": "2026-04-18 11:00:00",
+  "Locatario": "MADRUGADA F.C",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "PLAYA HONDA UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35478",
+   "Nombre": "MARTIN FAGUNDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30158",
+   "Nombre": "MATIAS LIVCHICH",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "18456",
+   "Nombre": "MARTIN MARUCA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "31517",
+   "Nombre": "ALEJANDRO BAUDO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "39060",
+   "Nombre": "FRANCISCO DANIEL BENTANCOR",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "34213",
+   "Nombre": "MATEO MARQUES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "19135",
+   "Nombre": "NICOLAS ANDRES SCHENONE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "40268",
+   "Nombre": "FABIAN RODRIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "54309",
+   "Nombre": "JUAN MANUEL PUERTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "28237",
+   "Nombre": "MARCELO DAMIAN CASTRILLEJO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "31925",
+   "Nombre": "PEDRO NICOLAS GARCIA",
+   "camiseta": "87",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "28648",
+   "Nombre": "JUAN PABLO ROLDAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22718",
+   "Nombre": "SANTIAGO ABOAL",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21044",
+   "Nombre": "SANTIAGO DECIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "20526",
+   "Nombre": "RODRIGO CRIADO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "21156",
+   "Nombre": "SEBASTIAN NICOLAS MANEIRO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53566",
+   "Nombre": "SEBASTIAN GABRIEL ROLLANO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "59686",
+   "Nombre": "MARCELO MELIAN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "21504",
+   "Nombre": "FEDERICO LAMBACH",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "34510",
+   "Nombre": "CARLOS SANTIAGO LORENZO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "22605",
+   "Nombre": "ALEJANDRO NUÑEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "26554",
+   "Nombre": "SEBASTIAN TUBINO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31517",
+   "Jug_Sale": "ALEJANDRO BAUDO",
+   "CarneEntra": "34340",
+   "Jug_Entra": "FEDERICO VARGHA",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28237",
+   "Jug_Sale": "MARCELO DAMIAN CASTRILLEJO",
+   "CarneEntra": "26412",
+   "Jug_Entra": "DIEGO ALDEBAR TILLIMAN",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18456",
+   "Jug_Sale": "MARTIN MARUCA",
+   "CarneEntra": "29114",
+   "Jug_Entra": "JOSE SEBASTIAN GRATTAROLA",
+   "camiseta": "12",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "30158",
+   "Jug_Sale": "MATIAS LIVCHICH",
+   "CarneEntra": "35976",
+   "Jug_Entra": "FEDERICO GARCIA",
+   "camiseta": "21",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59686",
+   "Jug_Sale": "MARCELO MELIAN",
+   "CarneEntra": "38797",
+   "Jug_Entra": "LORENZO VEGA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53566",
+   "Jug_Sale": "SEBASTIAN GABRIEL ROLLANO",
+   "CarneEntra": "43898",
+   "Jug_Entra": "BRUNO ANDRES MARTINEZ",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21156",
+   "Jug_Sale": "SEBASTIAN NICOLAS MANEIRO",
+   "CarneEntra": "31787",
+   "Jug_Entra": "FABIAN AICARDI",
+   "camiseta": "0",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26554",
+   "Jug_Sale": "SEBASTIAN TUBINO",
+   "CarneEntra": "61841",
+   "Jug_Entra": "MAURO ANTONIO ROSTAN",
+   "camiseta": "42",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20526",
+   "Jug_Sale": "RODRIGO CRIADO",
+   "CarneEntra": "26199",
+   "Jug_Entra": "MATHIAS PERDOMO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21044",
+   "Jug_Sale": "SANTIAGO DECIA",
+   "CarneEntra": "46097",
+   "Jug_Entra": "ADRIAN IGNACIO RIOS",
+   "camiseta": "24",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "21504",
+   "Jug_Sale": "FEDERICO LAMBACH",
+   "CarneEntra": "44483",
+   "Jug_Entra": "RAMIRO GUICHON",
+   "camiseta": "27",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "22605",
+   "Jug_Sale": "ALEJANDRO NUÑEZ",
+   "CarneEntra": "21156",
+   "Jug_Entra": "SEBASTIAN NICOLAS MANEIRO",
+   "camiseta": "18",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "34510",
+   "Jug_Sale": "CARLOS SANTIAGO LORENZO",
+   "CarneEntra": "53566",
+   "Jug_Entra": "SEBASTIAN GABRIEL ROLLANO",
+   "camiseta": "23",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54309",
+   "Nombre": "JUAN MANUEL PUERTA",
+   "minutos": "59",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "22605",
+   "Nombre": "ALEJANDRO NUÑEZ",
+   "minutos": "5",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31787",
+   "Nombre": "FABIAN AICARDI",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "43898",
+   "Nombre": "BRUNO ANDRES MARTINEZ",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59686",
+   "Nombre": "MARCELO MELIAN",
+   "minutos": "35",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

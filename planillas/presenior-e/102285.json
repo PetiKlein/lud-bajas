@@ -1,0 +1,309 @@
+{
+ "id": "102285",
+ "categoria": "presenior-e",
+ "serie": "PSEP2",
+ "fecha": 2,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "POCO SITIO PLAYA VERDE",
+ "visitante": "FAMILIAR UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "752",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "3",
+  "Divisional": "PS DIV. E 2ªR COPA PLATA",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-26 13:00:00",
+  "Fecha_fin": "2026-09-26 13:00:00",
+  "Locatario": "POCO SITIO PLAYA VERDE",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "FAMILIAR UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "16469",
+   "Nombre": "ERNESTO CAMILO ROMERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31438",
+   "Nombre": "JUAN MARCELO FALCO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21380",
+   "Nombre": "JUAN IGNACIO PALERMO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "42314",
+   "Nombre": "MARCELO COLACHE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "31812",
+   "Nombre": "EDUARDO ANDRES LLANES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59159",
+   "Nombre": "FEDERICO  GUSTAVO JIMENEZ DE ARECHAGA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "37827",
+   "Nombre": "ADRIAN ZOULAMIAN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "38830",
+   "Nombre": "SANTIAGO AGUSTIN FURINO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "34215",
+   "Nombre": "FRANCO VERDIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "44648",
+   "Nombre": "MATEO JOEL GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "23256",
+   "Nombre": "MATHIAS BARIZO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59691",
+   "Nombre": "LUIS KLEINER PLANCHON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31589",
+   "Nombre": "LEANDRO NICOLAS HAEDO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62379",
+   "Nombre": "DIEGO MARTIN BENITEZ",
+   "camiseta": "33",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "36515",
+   "Nombre": "SEBASTIAN ARSUAGA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58955",
+   "Nombre": "BRUNO PAOLO DONATO",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "34116",
+   "Nombre": "DIEGO NOBLE",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "46408",
+   "Nombre": "HECTOR MARTIN GONZALEZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "58243",
+   "Nombre": "SEBASTIAN CORLETO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "54552",
+   "Nombre": "GONZALO MACEDO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "29287",
+   "Nombre": "SANTIAGO BARRIOS",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "18221",
+   "Nombre": "ANDRES MAURO SICA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "21380",
+   "Jug_Sale": "JUAN IGNACIO PALERMO",
+   "CarneEntra": "43930",
+   "Jug_Entra": "FEDERICO RUILOPEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37827",
+   "Jug_Sale": "ADRIAN ZOULAMIAN",
+   "CarneEntra": "67003",
+   "Jug_Entra": "MAXIMILIANO ANDRES CASTRO",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31812",
+   "Jug_Sale": "EDUARDO ANDRES LLANES",
+   "CarneEntra": "28326",
+   "Jug_Entra": "SANTIAGO COLA",
+   "camiseta": "10",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "34215",
+   "Jug_Sale": "FRANCO VERDIAS",
+   "CarneEntra": "38830",
+   "Jug_Entra": "SANTIAGO AGUSTIN FURINO",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "23256",
+   "Jug_Sale": "MATHIAS BARIZO",
+   "CarneEntra": "53604",
+   "Jug_Entra": "JONATHAN LUIS GREGORIO",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "44648",
+   "Jug_Sale": "MATEO JOEL GONZALEZ",
+   "CarneEntra": "30300",
+   "Jug_Entra": "JOSE IGNACIO CARAMES",
+   "camiseta": "23",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "67003",
+   "Jug_Sale": "MAXIMILIANO ANDRES CASTRO",
+   "CarneEntra": "37827",
+   "Jug_Entra": "ADRIAN ZOULAMIAN",
+   "camiseta": "8",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "29287",
+   "Jug_Sale": "SANTIAGO BARRIOS",
+   "CarneEntra": "66373",
+   "Jug_Entra": "DIEGO NICOLAS TRINDADE",
+   "camiseta": "80",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "58955",
+   "Jug_Sale": "BRUNO PAOLO DONATO",
+   "CarneEntra": "33805",
+   "Jug_Entra": "GUSTAVO REBELLATO",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34116",
+   "Jug_Sale": "DIEGO NOBLE",
+   "CarneEntra": "59301",
+   "Jug_Entra": "MAURICIO CANCELO",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58243",
+   "Jug_Sale": "SEBASTIAN CORLETO",
+   "CarneEntra": "33161",
+   "Jug_Entra": "DIEGO OYHARZABAL",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31589",
+   "Jug_Sale": "LEANDRO NICOLAS HAEDO",
+   "CarneEntra": "42841",
+   "Jug_Entra": "CARLOS DAVID OCAMPO",
+   "camiseta": "99",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "54552",
+   "Jug_Sale": "GONZALO MACEDO",
+   "CarneEntra": "24145",
+   "Jug_Entra": "JUAN PABLO REBELLATTO",
+   "camiseta": "21",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "36515",
+   "Jug_Sale": "SEBASTIAN ARSUAGA",
+   "CarneEntra": "68611",
+   "Jug_Entra": "LEONARDO JAVIER BELTRAME",
+   "camiseta": "67",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "46408",
+   "Jug_Sale": "HECTOR MARTIN GONZALEZ",
+   "CarneEntra": "31589",
+   "Jug_Entra": "LEANDRO NICOLAS HAEDO",
+   "camiseta": "6",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23256",
+   "Nombre": "MATHIAS BARIZO",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "44648",
+   "Nombre": "MATEO JOEL GONZALEZ",
+   "minutos": "42",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

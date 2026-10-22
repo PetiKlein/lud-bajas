@@ -1,0 +1,253 @@
+{
+ "id": "100226",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO LA CORUÑA(MALVAREZ)",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "CLUB ATLETICO BRAZO ORIENTAL",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "199",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LA CORUÑA(MALVAREZ)",
+  "Fecha_Inicio": "2026-06-20 13:15:00",
+  "Fecha_fin": "2026-06-20 13:15:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB ATLETICO BRAZO ORIENTAL",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "19566",
+   "Nombre": "IGNACIO RIVAROLA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64755",
+   "Nombre": "MARTIN UBAL",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "66837",
+   "Nombre": "ESTEBAN RAUL ZAPATA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "65725",
+   "Nombre": "MARCELO RAFAEL VIANA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "25956",
+   "Nombre": "NICOLAS FABIAN FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "24154",
+   "Nombre": "JOSE IGNACIO RABELLINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "49509",
+   "Nombre": "ADRIAN LAURINO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40409",
+   "Nombre": "CARLOS FEDERICO FERREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "33171",
+   "Nombre": "JAVIER ANDRES SCHINCA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "32202",
+   "Nombre": "DARIO MARTIN PIZANO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "24705",
+   "Nombre": "RODRIGO RIVERA",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "36575",
+   "Nombre": "RAMON HORACIO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19265",
+   "Nombre": "ROBERTO GASTON SOLER",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "25539",
+   "Nombre": "JUAN PABLO VAZQUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "38464",
+   "Nombre": "SEBASTIAN MARCELO FERNANDEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "25540",
+   "Nombre": "IGNACIO BELLO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "25585",
+   "Nombre": "NICOLAS GALMARINI",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27920",
+   "Nombre": "GONZALO LEON ARIAS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "27919",
+   "Nombre": "FRANCISCO ARIAS",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "25414",
+   "Nombre": "SERGIO LUIS MASTROGIOVANNI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "21969",
+   "Nombre": "MATIAS MUÑOZ",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "46513",
+   "Nombre": "DIEGO ALFREDO LANZARO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24705",
+   "Jug_Sale": "RODRIGO RIVERA",
+   "CarneEntra": "31180",
+   "Jug_Entra": "PABLO CESAR ADRICH",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33171",
+   "Jug_Sale": "JAVIER ANDRES SCHINCA",
+   "CarneEntra": "18229",
+   "Jug_Entra": "GERMAN ANDRES CRAPUCHETTI",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24154",
+   "Jug_Sale": "JOSE IGNACIO RABELLINO",
+   "CarneEntra": "33171",
+   "Jug_Entra": "JAVIER ANDRES SCHINCA",
+   "camiseta": "99",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46513",
+   "Jug_Sale": "DIEGO ALFREDO LANZARO",
+   "CarneEntra": "36477",
+   "Jug_Entra": "ALEJANDRO SEBASTIAN BALDOVINO",
+   "camiseta": "10",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "25539",
+   "Jug_Sale": "JUAN PABLO VAZQUEZ",
+   "CarneEntra": "28139",
+   "Jug_Entra": "ENZO JOSE FUDA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21969",
+   "Jug_Sale": "MATIAS MUÑOZ",
+   "CarneEntra": "25509",
+   "Jug_Entra": "ANDRES RODRIGO GARCIA",
+   "camiseta": "5",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "38464",
+   "Jug_Sale": "SEBASTIAN MARCELO FERNANDEZ",
+   "CarneEntra": "25539",
+   "Jug_Entra": "JUAN PABLO VAZQUEZ",
+   "camiseta": "11",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "27919",
+   "Jug_Sale": "FRANCISCO ARIAS",
+   "CarneEntra": "21969",
+   "Jug_Entra": "MATIAS MUÑOZ",
+   "camiseta": "38",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "31180",
+   "Nombre": "PABLO CESAR ADRICH",
+   "minutos": "78",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49509",
+   "Nombre": "ADRIAN LAURINO",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,271 @@
+{
+ "id": "98462",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 11:15:00",
+ "cancha": "COLEGIO PIO",
+ "local": "X - 13 UNIVERSITARIO",
+ "visitante": "GOMENSORO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "20",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-04-25 00:00:00",
+  "Fecha_fin": "2026-04-25 00:00:00",
+  "Locatario": "X - 13 UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "GOMENSORO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23492",
+   "Nombre": "SANTIAGO MATIAS ORTIZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54287",
+   "Nombre": "JOAQUIN LOPEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "11649",
+   "Nombre": "RAFAEL PINTOS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "33162",
+   "Nombre": "FEDERICO DAMIAN PAIVA",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "21138",
+   "Nombre": "MARCELO DANIEL MULLER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "16526",
+   "Nombre": "GONZALO DANIEL RIQUERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "39630",
+   "Nombre": "JAVIER ISAAC SCOTTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "25647",
+   "Nombre": "ANIBAL VILLA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "28639",
+   "Nombre": "PEDRO ESTEBAN CHIFFONE",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "19072",
+   "Nombre": "NICOLAS MAXIMILIANO IVANOVICH",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "18644",
+   "Nombre": "MAURICIO GONZALO SANTOS",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "24555",
+   "Nombre": "DIEGO TARAMASCO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "17096",
+   "Nombre": "JULIAN CARVE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "15792",
+   "Nombre": "JUAN RAMON PAEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30341",
+   "Nombre": "GUILLERMO LARROQUE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "15471",
+   "Nombre": "IGNACIO VAZQUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "17030",
+   "Nombre": "JUAN DIEGO LARROQUE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "28905",
+   "Nombre": "BRUNO NICOLAS LAGOMARSINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "13368",
+   "Nombre": "MARTIN ANDRES OLIVERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "14903",
+   "Nombre": "TAZIO SCALDAFERRI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "18644",
+   "Jug_Sale": "MAURICIO GONZALO SANTOS",
+   "CarneEntra": "29678",
+   "Jug_Entra": "OSCAR WILLIAM PEREYRA",
+   "camiseta": "18",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "39630",
+   "Jug_Sale": "JAVIER ISAAC SCOTTI",
+   "CarneEntra": "67179",
+   "Jug_Entra": "SEBASTIAN ALBERTO BALIÑO",
+   "camiseta": "25",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "25647",
+   "Jug_Sale": "ANIBAL VILLA",
+   "CarneEntra": "18644",
+   "Jug_Entra": "MAURICIO GONZALO SANTOS",
+   "camiseta": "20",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "16526",
+   "Jug_Sale": "GONZALO DANIEL RIQUERO",
+   "CarneEntra": "15796",
+   "Jug_Entra": "DAMIAN DIAZ",
+   "camiseta": "10",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "17096",
+   "Jug_Sale": "JULIAN CARVE",
+   "CarneEntra": "17425",
+   "Jug_Entra": "DIEGO SCLEIDOROVICH",
+   "camiseta": "0",
+   "minutos": "22"
+  },
+  {
+   "CarneSale": "13368",
+   "Jug_Sale": "MARTIN ANDRES OLIVERA",
+   "CarneEntra": "20527",
+   "Jug_Entra": "NICOLAS RIENZI",
+   "camiseta": "0",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15471",
+   "Jug_Sale": "IGNACIO VAZQUEZ",
+   "CarneEntra": "28755",
+   "Jug_Entra": "JOSE ANDRES LOPEZ",
+   "camiseta": "8",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "30341",
+   "Jug_Sale": "GUILLERMO LARROQUE",
+   "CarneEntra": "16207",
+   "Jug_Entra": "IGNACIO JAVIER BERTOLINI",
+   "camiseta": "18",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "28755",
+   "Jug_Sale": "JOSE ANDRES LOPEZ",
+   "CarneEntra": "16729",
+   "Jug_Entra": "ANDRES ALFREDO DENEO",
+   "camiseta": "16",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "14903",
+   "Jug_Sale": "TAZIO SCALDAFERRI",
+   "CarneEntra": "30750",
+   "Jug_Entra": "IVAN BONILLA",
+   "camiseta": "19",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "40476",
+   "Jug_Sale": "JOSE MANUEL CAYAFFA",
+   "CarneEntra": "23588",
+   "Jug_Entra": "ANTONIO MARIA SERRENTINO",
+   "camiseta": "21",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "13368",
+   "Nombre": "MARTIN ANDRES OLIVERA",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,245 @@
+{
+ "id": "101807",
+ "categoria": "presenior-e",
+ "serie": "PSEB",
+ "fecha": 4,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "HARAS CUC",
+ "local": "RIVER PLATE UNIVERSITARIO",
+ "visitante": "VARELA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "744",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PS DIV.E 1ªR COPA BRONCE",
+  "Cancha": "HARAS CUC",
+  "Fecha_Inicio": "2026-09-12 13:15:00",
+  "Fecha_fin": "2026-09-12 13:15:00",
+  "Locatario": "RIVER PLATE UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "VARELA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67489",
+   "Nombre": "JOSE FERNANDO GEREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67488",
+   "Nombre": "CESAR EMILIANO FALCO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "43293",
+   "Nombre": "FABIAN SERVETTI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42401",
+   "Nombre": "DIEGO PABLO FACELLO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "51396",
+   "Nombre": "GONZALO ZEBALLOS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "56865",
+   "Nombre": "ALEXANDER ROBERTO TABEIRA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "67042",
+   "Nombre": "ANDRES PASSADORE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61117",
+   "Nombre": "FABIAN REDIN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "65215",
+   "Nombre": "SANTIAGO ALMADA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "34843",
+   "Nombre": "DIEGO FERNANDO CHRISTOPH",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "29363",
+   "Nombre": "RAFAEL ENRIQUE PERDOMO",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22425",
+   "Nombre": "MARTIN SCAVONE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33205",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "42887",
+   "Nombre": "FEDERICO EDUARDO GARRIDO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "31709",
+   "Nombre": "FELIPE HOUNIE",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "21746",
+   "Nombre": "NICOLAS FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41784",
+   "Nombre": "GONZALO SEBASTIAN RUELLA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31248",
+   "Nombre": "FELIPE ISI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "28636",
+   "Nombre": "DANIEL CHIAPPINI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "15665",
+   "Nombre": "JOSE IGNACIO MURIAS",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55924",
+   "Nombre": "IGNACIO ARTURO NAVARRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "25141",
+   "Nombre": "MATHIAS FRAGA",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51396",
+   "Jug_Sale": "GONZALO ZEBALLOS",
+   "CarneEntra": "52240",
+   "Jug_Entra": "MATHÌAS IGNACIO RODRÌGUEZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56865",
+   "Jug_Sale": "ALEXANDER ROBERTO TABEIRA",
+   "CarneEntra": "26052",
+   "Jug_Entra": "PABLO SEBASTIAN FERNANDEZ",
+   "camiseta": "31",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "28636",
+   "Jug_Sale": "DANIEL CHIAPPINI",
+   "CarneEntra": "42353",
+   "Jug_Entra": "NICOLAS MARTIN",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33205",
+   "Jug_Sale": "AGUSTIN GONZALEZ",
+   "CarneEntra": "68773",
+   "Jug_Entra": "MARTIN NOGUERA",
+   "camiseta": "69",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55924",
+   "Jug_Sale": "IGNACIO ARTURO NAVARRO",
+   "CarneEntra": "57281",
+   "Jug_Entra": "ALVARO MAXIMILIANO MALDONADO",
+   "camiseta": "12",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "41784",
+   "Jug_Sale": "GONZALO SEBASTIAN RUELLA",
+   "CarneEntra": "33205",
+   "Jug_Entra": "AGUSTIN GONZALEZ",
+   "camiseta": "29",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "31248",
+   "Jug_Sale": "FELIPE ISI",
+   "CarneEntra": "43298",
+   "Jug_Entra": "JUAN PABLO RUGLIO",
+   "camiseta": "37",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43293",
+   "Nombre": "FABIAN SERVETTI",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65215",
+   "Nombre": "SANTIAGO ALMADA",
+   "minutos": "26",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

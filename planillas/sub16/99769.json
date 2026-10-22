@@ -1,0 +1,281 @@
+{
+ "id": "99769",
+ "categoria": "sub16",
+ "serie": "16-4-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 13:30:00",
+ "cancha": "POLIDEPORTIVO FAUQUET",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "LA ESCALINATA",
+ "gl": 2,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "109",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 4",
+  "Cancha": "POLIDEPORTIVO FAUQUET",
+  "Fecha_Inicio": "2026-06-07 15:10:00",
+  "Fecha_fin": "2026-06-07 15:10:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "LA ESCALINATA",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68250",
+   "Nombre": "IGNACIO SANGUINETTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68044",
+   "Nombre": "FRANCISCO DAVID ROSANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62955",
+   "Nombre": "LAUTARO BENJAMIN DI GENOVA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66533",
+   "Nombre": "BENJAMIN SOSA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66536",
+   "Nombre": "JOAQUIN SOSA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62629",
+   "Nombre": "JUAN FRANCISCO QUINTERO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "66790",
+   "Nombre": "BRUNO ROMERO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67891",
+   "Nombre": "EMILIANO BENJAMIN DE LOS SANTOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66892",
+   "Nombre": "MARTIN SANTAMARIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "66931",
+   "Nombre": "SANTIAGO NICOLAS PEÑA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68640",
+   "Nombre": "BRUNO MANUEL SILVA",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65090",
+   "Nombre": "SANTINO BERRUETA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65519",
+   "Nombre": "JUAN BAUTISTA CABRERA LIMA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65089",
+   "Nombre": "IGNACIO VARELA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65078",
+   "Nombre": "FACUNDO SILVEIRA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "65087",
+   "Nombre": "GUILLERMO CACERES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "65553",
+   "Nombre": "FEDERICO SURRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62878",
+   "Nombre": "SANTIAGO TORRES",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65521",
+   "Nombre": "MAXIMO CAL",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "62887",
+   "Nombre": "AGUSTIN VIERA",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "63557",
+   "Nombre": "MANUEL CANTERA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "65086",
+   "Nombre": "JUAN MANUEL FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [],
+ "cambiosV": [
+  {
+   "CarneSale": "65519",
+   "Jug_Sale": "JUAN BAUTISTA CABRERA LIMA",
+   "CarneEntra": "65076",
+   "Jug_Entra": "RAMIRO GONZALEZ",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65086",
+   "Jug_Sale": "JUAN MANUEL FERNANDEZ",
+   "CarneEntra": "65524",
+   "Jug_Entra": "FRANCO TOMAS NUÑEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65553",
+   "Jug_Sale": "FEDERICO SURRA",
+   "CarneEntra": "65074",
+   "Jug_Entra": "GERONIMO ROMERO",
+   "camiseta": "71",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "62887",
+   "Jug_Sale": "AGUSTIN VIERA",
+   "CarneEntra": "65079",
+   "Jug_Entra": "BENJAMIN LICANDRO",
+   "camiseta": "10",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "62878",
+   "Jug_Sale": "SANTIAGO TORRES",
+   "CarneEntra": "67911",
+   "Jug_Entra": "JUAN BAUTISTA SCOTTI",
+   "camiseta": "19",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "63557",
+   "Jug_Sale": "MANUEL CANTERA",
+   "CarneEntra": "65084",
+   "Jug_Entra": "LORENZO BAUTISTA BERGALO",
+   "camiseta": "3",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "65084",
+   "Jug_Sale": "LORENZO BAUTISTA BERGALO",
+   "CarneEntra": "65082",
+   "Jug_Entra": "ALFONSO GERVAZ",
+   "camiseta": "2",
+   "minutos": "58"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62955",
+   "Nombre": "LAUTARO BENJAMIN DI GENOVA",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62955",
+   "Nombre": "LAUTARO BENJAMIN DI GENOVA",
+   "minutos": "72",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62878",
+   "Nombre": "SANTIAGO TORRES",
+   "minutos": "54",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62887",
+   "Nombre": "AGUSTIN VIERA",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63557",
+   "Nombre": "MANUEL CANTERA",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65079",
+   "Nombre": "BENJAMIN LICANDRO",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65082",
+   "Nombre": "ALFONSO GERVAZ",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65087",
+   "Nombre": "GUILLERMO CACERES",
+   "minutos": "2",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

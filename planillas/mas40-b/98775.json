@@ -1,0 +1,263 @@
+{
+ "id": "98775",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "CLUB ATLETICO BRAZO ORIENTAL",
+ "visitante": "FAMILIAR UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "157",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-05-16 10:48:00",
+  "Fecha_fin": "2026-05-16 10:48:00",
+  "Locatario": "CLUB ATLETICO BRAZO ORIENTAL",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "FAMILIAR UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "36575",
+   "Nombre": "RAMON HORACIO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25414",
+   "Nombre": "SERGIO LUIS MASTROGIOVANNI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "25811",
+   "Nombre": "CHRISTIAN MIRAMBELL",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "22551",
+   "Nombre": "RODRIGO DANIEL LESTIDO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "21969",
+   "Nombre": "MATIAS MUÑOZ",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "27919",
+   "Nombre": "FRANCISCO ARIAS",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24780",
+   "Nombre": "FRANCISCO PEREIRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "18129",
+   "Nombre": "HERNAN JORGE POMBO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "46513",
+   "Nombre": "DIEGO ALFREDO LANZARO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "40190",
+   "Nombre": "PABLO NICOLAS MAGRIS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "27920",
+   "Nombre": "GONZALO LEON ARIAS",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "19429",
+   "Nombre": "GUSTAVO MARTIN SEBE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "32534",
+   "Nombre": "PABLO ELGUE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "20653",
+   "Nombre": "MARCELO DAMIAN LARRIERA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "32044",
+   "Nombre": "JUAN ALEJANDRO PATARO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "12720",
+   "Nombre": "DIEGO MARTIN PONCE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "17407",
+   "Nombre": "GUILLERMO RAUL CURBELO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20723",
+   "Nombre": "SEBASTIAN SANCHEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "15044",
+   "Nombre": "SEBASTIAN ADRIAN VILLARREAL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "14527",
+   "Nombre": "SEBASTIAN PABLO CASTRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46825",
+   "Nombre": "EIAL BUENAVIDA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "13416",
+   "Nombre": "EDUARDO IGLESIAS",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27919",
+   "Jug_Sale": "FRANCISCO ARIAS",
+   "CarneEntra": "25539",
+   "Jug_Entra": "JUAN PABLO VAZQUEZ",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "40190",
+   "Jug_Sale": "PABLO NICOLAS MAGRIS",
+   "CarneEntra": "25509",
+   "Jug_Entra": "ANDRES RODRIGO GARCIA",
+   "camiseta": "51",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "18129",
+   "Jug_Sale": "HERNAN JORGE POMBO",
+   "CarneEntra": "21969",
+   "Jug_Entra": "MATIAS MUÑOZ",
+   "camiseta": "38",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "46513",
+   "Jug_Sale": "DIEGO ALFREDO LANZARO",
+   "CarneEntra": "18129",
+   "Jug_Entra": "HERNAN JORGE POMBO",
+   "camiseta": "35",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "21969",
+   "Jug_Sale": "MATIAS MUÑOZ",
+   "CarneEntra": "39240",
+   "Jug_Entra": "LIBER ILLINGTTON MAGALLANES",
+   "camiseta": "41",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46825",
+   "Jug_Sale": "EIAL BUENAVIDA",
+   "CarneEntra": "47415",
+   "Jug_Entra": "MARTIN SEBASTIAN PALOMEQUE",
+   "camiseta": "16",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "17407",
+   "Jug_Sale": "GUILLERMO RAUL CURBELO",
+   "CarneEntra": "46825",
+   "Jug_Entra": "EIAL BUENAVIDA",
+   "camiseta": "7",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "18129",
+   "Nombre": "HERNAN JORGE POMBO",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "18129",
+   "Nombre": "HERNAN JORGE POMBO",
+   "minutos": "83",
+   "EnContra": "0"
+  },
+  {
+   "carne": "25811",
+   "Nombre": "CHRISTIAN MIRAMBELL",
+   "minutos": "19",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "14527",
+   "Nombre": "SEBASTIAN PABLO CASTRO",
+   "minutos": "89",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "DIEGO MARTIN PONCE",
+   "observaciones": ""
+  }
+ ]
+}

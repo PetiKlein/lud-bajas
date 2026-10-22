@@ -1,0 +1,255 @@
+{
+ "id": "99558",
+ "categoria": "sub18",
+ "serie": "18-1-",
+ "fecha": 6,
+ "fechaHora": "2026-05-31 15:30:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "21",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 1",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-05-31 00:00:00",
+  "Fecha_fin": "2026-05-31 00:00:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57591",
+   "Nombre": "FRANCISCO DUARTE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57602",
+   "Nombre": "SANTIAGO BOGGIA",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57632",
+   "Nombre": "AGUSTIN MANTERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61411",
+   "Nombre": "FRANCISCO BOUBET",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "57597",
+   "Nombre": "JUAN IGNACIO CAPORALE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57604",
+   "Nombre": "SANTIAGO MANUEL CURBELO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57601",
+   "Nombre": "RODRIGO INFANTOZZI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61431",
+   "Nombre": "MARTIN RAMA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "57631",
+   "Nombre": "JUAN IGNACIO DIAZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "58605",
+   "Nombre": "GIUSEPPE RICCIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57587",
+   "Nombre": "AGUSTIN CRAVIOTTO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59057",
+   "Nombre": "LAUTARO ROMAN GALARRAGA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62764",
+   "Nombre": "PATRICIO TADEO LARROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64368",
+   "Nombre": "MATHIAS JOAQUIN LOPEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64543",
+   "Nombre": "SEBASTIAN RODRIGUEZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "68428",
+   "Nombre": "FRANCISCO VIDIELLA",
+   "camiseta": "63",
+   "Capitan": ""
+  },
+  {
+   "carne": "60545",
+   "Nombre": "TADEO ELIAS ORLANDO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "68106",
+   "Nombre": "GUZMAN PRANDO",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "66333",
+   "Nombre": "EMILIANO SANCHEZ",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "61855",
+   "Nombre": "LUCAS NAHUM SANTOS",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "68674",
+   "Nombre": "SANTIAGO VIERA",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "63621",
+   "Nombre": "RAUL ERNESTO GONZALEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57597",
+   "Jug_Sale": "JUAN IGNACIO CAPORALE",
+   "CarneEntra": "57603",
+   "Jug_Entra": "SANTIAGO COSTA",
+   "camiseta": "5",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "57587",
+   "Jug_Sale": "AGUSTIN CRAVIOTTO",
+   "CarneEntra": "57572",
+   "Jug_Entra": "FRANCO ABREU",
+   "camiseta": "7",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "58605",
+   "Jug_Sale": "GIUSEPPE RICCIO",
+   "CarneEntra": "61629",
+   "Jug_Entra": "LUCIANO CARLO TISCORNIA",
+   "camiseta": "24",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57631",
+   "Jug_Sale": "JUAN IGNACIO DIAZ",
+   "CarneEntra": "58626",
+   "Jug_Entra": "SANTIAGO CASTRO",
+   "camiseta": "15",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68106",
+   "Jug_Sale": "GUZMAN PRANDO",
+   "CarneEntra": "64528",
+   "Jug_Entra": "SANTIAGO COPATTI",
+   "camiseta": "43",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "62764",
+   "Jug_Sale": "PATRICIO TADEO LARROSA",
+   "CarneEntra": "64496",
+   "Jug_Entra": "NICOLAS MARTINEZ",
+   "camiseta": "41",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "63621",
+   "Jug_Sale": "RAUL ERNESTO GONZALEZ",
+   "CarneEntra": "64534",
+   "Jug_Entra": "JORDAN SANTIAGO BORBA",
+   "camiseta": "42",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "64368",
+   "Jug_Sale": "MATHIAS JOAQUIN LOPEZ",
+   "CarneEntra": "63362",
+   "Jug_Entra": "TOMAS VALENTINO MARRONE",
+   "camiseta": "52",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "64496",
+   "Jug_Sale": "NICOLAS MARTINEZ",
+   "CarneEntra": "62764",
+   "Jug_Entra": "PATRICIO TADEO LARROSA",
+   "camiseta": "24",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57631",
+   "Nombre": "JUAN IGNACIO DIAZ",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

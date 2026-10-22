@@ -1,0 +1,311 @@
+{
+ "id": "99910",
+ "categoria": "mas40-c",
+ "serie": "40S23",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "J.M.L.M",
+ "visitante": "FERROTANQUE",
+ "gl": 9,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "327",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 2",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-13 10:45:00",
+  "Fecha_fin": "2026-06-13 10:45:00",
+  "Locatario": "J.M.L.M",
+  "goles_locatario": "9",
+  "puntos_locatario": "3",
+  "Visitante": "FERROTANQUE",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "21539",
+   "Nombre": "JUAN PABLO MARTIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "24167",
+   "Nombre": "IGNACIO PRIETO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "20406",
+   "Nombre": "ALVARO MARTIN ODINO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42983",
+   "Nombre": "DANIEL DELMONTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "21747",
+   "Nombre": "JAVIER ALFREDO GONZALEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "29496",
+   "Nombre": "DIEGO FERRARI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "17945",
+   "Nombre": "SEBASTIAN PANARIO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "18773",
+   "Nombre": "JUAN ANDRES BECERRA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "22144",
+   "Nombre": "DIEGO HORACIO ODIZZIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "34140",
+   "Nombre": "DIEGO VALENTIN CERVIERI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "15338",
+   "Nombre": "DANIEL FABIAN ALONSO",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39807",
+   "Nombre": "GUSTAVO MOSQUERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44183",
+   "Nombre": "PABLO GARRO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "30868",
+   "Nombre": "PABLO DANIEL ZACHEO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "18434",
+   "Nombre": "FEDERICO CORALLO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "16747",
+   "Nombre": "PABLO DANIEL GOMEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "40746",
+   "Nombre": "DIEGO FEDERICO BAYLE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "27927",
+   "Nombre": "GERMAN LOMBARDI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "17855",
+   "Nombre": "WASHINGTON SILVA",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "17449",
+   "Nombre": "ALEJANDRO GABRIEL BARLOCCO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "60735",
+   "Nombre": "CHRISTIAN MARCEL BARATTA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "18329",
+   "Nombre": "FRANCISCO MANUEL FERNANDEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24167",
+   "Jug_Sale": "IGNACIO PRIETO",
+   "CarneEntra": "20670",
+   "Jug_Entra": "MARTIN MUSACCO",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21747",
+   "Jug_Sale": "JAVIER ALFREDO GONZALEZ",
+   "CarneEntra": "51716",
+   "Jug_Entra": "SANTIAGO SYMONDS",
+   "camiseta": "39",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17945",
+   "Jug_Sale": "SEBASTIAN PANARIO",
+   "CarneEntra": "20072",
+   "Jug_Entra": "GONZALO QUINAZ",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15338",
+   "Jug_Sale": "DANIEL FABIAN ALONSO",
+   "CarneEntra": "22448",
+   "Jug_Entra": "JUAN JOSE CUELLO",
+   "camiseta": "85",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18773",
+   "Jug_Sale": "JUAN ANDRES BECERRA",
+   "CarneEntra": "20441",
+   "Jug_Entra": "MARTIN PEDRANA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22144",
+   "Jug_Sale": "DIEGO HORACIO ODIZZIO",
+   "CarneEntra": "21747",
+   "Jug_Entra": "JAVIER ALFREDO GONZALEZ",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "29496",
+   "Jug_Sale": "DIEGO FERRARI",
+   "CarneEntra": "15338",
+   "Jug_Entra": "DANIEL FABIAN ALONSO",
+   "camiseta": "16",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "34140",
+   "Jug_Sale": "DIEGO VALENTIN CERVIERI",
+   "CarneEntra": "18773",
+   "Jug_Entra": "JUAN ANDRES BECERRA",
+   "camiseta": "20",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "40746",
+   "Jug_Sale": "DIEGO FEDERICO BAYLE",
+   "CarneEntra": "22210",
+   "Jug_Entra": "MARCOS ADOLFO AMESPIL",
+   "camiseta": "2",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "18329",
+   "Jug_Sale": "FRANCISCO MANUEL FERNANDEZ",
+   "CarneEntra": "40746",
+   "Jug_Entra": "DIEGO FEDERICO BAYLE",
+   "camiseta": "18",
+   "minutos": "49"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "18773",
+   "Nombre": "JUAN ANDRES BECERRA",
+   "minutos": "87",
+   "EnContra": "0"
+  },
+  {
+   "carne": "20406",
+   "Nombre": "ALVARO MARTIN ODINO",
+   "minutos": "72",
+   "EnContra": "0"
+  },
+  {
+   "carne": "21747",
+   "Nombre": "JAVIER ALFREDO GONZALEZ",
+   "minutos": "89",
+   "EnContra": "0"
+  },
+  {
+   "carne": "22144",
+   "Nombre": "DIEGO HORACIO ODIZZIO",
+   "minutos": "17",
+   "EnContra": "0"
+  },
+  {
+   "carne": "24167",
+   "Nombre": "IGNACIO PRIETO",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "24167",
+   "Nombre": "IGNACIO PRIETO",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "34140",
+   "Nombre": "DIEGO VALENTIN CERVIERI",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "34140",
+   "Nombre": "DIEGO VALENTIN CERVIERI",
+   "minutos": "16",
+   "EnContra": "0"
+  },
+  {
+   "carne": "34140",
+   "Nombre": "DIEGO VALENTIN CERVIERI",
+   "minutos": "34",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

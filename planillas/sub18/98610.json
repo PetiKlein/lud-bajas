@@ -1,0 +1,313 @@
+{
+ "id": "98610",
+ "categoria": "sub18",
+ "serie": "18-1-",
+ "fecha": 2,
+ "fechaHora": "2026-04-26 15:30:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "DEPORTIVO LS UNIVERSITARIO",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "6",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 1",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-04-26 17:15:00",
+  "Fecha_fin": "2026-04-26 17:15:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61017",
+   "Nombre": "NAHUEL CRISTOBO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62302",
+   "Nombre": "JUAN IGNACIO CABALLERO",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "60432",
+   "Nombre": "FELIPE CERONI",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67074",
+   "Nombre": "TOMÀS CENTURIÒN",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "57718",
+   "Nombre": "FEDERICO BABACE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57583",
+   "Nombre": "KEVIN FACUNDO MAGURNO",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "67072",
+   "Nombre": "ENZO BONINO",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "60283",
+   "Nombre": "MATEO DE LEON",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67073",
+   "Nombre": "LUCAS EZEQUIEL SERPA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "57237",
+   "Nombre": "ANGEL SEBASTIAN MARTINEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57245",
+   "Nombre": "AGUSTIN EMMANUEL TORIJA",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61026",
+   "Nombre": "MANUEL BARRERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59414",
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63703",
+   "Nombre": "MATHIAS AGUSTIN LOPEZ",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61057",
+   "Nombre": "MATEO NICOLI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "66726",
+   "Nombre": "FACUNDO BIQUE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59411",
+   "Nombre": "TIAGO MARTIN RAYMONDO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62927",
+   "Nombre": "LORENZO ANTONIO FERRARI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68382",
+   "Nombre": "TIAGO BAUTISTA PINTOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59433",
+   "Nombre": "TOMAS SEBASTIAN FRANCO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59417",
+   "Nombre": "BENJAMIN ALVAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66182",
+   "Nombre": "FABIAN LEONEL DZIEWULECKA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60283",
+   "Jug_Sale": "MATEO DE LEON",
+   "CarneEntra": "64467",
+   "Jug_Entra": "GUILLERMO SACCHI",
+   "camiseta": "14",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "57718",
+   "Jug_Sale": "FEDERICO BABACE",
+   "CarneEntra": "67909",
+   "Jug_Entra": "FRANCO SEBASTIAN VERDES",
+   "camiseta": "32",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "67074",
+   "Jug_Sale": "TOMÀS CENTURIÒN",
+   "CarneEntra": "60432",
+   "Jug_Entra": "FELIPE CERONI",
+   "camiseta": "25",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "62302",
+   "Jug_Sale": "JUAN IGNACIO CABALLERO",
+   "CarneEntra": "57580",
+   "Jug_Entra": "FELIPE MATTHEY",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60432",
+   "Jug_Sale": "FELIPE CERONI",
+   "CarneEntra": "67084",
+   "Jug_Entra": "FACUNDO NAHUEL MONEGAL",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57718",
+   "Jug_Sale": "FEDERICO BABACE",
+   "CarneEntra": "58261",
+   "Jug_Entra": "NICOLAS ACUÑA",
+   "camiseta": "22",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59411",
+   "Jug_Sale": "TIAGO MARTIN RAYMONDO",
+   "CarneEntra": "60293",
+   "Jug_Entra": "JOAQUIN PASSADORE",
+   "camiseta": "16",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "59414",
+   "Jug_Sale": "FACUNDO RODRIGUEZ",
+   "CarneEntra": "67173",
+   "Jug_Entra": "TIZIANO BENJAMIN MUÑOZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59417",
+   "Jug_Sale": "BENJAMIN ALVAREZ",
+   "CarneEntra": "67085",
+   "Jug_Entra": "SANTINO IPARRAGUIRRE",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66182",
+   "Jug_Sale": "FABIAN LEONEL DZIEWULECKA",
+   "CarneEntra": "67172",
+   "Jug_Entra": "JOAQUIN ACOSTA",
+   "camiseta": "91",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62927",
+   "Jug_Sale": "LORENZO ANTONIO FERRARI",
+   "CarneEntra": "64045",
+   "Jug_Entra": "MATIAS FERNANDO PAOLILLO",
+   "camiseta": "21",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "66726",
+   "Jug_Sale": "FACUNDO BIQUE",
+   "CarneEntra": "60212",
+   "Jug_Entra": "VALENTIN RODRIGUEZ",
+   "camiseta": "22",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "68382",
+   "Jug_Sale": "TIAGO BAUTISTA PINTOS",
+   "CarneEntra": "59981",
+   "Jug_Entra": "JUAN PABLO PORTA",
+   "camiseta": "61",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "61057",
+   "Jug_Sale": "MATEO NICOLI",
+   "CarneEntra": "67080",
+   "Jug_Entra": "LUCIANO DAVID MOURA",
+   "camiseta": "13",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "59433",
+   "Nombre": "TOMAS SEBASTIAN FRANCO",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62927",
+   "Nombre": "LORENZO ANTONIO FERRARI",
+   "minutos": "3",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66182",
+   "Nombre": "FABIAN LEONEL DZIEWULECKA",
+   "minutos": "12",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66182",
+   "Nombre": "FABIAN LEONEL DZIEWULECKA",
+   "minutos": "72",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

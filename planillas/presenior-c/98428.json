@@ -1,0 +1,310 @@
+{
+ "id": "98428",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "CLARA JACKSON UNIVERSITARIO",
+ "visitante": "OLIMAR",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "262",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-04-25 11:00:00",
+  "Fecha_fin": "2026-04-25 11:00:00",
+  "Locatario": "CLARA JACKSON UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "OLIMAR",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "40111",
+   "Nombre": "DIEGO ROJAS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "34406",
+   "Nombre": "FRANCO ANTONIO RICARDI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "33810",
+   "Nombre": "RODRIGO SOBRADO",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "35096",
+   "Nombre": "AGUSTIN OSVALDO MIRO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "40810",
+   "Nombre": "DANIEL RODRIGO TORT",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "32894",
+   "Nombre": "CARLOS ANDRES BENTANCOURT",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "35443",
+   "Nombre": "RAFAEL LANZETTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "35291",
+   "Nombre": "ADRIAN MONTOLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "27327",
+   "Nombre": "GERMAN RODRIGO SANTAMARIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "34628",
+   "Nombre": "SANTIAGO PATRICIO IGLESIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29386",
+   "Nombre": "MAURICIO FABIAN COSTA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "20630",
+   "Nombre": "FRANCISCO AMADO SALOMON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "21600",
+   "Nombre": "FEDERICO MORSI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25658",
+   "Nombre": "FERNANDO POSADA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "22467",
+   "Nombre": "GONZALO RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "18082",
+   "Nombre": "PABLO RODOLFO CRISTINI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "38599",
+   "Nombre": "PABLO ALBERTO GOMEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "28832",
+   "Nombre": "FEDERICO LARRIERA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "41871",
+   "Nombre": "DANILO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "21560",
+   "Nombre": "SANTIAGO AMARO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "21510",
+   "Nombre": "GUSTAVO WELKER",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "40810",
+   "Jug_Sale": "DANIEL RODRIGO TORT",
+   "CarneEntra": "42789",
+   "Jug_Entra": "DIEGO GABRIEL DEL PO",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35443",
+   "Jug_Sale": "RAFAEL LANZETTA",
+   "CarneEntra": "40042",
+   "Jug_Entra": "AGUSTIN GILI",
+   "camiseta": "24",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "27327",
+   "Jug_Sale": "GERMAN RODRIGO SANTAMARIA",
+   "CarneEntra": "46032",
+   "Jug_Entra": "IGNACIO GABRIEL GARCILAZO",
+   "camiseta": "7",
+   "minutos": "63"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "18082",
+   "Jug_Sale": "PABLO RODOLFO CRISTINI",
+   "CarneEntra": "28054",
+   "Jug_Entra": "PEDRO SITYA",
+   "camiseta": "15",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "25658",
+   "Jug_Sale": "FERNANDO POSADA",
+   "CarneEntra": "26174",
+   "Jug_Entra": "GASTON FREIGEDO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22467",
+   "Jug_Sale": "GONZALO RODRIGUEZ",
+   "CarneEntra": "24088",
+   "Jug_Entra": "FABRIZIO BERRIOLO",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41871",
+   "Jug_Sale": "DANILO RODRIGUEZ",
+   "CarneEntra": "45719",
+   "Jug_Entra": "CRISTIAN ANDRES GONZALEZ",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21560",
+   "Jug_Sale": "SANTIAGO AMARO",
+   "CarneEntra": "29806",
+   "Jug_Entra": "FEDERICO LURNER",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38599",
+   "Jug_Sale": "PABLO ALBERTO GOMEZ",
+   "CarneEntra": "26834",
+   "Jug_Entra": "NICOLAS GROSSO",
+   "camiseta": "6",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "28832",
+   "Jug_Sale": "FEDERICO LARRIERA",
+   "CarneEntra": "45717",
+   "Jug_Entra": "DIEGO MARTIN RIVERO",
+   "camiseta": "12",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "21510",
+   "Jug_Sale": "GUSTAVO WELKER",
+   "CarneEntra": "66996",
+   "Jug_Entra": "GERMAN BOZ",
+   "camiseta": "17",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "20630",
+   "Jug_Sale": "FRANCISCO AMADO SALOMON",
+   "CarneEntra": "49715",
+   "Jug_Entra": "ERNESTO AGUSTIN LUCAS",
+   "camiseta": "13",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "34628",
+   "Nombre": "SANTIAGO PATRICIO IGLESIAS",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "minutos": "58",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "21510",
+   "Nombre": "GUSTAVO WELKER",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "21510",
+   "Nombre": "GUSTAVO WELKER",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "26174",
+   "Nombre": "GASTON FREIGEDO",
+   "minutos": "54",
+   "EnContra": "1"
+  },
+  {
+   "carne": "26174",
+   "Nombre": "GASTON FREIGEDO",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

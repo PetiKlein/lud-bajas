@@ -1,0 +1,302 @@
+{
+ "id": "101145",
+ "categoria": "sub18",
+ "serie": "18-52",
+ "fecha": 6,
+ "fechaHora": "2026-08-26 18:00:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "HCA UNIVERSITARIO",
+ "visitante": "JUAN XXIII",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "318",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 5 RUEDA 2",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-08-26 19:50:00",
+  "Fecha_fin": "2026-08-26 19:50:00",
+  "Locatario": "HCA UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56771",
+   "Nombre": "SANTIAGO MARTIN ARREGIN",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "64598",
+   "Nombre": "JOAQUIN MANUEL VAZQUEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "64602",
+   "Nombre": "JOAQUIN ALEJANDRO RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64600",
+   "Nombre": "MARCOS JAVIER LARRAMENDI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64610",
+   "Nombre": "JUAN PEDRO CASANOVA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64615",
+   "Nombre": "JOAQUIN MORENO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64613",
+   "Nombre": "FELIPE DE MEDINA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65374",
+   "Nombre": "JUAN MATIAS PEREIRA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "66079",
+   "Nombre": "SANTIAGO CROSSA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64609",
+   "Nombre": "IVAN CHARABARUK",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64603",
+   "Nombre": "MANUEL MEDERO",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62147",
+   "Nombre": "LEANDRO MINTEGUI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57814",
+   "Nombre": "FACUNDO LYNCH GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59079",
+   "Nombre": "DIEGO MARTINO",
+   "camiseta": "39",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68764",
+   "Nombre": "BRUNO GONZALO BAZZANO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "59604",
+   "Nombre": "MAXIMO WERNER QUINCKE",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "66146",
+   "Nombre": "GASTON ERRANDONEA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65552",
+   "Nombre": "JUAN MARTIN ASENCIO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "68229",
+   "Nombre": "BENICIO DIAZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "61098",
+   "Nombre": "JUAN BAUTISTA DANS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68867",
+   "Nombre": "CAMILO ALFREDO BACCI",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64609",
+   "Jug_Sale": "IVAN CHARABARUK",
+   "CarneEntra": "64918",
+   "Jug_Entra": "FACUNDO JESUS CESAR",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64603",
+   "Jug_Sale": "MANUEL MEDERO",
+   "CarneEntra": "68166",
+   "Jug_Entra": "RODRIGO GARCIA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64615",
+   "Jug_Sale": "JOAQUIN MORENO",
+   "CarneEntra": "65724",
+   "Jug_Entra": "THIAGO ALTEZ",
+   "camiseta": "5",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "64613",
+   "Jug_Sale": "FELIPE DE MEDINA",
+   "CarneEntra": "64615",
+   "Jug_Entra": "JOAQUIN MORENO",
+   "camiseta": "8",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65552",
+   "Jug_Sale": "JUAN MARTIN ASENCIO",
+   "CarneEntra": "64950",
+   "Jug_Entra": "LUCA GARABATO",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66146",
+   "Jug_Sale": "GASTON ERRANDONEA",
+   "CarneEntra": "64876",
+   "Jug_Entra": "GUZMAN ISMAEL RODRIGUEZ",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68867",
+   "Jug_Sale": "CAMILO ALFREDO BACCI",
+   "CarneEntra": "68228",
+   "Jug_Entra": "AURELIO MUÑIZ",
+   "camiseta": "42",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "68229",
+   "Jug_Sale": "BENICIO DIAZ",
+   "CarneEntra": "68233",
+   "Jug_Entra": "JOAQUIN SCHMIDT",
+   "camiseta": "50",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "68764",
+   "Jug_Sale": "BRUNO GONZALO BAZZANO",
+   "CarneEntra": "61949",
+   "Jug_Entra": "JUAN IGNACIO DE RIENZO",
+   "camiseta": "66",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "59604",
+   "Jug_Sale": "MAXIMO WERNER QUINCKE",
+   "CarneEntra": "65552",
+   "Jug_Entra": "JUAN MARTIN ASENCIO",
+   "camiseta": "77",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "65119",
+   "Jug_Sale": "VALENTIN BALZA",
+   "CarneEntra": "68225",
+   "Jug_Entra": "TOMAS PALACIOS",
+   "camiseta": "7",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64598",
+   "Nombre": "JOAQUIN MANUEL VAZQUEZ",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64615",
+   "Nombre": "JOAQUIN MORENO",
+   "minutos": "27",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65374",
+   "Nombre": "JUAN MATIAS PEREIRA",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65374",
+   "Nombre": "JUAN MATIAS PEREIRA",
+   "minutos": "83",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66079",
+   "Nombre": "SANTIAGO CROSSA",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

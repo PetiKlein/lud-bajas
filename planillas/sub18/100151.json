@@ -1,0 +1,287 @@
+{
+ "id": "100151",
+ "categoria": "sub18",
+ "serie": "18-3-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 15:30:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "68",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 3",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-06-14 17:30:00",
+  "Fecha_fin": "2026-06-14 17:30:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61996",
+   "Nombre": "JUAN MATEO MAGUNA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66249",
+   "Nombre": "FACUNDO DIAZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57779",
+   "Nombre": "NICOLAS LLANES",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57774",
+   "Nombre": "BRUNO SICA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57778",
+   "Nombre": "MANUEL CAMPOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64685",
+   "Nombre": "AGUSTIN RAMON ALVEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68258",
+   "Nombre": "MAXIMILIANO CUBA",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "61144",
+   "Nombre": "FACUNDO LUIS D’AMICO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65649",
+   "Nombre": "JUAN BARROS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61517",
+   "Nombre": "JOAQUIN MACHADO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64944",
+   "Nombre": "VALENTINO DECIA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63127",
+   "Nombre": "THIAGO MARTIN COITINHO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57929",
+   "Nombre": "JUAN MANUEL LAGO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65858",
+   "Nombre": "DYLAN JOAQUIN PITTAMEGLIO",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "57690",
+   "Nombre": "JUAN PABLO ROCHE",
+   "camiseta": "99",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57669",
+   "Nombre": "FEDERICO CHAMYAN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64889",
+   "Nombre": "JUAN SEBASTIAN MAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60463",
+   "Nombre": "JUAN JOSE ESMITE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "57928",
+   "Nombre": "GERMAN ESCANDELL",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "62459",
+   "Nombre": "FEDERICO EMANUEL ANADON",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60335",
+   "Nombre": "IGNACIO FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60443",
+   "Nombre": "SANTINO ABBATE",
+   "camiseta": "82",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57774",
+   "Jug_Sale": "BRUNO SICA",
+   "CarneEntra": "66111",
+   "Jug_Entra": "MATIAS PEPELESCOV",
+   "camiseta": "3",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "68258",
+   "Jug_Sale": "MAXIMILIANO CUBA",
+   "CarneEntra": "63643",
+   "Jug_Entra": "MATEO FAULORD",
+   "camiseta": "2",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65649",
+   "Jug_Sale": "JUAN BARROS",
+   "CarneEntra": "66813",
+   "Jug_Entra": "EXCER JOSE MONTILLA",
+   "camiseta": "20",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "66249",
+   "Jug_Sale": "FACUNDO DIAZ",
+   "CarneEntra": "57790",
+   "Jug_Entra": "FELIPE VALENTIN GARI",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64944",
+   "Jug_Sale": "VALENTINO DECIA",
+   "CarneEntra": "58771",
+   "Jug_Entra": "ALEJO RODRIGUEZ",
+   "camiseta": "20",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "61517",
+   "Jug_Sale": "JOAQUIN MACHADO",
+   "CarneEntra": "68658",
+   "Jug_Entra": "SANTINO GOMEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57778",
+   "Jug_Sale": "MANUEL CAMPOS",
+   "CarneEntra": "64207",
+   "Jug_Entra": "LAUTARO FABIAN LECUNA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64685",
+   "Jug_Sale": "AGUSTIN RAMON ALVEZ",
+   "CarneEntra": "58563",
+   "Jug_Entra": "AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62459",
+   "Jug_Sale": "FEDERICO EMANUEL ANADON",
+   "CarneEntra": "62598",
+   "Jug_Entra": "EMILIANO SOSA",
+   "camiseta": "10",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "57669",
+   "Jug_Sale": "FEDERICO CHAMYAN",
+   "CarneEntra": "57686",
+   "Jug_Entra": "ALEJANDRO MELOGNO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64889",
+   "Jug_Sale": "JUAN SEBASTIAN MAS",
+   "CarneEntra": "65536",
+   "Jug_Entra": "JOAQUIN SOSA",
+   "camiseta": "28",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "60335",
+   "Jug_Sale": "IGNACIO FERNANDEZ",
+   "CarneEntra": "60471",
+   "Jug_Entra": "AGUSTIN APARICIO CABILLON",
+   "camiseta": "9",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "60463",
+   "Jug_Sale": "JUAN JOSE ESMITE",
+   "CarneEntra": "57930",
+   "Jug_Entra": "ELIAS GIMENEZ",
+   "camiseta": "20",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65649",
+   "Nombre": "JUAN BARROS",
+   "minutos": "37",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

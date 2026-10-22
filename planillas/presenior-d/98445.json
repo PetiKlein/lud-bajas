@@ -1,0 +1,301 @@
+{
+ "id": "98445",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 09:00:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "ESTUDIANTES ESPAÑOLES",
+ "visitante": "CLUB FUERZA AEREA",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "593",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-04-25 11:00:00",
+  "Fecha_fin": "2026-04-25 11:00:00",
+  "Locatario": "ESTUDIANTES ESPAÑOLES",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB FUERZA AEREA",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53640",
+   "Nombre": "HENRY GASTON LINK",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "41417",
+   "Nombre": "MAURICIO PELUFFO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "61545",
+   "Nombre": "RODRIGO DANIEL BALBI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "26279",
+   "Nombre": "RODRIGO EMILIANO ANTELO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23753",
+   "Nombre": "DIEGO MAURICIO ACOSTA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "31375",
+   "Nombre": "GONZALO CAIRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "26654",
+   "Nombre": "FEDERICO GASTON GORRIA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64752",
+   "Nombre": "SANTIAGO OLIVERA OLIVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "41404",
+   "Nombre": "SANTIAGO BALLETTO BALLETTO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "31538",
+   "Nombre": "MAURICIO BELLORA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "33389",
+   "Nombre": "VALENTIN CAFARO",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "35538",
+   "Nombre": "YAIR EDGAR MORALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24179",
+   "Nombre": "SERGIO DANIEL BIANCHI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "17537",
+   "Nombre": "ANGEL SEBASTIAN MOREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "20859",
+   "Nombre": "IGNACIO OTASU",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "21318",
+   "Nombre": "PABLO DANIEL REINOSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "36916",
+   "Nombre": "SANTIAGO NICOLAS RUGLIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "25991",
+   "Nombre": "FEDERICO BARDIER",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "18698",
+   "Nombre": "FERNANDO MACEIRA",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "17844",
+   "Nombre": "YAMANDU SEBASTIAN SILVA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "66178",
+   "Nombre": "JAIRO ALTAMIR DE LOS SANTOS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "27563",
+   "Nombre": "ALVARO MARTIN BARDIER",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26654",
+   "Jug_Sale": "FEDERICO GASTON GORRIA",
+   "CarneEntra": "44745",
+   "Jug_Entra": "CAMILO CASAS",
+   "camiseta": "10",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "41417",
+   "Jug_Sale": "MAURICIO PELUFFO",
+   "CarneEntra": "43679",
+   "Jug_Entra": "BRUNO ERNESTO ALARIO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61545",
+   "Jug_Sale": "RODRIGO DANIEL BALBI",
+   "CarneEntra": "41081",
+   "Jug_Entra": "MARCOS AGUSTIN GARCIA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31375",
+   "Jug_Sale": "GONZALO CAIRO",
+   "CarneEntra": "29200",
+   "Jug_Entra": "JAVIER RODRIGUEZ",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41404",
+   "Jug_Sale": "SANTIAGO BALLETTO BALLETTO",
+   "CarneEntra": "23946",
+   "Jug_Entra": "ALEJANDRO AGUSTIN DIAZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31538",
+   "Jug_Sale": "MAURICIO BELLORA",
+   "CarneEntra": "67556",
+   "Jug_Entra": "ADRIAN MARCEL CARRION",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33389",
+   "Jug_Sale": "VALENTIN CAFARO",
+   "CarneEntra": "41079",
+   "Jug_Entra": "RODRIGO MARCEL OVIEDO",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64752",
+   "Jug_Sale": "SANTIAGO OLIVERA OLIVERA",
+   "CarneEntra": "34626",
+   "Jug_Entra": "RODRIGO SEBASTIAN ANDRADA",
+   "camiseta": "9",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24179",
+   "Jug_Sale": "SERGIO DANIEL BIANCHI",
+   "CarneEntra": "40807",
+   "Jug_Entra": "MARIANO GERMAN FIGUEROA",
+   "camiseta": "5",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "21318",
+   "Jug_Sale": "PABLO DANIEL REINOSO",
+   "CarneEntra": "19790",
+   "Jug_Entra": "GUSTAVO JAVIER GONZALEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17844",
+   "Jug_Sale": "YAMANDU SEBASTIAN SILVA",
+   "CarneEntra": "25208",
+   "Jug_Entra": "DIEGO MARTIN NOBLE",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19790",
+   "Jug_Sale": "GUSTAVO JAVIER GONZALEZ",
+   "CarneEntra": "32752",
+   "Jug_Entra": "ALVARO DARIO BALCEMAO",
+   "camiseta": "27",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "66178",
+   "Jug_Sale": "JAIRO ALTAMIR DE LOS SANTOS",
+   "CarneEntra": "24312",
+   "Jug_Entra": "JUAN NICOLAS DA SILVA",
+   "camiseta": "45",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "20859",
+   "Jug_Sale": "IGNACIO OTASU",
+   "CarneEntra": "63106",
+   "Jug_Entra": "NICOLAS LOPEZ",
+   "camiseta": "8",
+   "minutos": "43"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "27563",
+   "Nombre": "ALVARO MARTIN BARDIER",
+   "minutos": "88",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66178",
+   "Nombre": "JAIRO ALTAMIR DE LOS SANTOS",
+   "minutos": "72",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

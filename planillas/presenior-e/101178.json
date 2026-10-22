@@ -1,0 +1,294 @@
+{
+ "id": "101178",
+ "categoria": "presenior-e",
+ "serie": "PSEP",
+ "fecha": 2,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "CIENFAR F.C.",
+ "visitante": "SINDICATO MEDICO DEL URUGUAY",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "723",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PS DIV. E 1ªR COPA PLATA",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-08-29 10:45:00",
+  "Fecha_fin": "2026-08-29 10:45:00",
+  "Locatario": "CIENFAR F.C.",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23069",
+   "Nombre": "DIEGO MARTIN MAROTTA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "29910",
+   "Nombre": "MANUEL IBARRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "21308",
+   "Nombre": "FEDERICO PARNIZARI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "33273",
+   "Nombre": "DANIEL ADRIAN RAMOS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "31460",
+   "Nombre": "SANTIAGO PARNIZARI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "38789",
+   "Nombre": "NICOLAS FARIAS",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "36922",
+   "Nombre": "MAURICIO FARIAS",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "30936",
+   "Nombre": "MARIO MATIAS MACHADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "26324",
+   "Nombre": "JUAN MARTIN GARRIDO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "23384",
+   "Nombre": "MARTIN HIRIART",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "27619",
+   "Nombre": "DANIEL EDGARDO MAROTTA",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58895",
+   "Nombre": "GONZALO EZEQUIEL BARRIONUEVO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35210",
+   "Nombre": "AGUSTIN BORGGIO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67681",
+   "Nombre": "MARTIN EDISON LONG",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "30427",
+   "Nombre": "FABRICIO GANNUSO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "27963",
+   "Nombre": "JORGE FEDERICO KLEINMAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "30070",
+   "Nombre": "PABLO LACUESTA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "48362",
+   "Nombre": "FABIO NELSON RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64111",
+   "Nombre": "MAURICIO CASTRO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "40213",
+   "Nombre": "DIEGO JOSE ROSSO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63288",
+   "Nombre": "SERGIO FERNANDO ROSSO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "48337",
+   "Nombre": "EDUARDO GUSTAVO CLAUSTRE",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "33273",
+   "Jug_Sale": "DANIEL ADRIAN RAMOS",
+   "CarneEntra": "37656",
+   "Jug_Entra": "ANGEL MATIAS RODRIGUEZ",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36922",
+   "Jug_Sale": "MAURICIO FARIAS",
+   "CarneEntra": "24241",
+   "Jug_Entra": "SEBASTIAN JOSE VILLAR",
+   "camiseta": "69",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27619",
+   "Jug_Sale": "DANIEL EDGARDO MAROTTA",
+   "CarneEntra": "36922",
+   "Jug_Entra": "MAURICIO FARIAS",
+   "camiseta": "99",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "31460",
+   "Jug_Sale": "SANTIAGO PARNIZARI",
+   "CarneEntra": "33273",
+   "Jug_Entra": "DANIEL ADRIAN RAMOS",
+   "camiseta": "2",
+   "minutos": "58"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "35210",
+   "Jug_Sale": "AGUSTIN BORGGIO",
+   "CarneEntra": "30994",
+   "Jug_Entra": "VICTOR HUGO MADERA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67681",
+   "Jug_Sale": "MARTIN EDISON LONG",
+   "CarneEntra": "67782",
+   "Jug_Entra": "IGNACIO DUARTE",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30427",
+   "Jug_Sale": "FABRICIO GANNUSO",
+   "CarneEntra": "30560",
+   "Jug_Entra": "ALEJANDRO ANDRADE",
+   "camiseta": "20",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "35210",
+   "Jug_Sale": "AGUSTIN BORGGIO",
+   "CarneEntra": "52336",
+   "Jug_Entra": "FEDERICO MOREIRA",
+   "camiseta": "15",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "48362",
+   "Jug_Sale": "FABIO NELSON RODRIGUEZ",
+   "CarneEntra": "57251",
+   "Jug_Entra": "GUSTAVO ADOLFO CHAVEZ",
+   "camiseta": "70",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64111",
+   "Jug_Sale": "MAURICIO CASTRO",
+   "CarneEntra": "57400",
+   "Jug_Entra": "ALEXIS EXEQUIEL CASTRO",
+   "camiseta": "26",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "30070",
+   "Jug_Sale": "PABLO LACUESTA",
+   "CarneEntra": "35210",
+   "Jug_Entra": "AGUSTIN BORGGIO",
+   "camiseta": "16",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23384",
+   "Nombre": "MARTIN HIRIART",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "23384",
+   "Nombre": "MARTIN HIRIART",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "26324",
+   "Nombre": "JUAN MARTIN GARRIDO",
+   "minutos": "56",
+   "EnContra": "0"
+  },
+  {
+   "carne": "27619",
+   "Nombre": "DANIEL EDGARDO MAROTTA",
+   "minutos": "31",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "SERGIO FERNANDO ROSSO",
+   "observaciones": ""
+  }
+ ]
+}

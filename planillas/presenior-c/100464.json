@@ -1,0 +1,308 @@
+{
+ "id": "100464",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "POLIDEPORTIVO FAUQUET",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "SAN EUGENIO",
+ "gl": 5,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "325",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "POLIDEPORTIVO FAUQUET",
+  "Fecha_Inicio": "2026-06-27 11:00:00",
+  "Fecha_fin": "2026-06-27 11:00:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "SAN EUGENIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "10253",
+   "Nombre": "ANDRES MAURICIO ALVES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34872",
+   "Nombre": "SALVADOR DANGIOLILLO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "48986",
+   "Nombre": "GUILLERMO GERARDO MELGAREJO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "35454",
+   "Nombre": "GUILLERMO MATTOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "40466",
+   "Nombre": "CARLOS ANDRES FERNANDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "47052",
+   "Nombre": "MANUEL SAVIOZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "29550",
+   "Nombre": "PABLO SERGIO FERREIRA",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21480",
+   "Nombre": "MARCO GASTON GENTINI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "44380",
+   "Nombre": "MATHIAS ALEJANDRO LABITOLA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "40505",
+   "Nombre": "MARTIN BALBI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64424",
+   "Nombre": "LEONARDO GABRIEL MACIAS",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29401",
+   "Nombre": "NICOLAS MARTIN AGUERREGOYEN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45452",
+   "Nombre": "MAURICIO NICOLAS BAUTISTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "45423",
+   "Nombre": "FELIPE DANIEL GONCALVES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59380",
+   "Nombre": "CRISTIAN FLEITAS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "20494",
+   "Nombre": "ANDRES GERMAN FERNANDEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "47307",
+   "Nombre": "LUIS ALEJANDRO AYALA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "27853",
+   "Nombre": "ISRAEL LIBSCHITZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59348",
+   "Nombre": "MAURICIO TRAVERS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "33921",
+   "Nombre": "FABIAN BRUNETTO",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52801",
+   "Nombre": "GABRIEL DE LAS LLANAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67662",
+   "Nombre": "LEONARDO CORREA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "21480",
+   "Jug_Sale": "MARCO GASTON GENTINI",
+   "CarneEntra": "21051",
+   "Jug_Entra": "WALTER FEDERICO PEREZ",
+   "camiseta": "22",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "44380",
+   "Jug_Sale": "MATHIAS ALEJANDRO LABITOLA",
+   "CarneEntra": "26116",
+   "Jug_Entra": "LEONARDO FACUNDO SORIA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47052",
+   "Jug_Sale": "MANUEL SAVIOZ",
+   "CarneEntra": "42426",
+   "Jug_Entra": "GERMAN PEREZ",
+   "camiseta": "21",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "64424",
+   "Jug_Sale": "LEONARDO GABRIEL MACIAS",
+   "CarneEntra": "19769",
+   "Jug_Entra": "PABLO MARTIN VILLAR",
+   "camiseta": "83",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "34872",
+   "Jug_Sale": "SALVADOR DANGIOLILLO",
+   "CarneEntra": "38925",
+   "Jug_Entra": "SANTIAGO GASTON BANQUERO",
+   "camiseta": "13",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "48986",
+   "Jug_Sale": "GUILLERMO GERARDO MELGAREJO",
+   "CarneEntra": "44380",
+   "Jug_Entra": "MATHIAS ALEJANDRO LABITOLA",
+   "camiseta": "28",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "27853",
+   "Jug_Sale": "ISRAEL LIBSCHITZ",
+   "CarneEntra": "37219",
+   "Jug_Entra": "GONZALO GURUCEAGA",
+   "camiseta": "92",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33921",
+   "Jug_Sale": "FABIAN BRUNETTO",
+   "CarneEntra": "57854",
+   "Jug_Entra": "LEONARDO BOVE",
+   "camiseta": "33",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "45423",
+   "Jug_Sale": "FELIPE DANIEL GONCALVES",
+   "CarneEntra": "62217",
+   "Jug_Entra": "JUAN ARAUJO",
+   "camiseta": "11",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "59348",
+   "Jug_Sale": "MAURICIO TRAVERS",
+   "CarneEntra": "37223",
+   "Jug_Entra": "MATIAS FUQUES",
+   "camiseta": "15",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "20494",
+   "Jug_Sale": "ANDRES GERMAN FERNANDEZ",
+   "CarneEntra": "33921",
+   "Jug_Entra": "FABIAN BRUNETTO",
+   "camiseta": "17",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "45452",
+   "Jug_Sale": "MAURICIO NICOLAS BAUTISTA",
+   "CarneEntra": "45423",
+   "Jug_Entra": "FELIPE DANIEL GONCALVES",
+   "camiseta": "6",
+   "minutos": "69"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "21051",
+   "Nombre": "WALTER FEDERICO PEREZ",
+   "minutos": "79",
+   "EnContra": "0"
+  },
+  {
+   "carne": "21480",
+   "Nombre": "MARCO GASTON GENTINI",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40466",
+   "Nombre": "CARLOS ANDRES FERNANDEZ",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40505",
+   "Nombre": "MARTIN BALBI",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40505",
+   "Nombre": "MARTIN BALBI",
+   "minutos": "91",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "CRISTIAN FLEITAS",
+   "observaciones": ""
+  }
+ ]
+}

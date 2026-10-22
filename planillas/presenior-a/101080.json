@@ -1,0 +1,276 @@
+{
+ "id": "101080",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:30:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "PLAYA HONDA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "113",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-08-15 13:30:00",
+  "Fecha_fin": "2026-08-15 13:30:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "PLAYA HONDA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "33051",
+   "Nombre": "JUAN MARCELO DUTRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "27038",
+   "Nombre": "JAVIER CARRAU",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "26202",
+   "Nombre": "AGUSTIN SANTIAGO DAGUERRE",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "23159",
+   "Nombre": "NICOLAS LOPEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "25243",
+   "Nombre": "DIEGO CABRERA",
+   "camiseta": "80",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33503",
+   "Nombre": "NICOLAS FEUERSTEIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "26713",
+   "Nombre": "GUZMAN LUIS CASARINO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "27997",
+   "Nombre": "NICOLAS VALDEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "26408",
+   "Nombre": "RODRIGO LEGUISAMO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "25027",
+   "Nombre": "SANTIAGO MATIAS RAMA",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37674",
+   "Nombre": "DIEGO MARCEL DOPICO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38797",
+   "Nombre": "LORENZO VEGA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "22718",
+   "Nombre": "SANTIAGO ABOAL",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27298",
+   "Nombre": "GABRIEL ISRAEL SANDBERG",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "44561",
+   "Nombre": "MATHIAS GABRIEL ALZA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "34510",
+   "Nombre": "CARLOS SANTIAGO LORENZO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "21043",
+   "Nombre": "MATIAS BERENGUER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "21504",
+   "Nombre": "FEDERICO LAMBACH",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "22605",
+   "Nombre": "ALEJANDRO NUÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "26947",
+   "Nombre": "BRUNO EDUARDO DI MARTINO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "27229",
+   "Nombre": "MARTIN HEBER GARCIA",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "33051",
+   "Jug_Sale": "JUAN MARCELO DUTRA",
+   "CarneEntra": "26423",
+   "Jug_Entra": "RENZO OMAR BEGHETTI",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26408",
+   "Jug_Sale": "RODRIGO LEGUISAMO",
+   "CarneEntra": "36531",
+   "Jug_Entra": "IGNACIO JIMENEZ",
+   "camiseta": "71",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26713",
+   "Jug_Sale": "GUZMAN LUIS CASARINO",
+   "CarneEntra": "23357",
+   "Jug_Entra": "MIGUEL IGNACIO FERNANDEZ",
+   "camiseta": "12",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "23159",
+   "Jug_Sale": "NICOLAS LOPEZ",
+   "CarneEntra": "18309",
+   "Jug_Entra": "MATEO VIDAL",
+   "camiseta": "82",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "27997",
+   "Jug_Sale": "NICOLAS VALDEZ",
+   "CarneEntra": "22062",
+   "Jug_Entra": "AGUSTIN VERNASSA",
+   "camiseta": "11",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "27298",
+   "Jug_Sale": "GABRIEL ISRAEL SANDBERG",
+   "CarneEntra": "61841",
+   "Jug_Entra": "MAURO ANTONIO ROSTAN",
+   "camiseta": "42",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "21504",
+   "Jug_Sale": "FEDERICO LAMBACH",
+   "CarneEntra": "43898",
+   "Jug_Entra": "BRUNO ANDRES MARTINEZ",
+   "camiseta": "30",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "26947",
+   "Jug_Sale": "BRUNO EDUARDO DI MARTINO",
+   "CarneEntra": "44483",
+   "Jug_Entra": "RAMIRO GUICHON",
+   "camiseta": "21",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "21043",
+   "Jug_Sale": "MATIAS BERENGUER",
+   "CarneEntra": "46097",
+   "Jug_Entra": "ADRIAN IGNACIO RIOS",
+   "camiseta": "70",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "27229",
+   "Jug_Sale": "MARTIN HEBER GARCIA",
+   "CarneEntra": "20526",
+   "Jug_Entra": "RODRIGO CRIADO",
+   "camiseta": "11",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "36531",
+   "Nombre": "IGNACIO JIMENEZ",
+   "minutos": "92",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "22605",
+   "Nombre": "ALEJANDRO NUÑEZ",
+   "minutos": "94",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27229",
+   "Nombre": "MARTIN HEBER GARCIA",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27229",
+   "Nombre": "MARTIN HEBER GARCIA",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

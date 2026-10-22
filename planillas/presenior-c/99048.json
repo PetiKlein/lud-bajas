@@ -1,0 +1,325 @@
+{
+ "id": "99048",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "CEIBOS CLUB",
+ "visitante": "SAN JUAN BAUTISTA",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "288",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-05-23 11:00:00",
+  "Fecha_fin": "2026-05-23 11:00:00",
+  "Locatario": "CEIBOS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAN JUAN BAUTISTA",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32002",
+   "Nombre": "GIOVANNI PAOLO VIGNOTTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24859",
+   "Nombre": "FERNANDO DAMIANI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "20367",
+   "Nombre": "NICOLAS ORDOQUI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "30514",
+   "Nombre": "FRANCISCO JOSE DIAZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "32341",
+   "Nombre": "AGUSTIN ALVARO VIDAL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "22441",
+   "Nombre": "SANTIAGO JORGE KIRIAKIDIS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "21512",
+   "Nombre": "JUAN MARTIN DIAZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "22537",
+   "Nombre": "SANTIAGO ANTONIOL",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "18098",
+   "Nombre": "CARLOS JAVIER MORALES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "20250",
+   "Nombre": "ALEJANDRO MARIA GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "36768",
+   "Nombre": "FACUNDO SILVEIRA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47924",
+   "Nombre": "NICOLAS CARDOZO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "31579",
+   "Nombre": "MATIAS JAVIER GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "27951",
+   "Nombre": "JONATHAN FRANCISCO LEMOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "31343",
+   "Nombre": "JUAN FRANCISCO INSA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "18492",
+   "Nombre": "LEANDRO MAGALLANES",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "25371",
+   "Nombre": "SANTIAGO RAMIS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "37683",
+   "Nombre": "PABLO GASTON OLIVERA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "26404",
+   "Nombre": "FEDERICO DE LEON",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26703",
+   "Nombre": "ANDRES CAZALES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68241",
+   "Nombre": "JUAN PEDRO PACHECO",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "22537",
+   "Jug_Sale": "SANTIAGO ANTONIOL",
+   "CarneEntra": "24858",
+   "Jug_Entra": "JUAN IGNACIO KIRIAKIDIS",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22441",
+   "Jug_Sale": "SANTIAGO JORGE KIRIAKIDIS",
+   "CarneEntra": "21279",
+   "Jug_Entra": "GONZALO FEDERICO MULLIN",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24859",
+   "Jug_Sale": "FERNANDO DAMIANI",
+   "CarneEntra": "32081",
+   "Jug_Entra": "GONZALO TRAPP",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30514",
+   "Jug_Sale": "FRANCISCO JOSE DIAZ",
+   "CarneEntra": "28104",
+   "Jug_Entra": "GUZMAN FEDERICO DE CASTRO",
+   "camiseta": "3",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "20367",
+   "Jug_Sale": "NICOLAS ORDOQUI",
+   "CarneEntra": "28972",
+   "Jug_Entra": "JOSE AUGUSTO TACHINI",
+   "camiseta": "36",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "32341",
+   "Jug_Sale": "AGUSTIN ALVARO VIDAL",
+   "CarneEntra": "22265",
+   "Jug_Entra": "WELLINGTON RODRIGO BERENGUER",
+   "camiseta": "34",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "21512",
+   "Jug_Sale": "JUAN MARTIN DIAZ",
+   "CarneEntra": "24948",
+   "Jug_Entra": "FRANCISCO CARRIQUIRY",
+   "camiseta": "20",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "20250",
+   "Jug_Sale": "ALEJANDRO MARIA GONZALEZ",
+   "CarneEntra": "28667",
+   "Jug_Entra": "DIEGO FERNANDO LEIROS",
+   "camiseta": "10",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "26703",
+   "Jug_Sale": "ANDRES CAZALES",
+   "CarneEntra": "22171",
+   "Jug_Entra": "MARTIN JAVIER SOSA",
+   "camiseta": "38",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26404",
+   "Jug_Sale": "FEDERICO DE LEON",
+   "CarneEntra": "41310",
+   "Jug_Entra": "JORGE AGUSTIN VIZCAINO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25371",
+   "Jug_Sale": "SANTIAGO RAMIS",
+   "CarneEntra": "16998",
+   "Jug_Entra": "IGNACIO GRANDAL",
+   "camiseta": "12",
+   "minutos": "29"
+  },
+  {
+   "CarneSale": "31343",
+   "Jug_Sale": "JUAN FRANCISCO INSA",
+   "CarneEntra": "31320",
+   "Jug_Entra": "SANTIAGO AGUSTIN OCHOA",
+   "camiseta": "8",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "68241",
+   "Jug_Sale": "JUAN PEDRO PACHECO",
+   "CarneEntra": "62781",
+   "Jug_Entra": "WILLIAN MIGUEL ROSA",
+   "camiseta": "19",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "47924",
+   "Jug_Sale": "NICOLAS CARDOZO",
+   "CarneEntra": "26665",
+   "Jug_Entra": "MARTIN REY",
+   "camiseta": "18",
+   "minutos": "18"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "18098",
+   "Nombre": "CARLOS JAVIER MORALES",
+   "minutos": "17",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "22171",
+   "Nombre": "MARTIN JAVIER SOSA",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68241",
+   "Nombre": "JUAN PEDRO PACHECO",
+   "minutos": "11",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GIOVANNI PAOLO VIGNOTTI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,297 @@
+{
+ "id": "99092",
+ "categoria": "presenior-e",
+ "serie": "PSE1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "COM.SINDICATO MEDICO",
+ "local": "SINDICATO MEDICO DEL URUGUAY",
+ "visitante": "JUVENTUD DE LAS PIEDRAS",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "510",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 1",
+  "Cancha": "COM.SINDICATO MEDICO",
+  "Fecha_Inicio": "2026-05-23 11:00:00",
+  "Fecha_fin": "2026-05-23 11:00:00",
+  "Locatario": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "JUVENTUD DE LAS PIEDRAS",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58895",
+   "Nombre": "GONZALO EZEQUIEL BARRIONUEVO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30560",
+   "Nombre": "ALEJANDRO ANDRADE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "30994",
+   "Nombre": "VICTOR HUGO MADERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "48362",
+   "Nombre": "FABIO NELSON RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "45582",
+   "Nombre": "JUAN CARLOS CHIARINO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "35210",
+   "Nombre": "AGUSTIN BORGGIO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "40213",
+   "Nombre": "DIEGO JOSE ROSSO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63288",
+   "Nombre": "SERGIO FERNANDO ROSSO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "27963",
+   "Nombre": "JORGE FEDERICO KLEINMAN",
+   "camiseta": "31",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48337",
+   "Nombre": "EDUARDO GUSTAVO CLAUSTRE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "57400",
+   "Nombre": "ALEXIS EXEQUIEL CASTRO",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "31938",
+   "Nombre": "SEBASTIAN PIETRO GERARDO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "29209",
+   "Nombre": "MATIAS OLID",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62253",
+   "Nombre": "MARCELO COGOY",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "24493",
+   "Nombre": "JUAN PABLO PRESTE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "29791",
+   "Nombre": "DIEGO ALBERTO LAPORTE",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30064",
+   "Nombre": "MATIAS LUIS SORHUET",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "23681",
+   "Nombre": "MAURO SENATORE",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "38600",
+   "Nombre": "GERMAN ANDRES MIRANDA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62255",
+   "Nombre": "WILLIANS PERALTA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "19829",
+   "Nombre": "PAOLO EDISON ROSSI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "29804",
+   "Nombre": "MATIAS GABRIEL TRNKA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "30560",
+   "Jug_Sale": "ALEJANDRO ANDRADE",
+   "CarneEntra": "30070",
+   "Jug_Entra": "PABLO LACUESTA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57400",
+   "Jug_Sale": "ALEXIS EXEQUIEL CASTRO",
+   "CarneEntra": "67782",
+   "Jug_Entra": "IGNACIO DUARTE",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30994",
+   "Jug_Sale": "VICTOR HUGO MADERA",
+   "CarneEntra": "30427",
+   "Jug_Entra": "FABRICIO GANNUSO",
+   "camiseta": "30",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "63288",
+   "Jug_Sale": "SERGIO FERNANDO ROSSO",
+   "CarneEntra": "42101",
+   "Jug_Entra": "FABIAN ANDRES CARLOS",
+   "camiseta": "27",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "48362",
+   "Jug_Sale": "FABIO NELSON RODRIGUEZ",
+   "CarneEntra": "67681",
+   "Jug_Entra": "MARTIN EDISON LONG",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "35210",
+   "Jug_Sale": "AGUSTIN BORGGIO",
+   "CarneEntra": "33430",
+   "Jug_Entra": "SEBASTIAN ALVAREZ",
+   "camiseta": "32",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "42101",
+   "Jug_Sale": "FABIAN ANDRES CARLOS",
+   "CarneEntra": "57251",
+   "Jug_Entra": "GUSTAVO ADOLFO CHAVEZ",
+   "camiseta": "70",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "19829",
+   "Jug_Sale": "PAOLO EDISON ROSSI",
+   "CarneEntra": "29140",
+   "Jug_Entra": "SANTIAGO TOME",
+   "camiseta": "5",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "29209",
+   "Jug_Sale": "MATIAS OLID",
+   "CarneEntra": "18097",
+   "Jug_Entra": "GUILLERMO ANDRES SANGUINETTI",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62255",
+   "Jug_Sale": "WILLIANS PERALTA",
+   "CarneEntra": "68330",
+   "Jug_Entra": "MAURICIO VLADIMIR ARANA",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31938",
+   "Jug_Sale": "SEBASTIAN PIETRO GERARDO",
+   "CarneEntra": "34702",
+   "Jug_Entra": "MAXIMILIANO HECTOR RODRIGUEZ",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62253",
+   "Jug_Sale": "MARCELO COGOY",
+   "CarneEntra": "21251",
+   "Jug_Entra": "JOSE LUIS CALVETTE",
+   "camiseta": "14",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "30994",
+   "Nombre": "VICTOR HUGO MADERA",
+   "minutos": "23",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62255",
+   "Nombre": "WILLIANS PERALTA",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62255",
+   "Nombre": "WILLIANS PERALTA",
+   "minutos": "32",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MATIAS OLID",
+   "observaciones": ""
+  }
+ ]
+}

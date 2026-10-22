@@ -1,0 +1,275 @@
+{
+ "id": "99067",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "UNIVERSITARIO VERONES",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "48",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-23 10:45:00",
+  "Fecha_fin": "2026-05-23 10:45:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "UNIVERSITARIO VERONES",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23480",
+   "Nombre": "IGNACIO GASTON BIDEGAIN",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "25091",
+   "Nombre": "SERGIO MAROTTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "25090",
+   "Nombre": "DARIO MACEDO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33288",
+   "Nombre": "RODRIGO GUSTAVO FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "21216",
+   "Nombre": "GABRIEL TORRES TORRES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "54318",
+   "Nombre": "SANTIAGO GABRIEL RIERA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "64286",
+   "Nombre": "DIEGO ANDRE GARCIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54473",
+   "Nombre": "IGNACIO MARTIN GOMEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "39880",
+   "Nombre": "JUAN MANUEL ARANDA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "19194",
+   "Nombre": "AGUSTIN FARACHIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "23208",
+   "Nombre": "PABLO BRANDO",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49186",
+   "Nombre": "CHARLES ADRIAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35044",
+   "Nombre": "EDISON ANDRES DOMINGUEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "42931",
+   "Nombre": "BRUNO POSE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57706",
+   "Nombre": "EMILIANO ALBIN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "49719",
+   "Nombre": "SERGIO ADRIAN ABALO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "33390",
+   "Nombre": "MAURIZIO ADINOLFI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57256",
+   "Nombre": "JUIO FABIAN GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "24949",
+   "Nombre": "MARTIN MARIO MERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "32130",
+   "Nombre": "JUAN MANUEL TARALLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "30933",
+   "Nombre": "JORGE MARTIN CORREA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "22077",
+   "Nombre": "CESAR AUGUSTO CAVALLI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "39880",
+   "Jug_Sale": "JUAN MANUEL ARANDA",
+   "CarneEntra": "27597",
+   "Jug_Entra": "SANTIAGO LOPEZ PINTOS",
+   "camiseta": "28",
+   "minutos": "13"
+  },
+  {
+   "CarneSale": "54473",
+   "Jug_Sale": "IGNACIO MARTIN GOMEZ",
+   "CarneEntra": "39193",
+   "Jug_Entra": "FRANCO JAVIER VETRALE",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33288",
+   "Jug_Sale": "RODRIGO GUSTAVO FERNANDEZ",
+   "CarneEntra": "26415",
+   "Jug_Entra": "MARTIN GABRIEL MORILLO",
+   "camiseta": "10",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "54318",
+   "Jug_Sale": "SANTIAGO GABRIEL RIERA",
+   "CarneEntra": "25276",
+   "Jug_Entra": "LEONARDO CIRO ROMANO",
+   "camiseta": "69",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "64286",
+   "Jug_Sale": "DIEGO ANDRE GARCIA",
+   "CarneEntra": "47283",
+   "Jug_Entra": "SERGIO DARIO RAMIREZ",
+   "camiseta": "71",
+   "minutos": "71"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24949",
+   "Jug_Sale": "MARTIN MARIO MERA",
+   "CarneEntra": "28265",
+   "Jug_Entra": "SANTIAGO GASTON GIUFFRA",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "35044",
+   "Jug_Sale": "EDISON ANDRES DOMINGUEZ",
+   "CarneEntra": "35143",
+   "Jug_Entra": "DAVIS STEVEN SANCHEZ",
+   "camiseta": "16",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "19194",
+   "Nombre": "AGUSTIN FARACHIO",
+   "minutos": "26",
+   "EnContra": "0"
+  },
+  {
+   "carne": "19194",
+   "Nombre": "AGUSTIN FARACHIO",
+   "minutos": "68",
+   "EnContra": "0"
+  },
+  {
+   "carne": "19194",
+   "Nombre": "AGUSTIN FARACHIO",
+   "minutos": "70",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "30933",
+   "Nombre": "JORGE MARTIN CORREA",
+   "minutos": "22",
+   "EnContra": "1"
+  },
+  {
+   "carne": "30933",
+   "Nombre": "JORGE MARTIN CORREA",
+   "minutos": "34",
+   "EnContra": "1"
+  },
+  {
+   "carne": "30933",
+   "Nombre": "JORGE MARTIN CORREA",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GABRIEL TORRES TORRES",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,302 @@
+{
+ "id": "101751",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "CENTRO GALLEGO",
+ "visitante": "TACUAREMBO UNIVERSITARIO",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "98",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-09-12 10:50:00",
+  "Fecha_fin": "2026-09-12 10:50:00",
+  "Locatario": "CENTRO GALLEGO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "TACUAREMBO UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23721",
+   "Nombre": "RODRIGO ALVAREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42268",
+   "Nombre": "LUIS EMILIO OLIARI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "20965",
+   "Nombre": "RODRIGO AUGUSTO MARTINEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48318",
+   "Nombre": "BORIS SANTIAGO DURAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "22483",
+   "Nombre": "EMILIO MANUEL RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "17905",
+   "Nombre": "GUILLERMO FEDERICO FUENTES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "25979",
+   "Nombre": "SERGIO GUZMAN SCUTARI",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "35089",
+   "Nombre": "PABLO SEBASTIAN CASTRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58918",
+   "Nombre": "JOSE  LUIS SMITH",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "17816",
+   "Nombre": "CARLOS LEANDRO MARTINEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "19234",
+   "Nombre": "GABRIEL FAGETTI",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61089",
+   "Nombre": "GASTON ROSANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "12365",
+   "Nombre": "JORGE ERNESTO SUAREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "31853",
+   "Nombre": "JAVIER IGNACIO GUERRERO",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57920",
+   "Nombre": "CARLOS IGNACIO DIAZ",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "38043",
+   "Nombre": "JOSE RAFAEL AIRALA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "19435",
+   "Nombre": "PABLO MARTIN MOLINA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "35825",
+   "Nombre": "JUAN ANDRES SARRIES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "39822",
+   "Nombre": "ALEJANDRO MARTIN BAZZI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "26855",
+   "Nombre": "MARCELO ENRIQUE DAVILA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "19006",
+   "Nombre": "LUCIO FLAVIO ALVEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "50440",
+   "Nombre": "JUAN MANUEL GAGO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "17816",
+   "Jug_Sale": "CARLOS LEANDRO MARTINEZ",
+   "CarneEntra": "68777",
+   "Jug_Entra": "FRANCISCO JAVIER BECERRA",
+   "camiseta": "81",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19234",
+   "Jug_Sale": "GABRIEL FAGETTI",
+   "CarneEntra": "23466",
+   "Jug_Entra": "DIEGO FERNANDO PASTORIZA",
+   "camiseta": "82",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17905",
+   "Jug_Sale": "GUILLERMO FEDERICO FUENTES",
+   "CarneEntra": "25625",
+   "Jug_Entra": "DIEGO WALTER ROCHA",
+   "camiseta": "6",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "58918",
+   "Jug_Sale": "JOSE  LUIS SMITH",
+   "CarneEntra": "22333",
+   "Jug_Entra": "LEANDRO GASTON NUÑEZ",
+   "camiseta": "7",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "48318",
+   "Jug_Sale": "BORIS SANTIAGO DURAN",
+   "CarneEntra": "26808",
+   "Jug_Entra": "MARTIN RUBEN BUENO",
+   "camiseta": "24",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "42268",
+   "Jug_Sale": "LUIS EMILIO OLIARI",
+   "CarneEntra": "32161",
+   "Jug_Entra": "DIEGO SEBASTIAN ROSSI",
+   "camiseta": "8",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "25979",
+   "Jug_Sale": "SERGIO GUZMAN SCUTARI",
+   "CarneEntra": "60114",
+   "Jug_Entra": "SERGIO EDGARDO PERRONE",
+   "camiseta": "25",
+   "minutos": "63"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "12365",
+   "Jug_Sale": "JORGE ERNESTO SUAREZ",
+   "CarneEntra": "15494",
+   "Jug_Entra": "ROBERTO MAURICIO DAVILA",
+   "camiseta": "78",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "19006",
+   "Jug_Sale": "LUCIO FLAVIO ALVEZ",
+   "CarneEntra": "21464",
+   "Jug_Entra": "ALEJANDRO BOIX",
+   "camiseta": "52",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39822",
+   "Jug_Sale": "ALEJANDRO MARTIN BAZZI",
+   "CarneEntra": "44625",
+   "Jug_Entra": "CARLOS DANIEL SANTUCHO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35825",
+   "Jug_Sale": "JUAN ANDRES SARRIES",
+   "CarneEntra": "16875",
+   "Jug_Entra": "MAURICIO DIGENOVA",
+   "camiseta": "6",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "19234",
+   "Nombre": "GABRIEL FAGETTI",
+   "minutos": "2",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48318",
+   "Nombre": "BORIS SANTIAGO DURAN",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48318",
+   "Nombre": "BORIS SANTIAGO DURAN",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68777",
+   "Nombre": "FRANCISCO JAVIER BECERRA",
+   "minutos": "47",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "19435",
+   "Nombre": "PABLO MARTIN MOLINA",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57920",
+   "Nombre": "CARLOS IGNACIO DIAZ",
+   "minutos": "68",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,299 @@
+{
+ "id": "99627",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "LA ESCAPADA UNIVERSITARIO",
+ "visitante": "EL CHORRO FUTBOL CLUB",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "301",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-06 11:15:00",
+  "Fecha_fin": "2026-06-06 11:15:00",
+  "Locatario": "LA ESCAPADA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "EL CHORRO FUTBOL CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "26993",
+   "Nombre": "BRUNO MIGUEL ARMANDO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "39559",
+   "Nombre": "SANTIAGO ALVAREZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "49297",
+   "Nombre": "ALEJANDRO CABRERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "26682",
+   "Nombre": "GUILLERMO VARELA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "19398",
+   "Nombre": "JERONIMO SIMON ALVAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "33966",
+   "Nombre": "FACUNDO CASTRO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "27677",
+   "Nombre": "BRUNO RAVA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "22770",
+   "Nombre": "SEBASTIAN NOSEDA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "26372",
+   "Nombre": "PABLO COSTANIAN",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "16374",
+   "Nombre": "PATRICIO RAFAEL FERRES",
+   "camiseta": "81",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27036",
+   "Nombre": "DIEGO FEDERICO PIQUEREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "23760",
+   "Nombre": "RODRIGO SEBASTIAN VILLAVERDE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "29665",
+   "Nombre": "FRANCISCO JAVIER LENGUAS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "28641",
+   "Nombre": "JUAN MANUEL IRULEGUY",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "27948",
+   "Nombre": "FEDERICO BRUN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "25837",
+   "Nombre": "VALENTIN MOSCONE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "26625",
+   "Nombre": "JUAN ANDRES BLANCO",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "27940",
+   "Nombre": "JOAQUIN GARAYALDE",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33095",
+   "Nombre": "MAURICIO BINNEWIES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "22201",
+   "Nombre": "ALEJANDRO CASABO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "28130",
+   "Nombre": "JUAN MARTIN FIGUEREDO",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "33966",
+   "Jug_Sale": "FACUNDO CASTRO",
+   "CarneEntra": "26345",
+   "Jug_Entra": "FEDERICO LALUZ",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "22770",
+   "Jug_Sale": "SEBASTIAN NOSEDA",
+   "CarneEntra": "49298",
+   "Jug_Entra": "NICOLAS MARTINEZ",
+   "camiseta": "25",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "26372",
+   "Jug_Sale": "PABLO COSTANIAN",
+   "CarneEntra": "20236",
+   "Jug_Entra": "BARI FRANCISCO MONZEGLIO",
+   "camiseta": "17",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "16374",
+   "Jug_Sale": "PATRICIO RAFAEL FERRES",
+   "CarneEntra": "63782",
+   "Jug_Entra": "AGUSTIN JAIME",
+   "camiseta": "26",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "19398",
+   "Jug_Sale": "JERONIMO SIMON ALVAREZ",
+   "CarneEntra": "26328",
+   "Jug_Entra": "JOSE PEDRO RODRIGUEZ",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49297",
+   "Jug_Sale": "ALEJANDRO CABRERA",
+   "CarneEntra": "32039",
+   "Jug_Entra": "ALEJANDRO SPANGENBERG",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26682",
+   "Jug_Sale": "GUILLERMO VARELA",
+   "CarneEntra": "38839",
+   "Jug_Entra": "AGUSTIN RIOS",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38839",
+   "Jug_Sale": "AGUSTIN RIOS",
+   "CarneEntra": "16374",
+   "Jug_Entra": "PATRICIO RAFAEL FERRES",
+   "camiseta": "81",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30391",
+   "Jug_Sale": "JUAN MIGUEL JAUME",
+   "CarneEntra": "31818",
+   "Jug_Entra": "MAXIMILIANO NAVARRO",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27940",
+   "Jug_Sale": "JOAQUIN GARAYALDE",
+   "CarneEntra": "33524",
+   "Jug_Entra": "NICOLAS CHIANCONE",
+   "camiseta": "18",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "25837",
+   "Jug_Sale": "VALENTIN MOSCONE",
+   "CarneEntra": "29760",
+   "Jug_Entra": "SANTIAGO QUEIROLO",
+   "camiseta": "43",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "28130",
+   "Jug_Sale": "JUAN MARTIN FIGUEREDO",
+   "CarneEntra": "31446",
+   "Jug_Entra": "NICOLAS ANANIA",
+   "camiseta": "10",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "22201",
+   "Jug_Sale": "ALEJANDRO CASABO",
+   "CarneEntra": "26931",
+   "Jug_Entra": "FEDERICO ROVELLA",
+   "camiseta": "15",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "28130",
+   "Nombre": "JUAN MARTIN FIGUEREDO",
+   "minutos": "56",
+   "EnContra": "1"
+  },
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "minutos": "13",
+   "EnContra": "1"
+  },
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "minutos": "34",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,288 @@
+{
+ "id": "101227",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "COLEGIO PIO",
+ "local": "OLIMAR",
+ "visitante": "EL CHORRO FUTBOL CLUB",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "267",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-08-29 13:00:00",
+  "Fecha_fin": "2026-08-29 13:00:00",
+  "Locatario": "OLIMAR",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "EL CHORRO FUTBOL CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68978",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "20630",
+   "Nombre": "FRANCISCO AMADO SALOMON",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "21600",
+   "Nombre": "FEDERICO MORSI",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "22467",
+   "Nombre": "GONZALO RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "21063",
+   "Nombre": "MAURICIO MORSI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "26834",
+   "Nombre": "NICOLAS GROSSO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "26306",
+   "Nombre": "JUAN ANDRES SITYA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41871",
+   "Nombre": "DANILO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "21560",
+   "Nombre": "SANTIAGO AMARO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "21510",
+   "Nombre": "GUSTAVO WELKER",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "32969",
+   "Nombre": "FEDERICO NAVILIAT",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26931",
+   "Nombre": "FEDERICO ROVELLA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "29760",
+   "Nombre": "SANTIAGO QUEIROLO",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "25837",
+   "Nombre": "VALENTIN MOSCONE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "16337",
+   "Nombre": "NICOLAS RIENZI",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "34897",
+   "Nombre": "JOAQUIN PEREIRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "24512",
+   "Nombre": "ALVARO MARCELO BONILLA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "27940",
+   "Nombre": "JOAQUIN GARAYALDE",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "22201",
+   "Nombre": "ALEJANDRO CASABO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "33095",
+   "Nombre": "MAURICIO BINNEWIES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "59525",
+   "Nombre": "MARTIN IGNACIO MARIUS",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41871",
+   "Jug_Sale": "DANILO RODRIGUEZ",
+   "CarneEntra": "26174",
+   "Jug_Entra": "GASTON FREIGEDO",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21063",
+   "Jug_Sale": "MAURICIO MORSI",
+   "CarneEntra": "25658",
+   "Jug_Entra": "FERNANDO POSADA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32969",
+   "Jug_Sale": "FEDERICO NAVILIAT",
+   "CarneEntra": "58424",
+   "Jug_Entra": "ALFONSO DARIO GIMENEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22467",
+   "Jug_Sale": "GONZALO RODRIGUEZ",
+   "CarneEntra": "45719",
+   "Jug_Entra": "CRISTIAN ANDRES GONZALEZ",
+   "camiseta": "13",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "21560",
+   "Jug_Sale": "SANTIAGO AMARO",
+   "CarneEntra": "29959",
+   "Jug_Entra": "JUAN MANUEL MACHADO",
+   "camiseta": "12",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "21510",
+   "Jug_Sale": "GUSTAVO WELKER",
+   "CarneEntra": "41871",
+   "Jug_Entra": "DANILO RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "26834",
+   "Jug_Sale": "NICOLAS GROSSO",
+   "CarneEntra": "32969",
+   "Jug_Entra": "FEDERICO NAVILIAT",
+   "camiseta": "5",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22201",
+   "Jug_Sale": "ALEJANDRO CASABO",
+   "CarneEntra": "33524",
+   "Jug_Entra": "NICOLAS CHIANCONE",
+   "camiseta": "6",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "29760",
+   "Jug_Sale": "SANTIAGO QUEIROLO",
+   "CarneEntra": "24545",
+   "Jug_Entra": "GUZMAN NION",
+   "camiseta": "52",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59525",
+   "Jug_Sale": "MARTIN IGNACIO MARIUS",
+   "CarneEntra": "25395",
+   "Jug_Entra": "FEDERICO MATIAS BONILLA",
+   "camiseta": "21",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "20630",
+   "Nombre": "FRANCISCO AMADO SALOMON",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "21510",
+   "Nombre": "GUSTAVO WELKER",
+   "minutos": "29",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59525",
+   "Nombre": "MARTIN IGNACIO MARIUS",
+   "minutos": "14",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

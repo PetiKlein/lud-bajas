@@ -1,0 +1,319 @@
+{
+ "id": "99340",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+ "local": "HEBRAICA UNIVERSITARIO",
+ "visitante": "GOMENSORO",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "54",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+  "Fecha_Inicio": "2026-05-30 10:50:00",
+  "Fecha_fin": "2026-05-30 10:50:00",
+  "Locatario": "HEBRAICA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "GOMENSORO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "14307",
+   "Nombre": "GUILLERMO DANIEL VERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "23877",
+   "Nombre": "DANIEL KOPEL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "18964",
+   "Nombre": "FABIAN BIRNBAUM",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "15031",
+   "Nombre": "JULIO HERMAN BANEWUR",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "17276",
+   "Nombre": "PABLO JAVIER CANEPA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "19096",
+   "Nombre": "ARI KACZKA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "28249",
+   "Nombre": "MAURO RADZINSKI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "15418",
+   "Nombre": "ALEX MICHEL DICHTENBERG",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "38265",
+   "Nombre": "GABRIEL MANUEL YAÑEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "44994",
+   "Nombre": "GUSTAVO RODZEWICZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "15823",
+   "Nombre": "EDGARD BARILAS",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "24555",
+   "Nombre": "DIEGO TARAMASCO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "18878",
+   "Nombre": "GONZALO PEREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "17096",
+   "Nombre": "JULIAN CARVE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30341",
+   "Nombre": "GUILLERMO LARROQUE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "14231",
+   "Nombre": "RODRIGO RECOBA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "17030",
+   "Nombre": "JUAN DIEGO LARROQUE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "14903",
+   "Nombre": "TAZIO SCALDAFERRI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "28905",
+   "Nombre": "BRUNO NICOLAS LAGOMARSINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "13368",
+   "Nombre": "MARTIN ANDRES OLIVERA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "15418",
+   "Jug_Sale": "ALEX MICHEL DICHTENBERG",
+   "CarneEntra": "36064",
+   "Jug_Entra": "DIEGO GONZALO CIAPPESONI",
+   "camiseta": "12",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "36064",
+   "Jug_Sale": "DIEGO GONZALO CIAPPESONI",
+   "CarneEntra": "23109",
+   "Jug_Entra": "MAURICIO ALBERICO MARQUEZ",
+   "camiseta": "35",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "15823",
+   "Jug_Sale": "EDGARD BARILAS",
+   "CarneEntra": "20627",
+   "Jug_Entra": "MARTIN BERENSTEIN",
+   "camiseta": "15",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30341",
+   "Jug_Sale": "GUILLERMO LARROQUE",
+   "CarneEntra": "20527",
+   "Jug_Entra": "NICOLAS RIENZI",
+   "camiseta": "7",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "18878",
+   "Jug_Sale": "GONZALO PEREZ",
+   "CarneEntra": "11873",
+   "Jug_Entra": "ALFREDO CARVE",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24555",
+   "Jug_Sale": "DIEGO TARAMASCO",
+   "CarneEntra": "16207",
+   "Jug_Entra": "IGNACIO JAVIER BERTOLINI",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "14231",
+   "Jug_Sale": "RODRIGO RECOBA",
+   "CarneEntra": "28755",
+   "Jug_Entra": "JOSE ANDRES LOPEZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17030",
+   "Jug_Sale": "JUAN DIEGO LARROQUE",
+   "CarneEntra": "22061",
+   "Jug_Entra": "MARCELO ARIEL AMARAL",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28905",
+   "Jug_Sale": "BRUNO NICOLAS LAGOMARSINO",
+   "CarneEntra": "17425",
+   "Jug_Entra": "DIEGO SCLEIDOROVICH",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "13368",
+   "Jug_Sale": "MARTIN ANDRES OLIVERA",
+   "CarneEntra": "23468",
+   "Jug_Entra": "FEDERICO MONTERO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17443",
+   "Jug_Sale": "JAVIER FISCHER",
+   "CarneEntra": "30750",
+   "Jug_Entra": "IVAN BONILLA",
+   "camiseta": "22",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "14903",
+   "Jug_Sale": "TAZIO SCALDAFERRI",
+   "CarneEntra": "19232",
+   "Jug_Entra": "IGNACIO NICOLAS OLIVERA",
+   "camiseta": "27",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "40476",
+   "Jug_Sale": "JOSE MANUEL CAYAFFA",
+   "CarneEntra": "23588",
+   "Jug_Entra": "ANTONIO MARIA SERRENTINO",
+   "camiseta": "13",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "17096",
+   "Jug_Sale": "JULIAN CARVE",
+   "CarneEntra": "16729",
+   "Jug_Entra": "ANDRES ALFREDO DENEO",
+   "camiseta": "16",
+   "minutos": "67"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "14903",
+   "Nombre": "TAZIO SCALDAFERRI",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "14903",
+   "Nombre": "TAZIO SCALDAFERRI",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23468",
+   "Nombre": "FEDERICO MONTERO",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "minutos": "8",
+   "EnContra": "1"
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "minutos": "52",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

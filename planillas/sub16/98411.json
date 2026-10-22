@@ -1,0 +1,251 @@
+{
+ "id": "98411",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 2,
+ "fechaHora": "2026-04-23 20:00:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "5",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-04-23 21:40:00",
+  "Fecha_fin": "2026-04-23 21:40:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64328",
+   "Nombre": "LORENZO BRUNO PEZZANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66945",
+   "Nombre": "FACUNDO PERERA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67409",
+   "Nombre": "ALEJO CONDE",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "64890",
+   "Nombre": "MARTIN PONCE DE LEON",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65916",
+   "Nombre": "EMILIANO PUJADAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64330",
+   "Nombre": "BAUTISTA TRIGO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62937",
+   "Nombre": "LEON PEDRO SCHILDE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "60486",
+   "Nombre": "JUAN PEDRO ALVEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63038",
+   "Nombre": "FELIPE LIGÜERA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64544",
+   "Nombre": "JOAQUIN SEBASTIAN MEDINA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65250",
+   "Nombre": "MARIANO ESTRELLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64534",
+   "Nombre": "JORDAN SANTIAGO BORBA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63362",
+   "Nombre": "TOMAS VALENTINO MARRONE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64541",
+   "Nombre": "VALENTINO SANCHEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62764",
+   "Nombre": "PATRICIO TADEO LARROSA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64528",
+   "Nombre": "SANTIAGO COPATTI",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67313",
+   "Nombre": "LAUTARO SALVARREY",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68163",
+   "Nombre": "LAUTARO ERVIN KRUGER",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62937",
+   "Jug_Sale": "LEON PEDRO SCHILDE",
+   "CarneEntra": "64327",
+   "Jug_Entra": "AGUSTIN JUSTO RODRIGUEZ",
+   "camiseta": "20",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "60486",
+   "Jug_Sale": "JUAN PEDRO ALVEZ",
+   "CarneEntra": "64892",
+   "Jug_Entra": "VICENTE DE ROSA",
+   "camiseta": "15",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "67409",
+   "Jug_Sale": "ALEJO CONDE",
+   "CarneEntra": "67406",
+   "Jug_Entra": "BAUTISTA APRAHAMIAN",
+   "camiseta": "18",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64496",
+   "Jug_Sale": "NICOLAS MARTINEZ",
+   "CarneEntra": "65792",
+   "Jug_Entra": "JOAQUIN NICOLAS RECAETA",
+   "camiseta": "23",
+   "minutos": "67"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60486",
+   "Nombre": "JUAN PEDRO ALVEZ",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60486",
+   "Nombre": "JUAN PEDRO ALVEZ",
+   "minutos": "61",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "81",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62764",
+   "Nombre": "PATRICIO TADEO LARROSA",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "minutos": "44",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JORDAN SANTIAGO BORBA",
+   "observaciones": ""
+  }
+ ]
+}

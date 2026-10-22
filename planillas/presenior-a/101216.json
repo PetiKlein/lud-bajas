@@ -1,0 +1,304 @@
+{
+ "id": "101216",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS CLUB",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "30",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-08-29 13:15:00",
+  "Fecha_fin": "2026-08-29 13:15:00",
+  "Locatario": "OLD CHRISTIANS CLUB",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "26015",
+   "Nombre": "GUILLERMO FEDERICO BRITOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26731",
+   "Nombre": "JOSE PEDRO ARAMENDIA",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "28835",
+   "Nombre": "JUAN IGNACIO GORBARAN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "28899",
+   "Nombre": "IGNACIO MUÑOZ",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "29797",
+   "Nombre": "JAVIER SARTORI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "33189",
+   "Nombre": "THOMAS SCHIMDT",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "30140",
+   "Nombre": "GUZMAN JOSE ALFONSO",
+   "camiseta": "59",
+   "Capitan": ""
+  },
+  {
+   "carne": "26727",
+   "Nombre": "CARLOS EDUARDO SCHECK",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "28410",
+   "Nombre": "FELIPE JUAN URIOSTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "28143",
+   "Nombre": "EMILIANO GIOIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60126",
+   "Nombre": "DIEGO REIMUNDES",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37846",
+   "Nombre": "CHRISTIAN DEL CASTILLO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "45419",
+   "Nombre": "DIEGO JAVIER CHAVES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "20401",
+   "Nombre": "JUAN PEDRO QUAGLIATA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25260",
+   "Nombre": "DIEGO THEODOSOPOULOS",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "19450",
+   "Nombre": "MARTIN CIAPPESONI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "65023",
+   "Nombre": "BRUNO MATIAS SOSA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "28073",
+   "Nombre": "CHRISTIAN FERNANDO VIGORITO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "33785",
+   "Nombre": "ALEJANDRO RAYMOND",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "35463",
+   "Nombre": "MATEO PINTOS",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "40793",
+   "Nombre": "FERNANDO ABDO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "27042",
+   "Nombre": "MAXIMILIANO ALBERTO CHIRIBAO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "29797",
+   "Jug_Sale": "JAVIER SARTORI",
+   "CarneEntra": "51231",
+   "Jug_Entra": "ALEJO MAYORGA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33189",
+   "Jug_Sale": "THOMAS SCHIMDT",
+   "CarneEntra": "27137",
+   "Jug_Entra": "DIEGO PEDRO MARIÑO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30140",
+   "Jug_Sale": "GUZMAN JOSE ALFONSO",
+   "CarneEntra": "33189",
+   "Jug_Entra": "THOMAS SCHIMDT",
+   "camiseta": "33",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "28410",
+   "Jug_Sale": "FELIPE JUAN URIOSTE",
+   "CarneEntra": "29797",
+   "Jug_Entra": "JAVIER SARTORI",
+   "camiseta": "14",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "19450",
+   "Jug_Sale": "MARTIN CIAPPESONI",
+   "CarneEntra": "35597",
+   "Jug_Entra": "FABIAN CHIRIBAO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45419",
+   "Jug_Sale": "DIEGO JAVIER CHAVES",
+   "CarneEntra": "36905",
+   "Jug_Entra": "FELIX DIEGO CASTRO",
+   "camiseta": "0",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28073",
+   "Jug_Sale": "CHRISTIAN FERNANDO VIGORITO",
+   "CarneEntra": "15508",
+   "Jug_Entra": "DANIEL SEBASTIAN MARTINEZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35463",
+   "Jug_Sale": "MATEO PINTOS",
+   "CarneEntra": "34126",
+   "Jug_Entra": "ALEXIS GERMAN GARRO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37846",
+   "Jug_Sale": "CHRISTIAN DEL CASTILLO",
+   "CarneEntra": "25259",
+   "Jug_Entra": "MATHIAS SEBASTIAN MIZRAJI",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25260",
+   "Jug_Sale": "DIEGO THEODOSOPOULOS",
+   "CarneEntra": "19450",
+   "Jug_Entra": "MARTIN CIAPPESONI",
+   "camiseta": "29",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "33785",
+   "Jug_Sale": "ALEJANDRO RAYMOND",
+   "CarneEntra": "28073",
+   "Jug_Entra": "CHRISTIAN FERNANDO VIGORITO",
+   "camiseta": "23",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "20401",
+   "Jug_Sale": "JUAN PEDRO QUAGLIATA",
+   "CarneEntra": "45419",
+   "Jug_Entra": "DIEGO JAVIER CHAVES",
+   "camiseta": "28",
+   "minutos": "68"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "28143",
+   "Nombre": "EMILIANO GIOIA",
+   "minutos": "9",
+   "EnContra": "0"
+  },
+  {
+   "carne": "28143",
+   "Nombre": "EMILIANO GIOIA",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "28143",
+   "Nombre": "EMILIANO GIOIA",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60126",
+   "Nombre": "DIEGO REIMUNDES",
+   "minutos": "6",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "15508",
+   "Nombre": "DANIEL SEBASTIAN MARTINEZ",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

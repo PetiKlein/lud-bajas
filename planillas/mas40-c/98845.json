@@ -1,0 +1,324 @@
+{
+ "id": "98845",
+ "categoria": "mas40-c",
+ "serie": "40S23",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "ACADEMIA",
+ "local": "FERROTANQUE",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 3,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "307",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 2",
+  "Cancha": "ACADEMIA",
+  "Fecha_Inicio": "2026-05-16 11:00:00",
+  "Fecha_fin": "2026-05-16 11:00:00",
+  "Locatario": "FERROTANQUE",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "18329",
+   "Nombre": "FRANCISCO MANUEL FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44183",
+   "Nombre": "PABLO GARRO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "39807",
+   "Nombre": "GUSTAVO MOSQUERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "17449",
+   "Nombre": "ALEJANDRO GABRIEL BARLOCCO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "22439",
+   "Nombre": "AUGUSTO GUILLERMO AMESPIL",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "16747",
+   "Nombre": "PABLO DANIEL GOMEZ",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60735",
+   "Nombre": "CHRISTIAN MARCEL BARATTA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "21293",
+   "Nombre": "SEBASTIAN NICOLAS BARLOCCO",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "68626",
+   "Nombre": "MARIANO REBELLATO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "18434",
+   "Nombre": "FEDERICO CORALLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "19570",
+   "Nombre": "SEBASTIAN DURA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "20110",
+   "Nombre": "JUAN CARLOS AYALA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "16962",
+   "Nombre": "PAOLO PASCUAL VIOLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "28680",
+   "Nombre": "RAUL ALFREDO FRAGA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "23817",
+   "Nombre": "ALEJANDRO JOSE NEVES",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27003",
+   "Nombre": "FRANCISCO NICOLAS BARCIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "19853",
+   "Nombre": "GERARDO SEBASTIAN FANJUL",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "17833",
+   "Nombre": "AGUSTIN MARIA ILLARAMENDI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "21607",
+   "Nombre": "SEBASTIAN LIEBANA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61736",
+   "Nombre": "PABLO SEBASTIAN MIRANDA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "17601",
+   "Nombre": "NICOLAS DANIEL DE MAIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "57703",
+   "Nombre": "JORGE ANDRES VONDER",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "17449",
+   "Jug_Sale": "ALEJANDRO GABRIEL BARLOCCO",
+   "CarneEntra": "30868",
+   "Jug_Entra": "PABLO DANIEL ZACHEO",
+   "camiseta": "25",
+   "minutos": "33"
+  },
+  {
+   "CarneSale": "18434",
+   "Jug_Sale": "FEDERICO CORALLO",
+   "CarneEntra": "27927",
+   "Jug_Entra": "GERMAN LOMBARDI",
+   "camiseta": "5",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "22439",
+   "Jug_Sale": "AUGUSTO GUILLERMO AMESPIL",
+   "CarneEntra": "61838",
+   "Jug_Entra": "PABLO JESUS MENDEZ",
+   "camiseta": "8",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "16747",
+   "Jug_Sale": "PABLO DANIEL GOMEZ",
+   "CarneEntra": "60735",
+   "Jug_Entra": "CHRISTIAN MARCEL BARATTA",
+   "camiseta": "26",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60735",
+   "Jug_Sale": "CHRISTIAN MARCEL BARATTA",
+   "CarneEntra": "67037",
+   "Jug_Entra": "MARIANO RODRIGO FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "27003",
+   "Jug_Sale": "FRANCISCO NICOLAS BARCIA",
+   "CarneEntra": "33571",
+   "Jug_Entra": "OSCAR DANIEL FERNANDEZ",
+   "camiseta": "24",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "57703",
+   "Jug_Sale": "JORGE ANDRES VONDER",
+   "CarneEntra": "52344",
+   "Jug_Entra": "MARCELO ALEJANDRO PEÑA",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "17833",
+   "Jug_Sale": "AGUSTIN MARIA ILLARAMENDI",
+   "CarneEntra": "18876",
+   "Jug_Entra": "CONRADO MANUEL FRAU",
+   "camiseta": "35",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "17601",
+   "Jug_Sale": "NICOLAS DANIEL DE MAIO",
+   "CarneEntra": "31983",
+   "Jug_Entra": "JUAN FRANCISCO BURGOS",
+   "camiseta": "27",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "19853",
+   "Jug_Sale": "GERARDO SEBASTIAN FANJUL",
+   "CarneEntra": "43530",
+   "Jug_Entra": "LUIS EDUARDO GIMENEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61736",
+   "Jug_Sale": "PABLO SEBASTIAN MIRANDA",
+   "CarneEntra": "21523",
+   "Jug_Entra": "GASTON LEWI",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21607",
+   "Jug_Sale": "SEBASTIAN LIEBANA",
+   "CarneEntra": "34945",
+   "Jug_Entra": "NATHAN MANGADO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43530",
+   "Jug_Sale": "LUIS EDUARDO GIMENEZ",
+   "CarneEntra": "17833",
+   "Jug_Entra": "AGUSTIN MARIA ILLARAMENDI",
+   "camiseta": "8",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "21293",
+   "Nombre": "SEBASTIAN NICOLAS BARLOCCO",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "21293",
+   "Nombre": "SEBASTIAN NICOLAS BARLOCCO",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "21293",
+   "Nombre": "SEBASTIAN NICOLAS BARLOCCO",
+   "minutos": "86",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "23817",
+   "Nombre": "ALEJANDRO JOSE NEVES",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23817",
+   "Nombre": "ALEJANDRO JOSE NEVES",
+   "minutos": "94",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31983",
+   "Nombre": "JUAN FRANCISCO BURGOS",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "33571",
+   "Nombre": "OSCAR DANIEL FERNANDEZ",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,315 @@
+{
+ "id": "100285",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "Comp. \"LA REP. DE LIVERPOOL\"",
+ "local": "LIVERPOOL UNIVERSITARIO",
+ "visitante": "ANGLO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "649",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "Comp. \"LA REP. DE LIVERPOOL\"",
+  "Fecha_Inicio": "2026-06-20 11:00:00",
+  "Fecha_fin": "2026-06-20 11:00:00",
+  "Locatario": "LIVERPOOL UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "ANGLO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "24813",
+   "Nombre": "DANILO SEBASTIAN PUGLISI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "38901",
+   "Nombre": "LEONARDO IZMENDI",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "33231",
+   "Nombre": "SANTIAGO ANTUNEZ",
+   "camiseta": "0",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "50308",
+   "Nombre": "LUIS ANTONIO SIMOES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "38423",
+   "Nombre": "OCTAVIO OSVALDO CAZZOLA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "27084",
+   "Nombre": "MAXIMILIANO ALBERTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "36915",
+   "Nombre": "JUAN ANDRES DELGADO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59321",
+   "Nombre": "ALFONSO BRITOS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "24812",
+   "Nombre": "SANTIAGO FAJARDO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "23980",
+   "Nombre": "NICOLAS GABRIEL RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32716",
+   "Nombre": "MARTIN ANDRES ORDOQUI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "17610",
+   "Nombre": "ALEJANDRO GONZALEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "33238",
+   "Nombre": "PABLO NICOLAS NUÑEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "33087",
+   "Nombre": "HANS STEFAN TRAPP",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51350",
+   "Nombre": "NICOLAS MAURIÑOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "35345",
+   "Nombre": "RONEL SEBASTIAN ALVARIZA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "25431",
+   "Nombre": "JUAN ANDRES GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60159",
+   "Nombre": "MATHIAS ADRIAN OTTON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67640",
+   "Nombre": "SANTIAGO MARTINEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "32734",
+   "Nombre": "CHRISTIAN ADAN ARRIOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "28464",
+   "Nombre": "ANDRES ALONSO",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23980",
+   "Jug_Sale": "NICOLAS GABRIEL RODRIGUEZ",
+   "CarneEntra": "66360",
+   "Jug_Entra": "AGUSTIN PAUL GALVAN",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36915",
+   "Jug_Sale": "JUAN ANDRES DELGADO",
+   "CarneEntra": "43377",
+   "Jug_Entra": "ENRICO VITTORIO SIMETO",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24812",
+   "Jug_Sale": "SANTIAGO FAJARDO",
+   "CarneEntra": "38408",
+   "Jug_Entra": "SANTIAGO ANDRES GOMEZ",
+   "camiseta": "69",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "23980",
+   "Jug_Sale": "NICOLAS GABRIEL RODRIGUEZ",
+   "CarneEntra": "66940",
+   "Jug_Entra": "GUILLERMO RODRIGUEZ",
+   "camiseta": "39",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "38901",
+   "Jug_Sale": "LEONARDO IZMENDI",
+   "CarneEntra": "66360",
+   "Jug_Entra": "AGUSTIN PAUL GALVAN",
+   "camiseta": "33",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "59321",
+   "Jug_Sale": "ALFONSO BRITOS",
+   "CarneEntra": "23980",
+   "Jug_Entra": "NICOLAS GABRIEL RODRIGUEZ",
+   "camiseta": "14",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "25431",
+   "Jug_Sale": "JUAN ANDRES GONZALEZ",
+   "CarneEntra": "60162",
+   "Jug_Entra": "YUBERT LEONEL ALOY",
+   "camiseta": "5",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "32734",
+   "Jug_Sale": "CHRISTIAN ADAN ARRIOLA",
+   "CarneEntra": "67504",
+   "Jug_Entra": "RICHARD RODRIGUEZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28464",
+   "Jug_Sale": "ANDRES ALONSO",
+   "CarneEntra": "67787",
+   "Jug_Entra": "JOAQUIN GARCIA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35345",
+   "Jug_Sale": "RONEL SEBASTIAN ALVARIZA",
+   "CarneEntra": "30584",
+   "Jug_Entra": "LEOPOLDO TORTEROLO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60159",
+   "Jug_Sale": "MATHIAS ADRIAN OTTON",
+   "CarneEntra": "18539",
+   "Jug_Entra": "MAURICIO EDUARDO SANTELLAN",
+   "camiseta": "25",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67640",
+   "Jug_Sale": "SANTIAGO MARTINEZ",
+   "CarneEntra": "64634",
+   "Jug_Entra": "LEONARDO GABRIEL HERNANDEZ",
+   "camiseta": "9",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "32734",
+   "Jug_Sale": "CHRISTIAN ADAN ARRIOLA",
+   "CarneEntra": "28464",
+   "Jug_Entra": "ANDRES ALONSO",
+   "camiseta": "23",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "27084",
+   "Nombre": "MAXIMILIANO ALBERTI",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "minutos": "46",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "60159",
+   "Nombre": "MATHIAS ADRIAN OTTON",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60159",
+   "Nombre": "MATHIAS ADRIAN OTTON",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ALEJANDRO GONZALEZ",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "RONEL SEBASTIAN ALVARIZA",
+   "observaciones": ""
+  }
+ ]
+}

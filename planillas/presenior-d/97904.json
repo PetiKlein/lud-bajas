@@ -1,0 +1,284 @@
+{
+ "id": "97904",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "Comp. \"LA REP. DE LIVERPOOL\"",
+ "local": "LIVERPOOL UNIVERSITARIO",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "574",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "Comp. \"LA REP. DE LIVERPOOL\"",
+  "Fecha_Inicio": "2026-04-11 10:50:00",
+  "Fecha_fin": "2026-04-11 10:50:00",
+  "Locatario": "LIVERPOOL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "37636",
+   "Nombre": "PABLO SEBASTIAN BRIONES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27084",
+   "Nombre": "MAXIMILIANO ALBERTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "23402",
+   "Nombre": "JOSE MARIA PALMA",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33231",
+   "Nombre": "SANTIAGO ANTUNEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "22552",
+   "Nombre": "MAURICIO DI NITTO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "43377",
+   "Nombre": "ENRICO VITTORIO SIMETO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "24813",
+   "Nombre": "DANILO SEBASTIAN PUGLISI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "38423",
+   "Nombre": "OCTAVIO OSVALDO CAZZOLA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62591",
+   "Nombre": "MATHIAS DEMATTE",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "50308",
+   "Nombre": "LUIS ANTONIO SIMOES",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "35203",
+   "Nombre": "SANTIAGO HUELMO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "28389",
+   "Nombre": "DIEGO FRANCO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "20251",
+   "Nombre": "PABLO HERRERA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "20392",
+   "Nombre": "SEBASTIAN MOREIRA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "33907",
+   "Nombre": "JOAQUIN CICATIELLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "23486",
+   "Nombre": "SEBASTIAN VIDAL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "25908",
+   "Nombre": "JUAN MANUEL LAZBAL",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "camiseta": "0",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63917",
+   "Nombre": "BRUNO FRANCISCO CONTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "34281",
+   "Nombre": "MIGUEL PITETTA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "38423",
+   "Jug_Sale": "OCTAVIO OSVALDO CAZZOLA",
+   "CarneEntra": "59321",
+   "Jug_Entra": "ALFONSO BRITOS",
+   "camiseta": "22",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "23402",
+   "Jug_Sale": "JOSE MARIA PALMA",
+   "CarneEntra": "30588",
+   "Jug_Entra": "PABLO GERMAN AMARILLO",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22552",
+   "Jug_Sale": "MAURICIO DI NITTO",
+   "CarneEntra": "31175",
+   "Jug_Entra": "MATHIAS VIERA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43377",
+   "Jug_Sale": "ENRICO VITTORIO SIMETO",
+   "CarneEntra": "35408",
+   "Jug_Entra": "JUAN PABLO ROMERO",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24813",
+   "Jug_Sale": "DANILO SEBASTIAN PUGLISI",
+   "CarneEntra": "23980",
+   "Jug_Entra": "NICOLAS GABRIEL RODRIGUEZ",
+   "camiseta": "14",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "50308",
+   "Jug_Sale": "LUIS ANTONIO SIMOES",
+   "CarneEntra": "66360",
+   "Jug_Entra": "AGUSTIN PAUL GALVAN",
+   "camiseta": "29",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "62591",
+   "Jug_Sale": "MATHIAS DEMATTE",
+   "CarneEntra": "38901",
+   "Jug_Entra": "LEONARDO IZMENDI",
+   "camiseta": "91",
+   "minutos": "93"
+  },
+  {
+   "CarneSale": "40586",
+   "Jug_Sale": "BIAGIO MONZILLO",
+   "CarneEntra": "36915",
+   "Jug_Entra": "JUAN ANDRES DELGADO",
+   "camiseta": "2",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "34281",
+   "Jug_Sale": "MIGUEL PITETTA",
+   "CarneEntra": "64196",
+   "Jug_Entra": "HENRY GUZMAN MARICHAL",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "31607",
+   "Jug_Sale": "FEDERICO MARTIN GOMEZ",
+   "CarneEntra": "34281",
+   "Jug_Entra": "MIGUEL PITETTA",
+   "camiseta": "19",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64196",
+   "Jug_Sale": "HENRY GUZMAN MARICHAL",
+   "CarneEntra": "31607",
+   "Jug_Entra": "FEDERICO MARTIN GOMEZ",
+   "camiseta": "17",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "24813",
+   "Nombre": "DANILO SEBASTIAN PUGLISI",
+   "minutos": "35",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "25908",
+   "Nombre": "JUAN MANUEL LAZBAL",
+   "minutos": "22",
+   "EnContra": "1"
+  },
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "minutos": "62",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

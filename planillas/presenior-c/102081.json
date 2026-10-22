@@ -1,0 +1,282 @@
+{
+ "id": "102081",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "CLARA JACKSON UNIVERSITARIO",
+ "visitante": "EL CHORRO FUTBOL CLUB",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "352",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-09-19 11:00:00",
+  "Fecha_fin": "2026-09-19 11:00:00",
+  "Locatario": "CLARA JACKSON UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "EL CHORRO FUTBOL CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "40111",
+   "Nombre": "DIEGO ROJAS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "28183",
+   "Nombre": "LEONARDO BANCHERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "26280",
+   "Nombre": "DIEGO ALVEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "33810",
+   "Nombre": "RODRIGO SOBRADO",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "32894",
+   "Nombre": "CARLOS ANDRES BENTANCOURT",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "40042",
+   "Nombre": "AGUSTIN GILI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "35291",
+   "Nombre": "ADRIAN MONTOLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "30276",
+   "Nombre": "KLAVDIO AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "35642",
+   "Nombre": "PABLO DANIEL OLIVERA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "34628",
+   "Nombre": "SANTIAGO PATRICIO IGLESIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26931",
+   "Nombre": "FEDERICO ROVELLA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33095",
+   "Nombre": "MAURICIO BINNEWIES",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25837",
+   "Nombre": "VALENTIN MOSCONE",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "27948",
+   "Nombre": "FEDERICO BRUN",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "34897",
+   "Nombre": "JOAQUIN PEREIRO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "50425",
+   "Nombre": "DIEGO FACUNDO ETCHEVERRY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "22201",
+   "Nombre": "ALEJANDRO CASABO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "27940",
+   "Nombre": "JOAQUIN GARAYALDE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "33524",
+   "Nombre": "NICOLAS CHIANCONE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "31253",
+   "Nombre": "ADRIAN IGNACIO CAFFARELLI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26280",
+   "Jug_Sale": "DIEGO ALVEZ",
+   "CarneEntra": "40810",
+   "Jug_Entra": "DANIEL RODRIGO TORT",
+   "camiseta": "55",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "30276",
+   "Jug_Sale": "KLAVDIO AGUSTIN MARTINEZ",
+   "CarneEntra": "46032",
+   "Jug_Entra": "IGNACIO GABRIEL GARCILAZO",
+   "camiseta": "7",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "40042",
+   "Jug_Sale": "AGUSTIN GILI",
+   "CarneEntra": "61414",
+   "Jug_Entra": "BRUNO TRIGO",
+   "camiseta": "11",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "34628",
+   "Jug_Sale": "SANTIAGO PATRICIO IGLESIAS",
+   "CarneEntra": "30876",
+   "Jug_Entra": "MATIAS NICOLAS RUIZ",
+   "camiseta": "12",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "40810",
+   "Jug_Sale": "DANIEL RODRIGO TORT",
+   "CarneEntra": "30276",
+   "Jug_Entra": "KLAVDIO AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "minutos": "96"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33095",
+   "Jug_Sale": "MAURICIO BINNEWIES",
+   "CarneEntra": "16337",
+   "Jug_Entra": "NICOLAS RIENZI",
+   "camiseta": "43",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "31253",
+   "Jug_Sale": "ADRIAN IGNACIO CAFFARELLI",
+   "CarneEntra": "32330",
+   "Jug_Entra": "JEREMIAS BERRO",
+   "camiseta": "28",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "33095",
+   "Jug_Sale": "MAURICIO BINNEWIES",
+   "CarneEntra": "25395",
+   "Jug_Entra": "FEDERICO MATIAS BONILLA",
+   "camiseta": "30",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "28183",
+   "Nombre": "LEONARDO BANCHERO",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "minutos": "4",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "minutos": "94",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31253",
+   "Nombre": "ADRIAN IGNACIO CAFFARELLI",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "PABLO DANIEL OLIVERA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "DIEGO FACUNDO ETCHEVERRY",
+   "observaciones": ""
+  }
+ ]
+}

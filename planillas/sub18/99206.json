@@ -1,0 +1,268 @@
+{
+ "id": "99206",
+ "categoria": "sub18",
+ "serie": "18-5-",
+ "fecha": 5,
+ "fechaHora": "2026-05-24 15:30:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "HCA UNIVERSITARIO",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "129",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 5",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-05-24 17:10:00",
+  "Fecha_fin": "2026-05-24 17:10:00",
+  "Locatario": "HCA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64610",
+   "Nombre": "JUAN PEDRO CASANOVA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65374",
+   "Nombre": "JUAN MATIAS PEREIRA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "64617",
+   "Nombre": "MATEO EMILIANO MARRERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64613",
+   "Nombre": "FELIPE DE MEDINA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56771",
+   "Nombre": "SANTIAGO MARTIN ARREGIN",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "66079",
+   "Nombre": "SANTIAGO CROSSA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64606",
+   "Nombre": "FACUNDO FEDERICO PATTETA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64615",
+   "Nombre": "JOAQUIN MORENO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64918",
+   "Nombre": "FACUNDO JESUS CESAR",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64598",
+   "Nombre": "JOAQUIN MANUEL VAZQUEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "64602",
+   "Nombre": "JOAQUIN ALEJANDRO RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58389",
+   "Nombre": "JERONIMO MARTINEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67298",
+   "Nombre": "FRANCISCO BAUTISTA MARTINEZ",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "66347",
+   "Nombre": "LEONIDAS ALEJANDRO VARELA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64367",
+   "Nombre": "MARTIN IGNACIO VARELA",
+   "camiseta": "27",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65871",
+   "Nombre": "NICOLAS MIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64532",
+   "Nombre": "GUILLERMO NALERIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64434",
+   "Nombre": "SANTIAGO LAPENTE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64830",
+   "Nombre": "THIAGO FOJO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "64537",
+   "Nombre": "GIULIANO FRANCO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64530",
+   "Nombre": "EMILIANO DOS SANTOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64432",
+   "Nombre": "FEDERICO GASTELUMENDI",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64613",
+   "Jug_Sale": "FELIPE DE MEDINA",
+   "CarneEntra": "64600",
+   "Jug_Entra": "MARCOS JAVIER LARRAMENDI",
+   "camiseta": "6",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "64615",
+   "Jug_Sale": "JOAQUIN MORENO",
+   "CarneEntra": "68164",
+   "Jug_Entra": "FACUNDO RAMOS",
+   "camiseta": "2",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "64617",
+   "Jug_Sale": "MATEO EMILIANO MARRERO",
+   "CarneEntra": "68166",
+   "Jug_Entra": "RODRIGO GARCIA",
+   "camiseta": "88",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "56771",
+   "Jug_Sale": "SANTIAGO MARTIN ARREGIN",
+   "CarneEntra": "65724",
+   "Jug_Entra": "THIAGO ALTEZ",
+   "camiseta": "18",
+   "minutos": "46"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64367",
+   "Jug_Sale": "MARTIN IGNACIO VARELA",
+   "CarneEntra": "67298",
+   "Jug_Entra": "FRANCISCO BAUTISTA MARTINEZ",
+   "camiseta": "92",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64830",
+   "Jug_Sale": "THIAGO FOJO",
+   "CarneEntra": "64533",
+   "Jug_Entra": "GUILLERMO GOLDIE",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67298",
+   "Jug_Sale": "FRANCISCO BAUTISTA MARTINEZ",
+   "CarneEntra": "67296",
+   "Jug_Entra": "SANTIAGO JANSSEN",
+   "camiseta": "22",
+   "minutos": "29"
+  },
+  {
+   "CarneSale": "65871",
+   "Jug_Sale": "NICOLAS MIGUEZ",
+   "CarneEntra": "68372",
+   "Jug_Entra": "FELIPE CORREA",
+   "camiseta": "47",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67298",
+   "Jug_Sale": "FRANCISCO BAUTISTA MARTINEZ",
+   "CarneEntra": "68370",
+   "Jug_Entra": "BAUTISTA GUSTAVO AMADEO",
+   "camiseta": "62",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64598",
+   "Nombre": "JOAQUIN MANUEL VAZQUEZ",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64615",
+   "Nombre": "JOAQUIN MORENO",
+   "minutos": "20",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64434",
+   "Nombre": "SANTIAGO LAPENTE",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

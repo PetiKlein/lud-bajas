@@ -1,0 +1,224 @@
+{
+ "id": "101586",
+ "categoria": "sub16",
+ "serie": "16-22",
+ "fecha": 7,
+ "fechaHora": "2026-09-06 13:30:00",
+ "cancha": "COLEGIO ARETEIA",
+ "local": "DEP.de la C. ARETEIA BIMBULLY",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "195",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 2 RUEDA 2",
+  "Cancha": "COLEGIO ARETEIA",
+  "Fecha_Inicio": "2026-09-06 15:15:00",
+  "Fecha_fin": "2026-09-06 15:15:00",
+  "Locatario": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63045",
+   "Nombre": "RENZO FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63941",
+   "Nombre": "FEDERICO DANERS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64183",
+   "Nombre": "CAMILO VEGA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64175",
+   "Nombre": "LUCAS COALLA",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "64176",
+   "Nombre": "MANUEL MENDARO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64177",
+   "Nombre": "VALENTIN GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61406",
+   "Nombre": "TADEO CABRERA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63477",
+   "Nombre": "JUAN VICENTE AZEVEDO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63742",
+   "Nombre": "VALENTIN MURIAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64180",
+   "Nombre": "CAETANO BEYHAUT",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61566",
+   "Nombre": "MATEUS DE PAULA",
+   "camiseta": "50",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62569",
+   "Nombre": "MATIAS GABRIEL COLOMBO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62553",
+   "Nombre": "FELIPE GOSLINO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65112",
+   "Nombre": "JUAN MARTIN LALUZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68247",
+   "Nombre": "MATTEO TARTAGLIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66963",
+   "Nombre": "JUAN MARTIN GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65364",
+   "Nombre": "FRANCISO RAMOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65318",
+   "Nombre": "JUAN PEDRO DAMONTE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65365",
+   "Nombre": "JUAN VALENTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62350",
+   "Nombre": "NICOLAS FERRAZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62946",
+   "Nombre": "MATIAS DOMINGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65173",
+   "Nombre": "ANTONIO XALAMBRI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64177",
+   "Jug_Sale": "VALENTIN GONZALEZ",
+   "CarneEntra": "64277",
+   "Jug_Entra": "FRANCISCO BISELLI",
+   "camiseta": "11",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "64176",
+   "Jug_Sale": "MANUEL MENDARO",
+   "CarneEntra": "66868",
+   "Jug_Entra": "MARTIN IURATO",
+   "camiseta": "23",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "61406",
+   "Jug_Sale": "TADEO CABRERA",
+   "CarneEntra": "66552",
+   "Jug_Entra": "FACUNDO NICOLAS ORIBE",
+   "camiseta": "8",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63742",
+   "Jug_Sale": "VALENTIN MURIAS",
+   "CarneEntra": "62871",
+   "Jug_Entra": "BENJAMIN FERNANDEZ",
+   "camiseta": "26",
+   "minutos": "40"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65173",
+   "Jug_Sale": "ANTONIO XALAMBRI",
+   "CarneEntra": "62274",
+   "Jug_Entra": "MATEO CENTURION",
+   "camiseta": "9",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "65365",
+   "Jug_Sale": "JUAN VALENTI",
+   "CarneEntra": "65111",
+   "Jug_Entra": "FELIPE VIOLA",
+   "camiseta": "21",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

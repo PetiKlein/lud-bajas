@@ -1,0 +1,296 @@
+{
+ "id": "99351",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "ANGLO",
+ "visitante": "DEPORTIVO MATADERO",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "622",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-05-30 13:10:00",
+  "Fecha_fin": "2026-05-30 13:10:00",
+  "Locatario": "ANGLO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO MATADERO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32716",
+   "Nombre": "MARTIN ANDRES ORDOQUI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38794",
+   "Nombre": "ANDRES LEITES",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51350",
+   "Nombre": "NICOLAS MAURIÑOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67787",
+   "Nombre": "JOAQUIN GARCIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67640",
+   "Nombre": "SANTIAGO MARTINEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "60159",
+   "Nombre": "MATHIAS ADRIAN OTTON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "25431",
+   "Nombre": "JUAN ANDRES GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38475",
+   "Nombre": "EDUARDO SEBASTIAN BOGADRO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "35345",
+   "Nombre": "RONEL SEBASTIAN ALVARIZA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "32734",
+   "Nombre": "CHRISTIAN ADAN ARRIOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "28464",
+   "Nombre": "ANDRES ALONSO",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "20058",
+   "Nombre": "NICOLAS VOLONTERIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37263",
+   "Nombre": "FELIPE MAURENTE",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62589",
+   "Nombre": "DIEGO NICOLAS SANTOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "41699",
+   "Nombre": "FEDERICO AGUSTIN CORES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "19723",
+   "Nombre": "FEDERICO JAVIER GEDANKE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "21208",
+   "Nombre": "ARTURO KEUSHKERIAN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "28853",
+   "Nombre": "MARCIO NICOLAS ARAUJO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "26923",
+   "Nombre": "MATHIAS MAURENTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "30561",
+   "Nombre": "FLAVIO STEFANO PALOMBO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "33861",
+   "Nombre": "RODRIGO ACOSTA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "18823",
+   "Nombre": "SANTIAGO ADOLFO DIAZ",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "25431",
+   "Jug_Sale": "JUAN ANDRES GONZALEZ",
+   "CarneEntra": "18430",
+   "Jug_Entra": "HERNAN BOUZA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28464",
+   "Jug_Sale": "ANDRES ALONSO",
+   "CarneEntra": "61143",
+   "Jug_Entra": "FEDERICO MANUEL OLIVERA",
+   "camiseta": "32",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "35345",
+   "Jug_Sale": "RONEL SEBASTIAN ALVARIZA",
+   "CarneEntra": "64634",
+   "Jug_Entra": "LEONARDO GABRIEL HERNANDEZ",
+   "camiseta": "9",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67640",
+   "Jug_Sale": "SANTIAGO MARTINEZ",
+   "CarneEntra": "25431",
+   "Jug_Entra": "JUAN ANDRES GONZALEZ",
+   "camiseta": "10",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "32734",
+   "Jug_Sale": "CHRISTIAN ADAN ARRIOLA",
+   "CarneEntra": "27741",
+   "Jug_Entra": "AGUSTIN VIDAL",
+   "camiseta": "5",
+   "minutos": "47"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "18823",
+   "Jug_Sale": "SANTIAGO ADOLFO DIAZ",
+   "CarneEntra": "23894",
+   "Jug_Entra": "FERNANDO JAVIER ORDOÑEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30561",
+   "Jug_Sale": "FLAVIO STEFANO PALOMBO",
+   "CarneEntra": "25632",
+   "Jug_Entra": "CHRISTIAN GABRIEL MALDONADO",
+   "camiseta": "36",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "26923",
+   "Jug_Sale": "MATHIAS MAURENTE",
+   "CarneEntra": "19824",
+   "Jug_Entra": "FEDERICO BRUSCHI",
+   "camiseta": "10",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "19723",
+   "Jug_Sale": "FEDERICO JAVIER GEDANKE",
+   "CarneEntra": "26930",
+   "Jug_Entra": "ANDRES NICOLAS PALMA",
+   "camiseta": "32",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "41699",
+   "Jug_Sale": "FEDERICO AGUSTIN CORES",
+   "CarneEntra": "31941",
+   "Jug_Entra": "RODRIGO MARTINEZ",
+   "camiseta": "81",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62589",
+   "Jug_Sale": "DIEGO NICOLAS SANTOS",
+   "CarneEntra": "23337",
+   "Jug_Entra": "JOAQUIN SANTIAGO MOSCA",
+   "camiseta": "20",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35345",
+   "Nombre": "RONEL SEBASTIAN ALVARIZA",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "23894",
+   "Nombre": "FERNANDO JAVIER ORDOÑEZ",
+   "minutos": "36",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28853",
+   "Nombre": "MARCIO NICOLAS ARAUJO",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28853",
+   "Nombre": "MARCIO NICOLAS ARAUJO",
+   "minutos": "64",
+   "EnContra": "1"
+  },
+  {
+   "carne": "30561",
+   "Nombre": "FLAVIO STEFANO PALOMBO",
+   "minutos": "69",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

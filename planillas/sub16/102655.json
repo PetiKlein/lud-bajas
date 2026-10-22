@@ -1,0 +1,336 @@
+{
+ "id": "102655",
+ "categoria": "sub16",
+ "serie": "16-42",
+ "fecha": 4,
+ "fechaHora": "2026-10-08 20:00:00",
+ "cancha": "BRITISH SCHOOL",
+ "local": "LA ESCALINATA",
+ "visitante": "THE BRITISH SCHOOL",
+ "gl": 4,
+ "gv": 9,
+ "detalle": {
+  "nro_partido": "239",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 4 RUEDA 2",
+  "Cancha": "BRITISH SCHOOL",
+  "Fecha_Inicio": "2026-10-08 21:30:00",
+  "Fecha_fin": "2026-10-08 21:30:00",
+  "Locatario": "LA ESCALINATA",
+  "goles_locatario": "4",
+  "puntos_locatario": "0",
+  "Visitante": "THE BRITISH SCHOOL",
+  "goles_visitante": "9",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65090",
+   "Nombre": "SANTINO BERRUETA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65089",
+   "Nombre": "IGNACIO VARELA",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65084",
+   "Nombre": "LORENZO BAUTISTA BERGALO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62878",
+   "Nombre": "SANTIAGO TORRES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65553",
+   "Nombre": "FEDERICO SURRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65519",
+   "Nombre": "JUAN BAUTISTA CABRERA LIMA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63557",
+   "Nombre": "MANUEL CANTERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65082",
+   "Nombre": "ALFONSO GERVAZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62895",
+   "Nombre": "ALEK MOURADIAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67911",
+   "Nombre": "JUAN BAUTISTA SCOTTI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63376",
+   "Nombre": "JOAQUIN BUSTOS",
+   "camiseta": "91",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61654",
+   "Nombre": "JUAN MANUEL MOREIRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "65049",
+   "Nombre": "JUAN ALFONSO ODDONE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62989",
+   "Nombre": "BENJAMIN RISSO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "61600",
+   "Nombre": "PAUL PHILIPPE MARTINET",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "65066",
+   "Nombre": "JAVIER JOSE FLEURQUIN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65413",
+   "Nombre": "ISIDORO ALBERTO JAIME",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62239",
+   "Nombre": "ANDRES TERCERO PEREZ DEL CASTILLO",
+   "camiseta": "0",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65036",
+   "Nombre": "SANTIAGO TORRES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65060",
+   "Nombre": "FRANZ SEDELMAYR",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "65064",
+   "Nombre": "JUAN MARTIN FRECHOU",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61665",
+   "Nombre": "JUAN MIGUEL AGUERRE",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62895",
+   "Jug_Sale": "ALEK MOURADIAN",
+   "CarneEntra": "65087",
+   "Jug_Entra": "GUILLERMO CACERES",
+   "camiseta": "19",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65084",
+   "Jug_Sale": "LORENZO BAUTISTA BERGALO",
+   "CarneEntra": "65086",
+   "Jug_Entra": "JUAN MANUEL FERNANDEZ",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65519",
+   "Jug_Sale": "JUAN BAUTISTA CABRERA LIMA",
+   "CarneEntra": "62887",
+   "Jug_Entra": "AGUSTIN VIERA",
+   "camiseta": "92",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65082",
+   "Jug_Sale": "ALFONSO GERVAZ",
+   "CarneEntra": "65519",
+   "Jug_Entra": "JUAN BAUTISTA CABRERA LIMA",
+   "camiseta": "9",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "63376",
+   "Jug_Sale": "JOAQUIN BUSTOS",
+   "CarneEntra": "65084",
+   "Jug_Entra": "LORENZO BAUTISTA BERGALO",
+   "camiseta": "3",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65066",
+   "Jug_Sale": "JAVIER JOSE FLEURQUIN",
+   "CarneEntra": "63186",
+   "Jug_Entra": "JUAN SEBASTIAN JIMENEZ DE ARECHAGA",
+   "camiseta": "66",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "61600",
+   "Jug_Sale": "PAUL PHILIPPE MARTINET",
+   "CarneEntra": "67992",
+   "Jug_Entra": "JUAN IGNACIO RODRIGUEZ",
+   "camiseta": "5",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65413",
+   "Jug_Sale": "ISIDORO ALBERTO JAIME",
+   "CarneEntra": "65035",
+   "Jug_Entra": "FRANCISCO IÑAKI MARTINEZ",
+   "camiseta": "30",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "65060",
+   "Jug_Sale": "FRANZ SEDELMAYR",
+   "CarneEntra": "61599",
+   "Jug_Entra": "ALFONSO MAILHOS",
+   "camiseta": "1",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "61665",
+   "Jug_Sale": "JUAN MIGUEL AGUERRE",
+   "CarneEntra": "65052",
+   "Jug_Entra": "TOMAS VILLAR",
+   "camiseta": "7",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62878",
+   "Nombre": "SANTIAGO TORRES",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62895",
+   "Nombre": "ALEK MOURADIAN",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65089",
+   "Nombre": "IGNACIO VARELA",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65519",
+   "Nombre": "JUAN BAUTISTA CABRERA LIMA",
+   "minutos": "30",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61665",
+   "Nombre": "JUAN MIGUEL AGUERRE",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61665",
+   "Nombre": "JUAN MIGUEL AGUERRE",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65036",
+   "Nombre": "SANTIAGO TORRES",
+   "minutos": "11",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65036",
+   "Nombre": "SANTIAGO TORRES",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65036",
+   "Nombre": "SANTIAGO TORRES",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65052",
+   "Nombre": "TOMAS VILLAR",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65060",
+   "Nombre": "FRANZ SEDELMAYR",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65064",
+   "Nombre": "JUAN MARTIN FRECHOU",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65064",
+   "Nombre": "JUAN MARTIN FRECHOU",
+   "minutos": "47",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

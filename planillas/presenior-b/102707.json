@@ -1,0 +1,267 @@
+{
+ "id": "102707",
+ "categoria": "presenior-b",
+ "serie": "PSBPD",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "OLD SAMPA CLUB",
+ "visitante": "PALLOTTI UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "874",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"B\" PER. y DESC",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-10-10 13:30:00",
+  "Fecha_fin": "2026-10-10 13:30:00",
+  "Locatario": "OLD SAMPA CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "PALLOTTI UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "36104",
+   "Nombre": "SANTIAGO JAUME",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24932",
+   "Nombre": "RAFAEL ETCHEBARNE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33518",
+   "Nombre": "SANTIAGO SUAREZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "23557",
+   "Nombre": "IGNACIO IRURETA GOYENA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23361",
+   "Nombre": "ALEJANDRO REYES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "21634",
+   "Nombre": "MATIAS CALACHA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "23372",
+   "Nombre": "JUAN IGNACIO LOPEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "51059",
+   "Nombre": "RODRIGO MENDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "23363",
+   "Nombre": "ALEJANDRO CALACHA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "33875",
+   "Nombre": "ENRIQUE LEGARIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "29965",
+   "Nombre": "ALEJANDRO MAZZOLI",
+   "camiseta": "54",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67586",
+   "Nombre": "DIEGO GASTON MUIÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37505",
+   "Nombre": "ANDRES DENES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "38358",
+   "Nombre": "NICOLAS ALVAREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "27222",
+   "Nombre": "PABLO MARTIN HERNANDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26406",
+   "Nombre": "JUAN ANDRES VARELA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "37650",
+   "Nombre": "GONZALO SEBASTIAN MARTINICORENA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "38888",
+   "Nombre": "ANDRES RICARDO SOSA",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "68720",
+   "Nombre": "GABRIEL GLIELMA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "28849",
+   "Nombre": "EMILIANO SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68668",
+   "Nombre": "ALVARO DANIEL NOBLE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "35964",
+   "Nombre": "MAXIMILIANO ANDRES SENA",
+   "camiseta": "88",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23372",
+   "Jug_Sale": "JUAN IGNACIO LOPEZ",
+   "CarneEntra": "27933",
+   "Jug_Entra": "ENRIQUE CALACHA",
+   "camiseta": "70",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "23363",
+   "Jug_Sale": "ALEJANDRO CALACHA",
+   "CarneEntra": "23366",
+   "Jug_Entra": "SANTIAGO POCHINTESTA",
+   "camiseta": "11",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "23557",
+   "Jug_Sale": "IGNACIO IRURETA GOYENA",
+   "CarneEntra": "63323",
+   "Jug_Entra": "MATIAS BATTRO",
+   "camiseta": "25",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37650",
+   "Jug_Sale": "GONZALO SEBASTIAN MARTINICORENA",
+   "CarneEntra": "33224",
+   "Jug_Entra": "MARCIO MAÑANA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35964",
+   "Jug_Sale": "MAXIMILIANO ANDRES SENA",
+   "CarneEntra": "25424",
+   "Jug_Entra": "FEDERICO ANDRES RABELINO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38358",
+   "Jug_Sale": "NICOLAS ALVAREZ",
+   "CarneEntra": "62798",
+   "Jug_Entra": "RODRIGO GONNZALEZ",
+   "camiseta": "6",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "68720",
+   "Jug_Sale": "GABRIEL GLIELMA",
+   "CarneEntra": "28455",
+   "Jug_Entra": "FEDERICO BRUZZONE",
+   "camiseta": "77",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "27222",
+   "Jug_Sale": "PABLO MARTIN HERNANDEZ",
+   "CarneEntra": "21100",
+   "Jug_Entra": "RODRIGO LUJAN",
+   "camiseta": "25",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "26406",
+   "Jug_Sale": "JUAN ANDRES VARELA",
+   "CarneEntra": "37650",
+   "Jug_Entra": "GONZALO SEBASTIAN MARTINICORENA",
+   "camiseta": "15",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "24932",
+   "Nombre": "RAFAEL ETCHEBARNE",
+   "minutos": "84",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "68668",
+   "Nombre": "ALVARO DANIEL NOBLE",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "NICOLAS ALVAREZ",
+   "observaciones": ""
+  }
+ ]
+}

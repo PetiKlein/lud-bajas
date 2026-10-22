@@ -1,0 +1,269 @@
+{
+ "id": "100469",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "INDEPENDIENTE",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "88",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-06-27 10:50:00",
+  "Fecha_fin": "2026-06-27 10:50:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "INDEPENDIENTE",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "34543",
+   "Nombre": "HERNAN GOMEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35037",
+   "Nombre": "FEDERICO CARSIN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "24246",
+   "Nombre": "FACUNDO MARTIN FREGOSSI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "26514",
+   "Nombre": "JUAN PEDRO CHIAPPARA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "22028",
+   "Nombre": "JHONATAN RICARDO MARTINEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "26840",
+   "Nombre": "HECTOR MARIANO MENDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "31053",
+   "Nombre": "MARTIN NICOLAS BINCE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "34812",
+   "Nombre": "FELIPE MOTTA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "37081",
+   "Nombre": "SANTIAGO LAGO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23905",
+   "Nombre": "IGNACIO RAFAEL D AVILA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "43193",
+   "Nombre": "MATHIAS ADINOLFI",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "31467",
+   "Nombre": "RODRIGO HUGO OLIVERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26209",
+   "Nombre": "FEDERICO ISMAEL OLIVERA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "22901",
+   "Nombre": "JUAN IGNACIO LOZANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "40122",
+   "Nombre": "HUGO FERNANDO DONATTO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "40282",
+   "Nombre": "DIEGO FERNANDO VARINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "31037",
+   "Nombre": "JOHN CHRISTOPHER AYALA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "29449",
+   "Nombre": "JAVIER MAGNONE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "21386",
+   "Nombre": "EMILIANO PEDRAGOSA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "32123",
+   "Nombre": "AGUSTIN ANANIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "24833",
+   "Nombre": "PABLO SASIAIN",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24773",
+   "Nombre": "DIEGO KSIAZENICKI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26840",
+   "Jug_Sale": "HECTOR MARIANO MENDEZ",
+   "CarneEntra": "39911",
+   "Jug_Entra": "LORENZO RAUL TENCA",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43193",
+   "Jug_Sale": "MATHIAS ADINOLFI",
+   "CarneEntra": "25409",
+   "Jug_Entra": "SANTIAGO ALMEIDA",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37081",
+   "Jug_Sale": "SANTIAGO LAGO",
+   "CarneEntra": "30589",
+   "Jug_Entra": "DIEGO MOLINELLI",
+   "camiseta": "9",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "34812",
+   "Jug_Sale": "FELIPE MOTTA",
+   "CarneEntra": "43193",
+   "Jug_Entra": "MATHIAS ADINOLFI",
+   "camiseta": "13",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "22028",
+   "Jug_Sale": "JHONATAN RICARDO MARTINEZ",
+   "CarneEntra": "31930",
+   "Jug_Entra": "NICOLAS LUCIANO",
+   "camiseta": "24",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "32123",
+   "Jug_Sale": "AGUSTIN ANANIA",
+   "CarneEntra": "26525",
+   "Jug_Entra": "JOAQUIN ROSSI",
+   "camiseta": "18",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "24773",
+   "Jug_Sale": "DIEGO KSIAZENICKI",
+   "CarneEntra": "66577",
+   "Jug_Entra": "JORGE ANDRES ZUBILLAGA",
+   "camiseta": "25",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "26209",
+   "Jug_Sale": "FEDERICO ISMAEL OLIVERA",
+   "CarneEntra": "30239",
+   "Jug_Entra": "IGNACIO BOROTRA",
+   "camiseta": "21",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "31467",
+   "Jug_Sale": "RODRIGO HUGO OLIVERA",
+   "CarneEntra": "26091",
+   "Jug_Entra": "JESUS MORALES",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21386",
+   "Jug_Sale": "EMILIANO PEDRAGOSA",
+   "CarneEntra": "30261",
+   "Jug_Entra": "JOAQUIN MURARA",
+   "camiseta": "8",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "29449",
+   "Nombre": "JAVIER MAGNONE",
+   "minutos": "92",
+   "EnContra": "1"
+  },
+  {
+   "carne": "40282",
+   "Nombre": "DIEGO FERNANDO VARINI",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

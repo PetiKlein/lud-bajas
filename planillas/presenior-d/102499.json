@@ -1,0 +1,298 @@
+{
+ "id": "102499",
+ "categoria": "presenior-d",
+ "serie": "PSDPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "()",
+ "local": "UT SERVIAM",
+ "visitante": "TROUVILLE UNIVERSITARIO",
+ "gl": 7,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "951",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"D\" PER. y DESC",
+  "Cancha": "()",
+  "Fecha_Inicio": "2026-10-03 11:00:00",
+  "Fecha_fin": "2026-10-03 11:00:00",
+  "Locatario": "UT SERVIAM",
+  "goles_locatario": "7",
+  "puntos_locatario": "3",
+  "Visitante": "TROUVILLE UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52000",
+   "Nombre": "FRANCISCO VIGNALE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30308",
+   "Nombre": "GONZALO COSTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "30114",
+   "Nombre": "GONZALO FELIPE IRRAZABAL",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "55031",
+   "Nombre": "HUGO IGNACIO TRIAS",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "31891",
+   "Nombre": "JUAN FRANCISCO IRRAZABAL",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "29251",
+   "Nombre": "SANTIAGO JOSE MARTINEZ",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25334",
+   "Nombre": "ALBERTO JONATAN DUARTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "36244",
+   "Nombre": "LUIS IGNACIO CAMPON",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31791",
+   "Nombre": "JOAQUIN MARQUEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "28727",
+   "Nombre": "GUILLERMO JOSE PAIS",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53672",
+   "Nombre": "JUAN CAMILO PIZZANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61313",
+   "Nombre": "EDUARDO GABRIEL ROCA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "26098",
+   "Nombre": "BRUNO VICENTE NASSUTTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "60110",
+   "Nombre": "WILLIAM PAOLO SARDIÑA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "21976",
+   "Nombre": "MATIAS CARLOS TAGLIORETTI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "53055",
+   "Nombre": "JULIAN RAMON VELIZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "56346",
+   "Nombre": "ADRIANO DANIEL ALVAREZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "60005",
+   "Nombre": "WASHINGTON WALDEMAR VIANA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "38156",
+   "Nombre": "NICOLAS APARICIO SECCO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "34305",
+   "Nombre": "JOSE LEANDRO SECCO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63540",
+   "Nombre": "MARTIN CARLEVARO",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31791",
+   "Jug_Sale": "JOAQUIN MARQUEZ",
+   "CarneEntra": "37523",
+   "Jug_Entra": "JOSE HERNAN OLIVET",
+   "camiseta": "16",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "28727",
+   "Jug_Sale": "GUILLERMO JOSE PAIS",
+   "CarneEntra": "29251",
+   "Jug_Entra": "SANTIAGO JOSE MARTINEZ",
+   "camiseta": "30",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "55031",
+   "Jug_Sale": "HUGO IGNACIO TRIAS",
+   "CarneEntra": "33873",
+   "Jug_Entra": "JOSE IGNACIO DALLORSO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35916",
+   "Jug_Sale": "RODRIGO LUIS CUBRIA",
+   "CarneEntra": "27207",
+   "Jug_Entra": "SEBASTIAN HALTY",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31891",
+   "Jug_Sale": "JUAN FRANCISCO IRRAZABAL",
+   "CarneEntra": "67336",
+   "Jug_Entra": "DIEGO REZK",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36244",
+   "Jug_Sale": "LUIS IGNACIO CAMPON",
+   "CarneEntra": "36025",
+   "Jug_Entra": "JOAQUIN ENRIQUE SILVEYRA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31891",
+   "Jug_Sale": "JUAN FRANCISCO IRRAZABAL",
+   "CarneEntra": "38233",
+   "Jug_Entra": "GASTON MOLINELLI",
+   "camiseta": "8",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63540",
+   "Jug_Sale": "MARTIN CARLEVARO",
+   "CarneEntra": "32434",
+   "Jug_Entra": "CARLOS DIEGO GIMENEZ",
+   "camiseta": "18",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "60005",
+   "Jug_Sale": "WASHINGTON WALDEMAR VIANA",
+   "CarneEntra": "17345",
+   "Jug_Entra": "DANIEL MARCELO LIGUORI",
+   "camiseta": "4",
+   "minutos": "50"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "37523",
+   "Nombre": "JOSE HERNAN OLIVET",
+   "minutos": "86",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52000",
+   "Nombre": "FRANCISCO VIGNALE",
+   "minutos": "24",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67336",
+   "Nombre": "DIEGO REZK",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "34305",
+   "Nombre": "JOSE LEANDRO SECCO",
+   "minutos": "88",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

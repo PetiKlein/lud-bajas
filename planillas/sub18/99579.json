@@ -1,0 +1,279 @@
+{
+ "id": "99579",
+ "categoria": "sub18",
+ "serie": "18-6-",
+ "fecha": 6,
+ "fechaHora": "2026-05-31 15:30:00",
+ "cancha": "CAMPUS DEL OESTE",
+ "local": "MARISTAS DEPORTIVO",
+ "visitante": "ISASA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "166",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 6",
+  "Cancha": "CAMPUS DEL OESTE",
+  "Fecha_Inicio": "2026-05-31 17:20:00",
+  "Fecha_fin": "2026-05-31 17:20:00",
+  "Locatario": "MARISTAS DEPORTIVO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "ISASA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67544",
+   "Nombre": "MATEO MUÑOZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59053",
+   "Nombre": "EZEQUIEL SILVERA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59055",
+   "Nombre": "JUAN PABLO MIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62908",
+   "Nombre": "MATHEUS JOSE DE MORAES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "60168",
+   "Nombre": "RAFAEL DELGADO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "60829",
+   "Nombre": "SANTIAGO MORALES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67545",
+   "Nombre": "JOAQUIN TEO FUSTES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59049",
+   "Nombre": "SANTIAGO CABRERA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "58923",
+   "Nombre": "MATEO CORREA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62933",
+   "Nombre": "JUAN DIEGO ACOSTA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60754",
+   "Nombre": "FELIPE DIAZ",
+   "camiseta": "17",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64664",
+   "Nombre": "JUAN IGNACIO BOMBI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64202",
+   "Nombre": "SANTIAGO INTROINI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64257",
+   "Nombre": "JUAN MARTÌN GRAU",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64259",
+   "Nombre": "FRANCISCO DANIEL NUÐEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64669",
+   "Nombre": "JUAN GUILLERMO ELLIOT",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61891",
+   "Nombre": "FACUNDO FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "62776",
+   "Nombre": "LUCIANO URRETAVIZCAYA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58194",
+   "Nombre": "IAN ESTAVILLO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64205",
+   "Nombre": "CAMILO GAGLIANO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68156",
+   "Nombre": "AGUSTIN ALEJANDRO BAUDEAN",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "61975",
+   "Nombre": "MARTINHO MACEDO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67545",
+   "Jug_Sale": "JOAQUIN TEO FUSTES",
+   "CarneEntra": "65726",
+   "Jug_Entra": "MATEO LOPEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59049",
+   "Jug_Sale": "SANTIAGO CABRERA",
+   "CarneEntra": "65726",
+   "Jug_Entra": "MATEO LOPEZ",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60754",
+   "Jug_Sale": "FELIPE DIAZ",
+   "CarneEntra": "59049",
+   "Jug_Entra": "SANTIAGO CABRERA",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62933",
+   "Jug_Sale": "JUAN DIEGO ACOSTA",
+   "CarneEntra": "68722",
+   "Jug_Entra": "FABRICIO MANUEL RABELA",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60829",
+   "Jug_Sale": "SANTIAGO MORALES",
+   "CarneEntra": "67545",
+   "Jug_Entra": "JOAQUIN TEO FUSTES",
+   "camiseta": "10",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "58923",
+   "Jug_Sale": "MATEO CORREA",
+   "CarneEntra": "67689",
+   "Jug_Entra": "FELIPE FAHRADJIAN",
+   "camiseta": "19",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "60168",
+   "Jug_Sale": "RAFAEL DELGADO",
+   "CarneEntra": "62650",
+   "Jug_Entra": "GONZALO LUCA ANTONINI",
+   "camiseta": "14",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68156",
+   "Jug_Sale": "AGUSTIN ALEJANDRO BAUDEAN",
+   "CarneEntra": "66939",
+   "Jug_Entra": "BRUNO ANTONIO JORGE",
+   "camiseta": "61",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "64259",
+   "Jug_Sale": "FRANCISCO DANIEL NUÐEZ",
+   "CarneEntra": "62777",
+   "Jug_Entra": "THIAGO DIONISIO MALAN",
+   "camiseta": "51",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "61891",
+   "Jug_Sale": "FACUNDO FERNANDEZ",
+   "CarneEntra": "61643",
+   "Jug_Entra": "ROMAN ANDRES RODRIGUEZ",
+   "camiseta": "26",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "62776",
+   "Jug_Sale": "LUCIANO URRETAVIZCAYA",
+   "CarneEntra": "68157",
+   "Jug_Entra": "CAMILO ORTEGA",
+   "camiseta": "77",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58194",
+   "Jug_Sale": "IAN ESTAVILLO",
+   "CarneEntra": "62145",
+   "Jug_Entra": "JOAQUIN PEREZ",
+   "camiseta": "99",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60754",
+   "Nombre": "FELIPE DIAZ",
+   "minutos": "42",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,320 @@
+{
+ "id": "98159",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COMPLEJO WOODLANDS SCHOOL",
+ "local": "OLD WOODLANDS CLUB",
+ "visitante": "SAN JUAN BAUTISTA",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "254",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO WOODLANDS SCHOOL",
+  "Fecha_Inicio": "2026-04-18 11:00:00",
+  "Fecha_fin": "2026-04-18 11:00:00",
+  "Locatario": "OLD WOODLANDS CLUB",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SAN JUAN BAUTISTA",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35551",
+   "Nombre": "JOAQUIN APARICIO GUADALUPE",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "28224",
+   "Nombre": "IGNACIO JOSE IRAOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "32011",
+   "Nombre": "JOAQUIN DELUCCA",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32402",
+   "Nombre": "FERNANDO VALDEZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "37661",
+   "Nombre": "JUAN AGUSTIN DIAZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "31892",
+   "Nombre": "TOMAS DELUCCA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "34974",
+   "Nombre": "FRANCO COLELLA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "35773",
+   "Nombre": "CARLOS ANDRES GARBUYO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "31356",
+   "Nombre": "MATHIAS DIENA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39865",
+   "Nombre": "JUAN MANUEL BIDEGAIN",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "18017",
+   "Nombre": "NICOLAS PIROTTO",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "31343",
+   "Nombre": "JUAN FRANCISCO INSA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "31579",
+   "Nombre": "MATIAS JAVIER GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "18492",
+   "Nombre": "LEANDRO MAGALLANES",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "25371",
+   "Nombre": "SANTIAGO RAMIS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "31320",
+   "Nombre": "SANTIAGO AGUSTIN OCHOA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "22830",
+   "Nombre": "JUAN MANUEL CASTALDI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "41310",
+   "Nombre": "JORGE AGUSTIN VIZCAINO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "22171",
+   "Nombre": "MARTIN JAVIER SOSA",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "28203",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31447",
+   "Nombre": "DAVID PEREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "34974",
+   "Jug_Sale": "FRANCO COLELLA",
+   "CarneEntra": "67550",
+   "Jug_Entra": "JUAN JOSE ALONSO",
+   "camiseta": "31",
+   "minutos": "33"
+  },
+  {
+   "CarneSale": "32402",
+   "Jug_Sale": "FERNANDO VALDEZ",
+   "CarneEntra": "31455",
+   "Jug_Entra": "IGNACIO ALEJANDRO NIN",
+   "camiseta": "40",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "37661",
+   "Jug_Sale": "JUAN AGUSTIN DIAZ",
+   "CarneEntra": "44965",
+   "Jug_Entra": "MAX ALEGRE",
+   "camiseta": "46",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "18017",
+   "Jug_Sale": "NICOLAS PIROTTO",
+   "CarneEntra": "35465",
+   "Jug_Entra": "JUAN IGNACIO MONTANS",
+   "camiseta": "9",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "39865",
+   "Jug_Sale": "JUAN MANUEL BIDEGAIN",
+   "CarneEntra": "35344",
+   "Jug_Entra": "SANTIAGO CASTELO",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "35773",
+   "Jug_Sale": "CARLOS ANDRES GARBUYO",
+   "CarneEntra": "35791",
+   "Jug_Entra": "MARCOS HONTOU",
+   "camiseta": "23",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "31356",
+   "Jug_Sale": "MATHIAS DIENA",
+   "CarneEntra": "35773",
+   "Jug_Entra": "CARLOS ANDRES GARBUYO",
+   "camiseta": "35",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "31320",
+   "Jug_Sale": "SANTIAGO AGUSTIN OCHOA",
+   "CarneEntra": "38212",
+   "Jug_Entra": "NICOLAS AARON GRONDONA",
+   "camiseta": "33",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "25371",
+   "Jug_Sale": "SANTIAGO RAMIS",
+   "CarneEntra": "37683",
+   "Jug_Entra": "PABLO GASTON OLIVERA",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22830",
+   "Jug_Sale": "JUAN MANUEL CASTALDI",
+   "CarneEntra": "33796",
+   "Jug_Entra": "HERNAN NUÑEZ",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31447",
+   "Jug_Sale": "DAVID PEREZ",
+   "CarneEntra": "68241",
+   "Jug_Entra": "JUAN PEDRO PACHECO",
+   "camiseta": "9",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "28203",
+   "Jug_Sale": "SANTIAGO FERNANDEZ",
+   "CarneEntra": "27951",
+   "Jug_Entra": "JONATHAN FRANCISCO LEMOS",
+   "camiseta": "3",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "38212",
+   "Jug_Sale": "NICOLAS AARON GRONDONA",
+   "CarneEntra": "16998",
+   "Jug_Entra": "IGNACIO GRANDAL",
+   "camiseta": "12",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "18492",
+   "Jug_Sale": "LEANDRO MAGALLANES",
+   "CarneEntra": "26703",
+   "Jug_Entra": "ANDRES CAZALES",
+   "camiseta": "91",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "18017",
+   "Nombre": "NICOLAS PIROTTO",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31356",
+   "Nombre": "MATHIAS DIENA",
+   "minutos": "4",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31356",
+   "Nombre": "MATHIAS DIENA",
+   "minutos": "67",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31447",
+   "Nombre": "DAVID PEREZ",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68241",
+   "Nombre": "JUAN PEDRO PACHECO",
+   "minutos": "89",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

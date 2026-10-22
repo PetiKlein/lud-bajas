@@ -1,0 +1,276 @@
+{
+ "id": "99204",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "CENTRO GALLEGO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "165",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-05-23 13:00:00",
+  "Fecha_fin": "2026-05-23 13:00:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CENTRO GALLEGO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60843",
+   "Nombre": "MAXIMILIANO PEREIRA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "48397",
+   "Nombre": "CLAUDIO JUAREZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "34591",
+   "Nombre": "GUILLERMO PINO",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "19902",
+   "Nombre": "SEBASTIAN MOTTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "29781",
+   "Nombre": "EMANUEL BURGUEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "31631",
+   "Nombre": "GUILLERMO LUIS PASTORINI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "25350",
+   "Nombre": "BRUNO CARLO BERTOLOTTI",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "20022",
+   "Nombre": "ALFONSO PRADERIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "35744",
+   "Nombre": "CARLOS VELLOZAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "35742",
+   "Nombre": "AGUSTIN ANTONIO CERVIÑO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "29948",
+   "Nombre": "ENRRICO ROSSI",
+   "camiseta": "35",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "18727",
+   "Nombre": "DANIEL FERRARI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67211",
+   "Nombre": "PABLO MARTIN BUDUSSIAN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "25165",
+   "Nombre": "JUAN IGNACIO FERREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62848",
+   "Nombre": "FELIPE PILON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "30896",
+   "Nombre": "AGUSTIN SANTIAGO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "29319",
+   "Nombre": "DAMIAN BAPTISTA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "17809",
+   "Nombre": "JUAN DANIEL GHEZZI",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27673",
+   "Nombre": "JUAN PABLO PAZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "22596",
+   "Nombre": "BRUNO MARTELLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "28087",
+   "Nombre": "GONZALO HARO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "32517",
+   "Nombre": "VENANCIO FLORES",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "20022",
+   "Jug_Sale": "ALFONSO PRADERIO",
+   "CarneEntra": "29781",
+   "Jug_Entra": "EMANUEL BURGUEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31631",
+   "Jug_Sale": "GUILLERMO LUIS PASTORINI",
+   "CarneEntra": "21298",
+   "Jug_Entra": "GABRIEL ALBERTO CAGNO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29781",
+   "Jug_Sale": "EMANUEL BURGUEZ",
+   "CarneEntra": "20028",
+   "Jug_Entra": "MARTIN OLIVERA",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19902",
+   "Jug_Sale": "SEBASTIAN MOTTA",
+   "CarneEntra": "61432",
+   "Jug_Entra": "MATIAS ACOSTA",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25350",
+   "Jug_Sale": "BRUNO CARLO BERTOLOTTI",
+   "CarneEntra": "30103",
+   "Jug_Entra": "JUAN PEDRO CABRERA",
+   "camiseta": "26",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "35742",
+   "Jug_Sale": "AGUSTIN ANTONIO CERVIÑO",
+   "CarneEntra": "21462",
+   "Jug_Entra": "MATIAS BARRENECHEA",
+   "camiseta": "2",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "21298",
+   "Jug_Sale": "GABRIEL ALBERTO CAGNO",
+   "CarneEntra": "31631",
+   "Jug_Entra": "GUILLERMO LUIS PASTORINI",
+   "camiseta": "31",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62848",
+   "Jug_Sale": "FELIPE PILON",
+   "CarneEntra": "38871",
+   "Jug_Entra": "BRIAN DANIEL SILVA",
+   "camiseta": "21",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "29319",
+   "Jug_Sale": "DAMIAN BAPTISTA",
+   "CarneEntra": "33394",
+   "Jug_Entra": "PEDRO PORTA",
+   "camiseta": "17",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "25165",
+   "Jug_Sale": "JUAN IGNACIO FERREIRA",
+   "CarneEntra": "68365",
+   "Jug_Entra": "CHRISTIAN NICOLAS TRINIDAD",
+   "camiseta": "13",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35742",
+   "Nombre": "AGUSTIN ANTONIO CERVIÑO",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35742",
+   "Nombre": "AGUSTIN ANTONIO CERVIÑO",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "32517",
+   "Nombre": "VENANCIO FLORES",
+   "minutos": "18",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

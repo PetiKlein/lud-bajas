@@ -1,0 +1,314 @@
+{
+ "id": "102234",
+ "categoria": "mas40-a",
+ "serie": "40CO",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "OLD BOYS CLUB",
+ "visitante": "DEPORTIVO MATADERO",
+ "gl": 5,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "405",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAS40 \"A\" TITULO",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-09-26 10:50:00",
+  "Fecha_fin": "2026-09-26 10:50:00",
+  "Locatario": "OLD BOYS CLUB",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "DEPORTIVO MATADERO",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "29630",
+   "Nombre": "GUILLERMO ALTMANN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "16224",
+   "Nombre": "OSCAR DIEGO PEÑA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "19652",
+   "Nombre": "NICOLAS VILASECA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "20192",
+   "Nombre": "MARTIN RAFAEL CARDOSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "16467",
+   "Nombre": "FERNANDO JIMENEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56149",
+   "Nombre": "JUAN CAMPOMAR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "16324",
+   "Nombre": "JUAN PABLO RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "16225",
+   "Nombre": "NICOLAS JUAN BRAUSE",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "19571",
+   "Nombre": "GABRIEL PAYSSE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "19128",
+   "Nombre": "IGNACIO MARIA CROSA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "18057",
+   "Nombre": "GUSTAVO CHIARINO",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "14102",
+   "Nombre": "MARTIN RIVERA BARREIRO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "14914",
+   "Nombre": "AGUSTIN FELIPE SEDANO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "26827",
+   "Nombre": "JOSE MARIA BLANCO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "23812",
+   "Nombre": "YAMANDU DELGADO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "14177",
+   "Nombre": "GUILLERMO GONZALEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "19987",
+   "Nombre": "DIEGO MANUEL BERRIEL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "41071",
+   "Nombre": "NICOLAS CARLOS CONDORELLI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "26951",
+   "Nombre": "JOAQUIN CALERO",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "23151",
+   "Nombre": "MAURICIO REYMUNDE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16398",
+   "Nombre": "FEDERICO SILVESTRI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "20435",
+   "Nombre": "IGNACIO JOSE GONZALEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "16324",
+   "Jug_Sale": "JUAN PABLO RODRIGUEZ",
+   "CarneEntra": "19656",
+   "Jug_Entra": "JUAN MARTIN GORTARI",
+   "camiseta": "14",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "19128",
+   "Jug_Sale": "IGNACIO MARIA CROSA",
+   "CarneEntra": "20004",
+   "Jug_Entra": "IGNACIO ABADIE",
+   "camiseta": "18",
+   "minutos": "66"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "14914",
+   "Jug_Sale": "AGUSTIN FELIPE SEDANO",
+   "CarneEntra": "22623",
+   "Jug_Entra": "SANTIAGO GOMEZ",
+   "camiseta": "33",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "26827",
+   "Jug_Sale": "JOSE MARIA BLANCO",
+   "CarneEntra": "16852",
+   "Jug_Entra": "BRUNO SPINELLI",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26951",
+   "Jug_Sale": "JOAQUIN CALERO",
+   "CarneEntra": "22388",
+   "Jug_Entra": "AGUSTIN DANIEL OTADUY",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16398",
+   "Jug_Sale": "FEDERICO SILVESTRI",
+   "CarneEntra": "16615",
+   "Jug_Entra": "JUAN ROBKIN",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19987",
+   "Jug_Sale": "DIEGO MANUEL BERRIEL",
+   "CarneEntra": "16461",
+   "Jug_Entra": "MIGUEL ANGEL SEDANO",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41071",
+   "Jug_Sale": "NICOLAS CARLOS CONDORELLI",
+   "CarneEntra": "14097",
+   "Jug_Entra": "ANDRES SEBASTIAN MENDEZ",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "20435",
+   "Jug_Sale": "IGNACIO JOSE GONZALEZ",
+   "CarneEntra": "25738",
+   "Jug_Entra": "FLAVIO AUGUSTO GAI",
+   "camiseta": "3",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "23151",
+   "Jug_Sale": "MAURICIO REYMUNDE",
+   "CarneEntra": "21767",
+   "Jug_Entra": "JUAN ARROSPIDE",
+   "camiseta": "23",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "21767",
+   "Jug_Sale": "JUAN ARROSPIDE",
+   "CarneEntra": "26951",
+   "Jug_Entra": "JOAQUIN CALERO",
+   "camiseta": "39",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "16224",
+   "Nombre": "OSCAR DIEGO PEÑA",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "19128",
+   "Nombre": "IGNACIO MARIA CROSA",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "19571",
+   "Nombre": "GABRIEL PAYSSE",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "19571",
+   "Nombre": "GABRIEL PAYSSE",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "19571",
+   "Nombre": "GABRIEL PAYSSE",
+   "minutos": "66",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "16398",
+   "Nombre": "FEDERICO SILVESTRI",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "16461",
+   "Nombre": "MIGUEL ANGEL SEDANO",
+   "minutos": "91",
+   "EnContra": "1"
+  },
+  {
+   "carne": "16852",
+   "Nombre": "BRUNO SPINELLI",
+   "minutos": "69",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

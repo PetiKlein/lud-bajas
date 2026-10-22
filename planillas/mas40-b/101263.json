@@ -1,0 +1,291 @@
+{
+ "id": "101263",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SA.FE.MA",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 1,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "150",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-08-29 13:05:00",
+  "Fecha_fin": "2026-08-29 13:05:00",
+  "Locatario": "SA.FE.MA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "15555",
+   "Nombre": "SANTIAGO JAVIER CABALLERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47402",
+   "Nombre": "MANUEL SOTELO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "48821",
+   "Nombre": "JOAQUIN ANDRES ZUNINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "18534",
+   "Nombre": "ANDRES MARCOS COPPOLA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35585",
+   "Nombre": "DAMIAN ANDRES PERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48898",
+   "Nombre": "NICOLAS DIEGO VIGNI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49350",
+   "Nombre": "DIEGO GUSTAVO DELFANTE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66997",
+   "Nombre": "ERNESTO ACUÑA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28626",
+   "Nombre": "JUAN JOSE MALACIC",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "22359",
+   "Nombre": "JUAN CARLOS MUSSIO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "17929",
+   "Nombre": "GONZALO JORGE TAGLIAFERRO",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "14645",
+   "Nombre": "PABLO ALBERTO FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35270",
+   "Nombre": "WALTER GIANNI BALDASSARI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61118",
+   "Nombre": "RUBEN DARIO GEREZ",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20702",
+   "Nombre": "JOSE LUIS TRIGO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "12721",
+   "Nombre": "FABIAN HERNAN CORTES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "19281",
+   "Nombre": "GABRIEL COPELOTTI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "13451",
+   "Nombre": "OSCAR ALEJANDRO ARRUDA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "19856",
+   "Nombre": "SEBASTIAN JORGE RODRIGUEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "21796",
+   "Nombre": "GUILLERMO FEDERICO URAN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58590",
+   "Nombre": "DIEGO FERREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "17488",
+   "Nombre": "GABRIEL ALEJANDRO PALLEIRO",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49350",
+   "Jug_Sale": "DIEGO GUSTAVO DELFANTE",
+   "CarneEntra": "17552",
+   "Jug_Entra": "MARTIN SEBASTIAN MARQUES",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66997",
+   "Jug_Sale": "ERNESTO ACUÑA",
+   "CarneEntra": "62621",
+   "Jug_Entra": "ALEX JOHANN BONJOUR",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17929",
+   "Jug_Sale": "GONZALO JORGE TAGLIAFERRO",
+   "CarneEntra": "46359",
+   "Jug_Entra": "GERARDO ANDRES FERRARI",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48821",
+   "Jug_Sale": "JOAQUIN ANDRES ZUNINO",
+   "CarneEntra": "66997",
+   "Jug_Entra": "ERNESTO ACUÑA",
+   "camiseta": "8",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "22359",
+   "Jug_Sale": "JUAN CARLOS MUSSIO",
+   "CarneEntra": "17929",
+   "Jug_Entra": "GONZALO JORGE TAGLIAFERRO",
+   "camiseta": "5",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58590",
+   "Jug_Sale": "DIEGO FERREIRA",
+   "CarneEntra": "66193",
+   "Jug_Entra": "LUIS MAYORGA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17488",
+   "Jug_Sale": "GABRIEL ALEJANDRO PALLEIRO",
+   "CarneEntra": "66926",
+   "Jug_Entra": "PABLO SEBASTIAN RADÜNZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19281",
+   "Jug_Sale": "GABRIEL COPELOTTI",
+   "CarneEntra": "58590",
+   "Jug_Entra": "DIEGO FERREIRA",
+   "camiseta": "10",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "20702",
+   "Jug_Sale": "JOSE LUIS TRIGO",
+   "CarneEntra": "17384",
+   "Jug_Entra": "DIEGO PERDOMO",
+   "camiseta": "3",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "49350",
+   "Nombre": "DIEGO GUSTAVO DELFANTE",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "17488",
+   "Nombre": "GABRIEL ALEJANDRO PALLEIRO",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "21796",
+   "Nombre": "GUILLERMO FEDERICO URAN",
+   "minutos": "2",
+   "EnContra": "1"
+  },
+  {
+   "carne": "35270",
+   "Nombre": "WALTER GIANNI BALDASSARI",
+   "minutos": "86",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58590",
+   "Nombre": "DIEGO FERREIRA",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66926",
+   "Nombre": "PABLO SEBASTIAN RADÜNZ",
+   "minutos": "83",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "NICOLAS DIEGO VIGNI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

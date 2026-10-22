@@ -1,0 +1,288 @@
+{
+ "id": "97947",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "COMPLEJO LOS CARDALES",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "244",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LOS CARDALES",
+  "Fecha_Inicio": "2026-04-11 11:00:00",
+  "Fecha_fin": "2026-04-11 11:00:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47924",
+   "Nombre": "NICOLAS CARDOZO",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31320",
+   "Nombre": "SANTIAGO AGUSTIN OCHOA",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "19891",
+   "Nombre": "ANDRES LAMAS",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "31579",
+   "Nombre": "MATIAS JAVIER GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "27951",
+   "Nombre": "JONATHAN FRANCISCO LEMOS",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "28203",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "31343",
+   "Nombre": "JUAN FRANCISCO INSA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "22830",
+   "Nombre": "JUAN MANUEL CASTALDI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "22171",
+   "Nombre": "MARTIN JAVIER SOSA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "33796",
+   "Nombre": "HERNAN NUÑEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26521",
+   "Nombre": "SEBASTIAN DE AZPITARTE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36830",
+   "Nombre": "MARIO ANDRES ORTIZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "27930",
+   "Nombre": "SANTIAGO DE AZPITARTE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "38064",
+   "Nombre": "TEOFILO SCHAICH",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "26675",
+   "Nombre": "MATIAS ALONSO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "28020",
+   "Nombre": "JOAQUIN JOSE CURA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "23517",
+   "Nombre": "ALEXANDER REINER KOSSMANN",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32273",
+   "Nombre": "NICOLAS SCHAICH",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "30718",
+   "Nombre": "RUDOLF RAUHUT",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "34883",
+   "Nombre": "SANTIAGO ANDRES GARELLI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "27399",
+   "Nombre": "JOAQUIN PASQUET",
+   "camiseta": "96",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31343",
+   "Jug_Sale": "JUAN FRANCISCO INSA",
+   "CarneEntra": "18492",
+   "Jug_Entra": "LEANDRO MAGALLANES",
+   "camiseta": "4",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "27951",
+   "Jug_Sale": "JONATHAN FRANCISCO LEMOS",
+   "CarneEntra": "25371",
+   "Jug_Entra": "SANTIAGO RAMIS",
+   "camiseta": "60",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31320",
+   "Jug_Sale": "SANTIAGO AGUSTIN OCHOA",
+   "CarneEntra": "26703",
+   "Jug_Entra": "ANDRES CAZALES",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33796",
+   "Jug_Sale": "HERNAN NUÑEZ",
+   "CarneEntra": "31447",
+   "Jug_Entra": "DAVID PEREZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22830",
+   "Jug_Sale": "JUAN MANUEL CASTALDI",
+   "CarneEntra": "41310",
+   "Jug_Entra": "JORGE AGUSTIN VIZCAINO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28203",
+   "Jug_Sale": "SANTIAGO FERNANDEZ",
+   "CarneEntra": "16998",
+   "Jug_Entra": "IGNACIO GRANDAL",
+   "camiseta": "82",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "31579",
+   "Jug_Sale": "MATIAS JAVIER GONZALEZ",
+   "CarneEntra": "26665",
+   "Jug_Entra": "MARTIN REY",
+   "camiseta": "27",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "32100",
+   "Jug_Sale": "FEDERICO FARACHIO",
+   "CarneEntra": "19603",
+   "Jug_Entra": "JUAN MANUEL GONZALEZ",
+   "camiseta": "11",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "22171",
+   "Jug_Sale": "MARTIN JAVIER SOSA",
+   "CarneEntra": "19607",
+   "Jug_Entra": "NICOLAS GRANDAL",
+   "camiseta": "11",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30718",
+   "Jug_Sale": "RUDOLF RAUHUT",
+   "CarneEntra": "27961",
+   "Jug_Entra": "JUAN MANUEL SCHAICH",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23517",
+   "Jug_Sale": "ALEXANDER REINER KOSSMANN",
+   "CarneEntra": "29507",
+   "Jug_Entra": "ANTONIO SOTO",
+   "camiseta": "10",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "28020",
+   "Jug_Sale": "JOAQUIN JOSE CURA",
+   "CarneEntra": "27970",
+   "Jug_Entra": "FELIPE GIRIBALDI",
+   "camiseta": "87",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "34883",
+   "Jug_Sale": "SANTIAGO ANDRES GARELLI",
+   "CarneEntra": "31527",
+   "Jug_Entra": "ANDRES BERNARDO LEGNANI",
+   "camiseta": "3",
+   "minutos": "22"
+  },
+  {
+   "CarneSale": "32273",
+   "Jug_Sale": "NICOLAS SCHAICH",
+   "CarneEntra": "27493",
+   "Jug_Entra": "JUAN FRANCISCO ZORZIN",
+   "camiseta": "19",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

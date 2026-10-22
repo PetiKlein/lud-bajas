@@ -1,0 +1,239 @@
+{
+ "id": "99757",
+ "categoria": "sub18",
+ "serie": "18-1-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 15:30:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "26",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 1",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-07 17:30:00",
+  "Fecha_fin": "2026-06-07 17:30:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58980",
+   "Nombre": "MATEO PONCE DE LEON",
+   "camiseta": "78",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58845",
+   "Nombre": "JUAN ENRIQUE GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59109",
+   "Nombre": "SANTIAGO ALVAREZ",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "59264",
+   "Nombre": "JUAN FRANCISCO JIMENEZ DE ARECHAGA",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "59473",
+   "Nombre": "SANTIAGO OUTERELO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "58855",
+   "Nombre": "JOAQUIN MARTINEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "59474",
+   "Nombre": "AGUSTIN CHIAPPORI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58851",
+   "Nombre": "FRANCISCO MARTINEZ",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "66398",
+   "Nombre": "VALENTINO ESCAMES",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "64307",
+   "Nombre": "VALENTIN GRUBITS",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "62640",
+   "Nombre": "FRANCO ANDRES LOPEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63266",
+   "Nombre": "JUAN MANUEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65555",
+   "Nombre": "JOAQUIN MEDINA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62063",
+   "Nombre": "RODRIGO RUBIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62069",
+   "Nombre": "SANTIAGO SILVA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62475",
+   "Nombre": "CLEMENTE PEIRANO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "58819",
+   "Nombre": "GERONIMO ACUÑA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62822",
+   "Nombre": "JOAQUIN LARREA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62065",
+   "Nombre": "FEDERICO RUBIO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60473",
+   "Nombre": "JUAN AGUSTIN LOPEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62476",
+   "Nombre": "MATIAS NICOLAS CABRERA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62058",
+   "Nombre": "FACUNDO BARRIOS",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58851",
+   "Jug_Sale": "FRANCISCO MARTINEZ",
+   "CarneEntra": "59753",
+   "Jug_Entra": "MATIAS REVELLO",
+   "camiseta": "40",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "59264",
+   "Jug_Sale": "JUAN FRANCISCO JIMENEZ DE ARECHAGA",
+   "CarneEntra": "68153",
+   "Jug_Entra": "MATEO DEAMBROSI",
+   "camiseta": "14",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "59474",
+   "Jug_Sale": "AGUSTIN CHIAPPORI",
+   "CarneEntra": "68152",
+   "Jug_Entra": "LEANDRO FERNANDEZ",
+   "camiseta": "12",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "62640",
+   "Jug_Sale": "FRANCO ANDRES LOPEZ",
+   "CarneEntra": "63461",
+   "Jug_Entra": "GUILLERMO SPILLER",
+   "camiseta": "9",
+   "minutos": "74"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62476",
+   "Jug_Sale": "MATIAS NICOLAS CABRERA",
+   "CarneEntra": "68363",
+   "Jug_Entra": "MATHEUS HAESBAERT",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62475",
+   "Jug_Sale": "CLEMENTE PEIRANO",
+   "CarneEntra": "62068",
+   "Jug_Entra": "JUAN MANUEL BERGER",
+   "camiseta": "19",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "62058",
+   "Jug_Sale": "FACUNDO BARRIOS",
+   "CarneEntra": "61918",
+   "Jug_Entra": "LORENZO SILVA",
+   "camiseta": "51",
+   "minutos": "32"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "62069",
+   "Nombre": "SANTIAGO SILVA",
+   "minutos": "47",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

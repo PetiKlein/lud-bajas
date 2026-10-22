@@ -1,0 +1,251 @@
+{
+ "id": "102602",
+ "categoria": "sub16",
+ "serie": "16-22",
+ "fecha": 3,
+ "fechaHora": "2026-10-04 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "J.M.L.M",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "179",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 2 RUEDA 2",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-04 15:15:00",
+  "Fecha_fin": "2026-10-04 15:15:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65860",
+   "Nombre": "DAVID GREGORIO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64226",
+   "Nombre": "EMILIANO MIZRAJI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63023",
+   "Nombre": "LUCAS EMANUEL MACHADO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "65310",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62877",
+   "Nombre": "THIAGO CORREA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66893",
+   "Nombre": "DIEGO OLIVERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62880",
+   "Nombre": "GONZALO ABELLA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "62879",
+   "Nombre": "FACUNDO SANTINO LEITES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64907",
+   "Nombre": "SANTIAGO GARCIA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "64227",
+   "Nombre": "FACUNDO GERIBONI",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68259",
+   "Nombre": "LAUTARO PORTILLO",
+   "camiseta": "90",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68516",
+   "Nombre": "MATIAS CARBAJALES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66084",
+   "Nombre": "FACUNDO SCOTTI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62372",
+   "Nombre": "FACUNDO ROIBAL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67859",
+   "Nombre": "BAUTISTA METRE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "67381",
+   "Nombre": "BENJAMIN LOMBARDO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67382",
+   "Nombre": "MAURICIO FEDERICO PUÑALES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62866",
+   "Nombre": "LAUTARO MENDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64168",
+   "Nombre": "GABRIEL CARBALLO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "64167",
+   "Nombre": "DANIEL CARBALLO",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67378",
+   "Nombre": "SANTIAGO FALKENHAGEN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63492",
+   "Nombre": "MARTIN BENITES",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64907",
+   "Jug_Sale": "SANTIAGO GARCIA",
+   "CarneEntra": "68268",
+   "Jug_Entra": "DAREL CARLOS RAMIREZ",
+   "camiseta": "23",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63023",
+   "Jug_Sale": "LUCAS EMANUEL MACHADO",
+   "CarneEntra": "66559",
+   "Jug_Entra": "ISMAEL RICHIERI",
+   "camiseta": "13",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "68268",
+   "Jug_Sale": "DAREL CARLOS RAMIREZ",
+   "CarneEntra": "64907",
+   "Jug_Entra": "SANTIAGO GARCIA",
+   "camiseta": "25",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67859",
+   "Jug_Sale": "BAUTISTA METRE",
+   "CarneEntra": "66045",
+   "Jug_Entra": "ISMAEL GUTIERREZ",
+   "camiseta": "16",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "66084",
+   "Jug_Sale": "FACUNDO SCOTTI",
+   "CarneEntra": "63491",
+   "Jug_Entra": "FELIPE BENITEZ",
+   "camiseta": "4",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "62866",
+   "Jug_Sale": "LAUTARO MENDEZ",
+   "CarneEntra": "67383",
+   "Jug_Entra": "MATIAS GARDERES",
+   "camiseta": "17",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "63492",
+   "Jug_Sale": "MARTIN BENITES",
+   "CarneEntra": "62866",
+   "Jug_Entra": "LAUTARO MENDEZ",
+   "camiseta": "10",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "64167",
+   "Nombre": "DANIEL CARBALLO",
+   "minutos": "15",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64167",
+   "Nombre": "DANIEL CARBALLO",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64168",
+   "Nombre": "GABRIEL CARBALLO",
+   "minutos": "72",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

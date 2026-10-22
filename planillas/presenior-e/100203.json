@@ -1,0 +1,284 @@
+{
+ "id": "100203",
+ "categoria": "presenior-e",
+ "serie": "PSE1",
+ "fecha": 4,
+ "fechaHora": "2026-06-20 09:05:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "COLEGIO Y LICEO INGLES",
+ "visitante": "JUVENTUD DE LAS PIEDRAS",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "499",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 1",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-20 11:05:00",
+  "Fecha_fin": "2026-06-20 11:05:00",
+  "Locatario": "COLEGIO Y LICEO INGLES",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "JUVENTUD DE LAS PIEDRAS",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "24049",
+   "Nombre": "MARTIN ESTEBAN DEMARIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30328",
+   "Nombre": "FACUNDO KACHELE",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26920",
+   "Nombre": "IGNACIO MARIA SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "33332",
+   "Nombre": "JUAN IGNACIO ARANCIBIA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "29931",
+   "Nombre": "GERMAN SUAREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "36150",
+   "Nombre": "JUAN MANUEL PUIG",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "26262",
+   "Nombre": "NICOLAS AGUIRREGARAY",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "24727",
+   "Nombre": "JORGE LUIS NICOLETTI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "30167",
+   "Nombre": "RENZO PARODI",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "26979",
+   "Nombre": "JUAN MANUEL LAMELA",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "36954",
+   "Nombre": "JOAQUIN SANSBERRO",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "31938",
+   "Nombre": "SEBASTIAN PIETRO GERARDO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67422",
+   "Nombre": "DAMIAN JURADO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "24493",
+   "Nombre": "JUAN PABLO PRESTE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "29209",
+   "Nombre": "MATIAS OLID",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "19829",
+   "Nombre": "PAOLO EDISON ROSSI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "37090",
+   "Nombre": "GABRIEL LABARTHE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "35485",
+   "Nombre": "MIGUEL PRESA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23681",
+   "Nombre": "MAURO SENATORE",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "27020",
+   "Nombre": "LEANDRO CASTELLI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "30064",
+   "Nombre": "MATIAS LUIS SORHUET",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "29804",
+   "Nombre": "MATIAS GABRIEL TRNKA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26262",
+   "Jug_Sale": "NICOLAS AGUIRREGARAY",
+   "CarneEntra": "30835",
+   "Jug_Entra": "RODRIGO LUIS PASTOR",
+   "camiseta": "34",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "26920",
+   "Jug_Sale": "IGNACIO MARIA SILVA",
+   "CarneEntra": "28228",
+   "Jug_Entra": "MANUEL MARTINEZ",
+   "camiseta": "81",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "36954",
+   "Jug_Sale": "JOAQUIN SANSBERRO",
+   "CarneEntra": "35054",
+   "Jug_Entra": "SANTIAGO MAGNI",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "26979",
+   "Jug_Sale": "JUAN MANUEL LAMELA",
+   "CarneEntra": "36954",
+   "Jug_Entra": "JOAQUIN SANSBERRO",
+   "camiseta": "0",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "19829",
+   "Jug_Sale": "PAOLO EDISON ROSSI",
+   "CarneEntra": "29140",
+   "Jug_Entra": "SANTIAGO TOME",
+   "camiseta": "14",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "37090",
+   "Jug_Sale": "GABRIEL LABARTHE",
+   "CarneEntra": "43925",
+   "Jug_Entra": "MATEO NICOLAS SUAREZ",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29209",
+   "Jug_Sale": "MATIAS OLID",
+   "CarneEntra": "68330",
+   "Jug_Entra": "MAURICIO VLADIMIR ARANA",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23681",
+   "Jug_Sale": "MAURO SENATORE",
+   "CarneEntra": "37506",
+   "Jug_Entra": "HERNAN RICARDO ANESETTI",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "30064",
+   "Jug_Sale": "MATIAS LUIS SORHUET",
+   "CarneEntra": "62253",
+   "Jug_Entra": "MARCELO COGOY",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67422",
+   "Jug_Sale": "DAMIAN JURADO",
+   "CarneEntra": "30064",
+   "Jug_Entra": "MATIAS LUIS SORHUET",
+   "camiseta": "21",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "29804",
+   "Jug_Sale": "MATIAS GABRIEL TRNKA",
+   "CarneEntra": "67422",
+   "Jug_Entra": "DAMIAN JURADO",
+   "camiseta": "4",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "30167",
+   "Nombre": "RENZO PARODI",
+   "minutos": "21",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "29209",
+   "Nombre": "MATIAS OLID",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "29804",
+   "Nombre": "MATIAS GABRIEL TRNKA",
+   "minutos": "73",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,258 @@
+{
+ "id": "100316",
+ "categoria": "sub16",
+ "serie": "16-12",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 13:30:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "DEPORTIVO LS UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "144",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 1 RUEDA 2",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-21 15:20:00",
+  "Fecha_fin": "2026-06-21 15:20:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64328",
+   "Nombre": "LORENZO BRUNO PEZZANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66945",
+   "Nombre": "FACUNDO PERERA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64890",
+   "Nombre": "MARTIN PONCE DE LEON",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67409",
+   "Nombre": "ALEJO CONDE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66948",
+   "Nombre": "FACUNDO RADESCA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "64330",
+   "Nombre": "BAUTISTA TRIGO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63038",
+   "Nombre": "FELIPE LIGÜERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66947",
+   "Nombre": "TOMAS VILENSKY",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "62937",
+   "Nombre": "LEON PEDRO SCHILDE",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60380",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "61544",
+   "Nombre": "SANTINO CASTELLI",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66426",
+   "Nombre": "LUCAS ROSA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64051",
+   "Nombre": "JUAN MANUEL SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67651",
+   "Nombre": "BENJAMIN TRICOTTI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64297",
+   "Nombre": "LUCA MATEO ARDID",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "64303",
+   "Nombre": "MATIAS OLARAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64314",
+   "Nombre": "SANTIAGO MANUEL RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65350",
+   "Nombre": "VALENTIN RUIZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67871",
+   "Nombre": "MATEO EZEQUIEL PAGUA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66950",
+   "Jug_Sale": "FRANCISCO CHIAPPORI",
+   "CarneEntra": "66951",
+   "Jug_Entra": "MANUEL VILENSKY",
+   "camiseta": "81",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "64330",
+   "Jug_Sale": "BAUTISTA TRIGO",
+   "CarneEntra": "66950",
+   "Jug_Entra": "FRANCISCO CHIAPPORI",
+   "camiseta": "18",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "66947",
+   "Jug_Sale": "TOMAS VILENSKY",
+   "CarneEntra": "64327",
+   "Jug_Entra": "AGUSTIN JUSTO RODRIGUEZ",
+   "camiseta": "55",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "63461",
+   "Jug_Sale": "GUILLERMO SPILLER",
+   "CarneEntra": "65916",
+   "Jug_Entra": "EMILIANO PUJADAS",
+   "camiseta": "66",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67651",
+   "Jug_Sale": "BENJAMIN TRICOTTI",
+   "CarneEntra": "62926",
+   "Jug_Entra": "DIEGO GUIRADO",
+   "camiseta": "10",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "65350",
+   "Jug_Sale": "VALENTIN RUIZ",
+   "CarneEntra": "65298",
+   "Jug_Entra": "NAHUEL CARMINATI",
+   "camiseta": "29",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "66426",
+   "Jug_Sale": "LUCAS ROSA",
+   "CarneEntra": "65352",
+   "Jug_Entra": "FELIPE GEREZ",
+   "camiseta": "11",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65298",
+   "Nombre": "NAHUEL CARMINATI",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

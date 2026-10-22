@@ -1,0 +1,336 @@
+{
+ "id": "102426",
+ "categoria": "mas40-c",
+ "serie": "M40O",
+ "fecha": 2,
+ "fechaHora": "2026-09-29 21:00:00",
+ "cancha": "CIUDAD DEPORTIVA ZONA LAB",
+ "local": "OBC AZULGRANA",
+ "visitante": "PINAR JRS",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "334",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "M40 DIV. C COPA ORO R1",
+  "Cancha": "CIUDAD DEPORTIVA ZONA LAB",
+  "Fecha_Inicio": "2026-09-29 23:00:00",
+  "Fecha_fin": "2026-09-29 23:00:00",
+  "Locatario": "OBC AZULGRANA",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "PINAR JRS",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "13582",
+   "Nombre": "LUIS ANDRES CHAHNAZAROFF",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19129",
+   "Nombre": "IGNACIO AGUERRE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "18506",
+   "Nombre": "MARCOS EUGENIO SAIZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "20068",
+   "Nombre": "FRANCISCO JOSE CARDOSO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "14920",
+   "Nombre": "MILTON FERNANDO HAHN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "16314",
+   "Nombre": "MATIAS JOSE PEREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "23457",
+   "Nombre": "SANTIAGO IGANCIO CURIEL",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "19527",
+   "Nombre": "HORACIO ROIG",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "19974",
+   "Nombre": "DIEGO SARALEGUI",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "17134",
+   "Nombre": "SEBASTIAN LUIS CARDOSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "45169",
+   "Nombre": "JUAN LUIS MASTROIANNI",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37906",
+   "Nombre": "LUIS DIEGO ALCARRAZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "25513",
+   "Nombre": "MARTIN ALBERTO DAVISON",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "24069",
+   "Nombre": "SEBASTIAN MARTINEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "27800",
+   "Nombre": "JOSE PABLO CHAMORRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "20867",
+   "Nombre": "CARLOS MARTIN BORGES",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "43279",
+   "Nombre": "MIGUEL ANGEL NUÑEZ",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "34145",
+   "Nombre": "VICTOR FERNANDO SAMPAYO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "22404",
+   "Nombre": "DANIEL MARTIN PEYDRO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "35028",
+   "Nombre": "JUAN MANUEL HUE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "17612",
+   "Nombre": "UGO LIGNELLI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "13791",
+   "Nombre": "DIEGO NICOLAS CAIMI",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "14920",
+   "Jug_Sale": "MILTON FERNANDO HAHN",
+   "CarneEntra": "15512",
+   "Jug_Entra": "GUSTAVO OCTAVIO RISSO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45169",
+   "Jug_Sale": "JUAN LUIS MASTROIANNI",
+   "CarneEntra": "65743",
+   "Jug_Entra": "NICOLAS MONTERO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18506",
+   "Jug_Sale": "MARCOS EUGENIO SAIZ",
+   "CarneEntra": "11824",
+   "Jug_Entra": "FACUNDO TORRES",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19527",
+   "Jug_Sale": "HORACIO ROIG",
+   "CarneEntra": "12383",
+   "Jug_Entra": "MARTIN SANTIAGO BEYHAUT",
+   "camiseta": "49",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19974",
+   "Jug_Sale": "DIEGO SARALEGUI",
+   "CarneEntra": "65745",
+   "Jug_Entra": "MARCOS VILLANUEVA",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "16314",
+   "Jug_Sale": "MATIAS JOSE PEREZ",
+   "CarneEntra": "16326",
+   "Jug_Entra": "MATIAS WALTER FALCON",
+   "camiseta": "77",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "17134",
+   "Jug_Sale": "SEBASTIAN LUIS CARDOSO",
+   "CarneEntra": "15517",
+   "Jug_Entra": "NICOLAS MARTIN GIORDANO",
+   "camiseta": "19",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "23457",
+   "Jug_Sale": "SANTIAGO IGANCIO CURIEL",
+   "CarneEntra": "66367",
+   "Jug_Entra": "RODRIGO DANIEL PAOLETTI",
+   "camiseta": "32",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "19129",
+   "Jug_Sale": "IGNACIO AGUERRE",
+   "CarneEntra": "26599",
+   "Jug_Entra": "ANDRES VOULMINOT",
+   "camiseta": "65",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22404",
+   "Jug_Sale": "DANIEL MARTIN PEYDRO",
+   "CarneEntra": "57944",
+   "Jug_Entra": "CESAR JOAQUIN RAÑA",
+   "camiseta": "21",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "43279",
+   "Jug_Sale": "MIGUEL ANGEL NUÑEZ",
+   "CarneEntra": "64645",
+   "Jug_Entra": "RODRIGO ROUCO",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24069",
+   "Jug_Sale": "SEBASTIAN MARTINEZ",
+   "CarneEntra": "33075",
+   "Jug_Entra": "MAXIMILIANO BUCK",
+   "camiseta": "4",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "24069",
+   "Jug_Sale": "SEBASTIAN MARTINEZ",
+   "CarneEntra": "33075",
+   "Jug_Entra": "MAXIMILIANO BUCK",
+   "camiseta": "4",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "20867",
+   "Jug_Sale": "CARLOS MARTIN BORGES",
+   "CarneEntra": "20973",
+   "Jug_Entra": "GONZALO MORALES",
+   "camiseta": "16",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "13791",
+   "Jug_Sale": "DIEGO NICOLAS CAIMI",
+   "CarneEntra": "22044",
+   "Jug_Entra": "DIEGO NICOLAS VIEYRA",
+   "camiseta": "13",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "27800",
+   "Jug_Sale": "JOSE PABLO CHAMORRO",
+   "CarneEntra": "18863",
+   "Jug_Entra": "LEONARDO FOSSATTI",
+   "camiseta": "23",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "17134",
+   "Nombre": "SEBASTIAN LUIS CARDOSO",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "17134",
+   "Nombre": "SEBASTIAN LUIS CARDOSO",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "20068",
+   "Nombre": "FRANCISCO JOSE CARDOSO",
+   "minutos": "88",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "17612",
+   "Nombre": "UGO LIGNELLI",
+   "minutos": "69",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57944",
+   "Nombre": "CESAR JOAQUIN RAÑA",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

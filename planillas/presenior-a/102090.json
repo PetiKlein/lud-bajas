@@ -1,0 +1,284 @@
+{
+ "id": "102090",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "108",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-09-19 11:00:00",
+  "Fecha_fin": "2026-09-19 11:00:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "33302",
+   "Nombre": "EMILIANO MARTINS",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "21216",
+   "Nombre": "GABRIEL TORRES TORRES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "25090",
+   "Nombre": "DARIO MACEDO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33307",
+   "Nombre": "NICOLAS SILVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "23208",
+   "Nombre": "PABLO BRANDO",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26042",
+   "Nombre": "DAVID JHONATAN MENESES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64286",
+   "Nombre": "DIEGO ANDRE GARCIA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "54318",
+   "Nombre": "SANTIAGO GABRIEL RIERA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "33288",
+   "Nombre": "RODRIGO GUSTAVO FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "27597",
+   "Nombre": "SANTIAGO LOPEZ PINTOS",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "19194",
+   "Nombre": "AGUSTIN FARACHIO",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "36841",
+   "Nombre": "JUAN MANUEL RIVERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35042",
+   "Nombre": "GUILLERMO SEBASTIAN SUAREZ",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63605",
+   "Nombre": "JAVIER ADRIAN GUERRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "23426",
+   "Nombre": "MATIAS LOCATELLI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "52835",
+   "Nombre": "HUGO ANDRES LECUNA",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "29714",
+   "Nombre": "JUAN ANDRES LEZAMA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "54316",
+   "Nombre": "JUAN MANUEL SORIA",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "57337",
+   "Nombre": "LEONARDO DAMIAN PANZARIELLO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "66202",
+   "Nombre": "MAURICIO ANTONIO DE LOS SANTOS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "21795",
+   "Nombre": "MAXIMILIANO PEREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "38368",
+   "Nombre": "JUAN MANUEL BOGADO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "33288",
+   "Jug_Sale": "RODRIGO GUSTAVO FERNANDEZ",
+   "CarneEntra": "20377",
+   "Jug_Entra": "JUAN PABLO BARRIOLA",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27597",
+   "Jug_Sale": "SANTIAGO LOPEZ PINTOS",
+   "CarneEntra": "39880",
+   "Jug_Entra": "JUAN MANUEL ARANDA",
+   "camiseta": "17",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "33307",
+   "Jug_Sale": "NICOLAS SILVERA",
+   "CarneEntra": "33288",
+   "Jug_Entra": "RODRIGO GUSTAVO FERNANDEZ",
+   "camiseta": "16",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "26042",
+   "Jug_Sale": "DAVID JHONATAN MENESES",
+   "CarneEntra": "47283",
+   "Jug_Entra": "SERGIO DARIO RAMIREZ",
+   "camiseta": "2",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "54318",
+   "Jug_Sale": "SANTIAGO GABRIEL RIERA",
+   "CarneEntra": "21121",
+   "Jug_Entra": "RODRIGO DAMIAN MARTINEZ",
+   "camiseta": "8",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54316",
+   "Jug_Sale": "JUAN MANUEL SORIA",
+   "CarneEntra": "23868",
+   "Jug_Entra": "GONZALO ANDRES GUTIERREZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29714",
+   "Jug_Sale": "JUAN ANDRES LEZAMA",
+   "CarneEntra": "22536",
+   "Jug_Entra": "MARCIO FIDEL SUAREZ",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "21795",
+   "Jug_Sale": "MAXIMILIANO PEREZ",
+   "CarneEntra": "42139",
+   "Jug_Entra": "RODRIGO DANIEL SIRIANI",
+   "camiseta": "30",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "66202",
+   "Jug_Sale": "MAURICIO ANTONIO DE LOS SANTOS",
+   "CarneEntra": "31137",
+   "Jug_Entra": "PABLO DANIEL SCALONE",
+   "camiseta": "32",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "38368",
+   "Jug_Sale": "JUAN MANUEL BOGADO",
+   "CarneEntra": "52834",
+   "Jug_Entra": "ALVARO MARTIN VICENTE",
+   "camiseta": "56",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "23868",
+   "Jug_Sale": "GONZALO ANDRES GUTIERREZ",
+   "CarneEntra": "34306",
+   "Jug_Entra": "MATHIAS LANZZERI",
+   "camiseta": "7",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23208",
+   "Nombre": "PABLO BRANDO",
+   "minutos": "11",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "21795",
+   "Nombre": "MAXIMILIANO PEREZ",
+   "minutos": "3",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66202",
+   "Nombre": "MAURICIO ANTONIO DE LOS SANTOS",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

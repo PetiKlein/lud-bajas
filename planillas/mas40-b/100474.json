@@ -1,0 +1,322 @@
+{
+ "id": "100474",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "SAN ISIDRO LOMAS",
+ "local": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "visitante": "FLORES UNIVERSITARIO",
+ "gl": 4,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "206",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "SAN ISIDRO LOMAS",
+  "Fecha_Inicio": "2026-06-27 11:00:00",
+  "Fecha_fin": "2026-06-27 11:00:00",
+  "Locatario": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "1",
+  "Visitante": "FLORES UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "22390",
+   "Nombre": "JUAN CARLOS FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19855",
+   "Nombre": "ANGEL ENRIQUE PERDOMO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "14531",
+   "Nombre": "JAVIER GERARDO GARRE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "44887",
+   "Nombre": "MATIAS SOSA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "25593",
+   "Nombre": "FELIX GABRIEL BELLOMO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67720",
+   "Nombre": "CARLOS ADRIAN ROBAINA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "23102",
+   "Nombre": "MARCELO SOSA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67721",
+   "Nombre": "SERGIO GABRIEL TARALLO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63523",
+   "Nombre": "NESTOR ATILIO MONTIEL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63687",
+   "Nombre": "NICOLAS OMAR MICHELENA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "24009",
+   "Nombre": "FEDERICO GABRIEL WILKINS",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22701",
+   "Nombre": "MATIAS AGUSTIN RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "18594",
+   "Nombre": "SEBASTIAN ANDRES PESCE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "18937",
+   "Nombre": "RAFAEL GONZALEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "17253",
+   "Nombre": "RAUL NICOLAS FLORIO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "26537",
+   "Nombre": "GONZALO LANGONI",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "22225",
+   "Nombre": "ENRIQUE DANIEL PADIAL",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "43482",
+   "Nombre": "ALEXIS MARTIN ARENAZA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "43073",
+   "Nombre": "ALEJANDRO RAFAEL DELUCA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "17153",
+   "Nombre": "JUAN IGNACIO HERMIDA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "18444",
+   "Nombre": "JOAQUIN BORBONET",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "16856",
+   "Nombre": "CLAUDIO VENANCIO VIERA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24009",
+   "Jug_Sale": "FEDERICO GABRIEL WILKINS",
+   "CarneEntra": "63876",
+   "Jug_Entra": "LUIS DARIO DAVILA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63523",
+   "Jug_Sale": "NESTOR ATILIO MONTIEL",
+   "CarneEntra": "68438",
+   "Jug_Entra": "CARLOS HIGINIO BARRETO",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67721",
+   "Jug_Sale": "SERGIO GABRIEL TARALLO",
+   "CarneEntra": "67718",
+   "Jug_Entra": "WASHINGTON JAVIER DUARTE",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67720",
+   "Jug_Sale": "CARLOS ADRIAN ROBAINA",
+   "CarneEntra": "63523",
+   "Jug_Entra": "NESTOR ATILIO MONTIEL",
+   "camiseta": "11",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "63687",
+   "Jug_Sale": "NICOLAS OMAR MICHELENA",
+   "CarneEntra": "67721",
+   "Jug_Entra": "SERGIO GABRIEL TARALLO",
+   "camiseta": "3",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "17253",
+   "Jug_Sale": "RAUL NICOLAS FLORIO",
+   "CarneEntra": "20634",
+   "Jug_Entra": "AGUSTIN CHIAZZARO",
+   "camiseta": "22",
+   "minutos": "13"
+  },
+  {
+   "CarneSale": "16856",
+   "Jug_Sale": "CLAUDIO VENANCIO VIERA",
+   "CarneEntra": "46292",
+   "Jug_Entra": "DIEGO ISMAEL FERREIRA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43482",
+   "Jug_Sale": "ALEXIS MARTIN ARENAZA",
+   "CarneEntra": "20146",
+   "Jug_Entra": "PABLO JAVIER VIERA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22701",
+   "Jug_Sale": "MATIAS AGUSTIN RODRIGUEZ",
+   "CarneEntra": "19543",
+   "Jug_Entra": "NICOLAS RENATO BALDRIZ",
+   "camiseta": "11",
+   "minutos": "36"
+  },
+  {
+   "CarneSale": "22225",
+   "Jug_Sale": "ENRIQUE DANIEL PADIAL",
+   "CarneEntra": "23923",
+   "Jug_Entra": "MARCELO HORACIO SOSA",
+   "camiseta": "23",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "18444",
+   "Jug_Sale": "JOAQUIN BORBONET",
+   "CarneEntra": "17125",
+   "Jug_Entra": "MARTIN LIGUORI",
+   "camiseta": "7",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "17125",
+   "Jug_Sale": "MARTIN LIGUORI",
+   "CarneEntra": "16684",
+   "Jug_Entra": "MARCO ALGORTA",
+   "camiseta": "30",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "24009",
+   "Nombre": "FEDERICO GABRIEL WILKINS",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "44887",
+   "Nombre": "MATIAS SOSA",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63687",
+   "Nombre": "NICOLAS OMAR MICHELENA",
+   "minutos": "51",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63876",
+   "Nombre": "LUIS DARIO DAVILA",
+   "minutos": "59",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "16856",
+   "Nombre": "CLAUDIO VENANCIO VIERA",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17125",
+   "Nombre": "MARTIN LIGUORI",
+   "minutos": "61",
+   "EnContra": "1"
+  },
+  {
+   "carne": "20634",
+   "Nombre": "AGUSTIN CHIAZZARO",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46292",
+   "Nombre": "DIEGO ISMAEL FERREIRA",
+   "minutos": "64",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

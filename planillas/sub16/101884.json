@@ -1,0 +1,261 @@
+{
+ "id": "101884",
+ "categoria": "sub16",
+ "serie": "16-32",
+ "fecha": 2,
+ "fechaHora": "2026-09-13 13:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "COLEGIO SANTA ELENA",
+ "visitante": "SCUOLA PALERMO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "203",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 3 RUEDA 2",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-13 15:20:00",
+  "Fecha_fin": "2026-09-13 15:20:00",
+  "Locatario": "COLEGIO SANTA ELENA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SCUOLA PALERMO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62758",
+   "Nombre": "MANUEL LORENZO FAZZIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66009",
+   "Nombre": "JOAQUIN DOMINGO LUCA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65400",
+   "Nombre": "JUAN EMILIO BORGEAUD",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65585",
+   "Nombre": "JOAQUIN MOREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65893",
+   "Nombre": "FACUNDO QUARTINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65398",
+   "Nombre": "BRUNO ANTONIO GIACOMINI",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68395",
+   "Nombre": "BORJA QUIROGA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65402",
+   "Nombre": "FRANCO VILLAGRAN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68396",
+   "Nombre": "JUAQUIN JACINTO PORCAL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61460",
+   "Nombre": "SANTIAGO GUTIERREZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "65396",
+   "Nombre": "IÑAKI SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64377",
+   "Nombre": "LUCAS DI MAURO",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60475",
+   "Nombre": "AGUSTIN ANTELO",
+   "camiseta": "56",
+   "Capitan": ""
+  },
+  {
+   "carne": "60764",
+   "Nombre": "FACUNDO CARAMBULA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "64380",
+   "Nombre": "FRANCO MOLFINO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64381",
+   "Nombre": "FACUNDO POTENZA",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "68377",
+   "Nombre": "THIAN BAUTISTA MORALES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68376",
+   "Nombre": "JUAN IGNACIO MUÑOZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65718",
+   "Nombre": "VICENTE VALENTIN VIERA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "61437",
+   "Nombre": "MARTIN BREGSTEIN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "65610",
+   "Nombre": "LUCA GONZALEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "65887",
+   "Nombre": "FABRIZIO BISOGNO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65396",
+   "Jug_Sale": "IÑAKI SOSA",
+   "CarneEntra": "68687",
+   "Jug_Entra": "BERNARDO CALVIÑO",
+   "camiseta": "23",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "65402",
+   "Jug_Sale": "FRANCO VILLAGRAN",
+   "CarneEntra": "65396",
+   "Jug_Entra": "IÑAKI SOSA",
+   "camiseta": "9",
+   "minutos": "63"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65610",
+   "Jug_Sale": "LUCA GONZALEZ",
+   "CarneEntra": "64756",
+   "Jug_Entra": "FELIPE REINALDO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64381",
+   "Jug_Sale": "FACUNDO POTENZA",
+   "CarneEntra": "61927",
+   "Jug_Entra": "SANTIAGO BRUN",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65887",
+   "Jug_Sale": "FABRIZIO BISOGNO",
+   "CarneEntra": "68865",
+   "Jug_Entra": "MARTIN ASSIMONTTI",
+   "camiseta": "11",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "65718",
+   "Jug_Sale": "VICENTE VALENTIN VIERA",
+   "CarneEntra": "65615",
+   "Jug_Entra": "MAURIZIO XAVIER SORRONDEGUI",
+   "camiseta": "20",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "60764",
+   "Jug_Sale": "FACUNDO CARAMBULA",
+   "CarneEntra": "63514",
+   "Jug_Entra": "LUCAS TAROCO",
+   "camiseta": "44",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "61437",
+   "Jug_Sale": "MARTIN BREGSTEIN",
+   "CarneEntra": "68378",
+   "Jug_Entra": "SANTIAGO MATTERA",
+   "camiseta": "28",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "60475",
+   "Jug_Sale": "AGUSTIN ANTELO",
+   "CarneEntra": "64381",
+   "Jug_Entra": "FACUNDO POTENZA",
+   "camiseta": "79",
+   "minutos": "64"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "68376",
+   "Nombre": "JUAN IGNACIO MUÑOZ",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68376",
+   "Nombre": "JUAN IGNACIO MUÑOZ",
+   "minutos": "55",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

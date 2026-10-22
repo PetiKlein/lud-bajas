@@ -1,0 +1,281 @@
+{
+ "id": "102111",
+ "categoria": "presenior-e",
+ "serie": "PSETA",
+ "fecha": 3,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "OBC AZULGRANA",
+ "visitante": "CLUB RICHARD ANDERSON UNIV.",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "699",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PS DIV. E 1ªR COPA ORO",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-09-19 11:05:00",
+  "Fecha_fin": "2026-09-19 11:05:00",
+  "Locatario": "OBC AZULGRANA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB RICHARD ANDERSON UNIV.",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67090",
+   "Nombre": "MICHEL VOULMINOT",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26851",
+   "Nombre": "SANTIAGO STORACE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "26195",
+   "Nombre": "NICOLAS DEL CAMPO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "26564",
+   "Nombre": "DIEGO ABREU",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56579",
+   "Nombre": "SANTIAGO GORTARI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "29199",
+   "Nombre": "SANTIAGO RAUL MOLINARO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30817",
+   "Nombre": "GUZMAN PERERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "23712",
+   "Nombre": "DANIEL MATIAS GARAT",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "27175",
+   "Nombre": "FEDERICO SALHON",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "23969",
+   "Nombre": "ALFREDO OSCAR CAT",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48486",
+   "Nombre": "SANTIAGO MARIA FILIPPELLI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "33713",
+   "Nombre": "FERNANDO JOSE BARCALA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41257",
+   "Nombre": "DIEGO ANDRES ROCCA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "26708",
+   "Nombre": "FRANCISCO CALVIÑO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33116",
+   "Nombre": "GUILLERMO EDUARDO BELZA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "43161",
+   "Nombre": "JOSE LUIS FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "38345",
+   "Nombre": "IGNACIO DANIEL VARELA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "26753",
+   "Nombre": "DIEGO MARTIN RIENZI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "31708",
+   "Nombre": "DIEGO VELASCO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "31594",
+   "Nombre": "ALAN VACCARO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28100",
+   "Nombre": "ANDRES BUREL",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "30054",
+   "Nombre": "NICOLAS BARQUET",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48486",
+   "Jug_Sale": "SANTIAGO MARIA FILIPPELLI",
+   "CarneEntra": "26849",
+   "Jug_Entra": "SANTIAGO JAVIER HERBON",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26564",
+   "Jug_Sale": "DIEGO ABREU",
+   "CarneEntra": "52069",
+   "Jug_Entra": "PABLO VARELA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23712",
+   "Jug_Sale": "DANIEL MATIAS GARAT",
+   "CarneEntra": "67010",
+   "Jug_Entra": "DIEGO JUAN CAT",
+   "camiseta": "45",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "30817",
+   "Jug_Sale": "GUZMAN PERERA",
+   "CarneEntra": "58166",
+   "Jug_Entra": "JORGE AGUSTIN CAPURRO",
+   "camiseta": "23",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "30817",
+   "Jug_Sale": "GUZMAN PERERA",
+   "CarneEntra": "58166",
+   "Jug_Entra": "JORGE AGUSTIN CAPURRO",
+   "camiseta": "37",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "23969",
+   "Jug_Sale": "ALFREDO OSCAR CAT",
+   "CarneEntra": "42094",
+   "Jug_Entra": "MATIAS SANTIAGO BORDABERRY",
+   "camiseta": "3",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "27175",
+   "Jug_Sale": "FEDERICO SALHON",
+   "CarneEntra": "48486",
+   "Jug_Entra": "SANTIAGO MARIA FILIPPELLI",
+   "camiseta": "9",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33116",
+   "Jug_Sale": "GUILLERMO EDUARDO BELZA",
+   "CarneEntra": "38658",
+   "Jug_Entra": "GERMAN FERNANDEZ",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30054",
+   "Jug_Sale": "NICOLAS BARQUET",
+   "CarneEntra": "17456",
+   "Jug_Entra": "LAZARO GABRIEL CUNHA",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "38345",
+   "Jug_Sale": "IGNACIO DANIEL VARELA",
+   "CarneEntra": "30054",
+   "Jug_Entra": "NICOLAS BARQUET",
+   "camiseta": "2",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23969",
+   "Nombre": "ALFREDO OSCAR CAT",
+   "minutos": "2",
+   "EnContra": "0"
+  },
+  {
+   "carne": "26195",
+   "Nombre": "NICOLAS DEL CAMPO",
+   "minutos": "41",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31594",
+   "Nombre": "ALAN VACCARO",
+   "minutos": "30",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SANTIAGO STORACE",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

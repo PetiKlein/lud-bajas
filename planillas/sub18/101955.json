@@ -1,0 +1,252 @@
+{
+ "id": "101955",
+ "categoria": "sub18",
+ "serie": "18-12",
+ "fecha": 2,
+ "fechaHora": "2026-09-13 15:30:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "190",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 1 RUEDA 2",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-09-13 17:15:00",
+  "Fecha_fin": "2026-09-13 17:15:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "59057",
+   "Nombre": "LAUTARO ROMAN GALARRAGA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68108",
+   "Nombre": "GAEL MARQUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "64841",
+   "Nombre": "THIAGO DOMINGUEZ",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "69106",
+   "Nombre": "JUAN PABLO VIERA",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "64541",
+   "Nombre": "VALENTINO SANCHEZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "62764",
+   "Nombre": "PATRICIO TADEO LARROSA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "60545",
+   "Nombre": "TADEO ELIAS ORLANDO",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "68428",
+   "Nombre": "FRANCISCO VIDIELLA",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61855",
+   "Nombre": "LUCAS NAHUM SANTOS",
+   "camiseta": "63",
+   "Capitan": ""
+  },
+  {
+   "carne": "66333",
+   "Nombre": "EMILIANO SANCHEZ",
+   "camiseta": "59",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58980",
+   "Nombre": "MATEO PONCE DE LEON",
+   "camiseta": "78",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58845",
+   "Nombre": "JUAN ENRIQUE GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59753",
+   "Nombre": "MATIAS REVELLO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "59264",
+   "Nombre": "JUAN FRANCISCO JIMENEZ DE ARECHAGA",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "64307",
+   "Nombre": "VALENTIN GRUBITS",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "57678",
+   "Nombre": "MATIAS AGUSTIN ALVES",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "59473",
+   "Nombre": "SANTIAGO OUTERELO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "59109",
+   "Nombre": "SANTIAGO ALVAREZ",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "59474",
+   "Nombre": "AGUSTIN CHIAPPORI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62640",
+   "Nombre": "FRANCO ANDRES LOPEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61855",
+   "Jug_Sale": "LUCAS NAHUM SANTOS",
+   "CarneEntra": "69025",
+   "Jug_Entra": "BRUNO MELIAN",
+   "camiseta": "57",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "68108",
+   "Jug_Sale": "GAEL MARQUEZ",
+   "CarneEntra": "69024",
+   "Jug_Entra": "NAHUEL ORTIZ",
+   "camiseta": "51",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59473",
+   "Jug_Sale": "SANTIAGO OUTERELO",
+   "CarneEntra": "62937",
+   "Jug_Entra": "LEON PEDRO SCHILDE",
+   "camiseta": "23",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "59264",
+   "Jug_Sale": "JUAN FRANCISCO JIMENEZ DE ARECHAGA",
+   "CarneEntra": "64890",
+   "Jug_Entra": "MARTIN PONCE DE LEON",
+   "camiseta": "2",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "62640",
+   "Jug_Sale": "FRANCO ANDRES LOPEZ",
+   "CarneEntra": "68152",
+   "Jug_Entra": "LEANDRO FERNANDEZ",
+   "camiseta": "78",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "59474",
+   "Jug_Sale": "AGUSTIN CHIAPPORI",
+   "CarneEntra": "60486",
+   "Jug_Entra": "JUAN PEDRO ALVEZ",
+   "camiseta": "29",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "63461",
+   "Jug_Sale": "GUILLERMO SPILLER",
+   "CarneEntra": "56121",
+   "Jug_Entra": "TOMAS APRAHAMIAN",
+   "camiseta": "77",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "68428",
+   "Nombre": "FRANCISCO VIDIELLA",
+   "minutos": "81",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "88",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

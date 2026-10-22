@@ -1,0 +1,303 @@
+{
+ "id": "101455",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "SAN EUGENIO",
+ "local": "SAN EUGENIO",
+ "visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "332",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "SAN EUGENIO",
+  "Fecha_Inicio": "2026-09-05 11:00:00",
+  "Fecha_fin": "2026-09-05 11:00:00",
+  "Locatario": "SAN EUGENIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "19239",
+   "Nombre": "IGNACIO ROSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "47173",
+   "Nombre": "VICTOR SAMUEL VERA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "45452",
+   "Nombre": "MAURICIO NICOLAS BAUTISTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "20494",
+   "Nombre": "ANDRES GERMAN FERNANDEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "33921",
+   "Nombre": "FABIAN BRUNETTO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38266",
+   "Nombre": "ESTEBAN JAVIER GURUCEAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47960",
+   "Nombre": "FERNANDO DE LAS  LLANAS",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47307",
+   "Nombre": "LUIS ALEJANDRO AYALA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "52801",
+   "Nombre": "GABRIEL DE LAS LLANAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "46919",
+   "Nombre": "CESAR AUGUSTO MOROSOLES",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "62217",
+   "Nombre": "JUAN ARAUJO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "28357",
+   "Nombre": "MAURICIO FUENTES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66437",
+   "Nombre": "CHRISTIAN MAURICIO PORRAS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "66189",
+   "Nombre": "MARTIN BAGNASCO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "24797",
+   "Nombre": "SEBASTIAN CURBELO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "33056",
+   "Nombre": "PABLO PANTIN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "38777",
+   "Nombre": "LADARIO MARCELO DA ROSA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "26468",
+   "Nombre": "GIULIANO ROSSI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "65126",
+   "Nombre": "GONZALO JOEL ARANDA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "30934",
+   "Nombre": "NICOLAS MAXIMILIANO HERRERA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "18291",
+   "Nombre": "LEONARDO DANIEL FERNANDEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "33057",
+   "Nombre": "RUBEN LUIS BALERON",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45452",
+   "Jug_Sale": "MAURICIO NICOLAS BAUTISTA",
+   "CarneEntra": "57854",
+   "Jug_Entra": "LEONARDO BOVE",
+   "camiseta": "33",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "33921",
+   "Jug_Sale": "FABIAN BRUNETTO",
+   "CarneEntra": "37219",
+   "Jug_Entra": "GONZALO GURUCEAGA",
+   "camiseta": "92",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "57854",
+   "Jug_Sale": "LEONARDO BOVE",
+   "CarneEntra": "31347",
+   "Jug_Entra": "SERGIO EMILIANO CANDI",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38266",
+   "Jug_Sale": "ESTEBAN JAVIER GURUCEAGA",
+   "CarneEntra": "45423",
+   "Jug_Entra": "FELIPE DANIEL GONCALVES",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47173",
+   "Jug_Sale": "VICTOR SAMUEL VERA",
+   "CarneEntra": "59348",
+   "Jug_Entra": "MAURICIO TRAVERS",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52801",
+   "Jug_Sale": "GABRIEL DE LAS LLANAS",
+   "CarneEntra": "66648",
+   "Jug_Entra": "PATRICIO SAMUEL LAGUNA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46919",
+   "Jug_Sale": "CESAR AUGUSTO MOROSOLES",
+   "CarneEntra": "51342",
+   "Jug_Entra": "GONZALO MARTINEZ",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66648",
+   "Jug_Sale": "PATRICIO SAMUEL LAGUNA",
+   "CarneEntra": "59380",
+   "Jug_Entra": "CRISTIAN FLEITAS",
+   "camiseta": "30",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "62217",
+   "Jug_Sale": "JUAN ARAUJO",
+   "CarneEntra": "34511",
+   "Jug_Entra": "FEDERICO NICOLAS SILVA",
+   "camiseta": "19",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "51342",
+   "Jug_Sale": "GONZALO MARTINEZ",
+   "CarneEntra": "46919",
+   "Jug_Entra": "CESAR AUGUSTO MOROSOLES",
+   "camiseta": "96",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33056",
+   "Jug_Sale": "PABLO PANTIN",
+   "CarneEntra": "68997",
+   "Jug_Entra": "BRUNO NICOLAS CANCELA",
+   "camiseta": "32",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66437",
+   "Jug_Sale": "CHRISTIAN MAURICIO PORRAS",
+   "CarneEntra": "27331",
+   "Jug_Entra": "ALEJANDRO FABIAN GADEA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18291",
+   "Jug_Sale": "LEONARDO DANIEL FERNANDEZ",
+   "CarneEntra": "66451",
+   "Jug_Entra": "FEDERICO MATHIAS PERCOPO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33057",
+   "Jug_Sale": "RUBEN LUIS BALERON",
+   "CarneEntra": "29928",
+   "Jug_Entra": "AGUSTIN CURBELO",
+   "camiseta": "13",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "30934",
+   "Jug_Sale": "NICOLAS MAXIMILIANO HERRERA",
+   "CarneEntra": "66437",
+   "Jug_Entra": "CHRISTIAN MAURICIO PORRAS",
+   "camiseta": "26",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "38266",
+   "Nombre": "ESTEBAN JAVIER GURUCEAGA",
+   "minutos": "34",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

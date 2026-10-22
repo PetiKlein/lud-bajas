@@ -1,0 +1,302 @@
+{
+ "id": "100706",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 11,
+ "fechaHora": "2026-07-18 10:00:00",
+ "cancha": "LOS TEROS",
+ "local": "EL CHORRO FUTBOL CLUB",
+ "visitante": "SAN JUAN BAUTISTA",
+ "gl": 1,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "323",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "LOS TEROS",
+  "Fecha_Inicio": "2026-07-18 12:00:00",
+  "Fecha_fin": "2026-07-18 12:00:00",
+  "Locatario": "EL CHORRO FUTBOL CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SAN JUAN BAUTISTA",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "22201",
+   "Nombre": "ALEJANDRO CASABO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27948",
+   "Nombre": "FEDERICO BRUN",
+   "camiseta": "41",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "29760",
+   "Nombre": "SANTIAGO QUEIROLO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "31095",
+   "Nombre": "RODRIGO MIGUEL GOMEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "25837",
+   "Nombre": "VALENTIN MOSCONE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "27940",
+   "Nombre": "JOAQUIN GARAYALDE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "24512",
+   "Nombre": "ALVARO MARCELO BONILLA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "29665",
+   "Nombre": "FRANCISCO JAVIER LENGUAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "33095",
+   "Nombre": "MAURICIO BINNEWIES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "28130",
+   "Nombre": "JUAN MARTIN FIGUEREDO",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "47924",
+   "Nombre": "NICOLAS CARDOZO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "31579",
+   "Nombre": "MATIAS JAVIER GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "27951",
+   "Nombre": "JONATHAN FRANCISCO LEMOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "31343",
+   "Nombre": "JUAN FRANCISCO INSA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "41310",
+   "Nombre": "JORGE AGUSTIN VIZCAINO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "33796",
+   "Nombre": "HERNAN NUÑEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "16998",
+   "Nombre": "IGNACIO GRANDAL",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "41550",
+   "Nombre": "SEBASTIAN EIRALDI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "22171",
+   "Nombre": "MARTIN JAVIER SOSA",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "68241",
+   "Nombre": "JUAN PEDRO PACHECO",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "29760",
+   "Jug_Sale": "SANTIAGO QUEIROLO",
+   "CarneEntra": "33524",
+   "Jug_Entra": "NICOLAS CHIANCONE",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25837",
+   "Jug_Sale": "VALENTIN MOSCONE",
+   "CarneEntra": "24545",
+   "Jug_Entra": "GUZMAN NION",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24512",
+   "Jug_Sale": "ALVARO MARCELO BONILLA",
+   "CarneEntra": "16337",
+   "Jug_Entra": "NICOLAS RIENZI",
+   "camiseta": "50",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "31095",
+   "Jug_Sale": "RODRIGO MIGUEL GOMEZ",
+   "CarneEntra": "25395",
+   "Jug_Entra": "FEDERICO MATIAS BONILLA",
+   "camiseta": "40",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "29665",
+   "Jug_Sale": "FRANCISCO JAVIER LENGUAS",
+   "CarneEntra": "29666",
+   "Jug_Entra": "CARLOS AUGUSTO RYDSTROM",
+   "camiseta": "14",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "31343",
+   "Jug_Sale": "JUAN FRANCISCO INSA",
+   "CarneEntra": "18492",
+   "Jug_Entra": "LEANDRO MAGALLANES",
+   "camiseta": "4",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "27951",
+   "Jug_Sale": "JONATHAN FRANCISCO LEMOS",
+   "CarneEntra": "19891",
+   "Jug_Entra": "ANDRES LAMAS",
+   "camiseta": "39",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16998",
+   "Jug_Sale": "IGNACIO GRANDAL",
+   "CarneEntra": "31320",
+   "Jug_Entra": "SANTIAGO AGUSTIN OCHOA",
+   "camiseta": "8",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "41550",
+   "Jug_Sale": "SEBASTIAN EIRALDI",
+   "CarneEntra": "31447",
+   "Jug_Entra": "DAVID PEREZ",
+   "camiseta": "10",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "22171",
+   "Jug_Sale": "MARTIN JAVIER SOSA",
+   "CarneEntra": "38212",
+   "Jug_Entra": "NICOLAS AARON GRONDONA",
+   "camiseta": "33",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "32100",
+   "Jug_Sale": "FEDERICO FARACHIO",
+   "CarneEntra": "26703",
+   "Jug_Entra": "ANDRES CAZALES",
+   "camiseta": "9",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "30391",
+   "Nombre": "JUAN MIGUEL JAUME",
+   "minutos": "16",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "22171",
+   "Nombre": "MARTIN JAVIER SOSA",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "minutos": "20",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68241",
+   "Nombre": "JUAN PEDRO PACHECO",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68241",
+   "Nombre": "JUAN PEDRO PACHECO",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

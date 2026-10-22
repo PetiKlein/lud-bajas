@@ -1,0 +1,308 @@
+{
+ "id": "101434",
+ "categoria": "sub18",
+ "serie": "18-32",
+ "fecha": 5,
+ "fechaHora": "2026-09-02 19:30:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "DEPORTIVO MORON",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "260",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 3 RUEDA 2",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-09-02 21:25:00",
+  "Fecha_fin": "2026-09-02 21:25:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "DEPORTIVO MORON",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57786",
+   "Nombre": "FAUSTINO ARDITTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63144",
+   "Nombre": "DIEGO RAFAEL DECARLINI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64674",
+   "Nombre": "FRANCISCO TERRA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "62737",
+   "Nombre": "VALENTINO SPOSITO",
+   "camiseta": "29",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62744",
+   "Nombre": "FELIPE SARACCO",
+   "camiseta": "53",
+   "Capitan": ""
+  },
+  {
+   "carne": "61501",
+   "Nombre": "IGNACIO PARADA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "61096",
+   "Nombre": "TOMAS ARRIETA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "57605",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "56127",
+   "Nombre": "FELIPE CROCI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "63410",
+   "Nombre": "TOMAS GRUDZIEN",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "57593",
+   "Nombre": "GENARO DE MORI",
+   "camiseta": "38",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61996",
+   "Nombre": "JUAN MATEO MAGUNA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57778",
+   "Nombre": "MANUEL CAMPOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57790",
+   "Nombre": "FELIPE VALENTIN GARI",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "68022",
+   "Nombre": "FACUNDO SEBASTIAN VILLAGRAN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "58621",
+   "Nombre": "JUAN IGNACIO DUFFAU",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61144",
+   "Nombre": "FACUNDO LUIS D’AMICO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63643",
+   "Nombre": "MATEO FAULORD",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57780",
+   "Nombre": "DIEGO BETTINELLI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68258",
+   "Nombre": "MAXIMILIANO CUBA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "57779",
+   "Nombre": "NICOLAS LLANES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64944",
+   "Nombre": "VALENTINO DECIA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64674",
+   "Jug_Sale": "FRANCISCO TERRA",
+   "CarneEntra": "56869",
+   "Jug_Entra": "NICOLAS PODESTA",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62744",
+   "Jug_Sale": "FELIPE SARACCO",
+   "CarneEntra": "62734",
+   "Jug_Entra": "BALTAZAR FERRARO",
+   "camiseta": "48",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57605",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "60773",
+   "Jug_Entra": "ALFONSO SCHAICH",
+   "camiseta": "14",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "63144",
+   "Jug_Sale": "DIEGO RAFAEL DECARLINI",
+   "CarneEntra": "66376",
+   "Jug_Entra": "MANUEL DARIO ASENCIO",
+   "camiseta": "56",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56127",
+   "Jug_Sale": "FELIPE CROCI",
+   "CarneEntra": "67652",
+   "Jug_Entra": "FACUNDO PEREZ",
+   "camiseta": "61",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "57593",
+   "Jug_Sale": "GENARO DE MORI",
+   "CarneEntra": "61859",
+   "Jug_Entra": "JUAN SEGUNDO RODRIGUEZ",
+   "camiseta": "43",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63410",
+   "Jug_Sale": "TOMAS GRUDZIEN",
+   "CarneEntra": "62744",
+   "Jug_Entra": "FELIPE SARACCO",
+   "camiseta": "53",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57779",
+   "Jug_Sale": "NICOLAS LLANES",
+   "CarneEntra": "58771",
+   "Jug_Entra": "ALEJO RODRIGUEZ",
+   "camiseta": "4",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "61144",
+   "Jug_Sale": "FACUNDO LUIS D’AMICO",
+   "CarneEntra": "68658",
+   "Jug_Entra": "SANTINO GOMEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57778",
+   "Jug_Sale": "MANUEL CAMPOS",
+   "CarneEntra": "64207",
+   "Jug_Entra": "LAUTARO FABIAN LECUNA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57790",
+   "Jug_Sale": "FELIPE VALENTIN GARI",
+   "CarneEntra": "59260",
+   "Jug_Entra": "ALFONSO VERDUN",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57779",
+   "Jug_Sale": "NICOLAS LLANES",
+   "CarneEntra": "57774",
+   "Jug_Entra": "BRUNO SICA",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68258",
+   "Jug_Sale": "MAXIMILIANO CUBA",
+   "CarneEntra": "61144",
+   "Jug_Entra": "FACUNDO LUIS D’AMICO",
+   "camiseta": "5",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "68022",
+   "Jug_Sale": "FACUNDO SEBASTIAN VILLAGRAN",
+   "CarneEntra": "66111",
+   "Jug_Entra": "MATIAS PEPELESCOV",
+   "camiseta": "28",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "58621",
+   "Jug_Sale": "JUAN IGNACIO DUFFAU",
+   "CarneEntra": "58771",
+   "Jug_Entra": "ALEJO RODRIGUEZ",
+   "camiseta": "4",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56127",
+   "Nombre": "FELIPE CROCI",
+   "minutos": "14",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "VALENTINO SPOSITO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

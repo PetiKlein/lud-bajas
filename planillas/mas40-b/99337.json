@@ -1,0 +1,320 @@
+{
+ "id": "99337",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "SAN ISIDRO LOMAS",
+ "local": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "visitante": "CENTRO CRISTOBAL COLON",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "176",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "SAN ISIDRO LOMAS",
+  "Fecha_Inicio": "2026-05-30 00:00:00",
+  "Fecha_fin": "2026-05-30 00:00:00",
+  "Locatario": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "CENTRO CRISTOBAL COLON",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "19826",
+   "Nombre": "EMILIO MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44887",
+   "Nombre": "MATIAS SOSA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "16576",
+   "Nombre": "DIEGO ANDRES SOSA",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23102",
+   "Nombre": "MARCELO SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "25800",
+   "Nombre": "FERNANDO TOSCANO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63687",
+   "Nombre": "NICOLAS OMAR MICHELENA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "16845",
+   "Nombre": "DIEGO JAVIER MARTINEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "25593",
+   "Nombre": "FELIX GABRIEL BELLOMO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "24009",
+   "Nombre": "FEDERICO GABRIEL WILKINS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63523",
+   "Nombre": "NESTOR ATILIO MONTIEL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "14531",
+   "Nombre": "JAVIER GERARDO GARRE",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "28787",
+   "Nombre": "GABRIEL OSVALDO CHAVES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "9934",
+   "Nombre": "MARTIN ALEJANDRO MENDEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "12416",
+   "Nombre": "CHRISTIAN ANDRES ALCORTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "15663",
+   "Nombre": "JUAN FRANCISCO FRUGONI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "24886",
+   "Nombre": "SEBASTIAN SCATTONE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "11891",
+   "Nombre": "RAFAEL ALVARO MANCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42067",
+   "Nombre": "GUILLERMO NICOLAS FOSSA",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "19015",
+   "Nombre": "PABLO ANDRES ALDAYA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "28443",
+   "Nombre": "VICENTE FAVIO GIUDICE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "27238",
+   "Nombre": "MAURICIO ACOSTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "39726",
+   "Nombre": "FEDERICO ROBERTO CHAVES",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "16576",
+   "Jug_Sale": "DIEGO ANDRES SOSA",
+   "CarneEntra": "63876",
+   "Jug_Entra": "LUIS DARIO DAVILA",
+   "camiseta": "18",
+   "minutos": "22"
+  },
+  {
+   "CarneSale": "63523",
+   "Jug_Sale": "NESTOR ATILIO MONTIEL",
+   "CarneEntra": "67721",
+   "Jug_Entra": "SERGIO GABRIEL TARALLO",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23102",
+   "Jug_Sale": "MARCELO SOSA",
+   "CarneEntra": "15545",
+   "Jug_Entra": "WILSON MARIANO FONSECA",
+   "camiseta": "23",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "24009",
+   "Jug_Sale": "FEDERICO GABRIEL WILKINS",
+   "CarneEntra": "68438",
+   "Jug_Entra": "CARLOS HIGINIO BARRETO",
+   "camiseta": "26",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "25800",
+   "Jug_Sale": "FERNANDO TOSCANO",
+   "CarneEntra": "67717",
+   "Jug_Entra": "DARIO FLORES",
+   "camiseta": "15",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "16845",
+   "Jug_Sale": "DIEGO JAVIER MARTINEZ",
+   "CarneEntra": "67720",
+   "Jug_Entra": "CARLOS ADRIAN ROBAINA",
+   "camiseta": "6",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "14531",
+   "Jug_Sale": "JAVIER GERARDO GARRE",
+   "CarneEntra": "19855",
+   "Jug_Entra": "ANGEL ENRIQUE PERDOMO",
+   "camiseta": "31",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67721",
+   "Jug_Sale": "SERGIO GABRIEL TARALLO",
+   "CarneEntra": "16576",
+   "Jug_Entra": "DIEGO ANDRES SOSA",
+   "camiseta": "22",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "11891",
+   "Jug_Sale": "RAFAEL ALVARO MANCINI",
+   "CarneEntra": "17856",
+   "Jug_Entra": "ANDRES MARTINEZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24886",
+   "Jug_Sale": "SEBASTIAN SCATTONE",
+   "CarneEntra": "24892",
+   "Jug_Entra": "JULIO CESAR HERRERA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "12416",
+   "Jug_Sale": "CHRISTIAN ANDRES ALCORTA",
+   "CarneEntra": "38406",
+   "Jug_Entra": "JOEL EDUARDO PEIRANO",
+   "camiseta": "52",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "9934",
+   "Jug_Sale": "MARTIN ALEJANDRO MENDEZ",
+   "CarneEntra": "66858",
+   "Jug_Entra": "JUAN PABLO VALENTINI",
+   "camiseta": "51",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42067",
+   "Jug_Sale": "GUILLERMO NICOLAS FOSSA",
+   "CarneEntra": "54620",
+   "Jug_Entra": "HAMILTON BERNARDO TOURON",
+   "camiseta": "18",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "28443",
+   "Jug_Sale": "VICENTE FAVIO GIUDICE",
+   "CarneEntra": "24886",
+   "Jug_Entra": "SEBASTIAN SCATTONE",
+   "camiseta": "7",
+   "minutos": "68"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63687",
+   "Nombre": "NICOLAS OMAR MICHELENA",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63876",
+   "Nombre": "LUIS DARIO DAVILA",
+   "minutos": "77",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63876",
+   "Nombre": "LUIS DARIO DAVILA",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67717",
+   "Nombre": "DARIO FLORES",
+   "minutos": "56",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "39726",
+   "Nombre": "FEDERICO ROBERTO CHAVES",
+   "minutos": "58",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

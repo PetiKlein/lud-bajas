@@ -1,0 +1,308 @@
+{
+ "id": "98294",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 1,
+ "fechaHora": "2026-04-19 13:30:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 3,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "4",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-04-19 15:10:00",
+  "Fecha_fin": "2026-04-19 15:10:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60380",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65352",
+   "Nombre": "FELIPE GEREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61544",
+   "Nombre": "SANTINO CASTELLI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67651",
+   "Nombre": "BENJAMIN TRICOTTI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64303",
+   "Nombre": "MATIAS OLARAN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64297",
+   "Nombre": "LUCA MATEO ARDID",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "65284",
+   "Nombre": "SEBASTIAN ALONSO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64052",
+   "Nombre": "NICOLAS VALENTINO IFRAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67075",
+   "Nombre": "NAEL GARCIA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62926",
+   "Nombre": "DIEGO GUIRADO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64328",
+   "Nombre": "LORENZO BRUNO PEZZANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65916",
+   "Nombre": "EMILIANO PUJADAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64890",
+   "Nombre": "MARTIN PONCE DE LEON",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66945",
+   "Nombre": "FACUNDO PERERA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62937",
+   "Nombre": "LEON PEDRO SCHILDE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63038",
+   "Nombre": "FELIPE LIGÜERA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64330",
+   "Nombre": "BAUTISTA TRIGO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67406",
+   "Nombre": "BAUTISTA APRAHAMIAN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "60486",
+   "Nombre": "JUAN PEDRO ALVEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67075",
+   "Jug_Sale": "NAEL GARCIA",
+   "CarneEntra": "64051",
+   "Jug_Entra": "JUAN MANUEL SOSA",
+   "camiseta": "9",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "62926",
+   "Jug_Sale": "DIEGO GUIRADO",
+   "CarneEntra": "65298",
+   "Jug_Entra": "NAHUEL CARMINATI",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65284",
+   "Jug_Sale": "SEBASTIAN ALONSO",
+   "CarneEntra": "67868",
+   "Jug_Entra": "SANTIAGO MORAES",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67651",
+   "Jug_Sale": "BENJAMIN TRICOTTI",
+   "CarneEntra": "64314",
+   "Jug_Entra": "SANTIAGO MANUEL RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "64303",
+   "Jug_Sale": "MATIAS OLARAN",
+   "CarneEntra": "67077",
+   "Jug_Entra": "MAXIMILIANO ANDRES ACOSTA",
+   "camiseta": "18",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67406",
+   "Jug_Sale": "BAUTISTA APRAHAMIAN",
+   "CarneEntra": "67409",
+   "Jug_Entra": "ALEJO CONDE",
+   "camiseta": "70",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64890",
+   "Jug_Sale": "MARTIN PONCE DE LEON",
+   "CarneEntra": "68188",
+   "Jug_Entra": "JUAN CRUZ BENKO",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62937",
+   "Jug_Sale": "LEON PEDRO SCHILDE",
+   "CarneEntra": "66948",
+   "Jug_Entra": "FACUNDO RADESCA",
+   "camiseta": "80",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "66945",
+   "Jug_Sale": "FACUNDO PERERA",
+   "CarneEntra": "65257",
+   "Jug_Entra": "FACUNDO QUEIROLO",
+   "camiseta": "82",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "60486",
+   "Jug_Sale": "JUAN PEDRO ALVEZ",
+   "CarneEntra": "64890",
+   "Jug_Entra": "MARTIN PONCE DE LEON",
+   "camiseta": "3",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "66950",
+   "Jug_Sale": "FRANCISCO CHIAPPORI",
+   "CarneEntra": "63383",
+   "Jug_Entra": "JOSE MANUEL HERRERA",
+   "camiseta": "92",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "minutos": "67",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65298",
+   "Nombre": "NAHUEL CARMINATI",
+   "minutos": "63",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "34",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64330",
+   "Nombre": "BAUTISTA TRIGO",
+   "minutos": "29",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64330",
+   "Nombre": "BAUTISTA TRIGO",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

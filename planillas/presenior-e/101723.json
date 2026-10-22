@@ -1,0 +1,268 @@
+{
+ "id": "101723",
+ "categoria": "presenior-e",
+ "serie": "PSEB",
+ "fecha": 3,
+ "fechaHora": "2026-09-08 21:00:00",
+ "cancha": "COMPL. DEP. RIVER PLATE",
+ "local": "SUDAMERICA UNIVERSITARIO",
+ "visitante": "RIVER PLATE UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "741",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PS DIV.E 1ªR COPA BRONCE",
+  "Cancha": "COMPL. DEP. RIVER PLATE",
+  "Fecha_Inicio": "2026-09-08 23:00:00",
+  "Fecha_fin": "2026-09-08 23:00:00",
+  "Locatario": "SUDAMERICA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "RIVER PLATE UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "33106",
+   "Nombre": "MAXIMILIANO ADRIAN DUTRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "43631",
+   "Nombre": "JUAN ANDRES ORTUZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "55726",
+   "Nombre": "CESAR MIJAIL BARRETO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "65094",
+   "Nombre": "ALDO MARTIN BALDI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58148",
+   "Nombre": "LEANDRO NICOLAS VIERA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "41872",
+   "Nombre": "FACUNDO SILVERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63371",
+   "Nombre": "NICOLAS GRANJA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "40257",
+   "Nombre": "ROQUE MARTIN ANDRADA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "40236",
+   "Nombre": "SANTIAGO MARTINEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56528",
+   "Nombre": "SANTIAGO NICOLAS BARRIOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54112",
+   "Nombre": "ARIEL FRANCISCO ACOSTA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29363",
+   "Nombre": "RAFAEL ENRIQUE PERDOMO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "51396",
+   "Nombre": "GONZALO ZEBALLOS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "42401",
+   "Nombre": "DIEGO PABLO FACELLO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61117",
+   "Nombre": "FABIAN REDIN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "43305",
+   "Nombre": "FABRIZIO GONZALEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61035",
+   "Nombre": "DIEGO NICOLAS GUASTAVINO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "43293",
+   "Nombre": "FABIAN SERVETTI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "34843",
+   "Nombre": "DIEGO FERNANDO CHRISTOPH",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67042",
+   "Nombre": "ANDRES PASSADORE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "33795",
+   "Nombre": "EMILIANO DOMINGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67488",
+   "Nombre": "CESAR EMILIANO FALCO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "40236",
+   "Jug_Sale": "SANTIAGO MARTINEZ",
+   "CarneEntra": "65094",
+   "Jug_Entra": "ALDO MARTIN BALDI",
+   "camiseta": "17",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "65094",
+   "Jug_Sale": "ALDO MARTIN BALDI",
+   "CarneEntra": "53819",
+   "Jug_Entra": "CHRISTIAN DAMIAN TECHERA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58148",
+   "Jug_Sale": "LEANDRO NICOLAS VIERA",
+   "CarneEntra": "43636",
+   "Jug_Entra": "JOAQUIN CORREA",
+   "camiseta": "7",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "43305",
+   "Jug_Sale": "FABRIZIO GONZALEZ",
+   "CarneEntra": "48296",
+   "Jug_Entra": "GUSTAVO MARTIN ANSELMI",
+   "camiseta": "15",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "61117",
+   "Jug_Sale": "FABIAN REDIN",
+   "CarneEntra": "52815",
+   "Jug_Entra": "LUIS MATHIAS RODRIGUES",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34843",
+   "Jug_Sale": "DIEGO FERNANDO CHRISTOPH",
+   "CarneEntra": "64493",
+   "Jug_Entra": "JONATHAN EMANUEL ALFONSO",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67042",
+   "Jug_Sale": "ANDRES PASSADORE",
+   "CarneEntra": "21571",
+   "Jug_Entra": "GABRIEL SUAREZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33795",
+   "Jug_Sale": "EMILIANO DOMINGUEZ",
+   "CarneEntra": "26052",
+   "Jug_Entra": "PABLO SEBASTIAN FERNANDEZ",
+   "camiseta": "0",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "67488",
+   "Jug_Sale": "CESAR EMILIANO FALCO",
+   "CarneEntra": "22451",
+   "Jug_Entra": "JUAN PABLO BUELA",
+   "camiseta": "9",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "41872",
+   "Nombre": "FACUNDO SILVERA",
+   "minutos": "67",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "26052",
+   "Nombre": "PABLO SEBASTIAN FERNANDEZ",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61035",
+   "Nombre": "DIEGO NICOLAS GUASTAVINO",
+   "minutos": "55",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

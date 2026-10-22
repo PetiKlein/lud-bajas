@@ -1,0 +1,300 @@
+{
+ "id": "99350",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "DEPORTIVO MATADERO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "55",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-30 10:50:00",
+  "Fecha_fin": "2026-05-30 10:50:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "DEPORTIVO MATADERO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "33263",
+   "Nombre": "ALEJANDRO NICOLAS FRIGERIO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "19371",
+   "Nombre": "JOSE IGNACIO LAMANNA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "20820",
+   "Nombre": "GABRIEL ALEJANDRO PAISAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "24529",
+   "Nombre": "MARTIN MARTINEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "19590",
+   "Nombre": "GONZALO RAUL MANGADO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58329",
+   "Nombre": "FEDERICO DAMIAN RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "26401",
+   "Nombre": "GONZALO DANIEL ROMITTI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "20507",
+   "Nombre": "MARCELO FERNANDEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "22982",
+   "Nombre": "JUAN ANDRES LAMANNA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "30484",
+   "Nombre": "DIEGO LOPEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "22421",
+   "Nombre": "GERMAN DANIEL INDERKUM",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "14102",
+   "Nombre": "MARTIN RIVERA BARREIRO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "14985",
+   "Nombre": "DIEGO PEDRO GARATEGUY",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "16461",
+   "Nombre": "MIGUEL ANGEL SEDANO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "23812",
+   "Nombre": "YAMANDU DELGADO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "14177",
+   "Nombre": "GUILLERMO GONZALEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "22623",
+   "Nombre": "SANTIAGO GOMEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "16398",
+   "Nombre": "FEDERICO SILVESTRI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "16615",
+   "Nombre": "JUAN ROBKIN",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "23151",
+   "Nombre": "MAURICIO REYMUNDE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "26827",
+   "Nombre": "JOSE MARIA BLANCO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "26974",
+   "Nombre": "MATEO CARMONA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26401",
+   "Jug_Sale": "GONZALO DANIEL ROMITTI",
+   "CarneEntra": "62022",
+   "Jug_Entra": "MAURICIO ANTONIO DURAND",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19590",
+   "Jug_Sale": "GONZALO RAUL MANGADO",
+   "CarneEntra": "22455",
+   "Jug_Entra": "GONZALO GAMBETTA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20507",
+   "Jug_Sale": "MARCELO FERNANDEZ",
+   "CarneEntra": "22401",
+   "Jug_Entra": "GUILLERMO RAFFO",
+   "camiseta": "37",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "30484",
+   "Jug_Sale": "DIEGO LOPEZ",
+   "CarneEntra": "45371",
+   "Jug_Entra": "IGNACIO JAVIER ZAMBRA",
+   "camiseta": "9",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "14985",
+   "Jug_Sale": "DIEGO PEDRO GARATEGUY",
+   "CarneEntra": "20435",
+   "Jug_Entra": "IGNACIO JOSE GONZALEZ",
+   "camiseta": "35",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16398",
+   "Jug_Sale": "FEDERICO SILVESTRI",
+   "CarneEntra": "16852",
+   "Jug_Entra": "BRUNO SPINELLI",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16615",
+   "Jug_Sale": "JUAN ROBKIN",
+   "CarneEntra": "26951",
+   "Jug_Entra": "JOAQUIN CALERO",
+   "camiseta": "39",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26974",
+   "Jug_Sale": "MATEO CARMONA",
+   "CarneEntra": "22388",
+   "Jug_Entra": "AGUSTIN DANIEL OTADUY",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26827",
+   "Jug_Sale": "JOSE MARIA BLANCO",
+   "CarneEntra": "10682",
+   "Jug_Entra": "RODRIGO ASTIAZARAN",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23151",
+   "Jug_Sale": "MAURICIO REYMUNDE",
+   "CarneEntra": "25738",
+   "Jug_Entra": "FLAVIO AUGUSTO GAI",
+   "camiseta": "3",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "22623",
+   "Jug_Sale": "SANTIAGO GOMEZ",
+   "CarneEntra": "61016",
+   "Jug_Entra": "CARLOS FEDERICO NAPOLI",
+   "camiseta": "43",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "10682",
+   "Jug_Sale": "RODRIGO ASTIAZARAN",
+   "CarneEntra": "12613",
+   "Jug_Entra": "JOSE IGNACIO MIGNONE",
+   "camiseta": "14",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "23812",
+   "Jug_Sale": "YAMANDU DELGADO",
+   "CarneEntra": "16398",
+   "Jug_Entra": "FEDERICO SILVESTRI",
+   "camiseta": "11",
+   "minutos": "35"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "24529",
+   "Nombre": "MARTIN MARTINEZ",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58329",
+   "Nombre": "FEDERICO DAMIAN RODRIGUEZ",
+   "minutos": "67",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "26951",
+   "Nombre": "JOAQUIN CALERO",
+   "minutos": "94",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

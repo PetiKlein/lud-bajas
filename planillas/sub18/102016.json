@@ -1,0 +1,307 @@
+{
+ "id": "102016",
+ "categoria": "sub18",
+ "serie": "18-42",
+ "fecha": 2,
+ "fechaHora": "2026-09-17 20:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "SEMINARIO UNIVERSITARIO",
+ "visitante": "ACADEMIA FRM",
+ "gl": 4,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "276",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 4 RUEDA 2",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-09-17 21:45:00",
+  "Fecha_fin": "2026-09-17 21:45:00",
+  "Locatario": "SEMINARIO UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "ACADEMIA FRM",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64440",
+   "Nombre": "JUAN MANUEL CHIRIBAO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62032",
+   "Nombre": "PEDRO NOVOA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67728",
+   "Nombre": "EMILIANO MASSAFERRO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "58835",
+   "Nombre": "MATEO NAOR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62031",
+   "Nombre": "JUAN PEDRO GARCIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68922",
+   "Nombre": "BRUNO MIETTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58834",
+   "Nombre": "FEDERICO ELISSALDE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "62163",
+   "Nombre": "JUAN JUSTO TRUJILLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59084",
+   "Nombre": "JUAN CRUZ ALVAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62034",
+   "Nombre": "FELIPE ALEJANDRO MORALES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63299",
+   "Nombre": "JOAQUIN SANTIAGO",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "69017",
+   "Nombre": "FEDERICO ROBERTO RECOBA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65530",
+   "Nombre": "JUAN PABLO ORREGO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59062",
+   "Nombre": "MARTIN ANDRES ALBORNOZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68967",
+   "Nombre": "PABLO GABRIEL RODRIGUEZ",
+   "camiseta": "34",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68966",
+   "Nombre": "ALAN TRUJILLO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "64806",
+   "Nombre": "JOAQUIN NAHUEL AQUINO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "66352",
+   "Nombre": "SEBASTIAN AGUIRRE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65771",
+   "Nombre": "SANTIAGO MATEO VENTURELLI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62765",
+   "Nombre": "BENJAMIN DELGADO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "69091",
+   "Nombre": "JUAN SAAVEDRA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "61372",
+   "Nombre": "BRYAN ALEXANDER BAGNASCO",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67728",
+   "Jug_Sale": "EMILIANO MASSAFERRO",
+   "CarneEntra": "62169",
+   "Jug_Entra": "BAUTISTA WINS",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68922",
+   "Jug_Sale": "BRUNO MIETTO",
+   "CarneEntra": "63120",
+   "Jug_Entra": "MANUEL LORENZO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62031",
+   "Jug_Sale": "JUAN PEDRO GARCIA",
+   "CarneEntra": "62173",
+   "Jug_Entra": "GUILLERMO PAEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63299",
+   "Jug_Sale": "JOAQUIN SANTIAGO",
+   "CarneEntra": "62177",
+   "Jug_Entra": "JUAN PEDRO CARVALHO",
+   "camiseta": "18",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "62163",
+   "Jug_Sale": "JUAN JUSTO TRUJILLO",
+   "CarneEntra": "62174",
+   "Jug_Entra": "VALENTINO VIÑAS",
+   "camiseta": "20",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "62034",
+   "Jug_Sale": "FELIPE ALEJANDRO MORALES",
+   "CarneEntra": "62163",
+   "Jug_Entra": "JUAN JUSTO TRUJILLO",
+   "camiseta": "8",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68966",
+   "Jug_Sale": "ALAN TRUJILLO",
+   "CarneEntra": "60306",
+   "Jug_Entra": "BRUNO ANTONIO TORRES",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66352",
+   "Jug_Sale": "SEBASTIAN AGUIRRE",
+   "CarneEntra": "68756",
+   "Jug_Entra": "FRANCO BACIGALUPO",
+   "camiseta": "66",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "59062",
+   "Jug_Sale": "MARTIN ANDRES ALBORNOZ",
+   "CarneEntra": "68598",
+   "Jug_Entra": "MATEO ABREU",
+   "camiseta": "28",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "61372",
+   "Jug_Sale": "BRYAN ALEXANDER BAGNASCO",
+   "CarneEntra": "66352",
+   "Jug_Entra": "SEBASTIAN AGUIRRE",
+   "camiseta": "2",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "68967",
+   "Jug_Sale": "PABLO GABRIEL RODRIGUEZ",
+   "CarneEntra": "68601",
+   "Jug_Entra": "LUCIANO ANTONIO SILVERA",
+   "camiseta": "27",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "69091",
+   "Jug_Sale": "JUAN SAAVEDRA",
+   "CarneEntra": "68966",
+   "Jug_Entra": "ALAN TRUJILLO",
+   "camiseta": "25",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62163",
+   "Nombre": "JUAN JUSTO TRUJILLO",
+   "minutos": "8",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62163",
+   "Nombre": "JUAN JUSTO TRUJILLO",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62177",
+   "Nombre": "JUAN PEDRO CARVALHO",
+   "minutos": "86",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63299",
+   "Nombre": "JOAQUIN SANTIAGO",
+   "minutos": "7",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN CRUZ ALVAREZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "BENJAMIN DELGADO",
+   "observaciones": ""
+  }
+ ]
+}

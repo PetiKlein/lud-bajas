@@ -1,0 +1,292 @@
+{
+ "id": "101440",
+ "categoria": "sub16",
+ "serie": "16-42",
+ "fecha": 6,
+ "fechaHora": "2026-09-03 19:30:00",
+ "cancha": "SPORT 11",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "ACADEMIA FRM",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "245",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 4 RUEDA 2",
+  "Cancha": "SPORT 11",
+  "Fecha_Inicio": "2026-09-03 21:15:00",
+  "Fecha_fin": "2026-09-03 21:15:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "ACADEMIA FRM",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68250",
+   "Nombre": "IGNACIO SANGUINETTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68044",
+   "Nombre": "FRANCISCO DAVID ROSANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "66536",
+   "Nombre": "JOAQUIN SOSA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68934",
+   "Nombre": "THIAGO EMILIANO ALMARA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68788",
+   "Nombre": "ENZO EMILIANO FRAYGOLA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68249",
+   "Nombre": "BAUTISTA SANTIAGO CABRERA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67167",
+   "Nombre": "GERONIMO GHISLIERI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66790",
+   "Nombre": "BRUNO ROMERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62955",
+   "Nombre": "LAUTARO BENJAMIN DI GENOVA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60541",
+   "Nombre": "CAMILO ENRIQUE ALEGARI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "66931",
+   "Nombre": "SANTIAGO NICOLAS PEÑA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61085",
+   "Nombre": "FABRIZIO PERRONE",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64940",
+   "Nombre": "FACUNDO EMANUEL PEGORRARO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "65504",
+   "Nombre": "THIAGO ALVAREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65501",
+   "Nombre": "SANTIAGO CORREA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64946",
+   "Nombre": "MATEO NODAR",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "65506",
+   "Nombre": "BENJAMIN MARQUICIO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "63864",
+   "Nombre": "ELIAS TIMOTEO DA SILVA",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "62765",
+   "Nombre": "BENJAMIN DELGADO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68706",
+   "Nombre": "IGNACIO PEREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64943",
+   "Nombre": "JUAN MARTIN BANINA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "63498",
+   "Nombre": "BRUNO SOUZA",
+   "camiseta": "74",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60541",
+   "Jug_Sale": "CAMILO ENRIQUE ALEGARI",
+   "CarneEntra": "65791",
+   "Jug_Entra": "BENJAMIN MARTINEZ",
+   "camiseta": "4",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "68934",
+   "Jug_Sale": "THIAGO EMILIANO ALMARA",
+   "CarneEntra": "69080",
+   "Jug_Entra": "EMANUEL RIVAS",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68249",
+   "Jug_Sale": "BAUTISTA SANTIAGO CABRERA",
+   "CarneEntra": "60541",
+   "Jug_Entra": "CAMILO ENRIQUE ALEGARI",
+   "camiseta": "27",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62955",
+   "Jug_Sale": "LAUTARO BENJAMIN DI GENOVA",
+   "CarneEntra": "68934",
+   "Jug_Entra": "THIAGO EMILIANO ALMARA",
+   "camiseta": "9",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "68788",
+   "Jug_Sale": "ENZO EMILIANO FRAYGOLA",
+   "CarneEntra": "68249",
+   "Jug_Entra": "BAUTISTA SANTIAGO CABRERA",
+   "camiseta": "15",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64946",
+   "Jug_Sale": "MATEO NODAR",
+   "CarneEntra": "68598",
+   "Jug_Entra": "MATEO ABREU",
+   "camiseta": "28",
+   "minutos": "19"
+  },
+  {
+   "CarneSale": "68706",
+   "Jug_Sale": "IGNACIO PEREZ",
+   "CarneEntra": "69017",
+   "Jug_Entra": "FEDERICO ROBERTO RECOBA",
+   "camiseta": "49",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63498",
+   "Jug_Sale": "BRUNO SOUZA",
+   "CarneEntra": "65655",
+   "Jug_Entra": "DAVID NICOLAS MORENO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63864",
+   "Jug_Sale": "ELIAS TIMOTEO DA SILVA",
+   "CarneEntra": "68127",
+   "Jug_Entra": "ALEJO EZEQUIEL LEFKO",
+   "camiseta": "22",
+   "minutos": "19"
+  },
+  {
+   "CarneSale": "65506",
+   "Jug_Sale": "BENJAMIN MARQUICIO",
+   "CarneEntra": "65657",
+   "Jug_Entra": "MATIAS OXANDABARAT",
+   "camiseta": "18",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "64943",
+   "Jug_Sale": "JUAN MARTIN BANINA",
+   "CarneEntra": "69018",
+   "Jug_Entra": "AARON NICOLAS GARCIA",
+   "camiseta": "99",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "68706",
+   "Jug_Sale": "IGNACIO PEREZ",
+   "CarneEntra": "60548",
+   "Jug_Entra": "JOAQUIN SCHICKE",
+   "camiseta": "90",
+   "minutos": "31"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66790",
+   "Nombre": "BRUNO ROMERO",
+   "minutos": "63",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66790",
+   "Nombre": "BRUNO ROMERO",
+   "minutos": "83",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63498",
+   "Nombre": "BRUNO SOUZA",
+   "minutos": "19",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,266 @@
+{
+ "id": "102807",
+ "categoria": "sub16",
+ "serie": "16-42",
+ "fecha": 4,
+ "fechaHora": "2026-10-11 13:30:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "PELOTA AL MEDIO UNIVERSITARIO",
+ "visitante": "ACADEMIA FRM",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "238",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 4 RUEDA 2",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-10-11 15:10:00",
+  "Fecha_fin": "2026-10-11 15:10:00",
+  "Locatario": "PELOTA AL MEDIO UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "ACADEMIA FRM",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64810",
+   "Nombre": "DAMIAN PICASSO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65865",
+   "Nombre": "JOAQUIN RAMOS",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67821",
+   "Nombre": "EMILIANO FABRICIO ABRINES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67831",
+   "Nombre": "ISMAEL PERDOMO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67814",
+   "Nombre": "LUCA  MARTIN PASTORINO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "63467",
+   "Nombre": "PABLO BESTRICOV",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67822",
+   "Nombre": "JOAQUIN ANDRES BELLO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67811",
+   "Nombre": "MATIAS ALEJANDRO ROJAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67813",
+   "Nombre": "JONATHAN BENJAMIN RIVERO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67820",
+   "Nombre": "DYLAN ALEXANDER VIERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67818",
+   "Nombre": "LUCIANO AGUSTIN FUQUES",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61085",
+   "Nombre": "FABRIZIO PERRONE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68602",
+   "Nombre": "NATHAN JOAQUIN HERNANDEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63864",
+   "Nombre": "ELIAS TIMOTEO DA SILVA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "65501",
+   "Nombre": "SANTIAGO CORREA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65504",
+   "Nombre": "THIAGO ALVAREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64940",
+   "Nombre": "FACUNDO EMANUEL PEGORRARO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64946",
+   "Nombre": "MATEO NODAR",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "68599",
+   "Nombre": "FEDERICO GABRIEL GACEL",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "65502",
+   "Nombre": "MAXIMO CANO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "64943",
+   "Nombre": "JUAN MARTIN BANINA",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61168",
+   "Nombre": "LAUTARO BASTOS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67811",
+   "Jug_Sale": "MATIAS ALEJANDRO ROJAS",
+   "CarneEntra": "67815",
+   "Jug_Entra": "ALAN SEBASTIAN CASTELLANOS",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64810",
+   "Jug_Sale": "DAMIAN PICASSO",
+   "CarneEntra": "67805",
+   "Jug_Entra": "RODRIGO IPARRAGUIRRE",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67818",
+   "Jug_Sale": "LUCIANO AGUSTIN FUQUES",
+   "CarneEntra": "66085",
+   "Jug_Entra": "EZEQUIEL SERGIO SILVEIRA",
+   "camiseta": "5",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67820",
+   "Jug_Sale": "DYLAN ALEXANDER VIERA",
+   "CarneEntra": "67819",
+   "Jug_Entra": "MATEO CALAGUY",
+   "camiseta": "9",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61168",
+   "Jug_Sale": "LAUTARO BASTOS",
+   "CarneEntra": "69018",
+   "Jug_Entra": "AARON NICOLAS GARCIA",
+   "camiseta": "99",
+   "minutos": "22"
+  },
+  {
+   "CarneSale": "69018",
+   "Jug_Sale": "AARON NICOLAS GARCIA",
+   "CarneEntra": "61168",
+   "Jug_Entra": "LAUTARO BASTOS",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65502",
+   "Jug_Sale": "MAXIMO CANO",
+   "CarneEntra": "69018",
+   "Jug_Entra": "AARON NICOLAS GARCIA",
+   "camiseta": "99",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "68602",
+   "Jug_Sale": "NATHAN JOAQUIN HERNANDEZ",
+   "CarneEntra": "65502",
+   "Jug_Entra": "MAXIMO CANO",
+   "camiseta": "29",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67818",
+   "Nombre": "LUCIANO AGUSTIN FUQUES",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67820",
+   "Nombre": "DYLAN ALEXANDER VIERA",
+   "minutos": "22",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63864",
+   "Nombre": "ELIAS TIMOTEO DA SILVA",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64943",
+   "Nombre": "JUAN MARTIN BANINA",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

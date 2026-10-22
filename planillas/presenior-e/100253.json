@@ -1,0 +1,302 @@
+{
+ "id": "100253",
+ "categoria": "presenior-e",
+ "serie": "PSE2",
+ "fecha": 4,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO ABUA",
+ "local": "CLUB ATLETICO BELLA VISTA",
+ "visitante": "CLUB ATLETICO AGUADA",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "541",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 2",
+  "Cancha": "COMPLEJO ABUA",
+  "Fecha_Inicio": "2026-06-20 13:05:00",
+  "Fecha_fin": "2026-06-20 13:05:00",
+  "Locatario": "CLUB ATLETICO BELLA VISTA",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ATLETICO AGUADA",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "46952",
+   "Nombre": "NICOLAS DAMIAN PEREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "41862",
+   "Nombre": "JORGE LEONARDO SILVA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "44644",
+   "Nombre": "DIEGO MARTIN HERNANDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "28445",
+   "Nombre": "MICHEL DAVID FOUCADE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66313",
+   "Nombre": "MARTIN NOBILE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "21350",
+   "Nombre": "VALERIO NICOLAS RIVERO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37979",
+   "Nombre": "FABIAN ANDRES BAVA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "25160",
+   "Nombre": "MATHIAS DUARTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "38650",
+   "Nombre": "MARCELO NICOLAS ROSSI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "35062",
+   "Nombre": "GUILLERMO CHRISTIAN SÖRENSEN",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67698",
+   "Nombre": "CARLOS DANIEL PINTOS",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "27765",
+   "Nombre": "RODRIGO GRILLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36896",
+   "Nombre": "JUAN IGNACIO PEYRO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "28132",
+   "Nombre": "MARTIN ECHEGARAY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "39203",
+   "Nombre": "ANDRY WAY RUIZ DIAZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51188",
+   "Nombre": "FACUNDO MARTIN DIAZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "32733",
+   "Nombre": "RAMIRO DE LA PUENTE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "33312",
+   "Nombre": "HERNAN RUMBO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54433",
+   "Nombre": "GONZALO GRILLE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "37270",
+   "Nombre": "LEONARDO MAURICIO RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "31934",
+   "Nombre": "JAVIER ANDRES GARCIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "24851",
+   "Nombre": "DANIEL ECHAGARAY",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41862",
+   "Jug_Sale": "JORGE LEONARDO SILVA",
+   "CarneEntra": "38441",
+   "Jug_Entra": "JUAN IGNACIO JAIMES",
+   "camiseta": "14",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "66313",
+   "Jug_Sale": "MARTIN NOBILE",
+   "CarneEntra": "38650",
+   "Jug_Entra": "MARCELO NICOLAS ROSSI",
+   "camiseta": "9",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "67698",
+   "Jug_Sale": "CARLOS DANIEL PINTOS",
+   "CarneEntra": "48956",
+   "Jug_Entra": "CLAUDIO ANDRES MARTINEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28445",
+   "Jug_Sale": "MICHEL DAVID FOUCADE",
+   "CarneEntra": "35095",
+   "Jug_Entra": "MILTON NICOLAS SÖRENSEN",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38650",
+   "Jug_Sale": "MARCELO NICOLAS ROSSI",
+   "CarneEntra": "45617",
+   "Jug_Entra": "FACUNDO MARCELO BARBERO",
+   "camiseta": "20",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "31934",
+   "Jug_Sale": "JAVIER ANDRES GARCIA",
+   "CarneEntra": "65002",
+   "Jug_Entra": "LESTER DIAZ",
+   "camiseta": "6",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "36896",
+   "Jug_Sale": "JUAN IGNACIO PEYRO",
+   "CarneEntra": "65351",
+   "Jug_Entra": "CARLOS MAURICIO GONZALEZ",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51188",
+   "Jug_Sale": "FACUNDO MARTIN DIAZ",
+   "CarneEntra": "28276",
+   "Jug_Entra": "DIEGO MARTIN GUTIERREZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37270",
+   "Jug_Sale": "LEONARDO MAURICIO RODRIGUEZ",
+   "CarneEntra": "50541",
+   "Jug_Entra": "MARCELO JUNIOR FERNANDEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32733",
+   "Jug_Sale": "RAMIRO DE LA PUENTE",
+   "CarneEntra": "39202",
+   "Jug_Entra": "MATIAS ALEJANDRO PEDROZO",
+   "camiseta": "17",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "39203",
+   "Jug_Sale": "ANDRY WAY RUIZ DIAZ",
+   "CarneEntra": "67854",
+   "Jug_Entra": "SANTIAGO RAMIREZ",
+   "camiseta": "3",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35062",
+   "Nombre": "GUILLERMO CHRISTIAN SÖRENSEN",
+   "minutos": "79",
+   "EnContra": "0"
+  },
+  {
+   "carne": "37979",
+   "Nombre": "FABIAN ANDRES BAVA",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "24851",
+   "Nombre": "DANIEL ECHAGARAY",
+   "minutos": "54",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32733",
+   "Nombre": "RAMIRO DE LA PUENTE",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54433",
+   "Nombre": "GONZALO GRILLE",
+   "minutos": "12",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54433",
+   "Nombre": "GONZALO GRILLE",
+   "minutos": "22",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

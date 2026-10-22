@@ -1,0 +1,240 @@
+{
+ "id": "102040",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "SANDY FUTBOL",
+ "local": "RESISTENCIA",
+ "visitante": "CLUB SOCIAL PIEDRAS BLANCAS",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "231",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "SANDY FUTBOL",
+  "Fecha_Inicio": "2026-09-19 11:00:00",
+  "Fecha_fin": "2026-09-19 11:00:00",
+  "Locatario": "RESISTENCIA",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "CLUB SOCIAL PIEDRAS BLANCAS",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31507",
+   "Nombre": "JOAQUIN BADO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "26846",
+   "Nombre": "RODRIGO ROCHA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "25142",
+   "Nombre": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "23532",
+   "Nombre": "RODRIGO IBACETA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "23452",
+   "Nombre": "IGNACIO SPANGENBERG",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53274",
+   "Nombre": "FACUNDO JOSE MELGAR",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "28831",
+   "Nombre": "JOSE IGNACIO SANCHEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "27616",
+   "Nombre": "FEDERICO ANDRES LANZA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "26796",
+   "Nombre": "IGNACIO CURTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "33675",
+   "Nombre": "RICARDO FABIAN PEREYRA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "34966",
+   "Nombre": "DIEGO RODOLFO DO AMARAL",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50276",
+   "Nombre": "MARCELO SEBASTIAN DE NOBREGA SOBRINHO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "53960",
+   "Nombre": "FERNANDO MARTIN BUDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "36581",
+   "Nombre": "MARTIN ROBERTO BUENO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "50012",
+   "Nombre": "PABLO SERGIO MARTINEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "50185",
+   "Nombre": "NICOLAS GERMAN MUCHA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "33737",
+   "Nombre": "GUSTAVO DANIEL TARAMASCO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "58815",
+   "Nombre": "WLATER DIEGO AYALA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53274",
+   "Jug_Sale": "FACUNDO JOSE MELGAR",
+   "CarneEntra": "26679",
+   "Jug_Entra": "PABLO FREIRE",
+   "camiseta": "50",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "28831",
+   "Jug_Sale": "JOSE IGNACIO SANCHEZ",
+   "CarneEntra": "27066",
+   "Jug_Entra": "SANTIAGO JULIAN LAGOMARSINO",
+   "camiseta": "22",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "23452",
+   "Jug_Sale": "IGNACIO SPANGENBERG",
+   "CarneEntra": "23840",
+   "Jug_Entra": "RODRIGO AÑON",
+   "camiseta": "29",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "23532",
+   "Jug_Sale": "RODRIGO IBACETA",
+   "CarneEntra": "49856",
+   "Jug_Entra": "MAURICIO JAVIER DAL MONTE",
+   "camiseta": "6",
+   "minutos": "91"
+  },
+  {
+   "CarneSale": "26846",
+   "Jug_Sale": "RODRIGO ROCHA",
+   "CarneEntra": "24175",
+   "Jug_Entra": "LUCAS METHOL",
+   "camiseta": "4",
+   "minutos": "41"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "50276",
+   "Jug_Sale": "MARCELO SEBASTIAN DE NOBREGA SOBRINHO",
+   "CarneEntra": "33668",
+   "Jug_Entra": "MATIAS NICOLAS DUARTE",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53960",
+   "Jug_Sale": "FERNANDO MARTIN BUDEZ",
+   "CarneEntra": "35718",
+   "Jug_Entra": "ANDRES LUCIO CASTIGLIA",
+   "camiseta": "90",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "33737",
+   "Jug_Sale": "GUSTAVO DANIEL TARAMASCO",
+   "CarneEntra": "43644",
+   "Jug_Entra": "ALFREDO PAIVA",
+   "camiseta": "10",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

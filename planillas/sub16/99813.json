@@ -1,0 +1,245 @@
+{
+ "id": "99813",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 13:30:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "DEPORTIVO LS UNIVERSITARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "25",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-06-07 15:30:00",
+  "Fecha_fin": "2026-06-07 15:30:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64544",
+   "Nombre": "JOAQUIN SEBASTIAN MEDINA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64535",
+   "Nombre": "GONZALO ARCAUS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "68163",
+   "Nombre": "LAUTARO ERVIN KRUGER",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67313",
+   "Nombre": "LAUTARO SALVARREY",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "camiseta": "61",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64541",
+   "Nombre": "VALENTINO SANCHEZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "64534",
+   "Nombre": "JORDAN SANTIAGO BORBA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "65250",
+   "Nombre": "MARIANO ESTRELLA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64841",
+   "Nombre": "THIAGO DOMINGUEZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "63362",
+   "Nombre": "TOMAS VALENTINO MARRONE",
+   "camiseta": "41",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61727",
+   "Nombre": "BRUNO FERRARO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61544",
+   "Nombre": "SANTINO CASTELLI",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65352",
+   "Nombre": "FELIPE GEREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64051",
+   "Nombre": "JUAN MANUEL SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64303",
+   "Nombre": "MATIAS OLARAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64297",
+   "Nombre": "LUCA MATEO ARDID",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "65284",
+   "Nombre": "SEBASTIAN ALONSO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64314",
+   "Nombre": "SANTIAGO MANUEL RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62926",
+   "Nombre": "DIEGO GUIRADO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65350",
+   "Nombre": "VALENTIN RUIZ",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68163",
+   "Jug_Sale": "LAUTARO ERVIN KRUGER",
+   "CarneEntra": "60542",
+   "Jug_Entra": "ALEJO BALESTRA",
+   "camiseta": "45",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "64841",
+   "Jug_Sale": "THIAGO DOMINGUEZ",
+   "CarneEntra": "65792",
+   "Jug_Entra": "JOAQUIN NICOLAS RECAETA",
+   "camiseta": "56",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65250",
+   "Jug_Sale": "MARIANO ESTRELLA",
+   "CarneEntra": "60538",
+   "Jug_Entra": "RODRIGO BIANCO",
+   "camiseta": "48",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65284",
+   "Jug_Sale": "SEBASTIAN ALONSO",
+   "CarneEntra": "66426",
+   "Jug_Entra": "LUCAS ROSA",
+   "camiseta": "29",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62926",
+   "Jug_Sale": "DIEGO GUIRADO",
+   "CarneEntra": "65298",
+   "Jug_Entra": "NAHUEL CARMINATI",
+   "camiseta": "25",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "65350",
+   "Jug_Sale": "VALENTIN RUIZ",
+   "CarneEntra": "67075",
+   "Jug_Entra": "NAEL GARCIA",
+   "camiseta": "92",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "65298",
+   "Jug_Sale": "NAHUEL CARMINATI",
+   "CarneEntra": "62893",
+   "Jug_Entra": "AGUSTIN FERNANDEZ",
+   "camiseta": "20",
+   "minutos": "63"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "minutos": "15",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64314",
+   "Nombre": "SANTIAGO MANUEL RODRIGUEZ",
+   "minutos": "42",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,206 @@
+{
+ "id": "100215",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "CLUB ESTUDIANTES INGENIERIA",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "313",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-20 10:55:00",
+  "Fecha_fin": "2026-06-20 10:55:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "26521",
+   "Nombre": "SEBASTIAN DE AZPITARTE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27970",
+   "Nombre": "FELIPE GIRIBALDI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "36830",
+   "Nombre": "MARIO ANDRES ORTIZ",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27399",
+   "Nombre": "JOAQUIN PASQUET",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "26675",
+   "Nombre": "MATIAS ALONSO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "27930",
+   "Nombre": "SANTIAGO DE AZPITARTE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "23517",
+   "Nombre": "ALEXANDER REINER KOSSMANN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "28376",
+   "Nombre": "JUAN MANUEL ROMERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "29507",
+   "Nombre": "ANTONIO SOTO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38064",
+   "Nombre": "TEOFILO SCHAICH",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "28020",
+   "Nombre": "JOAQUIN JOSE CURA",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "55641",
+   "Nombre": "ISAIAS ARIEL SOSA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "40498",
+   "Nombre": "FEDERICO AGUSTIN GARCIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "34745",
+   "Nombre": "LUIS ALFREDO LEON",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61597",
+   "Nombre": "ENZO RAUL VIERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66821",
+   "Nombre": "BRAIAN EDUARDO GODOY",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "23106",
+   "Nombre": "GASTON ZABALZA",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31094",
+   "Nombre": "MARCIO NICOLAS GRAÑA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66822",
+   "Nombre": "DEYVIS ANDRES OROFINO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "44166",
+   "Nombre": "BRUNO GONZALEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "34719",
+   "Nombre": "RICARDO NICOLAS RIBERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "36718",
+   "Nombre": "HECTOR NICOLAS CASTRO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27930",
+   "Jug_Sale": "SANTIAGO DE AZPITARTE",
+   "CarneEntra": "16297",
+   "Jug_Entra": "SEBASTIAN SCHWENGEL",
+   "camiseta": "8",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "28376",
+   "Jug_Sale": "JUAN MANUEL ROMERO",
+   "CarneEntra": "27493",
+   "Jug_Entra": "JUAN FRANCISCO ZORZIN",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27399",
+   "Jug_Sale": "JOAQUIN PASQUET",
+   "CarneEntra": "27973",
+   "Jug_Entra": "GONZALO ANDRES NAHUM",
+   "camiseta": "23",
+   "minutos": "71"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "27930",
+   "Nombre": "SANTIAGO DE AZPITARTE",
+   "minutos": "33",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,230 @@
+{
+ "id": "102717",
+ "categoria": "presenior-b",
+ "serie": "PSBTA",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "J.M.L.M",
+ "visitante": "RESISTENCIA",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "843",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"B\" TIT. y ASC",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-10-10 11:00:00",
+  "Fecha_fin": "2026-10-10 11:00:00",
+  "Locatario": "J.M.L.M",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "RESISTENCIA",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "22739",
+   "Nombre": "GUZMAN PANARIO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "27760",
+   "Nombre": "MARTIN ERNESTO TRAMBAUER",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "37709",
+   "Nombre": "GONZALO GUBITOSI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "32286",
+   "Nombre": "GONZALO VICTOR VEGA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "24864",
+   "Nombre": "FACUNDO ALVAREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "33275",
+   "Nombre": "MATIAS ERNESTO RANIERI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "27261",
+   "Nombre": "DIEGO MATIAS RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "42577",
+   "Nombre": "IGNACIO CHRISTOPHERSEN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26579",
+   "Nombre": "JUAN PABLO DELOR",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28338",
+   "Nombre": "SANTIAGO MEDEIROS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "27121",
+   "Nombre": "JUAN JOSE CASTRO",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26846",
+   "Nombre": "RODRIGO ROCHA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "23452",
+   "Nombre": "IGNACIO SPANGENBERG",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "23532",
+   "Nombre": "RODRIGO IBACETA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26679",
+   "Nombre": "PABLO FREIRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "25142",
+   "Nombre": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "31507",
+   "Nombre": "JOAQUIN BADO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28831",
+   "Nombre": "JOSE IGNACIO SANCHEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "33275",
+   "Jug_Sale": "MATIAS ERNESTO RANIERI",
+   "CarneEntra": "39051",
+   "Jug_Entra": "CARLOS GANDULIA",
+   "camiseta": "25",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "28338",
+   "Jug_Sale": "SANTIAGO MEDEIROS",
+   "CarneEntra": "26696",
+   "Jug_Entra": "SEBASTIAN PABLO ELHORDOY",
+   "camiseta": "9",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "27121",
+   "Jug_Sale": "JUAN JOSE CASTRO",
+   "CarneEntra": "42933",
+   "Jug_Entra": "RODRIGO GONZALO SICA",
+   "camiseta": "20",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "23456",
+   "Jug_Sale": "SERGIO SEBASTIAN MATTOS",
+   "CarneEntra": "22462",
+   "Jug_Entra": "PEDRO CAPRANI",
+   "camiseta": "14",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "28831",
+   "Jug_Sale": "JOSE IGNACIO SANCHEZ",
+   "CarneEntra": "24879",
+   "Jug_Entra": "DIEGO NICOLAS RIOLFO",
+   "camiseta": "18",
+   "minutos": "60"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "33275",
+   "Nombre": "MATIAS ERNESTO RANIERI",
+   "minutos": "48",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31507",
+   "Nombre": "JOAQUIN BADO",
+   "minutos": "8",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

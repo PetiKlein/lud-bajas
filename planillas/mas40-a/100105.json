@@ -1,0 +1,295 @@
+{
+ "id": "100105",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 09:00:00",
+ "cancha": "COMPLEJO LOS CARDALES",
+ "local": "CENTRO GALLEGO",
+ "visitante": "CIRCULO DE TENIS MONTEVIDEO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "68",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO LOS CARDALES",
+  "Fecha_Inicio": "2026-06-13 00:00:00",
+  "Fecha_fin": "2026-06-13 00:00:00",
+  "Locatario": "CENTRO GALLEGO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23721",
+   "Nombre": "RODRIGO ALVAREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "20965",
+   "Nombre": "RODRIGO AUGUSTO MARTINEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35089",
+   "Nombre": "PABLO SEBASTIAN CASTRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "17905",
+   "Nombre": "GUILLERMO FEDERICO FUENTES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "19234",
+   "Nombre": "GABRIEL FAGETTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "25625",
+   "Nombre": "DIEGO WALTER ROCHA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58918",
+   "Nombre": "JOSE  LUIS SMITH",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "21126",
+   "Nombre": "SEBASTIAN MANGGINI",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "22333",
+   "Nombre": "LEANDRO GASTON NUÑEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "22483",
+   "Nombre": "EMILIO MANUEL RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68777",
+   "Nombre": "FRANCISCO JAVIER BECERRA",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29565",
+   "Nombre": "CARLOS WILFREDO ANDRIOLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27725",
+   "Nombre": "ALEJANDRO VERNENGO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "18904",
+   "Nombre": "FEDERICO BICCHIERAI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "18914",
+   "Nombre": "FEDERICO JAVIER AICARDI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "28701",
+   "Nombre": "RICHARD JESUS LERETE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "18894",
+   "Nombre": "IGNACIO ROBERTO DE MULA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "21536",
+   "Nombre": "FRANCISCO SEBASTIAN FRONTINI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "14617",
+   "Nombre": "OSMAR DARIO MUÑOZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20545",
+   "Nombre": "EDUARDO GIORDANO SANGUINETTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "20885",
+   "Nombre": "BRUNO ELIS VERNASSA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "19586",
+   "Nombre": "FEDERICO REYES",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "20965",
+   "Jug_Sale": "RODRIGO AUGUSTO MARTINEZ",
+   "CarneEntra": "42268",
+   "Jug_Entra": "LUIS EMILIO OLIARI",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21126",
+   "Jug_Sale": "SEBASTIAN MANGGINI",
+   "CarneEntra": "21130",
+   "Jug_Entra": "DIEGO ARTIGAS OLAZABAL",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25625",
+   "Jug_Sale": "DIEGO WALTER ROCHA",
+   "CarneEntra": "20965",
+   "Jug_Entra": "RODRIGO AUGUSTO MARTINEZ",
+   "camiseta": "19",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "22333",
+   "Jug_Sale": "LEANDRO GASTON NUÑEZ",
+   "CarneEntra": "21126",
+   "Jug_Entra": "SEBASTIAN MANGGINI",
+   "camiseta": "44",
+   "minutos": "12"
+  },
+  {
+   "CarneSale": "22333",
+   "Jug_Sale": "LEANDRO GASTON NUÑEZ",
+   "CarneEntra": "21126",
+   "Jug_Entra": "SEBASTIAN MANGGINI",
+   "camiseta": "44",
+   "minutos": "12"
+  },
+  {
+   "CarneSale": "68777",
+   "Jug_Sale": "FRANCISCO JAVIER BECERRA",
+   "CarneEntra": "32161",
+   "Jug_Entra": "DIEGO SEBASTIAN ROSSI",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "17905",
+   "Jug_Sale": "GUILLERMO FEDERICO FUENTES",
+   "CarneEntra": "22333",
+   "Jug_Entra": "LEANDRO GASTON NUÑEZ",
+   "camiseta": "7",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "19234",
+   "Jug_Sale": "GABRIEL FAGETTI",
+   "CarneEntra": "68777",
+   "Jug_Entra": "FRANCISCO JAVIER BECERRA",
+   "camiseta": "18",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "19586",
+   "Jug_Sale": "FEDERICO REYES",
+   "CarneEntra": "31040",
+   "Jug_Entra": "JUAN PEDRO CID DE LA PAZ",
+   "camiseta": "24",
+   "minutos": "12"
+  },
+  {
+   "CarneSale": "18904",
+   "Jug_Sale": "FEDERICO BICCHIERAI",
+   "CarneEntra": "40599",
+   "Jug_Entra": "FEDERICO ANTONIO LOVESIO",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31040",
+   "Jug_Sale": "JUAN PEDRO CID DE LA PAZ",
+   "CarneEntra": "16276",
+   "Jug_Entra": "JUAN MIGUEL REYES",
+   "camiseta": "22",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "20885",
+   "Jug_Sale": "BRUNO ELIS VERNASSA",
+   "CarneEntra": "19945",
+   "Jug_Entra": "MARCELO CID DE LA PAZ",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "40599",
+   "Jug_Sale": "FEDERICO ANTONIO LOVESIO",
+   "CarneEntra": "16705",
+   "Jug_Entra": "YOHAN GASTON VILLAGRAN",
+   "camiseta": "18",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "20545",
+   "Jug_Sale": "EDUARDO GIORDANO SANGUINETTI",
+   "CarneEntra": "31040",
+   "Jug_Entra": "JUAN PEDRO CID DE LA PAZ",
+   "camiseta": "24",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "14617",
+   "Nombre": "OSMAR DARIO MUÑOZ",
+   "minutos": "14",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,291 @@
+{
+ "id": "101980",
+ "categoria": "sub16",
+ "serie": "16-12",
+ "fecha": 2,
+ "fechaHora": "2026-09-13 13:30:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "146",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 1 RUEDA 2",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-09-13 15:15:00",
+  "Fecha_fin": "2026-09-13 15:15:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60380",
+   "Nombre": "MANUEL FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "61544",
+   "Nombre": "SANTINO CASTELLI",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64303",
+   "Nombre": "MATIAS OLARAN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "65352",
+   "Nombre": "FELIPE GEREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64314",
+   "Nombre": "SANTIAGO MANUEL RODRIGUEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "63049",
+   "Nombre": "EMILIANO MACIEL",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "64297",
+   "Nombre": "LUCA MATEO ARDID",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64051",
+   "Nombre": "JUAN MANUEL SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65350",
+   "Nombre": "VALENTIN RUIZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67871",
+   "Nombre": "MATEO EZEQUIEL PAGUA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60587",
+   "Nombre": "LEONEL GERONIMO SINFUENTES",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "67902",
+   "Nombre": "JUAN BAUTISTA GONZALEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68809",
+   "Nombre": "SANTIAGO BENITEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67896",
+   "Nombre": "MATEO HERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "67898",
+   "Nombre": "MATHIAS MANUEL SALDAÑA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "68277",
+   "Nombre": "VALENTINO LOPEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65248",
+   "Nombre": "TIZIANO RAMOS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65243",
+   "Nombre": "BAUTISTA LABORDE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67900",
+   "Nombre": "NICOLAS CAPORALE",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "66828",
+   "Nombre": "JUAN MARTIN BELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62252",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65350",
+   "Jug_Sale": "VALENTIN RUIZ",
+   "CarneEntra": "67075",
+   "Jug_Entra": "NAEL GARCIA",
+   "camiseta": "19",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "64051",
+   "Jug_Sale": "JUAN MANUEL SOSA",
+   "CarneEntra": "67868",
+   "Jug_Entra": "SANTIAGO MORAES",
+   "camiseta": "22",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "67075",
+   "Jug_Sale": "NAEL GARCIA",
+   "CarneEntra": "62926",
+   "Jug_Entra": "DIEGO GUIRADO",
+   "camiseta": "13",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66828",
+   "Jug_Sale": "JUAN MARTIN BELLO",
+   "CarneEntra": "67845",
+   "Jug_Entra": "BENJAMIN TORRES",
+   "camiseta": "91",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "65248",
+   "Jug_Sale": "TIZIANO RAMOS",
+   "CarneEntra": "69127",
+   "Jug_Entra": "FRANCO EZEQUIEL RODRIGUEZ",
+   "camiseta": "51",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62252",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "64456",
+   "Jug_Entra": "GIANLUCA IORLANO",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60587",
+   "Jug_Sale": "LEONEL GERONIMO SINFUENTES",
+   "CarneEntra": "67901",
+   "Jug_Entra": "MATEO CHAVES",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67896",
+   "Jug_Sale": "MATEO HERNANDEZ",
+   "CarneEntra": "62250",
+   "Jug_Entra": "JUSTINO QUINTERO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67900",
+   "Jug_Sale": "NICOLAS CAPORALE",
+   "CarneEntra": "69072",
+   "Jug_Entra": "JUAN MANUEL GOMEZ",
+   "camiseta": "41",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "68277",
+   "Jug_Sale": "VALENTINO LOPEZ",
+   "CarneEntra": "60587",
+   "Jug_Entra": "LEONEL GERONIMO SINFUENTES",
+   "camiseta": "89",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "68809",
+   "Jug_Sale": "SANTIAGO BENITEZ",
+   "CarneEntra": "62483",
+   "Jug_Entra": "JUAN IGNACIO FREGUEIRO",
+   "camiseta": "15",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "67898",
+   "Jug_Sale": "MATHIAS MANUEL SALDAÑA",
+   "CarneEntra": "65450",
+   "Jug_Entra": "RAMIRO BOO",
+   "camiseta": "18",
+   "minutos": "69"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "66828",
+   "Nombre": "JUAN MARTIN BELLO",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67845",
+   "Nombre": "BENJAMIN TORRES",
+   "minutos": "74",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67900",
+   "Nombre": "NICOLAS CAPORALE",
+   "minutos": "26",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

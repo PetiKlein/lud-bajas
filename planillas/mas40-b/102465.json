@@ -1,0 +1,286 @@
+{
+ "id": "102465",
+ "categoria": "mas40-b",
+ "serie": "40CB",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "()",
+ "local": "ESPARTA UNIVERSITARIO",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "465",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAS40 \"B\" TIT. y ASC.",
+  "Cancha": "()",
+  "Fecha_Inicio": "2026-10-03 11:00:00",
+  "Fecha_fin": "2026-10-03 11:00:00",
+  "Locatario": "ESPARTA UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23421",
+   "Nombre": "WALTER DANIEL BORIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24641",
+   "Nombre": "FERNANDO CARLOS GAMARRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "24476",
+   "Nombre": "ANDRES MARIO ICHAZO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "15676",
+   "Nombre": "PABLO JAVIER REBOLLO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37622",
+   "Nombre": "CARLOS EDUARDO SILVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "9767",
+   "Nombre": "GUSTAVO ANIBAL LORDA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67253",
+   "Nombre": "ANDRES SEBASTIAN MANEIRO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "16619",
+   "Nombre": "ANDRES DELLEPIANE",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "19918",
+   "Nombre": "SERGIO MARTIN VENTOSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "38910",
+   "Nombre": "ROBERTO MIGUEL VILLAGRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "20876",
+   "Nombre": "ALEJANDRO BALAZSI",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "14645",
+   "Nombre": "PABLO ALBERTO FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35270",
+   "Nombre": "WALTER GIANNI BALDASSARI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "18843",
+   "Nombre": "WILLIAM GONZALEZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20702",
+   "Nombre": "JOSE LUIS TRIGO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "66926",
+   "Nombre": "PABLO SEBASTIAN RADÜNZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "23153",
+   "Nombre": "FABIAN VICTOR CORE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "17488",
+   "Nombre": "GABRIEL ALEJANDRO PALLEIRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "19281",
+   "Nombre": "GABRIEL COPELOTTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "21796",
+   "Nombre": "GUILLERMO FEDERICO URAN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "58590",
+   "Nombre": "DIEGO FERREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66325",
+   "Nombre": "JUAN CARLOS MARTINS",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "9767",
+   "Jug_Sale": "GUSTAVO ANIBAL LORDA",
+   "CarneEntra": "59922",
+   "Jug_Entra": "PABLO ANDRES FILIPPINI",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16619",
+   "Jug_Sale": "ANDRES DELLEPIANE",
+   "CarneEntra": "20916",
+   "Jug_Entra": "MAXIMILIANO ANDRES VIERA",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24641",
+   "Jug_Sale": "FERNANDO CARLOS GAMARRA",
+   "CarneEntra": "16619",
+   "Jug_Entra": "ANDRES DELLEPIANE",
+   "camiseta": "26",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "20876",
+   "Jug_Sale": "ALEJANDRO BALAZSI",
+   "CarneEntra": "9767",
+   "Jug_Entra": "GUSTAVO ANIBAL LORDA",
+   "camiseta": "7",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "37622",
+   "Jug_Sale": "CARLOS EDUARDO SILVA",
+   "CarneEntra": "20876",
+   "Jug_Entra": "ALEJANDRO BALAZSI",
+   "camiseta": "15",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "23153",
+   "Jug_Sale": "FABIAN VICTOR CORE",
+   "CarneEntra": "27591",
+   "Jug_Entra": "ROBERT MILTON ESPEL",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66926",
+   "Jug_Sale": "PABLO SEBASTIAN RADÜNZ",
+   "CarneEntra": "12708",
+   "Jug_Entra": "ERNESTO PIERINO DE MELLO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35270",
+   "Jug_Sale": "WALTER GIANNI BALDASSARI",
+   "CarneEntra": "39707",
+   "Jug_Entra": "EDUARDO FABIAN BURGOS",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17488",
+   "Jug_Sale": "GABRIEL ALEJANDRO PALLEIRO",
+   "CarneEntra": "17384",
+   "Jug_Entra": "DIEGO PERDOMO",
+   "camiseta": "22",
+   "minutos": "40"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "19918",
+   "Nombre": "SERGIO MARTIN VENTOSO",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "20876",
+   "Nombre": "ALEJANDRO BALAZSI",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "24641",
+   "Nombre": "FERNANDO CARLOS GAMARRA",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38910",
+   "Nombre": "ROBERTO MIGUEL VILLAGRA",
+   "minutos": "85",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67253",
+   "Nombre": "ANDRES SEBASTIAN MANEIRO",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58590",
+   "Nombre": "DIEGO FERREIRA",
+   "minutos": "79",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

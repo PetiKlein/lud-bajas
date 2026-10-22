@@ -1,0 +1,238 @@
+{
+ "id": "100975",
+ "categoria": "sub16",
+ "serie": "16-32",
+ "fecha": 5,
+ "fechaHora": "2026-08-16 13:30:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "DEPORTIVO MORON",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "215",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 3 RUEDA 2",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-08-16 00:00:00",
+  "Fecha_fin": "2026-08-16 00:00:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "DEPORTIVO MORON",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61771",
+   "Nombre": "FILIPPO DE MORI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62741",
+   "Nombre": "PEDRO MIGNONE",
+   "camiseta": "60",
+   "Capitan": ""
+  },
+  {
+   "carne": "63921",
+   "Nombre": "JOAQUIN ZUBILLAGA",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "63920",
+   "Nombre": "FELIPE ZUBILLAGA",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "63942",
+   "Nombre": "SANTINO MORISIO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "65044",
+   "Nombre": "NICOLAS CUELLO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "62740",
+   "Nombre": "FELIPE CLEMENT",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63037",
+   "Nombre": "NICOLAS SZAMES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64007",
+   "Nombre": "LAUTARO FERNANDEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64793",
+   "Nombre": "MATIAS VOULMINOT",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "63918",
+   "Nombre": "FELIPE MORIS",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66405",
+   "Nombre": "FRANCO CHIAPPE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63588",
+   "Nombre": "JUAN IGNACIO RAIMONDO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "62923",
+   "Nombre": "FRANCISCO CROSSA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61458",
+   "Nombre": "GERONIMO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62261",
+   "Nombre": "LUCIANO BUTTERI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66816",
+   "Nombre": "IGNACIO GALIZIA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61560",
+   "Nombre": "ANTONIO CARVALLIDO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61993",
+   "Nombre": "JOAQUIN PEREYRA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61494",
+   "Nombre": "BAUTISTA MIRABAL",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66678",
+   "Nombre": "FABIO ALEXANDER SUREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67862",
+   "Nombre": "LAUTARO GASTON GIORDANO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62740",
+   "Jug_Sale": "FELIPE CLEMENT",
+   "CarneEntra": "65573",
+   "Jug_Entra": "BENJAMIN ALISKEVICH",
+   "camiseta": "61",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "63037",
+   "Jug_Sale": "NICOLAS SZAMES",
+   "CarneEntra": "66320",
+   "Jug_Entra": "BENJAMIN GRUDZIEN",
+   "camiseta": "66",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "63921",
+   "Jug_Sale": "JOAQUIN ZUBILLAGA",
+   "CarneEntra": "62740",
+   "Jug_Entra": "FELIPE CLEMENT",
+   "camiseta": "31",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61993",
+   "Jug_Sale": "JOAQUIN PEREYRA",
+   "CarneEntra": "67492",
+   "Jug_Entra": "EZEQUIEL PERDOMO",
+   "camiseta": "13",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "61494",
+   "Jug_Sale": "BAUTISTA MIRABAL",
+   "CarneEntra": "63468",
+   "Jug_Entra": "JOAQUIN LASARTE",
+   "camiseta": "14",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "61458",
+   "Jug_Sale": "GERONIMO RODRIGUEZ",
+   "CarneEntra": "67864",
+   "Jug_Entra": "TOMAS FERRANDO",
+   "camiseta": "25",
+   "minutos": "66"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61771",
+   "Nombre": "FILIPPO DE MORI",
+   "minutos": "1",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61560",
+   "Nombre": "ANTONIO CARVALLIDO",
+   "minutos": "10",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

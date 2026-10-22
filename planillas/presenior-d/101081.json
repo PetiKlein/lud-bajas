@@ -1,0 +1,324 @@
+{
+ "id": "101081",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "JEAN PIAGET",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "689",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-08-15 11:00:00",
+  "Fecha_fin": "2026-08-15 11:00:00",
+  "Locatario": "JEAN PIAGET",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "17702",
+   "Nombre": "DANIEL WARD",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23970",
+   "Nombre": "DIEGO ANDRES WOLF",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28277",
+   "Nombre": "LUCAS JUAN PUIG",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "57047",
+   "Nombre": "SERGIO GASTON MARTINEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "36908",
+   "Nombre": "MARTIN GEJER",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "21011",
+   "Nombre": "DANIEL IGAL GROISMAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "41052",
+   "Nombre": "VALENTIN MATEO PEÑALVA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "37124",
+   "Nombre": "RICHARD ALEJANDRO ROCCO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "41805",
+   "Nombre": "DIEGO AUGUSTO LORENZO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "21009",
+   "Nombre": "MAXIMILIANO AUGUSTO PEÑALVA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "21189",
+   "Nombre": "SEBASTIAN CAREDIO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34916",
+   "Nombre": "MARCOS ALEJO SANCHEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "33080",
+   "Nombre": "NICOLAS CERISOLA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "37016",
+   "Nombre": "JUAN ANDRES CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "56450",
+   "Nombre": "FEDERICO HERMIDA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52449",
+   "Nombre": "FACUNDO FIERRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "37034",
+   "Nombre": "LEANDRO GERMAN TARANTO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "44615",
+   "Nombre": "JOAQUIN FARIÑA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "33691",
+   "Nombre": "GONZALO SUCAZES",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "31035",
+   "Nombre": "GIANFRANCO AMADO POSE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57047",
+   "Jug_Sale": "SERGIO GASTON MARTINEZ",
+   "CarneEntra": "41052",
+   "Jug_Entra": "VALENTIN MATEO PEÑALVA",
+   "camiseta": "44",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "23970",
+   "Jug_Sale": "DIEGO ANDRES WOLF",
+   "CarneEntra": "54505",
+   "Jug_Entra": "RODRIGO SORIA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28277",
+   "Jug_Sale": "LUCAS JUAN PUIG",
+   "CarneEntra": "55338",
+   "Jug_Entra": "BRIAN MAJLIN",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21189",
+   "Jug_Sale": "SEBASTIAN CAREDIO",
+   "CarneEntra": "45610",
+   "Jug_Entra": "JULIO WALTER PEREZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36908",
+   "Jug_Sale": "MARTIN GEJER",
+   "CarneEntra": "43847",
+   "Jug_Entra": "JOAQUIN STIRLING",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41052",
+   "Jug_Sale": "VALENTIN MATEO PEÑALVA",
+   "CarneEntra": "18049",
+   "Jug_Entra": "ALAN TURNIANSKY",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37124",
+   "Jug_Sale": "RICHARD ALEJANDRO ROCCO",
+   "CarneEntra": "54346",
+   "Jug_Entra": "DIEGO JAVIER GORTAIRE",
+   "camiseta": "89",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41805",
+   "Jug_Sale": "DIEGO AUGUSTO LORENZO",
+   "CarneEntra": "21925",
+   "Jug_Entra": "FRANCISCO ETCHENIQUE",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21009",
+   "Jug_Sale": "MAXIMILIANO AUGUSTO PEÑALVA",
+   "CarneEntra": "23348",
+   "Jug_Entra": "JUAN ANDRES MARTINICORENA",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54505",
+   "Jug_Sale": "RODRIGO SORIA",
+   "CarneEntra": "41805",
+   "Jug_Entra": "DIEGO AUGUSTO LORENZO",
+   "camiseta": "2",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "21011",
+   "Jug_Sale": "DANIEL IGAL GROISMAN",
+   "CarneEntra": "21189",
+   "Jug_Entra": "SEBASTIAN CAREDIO",
+   "camiseta": "10",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "23348",
+   "Jug_Sale": "JUAN ANDRES MARTINICORENA",
+   "CarneEntra": "36908",
+   "Jug_Entra": "MARTIN GEJER",
+   "camiseta": "13",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "21011",
+   "Jug_Sale": "DANIEL IGAL GROISMAN",
+   "CarneEntra": "37124",
+   "Jug_Entra": "RICHARD ALEJANDRO ROCCO",
+   "camiseta": "22",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "31035",
+   "Jug_Sale": "GIANFRANCO AMADO POSE",
+   "CarneEntra": "26283",
+   "Jug_Entra": "RAFAEL DELLA TORRE",
+   "camiseta": "33",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "33691",
+   "Jug_Sale": "GONZALO SUCAZES",
+   "CarneEntra": "33744",
+   "Jug_Entra": "NICOLAS MOREIRA",
+   "camiseta": "28",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "37034",
+   "Jug_Sale": "LEANDRO GERMAN TARANTO",
+   "CarneEntra": "33303",
+   "Jug_Entra": "IGNACIO MARQUEZ",
+   "camiseta": "34",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45610",
+   "Nombre": "JULIO WALTER PEREZ",
+   "minutos": "70",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "53",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,299 @@
+{
+ "id": "102873",
+ "categoria": "sub18",
+ "serie": "18-42",
+ "fecha": 4,
+ "fechaHora": "2026-10-11 15:30:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "SEMINARIO UNIVERSITARIO",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "285",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 4 RUEDA 2",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-10-11 17:30:00",
+  "Fecha_fin": "2026-10-11 17:30:00",
+  "Locatario": "SEMINARIO UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64440",
+   "Nombre": "JUAN MANUEL CHIRIBAO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62032",
+   "Nombre": "PEDRO NOVOA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62572",
+   "Nombre": "JUAN MARTIN AYERZA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67728",
+   "Nombre": "EMILIANO MASSAFERRO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "62173",
+   "Nombre": "GUILLERMO PAEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63297",
+   "Nombre": "ALFONSO MONTESERIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63120",
+   "Nombre": "MANUEL LORENZO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68922",
+   "Nombre": "BRUNO MIETTO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62177",
+   "Nombre": "JUAN PEDRO CARVALHO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62172",
+   "Nombre": "FELIPE LONGRES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62163",
+   "Nombre": "JUAN JUSTO TRUJILLO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60266",
+   "Nombre": "DIEGO ARMANDO RAMIREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60467",
+   "Nombre": "SIMON FABINI",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "56688",
+   "Nombre": "TOMAS PASSADORE",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "63255",
+   "Nombre": "JOAQUIN YAGODA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "58427",
+   "Nombre": "FACUNDO FIORE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "57836",
+   "Nombre": "JUAN MANUEL ABELLA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "60472",
+   "Nombre": "SANCHO CONTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56510",
+   "Nombre": "JULIO PATRICIO JAKOB",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "58479",
+   "Nombre": "TOMAS TELLERIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67762",
+   "Nombre": "JUAN MANUEL BERNAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57835",
+   "Nombre": "ALFONSO ZAMBRANO",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62172",
+   "Jug_Sale": "FELIPE LONGRES",
+   "CarneEntra": "62558",
+   "Jug_Entra": "FELIPE PEREZ",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62177",
+   "Jug_Sale": "JUAN PEDRO CARVALHO",
+   "CarneEntra": "68243",
+   "Jug_Entra": "APARICIO OLIVERA",
+   "camiseta": "98",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68922",
+   "Jug_Sale": "BRUNO MIETTO",
+   "CarneEntra": "65366",
+   "Jug_Entra": "FACUNDO DELFINO",
+   "camiseta": "14",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "62173",
+   "Jug_Sale": "GUILLERMO PAEZ",
+   "CarneEntra": "62174",
+   "Jug_Entra": "VALENTINO VIÑAS",
+   "camiseta": "21",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "63120",
+   "Jug_Sale": "MANUEL LORENZO",
+   "CarneEntra": "62556",
+   "Jug_Entra": "FACUNDO LUCERO",
+   "camiseta": "3",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "62572",
+   "Jug_Sale": "JUAN MARTIN AYERZA",
+   "CarneEntra": "68562",
+   "Jug_Entra": "GUILLERMO NOGUERA",
+   "camiseta": "2",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63255",
+   "Jug_Sale": "JOAQUIN YAGODA",
+   "CarneEntra": "57838",
+   "Jug_Entra": "SANTINO DANTONIO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57836",
+   "Jug_Sale": "JUAN MANUEL ABELLA",
+   "CarneEntra": "65624",
+   "Jug_Entra": "LORENZO RODRIGUEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58427",
+   "Jug_Sale": "FACUNDO FIORE",
+   "CarneEntra": "62978",
+   "Jug_Entra": "LUCAS CAPLIVSCHI",
+   "camiseta": "29",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "58479",
+   "Jug_Sale": "TOMAS TELLERIA",
+   "CarneEntra": "56474",
+   "Jug_Entra": "JUAN BAUTISTA PAGANI",
+   "camiseta": "31",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67762",
+   "Jug_Sale": "JUAN MANUEL BERNAL",
+   "CarneEntra": "59198",
+   "Jug_Entra": "FRANCO TELLERIA",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "60472",
+   "Jug_Sale": "SANCHO CONTI",
+   "CarneEntra": "68587",
+   "Jug_Entra": "CAMILO YARZA",
+   "camiseta": "83",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "56510",
+   "Jug_Sale": "JULIO PATRICIO JAKOB",
+   "CarneEntra": "67764",
+   "Jug_Entra": "BRUNO COLLAZO",
+   "camiseta": "7",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "58479",
+   "Nombre": "TOMAS TELLERIA",
+   "minutos": "13",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59198",
+   "Nombre": "FRANCO TELLERIA",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67762",
+   "Nombre": "JUAN MANUEL BERNAL",
+   "minutos": "41",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

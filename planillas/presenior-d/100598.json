@@ -1,0 +1,308 @@
+{
+ "id": "100598",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "655",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-27 13:10:00",
+  "Fecha_fin": "2026-06-27 13:10:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "31313",
+   "Nombre": "LUIS DANIEL ROSSANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64581",
+   "Nombre": "ALVARO MONTELONGO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "67695",
+   "Nombre": "JUAN ANTONIO ALVAREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "32377",
+   "Nombre": "PIERINO GILOCA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "42234",
+   "Nombre": "AGUSTIN LABAT",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35395",
+   "Nombre": "MASSIMILIANO PECORA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "31909",
+   "Nombre": "JUAN PABLO LALUZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "40452",
+   "Nombre": "PEDRO GUILLERMO LORENZOTTI",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "51361",
+   "Nombre": "FABRICIO PEREYRA",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28170",
+   "Nombre": "JOAQUIN RAFFO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "59690",
+   "Nombre": "GONZALO GABRIEL",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33691",
+   "Nombre": "GONZALO SUCAZES",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "37016",
+   "Nombre": "JUAN ANDRES CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "36137",
+   "Nombre": "FEDERICO MENDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47757",
+   "Nombre": "JUAN ANDRES NOGUES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "52449",
+   "Nombre": "FACUNDO FIERRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "33080",
+   "Nombre": "NICOLAS CERISOLA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "34914",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31035",
+   "Nombre": "GIANFRANCO AMADO POSE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59690",
+   "Jug_Sale": "GONZALO GABRIEL",
+   "CarneEntra": "28662",
+   "Jug_Entra": "JOAQUIN AMENGUAL",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28170",
+   "Jug_Sale": "JOAQUIN RAFFO",
+   "CarneEntra": "34857",
+   "Jug_Entra": "NICOLAS MELO",
+   "camiseta": "51",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40452",
+   "Jug_Sale": "PEDRO GUILLERMO LORENZOTTI",
+   "CarneEntra": "38025",
+   "Jug_Entra": "TOMAS DIEGO CURBELO",
+   "camiseta": "10",
+   "minutos": "16"
+  },
+  {
+   "CarneSale": "51361",
+   "Jug_Sale": "FABRICIO PEREYRA",
+   "CarneEntra": "57381",
+   "Jug_Entra": "GERARDO BARBIERI",
+   "camiseta": "18",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "31909",
+   "Jug_Sale": "JUAN PABLO LALUZ",
+   "CarneEntra": "28170",
+   "Jug_Entra": "JOAQUIN RAFFO",
+   "camiseta": "13",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "42234",
+   "Jug_Sale": "AGUSTIN LABAT",
+   "CarneEntra": "28071",
+   "Jug_Entra": "SEBASTIAN PENA",
+   "camiseta": "18",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "34914",
+   "Jug_Sale": "SANTIAGO FERNANDEZ",
+   "CarneEntra": "43724",
+   "Jug_Entra": "EDISON ALEXANDER MONZON",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33080",
+   "Jug_Sale": "NICOLAS CERISOLA",
+   "CarneEntra": "37034",
+   "Jug_Entra": "LEANDRO GERMAN TARANTO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33691",
+   "Jug_Sale": "GONZALO SUCAZES",
+   "CarneEntra": "33887",
+   "Jug_Entra": "GIANFRANCO SCARLATTE",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37016",
+   "Jug_Sale": "JUAN ANDRES CASTRO",
+   "CarneEntra": "34916",
+   "Jug_Entra": "MARCOS ALEJO SANCHEZ",
+   "camiseta": "2",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "31035",
+   "Jug_Sale": "GIANFRANCO AMADO POSE",
+   "CarneEntra": "44615",
+   "Jug_Entra": "JOAQUIN FARIÑA",
+   "camiseta": "21",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "21819",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "33744",
+   "Jug_Entra": "NICOLAS MOREIRA",
+   "camiseta": "28",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "36137",
+   "Jug_Sale": "FEDERICO MENDEZ",
+   "CarneEntra": "37016",
+   "Jug_Entra": "JUAN ANDRES CASTRO",
+   "camiseta": "3",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "47757",
+   "Jug_Sale": "JUAN ANDRES NOGUES",
+   "CarneEntra": "33080",
+   "Jug_Entra": "NICOLAS CERISOLA",
+   "camiseta": "27",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "38025",
+   "Nombre": "TOMAS DIEGO CURBELO",
+   "minutos": "44",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "83",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

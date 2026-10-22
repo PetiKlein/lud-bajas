@@ -1,0 +1,245 @@
+{
+ "id": "101918",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "MADRUGADA F.C",
+ "visitante": "UNIVERSITARIO VERONES",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "100",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-12 11:00:00",
+  "Fecha_fin": "2026-09-12 11:00:00",
+  "Locatario": "MADRUGADA F.C",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "UNIVERSITARIO VERONES",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52699",
+   "Nombre": "GONZALO LABORDE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22757",
+   "Nombre": "SEBASTIAN CORREA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "29114",
+   "Nombre": "JOSE SEBASTIAN GRATTAROLA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "31517",
+   "Nombre": "ALEJANDRO BAUDO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "34213",
+   "Nombre": "MATEO MARQUES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "21347",
+   "Nombre": "GUILLERMO FERNANDO TORIJA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "31925",
+   "Nombre": "PEDRO NICOLAS GARCIA",
+   "camiseta": "87",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40268",
+   "Nombre": "FABIAN RODRIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "51373",
+   "Nombre": "SERGIO MAXIMILIANO PEREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54309",
+   "Nombre": "JUAN MANUEL PUERTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "30150",
+   "Nombre": "IGNACIO BARBEITO",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "49186",
+   "Nombre": "CHARLES ADRIAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19034",
+   "Nombre": "MATIAS SURRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "28265",
+   "Nombre": "SANTIAGO GASTON GIUFFRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49719",
+   "Nombre": "SERGIO ADRIAN ABALO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "35044",
+   "Nombre": "EDISON ANDRES DOMINGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "24949",
+   "Nombre": "MARTIN MARIO MERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "22077",
+   "Nombre": "CESAR AUGUSTO CAVALLI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57256",
+   "Nombre": "JUIO FABIAN GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "32130",
+   "Nombre": "JUAN MANUEL TARALLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "30933",
+   "Nombre": "JORGE MARTIN CORREA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "29845",
+   "Nombre": "HORACIO DAMIAN CASANOVA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51373",
+   "Jug_Sale": "SERGIO MAXIMILIANO PEREZ",
+   "CarneEntra": "28237",
+   "Jug_Entra": "MARCELO DAMIAN CASTRILLEJO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34213",
+   "Jug_Sale": "MATEO MARQUES",
+   "CarneEntra": "34340",
+   "Jug_Entra": "FEDERICO VARGHA",
+   "camiseta": "22",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "21347",
+   "Jug_Sale": "GUILLERMO FERNANDO TORIJA",
+   "CarneEntra": "35976",
+   "Jug_Entra": "FEDERICO GARCIA",
+   "camiseta": "21",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "30150",
+   "Jug_Sale": "IGNACIO BARBEITO",
+   "CarneEntra": "26412",
+   "Jug_Entra": "DIEGO ALDEBAR TILLIMAN",
+   "camiseta": "9",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24949",
+   "Jug_Sale": "MARTIN MARIO MERA",
+   "CarneEntra": "35143",
+   "Jug_Entra": "DAVIS STEVEN SANCHEZ",
+   "camiseta": "16",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "35044",
+   "Jug_Sale": "EDISON ANDRES DOMINGUEZ",
+   "CarneEntra": "16642",
+   "Jug_Entra": "SEBASTIAN COUTO",
+   "camiseta": "18",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "29845",
+   "Jug_Sale": "HORACIO DAMIAN CASANOVA",
+   "CarneEntra": "35247",
+   "Jug_Entra": "MARTIN MATHYAS MOREIRA",
+   "camiseta": "19",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "29845",
+   "Nombre": "HORACIO DAMIAN CASANOVA",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "29845",
+   "Nombre": "HORACIO DAMIAN CASANOVA",
+   "minutos": "66",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

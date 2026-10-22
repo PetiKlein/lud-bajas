@@ -1,0 +1,335 @@
+{
+ "id": "98794",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:25:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "CLUB ESTUDIANTES INGENIERIA",
+ "visitante": "CEIBOS CLUB",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "273",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-16 13:20:00",
+  "Fecha_fin": "2026-05-16 13:20:00",
+  "Locatario": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CEIBOS CLUB",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "55641",
+   "Nombre": "ISAIAS ARIEL SOSA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "34745",
+   "Nombre": "LUIS ALFREDO LEON",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61597",
+   "Nombre": "ENZO RAUL VIERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "43466",
+   "Nombre": "PABLO ARIEL FALERO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "40498",
+   "Nombre": "FEDERICO AGUSTIN GARCIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "34719",
+   "Nombre": "RICARDO NICOLAS RIBERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "44166",
+   "Nombre": "BRUNO GONZALEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67250",
+   "Nombre": "ALVARO DANIEL LENS",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "23106",
+   "Nombre": "GASTON ZABALZA",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66822",
+   "Nombre": "DEYVIS ANDRES OROFINO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "31094",
+   "Nombre": "MARCIO NICOLAS GRAÑA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32002",
+   "Nombre": "GIOVANNI PAOLO VIGNOTTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "20367",
+   "Nombre": "NICOLAS ORDOQUI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "24859",
+   "Nombre": "FERNANDO DAMIANI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "30514",
+   "Nombre": "FRANCISCO JOSE DIAZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "32081",
+   "Nombre": "GONZALO TRAPP",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "21512",
+   "Nombre": "JUAN MARTIN DIAZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "21093",
+   "Nombre": "PABLO RAFAEL VERDE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "32341",
+   "Nombre": "AGUSTIN ALVARO VIDAL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "20250",
+   "Nombre": "ALEJANDRO MARIA GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "22537",
+   "Nombre": "SANTIAGO ANTONIOL",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "18098",
+   "Nombre": "CARLOS JAVIER MORALES",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61597",
+   "Jug_Sale": "ENZO RAUL VIERA",
+   "CarneEntra": "66821",
+   "Jug_Entra": "BRAIAN EDUARDO GODOY",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66822",
+   "Jug_Sale": "DEYVIS ANDRES OROFINO",
+   "CarneEntra": "31029",
+   "Jug_Entra": "FELIPE SORHUET",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67250",
+   "Jug_Sale": "ALVARO DANIEL LENS",
+   "CarneEntra": "38905",
+   "Jug_Entra": "GABRIEL MARCELO ARCE",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44166",
+   "Jug_Sale": "BRUNO GONZALEZ",
+   "CarneEntra": "26293",
+   "Jug_Entra": "PABLO GERMAN PERERA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40498",
+   "Jug_Sale": "FEDERICO AGUSTIN GARCIA",
+   "CarneEntra": "52690",
+   "Jug_Entra": "MATHIAS VILLAVERDE",
+   "camiseta": "80",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "23106",
+   "Jug_Sale": "GASTON ZABALZA",
+   "CarneEntra": "64526",
+   "Jug_Entra": "STYVEN NUÑEZ",
+   "camiseta": "16",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "31094",
+   "Jug_Sale": "MARCIO NICOLAS GRAÑA",
+   "CarneEntra": "41515",
+   "Jug_Entra": "NICOLAS RIVAS",
+   "camiseta": "24",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "34745",
+   "Jug_Sale": "LUIS ALFREDO LEON",
+   "CarneEntra": "56950",
+   "Jug_Entra": "SEBASTIAN SPINELLI",
+   "camiseta": "91",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "43466",
+   "Jug_Sale": "PABLO ARIEL FALERO",
+   "CarneEntra": "66822",
+   "Jug_Entra": "DEYVIS ANDRES OROFINO",
+   "camiseta": "28",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "21512",
+   "Jug_Sale": "JUAN MARTIN DIAZ",
+   "CarneEntra": "21279",
+   "Jug_Entra": "GONZALO FEDERICO MULLIN",
+   "camiseta": "16",
+   "minutos": "16"
+  },
+  {
+   "CarneSale": "18098",
+   "Jug_Sale": "CARLOS JAVIER MORALES",
+   "CarneEntra": "22265",
+   "Jug_Entra": "WELLINGTON RODRIGO BERENGUER",
+   "camiseta": "13",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "22537",
+   "Jug_Sale": "SANTIAGO ANTONIOL",
+   "CarneEntra": "18991",
+   "Jug_Entra": "VARTAN AGHASI SANTURIAN",
+   "camiseta": "11",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "30514",
+   "Jug_Sale": "FRANCISCO JOSE DIAZ",
+   "CarneEntra": "28972",
+   "Jug_Entra": "JOSE AUGUSTO TACHINI",
+   "camiseta": "5",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "24859",
+   "Jug_Sale": "FERNANDO DAMIANI",
+   "CarneEntra": "28667",
+   "Jug_Entra": "DIEGO FERNANDO LEIROS",
+   "camiseta": "2",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "32081",
+   "Jug_Sale": "GONZALO TRAPP",
+   "CarneEntra": "30061",
+   "Jug_Entra": "FEDERICO ILDEFONSO GARCIA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21093",
+   "Jug_Sale": "PABLO RAFAEL VERDE",
+   "CarneEntra": "24948",
+   "Jug_Entra": "FRANCISCO CARRIQUIRY",
+   "camiseta": "7",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "20250",
+   "Nombre": "ALEJANDRO MARIA GONZALEZ",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "21512",
+   "Nombre": "JUAN MARTIN DIAZ",
+   "minutos": "7",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22265",
+   "Nombre": "WELLINGTON RODRIGO BERENGUER",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22265",
+   "Nombre": "WELLINGTON RODRIGO BERENGUER",
+   "minutos": "92",
+   "EnContra": "1"
+  },
+  {
+   "carne": "24948",
+   "Nombre": "FRANCISCO CARRIQUIRY",
+   "minutos": "77",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

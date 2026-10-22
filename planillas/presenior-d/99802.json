@@ -1,0 +1,306 @@
+{
+ "id": "99802",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "JEAN PIAGET",
+ "visitante": "MATURANA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "629",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-06-06 11:00:00",
+  "Fecha_fin": "2026-06-06 11:00:00",
+  "Locatario": "JEAN PIAGET",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "MATURANA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "17702",
+   "Nombre": "DANIEL WARD",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "18049",
+   "Nombre": "ALAN TURNIANSKY",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "36908",
+   "Nombre": "MARTIN GEJER",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "41052",
+   "Nombre": "VALENTIN MATEO PEÑALVA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "54346",
+   "Nombre": "DIEGO JAVIER GORTAIRE",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "23874",
+   "Nombre": "GAI BOROVIK",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "23970",
+   "Nombre": "DIEGO ANDRES WOLF",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "43847",
+   "Nombre": "JOAQUIN STIRLING",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "21189",
+   "Nombre": "SEBASTIAN CAREDIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38672",
+   "Nombre": "JOSE ALEJANDRO RUIZ DIAZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "21011",
+   "Nombre": "DANIEL IGAL GROISMAN",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "31313",
+   "Nombre": "LUIS DANIEL ROSSANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67695",
+   "Nombre": "JUAN ANTONIO ALVAREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "31936",
+   "Nombre": "FACUNDO DELGADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "37588",
+   "Nombre": "JOSE IGNACIO SAN MARTIN",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "42234",
+   "Nombre": "AGUSTIN LABAT",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "28071",
+   "Nombre": "SEBASTIAN PENA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "31909",
+   "Nombre": "JUAN PABLO LALUZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54392",
+   "Nombre": "RODRIGO ALBANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41680",
+   "Nombre": "MATEO GUZMAN BERGARA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "40452",
+   "Nombre": "PEDRO GUILLERMO LORENZOTTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "51361",
+   "Nombre": "FABRICIO PEREYRA",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "18049",
+   "Jug_Sale": "ALAN TURNIANSKY",
+   "CarneEntra": "45279",
+   "Jug_Entra": "ALAN LIEPMANN",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54346",
+   "Jug_Sale": "DIEGO JAVIER GORTAIRE",
+   "CarneEntra": "54505",
+   "Jug_Entra": "RODRIGO SORIA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23970",
+   "Jug_Sale": "DIEGO ANDRES WOLF",
+   "CarneEntra": "55338",
+   "Jug_Entra": "BRIAN MAJLIN",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21011",
+   "Jug_Sale": "DANIEL IGAL GROISMAN",
+   "CarneEntra": "32269",
+   "Jug_Entra": "LUCAS CABRERA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23874",
+   "Jug_Sale": "GAI BOROVIK",
+   "CarneEntra": "37124",
+   "Jug_Entra": "RICHARD ALEJANDRO ROCCO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32269",
+   "Jug_Sale": "LUCAS CABRERA",
+   "CarneEntra": "23348",
+   "Jug_Entra": "JUAN ANDRES MARTINICORENA",
+   "camiseta": "27",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "38672",
+   "Jug_Sale": "JOSE ALEJANDRO RUIZ DIAZ",
+   "CarneEntra": "28277",
+   "Jug_Entra": "LUCAS JUAN PUIG",
+   "camiseta": "23",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "41052",
+   "Jug_Sale": "VALENTIN MATEO PEÑALVA",
+   "CarneEntra": "57709",
+   "Jug_Entra": "FRANCISCO ETCHENIQUE",
+   "camiseta": "7",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "55338",
+   "Jug_Sale": "BRIAN MAJLIN",
+   "CarneEntra": "43118",
+   "Jug_Entra": "ADRIAN PIEDRA CUEVA",
+   "camiseta": "77",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "31909",
+   "Jug_Sale": "JUAN PABLO LALUZ",
+   "CarneEntra": "30257",
+   "Jug_Entra": "RODRIGO JAVIER BERASAIN",
+   "camiseta": "4",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "31936",
+   "Jug_Sale": "FACUNDO DELGADO",
+   "CarneEntra": "35395",
+   "Jug_Entra": "MASSIMILIANO PECORA",
+   "camiseta": "16",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "42234",
+   "Jug_Sale": "AGUSTIN LABAT",
+   "CarneEntra": "28287",
+   "Jug_Entra": "MARTIN CASTAGNA",
+   "camiseta": "32",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "28071",
+   "Jug_Sale": "SEBASTIAN PENA",
+   "CarneEntra": "28027",
+   "Jug_Entra": "MARTIN PENA",
+   "camiseta": "28",
+   "minutos": "60"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "21189",
+   "Nombre": "SEBASTIAN CAREDIO",
+   "minutos": "61",
+   "EnContra": "0"
+  },
+  {
+   "carne": "41052",
+   "Nombre": "VALENTIN MATEO PEÑALVA",
+   "minutos": "62",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "30257",
+   "Nombre": "RODRIGO JAVIER BERASAIN",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "35395",
+   "Nombre": "MASSIMILIANO PECORA",
+   "minutos": "89",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

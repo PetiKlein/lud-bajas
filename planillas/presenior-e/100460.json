@@ -1,0 +1,312 @@
+{
+ "id": "100460",
+ "categoria": "presenior-e",
+ "serie": "PSEB",
+ "fecha": 1,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SANTA ELENA LAGOMAR",
+ "visitante": "RIVER PLATE UNIVERSITARIO",
+ "gl": 6,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "734",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PS DIV.E 1ªR COPA BRONCE",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-06-27 00:00:00",
+  "Fecha_fin": "2026-06-27 00:00:00",
+  "Locatario": "SANTA ELENA LAGOMAR",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "RIVER PLATE UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "42194",
+   "Nombre": "MAXIMILIANO CESAR BOGGIANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65097",
+   "Nombre": "SANTIAGO CIRILLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "24979",
+   "Nombre": "MATHIAS NICOLAS MELGAR",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "25533",
+   "Nombre": "RODRIGO WALTER BAILLO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "33636",
+   "Nombre": "DARIO GONZALEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "20325",
+   "Nombre": "ERNESTO MAXIMILIANO MURIAS",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26411",
+   "Nombre": "JOAQUIN ANTONACCI",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "38769",
+   "Nombre": "GONZALO MELO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "19905",
+   "Nombre": "WILMAN SEBASTIAN SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "22862",
+   "Nombre": "FELIPE IGNACIO LAURINO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "35570",
+   "Nombre": "GIULIANO JAVIER KUNS",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62850",
+   "Nombre": "SEBASTIAN FERREIRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "43293",
+   "Nombre": "FABIAN SERVETTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51396",
+   "Nombre": "GONZALO ZEBALLOS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "52240",
+   "Nombre": "MATHÌAS IGNACIO RODRÌGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67042",
+   "Nombre": "ANDRES PASSADORE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65215",
+   "Nombre": "SANTIAGO ALMADA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "48296",
+   "Nombre": "GUSTAVO MARTIN ANSELMI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39443",
+   "Nombre": "MATIAS OROSMAN FERNANDEZ",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "38486",
+   "Nombre": "GONZALO MALANDRINO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "42401",
+   "Nombre": "DIEGO PABLO FACELLO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "52815",
+   "Nombre": "LUIS MATHIAS RODRIGUES",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "35570",
+   "Jug_Sale": "GIULIANO JAVIER KUNS",
+   "CarneEntra": "19152",
+   "Jug_Entra": "GUILLERMO JULIANO",
+   "camiseta": "9",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "19905",
+   "Jug_Sale": "WILMAN SEBASTIAN SUAREZ",
+   "CarneEntra": "27116",
+   "Jug_Entra": "FACUNDO NEVES",
+   "camiseta": "40",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38769",
+   "Jug_Sale": "GONZALO MELO",
+   "CarneEntra": "20312",
+   "Jug_Entra": "NICOLAS CARLE",
+   "camiseta": "92",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "22862",
+   "Jug_Sale": "FELIPE IGNACIO LAURINO",
+   "CarneEntra": "65031",
+   "Jug_Entra": "EDUARDO MANUEL SANTOS",
+   "camiseta": "42",
+   "minutos": "67"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67042",
+   "Jug_Sale": "ANDRES PASSADORE",
+   "CarneEntra": "64493",
+   "Jug_Entra": "JONATHAN EMANUEL ALFONSO",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48296",
+   "Jug_Sale": "GUSTAVO MARTIN ANSELMI",
+   "CarneEntra": "56865",
+   "Jug_Entra": "ALEXANDER ROBERTO TABEIRA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52240",
+   "Jug_Sale": "MATHÌAS IGNACIO RODRÌGUEZ",
+   "CarneEntra": "26413",
+   "Jug_Entra": "DIEGO ANDRES RODRIGUEZ",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62850",
+   "Jug_Sale": "SEBASTIAN FERREIRA",
+   "CarneEntra": "33795",
+   "Jug_Entra": "EMILIANO DOMINGUEZ",
+   "camiseta": "14",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "26413",
+   "Jug_Sale": "DIEGO ANDRES RODRIGUEZ",
+   "CarneEntra": "67042",
+   "Jug_Entra": "ANDRES PASSADORE",
+   "camiseta": "17",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "43293",
+   "Jug_Sale": "FABIAN SERVETTI",
+   "CarneEntra": "62850",
+   "Jug_Entra": "SEBASTIAN FERREIRA",
+   "camiseta": "25",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "20312",
+   "Nombre": "NICOLAS CARLE",
+   "minutos": "67",
+   "EnContra": "0"
+  },
+  {
+   "carne": "22862",
+   "Nombre": "FELIPE IGNACIO LAURINO",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "22862",
+   "Nombre": "FELIPE IGNACIO LAURINO",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "22862",
+   "Nombre": "FELIPE IGNACIO LAURINO",
+   "minutos": "48",
+   "EnContra": "0"
+  },
+  {
+   "carne": "27116",
+   "Nombre": "FACUNDO NEVES",
+   "minutos": "52",
+   "EnContra": "0"
+  },
+  {
+   "carne": "27116",
+   "Nombre": "FACUNDO NEVES",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "39443",
+   "Nombre": "MATIAS OROSMAN FERNANDEZ",
+   "minutos": "86",
+   "EnContra": "1"
+  },
+  {
+   "carne": "39443",
+   "Nombre": "MATIAS OROSMAN FERNANDEZ",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62850",
+   "Nombre": "SEBASTIAN FERREIRA",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

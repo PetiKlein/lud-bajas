@@ -1,0 +1,288 @@
+{
+ "id": "103117",
+ "categoria": "sub18",
+ "serie": "18F",
+ "fecha": 1,
+ "fechaHora": "2026-10-18 15:30:00",
+ "cancha": "ACADEMIA",
+ "local": "A.E.B.U",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "460",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "3",
+  "Divisional": "SUB18 CONFRATERNIDAD",
+  "Cancha": "ACADEMIA",
+  "Fecha_Inicio": "2026-10-18 17:20:00",
+  "Fecha_fin": "2026-10-18 17:20:00",
+  "Locatario": "A.E.B.U",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56488",
+   "Nombre": "MATEO SICINIO SOLARI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58700",
+   "Nombre": "DIEGO FERNANDO PERONE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65427",
+   "Nombre": "MATEO MONROY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68783",
+   "Nombre": "TAMIR SCOCOZZA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67152",
+   "Nombre": "THIAGO MONGE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62000",
+   "Nombre": "SANTINO DEL VALLE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68641",
+   "Nombre": "BENICIO CAYAFFA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "68280",
+   "Nombre": "ERDIBE CASAMAYOR",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67148",
+   "Nombre": "ANTHONY CRISTOPHE REYES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67733",
+   "Nombre": "ALEJANDRO MARRERO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "61814",
+   "Nombre": "SANTIAGO JUAN MAGNANI",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61352",
+   "Nombre": "FACUNDO LEANDRO MARTIARENA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61409",
+   "Nombre": "MARTIN ALVAREZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "61408",
+   "Nombre": "FACUNDO FERNANDO VEGA",
+   "camiseta": "46",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59884",
+   "Nombre": "MATEO PASTORIN",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66237",
+   "Nombre": "TOMAS POGGI",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "61132",
+   "Nombre": "IAN FRANCO CAUTERUCCI",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "59881",
+   "Nombre": "FRANCO MARA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61406",
+   "Nombre": "TADEO CABRERA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64276",
+   "Nombre": "FELIPE NOCETTI",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "60705",
+   "Nombre": "THIAGO BAZAN",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61405",
+   "Nombre": "LUCIANO LUGO",
+   "camiseta": "49",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67733",
+   "Jug_Sale": "ALEJANDRO MARRERO",
+   "CarneEntra": "65420",
+   "Jug_Entra": "CONSTANTINO CABRERA",
+   "camiseta": "10",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62000",
+   "Jug_Sale": "SANTINO DEL VALLE",
+   "CarneEntra": "68881",
+   "Jug_Entra": "MARTIN GOMEZ",
+   "camiseta": "67",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "68641",
+   "Jug_Sale": "BENICIO CAYAFFA",
+   "CarneEntra": "65128",
+   "Jug_Entra": "RONALD CASTELLON",
+   "camiseta": "2",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61132",
+   "Jug_Sale": "IAN FRANCO CAUTERUCCI",
+   "CarneEntra": "60705",
+   "Jug_Entra": "THIAGO BAZAN",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60705",
+   "Jug_Sale": "THIAGO BAZAN",
+   "CarneEntra": "58365",
+   "Jug_Entra": "FEDERICO NAVARRO",
+   "camiseta": "42",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61408",
+   "Jug_Sale": "FACUNDO FERNANDO VEGA",
+   "CarneEntra": "63541",
+   "Jug_Entra": "FACUNDO TILVE",
+   "camiseta": "35",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61405",
+   "Jug_Sale": "LUCIANO LUGO",
+   "CarneEntra": "64271",
+   "Jug_Entra": "THIAGO OTERO",
+   "camiseta": "65",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61409",
+   "Jug_Sale": "MARTIN ALVAREZ",
+   "CarneEntra": "61408",
+   "Jug_Entra": "FACUNDO FERNANDO VEGA",
+   "camiseta": "46",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "60705",
+   "Jug_Sale": "THIAGO BAZAN",
+   "CarneEntra": "61132",
+   "Jug_Entra": "IAN FRANCO CAUTERUCCI",
+   "camiseta": "36",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "58365",
+   "Jug_Sale": "FEDERICO NAVARRO",
+   "CarneEntra": "69215",
+   "Jug_Entra": "LUCAS CASTRO",
+   "camiseta": "66",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "68641",
+   "Nombre": "BENICIO CAYAFFA",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58365",
+   "Nombre": "FEDERICO NAVARRO",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60705",
+   "Nombre": "THIAGO BAZAN",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64271",
+   "Nombre": "THIAGO OTERO",
+   "minutos": "92",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64276",
+   "Nombre": "FELIPE NOCETTI",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

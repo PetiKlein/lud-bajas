@@ -1,0 +1,322 @@
+{
+ "id": "101640",
+ "categoria": "sub16",
+ "serie": "16-12",
+ "fecha": 7,
+ "fechaHora": "2026-09-06 13:30:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS CLUB",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "168",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 1 RUEDA 2",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-09-06 15:30:00",
+  "Fecha_fin": "2026-09-06 15:30:00",
+  "Locatario": "OLD CHRISTIANS CLUB",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61958",
+   "Nombre": "EUGENIO RESTANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65271",
+   "Nombre": "PEDRO JOSE LAPETINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62855",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "60379",
+   "Nombre": "JUAN FRANCISCO MILA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62854",
+   "Nombre": "JUAN IGNACIO PIVEL",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62229",
+   "Nombre": "FRANCISCO CARDOSO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67541",
+   "Nombre": "ALEJO STORACE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "65264",
+   "Nombre": "JUANCRUZ STORACE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65269",
+   "Nombre": "TOMAS LUSSICH",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62093",
+   "Nombre": "JUAN MANUEL BELLO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63325",
+   "Nombre": "JUAN MIGUEL REGUSCI",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61542",
+   "Nombre": "JOAQUIN BOGLIACCINI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "58633",
+   "Nombre": "JOAQUIN CARRIO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61539",
+   "Nombre": "LUCAS VALLE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58632",
+   "Nombre": "FAUSTO SASTRE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64385",
+   "Nombre": "SAMUEL ANDRES ESTELLER",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "61543",
+   "Nombre": "SANTINO ARDITO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61769",
+   "Nombre": "SANTIAGO RAFANIELLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58634",
+   "Nombre": "THIAGO MISA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "64387",
+   "Nombre": "BENICIO BENJAMIN CURTO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64379",
+   "Nombre": "MAURO MARIO ZORRILLA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58623",
+   "Nombre": "JUAN PEDRO BOLON",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60379",
+   "Jug_Sale": "JUAN FRANCISCO MILA",
+   "CarneEntra": "65268",
+   "Jug_Entra": "JUAN IGNACIO ARDOINO",
+   "camiseta": "38",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65271",
+   "Jug_Sale": "PEDRO JOSE LAPETINA",
+   "CarneEntra": "62095",
+   "Jug_Entra": "BAUTISTA MAULION",
+   "camiseta": "17",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62855",
+   "Jug_Sale": "FELIPE PEREZ",
+   "CarneEntra": "68037",
+   "Jug_Entra": "DIEGO LAVISTA",
+   "camiseta": "15",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67541",
+   "Jug_Sale": "ALEJO STORACE",
+   "CarneEntra": "62091",
+   "Jug_Entra": "ALEJO TELLERIA",
+   "camiseta": "21",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63325",
+   "Jug_Sale": "JUAN MIGUEL REGUSCI",
+   "CarneEntra": "63326",
+   "Jug_Entra": "JOAQUIN MENAFRA",
+   "camiseta": "90",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65269",
+   "Jug_Sale": "TOMAS LUSSICH",
+   "CarneEntra": "67105",
+   "Jug_Entra": "ALEJO EDUARDO LENOBLE",
+   "camiseta": "9",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62093",
+   "Jug_Sale": "JUAN MANUEL BELLO",
+   "CarneEntra": "62096",
+   "Jug_Entra": "APARICIO SUAREZ",
+   "camiseta": "41",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62229",
+   "Jug_Sale": "FRANCISCO CARDOSO",
+   "CarneEntra": "67543",
+   "Jug_Entra": "FRANCISCO MARTINEZ",
+   "camiseta": "47",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "62854",
+   "Jug_Sale": "JUAN IGNACIO PIVEL",
+   "CarneEntra": "67536",
+   "Jug_Entra": "LUCAS STORACE",
+   "camiseta": "24",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "65264",
+   "Jug_Sale": "JUANCRUZ STORACE",
+   "CarneEntra": "68826",
+   "Jug_Entra": "NICOLAS SCHNECK",
+   "camiseta": "80",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61769",
+   "Jug_Sale": "SANTIAGO RAFANIELLO",
+   "CarneEntra": "64376",
+   "Jug_Entra": "JOSE PEDRO ARBILLA",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61539",
+   "Jug_Sale": "LUCAS VALLE",
+   "CarneEntra": "64405",
+   "Jug_Entra": "JUAN IGNACIO PERI",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64387",
+   "Jug_Sale": "BENICIO BENJAMIN CURTO",
+   "CarneEntra": "66503",
+   "Jug_Entra": "CLAUDIO NICOLAS SOSA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58634",
+   "Jug_Sale": "THIAGO MISA",
+   "CarneEntra": "64398",
+   "Jug_Entra": "GUILLERMO NORIA",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58623",
+   "Jug_Sale": "JUAN PEDRO BOLON",
+   "CarneEntra": "67292",
+   "Jug_Entra": "NICOLAS PROCHET",
+   "camiseta": "15",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62091",
+   "Nombre": "ALEJO TELLERIA",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62854",
+   "Nombre": "JUAN IGNACIO PIVEL",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63326",
+   "Nombre": "JOAQUIN MENAFRA",
+   "minutos": "59",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58633",
+   "Nombre": "JOAQUIN CARRIO",
+   "minutos": "67",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

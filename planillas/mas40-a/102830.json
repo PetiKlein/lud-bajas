@@ -1,0 +1,231 @@
+{
+ "id": "102830",
+ "categoria": "mas40-a",
+ "serie": "40CO",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "OLD CHRISTIANS CLUB",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "410",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAS40 \"A\" TITULO",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-10 10:50:00",
+  "Fecha_fin": "2026-10-10 10:50:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD CHRISTIANS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "19994",
+   "Nombre": "GERMAN FRAQUIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19196",
+   "Nombre": "SANTIAGO VILARDEBO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "45546",
+   "Nombre": "ALEJANDRO BETOLAZA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "39923",
+   "Nombre": "JUAN IGNACIO RODRÌGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "41787",
+   "Nombre": "ANDRES D ALESSANDRO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16333",
+   "Nombre": "MARTIN EDUARDO RODRIGUEZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "17894",
+   "Nombre": "NICOLAS ANTONIO RUIZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "16950",
+   "Nombre": "JOSE ERNESTO OLIVERAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "22821",
+   "Nombre": "ERNESTO MARTIN CALLERIZA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "14701",
+   "Nombre": "PABLO SANTIAGO CASTRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "16181",
+   "Nombre": "PABLO ANGERIZ",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "12361",
+   "Nombre": "FACUNDO MARQUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "17786",
+   "Nombre": "RODRIGO LUSSICH",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "20807",
+   "Nombre": "AGUSTIN MANUEL RACHETTI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "20220",
+   "Nombre": "SANTIAGO EDUARDO SUAREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "15491",
+   "Nombre": "ALBERTO CARRACEDO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "16903",
+   "Nombre": "JORGE CARLOS RACHETTI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "22202",
+   "Nombre": "GERARDO GARCIA PINTOS",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57117",
+   "Nombre": "LUIS PEDRO GARCIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "24441",
+   "Nombre": "NICOLAS GARCIA PINTOS",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "16336",
+   "Nombre": "DIEGO SEBASTIAN SUAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "15398",
+   "Nombre": "PABLO CRISTOBO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "16950",
+   "Jug_Sale": "JOSE ERNESTO OLIVERAS",
+   "CarneEntra": "14703",
+   "Jug_Entra": "MARCEL AZZARINI",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "14701",
+   "Jug_Sale": "PABLO SANTIAGO CASTRO",
+   "CarneEntra": "14223",
+   "Jug_Entra": "FEDERICO RUIZ",
+   "camiseta": "9",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "20807",
+   "Jug_Sale": "AGUSTIN MANUEL RACHETTI",
+   "CarneEntra": "21006",
+   "Jug_Entra": "MAURO FERNANDO SORRENTINO",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16903",
+   "Jug_Sale": "JORGE CARLOS RACHETTI",
+   "CarneEntra": "21636",
+   "Jug_Entra": "NICOLAS HENDERSON",
+   "camiseta": "9",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "57117",
+   "Jug_Sale": "LUIS PEDRO GARCIA",
+   "CarneEntra": "18059",
+   "Jug_Entra": "FEDERICO GREGORIO YOFFE",
+   "camiseta": "30",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "15398",
+   "Jug_Sale": "PABLO CRISTOBO",
+   "CarneEntra": "16695",
+   "Jug_Entra": "SANTIAGO PABLO LUSSICH",
+   "camiseta": "99",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "15398",
+   "Nombre": "PABLO CRISTOBO",
+   "minutos": "23",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

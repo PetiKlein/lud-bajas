@@ -1,0 +1,287 @@
+{
+ "id": "101608",
+ "categoria": "sub18",
+ "serie": "18-22",
+ "fecha": 7,
+ "fechaHora": "2026-09-06 15:30:00",
+ "cancha": "LA MENNAIS",
+ "local": "J.M.L.M",
+ "visitante": "E.L.F.",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "238",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 2 RUEDA 2",
+  "Cancha": "LA MENNAIS",
+  "Fecha_Inicio": "2026-09-06 17:20:00",
+  "Fecha_fin": "2026-09-06 17:20:00",
+  "Locatario": "J.M.L.M",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "E.L.F.",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62408",
+   "Nombre": "VALENTIN CHADICOV",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62406",
+   "Nombre": "BRUNO AREVALO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "58174",
+   "Nombre": "MATEO MARTINEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58805",
+   "Nombre": "JUAN MARTIN CLUA",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58804",
+   "Nombre": "GENARO DI GREGORIO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61732",
+   "Nombre": "MARTIN CARBALLO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "57052",
+   "Nombre": "VALENTIN VIDAL",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "62154",
+   "Nombre": "FACUNDO MARTINEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58807",
+   "Nombre": "ALEJANDRO FERRARI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58806",
+   "Nombre": "MATIAS CAGNOLI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58809",
+   "Nombre": "MATEO SCOTTI",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62388",
+   "Nombre": "GONZALO VERANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60273",
+   "Nombre": "LUCAS FLORENTINO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "56753",
+   "Nombre": "JUAN MARTIN BENQUET",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67093",
+   "Nombre": "FEDERICO SISIASVILI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "57687",
+   "Nombre": "RAMIRO MENDEZ",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57927",
+   "Nombre": "MATEO TIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61087",
+   "Nombre": "MANUEL RODRIGUEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59812",
+   "Nombre": "FRANCO EMANUEL NUÑEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57955",
+   "Nombre": "MATIAS VIÑAR",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60555",
+   "Nombre": "MARCOS TRIGO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "59824",
+   "Nombre": "ALFONSO JOSE BECOÑA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58804",
+   "Jug_Sale": "GENARO DI GREGORIO",
+   "CarneEntra": "61734",
+   "Jug_Entra": "JUAN VALSECHI",
+   "camiseta": "14",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "58807",
+   "Jug_Sale": "ALEJANDRO FERRARI",
+   "CarneEntra": "63320",
+   "Jug_Entra": "VALENTINO STROZZI",
+   "camiseta": "9",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62154",
+   "Jug_Sale": "FACUNDO MARTINEZ",
+   "CarneEntra": "64264",
+   "Jug_Entra": "DIEGO JAUNSOLO",
+   "camiseta": "5",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59812",
+   "Jug_Sale": "FRANCO EMANUEL NUÑEZ",
+   "CarneEntra": "64092",
+   "Jug_Entra": "JUAN ENRIQUE ALVES",
+   "camiseta": "17",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "60273",
+   "Jug_Sale": "LUCAS FLORENTINO",
+   "CarneEntra": "61337",
+   "Jug_Entra": "FELIPE GRANOTICH",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67093",
+   "Jug_Sale": "FEDERICO SISIASVILI",
+   "CarneEntra": "60455",
+   "Jug_Entra": "FRANCO INSAUSTI",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57927",
+   "Jug_Sale": "MATEO TIO",
+   "CarneEntra": "59811",
+   "Jug_Entra": "JOAQUIN LEONARDO NUÑEZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56753",
+   "Jug_Sale": "JUAN MARTIN BENQUET",
+   "CarneEntra": "64813",
+   "Jug_Entra": "BRUNO ALDAY",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61087",
+   "Jug_Sale": "MANUEL RODRIGUEZ",
+   "CarneEntra": "61161",
+   "Jug_Entra": "FACUNDO CORREA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56753",
+   "Jug_Sale": "JUAN MARTIN BENQUET",
+   "CarneEntra": "62055",
+   "Jug_Entra": "IGNACIO PAKLAYAN",
+   "camiseta": "10",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67093",
+   "Jug_Sale": "FEDERICO SISIASVILI",
+   "CarneEntra": "62844",
+   "Jug_Entra": "THIAGO BOUREL",
+   "camiseta": "4",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "60555",
+   "Jug_Sale": "MARCOS TRIGO",
+   "CarneEntra": "62054",
+   "Jug_Entra": "GERVASIO BAZ",
+   "camiseta": "0",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "59812",
+   "Jug_Sale": "FRANCO EMANUEL NUÑEZ",
+   "CarneEntra": "62369",
+   "Jug_Entra": "MAURICIO ZECCHI",
+   "camiseta": "0",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "64092",
+   "Nombre": "JUAN ENRIQUE ALVES",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,325 @@
+{
+ "id": "100705",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 11,
+ "fechaHora": "2026-07-18 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "DEPORTIVO MATADERO",
+ "visitante": "GOMENSORO",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "88",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-07-18 11:00:00",
+  "Fecha_fin": "2026-07-18 11:00:00",
+  "Locatario": "DEPORTIVO MATADERO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "GOMENSORO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "14102",
+   "Nombre": "MARTIN RIVERA BARREIRO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "14914",
+   "Nombre": "AGUSTIN FELIPE SEDANO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "11990",
+   "Nombre": "GERMAN PABLO MONCHIETTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "20435",
+   "Nombre": "IGNACIO JOSE GONZALEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "22623",
+   "Nombre": "SANTIAGO GOMEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "14177",
+   "Nombre": "GUILLERMO GONZALEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "41071",
+   "Nombre": "NICOLAS CARLOS CONDORELLI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "12613",
+   "Nombre": "JOSE IGNACIO MIGNONE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "23812",
+   "Nombre": "YAMANDU DELGADO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "26951",
+   "Nombre": "JOAQUIN CALERO",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "16347",
+   "Nombre": "JORGE ANDRES TROCCOLI",
+   "camiseta": "42",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "11873",
+   "Nombre": "ALFREDO CARVE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "30341",
+   "Nombre": "GUILLERMO LARROQUE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "15792",
+   "Nombre": "JUAN RAMON PAEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24555",
+   "Nombre": "DIEGO TARAMASCO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "17096",
+   "Nombre": "JULIAN CARVE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "14231",
+   "Nombre": "RODRIGO RECOBA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "14119",
+   "Nombre": "DANIEL GRASSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "14903",
+   "Nombre": "TAZIO SCALDAFERRI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "13368",
+   "Nombre": "MARTIN ANDRES OLIVERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23812",
+   "Jug_Sale": "YAMANDU DELGADO",
+   "CarneEntra": "16398",
+   "Jug_Entra": "FEDERICO SILVESTRI",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41071",
+   "Jug_Sale": "NICOLAS CARLOS CONDORELLI",
+   "CarneEntra": "16461",
+   "Jug_Entra": "MIGUEL ANGEL SEDANO",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26951",
+   "Jug_Sale": "JOAQUIN CALERO",
+   "CarneEntra": "26974",
+   "Jug_Entra": "MATEO CARMONA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "12613",
+   "Jug_Sale": "JOSE IGNACIO MIGNONE",
+   "CarneEntra": "14097",
+   "Jug_Entra": "ANDRES SEBASTIAN MENDEZ",
+   "camiseta": "13",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "16347",
+   "Jug_Sale": "JORGE ANDRES TROCCOLI",
+   "CarneEntra": "15568",
+   "Jug_Entra": "LEONARDO RAFAEL BARBERO",
+   "camiseta": "8",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "22623",
+   "Jug_Sale": "SANTIAGO GOMEZ",
+   "CarneEntra": "17830",
+   "Jug_Entra": "LEONARDO GAI",
+   "camiseta": "5",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "23812",
+   "Jug_Sale": "YAMANDU DELGADO",
+   "CarneEntra": "16615",
+   "Jug_Entra": "JUAN ROBKIN",
+   "camiseta": "32",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "14914",
+   "Jug_Sale": "AGUSTIN FELIPE SEDANO",
+   "CarneEntra": "16347",
+   "Jug_Entra": "JORGE ANDRES TROCCOLI",
+   "camiseta": "42",
+   "minutos": "91"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24555",
+   "Jug_Sale": "DIEGO TARAMASCO",
+   "CarneEntra": "16207",
+   "Jug_Entra": "IGNACIO JAVIER BERTOLINI",
+   "camiseta": "19",
+   "minutos": "36"
+  },
+  {
+   "CarneSale": "14119",
+   "Jug_Sale": "DANIEL GRASSO",
+   "CarneEntra": "17030",
+   "Jug_Entra": "JUAN DIEGO LARROQUE",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "13368",
+   "Jug_Sale": "MARTIN ANDRES OLIVERA",
+   "CarneEntra": "17425",
+   "Jug_Entra": "DIEGO SCLEIDOROVICH",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30341",
+   "Jug_Sale": "GUILLERMO LARROQUE",
+   "CarneEntra": "23588",
+   "Jug_Entra": "ANTONIO MARIA SERRENTINO",
+   "camiseta": "16",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "15792",
+   "Jug_Sale": "JUAN RAMON PAEZ",
+   "CarneEntra": "23468",
+   "Jug_Entra": "FEDERICO MONTERO",
+   "camiseta": "13",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "14231",
+   "Jug_Sale": "RODRIGO RECOBA",
+   "CarneEntra": "15471",
+   "Jug_Entra": "IGNACIO VAZQUEZ",
+   "camiseta": "27",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "14177",
+   "Nombre": "GUILLERMO GONZALEZ",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "26951",
+   "Nombre": "JOAQUIN CALERO",
+   "minutos": "22",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "17425",
+   "Nombre": "DIEGO SCLEIDOROVICH",
+   "minutos": "64",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "minutos": "96",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GERMAN PABLO MONCHIETTI",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

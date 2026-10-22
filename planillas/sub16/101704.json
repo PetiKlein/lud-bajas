@@ -1,0 +1,298 @@
+{
+ "id": "101704",
+ "categoria": "sub16",
+ "serie": "16-52",
+ "fecha": 7,
+ "fechaHora": "2026-09-06 13:30:00",
+ "cancha": "LANDIA",
+ "local": "ESTUDIANTES DEL PLATA",
+ "visitante": "DLS CLUB",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "280",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 5 RUEDA 2",
+  "Cancha": "LANDIA",
+  "Fecha_Inicio": "2026-09-06 15:20:00",
+  "Fecha_fin": "2026-09-06 15:20:00",
+  "Locatario": "ESTUDIANTES DEL PLATA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DLS CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68888",
+   "Nombre": "TOMAS ERRANDONEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65287",
+   "Nombre": "JOAQUIN NICOLAS ANDRIOLI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65471",
+   "Nombre": "GUILLERMO LAUTARO URETA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67754",
+   "Nombre": "IGNACIO BASQUADE DIAZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65282",
+   "Nombre": "AGUSTIN GRECO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65294",
+   "Nombre": "MARIANO ARAMIS SARINA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68051",
+   "Nombre": "FERNANDEZ GUTIERREZ NICOLAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68049",
+   "Nombre": "FRANCO LESCANO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67757",
+   "Nombre": "ANYEL JULIAN SAHAKIAN",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "67747",
+   "Nombre": "ENZO GERMAN ALDERETTE",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "67752",
+   "Nombre": "FRANCISCO JOSE ZAS LIZARRAGA",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64054",
+   "Nombre": "SALVADOR MANUEL LAGOA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61698",
+   "Nombre": "BENJAMIN MOREIRA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "68734",
+   "Nombre": "FABIO LEONARDO DE ARMAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64058",
+   "Nombre": "EMILIANO ANTELO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61947",
+   "Nombre": "TIZIANO GAMBAROTTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61700",
+   "Nombre": "MATIAS GONZALEZ",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67087",
+   "Nombre": "FELIPE PARDO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64294",
+   "Nombre": "BENJAMIN ALVARO VILA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60704",
+   "Nombre": "ALAN GABRIEL CHAPARRO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "60631",
+   "Nombre": "EMILIANO PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67747",
+   "Jug_Sale": "ENZO GERMAN ALDERETTE",
+   "CarneEntra": "68799",
+   "Jug_Entra": "AXEL MATHIAS ESCARCENA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65287",
+   "Jug_Sale": "JOAQUIN NICOLAS ANDRIOLI",
+   "CarneEntra": "68548",
+   "Jug_Entra": "ALEJANDRO DAVID ACEVEDO",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67754",
+   "Jug_Sale": "IGNACIO BASQUADE DIAZ",
+   "CarneEntra": "68047",
+   "Jug_Entra": "FELIPE MONTES DE OCA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68051",
+   "Jug_Sale": "FERNANDEZ GUTIERREZ NICOLAS",
+   "CarneEntra": "67745",
+   "Jug_Entra": "LUCIANO NICOLAS BOGAO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68049",
+   "Jug_Sale": "FRANCO LESCANO",
+   "CarneEntra": "67742",
+   "Jug_Entra": "JUAN MANUEL ASHFIELD",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67757",
+   "Jug_Sale": "ANYEL JULIAN SAHAKIAN",
+   "CarneEntra": "65281",
+   "Jug_Entra": "ALEJANDRO MARTIN COSTA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67752",
+   "Jug_Sale": "FRANCISCO JOSE ZAS LIZARRAGA",
+   "CarneEntra": "67741",
+   "Jug_Entra": "ANDREW NICOLAS FERNANDEZ",
+   "camiseta": "18",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64058",
+   "Jug_Sale": "EMILIANO ANTELO",
+   "CarneEntra": "67089",
+   "Jug_Entra": "ALVARO BENJAMIN ROSEMBERG",
+   "camiseta": "16",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "61698",
+   "Jug_Sale": "BENJAMIN MOREIRA",
+   "CarneEntra": "67873",
+   "Jug_Entra": "FIDEL ERNESTO REVELLO",
+   "camiseta": "43",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "60704",
+   "Jug_Sale": "ALAN GABRIEL CHAPARRO",
+   "CarneEntra": "66730",
+   "Jug_Entra": "MATIAS CATTINI",
+   "camiseta": "2",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67087",
+   "Jug_Sale": "FELIPE PARDO",
+   "CarneEntra": "66007",
+   "Jug_Entra": "MARCELO ALESSANDRO CEPELLINI",
+   "camiseta": "8",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "60704",
+   "Jug_Sale": "ALAN GABRIEL CHAPARRO",
+   "CarneEntra": "60291",
+   "Jug_Entra": "FACUNDO CARREÑO",
+   "camiseta": "19",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67745",
+   "Nombre": "LUCIANO NICOLAS BOGAO",
+   "minutos": "48",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "60704",
+   "Nombre": "ALAN GABRIEL CHAPARRO",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60704",
+   "Nombre": "ALAN GABRIEL CHAPARRO",
+   "minutos": "76",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "minutos": "61",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,324 @@
+{
+ "id": "99659",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 09:00:00",
+ "cancha": "Comp. \"LA REP. DE LIVERPOOL\"",
+ "local": "LIVERPOOL UNIVERSITARIO",
+ "visitante": "MATECHA",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "634",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "Comp. \"LA REP. DE LIVERPOOL\"",
+  "Fecha_Inicio": "2026-06-06 10:45:00",
+  "Fecha_fin": "2026-06-06 10:45:00",
+  "Locatario": "LIVERPOOL UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "MATECHA",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "22850",
+   "Nombre": "HECTOR ANDRES MANNFRINI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "23402",
+   "Nombre": "JOSE MARIA PALMA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "33231",
+   "Nombre": "SANTIAGO ANTUNEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "22552",
+   "Nombre": "MAURICIO DI NITTO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "18532",
+   "Nombre": "JORGE LUIS VAZQUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "20971",
+   "Nombre": "ROBERTO LAMAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "31175",
+   "Nombre": "MATHIAS VIERA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "50308",
+   "Nombre": "LUIS ANTONIO SIMOES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "38423",
+   "Nombre": "OCTAVIO OSVALDO CAZZOLA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38901",
+   "Nombre": "LEONARDO IZMENDI",
+   "camiseta": "91",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "34858",
+   "Nombre": "DARDO LUIS ARISMENDI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26640",
+   "Nombre": "JUAN DIEGO ZUNINO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65980",
+   "Nombre": "FABRICIO MARTIN FLORES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "46137",
+   "Nombre": "EDUARDO MATIAS PEREZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "25641",
+   "Nombre": "MAICOHOL GABRIEL GARCIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "45167",
+   "Nombre": "NICOLAS RISSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "41332",
+   "Nombre": "CHRISTIAN ADRIAN COUSILLAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61724",
+   "Nombre": "LEANDRO REYES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59836",
+   "Nombre": "EMILIANO ZOCCOLINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "41343",
+   "Nombre": "DARIO DANIEL GAZZO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57305",
+   "Nombre": "SERGIO DANIEL CAMPOS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "22850",
+   "Jug_Sale": "HECTOR ANDRES MANNFRINI",
+   "CarneEntra": "35408",
+   "Jug_Entra": "JUAN PABLO ROMERO",
+   "camiseta": "27",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "22552",
+   "Jug_Sale": "MAURICIO DI NITTO",
+   "CarneEntra": "30588",
+   "Jug_Entra": "PABLO GERMAN AMARILLO",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18532",
+   "Jug_Sale": "JORGE LUIS VAZQUEZ",
+   "CarneEntra": "48888",
+   "Jug_Entra": "BRUNO GONZALEZ",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20971",
+   "Jug_Sale": "ROBERTO LAMAS",
+   "CarneEntra": "23980",
+   "Jug_Entra": "NICOLAS GABRIEL RODRIGUEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23402",
+   "Jug_Sale": "JOSE MARIA PALMA",
+   "CarneEntra": "24812",
+   "Jug_Entra": "SANTIAGO FAJARDO",
+   "camiseta": "80",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "38901",
+   "Jug_Sale": "LEONARDO IZMENDI",
+   "CarneEntra": "50915",
+   "Jug_Entra": "BRUNO GONZALEZ",
+   "camiseta": "23",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "31175",
+   "Jug_Sale": "MATHIAS VIERA",
+   "CarneEntra": "20971",
+   "Jug_Entra": "ROBERTO LAMAS",
+   "camiseta": "20",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "38423",
+   "Jug_Sale": "OCTAVIO OSVALDO CAZZOLA",
+   "CarneEntra": "38901",
+   "Jug_Entra": "LEONARDO IZMENDI",
+   "camiseta": "91",
+   "minutos": "35"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59836",
+   "Jug_Sale": "EMILIANO ZOCCOLINI",
+   "CarneEntra": "25641",
+   "Jug_Entra": "MAICOHOL GABRIEL GARCIA",
+   "camiseta": "23",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "25641",
+   "Jug_Sale": "MAICOHOL GABRIEL GARCIA",
+   "CarneEntra": "59836",
+   "Jug_Entra": "EMILIANO ZOCCOLINI",
+   "camiseta": "22",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "41343",
+   "Jug_Sale": "DARIO DANIEL GAZZO",
+   "CarneEntra": "65343",
+   "Jug_Entra": "MAURICIO FABIAN COUSILLAS",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46137",
+   "Jug_Sale": "EDUARDO MATIAS PEREZ",
+   "CarneEntra": "68758",
+   "Jug_Entra": "NICOLAS LES",
+   "camiseta": "20",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "41332",
+   "Jug_Sale": "CHRISTIAN ADRIAN COUSILLAS",
+   "CarneEntra": "67415",
+   "Jug_Entra": "JOSE ALEJANDRO MELLUSO",
+   "camiseta": "19",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "65343",
+   "Jug_Sale": "MAURICIO FABIAN COUSILLAS",
+   "CarneEntra": "67414",
+   "Jug_Entra": "SEBASTIAN ALEJANDRO HAHN",
+   "camiseta": "8",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "57305",
+   "Nombre": "SERGIO DANIEL CAMPOS",
+   "minutos": "69",
+   "EnContra": "1"
+  },
+  {
+   "carne": "57305",
+   "Nombre": "SERGIO DANIEL CAMPOS",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59836",
+   "Nombre": "EMILIANO ZOCCOLINI",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59836",
+   "Nombre": "EMILIANO ZOCCOLINI",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61724",
+   "Nombre": "LEANDRO REYES",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SANTIAGO ANTUNEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,275 @@
+{
+ "id": "101204",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "CLARA JACKSON UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "268",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-08-29 11:00:00",
+  "Fecha_fin": "2026-08-29 11:00:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CLARA JACKSON UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "26521",
+   "Nombre": "SEBASTIAN DE AZPITARTE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57860",
+   "Nombre": "ALFRED GOLLER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "27147",
+   "Nombre": "JUAN IGNACIO LEONE",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "36830",
+   "Nombre": "MARIO ANDRES ORTIZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "28020",
+   "Nombre": "JOAQUIN JOSE CURA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "26675",
+   "Nombre": "MATIAS ALONSO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "38064",
+   "Nombre": "TEOFILO SCHAICH",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "27961",
+   "Nombre": "JUAN MANUEL SCHAICH",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "29507",
+   "Nombre": "ANTONIO SOTO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "27399",
+   "Nombre": "JOAQUIN PASQUET",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "23517",
+   "Nombre": "ALEXANDER REINER KOSSMANN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "40111",
+   "Nombre": "DIEGO ROJAS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "32894",
+   "Nombre": "CARLOS ANDRES BENTANCOURT",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "42789",
+   "Nombre": "DIEGO GABRIEL DEL PO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "33810",
+   "Nombre": "RODRIGO SOBRADO",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "28183",
+   "Nombre": "LEONARDO BANCHERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46032",
+   "Nombre": "IGNACIO GABRIEL GARCILAZO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "27327",
+   "Nombre": "GERMAN RODRIGO SANTAMARIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40042",
+   "Nombre": "AGUSTIN GILI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "30276",
+   "Nombre": "KLAVDIO AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "35642",
+   "Nombre": "PABLO DANIEL OLIVERA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27961",
+   "Jug_Sale": "JUAN MANUEL SCHAICH",
+   "CarneEntra": "50182",
+   "Jug_Entra": "JUAN AGUSTIN AGUADE",
+   "camiseta": "5",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "27147",
+   "Jug_Sale": "JUAN IGNACIO LEONE",
+   "CarneEntra": "39835",
+   "Jug_Entra": "FRANCISCO HELMUT QUINCKE",
+   "camiseta": "30",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "27399",
+   "Jug_Sale": "JOAQUIN PASQUET",
+   "CarneEntra": "27493",
+   "Jug_Entra": "JUAN FRANCISCO ZORZIN",
+   "camiseta": "19",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "38064",
+   "Jug_Sale": "TEOFILO SCHAICH",
+   "CarneEntra": "28376",
+   "Jug_Entra": "JUAN MANUEL ROMERO",
+   "camiseta": "17",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "57860",
+   "Jug_Sale": "ALFRED GOLLER",
+   "CarneEntra": "27970",
+   "Jug_Entra": "FELIPE GIRIBALDI",
+   "camiseta": "87",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23517",
+   "Jug_Sale": "ALEXANDER REINER KOSSMANN",
+   "CarneEntra": "27930",
+   "Jug_Entra": "SANTIAGO DE AZPITARTE",
+   "camiseta": "13",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30276",
+   "Jug_Sale": "KLAVDIO AGUSTIN MARTINEZ",
+   "CarneEntra": "57636",
+   "Jug_Entra": "FACUNDO RUBEN MANZI",
+   "camiseta": "14",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "32894",
+   "Jug_Sale": "CARLOS ANDRES BENTANCOURT",
+   "CarneEntra": "35096",
+   "Jug_Entra": "AGUSTIN OSVALDO MIRO",
+   "camiseta": "4",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "46032",
+   "Jug_Sale": "IGNACIO GABRIEL GARCILAZO",
+   "CarneEntra": "61414",
+   "Jug_Entra": "BRUNO TRIGO",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "42789",
+   "Jug_Sale": "DIEGO GABRIEL DEL PO",
+   "CarneEntra": "30276",
+   "Jug_Entra": "KLAVDIO AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "27399",
+   "Nombre": "JOAQUIN PASQUET",
+   "minutos": "8",
+   "EnContra": "0"
+  },
+  {
+   "carne": "27399",
+   "Nombre": "JOAQUIN PASQUET",
+   "minutos": "68",
+   "EnContra": "0"
+  },
+  {
+   "carne": "27961",
+   "Nombre": "JUAN MANUEL SCHAICH",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

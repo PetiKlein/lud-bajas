@@ -1,0 +1,298 @@
+{
+ "id": "99865",
+ "categoria": "sub18",
+ "serie": "18-5-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 15:30:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "HCA UNIVERSITARIO",
+ "visitante": "PLAYA HONDA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "137",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 5",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-06-07 17:25:00",
+  "Fecha_fin": "2026-06-07 17:25:00",
+  "Locatario": "HCA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "PLAYA HONDA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64610",
+   "Nombre": "JUAN PEDRO CASANOVA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64918",
+   "Nombre": "FACUNDO JESUS CESAR",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64607",
+   "Nombre": "FACUNDO ZEITOUNLIAN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66079",
+   "Nombre": "SANTIAGO CROSSA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64617",
+   "Nombre": "MATEO EMILIANO MARRERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65374",
+   "Nombre": "JUAN MATIAS PEREIRA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "64615",
+   "Nombre": "JOAQUIN MORENO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64613",
+   "Nombre": "FELIPE DE MEDINA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64609",
+   "Nombre": "IVAN CHARABARUK",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56771",
+   "Nombre": "SANTIAGO MARTIN ARREGIN",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "68164",
+   "Nombre": "FACUNDO RAMOS",
+   "camiseta": "88",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62544",
+   "Nombre": "ISMAEL SARASUA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62932",
+   "Nombre": "MARCIO EZEQUIEL SILVEIRA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "61846",
+   "Nombre": "IGNACIO FERRARI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60269",
+   "Nombre": "LUIS IGNACIO BALLEFIN",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "62148",
+   "Nombre": "MARTIN VILLAAMIL",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "62959",
+   "Nombre": "PIERO PISANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62563",
+   "Nombre": "IGNACIO BERTINAT",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "59716",
+   "Nombre": "JUAN MANUEL BORCA",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62550",
+   "Nombre": "LORENZO GREIF",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "64497",
+   "Nombre": "JUAN IGNACIO ZABALA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66242",
+   "Nombre": "JUAN MANUEL RIVAS",
+   "camiseta": "50",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64609",
+   "Jug_Sale": "IVAN CHARABARUK",
+   "CarneEntra": "65724",
+   "Jug_Entra": "THIAGO ALTEZ",
+   "camiseta": "11",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "64617",
+   "Jug_Sale": "MATEO EMILIANO MARRERO",
+   "CarneEntra": "66079",
+   "Jug_Entra": "SANTIAGO CROSSA",
+   "camiseta": "13",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "66079",
+   "Jug_Sale": "SANTIAGO CROSSA",
+   "CarneEntra": "68166",
+   "Jug_Entra": "RODRIGO GARCIA",
+   "camiseta": "43",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62148",
+   "Jug_Sale": "MARTIN VILLAAMIL",
+   "CarneEntra": "62565",
+   "Jug_Entra": "LORENZO RODRIGUEZ",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60269",
+   "Jug_Sale": "LUIS IGNACIO BALLEFIN",
+   "CarneEntra": "67722",
+   "Jug_Entra": "PEDRO MASCARO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64497",
+   "Jug_Sale": "JUAN IGNACIO ZABALA",
+   "CarneEntra": "62649",
+   "Jug_Entra": "MATIAS CANAVEIS",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66242",
+   "Jug_Sale": "JUAN MANUEL RIVAS",
+   "CarneEntra": "64495",
+   "Jug_Entra": "EMILIANO SCAPIN",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64495",
+   "Jug_Sale": "EMILIANO SCAPIN",
+   "CarneEntra": "61717",
+   "Jug_Entra": "JUAN MARTIN SAAVEDRA",
+   "camiseta": "2",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "59716",
+   "Jug_Sale": "JUAN MANUEL BORCA",
+   "CarneEntra": "66242",
+   "Jug_Entra": "JUAN MANUEL RIVAS",
+   "camiseta": "50",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "62550",
+   "Jug_Sale": "LORENZO GREIF",
+   "CarneEntra": "63152",
+   "Jug_Entra": "AGUSTIN LOPEZ",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67722",
+   "Jug_Sale": "PEDRO MASCARO",
+   "CarneEntra": "64497",
+   "Jug_Entra": "JUAN IGNACIO ZABALA",
+   "camiseta": "9",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56771",
+   "Nombre": "SANTIAGO MARTIN ARREGIN",
+   "minutos": "51",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64607",
+   "Nombre": "FACUNDO ZEITOUNLIAN",
+   "minutos": "7",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66242",
+   "Nombre": "JUAN MANUEL RIVAS",
+   "minutos": "26",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FACUNDO JESUS CESAR",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "FACUNDO ZEITOUNLIAN",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "MARCIO EZEQUIEL SILVEIRA",
+   "observaciones": ""
+  }
+ ]
+}

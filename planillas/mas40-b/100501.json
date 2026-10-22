@@ -1,0 +1,282 @@
+{
+ "id": "100501",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "CLUB ESTUDIANTES INGENIERIA",
+ "visitante": "TENIS EL PINAR",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "201",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-06-27 13:05:00",
+  "Fecha_fin": "2026-06-27 13:05:00",
+  "Locatario": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "13113",
+   "Nombre": "SANTIAGO FRASCHINI",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46546",
+   "Nombre": "MARCELO JAVIER CASAVIEJA",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "61597",
+   "Nombre": "ENZO RAUL VIERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60047",
+   "Nombre": "ELIAS EFRAIN AVELLANEDA",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "66344",
+   "Nombre": "MARTIN CATTONI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "51305",
+   "Nombre": "PABLO ANDRES NAVARRETE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "30077",
+   "Nombre": "PABLO EDGARDO ALVEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "31554",
+   "Nombre": "JUAN IGNACIO GOMEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "14144",
+   "Nombre": "PABLO FEDERICO CACERES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66613",
+   "Nombre": "ALEJANDRO JAVIER POSES",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "50827",
+   "Nombre": "PABLO ALFREDO FUENTES",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64234",
+   "Nombre": "SANTIAGO CASTRO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "16738",
+   "Nombre": "RAMIRO AROCENA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "21574",
+   "Nombre": "SEBASTIAN NUÑEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "19295",
+   "Nombre": "JUAN ANDRES REY",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "18357",
+   "Nombre": "MANUEL CAUBARRERE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "17194",
+   "Nombre": "JUAN PABLO CASTRO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "22174",
+   "Nombre": "FEDERICO MONTANS MONTANS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "20891",
+   "Nombre": "AGUSTIN MANUEL CASAROTTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "19569",
+   "Nombre": "CARLOS ANDRES URIARTE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "15264",
+   "Nombre": "FEDERICO SCHOL",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "18393",
+   "Nombre": "GERARDO GABRIEL MONZON",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66613",
+   "Jug_Sale": "ALEJANDRO JAVIER POSES",
+   "CarneEntra": "16424",
+   "Jug_Entra": "PABLO MARTIN VILLOLDO",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46546",
+   "Jug_Sale": "MARCELO JAVIER CASAVIEJA",
+   "CarneEntra": "14351",
+   "Jug_Entra": "CARLOS ANDRES ROMANO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61597",
+   "Jug_Sale": "ENZO RAUL VIERA",
+   "CarneEntra": "38770",
+   "Jug_Entra": "ANTONIO MANUEL RODRIGUEZ",
+   "camiseta": "40",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "51305",
+   "Jug_Sale": "PABLO ANDRES NAVARRETE",
+   "CarneEntra": "46546",
+   "Jug_Entra": "MARCELO JAVIER CASAVIEJA",
+   "camiseta": "36",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "50827",
+   "Jug_Sale": "PABLO ALFREDO FUENTES",
+   "CarneEntra": "66613",
+   "Jug_Entra": "ALEJANDRO JAVIER POSES",
+   "camiseta": "14",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "14144",
+   "Jug_Sale": "PABLO FEDERICO CACERES",
+   "CarneEntra": "61597",
+   "Jug_Entra": "ENZO RAUL VIERA",
+   "camiseta": "20",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "17194",
+   "Jug_Sale": "JUAN PABLO CASTRO",
+   "CarneEntra": "19332",
+   "Jug_Entra": "MARTIN ALVAREZ",
+   "camiseta": "5",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "19569",
+   "Jug_Sale": "CARLOS ANDRES URIARTE",
+   "CarneEntra": "64791",
+   "Jug_Entra": "RODRIGO NUÑEZ",
+   "camiseta": "4",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "22174",
+   "Jug_Sale": "FEDERICO MONTANS MONTANS",
+   "CarneEntra": "66245",
+   "Jug_Entra": "MIGUEL ANGEL LUZARDO",
+   "camiseta": "22",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "18393",
+   "Jug_Sale": "GERARDO GABRIEL MONZON",
+   "CarneEntra": "16934",
+   "Jug_Entra": "DAVID ARIEL BURGUEÑO",
+   "camiseta": "29",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "19569",
+   "Jug_Sale": "CARLOS ANDRES URIARTE",
+   "CarneEntra": "18352",
+   "Jug_Entra": "IGNACIO CARLOS CASAROTTI",
+   "camiseta": "11",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "15264",
+   "Nombre": "FEDERICO SCHOL",
+   "minutos": "54",
+   "EnContra": "1"
+  },
+  {
+   "carne": "20891",
+   "Nombre": "AGUSTIN MANUEL CASAROTTI",
+   "minutos": "13",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MANUEL CAUBARRERE",
+   "observaciones": ""
+  }
+ ]
+}

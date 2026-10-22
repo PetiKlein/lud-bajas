@@ -1,0 +1,269 @@
+{
+ "id": "102952",
+ "categoria": "presenior-d",
+ "serie": "PSDPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-17 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "ANGLO",
+ "visitante": "MATURANA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "953",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"D\" PER. y DESC",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-10-17 13:10:00",
+  "Fecha_fin": "2026-10-17 13:10:00",
+  "Locatario": "ANGLO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "MATURANA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32716",
+   "Nombre": "MARTIN ANDRES ORDOQUI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51350",
+   "Nombre": "NICOLAS MAURIÑOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "33238",
+   "Nombre": "PABLO NICOLAS NUÑEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "18539",
+   "Nombre": "MAURICIO EDUARDO SANTELLAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67504",
+   "Nombre": "RICHARD RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60162",
+   "Nombre": "YUBERT LEONEL ALOY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "25431",
+   "Nombre": "JUAN ANDRES GONZALEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60159",
+   "Nombre": "MATHIAS ADRIAN OTTON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "32734",
+   "Nombre": "CHRISTIAN ADAN ARRIOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "28464",
+   "Nombre": "ANDRES ALONSO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35345",
+   "Nombre": "RONEL SEBASTIAN ALVARIZA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "42234",
+   "Nombre": "AGUSTIN LABAT",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35395",
+   "Nombre": "MASSIMILIANO PECORA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "22401",
+   "Nombre": "GUILLERMO RAFFO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "32377",
+   "Nombre": "PIERINO GILOCA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "28070",
+   "Nombre": "ERNESTO ELGUE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "31936",
+   "Nombre": "FACUNDO DELGADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "28071",
+   "Nombre": "SEBASTIAN PENA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "28287",
+   "Nombre": "MARTIN CASTAGNA",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64581",
+   "Nombre": "ALVARO MONTELONGO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "67695",
+   "Nombre": "JUAN ANTONIO ALVAREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "28662",
+   "Nombre": "JOAQUIN AMENGUAL",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "18539",
+   "Jug_Sale": "MAURICIO EDUARDO SANTELLAN",
+   "CarneEntra": "67787",
+   "Jug_Entra": "JOAQUIN GARCIA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35345",
+   "Jug_Sale": "RONEL SEBASTIAN ALVARIZA",
+   "CarneEntra": "67640",
+   "Jug_Entra": "SANTIAGO MARTINEZ",
+   "camiseta": "14",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "67504",
+   "Jug_Sale": "RICHARD RODRIGUEZ",
+   "CarneEntra": "17610",
+   "Jug_Entra": "ALEJANDRO GONZALEZ",
+   "camiseta": "4",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "60162",
+   "Jug_Sale": "YUBERT LEONEL ALOY",
+   "CarneEntra": "61143",
+   "Jug_Entra": "FEDERICO MANUEL OLIVERA",
+   "camiseta": "32",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "32734",
+   "Jug_Sale": "CHRISTIAN ADAN ARRIOLA",
+   "CarneEntra": "64634",
+   "Jug_Entra": "LEONARDO GABRIEL HERNANDEZ",
+   "camiseta": "9",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "25431",
+   "Jug_Sale": "JUAN ANDRES GONZALEZ",
+   "CarneEntra": "18430",
+   "Jug_Entra": "HERNAN BOUZA",
+   "camiseta": "11",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "28287",
+   "Jug_Sale": "MARTIN CASTAGNA",
+   "CarneEntra": "31936",
+   "Jug_Entra": "FACUNDO DELGADO",
+   "camiseta": "20",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "31936",
+   "Jug_Sale": "FACUNDO DELGADO",
+   "CarneEntra": "45371",
+   "Jug_Entra": "IGNACIO JAVIER ZAMBRA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64581",
+   "Jug_Sale": "ALVARO MONTELONGO",
+   "CarneEntra": "57381",
+   "Jug_Entra": "GERARDO BARBIERI",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28070",
+   "Jug_Sale": "ERNESTO ELGUE",
+   "CarneEntra": "21261",
+   "Jug_Entra": "FEDERICO JOSE MORGADE",
+   "camiseta": "8",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35345",
+   "Nombre": "RONEL SEBASTIAN ALVARIZA",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60159",
+   "Nombre": "MATHIAS ADRIAN OTTON",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

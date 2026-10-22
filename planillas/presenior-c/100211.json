@@ -1,0 +1,276 @@
+{
+ "id": "100211",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "COMPLEJO LOS CARDALES",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "CLARA JACKSON UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "319",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LOS CARDALES",
+  "Fecha_Inicio": "2026-06-20 10:57:00",
+  "Fecha_fin": "2026-06-20 10:57:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "CLARA JACKSON UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47924",
+   "Nombre": "NICOLAS CARDOZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19891",
+   "Nombre": "ANDRES LAMAS",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "31579",
+   "Nombre": "MATIAS JAVIER GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "31343",
+   "Nombre": "JUAN FRANCISCO INSA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "27951",
+   "Nombre": "JONATHAN FRANCISCO LEMOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "26404",
+   "Nombre": "FEDERICO DE LEON",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "41310",
+   "Nombre": "JORGE AGUSTIN VIZCAINO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "68241",
+   "Nombre": "JUAN PEDRO PACHECO",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "33796",
+   "Nombre": "HERNAN NUÑEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "22171",
+   "Nombre": "MARTIN JAVIER SOSA",
+   "camiseta": "38",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "40111",
+   "Nombre": "DIEGO ROJAS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "28183",
+   "Nombre": "LEONARDO BANCHERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "42789",
+   "Nombre": "DIEGO GABRIEL DEL PO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "33810",
+   "Nombre": "RODRIGO SOBRADO",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "32894",
+   "Nombre": "CARLOS ANDRES BENTANCOURT",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "34406",
+   "Nombre": "FRANCO ANTONIO RICARDI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "30276",
+   "Nombre": "KLAVDIO AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "34628",
+   "Nombre": "SANTIAGO PATRICIO IGLESIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35291",
+   "Nombre": "ADRIAN MONTOLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "35642",
+   "Nombre": "PABLO DANIEL OLIVERA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68241",
+   "Jug_Sale": "JUAN PEDRO PACHECO",
+   "CarneEntra": "22830",
+   "Jug_Entra": "JUAN MANUEL CASTALDI",
+   "camiseta": "17",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "31343",
+   "Jug_Sale": "JUAN FRANCISCO INSA",
+   "CarneEntra": "16998",
+   "Jug_Entra": "IGNACIO GRANDAL",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27951",
+   "Jug_Sale": "JONATHAN FRANCISCO LEMOS",
+   "CarneEntra": "28203",
+   "Jug_Entra": "SANTIAGO FERNANDEZ",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22171",
+   "Jug_Sale": "MARTIN JAVIER SOSA",
+   "CarneEntra": "31447",
+   "Jug_Entra": "DAVID PEREZ",
+   "camiseta": "10",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "26404",
+   "Jug_Sale": "FEDERICO DE LEON",
+   "CarneEntra": "62781",
+   "Jug_Entra": "WILLIAN MIGUEL ROSA",
+   "camiseta": "19",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "33796",
+   "Jug_Sale": "HERNAN NUÑEZ",
+   "CarneEntra": "26665",
+   "Jug_Entra": "MARTIN REY",
+   "camiseta": "18",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "32100",
+   "Jug_Sale": "FEDERICO FARACHIO",
+   "CarneEntra": "25370",
+   "Jug_Entra": "JUAN PABLO MARTIGANI",
+   "camiseta": "28",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30276",
+   "Jug_Sale": "KLAVDIO AGUSTIN MARTINEZ",
+   "CarneEntra": "35443",
+   "Jug_Entra": "RAFAEL LANZETTA",
+   "camiseta": "8",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "34406",
+   "Jug_Sale": "FRANCO ANTONIO RICARDI",
+   "CarneEntra": "40042",
+   "Jug_Entra": "AGUSTIN GILI",
+   "camiseta": "24",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "42789",
+   "Jug_Sale": "DIEGO GABRIEL DEL PO",
+   "CarneEntra": "40810",
+   "Jug_Entra": "DANIEL RODRIGO TORT",
+   "camiseta": "55",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "32894",
+   "Jug_Sale": "CARLOS ANDRES BENTANCOURT",
+   "CarneEntra": "57636",
+   "Jug_Entra": "FACUNDO RUBEN MANZI",
+   "camiseta": "14",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47924",
+   "Nombre": "NICOLAS CARDOZO",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "DIEGO ROJAS",
+   "observaciones": ""
+  }
+ ]
+}

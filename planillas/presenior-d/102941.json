@@ -1,0 +1,286 @@
+{
+ "id": "102941",
+ "categoria": "presenior-d",
+ "serie": "PSDTA",
+ "fecha": 2,
+ "fechaHora": "2026-10-17 09:00:00",
+ "cancha": "COMPLEJO ARACHAN",
+ "local": "BODY FACTORY",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "923",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO ARACHAN",
+  "Fecha_Inicio": "2026-10-17 11:00:00",
+  "Fecha_fin": "2026-10-17 11:00:00",
+  "Locatario": "BODY FACTORY",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "38951",
+   "Nombre": "FACUNDO ESTANISLAO DELGADO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "54412",
+   "Nombre": "DIEGO SERGIO BOUZA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67224",
+   "Nombre": "DARIO IBAÑEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "35324",
+   "Nombre": "WALTER HUGO MARTINS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "26989",
+   "Nombre": "MARTIN SEBASTIAN RODRIGUEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "52544",
+   "Nombre": "ALEXIS BRAVO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27735",
+   "Nombre": "MATIAS PAIS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56142",
+   "Nombre": "MAURO STOCCO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "43253",
+   "Nombre": "CARLOS GASTON PRIARONE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "24922",
+   "Nombre": "LEONARDO DANIEL RIJO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "21036",
+   "Nombre": "JUAN AGUSTIN MURIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35203",
+   "Nombre": "SANTIAGO HUELMO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "27751",
+   "Nombre": "GUZMAN DANIEL MONTGOMERY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63917",
+   "Nombre": "BRUNO FRANCISCO CONTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "33907",
+   "Nombre": "JOAQUIN CICATIELLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "25908",
+   "Nombre": "JUAN MANUEL LAZBAL",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "24874",
+   "Nombre": "MARCELO ADRIAN CAMMARANO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "23486",
+   "Nombre": "SEBASTIAN VIDAL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "34281",
+   "Nombre": "MIGUEL PITETTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24922",
+   "Jug_Sale": "LEONARDO DANIEL RIJO",
+   "CarneEntra": "60520",
+   "Jug_Entra": "SEBASTIAN MONFORT",
+   "camiseta": "28",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "54412",
+   "Jug_Sale": "DIEGO SERGIO BOUZA",
+   "CarneEntra": "33642",
+   "Jug_Entra": "FERNANDO PEREZ",
+   "camiseta": "17",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "43253",
+   "Jug_Sale": "CARLOS GASTON PRIARONE",
+   "CarneEntra": "33420",
+   "Jug_Entra": "MARTIN ENRIQUE AZURICA",
+   "camiseta": "25",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63917",
+   "Jug_Sale": "BRUNO FRANCISCO CONTE",
+   "CarneEntra": "63840",
+   "Jug_Entra": "EMILIO NICOLAS CAMEJO",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35203",
+   "Jug_Sale": "SANTIAGO HUELMO",
+   "CarneEntra": "38649",
+   "Jug_Entra": "ADRIAN RIBERO",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24874",
+   "Jug_Sale": "MARCELO ADRIAN CAMMARANO",
+   "CarneEntra": "33066",
+   "Jug_Entra": "RAFAEL ESTEBAN GIMENEZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23486",
+   "Jug_Sale": "SEBASTIAN VIDAL",
+   "CarneEntra": "32371",
+   "Jug_Entra": "MATIAS CLAUDIO MARCHESANO",
+   "camiseta": "79",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "25908",
+   "Jug_Sale": "JUAN MANUEL LAZBAL",
+   "CarneEntra": "51479",
+   "Jug_Entra": "LUIS ANDRES SOSA",
+   "camiseta": "30",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "25908",
+   "Jug_Sale": "JUAN MANUEL LAZBAL",
+   "CarneEntra": "34841",
+   "Jug_Entra": "GONZALO FEDERICO ROSSO",
+   "camiseta": "27",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52544",
+   "Nombre": "ALEXIS BRAVO",
+   "minutos": "88",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "minutos": "70",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "25908",
+   "Nombre": "JUAN MANUEL LAZBAL",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "33066",
+   "Nombre": "RAFAEL ESTEBAN GIMENEZ",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "33907",
+   "Nombre": "JOAQUIN CICATIELLO",
+   "minutos": "12",
+   "EnContra": "1"
+  },
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

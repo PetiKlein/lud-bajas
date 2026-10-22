@@ -1,0 +1,320 @@
+{
+ "id": "101700",
+ "categoria": "sub16",
+ "serie": "16-32",
+ "fecha": 7,
+ "fechaHora": "2026-09-06 13:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "COLEGIO SANTA ELENA",
+ "visitante": "DEPORTIVO MORON",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "222",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 3 RUEDA 2",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-06 15:10:00",
+  "Fecha_fin": "2026-09-06 15:10:00",
+  "Locatario": "COLEGIO SANTA ELENA",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO MORON",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62758",
+   "Nombre": "MANUEL LORENZO FAZZIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61644",
+   "Nombre": "FELIPE FERRO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "65398",
+   "Nombre": "BRUNO ANTONIO GIACOMINI",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66009",
+   "Nombre": "JOAQUIN DOMINGO LUCA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65893",
+   "Nombre": "FACUNDO QUARTINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65402",
+   "Nombre": "FRANCO VILLAGRAN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68395",
+   "Nombre": "BORJA QUIROGA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61460",
+   "Nombre": "SANTIAGO GUTIERREZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "65396",
+   "Nombre": "IÑAKI SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65389",
+   "Nombre": "LORENZO PERROTTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65403",
+   "Nombre": "MATEO VALENTIN LOPEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61563",
+   "Nombre": "LUCAS ILLARRAMENDI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67864",
+   "Nombre": "TOMAS FERRANDO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62923",
+   "Nombre": "FRANCISCO CROSSA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66817",
+   "Nombre": "MARTIN GUEDES DE REZENDE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68912",
+   "Nombre": "JOHANN SANTIAGO FERNANDEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "67499",
+   "Nombre": "FRANCO SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67491",
+   "Nombre": "FELIPE SABIANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61494",
+   "Nombre": "BAUTISTA MIRABAL",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61560",
+   "Nombre": "ANTONIO CARVALLIDO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67497",
+   "Nombre": "VALENTINO LOPEZ",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "61456",
+   "Nombre": "EMILIANO ANDRES OCAMPO",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65402",
+   "Jug_Sale": "FRANCO VILLAGRAN",
+   "CarneEntra": "68687",
+   "Jug_Entra": "BERNARDO CALVIÑO",
+   "camiseta": "23",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65403",
+   "Jug_Sale": "MATEO VALENTIN LOPEZ",
+   "CarneEntra": "68396",
+   "Jug_Entra": "JUAQUIN JACINTO PORCAL",
+   "camiseta": "20",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65389",
+   "Jug_Sale": "LORENZO PERROTTA",
+   "CarneEntra": "65585",
+   "Jug_Entra": "JOAQUIN MOREIRA",
+   "camiseta": "7",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65893",
+   "Jug_Sale": "FACUNDO QUARTINO",
+   "CarneEntra": "65400",
+   "Jug_Entra": "JUAN EMILIO BORGEAUD",
+   "camiseta": "4",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "61644",
+   "Jug_Sale": "FELIPE FERRO",
+   "CarneEntra": "65383",
+   "Jug_Entra": "JUAN MANUEL MORENA",
+   "camiseta": "33",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67864",
+   "Jug_Sale": "TOMAS FERRANDO",
+   "CarneEntra": "62261",
+   "Jug_Entra": "LUCIANO BUTTERI",
+   "camiseta": "3",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "61494",
+   "Jug_Sale": "BAUTISTA MIRABAL",
+   "CarneEntra": "61993",
+   "Jug_Entra": "JOAQUIN PEREYRA",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67491",
+   "Jug_Sale": "FELIPE SABIANO",
+   "CarneEntra": "66816",
+   "Jug_Entra": "IGNACIO GALIZIA",
+   "camiseta": "7",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "61456",
+   "Jug_Sale": "EMILIANO ANDRES OCAMPO",
+   "CarneEntra": "66678",
+   "Jug_Entra": "FABIO ALEXANDER SUREZ",
+   "camiseta": "90",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67497",
+   "Jug_Sale": "VALENTINO LOPEZ",
+   "CarneEntra": "67862",
+   "Jug_Entra": "LAUTARO GASTON GIORDANO",
+   "camiseta": "21",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "66817",
+   "Jug_Sale": "MARTIN GUEDES DE REZENDE",
+   "CarneEntra": "63588",
+   "Jug_Entra": "JUAN IGNACIO RAIMONDO",
+   "camiseta": "24",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "61560",
+   "Jug_Sale": "ANTONIO CARVALLIDO",
+   "CarneEntra": "66814",
+   "Jug_Entra": "LUCIO AGUSTIN BENITEZ",
+   "camiseta": "11",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "67499",
+   "Jug_Sale": "FRANCO SILVA",
+   "CarneEntra": "61458",
+   "Jug_Entra": "GERONIMO RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "61563",
+   "Jug_Sale": "LUCAS ILLARRAMENDI",
+   "CarneEntra": "66405",
+   "Jug_Entra": "FRANCO CHIAPPE",
+   "camiseta": "1",
+   "minutos": "60"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61460",
+   "Nombre": "SANTIAGO GUTIERREZ",
+   "minutos": "67",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65398",
+   "Nombre": "BRUNO ANTONIO GIACOMINI",
+   "minutos": "73",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61560",
+   "Nombre": "ANTONIO CARVALLIDO",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66678",
+   "Nombre": "FABIO ALEXANDER SUREZ",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66678",
+   "Nombre": "FABIO ALEXANDER SUREZ",
+   "minutos": "69",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

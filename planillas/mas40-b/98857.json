@@ -1,0 +1,295 @@
+{
+ "id": "98857",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "DANUBIO FUTBOL CLUB",
+ "visitante": "FLORES UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "155",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-05-16 11:00:00",
+  "Fecha_fin": "2026-05-16 11:00:00",
+  "Locatario": "DANUBIO FUTBOL CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "FLORES UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "14645",
+   "Nombre": "PABLO ALBERTO FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "18843",
+   "Nombre": "WILLIAM GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61118",
+   "Nombre": "RUBEN DARIO GEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "20702",
+   "Nombre": "JOSE LUIS TRIGO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "58932",
+   "Nombre": "JULIO MARTIN FIGUEREDO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "13451",
+   "Nombre": "OSCAR ALEJANDRO ARRUDA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "19281",
+   "Nombre": "GABRIEL COPELOTTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "29411",
+   "Nombre": "ALFONSO MICHEL MARQUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "19856",
+   "Nombre": "SEBASTIAN JORGE RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "21796",
+   "Nombre": "GUILLERMO FEDERICO URAN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "66193",
+   "Nombre": "LUIS MAYORGA",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "19543",
+   "Nombre": "NICOLAS RENATO BALDRIZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22321",
+   "Nombre": "JOSE IGNACIO GERVAZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "18937",
+   "Nombre": "RAFAEL GONZALEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "43482",
+   "Nombre": "ALEXIS MARTIN ARENAZA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "26537",
+   "Nombre": "GONZALO LANGONI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "43073",
+   "Nombre": "ALEJANDRO RAFAEL DELUCA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "17153",
+   "Nombre": "JUAN IGNACIO HERMIDA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "20146",
+   "Nombre": "PABLO JAVIER VIERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "22225",
+   "Nombre": "ENRIQUE DANIEL PADIAL",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "18444",
+   "Nombre": "JOAQUIN BORBONET",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "18594",
+   "Nombre": "SEBASTIAN ANDRES PESCE",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "58932",
+   "Jug_Sale": "JULIO MARTIN FIGUEREDO",
+   "CarneEntra": "17384",
+   "Jug_Entra": "DIEGO PERDOMO",
+   "camiseta": "4",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "18843",
+   "Jug_Sale": "WILLIAM GONZALEZ",
+   "CarneEntra": "23153",
+   "Jug_Entra": "FABIAN VICTOR CORE",
+   "camiseta": "44",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "21796",
+   "Jug_Sale": "GUILLERMO FEDERICO URAN",
+   "CarneEntra": "35270",
+   "Jug_Entra": "WALTER GIANNI BALDASSARI",
+   "camiseta": "86",
+   "minutos": "6"
+  },
+  {
+   "CarneSale": "61118",
+   "Jug_Sale": "RUBEN DARIO GEREZ",
+   "CarneEntra": "66193",
+   "Jug_Entra": "LUIS MAYORGA",
+   "camiseta": "23",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "19281",
+   "Jug_Sale": "GABRIEL COPELOTTI",
+   "CarneEntra": "18625",
+   "Jug_Entra": "RAMIRO ADOLFO RODRIGUEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66193",
+   "Jug_Sale": "LUIS MAYORGA",
+   "CarneEntra": "58590",
+   "Jug_Entra": "DIEGO FERREIRA",
+   "camiseta": "10",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22225",
+   "Jug_Sale": "ENRIQUE DANIEL PADIAL",
+   "CarneEntra": "17125",
+   "Jug_Entra": "MARTIN LIGUORI",
+   "camiseta": "22",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "43482",
+   "Jug_Sale": "ALEXIS MARTIN ARENAZA",
+   "CarneEntra": "63237",
+   "Jug_Entra": "FEDERICO CHACON",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43073",
+   "Jug_Sale": "ALEJANDRO RAFAEL DELUCA",
+   "CarneEntra": "23923",
+   "Jug_Entra": "MARCELO HORACIO SOSA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18444",
+   "Jug_Sale": "JOAQUIN BORBONET",
+   "CarneEntra": "16210",
+   "Jug_Entra": "JOSE GABRIEL SUAREZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20146",
+   "Jug_Sale": "PABLO JAVIER VIERA",
+   "CarneEntra": "17253",
+   "Jug_Entra": "RAUL NICOLAS FLORIO",
+   "camiseta": "36",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "29411",
+   "Nombre": "ALFONSO MICHEL MARQUEZ",
+   "minutos": "65",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "17153",
+   "Nombre": "JUAN IGNACIO HERMIDA",
+   "minutos": "88",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17253",
+   "Nombre": "RAUL NICOLAS FLORIO",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22321",
+   "Nombre": "JOSE IGNACIO GERVAZ",
+   "minutos": "15",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "SEBASTIAN ANDRES PESCE",
+   "observaciones": ""
+  }
+ ]
+}

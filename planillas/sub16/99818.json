@@ -1,0 +1,260 @@
+{
+ "id": "99818",
+ "categoria": "sub16",
+ "serie": "16-4-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 13:30:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "111",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 4",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-06-07 00:00:00",
+  "Fecha_fin": "2026-06-07 00:00:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63944",
+   "Nombre": "ROBERTO SAENZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64081",
+   "Nombre": "GERONIMO MENDOZA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63948",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65295",
+   "Nombre": "BAUTISTA SOSA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63940",
+   "Nombre": "GERONIMO SPERANZA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61623",
+   "Nombre": "PABLO MARCELO TOPOLANSKY",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67912",
+   "Nombre": "JUAN  MANUEL PICERNO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64242",
+   "Nombre": "GERONIMO VAYTKEVCIUS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66600",
+   "Nombre": "AGUSTIN MARCHETTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63945",
+   "Nombre": "CONSTANTINO AROCENA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64247",
+   "Nombre": "MATEO NIETO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60014",
+   "Nombre": "JERONIMO ORRICO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62499",
+   "Nombre": "BENITO BAQUERO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "61805",
+   "Nombre": "FEDERICO REYES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "63168",
+   "Nombre": "TOMAS REY",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61809",
+   "Nombre": "MAXIMO ITURBURU",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "61806",
+   "Nombre": "FELIPE MACHADO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61596",
+   "Nombre": "AGUSTIN BOZZOLO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "65623",
+   "Nombre": "BENJAMIN TROSTCHANSKY",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67761",
+   "Nombre": "BRUNO TELLERIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "59200",
+   "Nombre": "MATEO BIDEGAIN",
+   "camiseta": "75",
+   "Capitan": ""
+  },
+  {
+   "carne": "61804",
+   "Nombre": "JUAN MANUEL ZAMBRANO",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64247",
+   "Jug_Sale": "MATEO NIETO",
+   "CarneEntra": "66602",
+   "Jug_Entra": "EMILIANO CAUDURO",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63948",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "64083",
+   "Jug_Entra": "BAUTISTA DE SOUZA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67912",
+   "Jug_Sale": "JUAN  MANUEL PICERNO",
+   "CarneEntra": "65291",
+   "Jug_Entra": "EMILIANO SALGUEIRO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63945",
+   "Jug_Sale": "CONSTANTINO AROCENA",
+   "CarneEntra": "67018",
+   "Jug_Entra": "JOAQUIN RAMIREZ",
+   "camiseta": "4",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "65295",
+   "Jug_Sale": "BAUTISTA SOSA",
+   "CarneEntra": "64247",
+   "Jug_Entra": "MATEO NIETO",
+   "camiseta": "9",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "63940",
+   "Jug_Sale": "GERONIMO SPERANZA",
+   "CarneEntra": "67916",
+   "Jug_Entra": "SALVADOR VIDAL",
+   "camiseta": "17",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59200",
+   "Jug_Sale": "MATEO BIDEGAIN",
+   "CarneEntra": "61808",
+   "Jug_Entra": "LORENZO PAKCIARZ",
+   "camiseta": "13",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "65623",
+   "Jug_Sale": "BENJAMIN TROSTCHANSKY",
+   "CarneEntra": "62498",
+   "Jug_Entra": "TEO VOLONTE",
+   "camiseta": "11",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63940",
+   "Nombre": "GERONIMO SPERANZA",
+   "minutos": "41",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61596",
+   "Nombre": "AGUSTIN BOZZOLO",
+   "minutos": "6",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61804",
+   "Nombre": "JUAN MANUEL ZAMBRANO",
+   "minutos": "30",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

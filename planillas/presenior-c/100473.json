@@ -1,0 +1,291 @@
+{
+ "id": "100473",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "CLARA JACKSON UNIVERSITARIO",
+ "visitante": "DEPORTIVO MITRE",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "322",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-06-27 10:55:00",
+  "Fecha_fin": "2026-06-27 10:55:00",
+  "Locatario": "CLARA JACKSON UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "DEPORTIVO MITRE",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": "Se eleva nota."
+ },
+ "titularesL": [
+  {
+   "carne": "34406",
+   "Nombre": "FRANCO ANTONIO RICARDI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "32894",
+   "Nombre": "CARLOS ANDRES BENTANCOURT",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "33810",
+   "Nombre": "RODRIGO SOBRADO",
+   "camiseta": "63",
+   "Capitan": ""
+  },
+  {
+   "carne": "42789",
+   "Nombre": "DIEGO GABRIEL DEL PO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "28183",
+   "Nombre": "LEONARDO BANCHERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "30276",
+   "Nombre": "KLAVDIO AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "35291",
+   "Nombre": "ADRIAN MONTOLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "35443",
+   "Nombre": "RAFAEL LANZETTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "34628",
+   "Nombre": "SANTIAGO PATRICIO IGLESIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35642",
+   "Nombre": "PABLO DANIEL OLIVERA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "20274",
+   "Nombre": "ALEJANDRO BRUBACHER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38740",
+   "Nombre": "FEDERICO BRANDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "23889",
+   "Nombre": "ANDRES BAUDO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "33110",
+   "Nombre": "GABRIEL ARBIZA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "50049",
+   "Nombre": "DIEGO MARTIN ALBANO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "29857",
+   "Nombre": "GUILLERMO SLINGER",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "27464",
+   "Nombre": "MAURICIO GASTON ARAMBILLET",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "20621",
+   "Nombre": "MATEO IGNACIO CABRAL",
+   "camiseta": "47",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33279",
+   "Nombre": "FEDERICO JAVIER PESELEWITZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "20276",
+   "Nombre": "GASTON LUIS MENENDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28604",
+   "Nombre": "MARCELO MARTIN SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42789",
+   "Jug_Sale": "DIEGO GABRIEL DEL PO",
+   "CarneEntra": "57636",
+   "Jug_Entra": "FACUNDO RUBEN MANZI",
+   "camiseta": "14",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "35443",
+   "Jug_Sale": "RAFAEL LANZETTA",
+   "CarneEntra": "40042",
+   "Jug_Entra": "AGUSTIN GILI",
+   "camiseta": "24",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "35291",
+   "Jug_Sale": "ADRIAN MONTOLI",
+   "CarneEntra": "40810",
+   "Jug_Entra": "DANIEL RODRIGO TORT",
+   "camiseta": "55",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "20276",
+   "Jug_Sale": "GASTON LUIS MENENDEZ",
+   "CarneEntra": "20285",
+   "Jug_Entra": "RODRIGO GASTAMBIDE",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33279",
+   "Jug_Sale": "FEDERICO JAVIER PESELEWITZ",
+   "CarneEntra": "54923",
+   "Jug_Entra": "SANTIAGO ANDRES AVIERO",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50049",
+   "Jug_Sale": "DIEGO MARTIN ALBANO",
+   "CarneEntra": "68675",
+   "Jug_Entra": "AGUSTIN HERNAN DE AGUIRRE",
+   "camiseta": "26",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "28604",
+   "Jug_Sale": "MARCELO MARTIN SOSA",
+   "CarneEntra": "36926",
+   "Jug_Entra": "JUAN JOSE FILLAT",
+   "camiseta": "14",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "20621",
+   "Jug_Sale": "MATEO IGNACIO CABRAL",
+   "CarneEntra": "33279",
+   "Jug_Entra": "FEDERICO JAVIER PESELEWITZ",
+   "camiseta": "7",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "28183",
+   "Nombre": "LEONARDO BANCHERO",
+   "minutos": "99",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35291",
+   "Nombre": "ADRIAN MONTOLI",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "minutos": "9",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "20276",
+   "Nombre": "GASTON LUIS MENENDEZ",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27464",
+   "Nombre": "MAURICIO GASTON ARAMBILLET",
+   "minutos": "56",
+   "EnContra": "1"
+  },
+  {
+   "carne": "29857",
+   "Nombre": "GUILLERMO SLINGER",
+   "minutos": "48",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ANDRES BAUDO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "DIEGO MARTIN ALBANO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "GASTON LUIS MENENDEZ",
+   "observaciones": ""
+  }
+ ]
+}

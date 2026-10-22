@@ -1,0 +1,282 @@
+{
+ "id": "98784",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "LA BLANQUEADA",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "33",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-05-16 10:50:00",
+  "Fecha_fin": "2026-05-16 10:50:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "LA BLANQUEADA",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "40434",
+   "Nombre": "JUAN PABLO DEUS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "25136",
+   "Nombre": "EDUARDO MARCELO FRANCO",
+   "camiseta": "0",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25135",
+   "Nombre": "RODRIGO CAMPOAMOR",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "27444",
+   "Nombre": "FERNANDO RUBEN MATO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "27038",
+   "Nombre": "JAVIER CARRAU",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "27997",
+   "Nombre": "NICOLAS VALDEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "31819",
+   "Nombre": "NICOLAS ALEJANDRO FIORDELMONDO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "25243",
+   "Nombre": "DIEGO CABRERA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "23249",
+   "Nombre": "JUAN MANUEL MATO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23159",
+   "Nombre": "NICOLAS LOPEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "25027",
+   "Nombre": "SANTIAGO MATIAS RAMA",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37989",
+   "Nombre": "GABRIEL GUILLEN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25091",
+   "Nombre": "SERGIO MAROTTA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "23208",
+   "Nombre": "PABLO BRANDO",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25090",
+   "Nombre": "DARIO MACEDO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33288",
+   "Nombre": "RODRIGO GUSTAVO FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64286",
+   "Nombre": "DIEGO ANDRE GARCIA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "54318",
+   "Nombre": "SANTIAGO GABRIEL RIERA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "21216",
+   "Nombre": "GABRIEL TORRES TORRES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "39881",
+   "Nombre": "GERMAN MARTINEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "19194",
+   "Nombre": "AGUSTIN FARACHIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "34431",
+   "Nombre": "CLAUDIO ANDRES ZANCHETTA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "25136",
+   "Jug_Sale": "EDUARDO MARCELO FRANCO",
+   "CarneEntra": "36531",
+   "Jug_Entra": "IGNACIO JIMENEZ",
+   "camiseta": "71",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31819",
+   "Jug_Sale": "NICOLAS ALEJANDRO FIORDELMONDO",
+   "CarneEntra": "18309",
+   "Jug_Entra": "MATEO VIDAL",
+   "camiseta": "82",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27997",
+   "Jug_Sale": "NICOLAS VALDEZ",
+   "CarneEntra": "26713",
+   "Jug_Entra": "GUZMAN LUIS CASARINO",
+   "camiseta": "10",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "27444",
+   "Jug_Sale": "FERNANDO RUBEN MATO",
+   "CarneEntra": "28582",
+   "Jug_Entra": "DARIO DI GIOVANNI",
+   "camiseta": "24",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33288",
+   "Jug_Sale": "RODRIGO GUSTAVO FERNANDEZ",
+   "CarneEntra": "39193",
+   "Jug_Entra": "FRANCO JAVIER VETRALE",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39881",
+   "Jug_Sale": "GERMAN MARTINEZ",
+   "CarneEntra": "54473",
+   "Jug_Entra": "IGNACIO MARTIN GOMEZ",
+   "camiseta": "45",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34431",
+   "Jug_Sale": "CLAUDIO ANDRES ZANCHETTA",
+   "CarneEntra": "27597",
+   "Jug_Entra": "SANTIAGO LOPEZ PINTOS",
+   "camiseta": "91",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54318",
+   "Jug_Sale": "SANTIAGO GABRIEL RIERA",
+   "CarneEntra": "39880",
+   "Jug_Entra": "JUAN MANUEL ARANDA",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "25091",
+   "Jug_Sale": "SERGIO MAROTTA",
+   "CarneEntra": "26415",
+   "Jug_Entra": "MARTIN GABRIEL MORILLO",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "21216",
+   "Jug_Sale": "GABRIEL TORRES TORRES",
+   "CarneEntra": "26042",
+   "Jug_Entra": "DAVID JHONATAN MENESES",
+   "camiseta": "14",
+   "minutos": "84"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "25027",
+   "Nombre": "SANTIAGO MATIAS RAMA",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "25027",
+   "Nombre": "SANTIAGO MATIAS RAMA",
+   "minutos": "58",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "19194",
+   "Nombre": "AGUSTIN FARACHIO",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27597",
+   "Nombre": "SANTIAGO LOPEZ PINTOS",
+   "minutos": "81",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,312 @@
+{
+ "id": "99040",
+ "categoria": "presenior-e",
+ "serie": "PSE1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "LA CUEVA DEL LOBIZON",
+ "visitante": "FAMILIAR UNIVERSITARIO",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "509",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 1",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-05-23 11:00:00",
+  "Fecha_fin": "2026-05-23 11:00:00",
+  "Locatario": "LA CUEVA DEL LOBIZON",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "FAMILIAR UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32033",
+   "Nombre": "ENRIQUE MARTINEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "32032",
+   "Nombre": "SANTIAGO BORGIA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "28805",
+   "Nombre": "FEDERICO ROSSO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "33673",
+   "Nombre": "MARTIN ANDRES TORRES",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "48561",
+   "Nombre": "GUILLERMO GANDOLFO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33715",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "38201",
+   "Nombre": "NICOLAS RODRIGUEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "62180",
+   "Nombre": "AGUSTIN LAVENTURE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "22726",
+   "Nombre": "JUAN ANDRES ALDECOA",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26194",
+   "Nombre": "ALFONSO ROSSO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "23668",
+   "Nombre": "MAURO ANDRES SERRA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59691",
+   "Nombre": "LUIS KLEINER PLANCHON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31589",
+   "Nombre": "LEANDRO NICOLAS HAEDO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "29730",
+   "Nombre": "FABIAN LEANDRO MAKOWSKI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62379",
+   "Nombre": "DIEGO MARTIN BENITEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "58243",
+   "Nombre": "SEBASTIAN CORLETO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "57341",
+   "Nombre": "JHONATAN NICOLAS OCAMPO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "18221",
+   "Nombre": "ANDRES MAURO SICA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "29287",
+   "Nombre": "SANTIAGO BARRIOS",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "46299",
+   "Nombre": "MAXIMILIANO SORIA",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "25121",
+   "Nombre": "AGUSTIN GIOSCIA",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58955",
+   "Nombre": "BRUNO PAOLO DONATO",
+   "camiseta": "84",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "22726",
+   "Jug_Sale": "JUAN ANDRES ALDECOA",
+   "CarneEntra": "35129",
+   "Jug_Entra": "PABLO FARIAS",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32032",
+   "Jug_Sale": "SANTIAGO BORGIA",
+   "CarneEntra": "49909",
+   "Jug_Entra": "PABLO MAYOBRE",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23668",
+   "Jug_Sale": "MAURO ANDRES SERRA",
+   "CarneEntra": "19700",
+   "Jug_Entra": "ANDRES PIÑEYRUA",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "26194",
+   "Jug_Sale": "ALFONSO ROSSO",
+   "CarneEntra": "30916",
+   "Jug_Entra": "MATIAS LA CAVA",
+   "camiseta": "6",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "48561",
+   "Jug_Sale": "GUILLERMO GANDOLFO",
+   "CarneEntra": "27061",
+   "Jug_Entra": "FEDERICO ANDRES ROVASCIO",
+   "camiseta": "8",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "28805",
+   "Jug_Sale": "FEDERICO ROSSO",
+   "CarneEntra": "36207",
+   "Jug_Entra": "AGUSTIN CLEFFI",
+   "camiseta": "30",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "33673",
+   "Jug_Sale": "MARTIN ANDRES TORRES",
+   "CarneEntra": "37332",
+   "Jug_Entra": "FEDERICO ISPER",
+   "camiseta": "19",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "29287",
+   "Jug_Sale": "SANTIAGO BARRIOS",
+   "CarneEntra": "24982",
+   "Jug_Entra": "JUAN MANUEL APOLO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58243",
+   "Jug_Sale": "SEBASTIAN CORLETO",
+   "CarneEntra": "34116",
+   "Jug_Entra": "DIEGO NOBLE",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62379",
+   "Jug_Sale": "DIEGO MARTIN BENITEZ",
+   "CarneEntra": "54552",
+   "Jug_Entra": "GONZALO MACEDO",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25121",
+   "Jug_Sale": "AGUSTIN GIOSCIA",
+   "CarneEntra": "24145",
+   "Jug_Entra": "JUAN PABLO REBELLATTO",
+   "camiseta": "21",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "58955",
+   "Jug_Sale": "BRUNO PAOLO DONATO",
+   "CarneEntra": "66373",
+   "Jug_Entra": "DIEGO NICOLAS TRINDADE",
+   "camiseta": "80",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "18221",
+   "Jug_Sale": "ANDRES MAURO SICA",
+   "CarneEntra": "68611",
+   "Jug_Entra": "LEONARDO JAVIER BELTRAME",
+   "camiseta": "37",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23668",
+   "Nombre": "MAURO ANDRES SERRA",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "28805",
+   "Nombre": "FEDERICO ROSSO",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35129",
+   "Nombre": "PABLO FARIAS",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38201",
+   "Nombre": "NICOLAS RODRIGUEZ",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "46299",
+   "Nombre": "MAXIMILIANO SORIA",
+   "minutos": "56",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

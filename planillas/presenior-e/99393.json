@@ -1,0 +1,283 @@
+{
+ "id": "99393",
+ "categoria": "presenior-e",
+ "serie": "PSE1",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SANTA ELENA LAGOMAR",
+ "visitante": "POCO SITIO PLAYA VERDE",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "515",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 1",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-30 10:55:00",
+  "Fecha_fin": "2026-05-30 10:55:00",
+  "Locatario": "SANTA ELENA LAGOMAR",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "POCO SITIO PLAYA VERDE",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "42194",
+   "Nombre": "MAXIMILIANO CESAR BOGGIANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65097",
+   "Nombre": "SANTIAGO CIRILLI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "24979",
+   "Nombre": "MATHIAS NICOLAS MELGAR",
+   "camiseta": "50",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31846",
+   "Nombre": "JUAN DE PAOLIS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "21807",
+   "Nombre": "HECTOR SEBASTIAN DUTRA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "26411",
+   "Nombre": "JOAQUIN ANTONACCI",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "65031",
+   "Nombre": "EDUARDO MANUEL SANTOS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "38769",
+   "Nombre": "GONZALO MELO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "35570",
+   "Nombre": "GIULIANO JAVIER KUNS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "27210",
+   "Nombre": "BRUNO MARTIN SOUZA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "19905",
+   "Nombre": "WILMAN SEBASTIAN SUAREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "16469",
+   "Nombre": "ERNESTO CAMILO ROMERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "43930",
+   "Nombre": "FEDERICO RUILOPEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "23256",
+   "Nombre": "MATHIAS BARIZO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "53604",
+   "Nombre": "JONATHAN LUIS GREGORIO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "31812",
+   "Nombre": "EDUARDO ANDRES LLANES",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "44648",
+   "Nombre": "MATEO JOEL GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "34215",
+   "Nombre": "FRANCO VERDIAS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "59159",
+   "Nombre": "FEDERICO  GUSTAVO JIMENEZ DE ARECHAGA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "21380",
+   "Nombre": "JUAN IGNACIO PALERMO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "67003",
+   "Nombre": "MAXIMILIANO ANDRES CASTRO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "42314",
+   "Nombre": "MARCELO COLACHE",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "19905",
+   "Jug_Sale": "WILMAN SEBASTIAN SUAREZ",
+   "CarneEntra": "19152",
+   "Jug_Entra": "GUILLERMO JULIANO",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27210",
+   "Jug_Sale": "BRUNO MARTIN SOUZA",
+   "CarneEntra": "20312",
+   "Jug_Entra": "NICOLAS CARLE",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19905",
+   "Jug_Sale": "WILMAN SEBASTIAN SUAREZ",
+   "CarneEntra": "21807",
+   "Jug_Entra": "HECTOR SEBASTIAN DUTRA",
+   "camiseta": "8",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "43930",
+   "Jug_Sale": "FEDERICO RUILOPEZ",
+   "CarneEntra": "38830",
+   "Jug_Entra": "SANTIAGO AGUSTIN FURINO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53604",
+   "Jug_Sale": "JONATHAN LUIS GREGORIO",
+   "CarneEntra": "28326",
+   "Jug_Entra": "SANTIAGO COLA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34215",
+   "Jug_Sale": "FRANCO VERDIAS",
+   "CarneEntra": "31438",
+   "Jug_Entra": "JUAN MARCELO FALCO",
+   "camiseta": "5",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "23256",
+   "Jug_Sale": "MATHIAS BARIZO",
+   "CarneEntra": "43930",
+   "Jug_Entra": "FEDERICO RUILOPEZ",
+   "camiseta": "16",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "44648",
+   "Jug_Sale": "MATEO JOEL GONZALEZ",
+   "CarneEntra": "23256",
+   "Jug_Entra": "MATHIAS BARIZO",
+   "camiseta": "9",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "26411",
+   "Nombre": "JOAQUIN ANTONACCI",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "26411",
+   "Nombre": "JOAQUIN ANTONACCI",
+   "minutos": "13",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "21380",
+   "Nombre": "JUAN IGNACIO PALERMO",
+   "minutos": "92",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23256",
+   "Nombre": "MATHIAS BARIZO",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "44648",
+   "Nombre": "MATEO JOEL GONZALEZ",
+   "minutos": "57",
+   "EnContra": "1"
+  },
+  {
+   "carne": "44648",
+   "Nombre": "MATEO JOEL GONZALEZ",
+   "minutos": "61",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ERNESTO CAMILO ROMERO",
+   "observaciones": ""
+  }
+ ]
+}

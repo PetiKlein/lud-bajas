@@ -1,0 +1,289 @@
+{
+ "id": "100147",
+ "categoria": "sub18",
+ "serie": "18-2-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 15:30:00",
+ "cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+ "local": "HEBRAICA UNIVERSITARIO",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 0,
+ "gv": 8,
+ "detalle": {
+  "nro_partido": "40",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 2",
+  "Cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+  "Fecha_Inicio": "2026-06-14 17:15:00",
+  "Fecha_fin": "2026-06-14 17:15:00",
+  "Locatario": "HEBRAICA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "8",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62961",
+   "Nombre": "JOAQUIN SILVANO FLORES",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "62782",
+   "Nombre": "BENICIO GERSTENFELD",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "62778",
+   "Nombre": "TOMAS MADERO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61577",
+   "Nombre": "RODRIGO BIDERMAN",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "59292",
+   "Nombre": "EZEQUIEL SKORKA",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61575",
+   "Nombre": "RONY GANDELMAN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "57693",
+   "Nombre": "BENJAMIN LOBLOWITZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59288",
+   "Nombre": "NICOLAS COSAC",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59817",
+   "Nombre": "THIAGO MARTINEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61131",
+   "Nombre": "GONZALO FRANCISCO RIVERO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "65775",
+   "Nombre": "FACUNDO KOLENDER",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58598",
+   "Nombre": "NICOLAS MAZZILLI",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63871",
+   "Nombre": "JUAN ANDRES DELGADO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "60869",
+   "Nombre": "AGUSTIN SANTAMARINA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57297",
+   "Nombre": "FACUNDO SAPELLO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59082",
+   "Nombre": "MARTIN JOSE DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62030",
+   "Nombre": "FRANCO TORTEROLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60868",
+   "Nombre": "IGNACIO ANDRES LEGARRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62137",
+   "Nombre": "FRANCISCO BARROS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62553",
+   "Nombre": "FELIPE GOSLINO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58599",
+   "Nombre": "FACUNDO MOSCA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62166",
+   "Nombre": "FELIPE AMARO LACASSY",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59817",
+   "Jug_Sale": "THIAGO MARTINEZ",
+   "CarneEntra": "62775",
+   "Jug_Entra": "ALAN BARILAS",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62782",
+   "Jug_Sale": "BENICIO GERSTENFELD",
+   "CarneEntra": "63272",
+   "Jug_Entra": "DIEGO OSCAR GOLDMAN",
+   "camiseta": "50",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "61577",
+   "Jug_Sale": "RODRIGO BIDERMAN",
+   "CarneEntra": "59285",
+   "Jug_Entra": "MATIAS LEVY",
+   "camiseta": "7",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62166",
+   "Jug_Sale": "FELIPE AMARO LACASSY",
+   "CarneEntra": "63872",
+   "Jug_Entra": "MANUEL DE LA PEÑA",
+   "camiseta": "19",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "57297",
+   "Jug_Sale": "FACUNDO SAPELLO",
+   "CarneEntra": "63928",
+   "Jug_Entra": "JUAN MARTIN MESA",
+   "camiseta": "2",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "60868",
+   "Jug_Sale": "IGNACIO ANDRES LEGARRA",
+   "CarneEntra": "62948",
+   "Jug_Entra": "JOAQUIN CAPPUCCIO",
+   "camiseta": "6",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62553",
+   "Jug_Sale": "FELIPE GOSLINO",
+   "CarneEntra": "65364",
+   "Jug_Entra": "FRANCISO RAMOS",
+   "camiseta": "16",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62137",
+   "Jug_Sale": "FRANCISCO BARROS",
+   "CarneEntra": "62171",
+   "Jug_Entra": "MATIAS RODRIGUEZ",
+   "camiseta": "18",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "58599",
+   "Nombre": "FACUNDO MOSCA",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58599",
+   "Nombre": "FACUNDO MOSCA",
+   "minutos": "56",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60868",
+   "Nombre": "IGNACIO ANDRES LEGARRA",
+   "minutos": "14",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62030",
+   "Nombre": "FRANCO TORTEROLO",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62166",
+   "Nombre": "FELIPE AMARO LACASSY",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62553",
+   "Nombre": "FELIPE GOSLINO",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63871",
+   "Nombre": "JUAN ANDRES DELGADO",
+   "minutos": "72",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63872",
+   "Nombre": "MANUEL DE LA PEÑA",
+   "minutos": "74",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

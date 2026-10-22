@@ -1,0 +1,283 @@
+{
+ "id": "102793",
+ "categoria": "sub16",
+ "serie": "16-22",
+ "fecha": 4,
+ "fechaHora": "2026-10-11 13:30:00",
+ "cancha": "MICROSULES",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "184",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 2 RUEDA 2",
+  "Cancha": "MICROSULES",
+  "Fecha_Inicio": "2026-10-11 15:30:00",
+  "Fecha_fin": "2026-10-11 15:30:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67663",
+   "Nombre": "NICOLAS MATEO SANTA MARIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65755",
+   "Nombre": "LAUTARO EZEQUIEL VELAZQUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68076",
+   "Nombre": "DAMIAN EZEQUIEL NASTASI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68087",
+   "Nombre": "NAHUEL EZEQUIEL ALFONSO",
+   "camiseta": "99",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64466",
+   "Nombre": "BENSHAMIN DA ROSA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "68185",
+   "Nombre": "LUCIANO CASTRO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65998",
+   "Nombre": "LIAN SUAREZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "69124",
+   "Nombre": "FACUNDO MARTIN VARELA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "68813",
+   "Nombre": "THIAGO FRANCOIS ALFONSO",
+   "camiseta": "53",
+   "Capitan": ""
+  },
+  {
+   "carne": "68909",
+   "Nombre": "MATEO AGUSTIN RODRIGUEZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "67659",
+   "Nombre": "MARTIN MAGALLANES",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63096",
+   "Nombre": "MARCOS MARTIN LEIRA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "62871",
+   "Nombre": "BENJAMIN FERNANDEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "64183",
+   "Nombre": "CAMILO VEGA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64175",
+   "Nombre": "LUCAS COALLA",
+   "camiseta": "39",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64176",
+   "Nombre": "MANUEL MENDARO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64177",
+   "Nombre": "VALENTIN GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67724",
+   "Nombre": "TIZIANO AMADO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "66552",
+   "Nombre": "FACUNDO NICOLAS ORIBE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66549",
+   "Nombre": "JOAQUIN LOPEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66551",
+   "Nombre": "EMANUEL CORREA",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "68713",
+   "Nombre": "FEDERICO FERRARES",
+   "camiseta": "89",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67659",
+   "Jug_Sale": "MARTIN MAGALLANES",
+   "CarneEntra": "68085",
+   "Jug_Entra": "ZIRALDO TECHERA",
+   "camiseta": "17",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "69124",
+   "Jug_Sale": "FACUNDO MARTIN VARELA",
+   "CarneEntra": "68082",
+   "Jug_Entra": "RAMIRO MARTIN SILVA",
+   "camiseta": "8",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "68813",
+   "Jug_Sale": "THIAGO FRANCOIS ALFONSO",
+   "CarneEntra": "67659",
+   "Jug_Entra": "MARTIN MAGALLANES",
+   "camiseta": "14",
+   "minutos": "54"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64176",
+   "Jug_Sale": "MANUEL MENDARO",
+   "CarneEntra": "60447",
+   "Jug_Entra": "MAXIMO SARALEGUI",
+   "camiseta": "10",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "64177",
+   "Jug_Sale": "VALENTIN GONZALEZ",
+   "CarneEntra": "63941",
+   "Jug_Entra": "FEDERICO DANERS",
+   "camiseta": "18",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "66549",
+   "Jug_Sale": "JOAQUIN LOPEZ",
+   "CarneEntra": "64180",
+   "Jug_Entra": "CAETANO BEYHAUT",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "68713",
+   "Jug_Sale": "FEDERICO FERRARES",
+   "CarneEntra": "66866",
+   "Jug_Entra": "IGNACIO CENTURION",
+   "camiseta": "77",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "66866",
+   "Jug_Sale": "IGNACIO CENTURION",
+   "CarneEntra": "66547",
+   "Jug_Entra": "TOMAS SALORT",
+   "camiseta": "74",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "64180",
+   "Jug_Sale": "CAETANO BEYHAUT",
+   "CarneEntra": "66501",
+   "Jug_Entra": "SANTINO ELLIOT",
+   "camiseta": "9",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "66551",
+   "Jug_Sale": "EMANUEL CORREA",
+   "CarneEntra": "66868",
+   "Jug_Entra": "MARTIN IURATO",
+   "camiseta": "23",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "66552",
+   "Jug_Sale": "FACUNDO NICOLAS ORIBE",
+   "CarneEntra": "66553",
+   "Jug_Entra": "MAURO GOMEZ",
+   "camiseta": "35",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "64183",
+   "Nombre": "CAMILO VEGA",
+   "minutos": "79",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66551",
+   "Nombre": "EMANUEL CORREA",
+   "minutos": "37",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66551",
+   "Nombre": "EMANUEL CORREA",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

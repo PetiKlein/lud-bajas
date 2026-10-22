@@ -1,0 +1,277 @@
+{
+ "id": "101195",
+ "categoria": "mas40-c",
+ "serie": "M40P",
+ "fecha": 5,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "WANDERERS",
+ "visitante": "POCO SITIO PLAYA VERDE",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "366",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "M40 DIV. C COPA PLATA R1",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-08-29 11:15:00",
+  "Fecha_fin": "2026-08-29 11:15:00",
+  "Locatario": "WANDERERS",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "POCO SITIO PLAYA VERDE",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54310",
+   "Nombre": "JAVIER DI LONGO PINALI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "23120",
+   "Nombre": "FABRICIO ADRIAN RICOBALDI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "20364",
+   "Nombre": "NICOLAS MARTIN ERRICO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "15281",
+   "Nombre": "JAVIER GONZALEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "17546",
+   "Nombre": "PABLO AGUSTIN EGUES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61953",
+   "Nombre": "NICOLAS JULIO CANESSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "17886",
+   "Nombre": "ENZO BOSSANO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "53619",
+   "Nombre": "GABRIEL ALEJANDRO DACAL",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "28497",
+   "Nombre": "RODRIGO FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "13999",
+   "Nombre": "RAFAEL IGNACIO DI BELLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "20905",
+   "Nombre": "FACUNDO LOPEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59318",
+   "Nombre": "JUAN MARIA BRINGA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "22683",
+   "Nombre": "MAURICIO JOSE MUNIZ",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58797",
+   "Nombre": "MARTIN LUIS BRINDISI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63633",
+   "Nombre": "NICOLAS ANDRES SORIA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "19109",
+   "Nombre": "PABLO ERNESTO BARITUSSIO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "19122",
+   "Nombre": "DIEGO MARTIN GONCALVES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65009",
+   "Nombre": "SEBASTIAN NOGUEIRA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "19121",
+   "Nombre": "DENIS MAURICIO FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "29471",
+   "Nombre": "CHRISTOPER RODRIGUEZ CHAVES",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "20666",
+   "Nombre": "JAVIER ALEC GARCIA",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "53717",
+   "Nombre": "RODOLFO FABIAN ACEVEDO FAGUNDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61953",
+   "Jug_Sale": "NICOLAS JULIO CANESSA",
+   "CarneEntra": "45343",
+   "Jug_Entra": "SANTIAGO ANTONIO RODRIGUEZ",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "13999",
+   "Jug_Sale": "RAFAEL IGNACIO DI BELLO",
+   "CarneEntra": "22794",
+   "Jug_Entra": "MAURO ANDRES BURGOS",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23120",
+   "Jug_Sale": "FABRICIO ADRIAN RICOBALDI",
+   "CarneEntra": "15143",
+   "Jug_Entra": "NICOLAS LIEUTIER",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17886",
+   "Jug_Sale": "ENZO BOSSANO",
+   "CarneEntra": "13999",
+   "Jug_Entra": "RAFAEL IGNACIO DI BELLO",
+   "camiseta": "21",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "53619",
+   "Jug_Sale": "GABRIEL ALEJANDRO DACAL",
+   "CarneEntra": "61953",
+   "Jug_Entra": "NICOLAS JULIO CANESSA",
+   "camiseta": "24",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "29471",
+   "Jug_Sale": "CHRISTOPER RODRIGUEZ CHAVES",
+   "CarneEntra": "21524",
+   "Jug_Entra": "DIEGO SEBASTIAN LUJAMBIO",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53717",
+   "Jug_Sale": "RODOLFO FABIAN ACEVEDO FAGUNDEZ",
+   "CarneEntra": "51463",
+   "Jug_Entra": "CARLOS ALFREDO BENITEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63633",
+   "Jug_Sale": "NICOLAS ANDRES SORIA",
+   "CarneEntra": "46960",
+   "Jug_Entra": "FEDERICO GUSTAVO DEMICHERI",
+   "camiseta": "48",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "53717",
+   "Jug_Sale": "RODOLFO FABIAN ACEVEDO FAGUNDEZ",
+   "CarneEntra": "63633",
+   "Jug_Entra": "NICOLAS ANDRES SORIA",
+   "camiseta": "11",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "65009",
+   "Jug_Sale": "SEBASTIAN NOGUEIRA",
+   "CarneEntra": "63633",
+   "Jug_Entra": "NICOLAS ANDRES SORIA",
+   "camiseta": "22",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "29471",
+   "Jug_Sale": "CHRISTOPER RODRIGUEZ CHAVES",
+   "CarneEntra": "20666",
+   "Jug_Entra": "JAVIER ALEC GARCIA",
+   "camiseta": "40",
+   "minutos": "37"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53619",
+   "Nombre": "GABRIEL ALEJANDRO DACAL",
+   "minutos": "8",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61953",
+   "Nombre": "NICOLAS JULIO CANESSA",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

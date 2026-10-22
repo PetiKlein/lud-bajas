@@ -1,0 +1,248 @@
+{
+ "id": "102799",
+ "categoria": "sub16",
+ "serie": "16-22",
+ "fecha": 4,
+ "fechaHora": "2026-10-11 13:30:00",
+ "cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+ "local": "HEBRAICA UNIVERSITARIO",
+ "visitante": "LA BLANQUEADA",
+ "gl": 5,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "182",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 2 RUEDA 2",
+  "Cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+  "Fecha_Inicio": "2026-10-11 15:10:00",
+  "Fecha_fin": "2026-10-11 15:10:00",
+  "Locatario": "HEBRAICA UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "LA BLANQUEADA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68271",
+   "Nombre": "EMILIANO KLEIMAN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67220",
+   "Nombre": "FERNANDO TROSTCHANSKY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "69109",
+   "Nombre": "ILAN PROBST",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68219",
+   "Nombre": "FELIPE VALENTIN CANIAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "63971",
+   "Nombre": "DAN BRONSTEIN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63970",
+   "Nombre": "TOBIAS EIDELMAN",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65326",
+   "Nombre": "TOMAS PIVEN",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "66959",
+   "Nombre": "MATIAS RODY ALBOJER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66955",
+   "Nombre": "THIAGO BERENSTEIN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66922",
+   "Nombre": "ALAN BENCHOA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65775",
+   "Nombre": "FACUNDO KOLENDER",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65860",
+   "Nombre": "DAVID GREGORIO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65467",
+   "Nombre": "EMILIANO MARTINEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65310",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62877",
+   "Nombre": "THIAGO CORREA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64227",
+   "Nombre": "FACUNDO GERIBONI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66893",
+   "Nombre": "DIEGO OLIVERA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62880",
+   "Nombre": "GONZALO ABELLA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "68259",
+   "Nombre": "LAUTARO PORTILLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "62879",
+   "Nombre": "FACUNDO SANTINO LEITES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64907",
+   "Nombre": "SANTIAGO GARCIA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66741",
+   "Nombre": "JOAQUIN TARANTO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66955",
+   "Jug_Sale": "THIAGO BERENSTEIN",
+   "CarneEntra": "66920",
+   "Jug_Entra": "BENJAMIN KOPEL",
+   "camiseta": "4",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "65775",
+   "Jug_Sale": "FACUNDO KOLENDER",
+   "CarneEntra": "66923",
+   "Jug_Entra": "SANTIAGO CHEBI",
+   "camiseta": "30",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67220",
+   "Jug_Sale": "FERNANDO TROSTCHANSKY",
+   "CarneEntra": "67147",
+   "Jug_Entra": "MATIAS VALANSI",
+   "camiseta": "8",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "66959",
+   "Jug_Sale": "MATIAS RODY ALBOJER",
+   "CarneEntra": "66955",
+   "Jug_Entra": "THIAGO BERENSTEIN",
+   "camiseta": "13",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "66922",
+   "Nombre": "ALAN BENCHOA",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66922",
+   "Nombre": "ALAN BENCHOA",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66922",
+   "Nombre": "ALAN BENCHOA",
+   "minutos": "72",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67220",
+   "Nombre": "FERNANDO TROSTCHANSKY",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "69109",
+   "Nombre": "ILAN PROBST",
+   "minutos": "41",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "ILAN PROBST",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "observaciones": ""
+  }
+ ]
+}

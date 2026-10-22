@@ -1,0 +1,318 @@
+{
+ "id": "100511",
+ "categoria": "presenior-e",
+ "serie": "PSEP",
+ "fecha": 1,
+ "fechaHora": "2026-06-27 11:15:00",
+ "cancha": "CHACRA PASO DEL SAUCE",
+ "local": "APENAS UNIVERSITARIO",
+ "visitante": "CIENFAR F.C.",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "720",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PS DIV. E 1ªR COPA PLATA",
+  "Cancha": "CHACRA PASO DEL SAUCE",
+  "Fecha_Inicio": "2026-06-27 13:15:00",
+  "Fecha_fin": "2026-06-27 13:15:00",
+  "Locatario": "APENAS UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "CIENFAR F.C.",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67446",
+   "Nombre": "ENZO GABRIEL PIOVANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34081",
+   "Nombre": "MARTIN SEBASTIAN DESPAUX",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "38767",
+   "Nombre": "PAUL MARCEL BERRIEL",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65780",
+   "Nombre": "NICOLAS ERIC FERRAZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "37503",
+   "Nombre": "NICOLAS RODRIGO BRANDI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "49202",
+   "Nombre": "LEONARDO ARIONI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "32393",
+   "Nombre": "GASTON ROBERTO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "34084",
+   "Nombre": "MARCELO ANDRES CHAVEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "29690",
+   "Nombre": "GUZMAN ARTICARDI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68279",
+   "Nombre": "GASTON ANDRES ENCISO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67447",
+   "Nombre": "GASTON LUCAS FOLIATTI",
+   "camiseta": "92",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "17796",
+   "Nombre": "IGNACIO BARRETO",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28670",
+   "Nombre": "FEDERICO CARLOS ZUBILLAGA",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "52499",
+   "Nombre": "RODOLFO ECHEMENDIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "33079",
+   "Nombre": "CAMILO BENTANCUR",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "28038",
+   "Nombre": "MAXIMILIANO CHIAPPINI",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "38789",
+   "Nombre": "NICOLAS FARIAS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "23410",
+   "Nombre": "ADRIANO JOSE CIRONE",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "37656",
+   "Nombre": "ANGEL MATIAS RODRIGUEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "30936",
+   "Nombre": "MARIO MATIAS MACHADO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "36922",
+   "Nombre": "MAURICIO FARIAS",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "27619",
+   "Nombre": "DANIEL EDGARDO MAROTTA",
+   "camiseta": "47",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "37503",
+   "Jug_Sale": "NICOLAS RODRIGO BRANDI",
+   "CarneEntra": "38239",
+   "Jug_Entra": "SANTIAGO MARTIN SOSA",
+   "camiseta": "21",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "29690",
+   "Jug_Sale": "GUZMAN ARTICARDI",
+   "CarneEntra": "34081",
+   "Jug_Entra": "MARTIN SEBASTIAN DESPAUX",
+   "camiseta": "28",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "49202",
+   "Jug_Sale": "LEONARDO ARIONI",
+   "CarneEntra": "67447",
+   "Jug_Entra": "GASTON LUCAS FOLIATTI",
+   "camiseta": "92",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "67447",
+   "Jug_Sale": "GASTON LUCAS FOLIATTI",
+   "CarneEntra": "35007",
+   "Jug_Entra": "BRAHIAN VIDIR",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34081",
+   "Jug_Sale": "MARTIN SEBASTIAN DESPAUX",
+   "CarneEntra": "37503",
+   "Jug_Entra": "NICOLAS RODRIGO BRANDI",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67447",
+   "Jug_Sale": "GASTON LUCAS FOLIATTI",
+   "CarneEntra": "29690",
+   "Jug_Entra": "GUZMAN ARTICARDI",
+   "camiseta": "20",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "34084",
+   "Jug_Sale": "MARCELO ANDRES CHAVEZ",
+   "CarneEntra": "49202",
+   "Jug_Entra": "LEONARDO ARIONI",
+   "camiseta": "15",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33079",
+   "Jug_Sale": "CAMILO BENTANCUR",
+   "CarneEntra": "49947",
+   "Jug_Entra": "GUILLERMO PIREZ",
+   "camiseta": "35",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28038",
+   "Jug_Sale": "MAXIMILIANO CHIAPPINI",
+   "CarneEntra": "23978",
+   "Jug_Entra": "GERMAN DEAGOSTO",
+   "camiseta": "70",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23410",
+   "Jug_Sale": "ADRIANO JOSE CIRONE",
+   "CarneEntra": "36786",
+   "Jug_Entra": "PABLO FEDERICO COLLAZO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38789",
+   "Jug_Sale": "NICOLAS FARIAS",
+   "CarneEntra": "23410",
+   "Jug_Entra": "ADRIANO JOSE CIRONE",
+   "camiseta": "40",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "52499",
+   "Jug_Sale": "RODOLFO ECHEMENDIA",
+   "CarneEntra": "28038",
+   "Jug_Entra": "MAXIMILIANO CHIAPPINI",
+   "camiseta": "36",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "28670",
+   "Jug_Sale": "FEDERICO CARLOS ZUBILLAGA",
+   "CarneEntra": "38789",
+   "Jug_Entra": "NICOLAS FARIAS",
+   "camiseta": "28",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "29690",
+   "Nombre": "GUZMAN ARTICARDI",
+   "minutos": "87",
+   "EnContra": "0"
+  },
+  {
+   "carne": "34084",
+   "Nombre": "MARCELO ANDRES CHAVEZ",
+   "minutos": "34",
+   "EnContra": "0"
+  },
+  {
+   "carne": "34084",
+   "Nombre": "MARCELO ANDRES CHAVEZ",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35007",
+   "Nombre": "BRAHIAN VIDIR",
+   "minutos": "73",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68279",
+   "Nombre": "GASTON ANDRES ENCISO",
+   "minutos": "8",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "36922",
+   "Nombre": "MAURICIO FARIAS",
+   "minutos": "27",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

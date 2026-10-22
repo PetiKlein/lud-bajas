@@ -1,0 +1,321 @@
+{
+ "id": "100418",
+ "categoria": "sub16",
+ "serie": "16-12",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 13:30:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 12,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "143",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 1 RUEDA 2",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-06-21 15:05:00",
+  "Fecha_fin": "2026-06-21 15:05:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "12",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67901",
+   "Nombre": "MATEO CHAVES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62257",
+   "Nombre": "EMILIANO GARCIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62250",
+   "Nombre": "JUSTINO QUINTERO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65248",
+   "Nombre": "TIZIANO RAMOS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68809",
+   "Nombre": "SANTIAGO BENITEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64456",
+   "Nombre": "GIANLUCA IORLANO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "67898",
+   "Nombre": "MATHIAS MANUEL SALDAÑA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "64211",
+   "Nombre": "THIAGO CASARES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66828",
+   "Nombre": "JUAN MARTIN BELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67900",
+   "Nombre": "NICOLAS CAPORALE",
+   "camiseta": "91",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62252",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68278",
+   "Nombre": "MATEO VALLARINO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63445",
+   "Nombre": "TIZIANO FRASCHERI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66935",
+   "Nombre": "FRANCISCO GALLESIO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "64906",
+   "Nombre": "JOSE APARICIO PERRIER",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67853",
+   "Nombre": "ALFONSO LACASA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67712",
+   "Nombre": "JUAN MANUEL LAGISQUET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61918",
+   "Nombre": "LORENZO SILVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "60445",
+   "Nombre": "JOAQUIN LORENZO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62390",
+   "Nombre": "SANTIAGO LOMBARDO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61920",
+   "Nombre": "BAUTISTA TARIGO",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65203",
+   "Nombre": "JOAQUIN YAÑEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62257",
+   "Jug_Sale": "EMILIANO GARCIA",
+   "CarneEntra": "68525",
+   "Jug_Entra": "ADIP NASSER",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62250",
+   "Jug_Sale": "JUSTINO QUINTERO",
+   "CarneEntra": "67845",
+   "Jug_Entra": "BENJAMIN TORRES",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65248",
+   "Jug_Sale": "TIZIANO RAMOS",
+   "CarneEntra": "67896",
+   "Jug_Entra": "MATEO HERNANDEZ",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64456",
+   "Jug_Sale": "GIANLUCA IORLANO",
+   "CarneEntra": "65450",
+   "Jug_Entra": "RAMIRO BOO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66828",
+   "Jug_Sale": "JUAN MARTIN BELLO",
+   "CarneEntra": "68277",
+   "Jug_Entra": "VALENTINO LOPEZ",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64211",
+   "Jug_Sale": "THIAGO CASARES",
+   "CarneEntra": "62247",
+   "Jug_Entra": "TOMAS BENTANCOR",
+   "camiseta": "81",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62252",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "62481",
+   "Jug_Entra": "FACUNDO CENTURION",
+   "camiseta": "20",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60445",
+   "Jug_Sale": "JOAQUIN LORENZO",
+   "CarneEntra": "66932",
+   "Jug_Entra": "SANTIAGO MARTINEZ",
+   "camiseta": "23",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "61918",
+   "Jug_Sale": "LORENZO SILVA",
+   "CarneEntra": "60445",
+   "Jug_Entra": "JOAQUIN LORENZO",
+   "camiseta": "20",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62247",
+   "Nombre": "TOMAS BENTANCOR",
+   "minutos": "42",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62252",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62481",
+   "Nombre": "FACUNDO CENTURION",
+   "minutos": "67",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64211",
+   "Nombre": "THIAGO CASARES",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66828",
+   "Nombre": "JUAN MARTIN BELLO",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67898",
+   "Nombre": "MATHIAS MANUEL SALDAÑA",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67898",
+   "Nombre": "MATHIAS MANUEL SALDAÑA",
+   "minutos": "68",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67900",
+   "Nombre": "NICOLAS CAPORALE",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67900",
+   "Nombre": "NICOLAS CAPORALE",
+   "minutos": "26",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67900",
+   "Nombre": "NICOLAS CAPORALE",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68277",
+   "Nombre": "VALENTINO LOPEZ",
+   "minutos": "74",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68525",
+   "Nombre": "ADIP NASSER",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

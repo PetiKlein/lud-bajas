@@ -1,0 +1,259 @@
+{
+ "id": "99995",
+ "categoria": "mas40-c",
+ "serie": "40S22",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 7,
+ "detalle": {
+  "nro_partido": "283",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 1",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-06-13 13:10:00",
+  "Fecha_fin": "2026-06-13 13:10:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "7",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60166",
+   "Nombre": "JAVIER ALEJANDRO CAMPOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31628",
+   "Nombre": "MARCELO PACHECO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "20419",
+   "Nombre": "SEBASTIAN FERNANDO DEANGELILLO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "66459",
+   "Nombre": "IGNACIO DE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "19530",
+   "Nombre": "ALEJANDRO BENTANCUR",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67568",
+   "Nombre": "GASTON LEIVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63890",
+   "Nombre": "GUSTAVO ENRIQUE COSTAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "39708",
+   "Nombre": "ANIBAL LEONARDO BARRIOS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65311",
+   "Nombre": "WASHINGTON JOSE RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "57477",
+   "Nombre": "RICHARD ARTURO GENOVESE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67856",
+   "Nombre": "DIEGO CRISTOFANO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22313",
+   "Nombre": "SEBASTIAN MARTINEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "20660",
+   "Nombre": "GREGORIO ADRIAN RAMIREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "19932",
+   "Nombre": "ANTONIO GANDOLFO",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "44975",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "35504",
+   "Nombre": "DENNIS PLADA",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "46284",
+   "Nombre": "JOSE ADRIAN CASTRO",
+   "camiseta": "83",
+   "Capitan": ""
+  },
+  {
+   "carne": "18397",
+   "Nombre": "PABLO ANTONIO RAMIREZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "17965",
+   "Nombre": "ENRIQUE RAFAEL MAÑANA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "25254",
+   "Nombre": "SEBASTIAN DANIEL PEREZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "45370",
+   "Nombre": "SERGIO GUSTAVO STEVENSON",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "22128",
+   "Nombre": "JUAN JOSE TETES",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63890",
+   "Jug_Sale": "GUSTAVO ENRIQUE COSTAS",
+   "CarneEntra": "68413",
+   "Jug_Entra": "IVES FERNANDO MUÑOZ",
+   "camiseta": "2",
+   "minutos": "55"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "17965",
+   "Jug_Sale": "ENRIQUE RAFAEL MAÑANA",
+   "CarneEntra": "19932",
+   "Jug_Entra": "ANTONIO GANDOLFO",
+   "camiseta": "69",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "20660",
+   "Jug_Sale": "GREGORIO ADRIAN RAMIREZ",
+   "CarneEntra": "44975",
+   "Jug_Entra": "FEDERICO GARCIA",
+   "camiseta": "18",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "44975",
+   "Jug_Sale": "FEDERICO GARCIA",
+   "CarneEntra": "23147",
+   "Jug_Entra": "GASTON ENRIQUE DIAZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19932",
+   "Jug_Sale": "ANTONIO GANDOLFO",
+   "CarneEntra": "31159",
+   "Jug_Entra": "GUILLERMO ANDRE SANCHEZ",
+   "camiseta": "33",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "18397",
+   "Nombre": "PABLO ANTONIO RAMIREZ",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22128",
+   "Nombre": "JUAN JOSE TETES",
+   "minutos": "76",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22128",
+   "Nombre": "JUAN JOSE TETES",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "25254",
+   "Nombre": "SEBASTIAN DANIEL PEREZ",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45370",
+   "Nombre": "SERGIO GUSTAVO STEVENSON",
+   "minutos": "34",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45370",
+   "Nombre": "SERGIO GUSTAVO STEVENSON",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "45370",
+   "Nombre": "SERGIO GUSTAVO STEVENSON",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

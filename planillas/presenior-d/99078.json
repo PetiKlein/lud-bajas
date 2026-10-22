@@ -1,0 +1,276 @@
+{
+ "id": "99078",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:20:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "ANGLO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "615",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-05-23 11:15:00",
+  "Fecha_fin": "2026-05-23 11:15:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ANGLO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "51302",
+   "Nombre": "IGNACIO DOLYENKO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35379",
+   "Nombre": "FEDERICO LA LAINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "24411",
+   "Nombre": "ENRIQUE CARLOS DELGADO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "43248",
+   "Nombre": "GONZALO DE LEON",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66270",
+   "Nombre": "RODRIGO GONCALVEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "46800",
+   "Nombre": "VICTOR DIEGO MOREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "61635",
+   "Nombre": "AGUSTIN SEBASTIAN ROSSI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "22165",
+   "Nombre": "BRUNO LUIS VARALDO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "43595",
+   "Nombre": "MATIAS LORENZO BASSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28544",
+   "Nombre": "PABLO ENRIQUE MARTINEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "34252",
+   "Nombre": "MARCELO DANIEL SASSO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32716",
+   "Nombre": "MARTIN ANDRES ORDOQUI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38794",
+   "Nombre": "ANDRES LEITES",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25431",
+   "Nombre": "JUAN ANDRES GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64634",
+   "Nombre": "LEONARDO GABRIEL HERNANDEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "33087",
+   "Nombre": "HANS STEFAN TRAPP",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60162",
+   "Nombre": "YUBERT LEONEL ALOY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "32734",
+   "Nombre": "CHRISTIAN ADAN ARRIOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "61143",
+   "Nombre": "FEDERICO MANUEL OLIVERA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "33238",
+   "Nombre": "PABLO NICOLAS NUÑEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "18430",
+   "Nombre": "HERNAN BOUZA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "28464",
+   "Nombre": "ANDRES ALONSO",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66270",
+   "Jug_Sale": "RODRIGO GONCALVEZ",
+   "CarneEntra": "42925",
+   "Jug_Entra": "MARTIN LA LAINA",
+   "camiseta": "25",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "43248",
+   "Jug_Sale": "GONZALO DE LEON",
+   "CarneEntra": "25759",
+   "Jug_Entra": "AGUSTIN LAMARCA",
+   "camiseta": "23",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "43595",
+   "Jug_Sale": "MATIAS LORENZO BASSO",
+   "CarneEntra": "66936",
+   "Jug_Entra": "SEBASTIAN IVANCHENKO",
+   "camiseta": "2",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "34252",
+   "Jug_Sale": "MARCELO DANIEL SASSO",
+   "CarneEntra": "64355",
+   "Jug_Entra": "ALCIDES RICARDO SILVEIRA",
+   "camiseta": "22",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "66936",
+   "Jug_Sale": "SEBASTIAN IVANCHENKO",
+   "CarneEntra": "24412",
+   "Jug_Entra": "RODRIGO CADENAS",
+   "camiseta": "9",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "18430",
+   "Jug_Sale": "HERNAN BOUZA",
+   "CarneEntra": "67640",
+   "Jug_Entra": "SANTIAGO MARTINEZ",
+   "camiseta": "22",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "64634",
+   "Jug_Sale": "LEONARDO GABRIEL HERNANDEZ",
+   "CarneEntra": "35345",
+   "Jug_Entra": "RONEL SEBASTIAN ALVARIZA",
+   "camiseta": "7",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "25431",
+   "Jug_Sale": "JUAN ANDRES GONZALEZ",
+   "CarneEntra": "18430",
+   "Jug_Entra": "HERNAN BOUZA",
+   "camiseta": "14",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "61143",
+   "Jug_Sale": "FEDERICO MANUEL OLIVERA",
+   "CarneEntra": "25431",
+   "Jug_Entra": "JUAN ANDRES GONZALEZ",
+   "camiseta": "10",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "60162",
+   "Jug_Sale": "YUBERT LEONEL ALOY",
+   "CarneEntra": "64634",
+   "Jug_Entra": "LEONARDO GABRIEL HERNANDEZ",
+   "camiseta": "9",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "34252",
+   "Nombre": "MARCELO DANIEL SASSO",
+   "minutos": "20",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28464",
+   "Nombre": "ANDRES ALONSO",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32734",
+   "Nombre": "CHRISTIAN ADAN ARRIOLA",
+   "minutos": "86",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

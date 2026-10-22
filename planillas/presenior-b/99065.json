@@ -1,0 +1,274 @@
+{
+ "id": "99065",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "ARGOS ",
+ "visitante": "PERRY SEXTA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "168",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-23 13:30:00",
+  "Fecha_fin": "2026-05-23 13:30:00",
+  "Locatario": "ARGOS ",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "PERRY SEXTA UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "33867",
+   "Nombre": "RODRIGO DAVID BORREA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31613",
+   "Nombre": "LUCAS LEONEL BOUISSA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "50530",
+   "Nombre": "SEBASTIAN JARA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65239",
+   "Nombre": "GUZMAN MOUHAPE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62845",
+   "Nombre": "ANDRES CATALANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64831",
+   "Nombre": "DARIO MARTIN SANCHEZ",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66159",
+   "Nombre": "JHONY ALEXANDER BARCIA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "61913",
+   "Nombre": "PABLO GABRIEL CUADRADO",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "67473",
+   "Nombre": "JUAN FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38103",
+   "Nombre": "FACUNDO PEREYRA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62323",
+   "Nombre": "JEREMMY MICHAEL RAMIREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57513",
+   "Nombre": "MARTIN TORRES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "52556",
+   "Nombre": "RODRIGO ANDRES GONZALEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "24836",
+   "Nombre": "AGUSTIN ROLDAN",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24867",
+   "Nombre": "GUILLERMO RUIZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "37677",
+   "Nombre": "GABRIEL CANTERA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "30262",
+   "Nombre": "SEBASTIAN MARIO LADO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "30203",
+   "Nombre": "MAXIMILIANO MATEAUDA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "52218",
+   "Nombre": "MARTIN VILCHE",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "24958",
+   "Nombre": "MATHIAS NICOLAS VARELA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "28796",
+   "Nombre": "RODRIGO EDUARDO POSTIGLIONE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64241",
+   "Nombre": "PAOLO BALDUINI",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62323",
+   "Jug_Sale": "JEREMMY MICHAEL RAMIREZ",
+   "CarneEntra": "32868",
+   "Jug_Entra": "GUILLERMO SILVA",
+   "camiseta": "10",
+   "minutos": "29"
+  },
+  {
+   "CarneSale": "31613",
+   "Jug_Sale": "LUCAS LEONEL BOUISSA",
+   "CarneEntra": "38008",
+   "Jug_Entra": "JOSE MAURO RODRIGUEZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66159",
+   "Jug_Sale": "JHONY ALEXANDER BARCIA",
+   "CarneEntra": "68573",
+   "Jug_Entra": "DIEGO COSTA",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64831",
+   "Jug_Sale": "DARIO MARTIN SANCHEZ",
+   "CarneEntra": "66159",
+   "Jug_Entra": "JHONY ALEXANDER BARCIA",
+   "camiseta": "90",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "50530",
+   "Jug_Sale": "SEBASTIAN JARA",
+   "CarneEntra": "27339",
+   "Jug_Entra": "RODRIGO LEONEL GONZALEZ",
+   "camiseta": "13",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30262",
+   "Jug_Sale": "SEBASTIAN MARIO LADO",
+   "CarneEntra": "47661",
+   "Jug_Entra": "EMILIANO MIELS SANTOS",
+   "camiseta": "15",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "24867",
+   "Jug_Sale": "GUILLERMO RUIZ",
+   "CarneEntra": "40804",
+   "Jug_Entra": "BRUNO DANIEL ESAIN",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52556",
+   "Jug_Sale": "RODRIGO ANDRES GONZALEZ",
+   "CarneEntra": "32042",
+   "Jug_Entra": "RODRIGO ERNESTO CAPRARIO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24958",
+   "Jug_Sale": "MATHIAS NICOLAS VARELA",
+   "CarneEntra": "26146",
+   "Jug_Entra": "HORACIO ALDO MONTORO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64241",
+   "Jug_Sale": "PAOLO BALDUINI",
+   "CarneEntra": "52556",
+   "Jug_Entra": "RODRIGO ANDRES GONZALEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52218",
+   "Jug_Sale": "MARTIN VILCHE",
+   "CarneEntra": "24958",
+   "Jug_Entra": "MATHIAS NICOLAS VARELA",
+   "camiseta": "21",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "PABLO GABRIEL CUADRADO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "AGUSTIN ROLDAN",
+   "observaciones": ""
+  }
+ ]
+}

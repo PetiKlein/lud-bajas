@@ -1,0 +1,298 @@
+{
+ "id": "99573",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "CLUB ESTUDIANTES INGENIERIA",
+ "visitante": "PERRY SEXTA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "169",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-30 13:15:00",
+  "Fecha_fin": "2026-05-30 13:15:00",
+  "Locatario": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "PERRY SEXTA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "36878",
+   "Nombre": "DARIO ALBERTO DE LEON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51305",
+   "Nombre": "PABLO ANDRES NAVARRETE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "14351",
+   "Nombre": "CARLOS ANDRES ROMANO",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60047",
+   "Nombre": "ELIAS EFRAIN AVELLANEDA",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "66344",
+   "Nombre": "MARTIN CATTONI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "30077",
+   "Nombre": "PABLO EDGARDO ALVEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "14144",
+   "Nombre": "PABLO FEDERICO CACERES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "25364",
+   "Nombre": "LEANDRO APARICIO GALETTA",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "32307",
+   "Nombre": "RAMIRO VICENTE MOYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "40789",
+   "Nombre": "HECTOR DAMIAN DE LOS SANTOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61104",
+   "Nombre": "FABIAN ACOSTA",
+   "camiseta": "90",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "25808",
+   "Nombre": "GONZALO FEDERICO HARISPE",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "19695",
+   "Nombre": "JUAN ANDRES HONTAN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "33171",
+   "Nombre": "JAVIER ANDRES SCHINCA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "32202",
+   "Nombre": "DARIO MARTIN PIZANO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "18476",
+   "Nombre": "RAFAEL DE LA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62801",
+   "Nombre": "FERNANDO GABRIEL MONTIE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "23518",
+   "Nombre": "DIEGO HERNAN SCOTTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "49509",
+   "Nombre": "ADRIAN LAURINO",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25956",
+   "Nombre": "NICOLAS FABIAN FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "24154",
+   "Nombre": "JOSE IGNACIO RABELLINO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "65725",
+   "Nombre": "MARCELO RAFAEL VIANA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "14351",
+   "Jug_Sale": "CARLOS ANDRES ROMANO",
+   "CarneEntra": "31554",
+   "Jug_Entra": "JUAN IGNACIO GOMEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32307",
+   "Jug_Sale": "RAMIRO VICENTE MOYANO",
+   "CarneEntra": "66613",
+   "Jug_Entra": "ALEJANDRO JAVIER POSES",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25364",
+   "Jug_Sale": "LEANDRO APARICIO GALETTA",
+   "CarneEntra": "15132",
+   "Jug_Entra": "ALEJANDRO ALVARO BELLERATI",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36878",
+   "Jug_Sale": "DARIO ALBERTO DE LEON",
+   "CarneEntra": "13113",
+   "Jug_Entra": "SANTIAGO FRASCHINI",
+   "camiseta": "21",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "51305",
+   "Jug_Sale": "PABLO ANDRES NAVARRETE",
+   "CarneEntra": "46546",
+   "Jug_Entra": "MARCELO JAVIER CASAVIEJA",
+   "camiseta": "36",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "40789",
+   "Jug_Sale": "HECTOR DAMIAN DE LOS SANTOS",
+   "CarneEntra": "32307",
+   "Jug_Entra": "RAMIRO VICENTE MOYANO",
+   "camiseta": "11",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "32307",
+   "Jug_Sale": "RAMIRO VICENTE MOYANO",
+   "CarneEntra": "40789",
+   "Jug_Entra": "HECTOR DAMIAN DE LOS SANTOS",
+   "camiseta": "7",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "66344",
+   "Jug_Sale": "MARTIN CATTONI",
+   "CarneEntra": "51305",
+   "Jug_Entra": "PABLO ANDRES NAVARRETE",
+   "camiseta": "23",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33171",
+   "Jug_Sale": "JAVIER ANDRES SCHINCA",
+   "CarneEntra": "31180",
+   "Jug_Entra": "PABLO CESAR ADRICH",
+   "camiseta": "55",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18476",
+   "Jug_Sale": "RAFAEL DE LA",
+   "CarneEntra": "19568",
+   "Jug_Entra": "SANTIAGO CAZALES",
+   "camiseta": "3",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "19568",
+   "Jug_Sale": "SANTIAGO CAZALES",
+   "CarneEntra": "33171",
+   "Jug_Entra": "JAVIER ANDRES SCHINCA",
+   "camiseta": "18",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "19695",
+   "Jug_Sale": "JUAN ANDRES HONTAN",
+   "CarneEntra": "23243",
+   "Jug_Entra": "IGNACIO ROLDAN",
+   "camiseta": "7",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "62801",
+   "Jug_Sale": "FERNANDO GABRIEL MONTIE",
+   "CarneEntra": "19695",
+   "Jug_Entra": "JUAN ANDRES HONTAN",
+   "camiseta": "2",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "31180",
+   "Nombre": "PABLO CESAR ADRICH",
+   "minutos": "36",
+   "EnContra": "1"
+  },
+  {
+   "carne": "33171",
+   "Nombre": "JAVIER ANDRES SCHINCA",
+   "minutos": "93",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MARCELO RAFAEL VIANA",
+   "observaciones": ""
+  }
+ ]
+}

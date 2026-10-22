@@ -1,0 +1,310 @@
+{
+ "id": "101310",
+ "categoria": "sub16",
+ "serie": "16-52",
+ "fecha": 6,
+ "fechaHora": "2026-08-30 13:30:00",
+ "cancha": "FUERZA AEREA",
+ "local": "YAGUARI",
+ "visitante": "ESTUDIANTES DEL PLATA",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "274",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 5 RUEDA 2",
+  "Cancha": "FUERZA AEREA",
+  "Fecha_Inicio": "2026-08-30 15:10:00",
+  "Fecha_fin": "2026-08-30 15:10:00",
+  "Locatario": "YAGUARI",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "ESTUDIANTES DEL PLATA",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68170",
+   "Nombre": "MANUEL BRACHO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64559",
+   "Nombre": "MATEO BASILIO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64558",
+   "Nombre": "FRANCISCO BINAGUY",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64557",
+   "Nombre": "FRANCISCO MARTIN ASCHERI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68173",
+   "Nombre": "MATIAS ACOTA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64564",
+   "Nombre": "LUCAS GOLDBERG",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "69046",
+   "Nombre": "JUAN VERA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "64570",
+   "Nombre": "NICOLAS GARCIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64556",
+   "Nombre": "FEDERICO LEONCINI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66228",
+   "Nombre": "THOMAS GEPP",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64551",
+   "Nombre": "FELIPE SICA",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68888",
+   "Nombre": "TOMAS ERRANDONEA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67754",
+   "Nombre": "IGNACIO BASQUADE DIAZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65294",
+   "Nombre": "MARIANO ARAMIS SARINA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67757",
+   "Nombre": "ANYEL JULIAN SAHAKIAN",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "65282",
+   "Nombre": "AGUSTIN GRECO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67752",
+   "Nombre": "FRANCISCO JOSE ZAS LIZARRAGA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67745",
+   "Nombre": "LUCIANO NICOLAS BOGAO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68049",
+   "Nombre": "FRANCO LESCANO",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65287",
+   "Nombre": "JOAQUIN NICOLAS ANDRIOLI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "65471",
+   "Nombre": "GUILLERMO LAUTARO URETA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63350",
+   "Nombre": "FAUSTINO GUILLERMO MOREDO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64551",
+   "Jug_Sale": "FELIPE SICA",
+   "CarneEntra": "64563",
+   "Jug_Entra": "SANTIAGO CARIDE",
+   "camiseta": "3",
+   "minutos": "13"
+  },
+  {
+   "CarneSale": "64556",
+   "Jug_Sale": "FEDERICO LEONCINI",
+   "CarneEntra": "64569",
+   "Jug_Entra": "BAUTISTA CAMACHO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64570",
+   "Jug_Sale": "NICOLAS GARCIA",
+   "CarneEntra": "64561",
+   "Jug_Entra": "EMILIANO BRIVA",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64558",
+   "Jug_Sale": "FRANCISCO BINAGUY",
+   "CarneEntra": "64551",
+   "Jug_Entra": "FELIPE SICA",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68170",
+   "Jug_Sale": "MANUEL BRACHO",
+   "CarneEntra": "67886",
+   "Jug_Entra": "GUILLERMO SILVA",
+   "camiseta": "77",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67754",
+   "Jug_Sale": "IGNACIO BASQUADE DIAZ",
+   "CarneEntra": "68049",
+   "Jug_Entra": "FRANCO LESCANO",
+   "camiseta": "24",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "65282",
+   "Jug_Sale": "AGUSTIN GRECO",
+   "CarneEntra": "67745",
+   "Jug_Entra": "LUCIANO NICOLAS BOGAO",
+   "camiseta": "13",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "67745",
+   "Jug_Sale": "LUCIANO NICOLAS BOGAO",
+   "CarneEntra": "68051",
+   "Jug_Entra": "FERNANDEZ GUTIERREZ NICOLAS",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67757",
+   "Jug_Sale": "ANYEL JULIAN SAHAKIAN",
+   "CarneEntra": "67741",
+   "Jug_Entra": "ANDREW NICOLAS FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68049",
+   "Jug_Sale": "FRANCO LESCANO",
+   "CarneEntra": "67747",
+   "Jug_Entra": "ENZO GERMAN ALDERETTE",
+   "camiseta": "48",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63350",
+   "Jug_Sale": "FAUSTINO GUILLERMO MOREDO",
+   "CarneEntra": "68548",
+   "Jug_Entra": "ALEJANDRO DAVID ACEVEDO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68548",
+   "Jug_Sale": "ALEJANDRO DAVID ACEVEDO",
+   "CarneEntra": "63350",
+   "Jug_Entra": "FAUSTINO GUILLERMO MOREDO",
+   "camiseta": "9",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64564",
+   "Nombre": "LUCAS GOLDBERG",
+   "minutos": "54",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64564",
+   "Nombre": "LUCAS GOLDBERG",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66228",
+   "Nombre": "THOMAS GEPP",
+   "minutos": "45",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67745",
+   "Nombre": "LUCIANO NICOLAS BOGAO",
+   "minutos": "4",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67752",
+   "Nombre": "FRANCISCO JOSE ZAS LIZARRAGA",
+   "minutos": "2",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67752",
+   "Nombre": "FRANCISCO JOSE ZAS LIZARRAGA",
+   "minutos": "10",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

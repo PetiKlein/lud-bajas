@@ -1,0 +1,244 @@
+{
+ "id": "101303",
+ "categoria": "sub16",
+ "serie": "16-12",
+ "fecha": 6,
+ "fechaHora": "2026-08-30 13:30:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "161",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 1 RUEDA 2",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-08-30 15:20:00",
+  "Fecha_fin": "2026-08-30 15:20:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": "Se adjunta nota."
+ },
+ "titularesL": [
+  {
+   "carne": "64544",
+   "Nombre": "JOAQUIN SEBASTIAN MEDINA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64841",
+   "Nombre": "THIAGO DOMINGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64541",
+   "Nombre": "VALENTINO SANCHEZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "64534",
+   "Nombre": "JORDAN SANTIAGO BORBA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "64538",
+   "Nombre": "RODRIGO AGUSTIN RICO",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "69025",
+   "Nombre": "BRUNO MELIAN",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "64528",
+   "Nombre": "SANTIAGO COPATTI",
+   "camiseta": "43",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67313",
+   "Nombre": "LAUTARO SALVARREY",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "63362",
+   "Nombre": "TOMAS VALENTINO MARRONE",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61542",
+   "Nombre": "JOAQUIN BOGLIACCINI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "61769",
+   "Nombre": "SANTIAGO RAFANIELLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58633",
+   "Nombre": "JOAQUIN CARRIO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61539",
+   "Nombre": "LUCAS VALLE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58634",
+   "Nombre": "THIAGO MISA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "58632",
+   "Nombre": "FAUSTO SASTRE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61536",
+   "Nombre": "AGUSTIN PIRIZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61540",
+   "Nombre": "RAMIRO DANZA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64387",
+   "Nombre": "BENICIO BENJAMIN CURTO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64385",
+   "Nombre": "SAMUEL ANDRES ESTELLER",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "58626",
+   "Nombre": "SANTIAGO CASTRO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [],
+ "cambiosV": [
+  {
+   "CarneSale": "64387",
+   "Jug_Sale": "BENICIO BENJAMIN CURTO",
+   "CarneEntra": "64375",
+   "Jug_Entra": "JUAN FRANCISCO MOLINA",
+   "camiseta": "5",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "61540",
+   "Jug_Sale": "RAMIRO DANZA",
+   "CarneEntra": "61769",
+   "Jug_Entra": "SANTIAGO RAFANIELLO",
+   "camiseta": "20",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "61539",
+   "Jug_Sale": "LUCAS VALLE",
+   "CarneEntra": "61543",
+   "Jug_Entra": "SANTINO ARDITO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58632",
+   "Jug_Sale": "FAUSTO SASTRE",
+   "CarneEntra": "64405",
+   "Jug_Entra": "JUAN IGNACIO PERI",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61769",
+   "Jug_Sale": "SANTIAGO RAFANIELLO",
+   "CarneEntra": "66502",
+   "Jug_Entra": "PEDRO MELAZZI",
+   "camiseta": "11",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66502",
+   "Nombre": "PEDRO MELAZZI",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "AGUSTIN PIRIZ",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "RAMIRO DANZA",
+   "observaciones": ""
+  }
+ ]
+}

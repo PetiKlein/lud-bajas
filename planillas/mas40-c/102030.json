@@ -1,0 +1,288 @@
+{
+ "id": "102030",
+ "categoria": "mas40-c",
+ "serie": "M40P",
+ "fecha": 3,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS AZUL",
+ "visitante": "WANDERERS",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "360",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "M40 DIV. C COPA PLATA R1",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-09-19 10:50:00",
+  "Fecha_fin": "2026-09-19 10:50:00",
+  "Locatario": "OLD CHRISTIANS AZUL",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "18932",
+   "Nombre": "PABLO IGNACIO CASAMAYOU",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "11987",
+   "Nombre": "JUAN MANUEL ARROSPIDE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "11495",
+   "Nombre": "JUAN FRANCISCO FERREIRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "15910",
+   "Nombre": "CARLOS EDUARDO VILABOA",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "19579",
+   "Nombre": "FEDERICO MIGUEL VAL",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "21792",
+   "Nombre": "IGNACIO ENRIQUE VOITURET",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64869",
+   "Nombre": "PABLO PRESSO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "14059",
+   "Nombre": "GERARDO DARIO ALVAREZ",
+   "camiseta": "77",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "14042",
+   "Nombre": "NICOLAS ALBERTO DURAN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "15896",
+   "Nombre": "SEBASTIAN EDUARDO VICTORICA",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "20964",
+   "Nombre": "FERNANDO JOSE DE LA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "21627",
+   "Nombre": "MARTIN CURZIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31256",
+   "Nombre": "RAFAEL EDUARDO REY",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "22331",
+   "Nombre": "DIEGO ALBERTO FALCO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "28497",
+   "Nombre": "RODRIGO FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "15281",
+   "Nombre": "JAVIER GONZALEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "45343",
+   "Nombre": "SANTIAGO ANTONIO RODRIGUEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "22794",
+   "Nombre": "MAURO ANDRES BURGOS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "13375",
+   "Nombre": "EMILIANO CAMACHO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "20905",
+   "Nombre": "FACUNDO LOPEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61953",
+   "Nombre": "NICOLAS JULIO CANESSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "23120",
+   "Nombre": "FABRICIO ADRIAN RICOBALDI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "14042",
+   "Jug_Sale": "NICOLAS ALBERTO DURAN",
+   "CarneEntra": "68889",
+   "Jug_Entra": "JUAN LUIS OBES",
+   "camiseta": "25",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "11495",
+   "Jug_Sale": "JUAN FRANCISCO FERREIRA",
+   "CarneEntra": "14282",
+   "Jug_Entra": "BRUNO PONZONI",
+   "camiseta": "3",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64869",
+   "Jug_Sale": "PABLO PRESSO",
+   "CarneEntra": "51645",
+   "Jug_Entra": "JUAN IGNACIO PINTOS",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "14059",
+   "Jug_Sale": "GERARDO DARIO ALVAREZ",
+   "CarneEntra": "64834",
+   "Jug_Entra": "DANIEL ALLIATI",
+   "camiseta": "13",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "19579",
+   "Jug_Sale": "FEDERICO MIGUEL VAL",
+   "CarneEntra": "15431",
+   "Jug_Entra": "RAFAEL ENRIQUE CHANS",
+   "camiseta": "17",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "51645",
+   "Jug_Sale": "JUAN IGNACIO PINTOS",
+   "CarneEntra": "11495",
+   "Jug_Entra": "JUAN FRANCISCO FERREIRA",
+   "camiseta": "16",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "15896",
+   "Jug_Sale": "SEBASTIAN EDUARDO VICTORICA",
+   "CarneEntra": "64869",
+   "Jug_Entra": "PABLO PRESSO",
+   "camiseta": "33",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "20905",
+   "Jug_Sale": "FACUNDO LOPEZ",
+   "CarneEntra": "13998",
+   "Jug_Entra": "LEONIDAS ANDRES DUTRA DA SILVEIRA",
+   "camiseta": "21",
+   "minutos": "9"
+  },
+  {
+   "CarneSale": "13375",
+   "Jug_Sale": "EMILIANO CAMACHO",
+   "CarneEntra": "14151",
+   "Jug_Entra": "AGUSTIN PERRIER",
+   "camiseta": "0",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "23120",
+   "Jug_Sale": "FABRICIO ADRIAN RICOBALDI",
+   "CarneEntra": "17263",
+   "Jug_Entra": "LEONARDO ALONSO",
+   "camiseta": "9",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "14282",
+   "Nombre": "BRUNO PONZONI",
+   "minutos": "76",
+   "EnContra": "0"
+  },
+  {
+   "carne": "15896",
+   "Nombre": "SEBASTIAN EDUARDO VICTORICA",
+   "minutos": "2",
+   "EnContra": "0"
+  },
+  {
+   "carne": "15896",
+   "Nombre": "SEBASTIAN EDUARDO VICTORICA",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "20964",
+   "Nombre": "FERNANDO JOSE DE LA",
+   "minutos": "94",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28497",
+   "Nombre": "RODRIGO FERNANDEZ",
+   "minutos": "15",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

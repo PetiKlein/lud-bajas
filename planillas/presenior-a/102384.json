@@ -1,0 +1,239 @@
+{
+ "id": "102384",
+ "categoria": "presenior-a",
+ "serie": "PSAPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "ESCUELA NAVAL",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "PLAYA HONDA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "807",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"A\" PER. y DESC",
+  "Cancha": "ESCUELA NAVAL",
+  "Fecha_Inicio": "2026-09-26 11:00:00",
+  "Fecha_fin": "2026-09-26 11:00:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "PLAYA HONDA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "40434",
+   "Nombre": "JUAN PABLO DEUS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26423",
+   "Nombre": "RENZO OMAR BEGHETTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "27038",
+   "Nombre": "JAVIER CARRAU",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "28582",
+   "Nombre": "DARIO DI GIOVANNI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "25135",
+   "Nombre": "RODRIGO CAMPOAMOR",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "25243",
+   "Nombre": "DIEGO CABRERA",
+   "camiseta": "80",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25027",
+   "Nombre": "SANTIAGO MATIAS RAMA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "27997",
+   "Nombre": "NICOLAS VALDEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "33503",
+   "Nombre": "NICOLAS FEUERSTEIN",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "31819",
+   "Nombre": "NICOLAS ALEJANDRO FIORDELMONDO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "26202",
+   "Nombre": "AGUSTIN SANTIAGO DAGUERRE",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "28648",
+   "Nombre": "JUAN PABLO ROLDAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38797",
+   "Nombre": "LORENZO VEGA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "22718",
+   "Nombre": "SANTIAGO ABOAL",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21043",
+   "Nombre": "MATIAS BERENGUER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "26554",
+   "Nombre": "SEBASTIAN TUBINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "21044",
+   "Nombre": "SANTIAGO DECIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "44483",
+   "Nombre": "RAMIRO GUICHON",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "43898",
+   "Nombre": "BRUNO ANDRES MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "22605",
+   "Nombre": "ALEJANDRO NUÑEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "27229",
+   "Nombre": "MARTIN HEBER GARCIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "23462",
+   "Nombre": "ANDRES FRANCISCO OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27997",
+   "Jug_Sale": "NICOLAS VALDEZ",
+   "CarneEntra": "23249",
+   "Jug_Entra": "JUAN MANUEL MATO",
+   "camiseta": "14",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "26423",
+   "Jug_Sale": "RENZO OMAR BEGHETTI",
+   "CarneEntra": "33051",
+   "Jug_Entra": "JUAN MARCELO DUTRA",
+   "camiseta": "28",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "28582",
+   "Jug_Sale": "DARIO DI GIOVANNI",
+   "CarneEntra": "23475",
+   "Jug_Entra": "RODRIGO LUIS AZNAREZ",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "31819",
+   "Jug_Sale": "NICOLAS ALEJANDRO FIORDELMONDO",
+   "CarneEntra": "22062",
+   "Jug_Entra": "AGUSTIN VERNASSA",
+   "camiseta": "11",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "21044",
+   "Jug_Sale": "SANTIAGO DECIA",
+   "CarneEntra": "21156",
+   "Jug_Entra": "SEBASTIAN NICOLAS MANEIRO",
+   "camiseta": "18",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "44483",
+   "Jug_Sale": "RAMIRO GUICHON",
+   "CarneEntra": "26199",
+   "Jug_Entra": "MATHIAS PERDOMO",
+   "camiseta": "16",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "27229",
+   "Jug_Sale": "MARTIN HEBER GARCIA",
+   "CarneEntra": "20526",
+   "Jug_Entra": "RODRIGO CRIADO",
+   "camiseta": "20",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "27229",
+   "Nombre": "MARTIN HEBER GARCIA",
+   "minutos": "23",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

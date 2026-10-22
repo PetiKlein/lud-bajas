@@ -1,0 +1,340 @@
+{
+ "id": "100335",
+ "categoria": "sub18",
+ "serie": "18-22",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 15:50:00",
+ "cancha": "COLEGIO ARETEIA",
+ "local": "LA BLANQUEADA",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 1,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "215",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 2 RUEDA 2",
+  "Cancha": "COLEGIO ARETEIA",
+  "Fecha_Inicio": "2026-06-21 17:45:00",
+  "Fecha_fin": "2026-06-21 17:45:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65979",
+   "Nombre": "THIAGO JOAQUIN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66906",
+   "Nombre": "RENZO SANTIAGO CANZANI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62460",
+   "Nombre": "SANTIAGO GABRIEL LAGOS",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59410",
+   "Nombre": "SEBASTIAN MARTINEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62084",
+   "Nombre": "SANTIAGO PEREIRA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67890",
+   "Nombre": "LUCAS EZEQUIEL PASSADORE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "59394",
+   "Nombre": "MARTIN MORRA",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "67428",
+   "Nombre": "LUCAS CIMIRRO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67645",
+   "Nombre": "AGUSTIN DA SILVA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68263",
+   "Nombre": "LUCA SOCA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60153",
+   "Nombre": "LAUTARO FRANCISCO MERNIES",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63416",
+   "Nombre": "FRANCO CELLA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59892",
+   "Nombre": "MARTIN COITIÑO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "60149",
+   "Nombre": "JUAN MANUEL MORALES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "61408",
+   "Nombre": "FACUNDO FERNANDO VEGA",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59884",
+   "Nombre": "MATEO PASTORIN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61132",
+   "Nombre": "IAN FRANCO CAUTERUCCI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "59881",
+   "Nombre": "FRANCO MARA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63541",
+   "Nombre": "FACUNDO TILVE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61417",
+   "Nombre": "SANTINO CAUTERUCCIO",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "64276",
+   "Nombre": "FELIPE NOCETTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59882",
+   "Nombre": "SANTIAGO MORE",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67428",
+   "Jug_Sale": "LUCAS CIMIRRO",
+   "CarneEntra": "64720",
+   "Jug_Entra": "DANIEL MAXIMILIANO FUCE",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67890",
+   "Jug_Sale": "LUCAS EZEQUIEL PASSADORE",
+   "CarneEntra": "68269",
+   "Jug_Entra": "RENATO SEBASTIAN GONZALEZ",
+   "camiseta": "51",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67645",
+   "Jug_Sale": "AGUSTIN DA SILVA",
+   "CarneEntra": "68661",
+   "Jug_Entra": "GENNARO MAZZIOTTI",
+   "camiseta": "18",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "62460",
+   "Jug_Sale": "SANTIAGO GABRIEL LAGOS",
+   "CarneEntra": "67429",
+   "Jug_Entra": "TEO CISSER",
+   "camiseta": "21",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "59410",
+   "Jug_Sale": "SEBASTIAN MARTINEZ",
+   "CarneEntra": "66314",
+   "Jug_Entra": "JOAQUIN BARROS",
+   "camiseta": "23",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "68661",
+   "Jug_Sale": "GENNARO MAZZIOTTI",
+   "CarneEntra": "67889",
+   "Jug_Entra": "DANIEL AGUSTIN LAPORT",
+   "camiseta": "14",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "68263",
+   "Jug_Sale": "LUCA SOCA",
+   "CarneEntra": "68659",
+   "Jug_Entra": "MAURO NAHUEL CACERES",
+   "camiseta": "41",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61408",
+   "Jug_Sale": "FACUNDO FERNANDO VEGA",
+   "CarneEntra": "66237",
+   "Jug_Entra": "TOMAS POGGI",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61417",
+   "Jug_Sale": "SANTINO CAUTERUCCIO",
+   "CarneEntra": "61409",
+   "Jug_Entra": "MARTIN ALVAREZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64276",
+   "Jug_Sale": "FELIPE NOCETTI",
+   "CarneEntra": "64271",
+   "Jug_Entra": "THIAGO OTERO",
+   "camiseta": "35",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59882",
+   "Jug_Sale": "SANTIAGO MORE",
+   "CarneEntra": "61566",
+   "Jug_Entra": "MATEUS DE PAULA",
+   "camiseta": "66",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "59892",
+   "Jug_Sale": "MARTIN COITIÑO",
+   "CarneEntra": "61352",
+   "Jug_Entra": "FACUNDO LEANDRO MARTIARENA",
+   "camiseta": "20",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63541",
+   "Jug_Sale": "FACUNDO TILVE",
+   "CarneEntra": "61308",
+   "Jug_Entra": "DIEGO MARTIN EZQUERRA",
+   "camiseta": "3",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59881",
+   "Jug_Sale": "FRANCO MARA",
+   "CarneEntra": "61405",
+   "Jug_Entra": "LUCIANO LUGO",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "60149",
+   "Jug_Sale": "JUAN MANUEL MORALES",
+   "CarneEntra": "63417",
+   "Jug_Entra": "CAMILO MORENO",
+   "camiseta": "90",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "59394",
+   "Nombre": "MARTIN MORRA",
+   "minutos": "73",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61132",
+   "Nombre": "IAN FRANCO CAUTERUCCI",
+   "minutos": "69",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61308",
+   "Nombre": "DIEGO MARTIN EZQUERRA",
+   "minutos": "91",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64271",
+   "Nombre": "THIAGO OTERO",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64271",
+   "Nombre": "THIAGO OTERO",
+   "minutos": "88",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64276",
+   "Nombre": "FELIPE NOCETTI",
+   "minutos": "28",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64276",
+   "Nombre": "FELIPE NOCETTI",
+   "minutos": "40",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

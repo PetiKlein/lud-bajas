@@ -1,0 +1,245 @@
+{
+ "id": "101729",
+ "categoria": "sub18",
+ "serie": "18-32",
+ "fecha": 6,
+ "fechaHora": "2026-09-09 21:00:00",
+ "cancha": "COMPLEJO INGENIERO DEL CAMPO",
+ "local": "DEPORTIVO MORON",
+ "visitante": "UNIVERSITARIO VERONES",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "264",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 3 RUEDA 2",
+  "Cancha": "COMPLEJO INGENIERO DEL CAMPO",
+  "Fecha_Inicio": "2026-09-09 22:45:00",
+  "Fecha_fin": "2026-09-09 22:45:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "UNIVERSITARIO VERONES",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57774",
+   "Nombre": "BRUNO SICA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66249",
+   "Nombre": "FACUNDO DIAZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57779",
+   "Nombre": "NICOLAS LLANES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68022",
+   "Nombre": "FACUNDO SEBASTIAN VILLAGRAN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "57778",
+   "Nombre": "MANUEL CAMPOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61144",
+   "Nombre": "FACUNDO LUIS D’AMICO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57780",
+   "Nombre": "DIEGO BETTINELLI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63643",
+   "Nombre": "MATEO FAULORD",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57790",
+   "Nombre": "FELIPE VALENTIN GARI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "59260",
+   "Nombre": "ALFONSO VERDUN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64944",
+   "Nombre": "VALENTINO DECIA",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66371",
+   "Nombre": "CRISTIAN GABRIEL NOVOA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67440",
+   "Nombre": "NICOLAS IGLESIAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62567",
+   "Nombre": "SANTINO MONTES DE OCA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66831",
+   "Nombre": "EYDAN GARCIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68913",
+   "Nombre": "SANTIAGO EMANUEL LAUREIRO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62559",
+   "Nombre": "MATEO FELIPE CANTERA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63204",
+   "Nombre": "EMILIANO CANTERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68105",
+   "Nombre": "HIOJAN GABRIEL GUILLENEA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65837",
+   "Nombre": "MATIAS ALBE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62818",
+   "Nombre": "SANTIAGO VECOÑA",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62562",
+   "Nombre": "SANTIAGO KURONYA",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57779",
+   "Jug_Sale": "NICOLAS LLANES",
+   "CarneEntra": "58771",
+   "Jug_Entra": "ALEJO RODRIGUEZ",
+   "camiseta": "4",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "68022",
+   "Jug_Sale": "FACUNDO SEBASTIAN VILLAGRAN",
+   "CarneEntra": "57779",
+   "Jug_Entra": "NICOLAS LLANES",
+   "camiseta": "6",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "57790",
+   "Jug_Sale": "FELIPE VALENTIN GARI",
+   "CarneEntra": "68258",
+   "Jug_Entra": "MAXIMILIANO CUBA",
+   "camiseta": "21",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66831",
+   "Jug_Sale": "EYDAN GARCIA",
+   "CarneEntra": "62828",
+   "Jug_Entra": "FELIPE DUARTE",
+   "camiseta": "16",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "62818",
+   "Jug_Sale": "SANTIAGO VECOÑA",
+   "CarneEntra": "62564",
+   "Jug_Entra": "MARTIN NAJAS",
+   "camiseta": "11",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "68105",
+   "Jug_Sale": "HIOJAN GABRIEL GUILLENEA",
+   "CarneEntra": "64629",
+   "Jug_Entra": "CAITUA MIGUEL FEIJOO",
+   "camiseta": "17",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "63204",
+   "Jug_Sale": "EMILIANO CANTERO",
+   "CarneEntra": "62813",
+   "Jug_Entra": "SANTINO PARODI",
+   "camiseta": "23",
+   "minutos": "35"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57780",
+   "Nombre": "DIEGO BETTINELLI",
+   "minutos": "85",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61144",
+   "Nombre": "FACUNDO LUIS D’AMICO",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

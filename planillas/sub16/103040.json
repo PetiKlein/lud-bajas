@@ -1,0 +1,288 @@
+{
+ "id": "103040",
+ "categoria": "sub16",
+ "serie": "16C",
+ "fecha": 1,
+ "fechaHora": "2026-10-18 13:30:00",
+ "cancha": "SAN ISIDRO LOMAS",
+ "local": "ESCUELA L.P.",
+ "visitante": "SCUOLA PALERMO",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "366",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "3",
+  "Divisional": "SUB16 COMPETENCIA",
+  "Cancha": "SAN ISIDRO LOMAS",
+  "Fecha_Inicio": "2026-10-18 15:10:00",
+  "Fecha_fin": "2026-10-18 15:10:00",
+  "Locatario": "ESCUELA L.P.",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SCUOLA PALERMO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61428",
+   "Nombre": "DIEGO VICENTE FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65588",
+   "Nombre": "FRANCO CATTANEO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61424",
+   "Nombre": "ULISES ESPINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68017",
+   "Nombre": "MATEO VALENTIN TORTEROLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61553",
+   "Nombre": "EMANUEL GUERINO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "69101",
+   "Nombre": "SANTIAGO ALBANO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63825",
+   "Nombre": "GABRIEL LOPEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "69001",
+   "Nombre": "MAURO OLIVERA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68326",
+   "Nombre": "LUCIANO VALENTIN PEREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61426",
+   "Nombre": "LORENZO RIVERO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "62414",
+   "Nombre": "ERICK RIVERO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64377",
+   "Nombre": "LUCAS DI MAURO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60764",
+   "Nombre": "FACUNDO CARAMBULA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "60475",
+   "Nombre": "AGUSTIN ANTELO",
+   "camiseta": "56",
+   "Capitan": ""
+  },
+  {
+   "carne": "64380",
+   "Nombre": "FRANCO MOLFINO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61927",
+   "Nombre": "SANTIAGO BRUN",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65718",
+   "Nombre": "VICENTE VALENTIN VIERA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "61437",
+   "Nombre": "MARTIN BREGSTEIN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64862",
+   "Nombre": "THIAGO PORTEIRO",
+   "camiseta": "47",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65610",
+   "Nombre": "LUCA GONZALEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68865",
+   "Nombre": "MARTIN ASSIMONTTI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65887",
+   "Nombre": "FABRIZIO BISOGNO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68017",
+   "Jug_Sale": "MATEO VALENTIN TORTEROLO",
+   "CarneEntra": "61438",
+   "Jug_Entra": "GUILLERMO GABRIEL SUAREZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "69101",
+   "Jug_Sale": "SANTIAGO ALBANO",
+   "CarneEntra": "69000",
+   "Jug_Entra": "RAMIRO FABIAN SANDOVAL",
+   "camiseta": "67",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "65588",
+   "Jug_Sale": "FRANCO CATTANEO",
+   "CarneEntra": "69101",
+   "Jug_Entra": "SANTIAGO ALBANO",
+   "camiseta": "9",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61927",
+   "Jug_Sale": "SANTIAGO BRUN",
+   "CarneEntra": "64160",
+   "Jug_Entra": "ALFONSO BROCH",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65718",
+   "Jug_Sale": "VICENTE VALENTIN VIERA",
+   "CarneEntra": "64381",
+   "Jug_Entra": "FACUNDO POTENZA",
+   "camiseta": "79",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68865",
+   "Jug_Sale": "MARTIN ASSIMONTTI",
+   "CarneEntra": "68378",
+   "Jug_Entra": "SANTIAGO MATTERA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64862",
+   "Jug_Sale": "THIAGO PORTEIRO",
+   "CarneEntra": "63514",
+   "Jug_Entra": "LUCAS TAROCO",
+   "camiseta": "44",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "65887",
+   "Jug_Sale": "FABRIZIO BISOGNO",
+   "CarneEntra": "65718",
+   "Jug_Entra": "VICENTE VALENTIN VIERA",
+   "camiseta": "29",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "65610",
+   "Jug_Sale": "LUCA GONZALEZ",
+   "CarneEntra": "61927",
+   "Jug_Entra": "SANTIAGO BRUN",
+   "camiseta": "2",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "60475",
+   "Jug_Sale": "AGUSTIN ANTELO",
+   "CarneEntra": "65887",
+   "Jug_Entra": "FABRIZIO BISOGNO",
+   "camiseta": "14",
+   "minutos": "62"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "69001",
+   "Nombre": "MAURO OLIVERA",
+   "minutos": "51",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61927",
+   "Nombre": "SANTIAGO BRUN",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65887",
+   "Nombre": "FABRIZIO BISOGNO",
+   "minutos": "26",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65887",
+   "Nombre": "FABRIZIO BISOGNO",
+   "minutos": "73",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68865",
+   "Nombre": "MARTIN ASSIMONTTI",
+   "minutos": "8",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

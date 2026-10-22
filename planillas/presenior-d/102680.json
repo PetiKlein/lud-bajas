@@ -1,0 +1,296 @@
+{
+ "id": "102680",
+ "categoria": "presenior-d",
+ "serie": "PSDTA",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 09:00:00",
+ "cancha": "COMPLEJO ARACHAN",
+ "local": "BODY FACTORY",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "930",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO ARACHAN",
+  "Fecha_Inicio": "2026-10-10 11:00:00",
+  "Fecha_fin": "2026-10-10 11:00:00",
+  "Locatario": "BODY FACTORY",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "38951",
+   "Nombre": "FACUNDO ESTANISLAO DELGADO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24922",
+   "Nombre": "LEONARDO DANIEL RIJO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "54412",
+   "Nombre": "DIEGO SERGIO BOUZA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67224",
+   "Nombre": "DARIO IBAÑEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "38733",
+   "Nombre": "CRISTIAN DAVID MOREIRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "35324",
+   "Nombre": "WALTER HUGO MARTINS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "26989",
+   "Nombre": "MARTIN SEBASTIAN RODRIGUEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "52544",
+   "Nombre": "ALEXIS BRAVO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27735",
+   "Nombre": "MATIAS PAIS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56142",
+   "Nombre": "MAURO STOCCO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34916",
+   "Nombre": "MARCOS ALEJO SANCHEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59021",
+   "Nombre": "HORACIO MATIAS DEL CORRO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "37033",
+   "Nombre": "VICENTE GONZALEZ-ARNAO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "56450",
+   "Nombre": "FEDERICO HERMIDA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52449",
+   "Nombre": "FACUNDO FIERRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "37034",
+   "Nombre": "LEANDRO GERMAN TARANTO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "33410",
+   "Nombre": "JOSE ARAUJO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "33691",
+   "Nombre": "GONZALO SUCAZES",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26989",
+   "Jug_Sale": "MARTIN SEBASTIAN RODRIGUEZ",
+   "CarneEntra": "60520",
+   "Jug_Entra": "SEBASTIAN MONFORT",
+   "camiseta": "28",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "24922",
+   "Jug_Sale": "LEONARDO DANIEL RIJO",
+   "CarneEntra": "33642",
+   "Jug_Entra": "FERNANDO PEREZ",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54412",
+   "Jug_Sale": "DIEGO SERGIO BOUZA",
+   "CarneEntra": "33420",
+   "Jug_Entra": "MARTIN ENRIQUE AZURICA",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "27735",
+   "Jug_Sale": "MATIAS PAIS",
+   "CarneEntra": "26989",
+   "Jug_Entra": "MARTIN SEBASTIAN RODRIGUEZ",
+   "camiseta": "35",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33410",
+   "Jug_Sale": "JOSE ARAUJO",
+   "CarneEntra": "56453",
+   "Jug_Entra": "DANIEL SEBASTIAN VARELA",
+   "camiseta": "35",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "56450",
+   "Jug_Sale": "FEDERICO HERMIDA",
+   "CarneEntra": "31035",
+   "Jug_Entra": "GIANFRANCO AMADO POSE",
+   "camiseta": "11",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "34916",
+   "Jug_Sale": "MARCOS ALEJO SANCHEZ",
+   "CarneEntra": "31549",
+   "Jug_Entra": "MICHEL SEBASTIAN MATTOS",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33691",
+   "Jug_Sale": "GONZALO SUCAZES",
+   "CarneEntra": "37816",
+   "Jug_Entra": "EMILIANO PABLO BONINI",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31549",
+   "Jug_Sale": "MICHEL SEBASTIAN MATTOS",
+   "CarneEntra": "33744",
+   "Jug_Entra": "NICOLAS MOREIRA",
+   "camiseta": "28",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "21819",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "26283",
+   "Jug_Entra": "RAFAEL DELLA TORRE",
+   "camiseta": "33",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "59021",
+   "Jug_Sale": "HORACIO MATIAS DEL CORRO",
+   "CarneEntra": "38534",
+   "Jug_Entra": "MAXIMILIANO LARROSA",
+   "camiseta": "19",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "minutos": "60",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "33744",
+   "Nombre": "NICOLAS MOREIRA",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52449",
+   "Nombre": "FACUNDO FIERRO",
+   "minutos": "93",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

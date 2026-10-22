@@ -1,0 +1,318 @@
+{
+ "id": "101424",
+ "categoria": "sub16",
+ "serie": "16-22",
+ "fecha": 6,
+ "fechaHora": "2026-09-01 19:30:00",
+ "cancha": "COLEGIO ARETEIA",
+ "local": "HEBRAICA UNIVERSITARIO",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 1,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "191",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 2 RUEDA 2",
+  "Cancha": "COLEGIO ARETEIA",
+  "Fecha_Inicio": "2026-09-01 21:15:00",
+  "Fecha_fin": "2026-09-01 21:15:00",
+  "Locatario": "HEBRAICA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68271",
+   "Nombre": "EMILIANO KLEIMAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67220",
+   "Nombre": "FERNANDO TROSTCHANSKY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63971",
+   "Nombre": "DAN BRONSTEIN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68219",
+   "Nombre": "FELIPE VALENTIN CANIAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "65326",
+   "Nombre": "TOMAS PIVEN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "66959",
+   "Nombre": "MATIAS RODY ALBOJER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63970",
+   "Nombre": "TOBIAS EIDELMAN",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64604",
+   "Nombre": "GONZALO SCHER",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64454",
+   "Nombre": "JUAN BENDELMAN",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68409",
+   "Nombre": "SANTIAGO STEIN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66955",
+   "Nombre": "THIAGO BERENSTEIN",
+   "camiseta": "89",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63045",
+   "Nombre": "RENZO FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63941",
+   "Nombre": "FEDERICO DANERS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64183",
+   "Nombre": "CAMILO VEGA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64175",
+   "Nombre": "LUCAS COALLA",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "64176",
+   "Nombre": "MANUEL MENDARO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64177",
+   "Nombre": "VALENTIN GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61406",
+   "Nombre": "TADEO CABRERA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63742",
+   "Nombre": "VALENTIN MURIAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64180",
+   "Nombre": "CAETANO BEYHAUT",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "66551",
+   "Nombre": "EMANUEL CORREA",
+   "camiseta": "73",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65326",
+   "Jug_Sale": "TOMAS PIVEN",
+   "CarneEntra": "67147",
+   "Jug_Entra": "MATIAS VALANSI",
+   "camiseta": "8",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "68219",
+   "Jug_Sale": "FELIPE VALENTIN CANIAS",
+   "CarneEntra": "66960",
+   "Jug_Entra": "FEDERICO GYURCSEK",
+   "camiseta": "13",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "66959",
+   "Jug_Sale": "MATIAS RODY ALBOJER",
+   "CarneEntra": "66923",
+   "Jug_Entra": "SANTIAGO CHEBI",
+   "camiseta": "3",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "66955",
+   "Jug_Sale": "THIAGO BERENSTEIN",
+   "CarneEntra": "66923",
+   "Jug_Entra": "SANTIAGO CHEBI",
+   "camiseta": "3",
+   "minutos": "40"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63941",
+   "Jug_Sale": "FEDERICO DANERS",
+   "CarneEntra": "66547",
+   "Jug_Entra": "TOMAS SALORT",
+   "camiseta": "75",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "64175",
+   "Jug_Sale": "LUCAS COALLA",
+   "CarneEntra": "64178",
+   "Jug_Entra": "MATEO BARRETO",
+   "camiseta": "3",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "66551",
+   "Jug_Sale": "EMANUEL CORREA",
+   "CarneEntra": "66866",
+   "Jug_Entra": "IGNACIO CENTURION",
+   "camiseta": "77",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "64176",
+   "Jug_Sale": "MANUEL MENDARO",
+   "CarneEntra": "66501",
+   "Jug_Entra": "SANTINO ELLIOT",
+   "camiseta": "9",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63742",
+   "Jug_Sale": "VALENTIN MURIAS",
+   "CarneEntra": "66553",
+   "Jug_Entra": "MAURO GOMEZ",
+   "camiseta": "35",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "64177",
+   "Jug_Sale": "VALENTIN GONZALEZ",
+   "CarneEntra": "62871",
+   "Jug_Entra": "BENJAMIN FERNANDEZ",
+   "camiseta": "26",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64183",
+   "Jug_Sale": "CAMILO VEGA",
+   "CarneEntra": "64277",
+   "Jug_Entra": "FRANCISCO BISELLI",
+   "camiseta": "11",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "61406",
+   "Jug_Sale": "TADEO CABRERA",
+   "CarneEntra": "66868",
+   "Jug_Entra": "MARTIN IURATO",
+   "camiseta": "23",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "64180",
+   "Jug_Sale": "CAETANO BEYHAUT",
+   "CarneEntra": "68713",
+   "Jug_Entra": "FEDERICO FERRARES",
+   "camiseta": "89",
+   "minutos": "40"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66959",
+   "Nombre": "MATIAS RODY ALBOJER",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63045",
+   "Nombre": "RENZO FERNANDEZ",
+   "minutos": "13",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64175",
+   "Nombre": "LUCAS COALLA",
+   "minutos": "31",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64175",
+   "Nombre": "LUCAS COALLA",
+   "minutos": "34",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64180",
+   "Nombre": "CAETANO BEYHAUT",
+   "minutos": "11",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64180",
+   "Nombre": "CAETANO BEYHAUT",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64183",
+   "Nombre": "CAMILO VEGA",
+   "minutos": "2",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

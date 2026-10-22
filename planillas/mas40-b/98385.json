@@ -1,0 +1,324 @@
+{
+ "id": "98385",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COM.SINDICATO MEDICO",
+ "local": "SINDICATO MEDICO DEL URUGUAY",
+ "visitante": "CLUB ESTUDIANTES INGENIERIA",
+ "gl": 2,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "129",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COM.SINDICATO MEDICO",
+  "Fecha_Inicio": "2026-04-18 11:00:00",
+  "Fecha_fin": "2026-04-18 11:00:00",
+  "Locatario": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "16606",
+   "Nombre": "ALVARO CHIRICO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56037",
+   "Nombre": "MARCOS MARSET",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "40413",
+   "Nombre": "FEDERICO FABIAN PALLONE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "19035",
+   "Nombre": "STEVEN GABRIEL STOLFI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "15384",
+   "Nombre": "EDUARDO NAKLE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "11999",
+   "Nombre": "JUAN MARCELO PAHOR",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "22568",
+   "Nombre": "ESTEBAN FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "28758",
+   "Nombre": "MARTIN ESTEBAN SIERRA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "13778",
+   "Nombre": "MARCELO SERGIO ICASURIAGA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "11858",
+   "Nombre": "JUAN ANDRES ARRAGA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62618",
+   "Nombre": "GERMAN GIL",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "36878",
+   "Nombre": "DARIO ALBERTO DE LEON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "14351",
+   "Nombre": "CARLOS ANDRES ROMANO",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51305",
+   "Nombre": "PABLO ANDRES NAVARRETE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66344",
+   "Nombre": "MARTIN CATTONI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "60047",
+   "Nombre": "ELIAS EFRAIN AVELLANEDA",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "30077",
+   "Nombre": "PABLO EDGARDO ALVEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "14144",
+   "Nombre": "PABLO FEDERICO CACERES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61104",
+   "Nombre": "FABIAN ACOSTA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "32307",
+   "Nombre": "RAMIRO VICENTE MOYANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "15132",
+   "Nombre": "ALEJANDRO ALVARO BELLERATI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "66613",
+   "Nombre": "ALEJANDRO JAVIER POSES",
+   "camiseta": "44",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "11858",
+   "Jug_Sale": "JUAN ANDRES ARRAGA",
+   "CarneEntra": "62618",
+   "Jug_Entra": "GERMAN GIL",
+   "camiseta": "27",
+   "minutos": "8"
+  },
+  {
+   "CarneSale": "62618",
+   "Jug_Sale": "GERMAN GIL",
+   "CarneEntra": "33140",
+   "Jug_Entra": "DIEGO GASTON MACHADO",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40413",
+   "Jug_Sale": "FEDERICO FABIAN PALLONE",
+   "CarneEntra": "21378",
+   "Jug_Entra": "NICOLAS ANTUNEZ",
+   "camiseta": "35",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "11999",
+   "Jug_Sale": "JUAN MARCELO PAHOR",
+   "CarneEntra": "15689",
+   "Jug_Entra": "ALVARO ANDRES LOPEZ",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62618",
+   "Jug_Sale": "GERMAN GIL",
+   "CarneEntra": "11999",
+   "Jug_Entra": "JUAN MARCELO PAHOR",
+   "camiseta": "22",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "28758",
+   "Jug_Sale": "MARTIN ESTEBAN SIERRA",
+   "CarneEntra": "40413",
+   "Jug_Entra": "FEDERICO FABIAN PALLONE",
+   "camiseta": "23",
+   "minutos": "25"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61104",
+   "Jug_Sale": "FABIAN ACOSTA",
+   "CarneEntra": "40789",
+   "Jug_Entra": "HECTOR DAMIAN DE LOS SANTOS",
+   "camiseta": "7",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "66613",
+   "Jug_Sale": "ALEJANDRO JAVIER POSES",
+   "CarneEntra": "17392",
+   "Jug_Entra": "JOSE PEDRO RAMIREZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15132",
+   "Jug_Sale": "ALEJANDRO ALVARO BELLERATI",
+   "CarneEntra": "25364",
+   "Jug_Entra": "LEANDRO APARICIO GALETTA",
+   "camiseta": "55",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32307",
+   "Jug_Sale": "RAMIRO VICENTE MOYANO",
+   "CarneEntra": "50827",
+   "Jug_Entra": "PABLO ALFREDO FUENTES",
+   "camiseta": "30",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "66344",
+   "Jug_Sale": "MARTIN CATTONI",
+   "CarneEntra": "16424",
+   "Jug_Entra": "PABLO MARTIN VILLOLDO",
+   "camiseta": "25",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "14144",
+   "Jug_Sale": "PABLO FEDERICO CACERES",
+   "CarneEntra": "13943",
+   "Jug_Entra": "JUAN JOSE CIARAN",
+   "camiseta": "2",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "32307",
+   "Jug_Sale": "RAMIRO VICENTE MOYANO",
+   "CarneEntra": "15132",
+   "Jug_Entra": "ALEJANDRO ALVARO BELLERATI",
+   "camiseta": "0",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "21378",
+   "Nombre": "NICOLAS ANTUNEZ",
+   "minutos": "76",
+   "EnContra": "0"
+  },
+  {
+   "carne": "56037",
+   "Nombre": "MARCOS MARSET",
+   "minutos": "86",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "15132",
+   "Nombre": "ALEJANDRO ALVARO BELLERATI",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "15132",
+   "Nombre": "ALEJANDRO ALVARO BELLERATI",
+   "minutos": "44",
+   "EnContra": "1"
+  },
+  {
+   "carne": "25364",
+   "Nombre": "LEANDRO APARICIO GALETTA",
+   "minutos": "81",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32307",
+   "Nombre": "RAMIRO VICENTE MOYANO",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66613",
+   "Nombre": "ALEJANDRO JAVIER POSES",
+   "minutos": "9",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

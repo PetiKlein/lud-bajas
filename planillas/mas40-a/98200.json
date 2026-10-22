@@ -1,0 +1,285 @@
+{
+ "id": "98200",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "GOMENSORO",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "14",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-04-18 11:02:00",
+  "Fecha_fin": "2026-04-18 11:02:00",
+  "Locatario": "GOMENSORO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23296",
+   "Nombre": "WASHINGTON RICARDO SANTANA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30341",
+   "Nombre": "GUILLERMO LARROQUE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "15792",
+   "Nombre": "JUAN RAMON PAEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24555",
+   "Nombre": "DIEGO TARAMASCO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "17096",
+   "Nombre": "JULIAN CARVE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "15471",
+   "Nombre": "IGNACIO VAZQUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "17030",
+   "Nombre": "JUAN DIEGO LARROQUE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "13368",
+   "Nombre": "MARTIN ANDRES OLIVERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "28905",
+   "Nombre": "BRUNO NICOLAS LAGOMARSINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29630",
+   "Nombre": "GUILLERMO ALTMANN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "18057",
+   "Nombre": "GUSTAVO CHIARINO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "20192",
+   "Nombre": "MARTIN RAFAEL CARDOSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "19652",
+   "Nombre": "NICOLAS VILASECA",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "21640",
+   "Nombre": "FEDERICO VILASECA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "16467",
+   "Nombre": "FERNANDO JIMENEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "16225",
+   "Nombre": "NICOLAS JUAN BRAUSE",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "19571",
+   "Nombre": "GABRIEL PAYSSE",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "18136",
+   "Nombre": "RODNEY CARLOS BRUCE",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "16827",
+   "Nombre": "JAVIER BURGOS",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20004",
+   "Nombre": "IGNACIO ABADIE",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "28905",
+   "Jug_Sale": "BRUNO NICOLAS LAGOMARSINO",
+   "CarneEntra": "18878",
+   "Jug_Entra": "GONZALO PEREZ",
+   "camiseta": "19",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "40476",
+   "Jug_Sale": "JOSE MANUEL CAYAFFA",
+   "CarneEntra": "23588",
+   "Jug_Entra": "ANTONIO MARIA SERRENTINO",
+   "camiseta": "21",
+   "minutos": "93"
+  },
+  {
+   "CarneSale": "24555",
+   "Jug_Sale": "DIEGO TARAMASCO",
+   "CarneEntra": "15783",
+   "Jug_Entra": "NICOLAS VIDAL",
+   "camiseta": "18",
+   "minutos": "93"
+  },
+  {
+   "CarneSale": "17096",
+   "Jug_Sale": "JULIAN CARVE",
+   "CarneEntra": "17425",
+   "Jug_Entra": "DIEGO SCLEIDOROVICH",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30341",
+   "Jug_Sale": "GUILLERMO LARROQUE",
+   "CarneEntra": "20527",
+   "Jug_Entra": "NICOLAS RIENZI",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15471",
+   "Jug_Sale": "IGNACIO VAZQUEZ",
+   "CarneEntra": "14903",
+   "Jug_Entra": "TAZIO SCALDAFERRI",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "13368",
+   "Jug_Sale": "MARTIN ANDRES OLIVERA",
+   "CarneEntra": "28755",
+   "Jug_Entra": "JOSE ANDRES LOPEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "16467",
+   "Jug_Sale": "FERNANDO JIMENEZ",
+   "CarneEntra": "18770",
+   "Jug_Entra": "MATIAS JOSE RACHETTI",
+   "camiseta": "36",
+   "minutos": "4"
+  },
+  {
+   "CarneSale": "18136",
+   "Jug_Sale": "RODNEY CARLOS BRUCE",
+   "CarneEntra": "19656",
+   "Jug_Entra": "JUAN MARTIN GORTARI",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19571",
+   "Jug_Sale": "GABRIEL PAYSSE",
+   "CarneEntra": "56149",
+   "Jug_Entra": "JUAN CAMPOMAR",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16827",
+   "Jug_Sale": "JAVIER BURGOS",
+   "CarneEntra": "16224",
+   "Jug_Entra": "OSCAR DIEGO PEÑA",
+   "camiseta": "37",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "18057",
+   "Jug_Sale": "GUSTAVO CHIARINO",
+   "CarneEntra": "23377",
+   "Jug_Entra": "PATRICIO VIZINTIN",
+   "camiseta": "41",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "minutos": "29",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "minutos": "89",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

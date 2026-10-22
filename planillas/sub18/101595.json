@@ -1,0 +1,311 @@
+{
+ "id": "101595",
+ "categoria": "sub18",
+ "serie": "18-52",
+ "fecha": 7,
+ "fechaHora": "2026-09-06 15:30:00",
+ "cancha": "SAGRADA FAMILIA",
+ "local": "CLUB SOCIAL PIEDRAS BLANCAS",
+ "visitante": "JUAN XXIII",
+ "gl": 2,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "325",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 5 RUEDA 2",
+  "Cancha": "SAGRADA FAMILIA",
+  "Fecha_Inicio": "2026-09-06 17:15:00",
+  "Fecha_fin": "2026-09-06 17:15:00",
+  "Locatario": "CLUB SOCIAL PIEDRAS BLANCAS",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "69060",
+   "Nombre": "FACUNDO NAHUEL GONZALEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66981",
+   "Nombre": "FEDERICO DA SILVA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66983",
+   "Nombre": "ELIAS AGUSTIN DOS SANTOS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68752",
+   "Nombre": "LUCAS MATEO LAITANO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65863",
+   "Nombre": "ALEX SANTIAGO MIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "69023",
+   "Nombre": "RODRIGO MARTIN NUÑEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "69089",
+   "Nombre": "SEBASTIAN ACOSTA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "69090",
+   "Nombre": "BRUNO CHARLONE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "66989",
+   "Nombre": "LAUTARO AGUSTIN CUADRO",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68292",
+   "Nombre": "THIAGO NICOLAS SILVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64917",
+   "Nombre": "BRUNO ARAUJO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68238",
+   "Nombre": "AGUSTIN MARIA BALTASAR",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63012",
+   "Nombre": "DAMIAN ALEJANDRO VELCOFF",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68764",
+   "Nombre": "BRUNO GONZALO BAZZANO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "59079",
+   "Nombre": "DIEGO MARTINO",
+   "camiseta": "95",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66146",
+   "Nombre": "GASTON ERRANDONEA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61796",
+   "Nombre": "JUAN IGNACIO PIÑERA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61098",
+   "Nombre": "JUAN BAUTISTA DANS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59604",
+   "Nombre": "MAXIMO WERNER QUINCKE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "64875",
+   "Nombre": "JOAQUIN VAZQUEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56150",
+   "Nombre": "FACUNDO CANAN",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "69023",
+   "Jug_Sale": "RODRIGO MARTIN NUÑEZ",
+   "CarneEntra": "68295",
+   "Jug_Entra": "ALEXANDER JERAMEL ISBARBO",
+   "camiseta": "8",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "69060",
+   "Jug_Sale": "FACUNDO NAHUEL GONZALEZ",
+   "CarneEntra": "68295",
+   "Jug_Entra": "ALEXANDER JERAMEL ISBARBO",
+   "camiseta": "19",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "66989",
+   "Jug_Sale": "LAUTARO AGUSTIN CUADRO",
+   "CarneEntra": "66986",
+   "Jug_Entra": "THIAGO NILMAR YEYE",
+   "camiseta": "4",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "66983",
+   "Jug_Sale": "ELIAS AGUSTIN DOS SANTOS",
+   "CarneEntra": "66991",
+   "Jug_Entra": "KEVIN EZEQUIEL CARDOZO",
+   "camiseta": "26",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "69090",
+   "Jug_Sale": "BRUNO CHARLONE",
+   "CarneEntra": "66982",
+   "Jug_Entra": "SANTIAGO GONZALEZ",
+   "camiseta": "13",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63012",
+   "Jug_Sale": "DAMIAN ALEJANDRO VELCOFF",
+   "CarneEntra": "64876",
+   "Jug_Entra": "GUZMAN ISMAEL RODRIGUEZ",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66146",
+   "Jug_Sale": "GASTON ERRANDONEA",
+   "CarneEntra": "65545",
+   "Jug_Entra": "LUCAS FLORIAN PEREIRA",
+   "camiseta": "39",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64875",
+   "Jug_Sale": "JOAQUIN VAZQUEZ",
+   "CarneEntra": "68229",
+   "Jug_Entra": "BENICIO DIAZ",
+   "camiseta": "19",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "61796",
+   "Jug_Sale": "JUAN IGNACIO PIÑERA",
+   "CarneEntra": "61720",
+   "Jug_Entra": "AARON NIHAGI PICOLI",
+   "camiseta": "42",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "68764",
+   "Jug_Sale": "BRUNO GONZALO BAZZANO",
+   "CarneEntra": "61949",
+   "Jug_Entra": "JUAN IGNACIO DE RIENZO",
+   "camiseta": "50",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66989",
+   "Nombre": "LAUTARO AGUSTIN CUADRO",
+   "minutos": "36",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68292",
+   "Nombre": "THIAGO NICOLAS SILVA",
+   "minutos": "47",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56150",
+   "Nombre": "FACUNDO CANAN",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "minutos": "9",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "minutos": "13",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65119",
+   "Nombre": "VALENTIN BALZA",
+   "minutos": "83",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FEDERICO DA SILVA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

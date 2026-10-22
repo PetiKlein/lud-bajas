@@ -1,0 +1,307 @@
+{
+ "id": "98199",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "OLD BRENDANS CLUB",
+ "visitante": "MATECHA",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "583",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-04-18 00:00:00",
+  "Fecha_fin": "2026-04-18 00:00:00",
+  "Locatario": "OLD BRENDANS CLUB",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "MATECHA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "21036",
+   "Nombre": "JUAN AGUSTIN MURIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38649",
+   "Nombre": "ADRIAN RIBERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35203",
+   "Nombre": "SANTIAGO HUELMO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "20392",
+   "Nombre": "SEBASTIAN MOREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "28389",
+   "Nombre": "DIEGO FRANCO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33907",
+   "Nombre": "JOAQUIN CICATIELLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "63917",
+   "Nombre": "BRUNO FRANCISCO CONTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "27751",
+   "Nombre": "GUZMAN DANIEL MONTGOMERY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "23486",
+   "Nombre": "SEBASTIAN VIDAL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "34858",
+   "Nombre": "DARDO LUIS ARISMENDI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65980",
+   "Nombre": "FABRICIO MARTIN FLORES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "26640",
+   "Nombre": "JUAN DIEGO ZUNINO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28659",
+   "Nombre": "GONZALO VILA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "37324",
+   "Nombre": "LUIS ALEJANDRO SUAREZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "61724",
+   "Nombre": "LEANDRO REYES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "41332",
+   "Nombre": "CHRISTIAN ADRIAN COUSILLAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "45167",
+   "Nombre": "NICOLAS RISSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "31780",
+   "Nombre": "JOSE IGNACIO GIL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59836",
+   "Nombre": "EMILIANO ZOCCOLINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57305",
+   "Nombre": "SERGIO DANIEL CAMPOS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "37740",
+   "Jug_Sale": "GONZALO RAMALLO",
+   "CarneEntra": "33066",
+   "Jug_Entra": "RAFAEL ESTEBAN GIMENEZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35203",
+   "Jug_Sale": "SANTIAGO HUELMO",
+   "CarneEntra": "27623",
+   "Jug_Entra": "FEDERICO PANZARDO",
+   "camiseta": "50",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27623",
+   "Jug_Sale": "FEDERICO PANZARDO",
+   "CarneEntra": "35203",
+   "Jug_Entra": "SANTIAGO HUELMO",
+   "camiseta": "4",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "63917",
+   "Jug_Sale": "BRUNO FRANCISCO CONTE",
+   "CarneEntra": "27384",
+   "Jug_Entra": "NICOLAS ESTEVEZ",
+   "camiseta": "25",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "27751",
+   "Jug_Sale": "GUZMAN DANIEL MONTGOMERY",
+   "CarneEntra": "63840",
+   "Jug_Entra": "EMILIO NICOLAS CAMEJO",
+   "camiseta": "77",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "31607",
+   "Jug_Sale": "FEDERICO MARTIN GOMEZ",
+   "CarneEntra": "51479",
+   "Jug_Entra": "LUIS ANDRES SOSA",
+   "camiseta": "19",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "45167",
+   "Jug_Sale": "NICOLAS RISSO",
+   "CarneEntra": "30693",
+   "Jug_Entra": "SANTIAGO FORD",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31780",
+   "Jug_Sale": "JOSE IGNACIO GIL",
+   "CarneEntra": "41343",
+   "Jug_Entra": "DARIO DANIEL GAZZO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26640",
+   "Jug_Sale": "JUAN DIEGO ZUNINO",
+   "CarneEntra": "25641",
+   "Jug_Entra": "MAICOHOL GABRIEL GARCIA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45167",
+   "Jug_Sale": "NICOLAS RISSO",
+   "CarneEntra": "30693",
+   "Jug_Entra": "SANTIAGO FORD",
+   "camiseta": "22",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "30693",
+   "Jug_Sale": "SANTIAGO FORD",
+   "CarneEntra": "65343",
+   "Jug_Entra": "MAURICIO FABIAN COUSILLAS",
+   "camiseta": "5",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "59836",
+   "Jug_Sale": "EMILIANO ZOCCOLINI",
+   "CarneEntra": "67414",
+   "Jug_Entra": "SEBASTIAN ALEJANDRO HAHN",
+   "camiseta": "4",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "34858",
+   "Jug_Sale": "DARDO LUIS ARISMENDI",
+   "CarneEntra": "67415",
+   "Jug_Entra": "JOSE ALEJANDRO MELLUSO",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61724",
+   "Jug_Sale": "LEANDRO REYES",
+   "CarneEntra": "26640",
+   "Jug_Entra": "JUAN DIEGO ZUNINO",
+   "camiseta": "3",
+   "minutos": "66"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "20392",
+   "Nombre": "SEBASTIAN MOREIRA",
+   "minutos": "37",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "minutos": "48",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

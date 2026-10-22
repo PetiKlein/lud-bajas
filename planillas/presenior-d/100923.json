@@ -1,0 +1,252 @@
+{
+ "id": "100923",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 11:15:00",
+ "cancha": "COMPLEJO ARACHAN",
+ "local": "BODY FACTORY",
+ "visitante": "LIVERPOOL UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "687",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO ARACHAN",
+  "Fecha_Inicio": "2026-08-15 13:05:00",
+  "Fecha_fin": "2026-08-15 13:05:00",
+  "Locatario": "BODY FACTORY",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "LIVERPOOL UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "38951",
+   "Nombre": "FACUNDO ESTANISLAO DELGADO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "54412",
+   "Nombre": "DIEGO SERGIO BOUZA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "33420",
+   "Nombre": "MARTIN ENRIQUE AZURICA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "52384",
+   "Nombre": "JOAQUIN PINTOS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "43253",
+   "Nombre": "CARLOS GASTON PRIARONE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "24922",
+   "Nombre": "LEONARDO DANIEL RIJO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67224",
+   "Nombre": "DARIO IBAÑEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "27735",
+   "Nombre": "MATIAS PAIS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56142",
+   "Nombre": "MAURO STOCCO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52544",
+   "Nombre": "ALEXIS BRAVO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67711",
+   "Nombre": "ISMAEL DESCALZI",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "24813",
+   "Nombre": "DANILO SEBASTIAN PUGLISI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66360",
+   "Nombre": "AGUSTIN PAUL GALVAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "38901",
+   "Nombre": "LEONARDO IZMENDI",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "38423",
+   "Nombre": "OCTAVIO OSVALDO CAZZOLA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "36915",
+   "Nombre": "JUAN ANDRES DELGADO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "59321",
+   "Nombre": "ALFONSO BRITOS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "38408",
+   "Nombre": "SANTIAGO ANDRES GOMEZ",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "23980",
+   "Nombre": "NICOLAS GABRIEL RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35408",
+   "Nombre": "JUAN PABLO ROMERO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "31175",
+   "Nombre": "MATHIAS VIERA",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "33420",
+   "Jug_Sale": "MARTIN ENRIQUE AZURICA",
+   "CarneEntra": "44961",
+   "Jug_Entra": "WALTER RENZO SERVETTI",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24922",
+   "Jug_Sale": "LEONARDO DANIEL RIJO",
+   "CarneEntra": "35324",
+   "Jug_Entra": "WALTER HUGO MARTINS",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52384",
+   "Jug_Sale": "JOAQUIN PINTOS",
+   "CarneEntra": "38733",
+   "Jug_Entra": "CRISTIAN DAVID MOREIRA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67711",
+   "Jug_Sale": "ISMAEL DESCALZI",
+   "CarneEntra": "49677",
+   "Jug_Entra": "JOHN ANTHONY PEREIRA",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54412",
+   "Jug_Sale": "DIEGO SERGIO BOUZA",
+   "CarneEntra": "60520",
+   "Jug_Entra": "SEBASTIAN MONFORT",
+   "camiseta": "28",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "27735",
+   "Jug_Sale": "MATIAS PAIS",
+   "CarneEntra": "26989",
+   "Jug_Entra": "MARTIN SEBASTIAN RODRIGUEZ",
+   "camiseta": "35",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "38408",
+   "Jug_Sale": "SANTIAGO ANDRES GOMEZ",
+   "CarneEntra": "27084",
+   "Jug_Entra": "MAXIMILIANO ALBERTI",
+   "camiseta": "32",
+   "minutos": "31"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "56142",
+   "Nombre": "MAURO STOCCO",
+   "minutos": "47",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "minutos": "86",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

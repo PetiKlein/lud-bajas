@@ -1,0 +1,276 @@
+{
+ "id": "102386",
+ "categoria": "presenior-d",
+ "serie": "PSDTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "DEPORTIVO MATADERO",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "921",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-26 10:53:00",
+  "Fecha_fin": "2026-09-26 10:53:00",
+  "Locatario": "DEPORTIVO MATADERO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "20058",
+   "Nombre": "NICOLAS VOLONTERIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62903",
+   "Nombre": "PEDRO GULARTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "28654",
+   "Nombre": "FEDERICO ISLAS",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "19723",
+   "Nombre": "FEDERICO JAVIER GEDANKE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "41699",
+   "Nombre": "FEDERICO AGUSTIN CORES",
+   "camiseta": "63",
+   "Capitan": ""
+  },
+  {
+   "carne": "28802",
+   "Nombre": "ANDRES DE ARTEAGA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "21208",
+   "Nombre": "ARTURO KEUSHKERIAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "18823",
+   "Nombre": "SANTIAGO ADOLFO DIAZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "29431",
+   "Nombre": "FRANCISCO JORGE AGUERRE",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "69159",
+   "Nombre": "FEDERICO MARCO DELLA MEA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "28853",
+   "Nombre": "MARCIO NICOLAS ARAUJO",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37036",
+   "Nombre": "IGNACIO GONZALO PAOLILLO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "59021",
+   "Nombre": "HORACIO MATIAS DEL CORRO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "37033",
+   "Nombre": "VICENTE GONZALEZ-ARNAO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "56450",
+   "Nombre": "FEDERICO HERMIDA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "52449",
+   "Nombre": "FACUNDO FIERRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "30155",
+   "Nombre": "MANUEL FELIPE BOERO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "44615",
+   "Nombre": "JOAQUIN FARIÑA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "33410",
+   "Nombre": "JOSE ARAUJO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "28802",
+   "Jug_Sale": "ANDRES DE ARTEAGA",
+   "CarneEntra": "31617",
+   "Jug_Entra": "SANTIAGO MATO",
+   "camiseta": "22",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "19723",
+   "Jug_Sale": "FEDERICO JAVIER GEDANKE",
+   "CarneEntra": "26930",
+   "Jug_Entra": "ANDRES NICOLAS PALMA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62903",
+   "Jug_Sale": "PEDRO GULARTE",
+   "CarneEntra": "52369",
+   "Jug_Entra": "JOSE MARIA FERNANDEZ",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21208",
+   "Jug_Sale": "ARTURO KEUSHKERIAN",
+   "CarneEntra": "32024",
+   "Jug_Entra": "DIEGO MARTIN PIÑEIRO",
+   "camiseta": "10",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "31617",
+   "Jug_Sale": "SANTIAGO MATO",
+   "CarneEntra": "62903",
+   "Jug_Entra": "PEDRO GULARTE",
+   "camiseta": "81",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59021",
+   "Jug_Sale": "HORACIO MATIAS DEL CORRO",
+   "CarneEntra": "31549",
+   "Jug_Entra": "MICHEL SEBASTIAN MATTOS",
+   "camiseta": "32",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "37036",
+   "Jug_Sale": "IGNACIO GONZALO PAOLILLO",
+   "CarneEntra": "36137",
+   "Jug_Entra": "FEDERICO MENDEZ",
+   "camiseta": "2",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "33410",
+   "Jug_Sale": "JOSE ARAUJO",
+   "CarneEntra": "31035",
+   "Jug_Entra": "GIANFRANCO AMADO POSE",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "44615",
+   "Jug_Sale": "JOAQUIN FARIÑA",
+   "CarneEntra": "34914",
+   "Jug_Entra": "SANTIAGO FERNANDEZ",
+   "camiseta": "8",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "21819",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "64349",
+   "Jug_Entra": "MICHAEL RAJ",
+   "camiseta": "22",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "69159",
+   "Nombre": "FEDERICO MARCO DELLA MEA",
+   "minutos": "76",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31035",
+   "Nombre": "GIANFRANCO AMADO POSE",
+   "minutos": "88",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

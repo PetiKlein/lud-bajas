@@ -1,0 +1,256 @@
+{
+ "id": "99821",
+ "categoria": "sub16",
+ "serie": "16-5-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 13:30:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "TACUAREMBO UNIVERSITARIO",
+ "visitante": "DFC",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "137",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 5",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-06-07 15:55:00",
+  "Fecha_fin": "2026-06-07 15:55:00",
+  "Locatario": "TACUAREMBO UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "DFC",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67833",
+   "Nombre": "EMILIANO COR",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "66918",
+   "Nombre": "SIMON BADIA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "66912",
+   "Nombre": "RODRIGO SANCHEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67217",
+   "Nombre": "NICOLAS CASTELLUCCIO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65277",
+   "Nombre": "THIAGO CALCAGNO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66752",
+   "Nombre": "JUAN MARTIN GUTIERREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66753",
+   "Nombre": "ISMAEL ALEJANDRO IFRAN",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67219",
+   "Nombre": "TOMAS RAMA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66756",
+   "Nombre": "BAUTISTA FUENTES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67837",
+   "Nombre": "JUAN IGNACIO MENENDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67216",
+   "Nombre": "ALEJO RESSI",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63051",
+   "Nombre": "LUCIANO MONTAÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67469",
+   "Nombre": "SANTIAGO DANIEL DE LA LLANA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67604",
+   "Nombre": "IGNACIO GARCIA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68184",
+   "Nombre": "SANTIAGO FONTOURA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67602",
+   "Nombre": "VALENTINO LAUTARO DE ARMAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67929",
+   "Nombre": "EMILIANO BURGAINS",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67932",
+   "Nombre": "BAUTISTA PAZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67599",
+   "Nombre": "MATEO TIZIANO CASTRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67609",
+   "Nombre": "NICOLAS RAUL PEREIRO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67607",
+   "Nombre": "LAUTARO ALEXANDER ALANIS",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67216",
+   "Jug_Sale": "ALEJO RESSI",
+   "CarneEntra": "66914",
+   "Jug_Entra": "VICENTE BERRIEL",
+   "camiseta": "18",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "67837",
+   "Jug_Sale": "JUAN IGNACIO MENENDEZ",
+   "CarneEntra": "66750",
+   "Jug_Entra": "EMILIANO MOLINA",
+   "camiseta": "67",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "65277",
+   "Jug_Sale": "THIAGO CALCAGNO",
+   "CarneEntra": "66915",
+   "Jug_Entra": "FRANCISCO NIEMANN",
+   "camiseta": "23",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "67219",
+   "Jug_Sale": "TOMAS RAMA",
+   "CarneEntra": "66917",
+   "Jug_Entra": "JUAN IGNACIO ADORIAN",
+   "camiseta": "76",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "66918",
+   "Jug_Sale": "SIMON BADIA",
+   "CarneEntra": "66751",
+   "Jug_Entra": "JUAN IGNACIO TIO",
+   "camiseta": "27",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "66756",
+   "Jug_Sale": "BAUTISTA FUENTES",
+   "CarneEntra": "66919",
+   "Jug_Entra": "JUAN IGNACIO GALMES",
+   "camiseta": "14",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63051",
+   "Jug_Sale": "LUCIANO MONTAÑA",
+   "CarneEntra": "67601",
+   "Jug_Entra": "CONSTANTINO VIERAS",
+   "camiseta": "11",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "68184",
+   "Jug_Sale": "SANTIAGO FONTOURA",
+   "CarneEntra": "68451",
+   "Jug_Entra": "GUSTAVO ALEJANDRO ATENCIO",
+   "camiseta": "20",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "67599",
+   "Jug_Sale": "MATEO TIZIANO CASTRO",
+   "CarneEntra": "67931",
+   "Jug_Entra": "FACUNDO MANUEL CAUTO",
+   "camiseta": "4",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "67609",
+   "Jug_Sale": "NICOLAS RAUL PEREIRO",
+   "CarneEntra": "67600",
+   "Jug_Entra": "BRUNO NICOLAS YACQUE",
+   "camiseta": "15",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,284 @@
+{
+ "id": "99074",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "GOMENSORO",
+ "visitante": "CENTRO GALLEGO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "44",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-05-23 10:50:00",
+  "Fecha_fin": "2026-05-23 10:50:00",
+  "Locatario": "GOMENSORO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CENTRO GALLEGO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "24555",
+   "Nombre": "DIEGO TARAMASCO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "30341",
+   "Nombre": "GUILLERMO LARROQUE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "17096",
+   "Nombre": "JULIAN CARVE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20527",
+   "Nombre": "NICOLAS RIENZI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "15471",
+   "Nombre": "IGNACIO VAZQUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "17030",
+   "Nombre": "JUAN DIEGO LARROQUE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "13368",
+   "Nombre": "MARTIN ANDRES OLIVERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "14903",
+   "Nombre": "TAZIO SCALDAFERRI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "28905",
+   "Nombre": "BRUNO NICOLAS LAGOMARSINO",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "23721",
+   "Nombre": "RODRIGO ALVAREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "20965",
+   "Nombre": "RODRIGO AUGUSTO MARTINEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "14946",
+   "Nombre": "JUAN PEDRO LARROUTUROU",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "35089",
+   "Nombre": "PABLO SEBASTIAN CASTRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "25625",
+   "Nombre": "DIEGO WALTER ROCHA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "17816",
+   "Nombre": "CARLOS LEANDRO MARTINEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "18461",
+   "Nombre": "ADRIAN IGNACIO GONZALEZ",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "22483",
+   "Nombre": "EMILIO MANUEL RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "58918",
+   "Nombre": "JOSE  LUIS SMITH",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "25979",
+   "Nombre": "SERGIO GUZMAN SCUTARI",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "32161",
+   "Nombre": "DIEGO SEBASTIAN ROSSI",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "30341",
+   "Jug_Sale": "GUILLERMO LARROQUE",
+   "CarneEntra": "14231",
+   "Jug_Entra": "RODRIGO RECOBA",
+   "camiseta": "14",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "13368",
+   "Jug_Sale": "MARTIN ANDRES OLIVERA",
+   "CarneEntra": "17425",
+   "Jug_Entra": "DIEGO SCLEIDOROVICH",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15471",
+   "Jug_Sale": "IGNACIO VAZQUEZ",
+   "CarneEntra": "28755",
+   "Jug_Entra": "JOSE ANDRES LOPEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40476",
+   "Jug_Sale": "JOSE MANUEL CAYAFFA",
+   "CarneEntra": "22061",
+   "Jug_Entra": "MARCELO ARIEL AMARAL",
+   "camiseta": "22",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "14903",
+   "Jug_Sale": "TAZIO SCALDAFERRI",
+   "CarneEntra": "23588",
+   "Jug_Entra": "ANTONIO MARIA SERRENTINO",
+   "camiseta": "13",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "17816",
+   "Jug_Sale": "CARLOS LEANDRO MARTINEZ",
+   "CarneEntra": "26808",
+   "Jug_Entra": "MARTIN RUBEN BUENO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "14946",
+   "Jug_Sale": "JUAN PEDRO LARROUTUROU",
+   "CarneEntra": "19234",
+   "Jug_Entra": "GABRIEL FAGETTI",
+   "camiseta": "16",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "32161",
+   "Jug_Sale": "DIEGO SEBASTIAN ROSSI",
+   "CarneEntra": "22333",
+   "Jug_Entra": "LEANDRO GASTON NUÑEZ",
+   "camiseta": "7",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "18461",
+   "Jug_Sale": "ADRIAN IGNACIO GONZALEZ",
+   "CarneEntra": "47888",
+   "Jug_Entra": "MARTIN ANSELMO PACINI",
+   "camiseta": "32",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "25625",
+   "Jug_Sale": "DIEGO WALTER ROCHA",
+   "CarneEntra": "21126",
+   "Jug_Entra": "SEBASTIAN MANGGINI",
+   "camiseta": "44",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58918",
+   "Jug_Sale": "JOSE  LUIS SMITH",
+   "CarneEntra": "16136",
+   "Jug_Entra": "MARCELO ROJAS",
+   "camiseta": "77",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "17425",
+   "Nombre": "DIEGO SCLEIDOROVICH",
+   "minutos": "95",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "minutos": "33",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "25979",
+   "Nombre": "SERGIO GUZMAN SCUTARI",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

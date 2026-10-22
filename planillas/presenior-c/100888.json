@@ -1,0 +1,283 @@
+{
+ "id": "100888",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "COMPLEJO EL ENCUENTRO",
+ "local": "ODONTOLOGIA UNIVERSITARIO",
+ "visitante": "CLARA JACKSON UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "354",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO EL ENCUENTRO",
+  "Fecha_Inicio": "2026-08-15 11:10:00",
+  "Fecha_fin": "2026-08-15 11:10:00",
+  "Locatario": "ODONTOLOGIA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CLARA JACKSON UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32395",
+   "Nombre": "RODRIGO DELL ACQUA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57076",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62646",
+   "Nombre": "DARWIN GERARDO D’AMICO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "54776",
+   "Nombre": "AGUSTIN DIEGO INGOGLIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56373",
+   "Nombre": "GONZALO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "38527",
+   "Nombre": "NICOLAS DUARTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "21433",
+   "Nombre": "SEBASTIAN VEGAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "51068",
+   "Nombre": "MATIAS ALEXIS FLORES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47097",
+   "Nombre": "ALVARO DAMIAN COLMAN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "35517",
+   "Nombre": "GONZALO GASTON CROSI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31564",
+   "Nombre": "DIEGO MARTIN GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26280",
+   "Nombre": "DIEGO ALVEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "40810",
+   "Nombre": "DANIEL RODRIGO TORT",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "42789",
+   "Nombre": "DIEGO GABRIEL DEL PO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "33810",
+   "Nombre": "RODRIGO SOBRADO",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "32894",
+   "Nombre": "CARLOS ANDRES BENTANCOURT",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "35443",
+   "Nombre": "RAFAEL LANZETTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "40042",
+   "Nombre": "AGUSTIN GILI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "35291",
+   "Nombre": "ADRIAN MONTOLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "34628",
+   "Nombre": "SANTIAGO PATRICIO IGLESIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35642",
+   "Nombre": "PABLO DANIEL OLIVERA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56373",
+   "Jug_Sale": "GONZALO RODRIGUEZ",
+   "CarneEntra": "68417",
+   "Jug_Entra": "SEBASTIAN GARCIA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54776",
+   "Jug_Sale": "AGUSTIN DIEGO INGOGLIA",
+   "CarneEntra": "46285",
+   "Jug_Entra": "FABRICIO PEREIRA",
+   "camiseta": "19",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "38527",
+   "Jug_Sale": "NICOLAS DUARTE",
+   "CarneEntra": "66117",
+   "Jug_Entra": "SANTIAGO SEIJAS",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "51068",
+   "Jug_Sale": "MATIAS ALEXIS FLORES",
+   "CarneEntra": "42511",
+   "Jug_Entra": "LUCAS AZURICA",
+   "camiseta": "11",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "31564",
+   "Jug_Sale": "DIEGO MARTIN GONZALEZ",
+   "CarneEntra": "28214",
+   "Jug_Entra": "BRUNO GERVASIO CARDOZO",
+   "camiseta": "33",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "62646",
+   "Jug_Sale": "DARWIN GERARDO D’AMICO",
+   "CarneEntra": "26509",
+   "Jug_Entra": "GUILLERMO MARTIN MENDEZ",
+   "camiseta": "14",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42789",
+   "Jug_Sale": "DIEGO GABRIEL DEL PO",
+   "CarneEntra": "30276",
+   "Jug_Entra": "KLAVDIO AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "40042",
+   "Jug_Sale": "AGUSTIN GILI",
+   "CarneEntra": "34406",
+   "Jug_Entra": "FRANCO ANTONIO RICARDI",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40810",
+   "Jug_Sale": "DANIEL RODRIGO TORT",
+   "CarneEntra": "27327",
+   "Jug_Entra": "GERMAN RODRIGO SANTAMARIA",
+   "camiseta": "10",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "35443",
+   "Jug_Sale": "RAFAEL LANZETTA",
+   "CarneEntra": "35096",
+   "Jug_Entra": "AGUSTIN OSVALDO MIRO",
+   "camiseta": "4",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "32894",
+   "Jug_Sale": "CARLOS ANDRES BENTANCOURT",
+   "CarneEntra": "68994",
+   "Jug_Entra": "FEDERICO IBARRA",
+   "camiseta": "29",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62646",
+   "Nombre": "DARWIN GERARDO D’AMICO",
+   "minutos": "77",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62646",
+   "Nombre": "DARWIN GERARDO D’AMICO",
+   "minutos": "81",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66117",
+   "Nombre": "SANTIAGO SEIJAS",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

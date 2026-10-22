@@ -1,0 +1,255 @@
+{
+ "id": "102278",
+ "categoria": "presenior-b",
+ "serie": "PSBTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "SANDY FUTBOL",
+ "local": "RESISTENCIA",
+ "visitante": "E.L.F.",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "836",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"B\" TIT. y ASC",
+  "Cancha": "SANDY FUTBOL",
+  "Fecha_Inicio": "2026-09-26 11:05:00",
+  "Fecha_fin": "2026-09-26 11:05:00",
+  "Locatario": "RESISTENCIA",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "E.L.F.",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25142",
+   "Nombre": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "28541",
+   "Nombre": "IGNACIO BONINO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "24879",
+   "Nombre": "DIEGO NICOLAS RIOLFO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "26679",
+   "Nombre": "PABLO FREIRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "23532",
+   "Nombre": "RODRIGO IBACETA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "23452",
+   "Nombre": "IGNACIO SPANGENBERG",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "27066",
+   "Nombre": "SANTIAGO JULIAN LAGOMARSINO",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62001",
+   "Nombre": "ANTONIO SANTIAGO PEREYRA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "50274",
+   "Nombre": "SANTIAGO ESPAÑA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66157",
+   "Nombre": "FABIAN GASTON BLANCO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "28383",
+   "Nombre": "AGUSTIN JOSE SARNO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "26340",
+   "Nombre": "AGUSTIN CAÑADAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "28553",
+   "Nombre": "MARCELO DEUS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "25659",
+   "Nombre": "FREDY GASTON BATISTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "22081",
+   "Nombre": "GUILLERMO GROSS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66214",
+   "Nombre": "JONATHAN MAICOL GARCIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "35981",
+   "Nombre": "CARLOS ALBERTO FERNANDEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "37039",
+   "Nombre": "REMY GAEL LHERITIER",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24879",
+   "Jug_Sale": "DIEGO NICOLAS RIOLFO",
+   "CarneEntra": "28831",
+   "Jug_Entra": "JOSE IGNACIO SANCHEZ",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27066",
+   "Jug_Sale": "SANTIAGO JULIAN LAGOMARSINO",
+   "CarneEntra": "49856",
+   "Jug_Entra": "MAURICIO JAVIER DAL MONTE",
+   "camiseta": "6",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "25651",
+   "Jug_Sale": "CRISTIAN AROCHA",
+   "CarneEntra": "23840",
+   "Jug_Entra": "RODRIGO AÑON",
+   "camiseta": "29",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22081",
+   "Jug_Sale": "GUILLERMO GROSS",
+   "CarneEntra": "33595",
+   "Jug_Entra": "FACUNDO CALVI",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50274",
+   "Jug_Sale": "SANTIAGO ESPAÑA",
+   "CarneEntra": "28842",
+   "Jug_Entra": "FEDERICO JAVIER SANCHEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26340",
+   "Jug_Sale": "AGUSTIN CAÑADAS",
+   "CarneEntra": "59700",
+   "Jug_Entra": "ANDRES AGUSTIN LOPEZ",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35981",
+   "Jug_Sale": "CARLOS ALBERTO FERNANDEZ",
+   "CarneEntra": "28308",
+   "Jug_Entra": "MARTIN SERORENA",
+   "camiseta": "27",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "66214",
+   "Jug_Sale": "JONATHAN MAICOL GARCIA",
+   "CarneEntra": "63904",
+   "Jug_Entra": "FACUNDO MAURICIO ESTEVEZ",
+   "camiseta": "14",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "37039",
+   "Jug_Sale": "REMY GAEL LHERITIER",
+   "CarneEntra": "66214",
+   "Jug_Entra": "JONATHAN MAICOL GARCIA",
+   "camiseta": "17",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "minutos": "43",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,290 @@
+{
+ "id": "101981",
+ "categoria": "sub16",
+ "serie": "16-22",
+ "fecha": 2,
+ "fechaHora": "2026-09-10 20:00:00",
+ "cancha": "LA MENNAIS",
+ "local": "J.M.L.M",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "174",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 2 RUEDA 2",
+  "Cancha": "LA MENNAIS",
+  "Fecha_Inicio": "2026-09-10 21:40:00",
+  "Fecha_fin": "2026-09-10 21:40:00",
+  "Locatario": "J.M.L.M",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67857",
+   "Nombre": "JUAN ESTEBAN MELLO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "64172",
+   "Nombre": "TOMAS GABRIEL RODRIGUEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "68221",
+   "Nombre": "FACUNDO FUENTES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64179",
+   "Nombre": "JUAN MONTAÑO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67378",
+   "Nombre": "SANTIAGO FALKENHAGEN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "64167",
+   "Nombre": "DANIEL CARBALLO",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64168",
+   "Nombre": "GABRIEL CARBALLO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62866",
+   "Nombre": "LAUTARO MENDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63491",
+   "Nombre": "FELIPE BENITEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61919",
+   "Nombre": "SANTIAGO ANDRES BROGGI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64181",
+   "Nombre": "JUAN FRANCO GRUNOW",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62569",
+   "Nombre": "MATIAS GABRIEL COLOMBO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62553",
+   "Nombre": "FELIPE GOSLINO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65112",
+   "Nombre": "JUAN MARTIN LALUZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68247",
+   "Nombre": "MATTEO TARTAGLIA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66963",
+   "Nombre": "JUAN MARTIN GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65364",
+   "Nombre": "FRANCISO RAMOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65318",
+   "Nombre": "JUAN PEDRO DAMONTE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65365",
+   "Nombre": "JUAN VALENTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62350",
+   "Nombre": "NICOLAS FERRAZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65111",
+   "Nombre": "FELIPE VIOLA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "65173",
+   "Nombre": "ANTONIO XALAMBRI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64172",
+   "Jug_Sale": "TOMAS GABRIEL RODRIGUEZ",
+   "CarneEntra": "63492",
+   "Jug_Entra": "MARTIN BENITES",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63491",
+   "Jug_Sale": "FELIPE BENITEZ",
+   "CarneEntra": "64172",
+   "Jug_Entra": "TOMAS GABRIEL RODRIGUEZ",
+   "camiseta": "14",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "68221",
+   "Jug_Sale": "FACUNDO FUENTES",
+   "CarneEntra": "68516",
+   "Jug_Entra": "MATIAS CARBAJALES",
+   "camiseta": "20",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "64179",
+   "Jug_Sale": "JUAN MONTAÑO",
+   "CarneEntra": "68221",
+   "Jug_Entra": "FACUNDO FUENTES",
+   "camiseta": "11",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65111",
+   "Jug_Sale": "FELIPE VIOLA",
+   "CarneEntra": "66627",
+   "Jug_Entra": "FRANCO PERCOVICH",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65365",
+   "Jug_Sale": "JUAN VALENTI",
+   "CarneEntra": "62946",
+   "Jug_Entra": "MATIAS DOMINGUEZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65173",
+   "Jug_Sale": "ANTONIO XALAMBRI",
+   "CarneEntra": "62274",
+   "Jug_Entra": "MATEO CENTURION",
+   "camiseta": "9",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "66963",
+   "Jug_Sale": "JUAN MARTIN GARCIA",
+   "CarneEntra": "62626",
+   "Jug_Entra": "ALFONSO MARQUISA",
+   "camiseta": "21",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "62553",
+   "Jug_Sale": "FELIPE GOSLINO",
+   "CarneEntra": "62803",
+   "Jug_Entra": "FRANCISCO RIVA",
+   "camiseta": "15",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "65318",
+   "Jug_Sale": "JUAN PEDRO DAMONTE",
+   "CarneEntra": "65165",
+   "Jug_Entra": "FRANCO TAMBORINI",
+   "camiseta": "16",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "65173",
+   "Jug_Sale": "ANTONIO XALAMBRI",
+   "CarneEntra": "65173",
+   "Jug_Entra": "ANTONIO XALAMBRI",
+   "camiseta": "11",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63491",
+   "Nombre": "FELIPE BENITEZ",
+   "minutos": "23",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62350",
+   "Nombre": "NICOLAS FERRAZ",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62350",
+   "Nombre": "NICOLAS FERRAZ",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62946",
+   "Nombre": "MATIAS DOMINGUEZ",
+   "minutos": "61",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

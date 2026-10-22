@@ -1,0 +1,308 @@
+{
+ "id": "99905",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 09:00:00",
+ "cancha": "ESCUELA NAVAL",
+ "local": "ESPARTA UNIVERSITARIO",
+ "visitante": "OLIMAR",
+ "gl": 5,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "188",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "ESCUELA NAVAL",
+  "Fecha_Inicio": "2026-06-13 10:55:00",
+  "Fecha_fin": "2026-06-13 10:55:00",
+  "Locatario": "ESPARTA UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "OLIMAR",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23421",
+   "Nombre": "WALTER DANIEL BORIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "20916",
+   "Nombre": "MAXIMILIANO ANDRES VIERA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "37622",
+   "Nombre": "CARLOS EDUARDO SILVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "15676",
+   "Nombre": "PABLO JAVIER REBOLLO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20066",
+   "Nombre": "DIEGO RAFAEL RIOS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "19918",
+   "Nombre": "SERGIO MARTIN VENTOSO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "20876",
+   "Nombre": "ALEJANDRO BALAZSI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67253",
+   "Nombre": "ANDRES SEBASTIAN MANEIRO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "38910",
+   "Nombre": "ROBERTO MIGUEL VILLAGRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16619",
+   "Nombre": "ANDRES DELLEPIANE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "9767",
+   "Nombre": "GUSTAVO ANIBAL LORDA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "11179",
+   "Nombre": "ALVARO DANIEL SIERRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "18826",
+   "Nombre": "DANIEL FEDERICO FOLABELLA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "16310",
+   "Nombre": "IGNACIO POSADA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35128",
+   "Nombre": "MARCOS ALBERTO MERLO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64699",
+   "Nombre": "DIEGO RIVERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "22324",
+   "Nombre": "FERNANDO DIEGO DELLEPIANE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16871",
+   "Nombre": "NICOLAS GABRIEL CAMPANELLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "20727",
+   "Nombre": "DIEGO SEBASTIAN BORBA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "21414",
+   "Nombre": "GERMAN DEVITTA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64696",
+   "Nombre": "MARCELO MADJARIAN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "19849",
+   "Nombre": "GASTON FERNANDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "20876",
+   "Jug_Sale": "ALEJANDRO BALAZSI",
+   "CarneEntra": "17149",
+   "Jug_Entra": "CARLOS JAVIER SOUZA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "9767",
+   "Jug_Sale": "GUSTAVO ANIBAL LORDA",
+   "CarneEntra": "29675",
+   "Jug_Entra": "MARTIN LOPEZ",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20066",
+   "Jug_Sale": "DIEGO RAFAEL RIOS",
+   "CarneEntra": "21963",
+   "Jug_Entra": "GERMAN ALEJANDRO RARIZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20066",
+   "Jug_Sale": "DIEGO RAFAEL RIOS",
+   "CarneEntra": "20916",
+   "Jug_Entra": "MAXIMILIANO ANDRES VIERA",
+   "camiseta": "13",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64696",
+   "Jug_Sale": "MARCELO MADJARIAN",
+   "CarneEntra": "18944",
+   "Jug_Entra": "JUAN MANUEL ELOSEGUI",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19849",
+   "Jug_Sale": "GASTON FERNANDEZ",
+   "CarneEntra": "16925",
+   "Jug_Entra": "HENRY MAURICIO ACUÑA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21414",
+   "Jug_Sale": "GERMAN DEVITTA",
+   "CarneEntra": "37800",
+   "Jug_Entra": "JOSE RAUL RODRIGUEZ",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "16871",
+   "Jug_Sale": "NICOLAS GABRIEL CAMPANELLA",
+   "CarneEntra": "28168",
+   "Jug_Entra": "EDGARDO FABIAN ALVAREZ",
+   "camiseta": "8",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "35128",
+   "Jug_Sale": "MARCOS ALBERTO MERLO",
+   "CarneEntra": "21799",
+   "Jug_Entra": "MARTIN FERNANDEZ",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "16310",
+   "Jug_Sale": "IGNACIO POSADA",
+   "CarneEntra": "20604",
+   "Jug_Entra": "PABLO FRESIA",
+   "camiseta": "6",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "16925",
+   "Jug_Sale": "HENRY MAURICIO ACUÑA",
+   "CarneEntra": "47008",
+   "Jug_Entra": "CLAUDIO GERMAN COPATTI",
+   "camiseta": "13",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "17149",
+   "Nombre": "CARLOS JAVIER SOUZA",
+   "minutos": "91",
+   "EnContra": "0"
+  },
+  {
+   "carne": "19918",
+   "Nombre": "SERGIO MARTIN VENTOSO",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "20876",
+   "Nombre": "ALEJANDRO BALAZSI",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38910",
+   "Nombre": "ROBERTO MIGUEL VILLAGRA",
+   "minutos": "4",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38910",
+   "Nombre": "ROBERTO MIGUEL VILLAGRA",
+   "minutos": "57",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "35128",
+   "Nombre": "MARCOS ALBERTO MERLO",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64699",
+   "Nombre": "DIEGO RIVERO",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

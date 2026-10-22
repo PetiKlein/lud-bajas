@@ -1,0 +1,402 @@
+{
+ "id": "98295",
+ "categoria": "sub16",
+ "serie": "16-2-",
+ "fecha": 1,
+ "fechaHora": "2026-04-19 13:30:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 5,
+ "gv": 11,
+ "detalle": {
+  "nro_partido": "31",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 2",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-04-19 15:10:00",
+  "Fecha_fin": "2026-04-19 15:10:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "5",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "11",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67663",
+   "Nombre": "NICOLAS MATEO SANTA MARIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65755",
+   "Nombre": "LAUTARO EZEQUIEL VELAZQUEZ",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65998",
+   "Nombre": "LIAN SUAREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68078",
+   "Nombre": "AGUSTIN GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68081",
+   "Nombre": "FACUNDO LENADRO SANCHEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68185",
+   "Nombre": "LUCIANO CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "68084",
+   "Nombre": "JOSE PEDRO MARTIRENA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68076",
+   "Nombre": "DAMIAN EZEQUIEL NASTASI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68086",
+   "Nombre": "EZEQUIEL RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68087",
+   "Nombre": "NAHUEL EZEQUIEL ALFONSO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68079",
+   "Nombre": "VALENTINO GENTILIO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62569",
+   "Nombre": "MATIAS GABRIEL COLOMBO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66963",
+   "Nombre": "JUAN MARTIN GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65112",
+   "Nombre": "JUAN MARTIN LALUZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66450",
+   "Nombre": "GERONIMO PASEYRO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62626",
+   "Nombre": "ALFONSO MARQUISA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "65364",
+   "Nombre": "FRANCISO RAMOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "65318",
+   "Nombre": "JUAN PEDRO DAMONTE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66627",
+   "Nombre": "FRANCO PERCOVICH",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62553",
+   "Nombre": "FELIPE GOSLINO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62946",
+   "Nombre": "MATIAS DOMINGUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62274",
+   "Nombre": "MATEO CENTURION",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68078",
+   "Jug_Sale": "AGUSTIN GONZALEZ",
+   "CarneEntra": "68085",
+   "Jug_Entra": "ZIRALDO TECHERA",
+   "camiseta": "20",
+   "minutos": "39"
+  },
+  {
+   "CarneSale": "65998",
+   "Jug_Sale": "LIAN SUAREZ",
+   "CarneEntra": "67659",
+   "Jug_Entra": "MARTIN MAGALLANES",
+   "camiseta": "17",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "68185",
+   "Jug_Sale": "LUCIANO CASTRO",
+   "CarneEntra": "67664",
+   "Jug_Entra": "SANTIAGO MATIAS CANONICO",
+   "camiseta": "22",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "68086",
+   "Jug_Sale": "EZEQUIEL RODRIGUEZ",
+   "CarneEntra": "66315",
+   "Jug_Entra": "BENJAMIN RAMOS",
+   "camiseta": "14",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "68078",
+   "Jug_Sale": "AGUSTIN GONZALEZ",
+   "CarneEntra": "68082",
+   "Jug_Entra": "RAMIRO MARTIN SILVA",
+   "camiseta": "8",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "68087",
+   "Jug_Sale": "NAHUEL EZEQUIEL ALFONSO",
+   "CarneEntra": "68077",
+   "Jug_Entra": "FRANCO BELLINI",
+   "camiseta": "6",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "68079",
+   "Jug_Sale": "VALENTINO GENTILIO",
+   "CarneEntra": "67658",
+   "Jug_Entra": "JUAN MANUEL DOS SANTOS",
+   "camiseta": "13",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62946",
+   "Jug_Sale": "MATIAS DOMINGUEZ",
+   "CarneEntra": "62350",
+   "Jug_Entra": "NICOLAS FERRAZ",
+   "camiseta": "20",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "66450",
+   "Jug_Sale": "GERONIMO PASEYRO",
+   "CarneEntra": "65109",
+   "Jug_Entra": "GONZALO ALEJANDRO CASSARINO",
+   "camiseta": "14",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "66627",
+   "Jug_Sale": "FRANCO PERCOVICH",
+   "CarneEntra": "65173",
+   "Jug_Entra": "ANTONIO XALAMBRI",
+   "camiseta": "18",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "65364",
+   "Jug_Sale": "FRANCISO RAMOS",
+   "CarneEntra": "62803",
+   "Jug_Entra": "FRANCISCO RIVA",
+   "camiseta": "3",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "66963",
+   "Jug_Sale": "JUAN MARTIN GARCIA",
+   "CarneEntra": "65165",
+   "Jug_Entra": "FRANCO TAMBORINI",
+   "camiseta": "17",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "62274",
+   "Jug_Sale": "MATEO CENTURION",
+   "CarneEntra": "62283",
+   "Jug_Entra": "FACUNDO AMAYA",
+   "camiseta": "11",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62626",
+   "Jug_Sale": "ALFONSO MARQUISA",
+   "CarneEntra": "65111",
+   "Jug_Entra": "FELIPE VIOLA",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65318",
+   "Jug_Sale": "JUAN PEDRO DAMONTE",
+   "CarneEntra": "65365",
+   "Jug_Entra": "JUAN VALENTI",
+   "camiseta": "6",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62553",
+   "Jug_Sale": "FELIPE GOSLINO",
+   "CarneEntra": "68247",
+   "Jug_Entra": "MATTEO TARTAGLIA",
+   "camiseta": "13",
+   "minutos": "40"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67664",
+   "Nombre": "SANTIAGO MATIAS CANONICO",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68079",
+   "Nombre": "VALENTINO GENTILIO",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68084",
+   "Nombre": "JOSE PEDRO MARTIRENA",
+   "minutos": "78",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68087",
+   "Nombre": "NAHUEL EZEQUIEL ALFONSO",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68087",
+   "Nombre": "NAHUEL EZEQUIEL ALFONSO",
+   "minutos": "30",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62274",
+   "Nombre": "MATEO CENTURION",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62283",
+   "Nombre": "FACUNDO AMAYA",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62553",
+   "Nombre": "FELIPE GOSLINO",
+   "minutos": "8",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62553",
+   "Nombre": "FELIPE GOSLINO",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62946",
+   "Nombre": "MATIAS DOMINGUEZ",
+   "minutos": "35",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65109",
+   "Nombre": "GONZALO ALEJANDRO CASSARINO",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65111",
+   "Nombre": "FELIPE VIOLA",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65111",
+   "Nombre": "FELIPE VIOLA",
+   "minutos": "44",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65111",
+   "Nombre": "FELIPE VIOLA",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65365",
+   "Nombre": "JUAN VALENTI",
+   "minutos": "63",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66627",
+   "Nombre": "FRANCO PERCOVICH",
+   "minutos": "2",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

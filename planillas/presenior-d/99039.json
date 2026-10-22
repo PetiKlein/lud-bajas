@@ -1,0 +1,362 @@
+{
+ "id": "99039",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "SCUOLA ITALIANA",
+ "local": "SCUOLA PALERMO",
+ "visitante": "LIVERPOOL UNIVERSITARIO",
+ "gl": 5,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "618",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "SCUOLA ITALIANA",
+  "Fecha_Inicio": "2026-05-23 11:05:00",
+  "Fecha_fin": "2026-05-23 11:05:00",
+  "Locatario": "SCUOLA PALERMO",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "LIVERPOOL UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "25425",
+   "Nombre": "FACUNDO RICARDO SILVEIRA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "29165",
+   "Nombre": "JOSE LUIS DUCRET",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "64370",
+   "Nombre": "FACUNDO ANDRADA",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67780",
+   "Nombre": "CRISTIAN CANOSA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "31871",
+   "Nombre": "GIANCARLO RAFAEL DIPAULO",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "61258",
+   "Nombre": "ULISES LACUESTA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "29694",
+   "Nombre": "SANTIAGO BRUM",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "39983",
+   "Nombre": "DAMIAN BARES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "39901",
+   "Nombre": "AGUSTIN MAZZEY",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62799",
+   "Nombre": "BRUNO FEDERICO BARRETO",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "30428",
+   "Nombre": "MARIANO FEDERICO LEONI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "33436",
+   "Nombre": "ANDRES SPADARO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27084",
+   "Nombre": "MAXIMILIANO ALBERTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "22552",
+   "Nombre": "MAURICIO DI NITTO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "20971",
+   "Nombre": "ROBERTO LAMAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "33231",
+   "Nombre": "SANTIAGO ANTUNEZ",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24813",
+   "Nombre": "DANILO SEBASTIAN PUGLISI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "31175",
+   "Nombre": "MATHIAS VIERA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "50308",
+   "Nombre": "LUIS ANTONIO SIMOES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "38423",
+   "Nombre": "OCTAVIO OSVALDO CAZZOLA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "38901",
+   "Nombre": "LEONARDO IZMENDI",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "29165",
+   "Jug_Sale": "JOSE LUIS DUCRET",
+   "CarneEntra": "20987",
+   "Jug_Entra": "MAXIMILIANO SANTIAGO",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31871",
+   "Jug_Sale": "GIANCARLO RAFAEL DIPAULO",
+   "CarneEntra": "33970",
+   "Jug_Entra": "MATHIAS DANIEL VENEROSO",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61258",
+   "Jug_Sale": "ULISES LACUESTA",
+   "CarneEntra": "21647",
+   "Jug_Entra": "HERNAN NOVICK",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29694",
+   "Jug_Sale": "SANTIAGO BRUM",
+   "CarneEntra": "26656",
+   "Jug_Entra": "LEONARDO FRANCISCO SERGIO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39983",
+   "Jug_Sale": "DAMIAN BARES",
+   "CarneEntra": "66885",
+   "Jug_Entra": "SANTIAGO OLEAGA",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62799",
+   "Jug_Sale": "BRUNO FEDERICO BARRETO",
+   "CarneEntra": "32769",
+   "Jug_Entra": "GONZALO MATIAS AMARO",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30428",
+   "Jug_Sale": "MARIANO FEDERICO LEONI",
+   "CarneEntra": "36708",
+   "Jug_Entra": "ALVARO APOLITO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36708",
+   "Jug_Sale": "ALVARO APOLITO",
+   "CarneEntra": "30224",
+   "Jug_Entra": "RODRIGO BEIRA",
+   "camiseta": "18",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "38423",
+   "Jug_Sale": "OCTAVIO OSVALDO CAZZOLA",
+   "CarneEntra": "62591",
+   "Jug_Entra": "MATHIAS DEMATTE",
+   "camiseta": "34",
+   "minutos": "44"
+  },
+  {
+   "CarneSale": "22552",
+   "Jug_Sale": "MAURICIO DI NITTO",
+   "CarneEntra": "35408",
+   "Jug_Entra": "JUAN PABLO ROMERO",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20971",
+   "Jug_Sale": "ROBERTO LAMAS",
+   "CarneEntra": "66360",
+   "Jug_Entra": "AGUSTIN PAUL GALVAN",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24813",
+   "Jug_Sale": "DANILO SEBASTIAN PUGLISI",
+   "CarneEntra": "22850",
+   "Jug_Entra": "HECTOR ANDRES MANNFRINI",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38901",
+   "Jug_Sale": "LEONARDO IZMENDI",
+   "CarneEntra": "59321",
+   "Jug_Entra": "ALFONSO BRITOS",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50308",
+   "Jug_Sale": "LUIS ANTONIO SIMOES",
+   "CarneEntra": "23980",
+   "Jug_Entra": "NICOLAS GABRIEL RODRIGUEZ",
+   "camiseta": "14",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "27084",
+   "Jug_Sale": "MAXIMILIANO ALBERTI",
+   "CarneEntra": "38901",
+   "Jug_Entra": "LEONARDO IZMENDI",
+   "camiseta": "91",
+   "minutos": "93"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "20987",
+   "Nombre": "MAXIMILIANO SANTIAGO",
+   "minutos": "69",
+   "EnContra": "0"
+  },
+  {
+   "carne": "20987",
+   "Nombre": "MAXIMILIANO SANTIAGO",
+   "minutos": "73",
+   "EnContra": "0"
+  },
+  {
+   "carne": "20987",
+   "Nombre": "MAXIMILIANO SANTIAGO",
+   "minutos": "95",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31871",
+   "Nombre": "GIANCARLO RAFAEL DIPAULO",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31871",
+   "Nombre": "GIANCARLO RAFAEL DIPAULO",
+   "minutos": "33",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "24813",
+   "Nombre": "DANILO SEBASTIAN PUGLISI",
+   "minutos": "97",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31175",
+   "Nombre": "MATHIAS VIERA",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "38423",
+   "Nombre": "OCTAVIO OSVALDO CAZZOLA",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66360",
+   "Nombre": "AGUSTIN PAUL GALVAN",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "AGUSTIN MAZZEY",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "SANTIAGO ANTUNEZ",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "id": "98185",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "OLD SAMPA CLUB",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "130",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-04-18 11:00:00",
+  "Fecha_fin": "2026-04-18 11:00:00",
+  "Locatario": "OLD SAMPA CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "24682",
+   "Nombre": "LORENZO MANUEL FRANZINI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "44279",
+   "Nombre": "GUILLERMO NICOLAS CARDOZO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "24932",
+   "Nombre": "RAFAEL ETCHEBARNE",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39512",
+   "Nombre": "JAVIER FRANCISCO MONTANS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "23557",
+   "Nombre": "IGNACIO IRURETA GOYENA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23372",
+   "Nombre": "JUAN IGNACIO LOPEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "24739",
+   "Nombre": "NICOLAS SUAREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "23371",
+   "Nombre": "EDUARDO ANDRES CUÑARRO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "51059",
+   "Nombre": "RODRIGO MENDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "21634",
+   "Nombre": "MATIAS CALACHA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "29965",
+   "Nombre": "ALEJANDRO MAZZOLI",
+   "camiseta": "44",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67636",
+   "Nombre": "RICARDO GONCALVES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25876",
+   "Nombre": "SANTIAGO ANDRES ARROYO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "28851",
+   "Nombre": "GUILLERMO MUTAY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "16315",
+   "Nombre": "MATIAS FERMIN IRAZABAL",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25030",
+   "Nombre": "JUAN MANUEL ROVELLA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62272",
+   "Nombre": "DIEGO NICOLAS LA PAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "29031",
+   "Nombre": "FERNANDO BELOSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "23563",
+   "Nombre": "JOSE LUIS OLIVERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "28502",
+   "Nombre": "MARTIN PRESNO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "15330",
+   "Nombre": "MATIAS RAFAEL PLADA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "46555",
+   "Nombre": "ALVARO DAMIAN PASTORIZA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24739",
+   "Jug_Sale": "NICOLAS SUAREZ",
+   "CarneEntra": "63181",
+   "Jug_Entra": "JUAN PABLO EKMEKDJIAN",
+   "camiseta": "32",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "21634",
+   "Jug_Sale": "MATIAS CALACHA",
+   "CarneEntra": "24933",
+   "Jug_Entra": "BRUNO NICOLAS VALENTINI",
+   "camiseta": "31",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "23557",
+   "Jug_Sale": "IGNACIO IRURETA GOYENA",
+   "CarneEntra": "33518",
+   "Jug_Entra": "SANTIAGO SUAREZ",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "51059",
+   "Jug_Sale": "RODRIGO MENDEZ",
+   "CarneEntra": "51059",
+   "Jug_Entra": "RODRIGO MENDEZ",
+   "camiseta": "8",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "23372",
+   "Jug_Sale": "JUAN IGNACIO LOPEZ",
+   "CarneEntra": "23366",
+   "Jug_Entra": "SANTIAGO POCHINTESTA",
+   "camiseta": "1",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "23563",
+   "Jug_Sale": "JOSE LUIS OLIVERA",
+   "CarneEntra": "28499",
+   "Jug_Entra": "MARTIN LARRAURI",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28502",
+   "Jug_Sale": "MARTIN PRESNO",
+   "CarneEntra": "22618",
+   "Jug_Entra": "FRANCISCO NAVARRO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25030",
+   "Jug_Sale": "JUAN MANUEL ROVELLA",
+   "CarneEntra": "24772",
+   "Jug_Entra": "DANIEL ANTONIO MARTINEZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62272",
+   "Jug_Sale": "DIEGO NICOLAS LA PAZ",
+   "CarneEntra": "17005",
+   "Jug_Entra": "RAFAEL STARICCO",
+   "camiseta": "19",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "16315",
+   "Jug_Sale": "MATIAS FERMIN IRAZABAL",
+   "CarneEntra": "18842",
+   "Jug_Entra": "RODRIGO ALBERTO DURAN",
+   "camiseta": "16",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "67636",
+   "Jug_Sale": "RICARDO GONCALVES",
+   "CarneEntra": "68244",
+   "Jug_Entra": "JORGE SEBASTIAN CALATAYUD",
+   "camiseta": "17",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "15330",
+   "Jug_Sale": "MATIAS RAFAEL PLADA",
+   "CarneEntra": "37949",
+   "Jug_Entra": "IGNACIO ROSATI",
+   "camiseta": "3",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "25876",
+   "Jug_Sale": "SANTIAGO ANDRES ARROYO",
+   "CarneEntra": "31935",
+   "Jug_Entra": "JUAN ANDRES SILVA",
+   "camiseta": "40",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "29965",
+   "Nombre": "ALEJANDRO MAZZOLI",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28502",
+   "Nombre": "MARTIN PRESNO",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62272",
+   "Nombre": "DIEGO NICOLAS LA PAZ",
+   "minutos": "12",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

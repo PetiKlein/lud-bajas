@@ -1,0 +1,266 @@
+{
+ "id": "100493",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "OLD WOODLANDS CLUB",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "328",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-27 11:00:00",
+  "Fecha_fin": "2026-06-27 11:00:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD WOODLANDS CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "27961",
+   "Nombre": "JUAN MANUEL SCHAICH",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "28376",
+   "Nombre": "JUAN MANUEL ROMERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "26521",
+   "Nombre": "SEBASTIAN DE AZPITARTE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27970",
+   "Nombre": "FELIPE GIRIBALDI",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "29507",
+   "Nombre": "ANTONIO SOTO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38064",
+   "Nombre": "TEOFILO SCHAICH",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "28020",
+   "Nombre": "JOAQUIN JOSE CURA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "27930",
+   "Nombre": "SANTIAGO DE AZPITARTE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "26675",
+   "Nombre": "MATIAS ALONSO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "27399",
+   "Nombre": "JOAQUIN PASQUET",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "36830",
+   "Nombre": "MARIO ANDRES ORTIZ",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "31328",
+   "Nombre": "FELIPE JOSE ROMANIELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "37661",
+   "Nombre": "JUAN AGUSTIN DIAZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "32011",
+   "Nombre": "JOAQUIN DELUCCA",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32402",
+   "Nombre": "FERNANDO VALDEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "35791",
+   "Nombre": "MARCOS HONTOU",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "31892",
+   "Nombre": "TOMAS DELUCCA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "28224",
+   "Nombre": "IGNACIO JOSE IRAOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "28996",
+   "Nombre": "FRANCISCO INCIARTE",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "39865",
+   "Nombre": "JUAN MANUEL BIDEGAIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "31356",
+   "Nombre": "MATHIAS DIENA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "35465",
+   "Nombre": "JUAN IGNACIO MONTANS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "28376",
+   "Jug_Sale": "JUAN MANUEL ROMERO",
+   "CarneEntra": "16297",
+   "Jug_Entra": "SEBASTIAN SCHWENGEL",
+   "camiseta": "89",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27970",
+   "Jug_Sale": "FELIPE GIRIBALDI",
+   "CarneEntra": "27973",
+   "Jug_Entra": "GONZALO ANDRES NAHUM",
+   "camiseta": "3",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "28020",
+   "Jug_Sale": "JOAQUIN JOSE CURA",
+   "CarneEntra": "28376",
+   "Jug_Entra": "JUAN MANUEL ROMERO",
+   "camiseta": "17",
+   "minutos": "91"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "35791",
+   "Jug_Sale": "MARCOS HONTOU",
+   "CarneEntra": "44965",
+   "Jug_Entra": "MAX ALEGRE",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32011",
+   "Jug_Sale": "JOAQUIN DELUCCA",
+   "CarneEntra": "31455",
+   "Jug_Entra": "IGNACIO ALEJANDRO NIN",
+   "camiseta": "40",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "39865",
+   "Jug_Sale": "JUAN MANUEL BIDEGAIN",
+   "CarneEntra": "35344",
+   "Jug_Entra": "SANTIAGO CASTELO",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "31356",
+   "Jug_Sale": "MATHIAS DIENA",
+   "CarneEntra": "44021",
+   "Jug_Entra": "JUAN MANUEL URRESTARAZU",
+   "camiseta": "30",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "35465",
+   "Jug_Sale": "JUAN IGNACIO MONTANS",
+   "CarneEntra": "31493",
+   "Jug_Entra": "GONZALO MIGUEL LAGRENADE",
+   "camiseta": "28",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "27961",
+   "Nombre": "JUAN MANUEL SCHAICH",
+   "minutos": "36",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28996",
+   "Nombre": "FRANCISCO INCIARTE",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28996",
+   "Nombre": "FRANCISCO INCIARTE",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31356",
+   "Nombre": "MATHIAS DIENA",
+   "minutos": "89",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,266 @@
+{
+ "id": "101467",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "92",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-09-05 11:00:00",
+  "Fecha_fin": "2026-09-05 11:00:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "29565",
+   "Nombre": "CARLOS WILFREDO ANDRIOLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "18904",
+   "Nombre": "FEDERICO BICCHIERAI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "18894",
+   "Nombre": "IGNACIO ROBERTO DE MULA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "28701",
+   "Nombre": "RICHARD JESUS LERETE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "27725",
+   "Nombre": "ALEJANDRO VERNENGO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "21536",
+   "Nombre": "FRANCISCO SEBASTIAN FRONTINI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "40599",
+   "Nombre": "FEDERICO ANTONIO LOVESIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "13715",
+   "Nombre": "DIEGO FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "14707",
+   "Nombre": "ALVARO DIEGO RODRIGUEZ",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "16276",
+   "Nombre": "JUAN MIGUEL REYES",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "19586",
+   "Nombre": "FEDERICO REYES",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "14032",
+   "Nombre": "MARIANO MALLO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "23788",
+   "Nombre": "NICOLAS JAVIER MORO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42446",
+   "Nombre": "ALEJANDRO PERETTI",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "23625",
+   "Nombre": "GEORGE ANDRES GRUNERT",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "19424",
+   "Nombre": "RODRIGO NICOLAS SOTELO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "17068",
+   "Nombre": "RAFAEL FEDERICO MORATO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "14737",
+   "Nombre": "JOSE MARIA GALLINAL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "12928",
+   "Nombre": "JAVIER ANDRES LUSSICH",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "18909",
+   "Nombre": "HECTOR DANIEL EROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "14666",
+   "Nombre": "CARLOS EDUARDO RAINERI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "13395",
+   "Nombre": "ANDRES FROMMEL",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "16276",
+   "Jug_Sale": "JUAN MIGUEL REYES",
+   "CarneEntra": "20545",
+   "Jug_Entra": "EDUARDO GIORDANO SANGUINETTI",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40599",
+   "Jug_Sale": "FEDERICO ANTONIO LOVESIO",
+   "CarneEntra": "31040",
+   "Jug_Entra": "JUAN PEDRO CID DE LA PAZ",
+   "camiseta": "24",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "14707",
+   "Jug_Sale": "ALVARO DIEGO RODRIGUEZ",
+   "CarneEntra": "32421",
+   "Jug_Entra": "PABLO GUSTAVO MUÑOZ",
+   "camiseta": "26",
+   "minutos": "74"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "19424",
+   "Jug_Sale": "RODRIGO NICOLAS SOTELO",
+   "CarneEntra": "13973",
+   "Jug_Entra": "MARTIN FUENTES",
+   "camiseta": "19",
+   "minutos": "39"
+  },
+  {
+   "CarneSale": "14666",
+   "Jug_Sale": "CARLOS EDUARDO RAINERI",
+   "CarneEntra": "18210",
+   "Jug_Entra": "DIEGO RIVAS",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "12928",
+   "Jug_Sale": "JAVIER ANDRES LUSSICH",
+   "CarneEntra": "15973",
+   "Jug_Entra": "JUAN AGUSTIN ORTIZ",
+   "camiseta": "26",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "13395",
+   "Jug_Sale": "ANDRES FROMMEL",
+   "CarneEntra": "16308",
+   "Jug_Entra": "JAVIER JORGE FERNANDEZ",
+   "camiseta": "25",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "18909",
+   "Jug_Sale": "HECTOR DANIEL EROSA",
+   "CarneEntra": "19424",
+   "Jug_Entra": "RODRIGO NICOLAS SOTELO",
+   "camiseta": "27",
+   "minutos": "92"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "19586",
+   "Nombre": "FEDERICO REYES",
+   "minutos": "48",
+   "EnContra": "0"
+  },
+  {
+   "carne": "19586",
+   "Nombre": "FEDERICO REYES",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "13395",
+   "Nombre": "ANDRES FROMMEL",
+   "minutos": "6",
+   "EnContra": "1"
+  },
+  {
+   "carne": "13395",
+   "Nombre": "ANDRES FROMMEL",
+   "minutos": "72",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,245 @@
+{
+ "id": "102695",
+ "categoria": "mas40-b",
+ "serie": "40CB",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "ARGOS ",
+ "visitante": "TENIS EL PINAR",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "468",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAS40 \"B\" TIT. y ASC.",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-10-10 11:00:00",
+  "Fecha_fin": "2026-10-10 11:00:00",
+  "Locatario": "ARGOS ",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "14496",
+   "Nombre": "HECTOR MIGUEL MASSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "27339",
+   "Nombre": "RODRIGO LEONEL GONZALEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "25496",
+   "Nombre": "MIJAIL YAPOR",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "32836",
+   "Nombre": "NICOLAS EDUARDO IMBRIACO",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "54534",
+   "Nombre": "RODRIGO SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "19486",
+   "Nombre": "GUSTAVO GABRIEL BARRENECHEA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "37959",
+   "Nombre": "PABLO DANIEL ALVAREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "53688",
+   "Nombre": "PABLO SILVA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "20944",
+   "Nombre": "GERMAN ENRIQUE IBAÑEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "17450",
+   "Nombre": "RICARDO LEIVA",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "17532",
+   "Nombre": "CRYSTHIAN MARTIN HIRIGOYEN",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64234",
+   "Nombre": "SANTIAGO CASTRO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "17928",
+   "Nombre": "AGUSTIN MAGNONE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16738",
+   "Nombre": "RAMIRO AROCENA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "21574",
+   "Nombre": "SEBASTIAN NUÑEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64791",
+   "Nombre": "RODRIGO NUÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "16835",
+   "Nombre": "IGNACIO DANIEL OBES",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "19569",
+   "Nombre": "CARLOS ANDRES URIARTE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "19295",
+   "Nombre": "JUAN ANDRES REY",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "20891",
+   "Nombre": "AGUSTIN MANUEL CASAROTTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "15264",
+   "Nombre": "FEDERICO SCHOL",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "21923",
+   "Nombre": "RAFAEL MONZON",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53688",
+   "Jug_Sale": "PABLO SILVA",
+   "CarneEntra": "17450",
+   "Jug_Entra": "RICARDO LEIVA",
+   "camiseta": "41",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "20944",
+   "Jug_Sale": "GERMAN ENRIQUE IBAÑEZ",
+   "CarneEntra": "53688",
+   "Jug_Entra": "PABLO SILVA",
+   "camiseta": "16",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "32836",
+   "Jug_Sale": "NICOLAS EDUARDO IMBRIACO",
+   "CarneEntra": "19606",
+   "Jug_Entra": "PEDRO JAVIER AMENGUAL",
+   "camiseta": "0",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17450",
+   "Jug_Sale": "RICARDO LEIVA",
+   "CarneEntra": "22222",
+   "Jug_Entra": "RAMIRO FRANCISCO OLMOS",
+   "camiseta": "0",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64791",
+   "Jug_Sale": "RODRIGO NUÑEZ",
+   "CarneEntra": "18393",
+   "Jug_Entra": "GERARDO GABRIEL MONZON",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19295",
+   "Jug_Sale": "JUAN ANDRES REY",
+   "CarneEntra": "18357",
+   "Jug_Entra": "MANUEL CAUBARRERE",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21923",
+   "Jug_Sale": "RAFAEL MONZON",
+   "CarneEntra": "65494",
+   "Jug_Entra": "ALEJANDRO DOMINGUEZ",
+   "camiseta": "8",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "18357",
+   "Nombre": "MANUEL CAUBARRERE",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "21923",
+   "Nombre": "RAFAEL MONZON",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,255 @@
+{
+ "id": "100319",
+ "categoria": "sub16",
+ "serie": "16-42",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 13:30:00",
+ "cancha": "POLIDEPORTIVO CARRASCO",
+ "local": "ACADEMIA FRM",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "226",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 4 RUEDA 2",
+  "Cancha": "POLIDEPORTIVO CARRASCO",
+  "Fecha_Inicio": "2026-06-21 15:10:00",
+  "Fecha_fin": "2026-06-21 15:10:00",
+  "Locatario": "ACADEMIA FRM",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61085",
+   "Nombre": "FABRIZIO PERRONE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62765",
+   "Nombre": "BENJAMIN DELGADO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62762",
+   "Nombre": "JAVIER CABRERA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64946",
+   "Nombre": "MATEO NODAR",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "68706",
+   "Nombre": "IGNACIO PEREZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "68755",
+   "Nombre": "JHONATHAN DAVID SILVA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68127",
+   "Nombre": "ALEJO EZEQUIEL LEFKO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61725",
+   "Nombre": "IGNACIO RIVERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64940",
+   "Nombre": "FACUNDO EMANUEL PEGORRARO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61728",
+   "Nombre": "FELIPE SALVADOR TELLECHEA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68394",
+   "Nombre": "LEANDRO NICOLAS LIMA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61808",
+   "Nombre": "LORENZO PAKCIARZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61805",
+   "Nombre": "FEDERICO REYES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "62510",
+   "Nombre": "LORENZO AUGUSTO BLANDI",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "61809",
+   "Nombre": "MAXIMO ITURBURU",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "61807",
+   "Nombre": "JUAN JOSE LASTRETO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63168",
+   "Nombre": "TOMAS REY",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61804",
+   "Nombre": "JUAN MANUEL ZAMBRANO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61596",
+   "Nombre": "AGUSTIN BOZZOLO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "65622",
+   "Nombre": "MATEO CAPRARIO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67761",
+   "Nombre": "BRUNO TELLERIA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "68484",
+   "Nombre": "LORENZO TRUCCO",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68127",
+   "Jug_Sale": "ALEJO EZEQUIEL LEFKO",
+   "CarneEntra": "65657",
+   "Jug_Entra": "MATIAS OXANDABARAT",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68706",
+   "Jug_Sale": "IGNACIO PEREZ",
+   "CarneEntra": "60548",
+   "Jug_Entra": "JOAQUIN SCHICKE",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68755",
+   "Jug_Sale": "JHONATHAN DAVID SILVA",
+   "CarneEntra": "68598",
+   "Jug_Entra": "MATEO ABREU",
+   "camiseta": "82",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61804",
+   "Jug_Sale": "JUAN MANUEL ZAMBRANO",
+   "CarneEntra": "65805",
+   "Jug_Entra": "BRUNO BENITES",
+   "camiseta": "11",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "68484",
+   "Jug_Sale": "LORENZO TRUCCO",
+   "CarneEntra": "62498",
+   "Jug_Entra": "TEO VOLONTE",
+   "camiseta": "32",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62510",
+   "Jug_Sale": "LORENZO AUGUSTO BLANDI",
+   "CarneEntra": "62499",
+   "Jug_Entra": "BENITO BAQUERO",
+   "camiseta": "27",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "61596",
+   "Nombre": "AGUSTIN BOZZOLO",
+   "minutos": "22",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61804",
+   "Nombre": "JUAN MANUEL ZAMBRANO",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61804",
+   "Nombre": "JUAN MANUEL ZAMBRANO",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61804",
+   "Nombre": "JUAN MANUEL ZAMBRANO",
+   "minutos": "56",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67761",
+   "Nombre": "BRUNO TELLERIA",
+   "minutos": "68",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,306 @@
+{
+ "id": "98762",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COMPLEJO LA CORUÑA(MALVAREZ)",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "OLIMAR",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "154",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LA CORUÑA(MALVAREZ)",
+  "Fecha_Inicio": "2026-05-16 10:45:00",
+  "Fecha_fin": "2026-05-16 10:45:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "OLIMAR",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "19566",
+   "Nombre": "IGNACIO RIVAROLA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "23243",
+   "Nombre": "IGNACIO ROLDAN",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62801",
+   "Nombre": "FERNANDO GABRIEL MONTIE",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "49509",
+   "Nombre": "ADRIAN LAURINO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "24154",
+   "Nombre": "JOSE IGNACIO RABELLINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "24828",
+   "Nombre": "FABIAN SOSA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "32202",
+   "Nombre": "DARIO MARTIN PIZANO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66837",
+   "Nombre": "ESTEBAN RAUL ZAPATA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "25956",
+   "Nombre": "NICOLAS FABIAN FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "23518",
+   "Nombre": "DIEGO HERNAN SCOTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "28264",
+   "Nombre": "IGNACIO VELAZCO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "11179",
+   "Nombre": "ALVARO DANIEL SIERRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "35024",
+   "Nombre": "GERARDO LUCAS PAGANI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "18826",
+   "Nombre": "DANIEL FEDERICO FOLABELLA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "20727",
+   "Nombre": "DIEGO SEBASTIAN BORBA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64699",
+   "Nombre": "DIEGO RIVERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "52443",
+   "Nombre": "MARIO GUSTAVO ALONSO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "59469",
+   "Nombre": "GONZALO TECHERA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "21414",
+   "Nombre": "GERMAN DEVITTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16310",
+   "Nombre": "IGNACIO POSADA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35128",
+   "Nombre": "MARCOS ALBERTO MERLO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "21799",
+   "Nombre": "MARTIN FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62801",
+   "Jug_Sale": "FERNANDO GABRIEL MONTIE",
+   "CarneEntra": "40409",
+   "Jug_Entra": "CARLOS FEDERICO FERREIRA",
+   "camiseta": "18",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "23243",
+   "Jug_Sale": "IGNACIO ROLDAN",
+   "CarneEntra": "31180",
+   "Jug_Entra": "PABLO CESAR ADRICH",
+   "camiseta": "17",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "23518",
+   "Jug_Sale": "DIEGO HERNAN SCOTTI",
+   "CarneEntra": "25956",
+   "Jug_Entra": "NICOLAS FABIAN FERNANDEZ",
+   "camiseta": "25",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "32202",
+   "Jug_Sale": "DARIO MARTIN PIZANO",
+   "CarneEntra": "23243",
+   "Jug_Entra": "IGNACIO ROLDAN",
+   "camiseta": "7",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "23243",
+   "Jug_Sale": "IGNACIO ROLDAN",
+   "CarneEntra": "18229",
+   "Jug_Entra": "GERMAN ANDRES CRAPUCHETTI",
+   "camiseta": "80",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "62801",
+   "Jug_Sale": "FERNANDO GABRIEL MONTIE",
+   "CarneEntra": "18476",
+   "Jug_Entra": "RAFAEL DE LA",
+   "camiseta": "19",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "21799",
+   "Jug_Sale": "MARTIN FERNANDEZ",
+   "CarneEntra": "45102",
+   "Jug_Entra": "ESTEBAN ANDRES FERNANDEZ",
+   "camiseta": "20",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "16310",
+   "Jug_Sale": "IGNACIO POSADA",
+   "CarneEntra": "17870",
+   "Jug_Entra": "MARTIN AGUILAR",
+   "camiseta": "2",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "35024",
+   "Jug_Sale": "GERARDO LUCAS PAGANI",
+   "CarneEntra": "19849",
+   "Jug_Entra": "GASTON FERNANDEZ",
+   "camiseta": "29",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "52443",
+   "Jug_Sale": "MARIO GUSTAVO ALONSO",
+   "CarneEntra": "37800",
+   "Jug_Entra": "JOSE RAUL RODRIGUEZ",
+   "camiseta": "33",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "21414",
+   "Jug_Sale": "GERMAN DEVITTA",
+   "CarneEntra": "37967",
+   "Jug_Entra": "CARLOS AGUSTIN MERLO",
+   "camiseta": "15",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "35128",
+   "Jug_Sale": "MARCOS ALBERTO MERLO",
+   "CarneEntra": "41635",
+   "Jug_Entra": "NORBERTO SERGIO LONGO",
+   "camiseta": "7",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "59469",
+   "Jug_Sale": "GONZALO TECHERA",
+   "CarneEntra": "16593",
+   "Jug_Entra": "JOSE MIGUEL ELOSEGUI",
+   "camiseta": "4",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "32202",
+   "Nombre": "DARIO MARTIN PIZANO",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "32202",
+   "Nombre": "DARIO MARTIN PIZANO",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "32202",
+   "Nombre": "DARIO MARTIN PIZANO",
+   "minutos": "79",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "41635",
+   "Nombre": "NORBERTO SERGIO LONGO",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

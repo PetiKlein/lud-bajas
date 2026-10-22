@@ -1,0 +1,280 @@
+{
+ "id": "100987",
+ "categoria": "sub16",
+ "serie": "16-32",
+ "fecha": 5,
+ "fechaHora": "2026-08-16 13:30:00",
+ "cancha": "SCUOLA ITALIANA",
+ "local": "SCUOLA PALERMO",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "216",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 3 RUEDA 2",
+  "Cancha": "SCUOLA ITALIANA",
+  "Fecha_Inicio": "2026-08-16 15:20:00",
+  "Fecha_fin": "2026-08-16 15:20:00",
+  "Locatario": "SCUOLA PALERMO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64377",
+   "Nombre": "LUCAS DI MAURO",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60764",
+   "Nombre": "FACUNDO CARAMBULA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "65716",
+   "Nombre": "MATEO DEVITA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64380",
+   "Nombre": "FRANCO MOLFINO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64381",
+   "Nombre": "FACUNDO POTENZA",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "60475",
+   "Nombre": "AGUSTIN ANTELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64756",
+   "Nombre": "FELIPE REINALDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65718",
+   "Nombre": "VICENTE VALENTIN VIERA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "61437",
+   "Nombre": "MARTIN BREGSTEIN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "65610",
+   "Nombre": "LUCA GONZALEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60477",
+   "Nombre": "LUCA LORIETO",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63746",
+   "Nombre": "JUAN IGNACIO CURIEL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66974",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66209",
+   "Nombre": "SANTINO SCOSERIA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "64088",
+   "Nombre": "DIEGO MARTIN PINTOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68354",
+   "Nombre": "MATIAS AICARDI",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "65636",
+   "Nombre": "FACUNDO DE CARVALHO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "67926",
+   "Nombre": "FRANCISCO BENITEZ",
+   "camiseta": "58",
+   "Capitan": ""
+  },
+  {
+   "carne": "63039",
+   "Nombre": "MATEO TAIS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64091",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65498",
+   "Nombre": "FRANCISCO PAULOS",
+   "camiseta": "85",
+   "Capitan": ""
+  },
+  {
+   "carne": "68854",
+   "Nombre": "FRANCISCO SANTORO",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65610",
+   "Jug_Sale": "LUCA GONZALEZ",
+   "CarneEntra": "64160",
+   "Jug_Entra": "ALFONSO BROCH",
+   "camiseta": "23",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "60764",
+   "Jug_Sale": "FACUNDO CARAMBULA",
+   "CarneEntra": "65615",
+   "Jug_Entra": "MAURIZIO XAVIER SORRONDEGUI",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60475",
+   "Jug_Sale": "AGUSTIN ANTELO",
+   "CarneEntra": "61927",
+   "Jug_Entra": "SANTIAGO BRUN",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65716",
+   "Jug_Sale": "MATEO DEVITA",
+   "CarneEntra": "68865",
+   "Jug_Entra": "MARTIN ASSIMONTTI",
+   "camiseta": "11",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65498",
+   "Jug_Sale": "FRANCISCO PAULOS",
+   "CarneEntra": "64586",
+   "Jug_Entra": "FACUNDO MARIO SEGREDO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68354",
+   "Jug_Sale": "MATIAS AICARDI",
+   "CarneEntra": "62394",
+   "Jug_Entra": "SANTIAGO VERNAZZA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68854",
+   "Jug_Sale": "FRANCISCO SANTORO",
+   "CarneEntra": "65821",
+   "Jug_Entra": "JUAN BAUTISTA CAULLIN",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66974",
+   "Jug_Sale": "FEDERICO HERNANDEZ",
+   "CarneEntra": "68354",
+   "Jug_Entra": "MATIAS AICARDI",
+   "camiseta": "23",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "67926",
+   "Jug_Sale": "FRANCISCO BENITEZ",
+   "CarneEntra": "68854",
+   "Jug_Entra": "FRANCISCO SANTORO",
+   "camiseta": "13",
+   "minutos": "56"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60477",
+   "Nombre": "LUCA LORIETO",
+   "minutos": "1",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60477",
+   "Nombre": "LUCA LORIETO",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65610",
+   "Nombre": "LUCA GONZALEZ",
+   "minutos": "36",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65610",
+   "Nombre": "LUCA GONZALEZ",
+   "minutos": "42",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64088",
+   "Nombre": "DIEGO MARTIN PINTOS",
+   "minutos": "43",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

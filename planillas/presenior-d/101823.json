@@ -1,0 +1,308 @@
+{
+ "id": "101823",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 09:15:00",
+ "cancha": "COMPLEJO ARACHAN",
+ "local": "BODY FACTORY",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 3,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "672",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO ARACHAN",
+  "Fecha_Inicio": "2026-09-12 11:15:00",
+  "Fecha_fin": "2026-09-12 11:15:00",
+  "Locatario": "BODY FACTORY",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "27735",
+   "Nombre": "MATIAS PAIS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54412",
+   "Nombre": "DIEGO SERGIO BOUZA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "38733",
+   "Nombre": "CRISTIAN DAVID MOREIRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "26989",
+   "Nombre": "MARTIN SEBASTIAN RODRIGUEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "43253",
+   "Nombre": "CARLOS GASTON PRIARONE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "52544",
+   "Nombre": "ALEXIS BRAVO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67711",
+   "Nombre": "ISMAEL DESCALZI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "35324",
+   "Nombre": "WALTER HUGO MARTINS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67224",
+   "Nombre": "DARIO IBAÑEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "49677",
+   "Nombre": "JOHN ANTHONY PEREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33303",
+   "Nombre": "IGNACIO MARQUEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "33080",
+   "Nombre": "NICOLAS CERISOLA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "59021",
+   "Nombre": "HORACIO MATIAS DEL CORRO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "31549",
+   "Nombre": "MICHEL SEBASTIAN MATTOS",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "37034",
+   "Nombre": "LEANDRO GERMAN TARANTO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "30155",
+   "Nombre": "MANUEL FELIPE BOERO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33691",
+   "Nombre": "GONZALO SUCAZES",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "44615",
+   "Nombre": "JOAQUIN FARIÑA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49677",
+   "Jug_Sale": "JOHN ANTHONY PEREIRA",
+   "CarneEntra": "33642",
+   "Jug_Entra": "FERNANDO PEREZ",
+   "camiseta": "17",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "43253",
+   "Jug_Sale": "CARLOS GASTON PRIARONE",
+   "CarneEntra": "20270",
+   "Jug_Entra": "GASTON NICOLAS ACERENZA",
+   "camiseta": "19",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54412",
+   "Jug_Sale": "DIEGO SERGIO BOUZA",
+   "CarneEntra": "31756",
+   "Jug_Entra": "FEDERICO PALERMO",
+   "camiseta": "43",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "38733",
+   "Jug_Sale": "CRISTIAN DAVID MOREIRA",
+   "CarneEntra": "54412",
+   "Jug_Entra": "DIEGO SERGIO BOUZA",
+   "camiseta": "6",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33080",
+   "Jug_Sale": "NICOLAS CERISOLA",
+   "CarneEntra": "38534",
+   "Jug_Entra": "MAXIMILIANO LARROSA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37034",
+   "Jug_Sale": "LEANDRO GERMAN TARANTO",
+   "CarneEntra": "33410",
+   "Jug_Entra": "JOSE ARAUJO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33691",
+   "Jug_Sale": "GONZALO SUCAZES",
+   "CarneEntra": "56453",
+   "Jug_Entra": "DANIEL SEBASTIAN VARELA",
+   "camiseta": "35",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33303",
+   "Jug_Sale": "IGNACIO MARQUEZ",
+   "CarneEntra": "26283",
+   "Jug_Entra": "RAFAEL DELLA TORRE",
+   "camiseta": "33",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "31549",
+   "Jug_Sale": "MICHEL SEBASTIAN MATTOS",
+   "CarneEntra": "34914",
+   "Jug_Entra": "SANTIAGO FERNANDEZ",
+   "camiseta": "8",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "21819",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "30416",
+   "Jug_Entra": "MANOEL CASTRO",
+   "camiseta": "14",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "44615",
+   "Jug_Sale": "JOAQUIN FARIÑA",
+   "CarneEntra": "37036",
+   "Jug_Entra": "IGNACIO GONZALO PAOLILLO",
+   "camiseta": "26",
+   "minutos": "91"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "52544",
+   "Nombre": "ALEXIS BRAVO",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "minutos": "26",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64072",
+   "Nombre": "CHARLES GASTON BORBAS",
+   "minutos": "91",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "minutos": "14",
+   "EnContra": "1"
+  },
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "minutos": "88",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "36",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

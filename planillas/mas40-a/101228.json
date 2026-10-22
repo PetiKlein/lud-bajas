@@ -1,0 +1,299 @@
+{
+ "id": "101228",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "CENTRO GALLEGO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "27",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-08-29 11:00:00",
+  "Fecha_fin": "2026-08-29 11:00:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CENTRO GALLEGO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "13146",
+   "Nombre": "DIEGO RODRIGO BRESCIANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "14997",
+   "Nombre": "RODRIGO FERNANDO PEREZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "19340",
+   "Nombre": "PAULO MARTIN DI CANDIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "23626",
+   "Nombre": "ANDRES GRIMALDI",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "13585",
+   "Nombre": "DANIEL ALEJANDRO MARTIN",
+   "camiseta": "51",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64158",
+   "Nombre": "FEDERICO GABRIEL GRANDILLO",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "25856",
+   "Nombre": "FEDERICO AGUSTIN GARCIA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "69013",
+   "Nombre": "JONATAN LEONIDES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "22237",
+   "Nombre": "WALTER WILLIAMS BRADFORD",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "33509",
+   "Nombre": "HORACIO CORUJO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "22443",
+   "Nombre": "FEDERICO GUILLERMO SALES",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "23721",
+   "Nombre": "RODRIGO ALVAREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35089",
+   "Nombre": "PABLO SEBASTIAN CASTRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "17905",
+   "Nombre": "GUILLERMO FEDERICO FUENTES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "20965",
+   "Nombre": "RODRIGO AUGUSTO MARTINEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58918",
+   "Nombre": "JOSE  LUIS SMITH",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "42268",
+   "Nombre": "LUIS EMILIO OLIARI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "17816",
+   "Nombre": "CARLOS LEANDRO MARTINEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "22483",
+   "Nombre": "EMILIO MANUEL RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "19234",
+   "Nombre": "GABRIEL FAGETTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "48318",
+   "Nombre": "BORIS SANTIAGO DURAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "68777",
+   "Nombre": "FRANCISCO JAVIER BECERRA",
+   "camiseta": "81",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23626",
+   "Jug_Sale": "ANDRES GRIMALDI",
+   "CarneEntra": "20353",
+   "Jug_Entra": "ESTEBAN JAVIER MARMOL",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19340",
+   "Jug_Sale": "PAULO MARTIN DI CANDIA",
+   "CarneEntra": "15707",
+   "Jug_Entra": "GABRIEL MARTIN DIAZ",
+   "camiseta": "51",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "22237",
+   "Jug_Sale": "WALTER WILLIAMS BRADFORD",
+   "CarneEntra": "54136",
+   "Jug_Entra": "GASTON FERREYRA",
+   "camiseta": "24",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64158",
+   "Jug_Sale": "FEDERICO GABRIEL GRANDILLO",
+   "CarneEntra": "18675",
+   "Jug_Entra": "GERMAN AGUSTIN PEREZ",
+   "camiseta": "10",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42268",
+   "Jug_Sale": "LUIS EMILIO OLIARI",
+   "CarneEntra": "22333",
+   "Jug_Entra": "LEANDRO GASTON NUÑEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17816",
+   "Jug_Sale": "CARLOS LEANDRO MARTINEZ",
+   "CarneEntra": "32161",
+   "Jug_Entra": "DIEGO SEBASTIAN ROSSI",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68777",
+   "Jug_Sale": "FRANCISCO JAVIER BECERRA",
+   "CarneEntra": "25625",
+   "Jug_Entra": "DIEGO WALTER ROCHA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20965",
+   "Jug_Sale": "RODRIGO AUGUSTO MARTINEZ",
+   "CarneEntra": "25979",
+   "Jug_Entra": "SERGIO GUZMAN SCUTARI",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19234",
+   "Jug_Sale": "GABRIEL FAGETTI",
+   "CarneEntra": "23266",
+   "Jug_Entra": "ANDRES NICOLAS FACAL",
+   "camiseta": "5",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "58918",
+   "Jug_Sale": "JOSE  LUIS SMITH",
+   "CarneEntra": "24680",
+   "Jug_Entra": "MATIAS RODRIGUEZ",
+   "camiseta": "23",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "22483",
+   "Jug_Sale": "EMILIO MANUEL RODRIGUEZ",
+   "CarneEntra": "21126",
+   "Jug_Entra": "SEBASTIAN MANGGINI",
+   "camiseta": "44",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "48318",
+   "Jug_Sale": "BORIS SANTIAGO DURAN",
+   "CarneEntra": "68777",
+   "Jug_Entra": "FRANCISCO JAVIER BECERRA",
+   "camiseta": "81",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "17905",
+   "Jug_Sale": "GUILLERMO FEDERICO FUENTES",
+   "CarneEntra": "42268",
+   "Jug_Entra": "LUIS EMILIO OLIARI",
+   "camiseta": "99",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "22443",
+   "Nombre": "FEDERICO GUILLERMO SALES",
+   "minutos": "96",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "68777",
+   "Nombre": "FRANCISCO JAVIER BECERRA",
+   "minutos": "88",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "DANIEL ALEJANDRO MARTIN",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

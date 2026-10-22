@@ -1,0 +1,336 @@
+{
+ "id": "98897",
+ "categoria": "sub16",
+ "serie": "16-5-",
+ "fecha": 4,
+ "fechaHora": "2026-05-17 13:30:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DLS CLUB",
+ "visitante": "ESCUELA L.P.",
+ "gl": 10,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "126",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 5",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-05-17 00:00:00",
+  "Fecha_fin": "2026-05-17 00:00:00",
+  "Locatario": "DLS CLUB",
+  "goles_locatario": "10",
+  "puntos_locatario": "3",
+  "Visitante": "ESCUELA L.P.",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64054",
+   "Nombre": "SALVADOR MANUEL LAGOA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64058",
+   "Nombre": "EMILIANO ANTELO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65473",
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "61947",
+   "Nombre": "TIZIANO GAMBAROTTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61695",
+   "Nombre": "BRUNO GABRIEL PAZO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67087",
+   "Nombre": "FELIPE PARDO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61700",
+   "Nombre": "MATIAS GONZALEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64294",
+   "Nombre": "BENJAMIN ALVARO VILA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61699",
+   "Nombre": "MATIAS DELGADO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60704",
+   "Nombre": "ALAN GABRIEL CHAPARRO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61428",
+   "Nombre": "DIEGO VICENTE FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61438",
+   "Nombre": "GUILLERMO GABRIEL SUAREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68019",
+   "Nombre": "MATIAS GIMENEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "68017",
+   "Nombre": "MATEO VALENTIN TORTEROLO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65589",
+   "Nombre": "FELIPE SANCHEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63825",
+   "Nombre": "GABRIEL LOPEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "68327",
+   "Nombre": "FELIPE FONTANA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68326",
+   "Nombre": "LUCIANO VALENTIN PEREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61553",
+   "Nombre": "EMANUEL GUERINO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62414",
+   "Nombre": "ERICK RIVERO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61552",
+   "Nombre": "BRUNO DANIEL SUAREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64054",
+   "Jug_Sale": "SALVADOR MANUEL LAGOA",
+   "CarneEntra": "67867",
+   "Jug_Entra": "FACUNDO DIAZ",
+   "camiseta": "15",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "61947",
+   "Jug_Sale": "TIZIANO GAMBAROTTA",
+   "CarneEntra": "66728",
+   "Jug_Entra": "GABRIEL SORIANO",
+   "camiseta": "13",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "61700",
+   "Jug_Sale": "MATIAS GONZALEZ",
+   "CarneEntra": "61698",
+   "Jug_Entra": "BENJAMIN MOREIRA",
+   "camiseta": "3",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "61695",
+   "Jug_Sale": "BRUNO GABRIEL PAZO",
+   "CarneEntra": "67089",
+   "Jug_Entra": "ALVARO BENJAMIN ROSEMBERG",
+   "camiseta": "26",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67087",
+   "Jug_Sale": "FELIPE PARDO",
+   "CarneEntra": "60631",
+   "Jug_Entra": "EMILIANO PEREZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67087",
+   "Jug_Sale": "FELIPE PARDO",
+   "CarneEntra": "66007",
+   "Jug_Entra": "MARCELO ALESSANDRO CEPELLINI",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61699",
+   "Jug_Sale": "MATIAS DELGADO",
+   "CarneEntra": "66730",
+   "Jug_Entra": "MATIAS CATTINI",
+   "camiseta": "2",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65589",
+   "Jug_Sale": "FELIPE SANCHEZ",
+   "CarneEntra": "61424",
+   "Jug_Entra": "ULISES ESPINO",
+   "camiseta": "13",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "61553",
+   "Jug_Sale": "EMANUEL GUERINO",
+   "CarneEntra": "63825",
+   "Jug_Entra": "GABRIEL LOPEZ",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68017",
+   "Jug_Sale": "MATEO VALENTIN TORTEROLO",
+   "CarneEntra": "61547",
+   "Jug_Entra": "FACUNDO MOREIRA",
+   "camiseta": "6",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60631",
+   "Nombre": "EMILIANO PEREZ",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60704",
+   "Nombre": "ALAN GABRIEL CHAPARRO",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60704",
+   "Nombre": "ALAN GABRIEL CHAPARRO",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60704",
+   "Nombre": "ALAN GABRIEL CHAPARRO",
+   "minutos": "69",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64294",
+   "Nombre": "BENJAMIN ALVARO VILA",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64294",
+   "Nombre": "BENJAMIN ALVARO VILA",
+   "minutos": "36",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "minutos": "23",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67079",
+   "Nombre": "THIAGO MELGAREJO",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61553",
+   "Nombre": "EMANUEL GUERINO",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61553",
+   "Nombre": "EMANUEL GUERINO",
+   "minutos": "61",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61553",
+   "Nombre": "EMANUEL GUERINO",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

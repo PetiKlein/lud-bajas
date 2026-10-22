@@ -1,0 +1,266 @@
+{
+ "id": "103124",
+ "categoria": "sub16",
+ "serie": "16C",
+ "fecha": 1,
+ "fechaHora": "2026-10-18 13:30:00",
+ "cancha": "ACADEMIA",
+ "local": "A.E.B.U",
+ "visitante": "PERRY SEXTA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "367",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "3",
+  "Divisional": "SUB16 COMPETENCIA",
+  "Cancha": "ACADEMIA",
+  "Fecha_Inicio": "2026-10-18 15:20:00",
+  "Fecha_fin": "2026-10-18 15:20:00",
+  "Locatario": "A.E.B.U",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "PERRY SEXTA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67290",
+   "Nombre": "DIEGO FERNANDO NICOLENCO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "65128",
+   "Nombre": "RONALD CASTELLON",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67229",
+   "Nombre": "VALENTIN CABRERA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67231",
+   "Nombre": "CAMILO MARTIN PEREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "67228",
+   "Nombre": "THIAGO PEREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68881",
+   "Nombre": "MARTIN GOMEZ",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "68641",
+   "Nombre": "BENICIO CAYAFFA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65139",
+   "Nombre": "DANIEL ANTONIO LEYVA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "68501",
+   "Nombre": "JOAQUIN VIERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "65133",
+   "Nombre": "MARCO STEFANO FERRANTY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67734",
+   "Nombre": "BENJAMIN PAIS",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67663",
+   "Nombre": "NICOLAS MATEO SANTA MARIA",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65755",
+   "Nombre": "LAUTARO EZEQUIEL VELAZQUEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68185",
+   "Nombre": "LUCIANO CASTRO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68909",
+   "Nombre": "MATEO AGUSTIN RODRIGUEZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "68086",
+   "Nombre": "EZEQUIEL RODRIGUEZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "68076",
+   "Nombre": "DAMIAN EZEQUIEL NASTASI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68087",
+   "Nombre": "NAHUEL EZEQUIEL ALFONSO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "65998",
+   "Nombre": "LIAN SUAREZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "68910",
+   "Nombre": "ARAGON EZEQUIEL APARICIO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68082",
+   "Nombre": "RAMIRO MARTIN SILVA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68813",
+   "Nombre": "THIAGO FRANCOIS ALFONSO",
+   "camiseta": "53",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67231",
+   "Jug_Sale": "CAMILO MARTIN PEREZ",
+   "CarneEntra": "68769",
+   "Jug_Entra": "FRANCISCO EMMANUEL CACHAN",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67228",
+   "Jug_Sale": "THIAGO PEREZ",
+   "CarneEntra": "67732",
+   "Jug_Entra": "ALEX GABRIEL HORNOS",
+   "camiseta": "50",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65139",
+   "Jug_Sale": "DANIEL ANTONIO LEYVA",
+   "CarneEntra": "65420",
+   "Jug_Entra": "CONSTANTINO CABRERA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65133",
+   "Jug_Sale": "MARCO STEFANO FERRANTY",
+   "CarneEntra": "67733",
+   "Jug_Entra": "ALEJANDRO MARRERO",
+   "camiseta": "80",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68910",
+   "Jug_Sale": "ARAGON EZEQUIEL APARICIO",
+   "CarneEntra": "68085",
+   "Jug_Entra": "ZIRALDO TECHERA",
+   "camiseta": "17",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "68082",
+   "Jug_Sale": "RAMIRO MARTIN SILVA",
+   "CarneEntra": "69124",
+   "Jug_Entra": "FACUNDO MARTIN VARELA",
+   "camiseta": "50",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "68813",
+   "Jug_Sale": "THIAGO FRANCOIS ALFONSO",
+   "CarneEntra": "68077",
+   "Jug_Entra": "FRANCO BELLINI",
+   "camiseta": "6",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "68087",
+   "Jug_Sale": "NAHUEL EZEQUIEL ALFONSO",
+   "CarneEntra": "68813",
+   "Jug_Entra": "THIAGO FRANCOIS ALFONSO",
+   "camiseta": "53",
+   "minutos": "64"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67290",
+   "Nombre": "DIEGO FERNANDO NICOLENCO",
+   "minutos": "49",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "68087",
+   "Nombre": "NAHUEL EZEQUIEL ALFONSO",
+   "minutos": "7",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68087",
+   "Nombre": "NAHUEL EZEQUIEL ALFONSO",
+   "minutos": "20",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68910",
+   "Nombre": "ARAGON EZEQUIEL APARICIO",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

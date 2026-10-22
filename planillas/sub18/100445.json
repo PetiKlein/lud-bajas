@@ -1,0 +1,274 @@
+{
+ "id": "100445",
+ "categoria": "sub18",
+ "serie": "18-6-",
+ "fecha": 9,
+ "fechaHora": "2026-06-23 19:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SANTA ELENA LAGOMAR",
+ "visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "183",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 6",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-06-23 20:50:00",
+  "Fecha_fin": "2026-06-23 20:50:00",
+  "Locatario": "SANTA ELENA LAGOMAR",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SAGRADA FAMILIA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57797",
+   "Nombre": "JUAN CRUZ GÜENA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "57823",
+   "Nombre": "GUILLERMO RODRIGUEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "60635",
+   "Nombre": "ALEX FERRER",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "57813",
+   "Nombre": "BRUNO CAMADINI",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "60633",
+   "Nombre": "MIRKO ANGEL IBARBURU",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "57455",
+   "Nombre": "DEVIN NOAH SALDAÑA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57828",
+   "Nombre": "SALVADOR PEREIRA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "57817",
+   "Nombre": "SANTIAGO PALO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "57807",
+   "Nombre": "BENJAMIN BARLOCCI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57806",
+   "Nombre": "TOMAS ELIZEIRE",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "57824",
+   "Nombre": "JOAQUIN DE AVILA",
+   "camiseta": "1",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65070",
+   "Nombre": "JUAN GERMAN DAVILA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58681",
+   "Nombre": "MARTIN TOMAS GARCIA GARCIA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65975",
+   "Nombre": "GIANFRANCO MICHELE GALLIUSSI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67661",
+   "Nombre": "SANTIAGO SAUCO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65982",
+   "Nombre": "JUAN VALENTINO BRINGA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67874",
+   "Nombre": "EMILIANO RORIGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60277",
+   "Nombre": "BRUNO FACELLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64469",
+   "Nombre": "BRUNO SEBASTIAN FALCO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67665",
+   "Nombre": "JOAQUIN NICOLAS OLIVERA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "61835",
+   "Nombre": "MAXIMILIANO NUÑEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58695",
+   "Nombre": "AGUSTIN SANTOS",
+   "camiseta": "27",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57823",
+   "Jug_Sale": "GUILLERMO RODRIGUEZ",
+   "CarneEntra": "68856",
+   "Jug_Entra": "JUAN VALENTINO BERRUTTI",
+   "camiseta": "37",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "57817",
+   "Jug_Sale": "SANTIAGO PALO",
+   "CarneEntra": "63745",
+   "Jug_Entra": "MAURO MULA",
+   "camiseta": "15",
+   "minutos": "8"
+  },
+  {
+   "CarneSale": "57828",
+   "Jug_Sale": "SALVADOR PEREIRA",
+   "CarneEntra": "60617",
+   "Jug_Entra": "MATEO SCARONE",
+   "camiseta": "99",
+   "minutos": "97"
+  },
+  {
+   "CarneSale": "60633",
+   "Jug_Sale": "MIRKO ANGEL IBARBURU",
+   "CarneEntra": "57808",
+   "Jug_Entra": "RENZO BROLI",
+   "camiseta": "6",
+   "minutos": "24"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60277",
+   "Jug_Sale": "BRUNO FACELLO",
+   "CarneEntra": "60285",
+   "Jug_Entra": "FELIPE AGUIRRE",
+   "camiseta": "2",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "58695",
+   "Jug_Sale": "AGUSTIN SANTOS",
+   "CarneEntra": "67562",
+   "Jug_Entra": "IKER PINTOS",
+   "camiseta": "1",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "67665",
+   "Jug_Sale": "JOAQUIN NICOLAS OLIVERA",
+   "CarneEntra": "58951",
+   "Jug_Entra": "IGNACIO GERMAN ARES",
+   "camiseta": "9",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "61835",
+   "Jug_Sale": "MAXIMILIANO NUÑEZ",
+   "CarneEntra": "67180",
+   "Jug_Entra": "BENJAMIN HELANDER",
+   "camiseta": "28",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67661",
+   "Jug_Sale": "SANTIAGO SAUCO",
+   "CarneEntra": "66387",
+   "Jug_Entra": "URIEL FEDERICO PERA",
+   "camiseta": "71",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "64469",
+   "Jug_Sale": "BRUNO SEBASTIAN FALCO",
+   "CarneEntra": "58692",
+   "Jug_Entra": "BENJAMIN SPOTURNO",
+   "camiseta": "14",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "58951",
+   "Nombre": "IGNACIO GERMAN ARES",
+   "minutos": "89",
+   "EnContra": "1"
+  },
+  {
+   "carne": "60285",
+   "Nombre": "FELIPE AGUIRRE",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JOAQUIN DE AVILA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

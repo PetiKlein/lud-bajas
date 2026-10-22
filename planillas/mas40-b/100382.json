@@ -1,0 +1,300 @@
+{
+ "id": "100382",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SA.FE.MA",
+ "visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "gl": 2,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "195",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-06-20 10:45:00",
+  "Fecha_fin": "2026-06-20 10:45:00",
+  "Locatario": "SA.FE.MA",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "21597",
+   "Nombre": "CLAUDIO GARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "15555",
+   "Nombre": "SANTIAGO JAVIER CABALLERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "48898",
+   "Nombre": "NICOLAS DIEGO VIGNI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66997",
+   "Nombre": "ERNESTO ACUÑA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28626",
+   "Nombre": "JUAN JOSE MALACIC",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "22359",
+   "Nombre": "JUAN CARLOS MUSSIO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "47402",
+   "Nombre": "MANUEL SOTELO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "18534",
+   "Nombre": "ANDRES MARCOS COPPOLA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "17929",
+   "Nombre": "GONZALO JORGE TAGLIAFERRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "35585",
+   "Nombre": "DAMIAN ANDRES PERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "46359",
+   "Nombre": "GERARDO ANDRES FERRARI",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22390",
+   "Nombre": "JUAN CARLOS FERNANDEZ",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "63483",
+   "Nombre": "CARLOS ANTONIO YANES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "44887",
+   "Nombre": "MATIAS SOSA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "25593",
+   "Nombre": "FELIX GABRIEL BELLOMO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "14531",
+   "Nombre": "JAVIER GERARDO GARRE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "19855",
+   "Nombre": "ANGEL ENRIQUE PERDOMO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "16576",
+   "Nombre": "DIEGO ANDRES SOSA",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "16845",
+   "Nombre": "DIEGO JAVIER MARTINEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "23102",
+   "Nombre": "MARCELO SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67719",
+   "Nombre": "ROBERT MARIO FLORES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "24009",
+   "Nombre": "FEDERICO GABRIEL WILKINS",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "22359",
+   "Jug_Sale": "JUAN CARLOS MUSSIO",
+   "CarneEntra": "62621",
+   "Jug_Entra": "ALEX JOHANN BONJOUR",
+   "camiseta": "22",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "46359",
+   "Jug_Sale": "GERARDO ANDRES FERRARI",
+   "CarneEntra": "66997",
+   "Jug_Entra": "ERNESTO ACUÑA",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "47402",
+   "Jug_Sale": "MANUEL SOTELO",
+   "CarneEntra": "15555",
+   "Jug_Entra": "SANTIAGO JAVIER CABALLERO",
+   "camiseta": "4",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "66997",
+   "Jug_Sale": "ERNESTO ACUÑA",
+   "CarneEntra": "17552",
+   "Jug_Entra": "MARTIN SEBASTIAN MARQUES",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15555",
+   "Jug_Sale": "SANTIAGO JAVIER CABALLERO",
+   "CarneEntra": "48821",
+   "Jug_Entra": "JOAQUIN ANDRES ZUNINO",
+   "camiseta": "32",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24009",
+   "Jug_Sale": "FEDERICO GABRIEL WILKINS",
+   "CarneEntra": "63876",
+   "Jug_Entra": "LUIS DARIO DAVILA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63483",
+   "Jug_Sale": "CARLOS ANTONIO YANES",
+   "CarneEntra": "17747",
+   "Jug_Entra": "SEBASTIAN CHRISTIAN SEGREDO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16845",
+   "Jug_Sale": "DIEGO JAVIER MARTINEZ",
+   "CarneEntra": "67721",
+   "Jug_Entra": "SERGIO GABRIEL TARALLO",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19855",
+   "Jug_Sale": "ANGEL ENRIQUE PERDOMO",
+   "CarneEntra": "67718",
+   "Jug_Entra": "WASHINGTON JAVIER DUARTE",
+   "camiseta": "21",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "67719",
+   "Jug_Sale": "ROBERT MARIO FLORES",
+   "CarneEntra": "63483",
+   "Jug_Entra": "CARLOS ANTONIO YANES",
+   "camiseta": "14",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "15555",
+   "Nombre": "SANTIAGO JAVIER CABALLERO",
+   "minutos": "18",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48821",
+   "Nombre": "JOAQUIN ANDRES ZUNINO",
+   "minutos": "46",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "23102",
+   "Nombre": "MARCELO SOSA",
+   "minutos": "1",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23102",
+   "Nombre": "MARCELO SOSA",
+   "minutos": "4",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23102",
+   "Nombre": "MARCELO SOSA",
+   "minutos": "12",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23102",
+   "Nombre": "MARCELO SOSA",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23102",
+   "Nombre": "MARCELO SOSA",
+   "minutos": "79",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

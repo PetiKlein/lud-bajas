@@ -1,0 +1,279 @@
+{
+ "id": "100159",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 09:00:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "PERRY SEXTA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "186",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-06-13 11:00:00",
+  "Fecha_fin": "2026-06-13 11:00:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "PERRY SEXTA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "7971",
+   "Nombre": "ALEJANDRO SILBERSTEIN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "17928",
+   "Nombre": "AGUSTIN MAGNONE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16172",
+   "Nombre": "MARTIN MAGNONE",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "16738",
+   "Nombre": "RAMIRO AROCENA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "21574",
+   "Nombre": "SEBASTIAN NUÑEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "22174",
+   "Nombre": "FEDERICO MONTANS MONTANS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "17194",
+   "Nombre": "JUAN PABLO CASTRO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "15264",
+   "Nombre": "FEDERICO SCHOL",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "18393",
+   "Nombre": "GERARDO GABRIEL MONZON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "20891",
+   "Nombre": "AGUSTIN MANUEL CASAROTTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "16699",
+   "Nombre": "JUAN LUIS CAUBARRERE",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "25808",
+   "Nombre": "GONZALO FEDERICO HARISPE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64755",
+   "Nombre": "MARTIN UBAL",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "65725",
+   "Nombre": "MARCELO RAFAEL VIANA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "49509",
+   "Nombre": "ADRIAN LAURINO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25956",
+   "Nombre": "NICOLAS FABIAN FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "28264",
+   "Nombre": "IGNACIO VELAZCO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "40409",
+   "Nombre": "CARLOS FEDERICO FERREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "23518",
+   "Nombre": "DIEGO HERNAN SCOTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "24828",
+   "Nombre": "FABIAN SOSA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "32202",
+   "Nombre": "DARIO MARTIN PIZANO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "19695",
+   "Nombre": "JUAN ANDRES HONTAN",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "21574",
+   "Jug_Sale": "SEBASTIAN NUÑEZ",
+   "CarneEntra": "21923",
+   "Jug_Entra": "RAFAEL MONZON",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22174",
+   "Jug_Sale": "FEDERICO MONTANS MONTANS",
+   "CarneEntra": "19569",
+   "Jug_Entra": "CARLOS ANDRES URIARTE",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17194",
+   "Jug_Sale": "JUAN PABLO CASTRO",
+   "CarneEntra": "18357",
+   "Jug_Entra": "MANUEL CAUBARRERE",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17928",
+   "Jug_Sale": "AGUSTIN MAGNONE",
+   "CarneEntra": "64791",
+   "Jug_Entra": "RODRIGO NUÑEZ",
+   "camiseta": "14",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "15264",
+   "Jug_Sale": "FEDERICO SCHOL",
+   "CarneEntra": "16934",
+   "Jug_Entra": "DAVID ARIEL BURGUEÑO",
+   "camiseta": "29",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "19695",
+   "Jug_Sale": "JUAN ANDRES HONTAN",
+   "CarneEntra": "24154",
+   "Jug_Entra": "JOSE IGNACIO RABELLINO",
+   "camiseta": "11",
+   "minutos": "12"
+  },
+  {
+   "CarneSale": "23518",
+   "Jug_Sale": "DIEGO HERNAN SCOTTI",
+   "CarneEntra": "62801",
+   "Jug_Entra": "FERNANDO GABRIEL MONTIE",
+   "camiseta": "40",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24828",
+   "Jug_Sale": "FABIAN SOSA",
+   "CarneEntra": "18476",
+   "Jug_Entra": "RAFAEL DE LA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25956",
+   "Jug_Sale": "NICOLAS FABIAN FERNANDEZ",
+   "CarneEntra": "18229",
+   "Jug_Entra": "GERMAN ANDRES CRAPUCHETTI",
+   "camiseta": "80",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "17928",
+   "Nombre": "AGUSTIN MAGNONE",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "18393",
+   "Nombre": "GERARDO GABRIEL MONZON",
+   "minutos": "42",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28264",
+   "Nombre": "IGNACIO VELAZCO",
+   "minutos": "15",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32202",
+   "Nombre": "DARIO MARTIN PIZANO",
+   "minutos": "36",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "DIEGO HERNAN SCOTTI",
+   "observaciones": ""
+  }
+ ]
+}

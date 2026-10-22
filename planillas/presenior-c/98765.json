@@ -1,0 +1,288 @@
+{
+ "id": "98765",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "CLARA JACKSON UNIVERSITARIO",
+ "visitante": "OLD WOODLANDS CLUB",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "277",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-05-16 11:00:00",
+  "Fecha_fin": "2026-05-16 11:00:00",
+  "Locatario": "CLARA JACKSON UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD WOODLANDS CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "40111",
+   "Nombre": "DIEGO ROJAS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "33810",
+   "Nombre": "RODRIGO SOBRADO",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "34406",
+   "Nombre": "FRANCO ANTONIO RICARDI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "28183",
+   "Nombre": "LEONARDO BANCHERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "32894",
+   "Nombre": "CARLOS ANDRES BENTANCOURT",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "35291",
+   "Nombre": "ADRIAN MONTOLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "27327",
+   "Nombre": "GERMAN RODRIGO SANTAMARIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "35443",
+   "Nombre": "RAFAEL LANZETTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "35642",
+   "Nombre": "PABLO DANIEL OLIVERA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "34628",
+   "Nombre": "SANTIAGO PATRICIO IGLESIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "31328",
+   "Nombre": "FELIPE JOSE ROMANIELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "37661",
+   "Nombre": "JUAN AGUSTIN DIAZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "32011",
+   "Nombre": "JOAQUIN DELUCCA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "32402",
+   "Nombre": "FERNANDO VALDEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "35791",
+   "Nombre": "MARCOS HONTOU",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "31892",
+   "Nombre": "TOMAS DELUCCA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "25993",
+   "Nombre": "CLAUDIO HERRERA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "67550",
+   "Nombre": "JUAN JOSE ALONSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31356",
+   "Nombre": "MATHIAS DIENA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "35465",
+   "Nombre": "JUAN IGNACIO MONTANS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "18017",
+   "Nombre": "NICOLAS PIROTTO",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27327",
+   "Jug_Sale": "GERMAN RODRIGO SANTAMARIA",
+   "CarneEntra": "30276",
+   "Jug_Entra": "KLAVDIO AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "35291",
+   "Jug_Sale": "ADRIAN MONTOLI",
+   "CarneEntra": "40042",
+   "Jug_Entra": "AGUSTIN GILI",
+   "camiseta": "24",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "35443",
+   "Jug_Sale": "RAFAEL LANZETTA",
+   "CarneEntra": "46032",
+   "Jug_Entra": "IGNACIO GABRIEL GARCILAZO",
+   "camiseta": "7",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "33810",
+   "Jug_Sale": "RODRIGO SOBRADO",
+   "CarneEntra": "57636",
+   "Jug_Entra": "FACUNDO RUBEN MANZI",
+   "camiseta": "14",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "32894",
+   "Jug_Sale": "CARLOS ANDRES BENTANCOURT",
+   "CarneEntra": "42789",
+   "Jug_Entra": "DIEGO GABRIEL DEL PO",
+   "camiseta": "2",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67550",
+   "Jug_Sale": "JUAN JOSE ALONSO",
+   "CarneEntra": "36822",
+   "Jug_Entra": "MARTIN CABANELAS",
+   "camiseta": "97",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "25993",
+   "Jug_Sale": "CLAUDIO HERRERA",
+   "CarneEntra": "34974",
+   "Jug_Entra": "FRANCO COLELLA",
+   "camiseta": "29",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "31356",
+   "Jug_Sale": "MATHIAS DIENA",
+   "CarneEntra": "27539",
+   "Jug_Entra": "SANTIAGO TERNANDE",
+   "camiseta": "11",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "18017",
+   "Jug_Sale": "NICOLAS PIROTTO",
+   "CarneEntra": "35344",
+   "Jug_Entra": "SANTIAGO CASTELO",
+   "camiseta": "13",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "31892",
+   "Jug_Sale": "TOMAS DELUCCA",
+   "CarneEntra": "31493",
+   "Jug_Entra": "GONZALO MIGUEL LAGRENADE",
+   "camiseta": "28",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "34628",
+   "Nombre": "SANTIAGO PATRICIO IGLESIAS",
+   "minutos": "6",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31356",
+   "Nombre": "MATHIAS DIENA",
+   "minutos": "26",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31892",
+   "Nombre": "TOMAS DELUCCA",
+   "minutos": "89",
+   "EnContra": "1"
+  },
+  {
+   "carne": "35344",
+   "Nombre": "SANTIAGO CASTELO",
+   "minutos": "92",
+   "EnContra": "1"
+  },
+  {
+   "carne": "35465",
+   "Nombre": "JUAN IGNACIO MONTANS",
+   "minutos": "33",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

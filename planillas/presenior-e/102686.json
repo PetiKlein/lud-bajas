@@ -1,0 +1,282 @@
+{
+ "id": "102686",
+ "categoria": "presenior-e",
+ "serie": "PSET2",
+ "fecha": 2,
+ "fechaHora": "2026-10-10 09:00:00",
+ "cancha": "COMPLEJO PROFUTBOL",
+ "local": "CLUB RICHARD ANDERSON UNIV.",
+ "visitante": "WANDERERS",
+ "gl": 5,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "1010",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "3",
+  "Divisional": "PS DIV. E 2ªR COPA ORO",
+  "Cancha": "COMPLEJO PROFUTBOL",
+  "Fecha_Inicio": "2026-10-10 11:05:00",
+  "Fecha_fin": "2026-10-10 11:05:00",
+  "Locatario": "CLUB RICHARD ANDERSON UNIV.",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "33713",
+   "Nombre": "FERNANDO JOSE BARCALA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "28333",
+   "Nombre": "JOAQUIN OJEDA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26708",
+   "Nombre": "FRANCISCO CALVIÑO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "38345",
+   "Nombre": "IGNACIO DANIEL VARELA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "31708",
+   "Nombre": "DIEGO VELASCO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "33278",
+   "Nombre": "MARTIN FAGIOLI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "26753",
+   "Nombre": "DIEGO MARTIN RIENZI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "43161",
+   "Nombre": "JOSE LUIS FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "41244",
+   "Nombre": "DIEGO MARTIN PEREYRA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "31594",
+   "Nombre": "ALAN VACCARO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "38658",
+   "Nombre": "GERMAN FERNANDEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "40145",
+   "Nombre": "KEVIN SANTIAGO LUZARDO",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "35393",
+   "Nombre": "MATIAS NICOLAS SOMMA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "46824",
+   "Nombre": "ERNESTO FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "41786",
+   "Nombre": "MATHIAS EZEQUIEL BONILLA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "48560",
+   "Nombre": "HERNAN FABRICIO DI MATTIA",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37872",
+   "Nombre": "JONATHAN EMANUEL CABRERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "44673",
+   "Nombre": "SANTIAGO ISAIAS SOLE",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "49734",
+   "Nombre": "MAXIMILIANO TEJERA",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "66785",
+   "Nombre": "RODRIGO ARCE",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "54723",
+   "Nombre": "MICHAEL ANDRES MARTINEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "37182",
+   "Nombre": "SANTIAGO MALLO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "28333",
+   "Jug_Sale": "JOAQUIN OJEDA",
+   "CarneEntra": "33306",
+   "Jug_Entra": "GONZALO NICOLAS PELUFO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43161",
+   "Jug_Sale": "JOSE LUIS FERNANDEZ",
+   "CarneEntra": "43182",
+   "Jug_Entra": "MARTIN BUENO",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33278",
+   "Jug_Sale": "MARTIN FAGIOLI",
+   "CarneEntra": "31957",
+   "Jug_Entra": "GONZALO ERNESTO GIAMBRUNO",
+   "camiseta": "25",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37872",
+   "Jug_Sale": "JONATHAN EMANUEL CABRERA",
+   "CarneEntra": "44958",
+   "Jug_Entra": "FERNANDO GONZALEZ",
+   "camiseta": "41",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "37182",
+   "Jug_Sale": "SANTIAGO MALLO",
+   "CarneEntra": "51999",
+   "Jug_Entra": "DIEGO GODOY",
+   "camiseta": "9",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "41786",
+   "Jug_Sale": "MATHIAS EZEQUIEL BONILLA",
+   "CarneEntra": "44857",
+   "Jug_Entra": "FRANCO SORMANI",
+   "camiseta": "33",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "66785",
+   "Jug_Sale": "RODRIGO ARCE",
+   "CarneEntra": "40769",
+   "Jug_Entra": "NICOLAS ANDRES PORTERO",
+   "camiseta": "32",
+   "minutos": "62"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "31594",
+   "Nombre": "ALAN VACCARO",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38345",
+   "Nombre": "IGNACIO DANIEL VARELA",
+   "minutos": "85",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38658",
+   "Nombre": "GERMAN FERNANDEZ",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38658",
+   "Nombre": "GERMAN FERNANDEZ",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "41244",
+   "Nombre": "DIEGO MARTIN PEREYRA",
+   "minutos": "92",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "37182",
+   "Nombre": "SANTIAGO MALLO",
+   "minutos": "29",
+   "EnContra": "1"
+  },
+  {
+   "carne": "49734",
+   "Nombre": "MAXIMILIANO TEJERA",
+   "minutos": "11",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66785",
+   "Nombre": "RODRIGO ARCE",
+   "minutos": "48",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

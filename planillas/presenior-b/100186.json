@@ -1,0 +1,292 @@
+{
+ "id": "100186",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "ESTUDIANTIL SALTEÑO",
+ "visitante": "J.M.L.M",
+ "gl": 4,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "191",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-06-13 11:00:00",
+  "Fecha_fin": "2026-06-13 11:00:00",
+  "Locatario": "ESTUDIANTIL SALTEÑO",
+  "goles_locatario": "4",
+  "puntos_locatario": "1",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "4",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "54038",
+   "Nombre": "CHRISTIAN COMPTON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22273",
+   "Nombre": "CARLOS JOAQUIN ELLIOT",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "22861",
+   "Nombre": "MATIAS NIEVES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "19202",
+   "Nombre": "MARTIN FACUNDO LEITES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31557",
+   "Nombre": "SERGIO GABRIEL MARTIRENA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "25905",
+   "Nombre": "SERGIO NICOLAS OLIVERI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "19819",
+   "Nombre": "ALVARO GABRIEL LOPEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "31404",
+   "Nombre": "AGUSTIN GABRIEL GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "25653",
+   "Nombre": "ROBERTO FERNANDO DA ROSA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "23144",
+   "Nombre": "JUAN EDUARDO ELLIOT",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "26701",
+   "Nombre": "MARCELO GUSTAVO MEDINA",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22739",
+   "Nombre": "GUZMAN PANARIO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31624",
+   "Nombre": "JUAN MANUEL VIQUE",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "27121",
+   "Nombre": "JUAN JOSE CASTRO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "25367",
+   "Nombre": "ANDRES BERNARDO ODIZZIO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "26579",
+   "Nombre": "JUAN PABLO DELOR",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "42577",
+   "Nombre": "IGNACIO CHRISTOPHERSEN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "28338",
+   "Nombre": "SANTIAGO MEDEIROS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "38848",
+   "Nombre": "FEDERICO FERRO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "33275",
+   "Nombre": "MATIAS ERNESTO RANIERI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "42933",
+   "Nombre": "RODRIGO GONZALO SICA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "28210",
+   "Nombre": "JULIO MONTERROSO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31557",
+   "Jug_Sale": "SERGIO GABRIEL MARTIRENA",
+   "CarneEntra": "54214",
+   "Jug_Entra": "CHRISTIAN FABIAN MOREIRA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26701",
+   "Jug_Sale": "MARCELO GUSTAVO MEDINA",
+   "CarneEntra": "38949",
+   "Jug_Entra": "OSCAR SEBASTIAN ALBRECH",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19202",
+   "Jug_Sale": "MARTIN FACUNDO LEITES",
+   "CarneEntra": "31738",
+   "Jug_Entra": "FACUNDO FABIAN GOMEZ",
+   "camiseta": "15",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42933",
+   "Jug_Sale": "RODRIGO GONZALO SICA",
+   "CarneEntra": "61412",
+   "Jug_Entra": "ALEJANDRO CARLOS ROURA",
+   "camiseta": "23",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "27121",
+   "Jug_Sale": "JUAN JOSE CASTRO",
+   "CarneEntra": "42933",
+   "Jug_Entra": "RODRIGO GONZALO SICA",
+   "camiseta": "20",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "31624",
+   "Jug_Sale": "JUAN MANUEL VIQUE",
+   "CarneEntra": "26696",
+   "Jug_Entra": "SEBASTIAN PABLO ELHORDOY",
+   "camiseta": "9",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "33275",
+   "Jug_Sale": "MATIAS ERNESTO RANIERI",
+   "CarneEntra": "27121",
+   "Jug_Entra": "JUAN JOSE CASTRO",
+   "camiseta": "2",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "22861",
+   "Nombre": "MATIAS NIEVES",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "23144",
+   "Nombre": "JUAN EDUARDO ELLIOT",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "23144",
+   "Nombre": "JUAN EDUARDO ELLIOT",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "23144",
+   "Nombre": "JUAN EDUARDO ELLIOT",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28210",
+   "Nombre": "JULIO MONTERROSO",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28338",
+   "Nombre": "SANTIAGO MEDEIROS",
+   "minutos": "83",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31624",
+   "Nombre": "JUAN MANUEL VIQUE",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "33275",
+   "Nombre": "MATIAS ERNESTO RANIERI",
+   "minutos": "34",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "CARLOS JOAQUIN ELLIOT",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "JULIO MONTERROSO",
+   "observaciones": ""
+  }
+ ]
+}

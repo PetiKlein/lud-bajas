@@ -1,0 +1,263 @@
+{
+ "id": "100201",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "COMPLEJO MARLUNA",
+ "local": "MATECHA",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "650",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO MARLUNA",
+  "Fecha_Inicio": "2026-06-20 11:00:00",
+  "Fecha_fin": "2026-06-20 11:00:00",
+  "Locatario": "MATECHA",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "34858",
+   "Nombre": "DARDO LUIS ARISMENDI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46137",
+   "Nombre": "EDUARDO MATIAS PEREZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "26640",
+   "Nombre": "JUAN DIEGO ZUNINO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25641",
+   "Nombre": "MAICOHOL GABRIEL GARCIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "37324",
+   "Nombre": "LUIS ALEJANDRO SUAREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61724",
+   "Nombre": "LEANDRO REYES",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "41332",
+   "Nombre": "CHRISTIAN ADRIAN COUSILLAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "45167",
+   "Nombre": "NICOLAS RISSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65962",
+   "Nombre": "IGNACIO PEREIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "57305",
+   "Nombre": "SERGIO DANIEL CAMPOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59836",
+   "Nombre": "EMILIANO ZOCCOLINI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46295",
+   "Nombre": "MARTIN VARELA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "35156",
+   "Nombre": "ESTEBAN ORLANDO CABO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67893",
+   "Nombre": "FEDERICO JAVIER GONZALEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "30402",
+   "Nombre": "GONZALO MARTIN PERALTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "38960",
+   "Nombre": "MAURO MIGUEL BARONE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "25665",
+   "Nombre": "JONATHAN ADRIAN PACHECO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "32607",
+   "Nombre": "SANTIAGO DANIEL CARAMELLI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39618",
+   "Nombre": "AGUSTIN COSTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "37149",
+   "Nombre": "GERMAN REY",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58504",
+   "Nombre": "EMMANUEL OSCAR GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "33169",
+   "Nombre": "LUCA PRATTO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65962",
+   "Jug_Sale": "IGNACIO PEREIRA",
+   "CarneEntra": "31780",
+   "Jug_Entra": "JOSE IGNACIO GIL",
+   "camiseta": "22",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "65962",
+   "Jug_Sale": "IGNACIO PEREIRA",
+   "CarneEntra": "57305",
+   "Jug_Entra": "SERGIO DANIEL CAMPOS",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61724",
+   "Jug_Sale": "LEANDRO REYES",
+   "CarneEntra": "41343",
+   "Jug_Entra": "DARIO DANIEL GAZZO",
+   "camiseta": "14",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "57305",
+   "Jug_Sale": "SERGIO DANIEL CAMPOS",
+   "CarneEntra": "67415",
+   "Jug_Entra": "JOSE ALEJANDRO MELLUSO",
+   "camiseta": "23",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "41332",
+   "Jug_Sale": "CHRISTIAN ADRIAN COUSILLAS",
+   "CarneEntra": "67414",
+   "Jug_Entra": "SEBASTIAN ALEJANDRO HAHN",
+   "camiseta": "26",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "59836",
+   "Jug_Sale": "EMILIANO ZOCCOLINI",
+   "CarneEntra": "65962",
+   "Jug_Entra": "IGNACIO PEREIRA",
+   "camiseta": "12",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "38960",
+   "Jug_Sale": "MAURO MIGUEL BARONE",
+   "CarneEntra": "30387",
+   "Jug_Entra": "AGUSTIN NICOLAS GUARCH",
+   "camiseta": "36",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "33169",
+   "Jug_Sale": "LUCA PRATTO",
+   "CarneEntra": "64852",
+   "Jug_Entra": "MAXIMO SALVATORE",
+   "camiseta": "8",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "25665",
+   "Jug_Sale": "JONATHAN ADRIAN PACHECO",
+   "CarneEntra": "40437",
+   "Jug_Entra": "GERMAN FARIAS",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "30387",
+   "Jug_Sale": "AGUSTIN NICOLAS GUARCH",
+   "CarneEntra": "66383",
+   "Jug_Entra": "EMILIANO JAVIER RODRIGUEZ",
+   "camiseta": "27",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "31780",
+   "Nombre": "JOSE IGNACIO GIL",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,291 @@
+{
+ "id": "101226",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "LA BLANQUEADA",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "25",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-08-29 10:55:00",
+  "Fecha_fin": "2026-08-29 10:55:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "LA BLANQUEADA",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "19371",
+   "Nombre": "JOSE IGNACIO LAMANNA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33263",
+   "Nombre": "ALEJANDRO NICOLAS FRIGERIO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "62023",
+   "Nombre": "GONZALO VALLE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "22455",
+   "Nombre": "GONZALO GAMBETTA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61374",
+   "Nombre": "ALVARO RAFAEL GONZALEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "17355",
+   "Nombre": "LUIS GUZMAN PEREZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "19590",
+   "Nombre": "GONZALO RAUL MANGADO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "22421",
+   "Nombre": "GERMAN DANIEL INDERKUM",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "22982",
+   "Nombre": "JUAN ANDRES LAMANNA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24529",
+   "Nombre": "MARTIN MARTINEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "58329",
+   "Nombre": "FEDERICO DAMIAN RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "19994",
+   "Nombre": "GERMAN FRAQUIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30356",
+   "Nombre": "JOAQUIN DE LA SOVERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "17908",
+   "Nombre": "JESUS SOSA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "19196",
+   "Nombre": "SANTIAGO VILARDEBO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "39923",
+   "Nombre": "JUAN IGNACIO RODRÌGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "45546",
+   "Nombre": "ALEJANDRO BETOLAZA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "16333",
+   "Nombre": "MARTIN EDUARDO RODRIGUEZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41787",
+   "Nombre": "ANDRES D ALESSANDRO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "37362",
+   "Nombre": "HORACIO REYNOSO",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "17894",
+   "Nombre": "NICOLAS ANTONIO RUIZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "14703",
+   "Nombre": "MARCEL AZZARINI",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "19590",
+   "Jug_Sale": "GONZALO RAUL MANGADO",
+   "CarneEntra": "22401",
+   "Jug_Entra": "GUILLERMO RAFFO",
+   "camiseta": "37",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22455",
+   "Jug_Sale": "GONZALO GAMBETTA",
+   "CarneEntra": "19590",
+   "Jug_Entra": "GONZALO RAUL MANGADO",
+   "camiseta": "17",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "19590",
+   "Jug_Sale": "GONZALO RAUL MANGADO",
+   "CarneEntra": "45371",
+   "Jug_Entra": "IGNACIO JAVIER ZAMBRA",
+   "camiseta": "9",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "17355",
+   "Jug_Sale": "LUIS GUZMAN PEREZ",
+   "CarneEntra": "22455",
+   "Jug_Entra": "GONZALO GAMBETTA",
+   "camiseta": "15",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "14703",
+   "Jug_Sale": "MARCEL AZZARINI",
+   "CarneEntra": "14701",
+   "Jug_Entra": "PABLO SANTIAGO CASTRO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17894",
+   "Jug_Sale": "NICOLAS ANTONIO RUIZ",
+   "CarneEntra": "16181",
+   "Jug_Entra": "PABLO ANGERIZ",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19196",
+   "Jug_Sale": "SANTIAGO VILARDEBO",
+   "CarneEntra": "17899",
+   "Jug_Entra": "PEDRO FEDERICO LESCOULIE",
+   "camiseta": "71",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "41787",
+   "Jug_Sale": "ANDRES D ALESSANDRO",
+   "CarneEntra": "20924",
+   "Jug_Entra": "JOSE IGNACIO CARRIL",
+   "camiseta": "29",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "37362",
+   "Jug_Sale": "HORACIO REYNOSO",
+   "CarneEntra": "22143",
+   "Jug_Entra": "ALDOLFO BENITO MACHIN",
+   "camiseta": "3",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "17355",
+   "Nombre": "LUIS GUZMAN PEREZ",
+   "minutos": "2",
+   "EnContra": "0"
+  },
+  {
+   "carne": "22982",
+   "Nombre": "JUAN ANDRES LAMANNA",
+   "minutos": "89",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "14701",
+   "Nombre": "PABLO SANTIAGO CASTRO",
+   "minutos": "95",
+   "EnContra": "1"
+  },
+  {
+   "carne": "19196",
+   "Nombre": "SANTIAGO VILARDEBO",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "39923",
+   "Nombre": "JUAN IGNACIO RODRÌGUEZ",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "41787",
+   "Nombre": "ANDRES D ALESSANDRO",
+   "minutos": "32",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "JUAN ANDRES LAMANNA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

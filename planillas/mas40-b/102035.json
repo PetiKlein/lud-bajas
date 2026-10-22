@@ -1,0 +1,273 @@
+{
+ "id": "102035",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "COMPLEJO LA CORUÑA(MALVAREZ)",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "229",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LA CORUÑA(MALVAREZ)",
+  "Fecha_Inicio": "2026-09-19 11:00:00",
+  "Fecha_fin": "2026-09-19 11:00:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "25808",
+   "Nombre": "GONZALO FEDERICO HARISPE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64755",
+   "Nombre": "MARTIN UBAL",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "44855",
+   "Nombre": "GABRIEL ADOLFO CASTILLA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "19568",
+   "Nombre": "SANTIAGO CAZALES",
+   "camiseta": "59",
+   "Capitan": ""
+  },
+  {
+   "carne": "18229",
+   "Nombre": "GERMAN ANDRES CRAPUCHETTI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "40409",
+   "Nombre": "CARLOS FEDERICO FERREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "23518",
+   "Nombre": "DIEGO HERNAN SCOTTI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62801",
+   "Nombre": "FERNANDO GABRIEL MONTIE",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "24828",
+   "Nombre": "FABIAN SOSA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "23243",
+   "Nombre": "IGNACIO ROLDAN",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32202",
+   "Nombre": "DARIO MARTIN PIZANO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22390",
+   "Nombre": "JUAN CARLOS FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25593",
+   "Nombre": "FELIX GABRIEL BELLOMO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "19855",
+   "Nombre": "ANGEL ENRIQUE PERDOMO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63483",
+   "Nombre": "CARLOS ANTONIO YANES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "14531",
+   "Nombre": "JAVIER GERARDO GARRE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "23102",
+   "Nombre": "MARCELO SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67717",
+   "Nombre": "DARIO FLORES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67719",
+   "Nombre": "ROBERT MARIO FLORES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "63687",
+   "Nombre": "NICOLAS OMAR MICHELENA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "16576",
+   "Nombre": "DIEGO ANDRES SOSA",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24009",
+   "Nombre": "FEDERICO GABRIEL WILKINS",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23243",
+   "Jug_Sale": "IGNACIO ROLDAN",
+   "CarneEntra": "24705",
+   "Jug_Entra": "RODRIGO RIVERA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19568",
+   "Jug_Sale": "SANTIAGO CAZALES",
+   "CarneEntra": "25956",
+   "Jug_Entra": "NICOLAS FABIAN FERNANDEZ",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24828",
+   "Jug_Sale": "FABIAN SOSA",
+   "CarneEntra": "28264",
+   "Jug_Entra": "IGNACIO VELAZCO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62801",
+   "Jug_Sale": "FERNANDO GABRIEL MONTIE",
+   "CarneEntra": "19695",
+   "Jug_Entra": "JUAN ANDRES HONTAN",
+   "camiseta": "77",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "44855",
+   "Jug_Sale": "GABRIEL ADOLFO CASTILLA",
+   "CarneEntra": "24253",
+   "Jug_Entra": "BERNARDO MARIO PATRONE",
+   "camiseta": "9",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "14531",
+   "Jug_Sale": "JAVIER GERARDO GARRE",
+   "CarneEntra": "67718",
+   "Jug_Entra": "WASHINGTON JAVIER DUARTE",
+   "camiseta": "24",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "23102",
+   "Jug_Sale": "MARCELO SOSA",
+   "CarneEntra": "67721",
+   "Jug_Entra": "SERGIO GABRIEL TARALLO",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24009",
+   "Jug_Sale": "FEDERICO GABRIEL WILKINS",
+   "CarneEntra": "67720",
+   "Jug_Entra": "CARLOS ADRIAN ROBAINA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25593",
+   "Jug_Sale": "FELIX GABRIEL BELLOMO",
+   "CarneEntra": "14531",
+   "Jug_Entra": "JAVIER GERARDO GARRE",
+   "camiseta": "4",
+   "minutos": "69"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23518",
+   "Nombre": "DIEGO HERNAN SCOTTI",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "23518",
+   "Nombre": "DIEGO HERNAN SCOTTI",
+   "minutos": "81",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "16576",
+   "Nombre": "DIEGO ANDRES SOSA",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JAVIER GERARDO GARRE",
+   "observaciones": ""
+  }
+ ]
+}

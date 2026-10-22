@@ -1,0 +1,216 @@
+{
+ "id": "100877",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "116",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-08-15 10:50:00",
+  "Fecha_fin": "2026-08-15 10:50:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "30639",
+   "Nombre": "NICOLAS FERNANDO ALVAREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34261",
+   "Nombre": "MARTIN PESSANO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "23989",
+   "Nombre": "MAURICIO SANTIAGO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25020",
+   "Nombre": "GASTON MARCOS BIANCHI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "35041",
+   "Nombre": "JOAQUIN GUERRA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "22414",
+   "Nombre": "RODRIGO OLAVE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26528",
+   "Nombre": "MARIO SZLAFMYC",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "26688",
+   "Nombre": "MATEO PEREIRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "23004",
+   "Nombre": "ANGEL URRABURU",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "29905",
+   "Nombre": "FELIPE SURRACO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "24985",
+   "Nombre": "BERNARDO RAFAEL PALAUS",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37846",
+   "Nombre": "CHRISTIAN DEL CASTILLO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "45419",
+   "Nombre": "DIEGO JAVIER CHAVES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "20401",
+   "Nombre": "JUAN PEDRO QUAGLIATA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26373",
+   "Nombre": "NICOLAS SILVA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "35597",
+   "Nombre": "FABIAN CHIRIBAO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "27192",
+   "Nombre": "JULIAN ALBERTO SPENCER",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "33785",
+   "Nombre": "ALEJANDRO RAYMOND",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "35463",
+   "Nombre": "MATEO PINTOS",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "25259",
+   "Nombre": "MATHIAS SEBASTIAN MIZRAJI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "40793",
+   "Nombre": "FERNANDO ABDO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "28380",
+   "Nombre": "FACUNDO MARQUEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26528",
+   "Jug_Sale": "MARIO SZLAFMYC",
+   "CarneEntra": "20774",
+   "Jug_Entra": "DIEGO ALEMAN",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23989",
+   "Jug_Sale": "MAURICIO SANTIAGO",
+   "CarneEntra": "35358",
+   "Jug_Entra": "GONZALO MARTIN RUSSO",
+   "camiseta": "4",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "25020",
+   "Jug_Sale": "GASTON MARCOS BIANCHI",
+   "CarneEntra": "18053",
+   "Jug_Entra": "FEDERICO BENTANCUR",
+   "camiseta": "3",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "24985",
+   "Jug_Sale": "BERNARDO RAFAEL PALAUS",
+   "CarneEntra": "52465",
+   "Jug_Entra": "MARCELO DAMIAN ALVARENQUE",
+   "camiseta": "76",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "25259",
+   "Jug_Sale": "MATHIAS SEBASTIAN MIZRAJI",
+   "CarneEntra": "22745",
+   "Jug_Entra": "ESTEBAN JOAQUIN PERA",
+   "camiseta": "10",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

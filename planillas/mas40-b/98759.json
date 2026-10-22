@@ -1,0 +1,251 @@
+{
+ "id": "98759",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "ESCUELA NAVAL",
+ "local": "ESPARTA UNIVERSITARIO",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "158",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "ESCUELA NAVAL",
+  "Fecha_Inicio": "2026-05-16 11:00:00",
+  "Fecha_fin": "2026-05-16 11:00:00",
+  "Locatario": "ESPARTA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "23421",
+   "Nombre": "WALTER DANIEL BORIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38910",
+   "Nombre": "ROBERTO MIGUEL VILLAGRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "24641",
+   "Nombre": "FERNANDO CARLOS GAMARRA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "20066",
+   "Nombre": "DIEGO RAFAEL RIOS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "16619",
+   "Nombre": "ANDRES DELLEPIANE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "19918",
+   "Nombre": "SERGIO MARTIN VENTOSO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "20876",
+   "Nombre": "ALEJANDRO BALAZSI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67253",
+   "Nombre": "ANDRES SEBASTIAN MANEIRO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "59922",
+   "Nombre": "PABLO ANDRES FILIPPINI",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "15676",
+   "Nombre": "PABLO JAVIER REBOLLO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37622",
+   "Nombre": "CARLOS EDUARDO SILVA",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59466",
+   "Nombre": "JAVIER ZUBILLAGA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "21389",
+   "Nombre": "ALESSANDRO PASQUALE GIARDINO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "20439",
+   "Nombre": "RODRIGO PABLO BAUBETA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "20818",
+   "Nombre": "DIEGO PATRON",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "11361",
+   "Nombre": "CARLOS JAVIER SARACCO",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "20737",
+   "Nombre": "JAVIER GUSTAVO MARIÑO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "13676",
+   "Nombre": "IGNACIO GALEANO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "14917",
+   "Nombre": "FEDERICO SASSI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "18056",
+   "Nombre": "FELIPE GARCIA",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "19479",
+   "Nombre": "MIGUEL RUBINO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "18067",
+   "Nombre": "JUAN MANUEL YAQUINTA",
+   "camiseta": "91",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59922",
+   "Jug_Sale": "PABLO ANDRES FILIPPINI",
+   "CarneEntra": "24476",
+   "Jug_Entra": "ANDRES MARIO ICHAZO",
+   "camiseta": "10",
+   "minutos": "44"
+  },
+  {
+   "CarneSale": "19918",
+   "Jug_Sale": "SERGIO MARTIN VENTOSO",
+   "CarneEntra": "20876",
+   "Jug_Entra": "ALEJANDRO BALAZSI",
+   "camiseta": "15",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "20876",
+   "Jug_Sale": "ALEJANDRO BALAZSI",
+   "CarneEntra": "20916",
+   "Jug_Entra": "MAXIMILIANO ANDRES VIERA",
+   "camiseta": "3",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "19479",
+   "Jug_Sale": "MIGUEL RUBINO",
+   "CarneEntra": "64672",
+   "Jug_Entra": "GONZALO VENDITTO",
+   "camiseta": "21",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "20818",
+   "Jug_Sale": "DIEGO PATRON",
+   "CarneEntra": "58917",
+   "Jug_Entra": "IGNACIO ZUGARRAMURDI",
+   "camiseta": "39",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "20737",
+   "Jug_Sale": "JAVIER GUSTAVO MARIÑO",
+   "CarneEntra": "12621",
+   "Jug_Entra": "CHAHIN ANDRES TCHAKIRIAN",
+   "camiseta": "4",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "14917",
+   "Jug_Sale": "FEDERICO SASSI",
+   "CarneEntra": "22628",
+   "Jug_Entra": "NICOLAS SAEZ",
+   "camiseta": "81",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "20876",
+   "Nombre": "ALEJANDRO BALAZSI",
+   "minutos": "91",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "14917",
+   "Nombre": "FEDERICO SASSI",
+   "minutos": "36",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FELIPE GARCIA",
+   "observaciones": ""
+  }
+ ]
+}

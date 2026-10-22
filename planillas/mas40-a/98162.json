@@ -1,0 +1,303 @@
+{
+ "id": "98162",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO H3O",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "UNIVERSITARIO VERONES",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "15",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO DEPORTIVO H3O",
+  "Fecha_Inicio": "2026-04-18 11:00:00",
+  "Fecha_fin": "2026-04-18 11:00:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "UNIVERSITARIO VERONES",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "9823",
+   "Nombre": "DIEGO MARTIN TABAKIAN",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "13275",
+   "Nombre": "FRANCISCO JAVIER MITRANO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "20245",
+   "Nombre": "MATIAS AGUSTIN GONZALEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "10683",
+   "Nombre": "GABRIEL ENRIQUE MEDINA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "13276",
+   "Nombre": "JUAN MIGUEL KEUSHKERIAN",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "11221",
+   "Nombre": "MARIO SERGIO BADANO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "32875",
+   "Nombre": "LEANDRO SEBASTIAN ALEGRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "20523",
+   "Nombre": "FLAVIO LLORACH",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "14749",
+   "Nombre": "MARCELO FABIAN DE LEON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "46961",
+   "Nombre": "GERARDO FRANCISCO ALCIATURI",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "13983",
+   "Nombre": "MARCELO DANIEL MAUTTONI",
+   "camiseta": "88",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63287",
+   "Nombre": "RICARDO DANIEL PAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36484",
+   "Nombre": "SEBASTIAN GIORDANO BASSI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "17615",
+   "Nombre": "LUIS IGNACIO ILLARRAMENDI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26150",
+   "Nombre": "JESUS GABRIEL LARROSA",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33519",
+   "Nombre": "PABLO BERMUDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "38761",
+   "Nombre": "CHRISTIANS ADRIAN QUIMBO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "17985",
+   "Nombre": "GASTON ALEXIS DUARTE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "19369",
+   "Nombre": "LUIS IGNACIO FORTE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "13911",
+   "Nombre": "FABRICIO GASTON PRIETO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "40522",
+   "Nombre": "PABLO MIGUEL OTTONELLI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "54394",
+   "Nombre": "DANIEL NICOLAS ALVAREZ",
+   "camiseta": "52",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "14749",
+   "Jug_Sale": "MARCELO FABIAN DE LEON",
+   "CarneEntra": "12575",
+   "Jug_Entra": "SERGIO JAVIER FARAVELLI",
+   "camiseta": "10",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "13275",
+   "Jug_Sale": "FRANCISCO JAVIER MITRANO",
+   "CarneEntra": "47565",
+   "Jug_Entra": "JUAN RAMIRO PERADOTTO",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "13276",
+   "Jug_Sale": "JUAN MIGUEL KEUSHKERIAN",
+   "CarneEntra": "20135",
+   "Jug_Entra": "GABRIEL GONZALEZ",
+   "camiseta": "81",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32875",
+   "Jug_Sale": "LEANDRO SEBASTIAN ALEGRE",
+   "CarneEntra": "13805",
+   "Jug_Entra": "SERGIO JAVIER VIDAL",
+   "camiseta": "30",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "11221",
+   "Jug_Sale": "MARIO SERGIO BADANO",
+   "CarneEntra": "16277",
+   "Jug_Entra": "EDUARDO MISA",
+   "camiseta": "6",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "9823",
+   "Jug_Sale": "DIEGO MARTIN TABAKIAN",
+   "CarneEntra": "36335",
+   "Jug_Entra": "JORGE LUIS SEIJAS",
+   "camiseta": "49",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33519",
+   "Jug_Sale": "PABLO BERMUDEZ",
+   "CarneEntra": "18132",
+   "Jug_Entra": "SEBASTIAN MIGUEL GARCIA",
+   "camiseta": "2",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "40522",
+   "Jug_Sale": "PABLO MIGUEL OTTONELLI",
+   "CarneEntra": "14816",
+   "Jug_Entra": "JORGE FERNANDO BENTANCOR",
+   "camiseta": "14",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "38761",
+   "Jug_Sale": "CHRISTIANS ADRIAN QUIMBO",
+   "CarneEntra": "25293",
+   "Jug_Entra": "NICOLAS GALUP",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19369",
+   "Jug_Sale": "LUIS IGNACIO FORTE",
+   "CarneEntra": "16647",
+   "Jug_Entra": "FERNANDO DANIEL BETARTE",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "13911",
+   "Jug_Sale": "FABRICIO GASTON PRIETO",
+   "CarneEntra": "35285",
+   "Jug_Entra": "JULIO BRAYAN MELLO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54394",
+   "Jug_Sale": "DANIEL NICOLAS ALVAREZ",
+   "CarneEntra": "33515",
+   "Jug_Entra": "GASTON FERNANDEZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33515",
+   "Jug_Sale": "GASTON FERNANDEZ",
+   "CarneEntra": "19369",
+   "Jug_Entra": "LUIS IGNACIO FORTE",
+   "camiseta": "12",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "17985",
+   "Jug_Sale": "GASTON ALEXIS DUARTE",
+   "CarneEntra": "38761",
+   "Jug_Entra": "CHRISTIANS ADRIAN QUIMBO",
+   "camiseta": "15",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "18132",
+   "Jug_Sale": "SEBASTIAN MIGUEL GARCIA",
+   "CarneEntra": "33519",
+   "Jug_Entra": "PABLO BERMUDEZ",
+   "camiseta": "4",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "19369",
+   "Nombre": "LUIS IGNACIO FORTE",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

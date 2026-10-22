@@ -1,0 +1,297 @@
+{
+ "id": "98781",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "HARAS CUC",
+ "local": "RIVER PLATE UNIVERSITARIO",
+ "visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "160",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "HARAS CUC",
+  "Fecha_Inicio": "2026-05-16 13:00:00",
+  "Fecha_fin": "2026-05-16 13:00:00",
+  "Locatario": "RIVER PLATE UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35761",
+   "Nombre": "MARTIN FORNO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19490",
+   "Nombre": "PABLO ANDRES GONZALEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "21571",
+   "Nombre": "GABRIEL SUAREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "40771",
+   "Nombre": "NICOLAS PERDOMO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35159",
+   "Nombre": "FEDERICO PIÑEIRO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61035",
+   "Nombre": "DIEGO NICOLAS GUASTAVINO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "20360",
+   "Nombre": "GUSTAVO JUAN HONORIO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64148",
+   "Nombre": "ROBERTO EKKER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "35758",
+   "Nombre": "MARTIN ALTAMIRANO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62027",
+   "Nombre": "PABLO DANIEL MOSQUERA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "24427",
+   "Nombre": "MARTIN FERNANDO PUERTO",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "19826",
+   "Nombre": "EMILIO MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63523",
+   "Nombre": "NESTOR ATILIO MONTIEL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "23102",
+   "Nombre": "MARCELO SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "25593",
+   "Nombre": "FELIX GABRIEL BELLOMO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "24009",
+   "Nombre": "FEDERICO GABRIEL WILKINS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63483",
+   "Nombre": "CARLOS ANTONIO YANES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "16576",
+   "Nombre": "DIEGO ANDRES SOSA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "16845",
+   "Nombre": "DIEGO JAVIER MARTINEZ",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63821",
+   "Nombre": "LUIS ROBERTO GUILLERMO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "67720",
+   "Nombre": "CARLOS ADRIAN ROBAINA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "16572",
+   "Nombre": "LEONARDO DIOSIL SANCHEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "35159",
+   "Jug_Sale": "FEDERICO PIÑEIRO",
+   "CarneEntra": "51382",
+   "Jug_Entra": "MIGUEL ANGEL PASTORINO",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "19490",
+   "Jug_Sale": "PABLO ANDRES GONZALEZ",
+   "CarneEntra": "61117",
+   "Jug_Entra": "FABIAN REDIN",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "61035",
+   "Jug_Sale": "DIEGO NICOLAS GUASTAVINO",
+   "CarneEntra": "35159",
+   "Jug_Entra": "FEDERICO PIÑEIRO",
+   "camiseta": "16",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "62027",
+   "Jug_Sale": "PABLO DANIEL MOSQUERA",
+   "CarneEntra": "52517",
+   "Jug_Entra": "MARCELO EDUARDO PEREZ",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35758",
+   "Jug_Sale": "MARTIN ALTAMIRANO",
+   "CarneEntra": "33349",
+   "Jug_Entra": "GUSTAVO ELOY DELGADO",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64148",
+   "Jug_Sale": "ROBERTO EKKER",
+   "CarneEntra": "55272",
+   "Jug_Entra": "GASTON RAFAEL PERGOLA",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35758",
+   "Jug_Sale": "MARTIN ALTAMIRANO",
+   "CarneEntra": "22451",
+   "Jug_Entra": "JUAN PABLO BUELA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24427",
+   "Jug_Sale": "MARTIN FERNANDO PUERTO",
+   "CarneEntra": "18274",
+   "Jug_Entra": "ANDRES ANTONACCI",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20360",
+   "Jug_Sale": "GUSTAVO JUAN HONORIO",
+   "CarneEntra": "29363",
+   "Jug_Entra": "RAFAEL ENRIQUE PERDOMO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55272",
+   "Jug_Sale": "GASTON RAFAEL PERGOLA",
+   "CarneEntra": "59168",
+   "Jug_Entra": "FERNANDO IGNACIO SILVA",
+   "camiseta": "20",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "22451",
+   "Jug_Sale": "JUAN PABLO BUELA",
+   "CarneEntra": "40772",
+   "Jug_Entra": "CLAUDIO FABIAN TEJERA",
+   "camiseta": "11",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "16572",
+   "Jug_Sale": "LEONARDO DIOSIL SANCHEZ",
+   "CarneEntra": "24009",
+   "Jug_Entra": "FEDERICO GABRIEL WILKINS",
+   "camiseta": "7",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "16845",
+   "Jug_Sale": "DIEGO JAVIER MARTINEZ",
+   "CarneEntra": "16572",
+   "Jug_Entra": "LEONARDO DIOSIL SANCHEZ",
+   "camiseta": "9",
+   "minutos": "92"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61035",
+   "Nombre": "DIEGO NICOLAS GUASTAVINO",
+   "minutos": "41",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "MARTIN FORNO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "CARLOS ANTONIO YANES",
+   "observaciones": ""
+  }
+ ]
+}

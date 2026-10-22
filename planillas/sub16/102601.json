@@ -1,0 +1,242 @@
+{
+ "id": "102601",
+ "categoria": "sub16",
+ "serie": "16-12",
+ "fecha": 3,
+ "fechaHora": "2026-10-04 13:30:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "POCO SITIO PLAYA VERDE",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "149",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 1 RUEDA 2",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-10-04 15:15:00",
+  "Fecha_fin": "2026-10-04 15:15:00",
+  "Locatario": "POCO SITIO PLAYA VERDE",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68723",
+   "Nombre": "MATIAS ARMAND UGON",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67120",
+   "Nombre": "FAUSTINO BACHINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67123",
+   "Nombre": "FELIPE SALVIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67113",
+   "Nombre": "VICENTE LACASA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "69097",
+   "Nombre": "FRANCO BASTOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67110",
+   "Nombre": "JOAQUIN MENDOZA IZETTA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "67973",
+   "Nombre": "LUCAS CASTRO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67118",
+   "Nombre": "PAOLO FORNARI TASHIRO",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67126",
+   "Nombre": "JUAN IGNACIO VIEITES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67109",
+   "Nombre": "NICOLAS PAIS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67972",
+   "Nombre": "BENJAMIN BERMUDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64544",
+   "Nombre": "JOAQUIN SEBASTIAN MEDINA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "69024",
+   "Nombre": "NAHUEL ORTIZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "64534",
+   "Nombre": "JORDAN SANTIAGO BORBA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "64841",
+   "Nombre": "THIAGO DOMINGUEZ",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "64541",
+   "Nombre": "VALENTINO SANCHEZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "64538",
+   "Nombre": "RODRIGO AGUSTIN RICO",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "64528",
+   "Nombre": "SANTIAGO COPATTI",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "62764",
+   "Nombre": "PATRICIO TADEO LARROSA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "69025",
+   "Nombre": "BRUNO MELIAN",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67120",
+   "Jug_Sale": "FAUSTINO BACHINI",
+   "CarneEntra": "67117",
+   "Jug_Entra": "FELIPE CONDON",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67126",
+   "Jug_Sale": "JUAN IGNACIO VIEITES",
+   "CarneEntra": "67111",
+   "Jug_Entra": "FAUSTINO NOCETI",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "69097",
+   "Jug_Sale": "FRANCO BASTOS",
+   "CarneEntra": "67110",
+   "Jug_Entra": "JOAQUIN MENDOZA IZETTA",
+   "camiseta": "98",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67110",
+   "Jug_Sale": "JOAQUIN MENDOZA IZETTA",
+   "CarneEntra": "64430",
+   "Jug_Entra": "JOAQUIN FERNANDO PERLA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64430",
+   "Jug_Sale": "JOAQUIN FERNANDO PERLA",
+   "CarneEntra": "69097",
+   "Jug_Entra": "FRANCO BASTOS",
+   "camiseta": "6",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64538",
+   "Jug_Sale": "RODRIGO AGUSTIN RICO",
+   "CarneEntra": "63362",
+   "Jug_Entra": "TOMAS VALENTINO MARRONE",
+   "camiseta": "5",
+   "minutos": "61"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67118",
+   "Nombre": "PAOLO FORNARI TASHIRO",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67972",
+   "Nombre": "BENJAMIN BERMUDEZ",
+   "minutos": "83",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "SEBASTIAN FALERO",
+   "observaciones": ""
+  }
+ ]
+}

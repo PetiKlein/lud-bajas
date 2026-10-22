@@ -1,0 +1,316 @@
+{
+ "id": "100869",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "COMPLEJO WOODLANDS SCHOOL",
+ "local": "OLD WOODLANDS CLUB",
+ "visitante": "SAN EUGENIO",
+ "gl": 6,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "359",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO WOODLANDS SCHOOL",
+  "Fecha_Inicio": "2026-08-15 10:45:00",
+  "Fecha_fin": "2026-08-15 10:45:00",
+  "Locatario": "OLD WOODLANDS CLUB",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "SAN EUGENIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35344",
+   "Nombre": "SANTIAGO CASTELO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "37661",
+   "Nombre": "JUAN AGUSTIN DIAZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "34974",
+   "Nombre": "FRANCO COLELLA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "44965",
+   "Nombre": "MAX ALEGRE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35791",
+   "Nombre": "MARCOS HONTOU",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "31892",
+   "Nombre": "TOMAS DELUCCA",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25993",
+   "Nombre": "CLAUDIO HERRERA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "28224",
+   "Nombre": "IGNACIO JOSE IRAOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "31356",
+   "Nombre": "MATHIAS DIENA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "39865",
+   "Nombre": "JUAN MANUEL BIDEGAIN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "18017",
+   "Nombre": "NICOLAS PIROTTO",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "19239",
+   "Nombre": "IGNACIO ROSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "45452",
+   "Nombre": "MAURICIO NICOLAS BAUTISTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "20494",
+   "Nombre": "ANDRES GERMAN FERNANDEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "33921",
+   "Nombre": "FABIAN BRUNETTO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38266",
+   "Nombre": "ESTEBAN JAVIER GURUCEAGA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "47307",
+   "Nombre": "LUIS ALEJANDRO AYALA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "47960",
+   "Nombre": "FERNANDO DE LAS  LLANAS",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "52801",
+   "Nombre": "GABRIEL DE LAS LLANAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "62217",
+   "Nombre": "JUAN ARAUJO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67662",
+   "Nombre": "LEONARDO CORREA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "51318",
+   "Nombre": "GABRIEL DENIS",
+   "camiseta": "41",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "25993",
+   "Jug_Sale": "CLAUDIO HERRERA",
+   "CarneEntra": "31120",
+   "Jug_Entra": "JUAN MANUEL DELUCCA",
+   "camiseta": "3",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "37661",
+   "Jug_Sale": "JUAN AGUSTIN DIAZ",
+   "CarneEntra": "31493",
+   "Jug_Entra": "GONZALO MIGUEL LAGRENADE",
+   "camiseta": "24",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "28224",
+   "Jug_Sale": "IGNACIO JOSE IRAOLA",
+   "CarneEntra": "44021",
+   "Jug_Entra": "JUAN MANUEL URRESTARAZU",
+   "camiseta": "49",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "39865",
+   "Jug_Sale": "JUAN MANUEL BIDEGAIN",
+   "CarneEntra": "25993",
+   "Jug_Entra": "CLAUDIO HERRERA",
+   "camiseta": "22",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52801",
+   "Jug_Sale": "GABRIEL DE LAS LLANAS",
+   "CarneEntra": "59348",
+   "Jug_Entra": "MAURICIO TRAVERS",
+   "camiseta": "22",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "33921",
+   "Jug_Sale": "FABIAN BRUNETTO",
+   "CarneEntra": "39725",
+   "Jug_Entra": "PABLO MARTIN SILVA",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67662",
+   "Jug_Sale": "LEONARDO CORREA",
+   "CarneEntra": "27853",
+   "Jug_Entra": "ISRAEL LIBSCHITZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38266",
+   "Jug_Sale": "ESTEBAN JAVIER GURUCEAGA",
+   "CarneEntra": "37219",
+   "Jug_Entra": "GONZALO GURUCEAGA",
+   "camiseta": "92",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20494",
+   "Jug_Sale": "ANDRES GERMAN FERNANDEZ",
+   "CarneEntra": "66648",
+   "Jug_Entra": "PATRICIO SAMUEL LAGUNA",
+   "camiseta": "7",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "47307",
+   "Jug_Sale": "LUIS ALEJANDRO AYALA",
+   "CarneEntra": "57854",
+   "Jug_Entra": "LEONARDO BOVE",
+   "camiseta": "33",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "45452",
+   "Jug_Sale": "MAURICIO NICOLAS BAUTISTA",
+   "CarneEntra": "34511",
+   "Jug_Entra": "FEDERICO NICOLAS SILVA",
+   "camiseta": "19",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "51318",
+   "Jug_Sale": "GABRIEL DENIS",
+   "CarneEntra": "67662",
+   "Jug_Entra": "LEONARDO CORREA",
+   "camiseta": "9",
+   "minutos": "67"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "18017",
+   "Nombre": "NICOLAS PIROTTO",
+   "minutos": "35",
+   "EnContra": "0"
+  },
+  {
+   "carne": "18017",
+   "Nombre": "NICOLAS PIROTTO",
+   "minutos": "57",
+   "EnContra": "0"
+  },
+  {
+   "carne": "18017",
+   "Nombre": "NICOLAS PIROTTO",
+   "minutos": "72",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31120",
+   "Nombre": "JUAN MANUEL DELUCCA",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31120",
+   "Nombre": "JUAN MANUEL DELUCCA",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31356",
+   "Nombre": "MATHIAS DIENA",
+   "minutos": "66",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "57854",
+   "Nombre": "LEONARDO BOVE",
+   "minutos": "76",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

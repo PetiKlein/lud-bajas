@@ -1,0 +1,285 @@
+{
+ "id": "99756",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SA.FE.MA",
+ "visitante": "SINDICATO MEDICO DEL URUGUAY",
+ "gl": 3,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "180",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-06-06 11:00:00",
+  "Fecha_fin": "2026-06-06 11:00:00",
+  "Locatario": "SA.FE.MA",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "17694",
+   "Nombre": "FEDERICO LUIS FEIJOO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "15555",
+   "Nombre": "SANTIAGO JAVIER CABALLERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "18279",
+   "Nombre": "CRISTIAN DAVID RODRIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "18534",
+   "Nombre": "ANDRES MARCOS COPPOLA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28626",
+   "Nombre": "JUAN JOSE MALACIC",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "17552",
+   "Nombre": "MARTIN SEBASTIAN MARQUES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "66997",
+   "Nombre": "ERNESTO ACUÑA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49350",
+   "Nombre": "DIEGO GUSTAVO DELFANTE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "18278",
+   "Nombre": "FEDERICO NICOLAS RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "48821",
+   "Nombre": "JOAQUIN ANDRES ZUNINO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "47402",
+   "Nombre": "MANUEL SOTELO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57110",
+   "Nombre": "RICHARD ALEJANDRO ARAUJO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24174",
+   "Nombre": "MARTIN HORACIO ZOLESSI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26918",
+   "Nombre": "PABLO RENATO ATAIDES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "40413",
+   "Nombre": "FEDERICO FABIAN PALLONE",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "14936",
+   "Nombre": "MARTIN CANTERA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "19035",
+   "Nombre": "STEVEN GABRIEL STOLFI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "30026",
+   "Nombre": "ALEJANDRO AZZIZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "33746",
+   "Nombre": "ANDRES ISMAEL AGUILERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "15689",
+   "Nombre": "ALVARO ANDRES LOPEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "31273",
+   "Nombre": "NICOLAS ACUÑA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "13778",
+   "Nombre": "MARCELO SERGIO ICASURIAGA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "17552",
+   "Jug_Sale": "MARTIN SEBASTIAN MARQUES",
+   "CarneEntra": "22359",
+   "Jug_Entra": "JUAN CARLOS MUSSIO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18279",
+   "Jug_Sale": "CRISTIAN DAVID RODRIGUEZ",
+   "CarneEntra": "19368",
+   "Jug_Entra": "LUCAS SOTELO",
+   "camiseta": "10",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "15555",
+   "Jug_Sale": "SANTIAGO JAVIER CABALLERO",
+   "CarneEntra": "17929",
+   "Jug_Entra": "GONZALO JORGE TAGLIAFERRO",
+   "camiseta": "5",
+   "minutos": "43"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "26918",
+   "Jug_Sale": "PABLO RENATO ATAIDES",
+   "CarneEntra": "35376",
+   "Jug_Entra": "CARLOS ALBERTO FERREIRA",
+   "camiseta": "21",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "30026",
+   "Jug_Sale": "ALEJANDRO AZZIZ",
+   "CarneEntra": "56037",
+   "Jug_Entra": "MARCOS MARSET",
+   "camiseta": "13",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "31273",
+   "Jug_Sale": "NICOLAS ACUÑA",
+   "CarneEntra": "26918",
+   "Jug_Entra": "PABLO RENATO ATAIDES",
+   "camiseta": "15",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "48821",
+   "Nombre": "JOAQUIN ANDRES ZUNINO",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48821",
+   "Nombre": "JOAQUIN ANDRES ZUNINO",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49350",
+   "Nombre": "DIEGO GUSTAVO DELFANTE",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "13778",
+   "Nombre": "MARCELO SERGIO ICASURIAGA",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "15689",
+   "Nombre": "ALVARO ANDRES LOPEZ",
+   "minutos": "13",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31273",
+   "Nombre": "NICOLAS ACUÑA",
+   "minutos": "22",
+   "EnContra": "1"
+  },
+  {
+   "carne": "33746",
+   "Nombre": "ANDRES ISMAEL AGUILERA",
+   "minutos": "63",
+   "EnContra": "1"
+  },
+  {
+   "carne": "33746",
+   "Nombre": "ANDRES ISMAEL AGUILERA",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "56037",
+   "Nombre": "MARCOS MARSET",
+   "minutos": "43",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "ANDRES MARCOS COPPOLA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

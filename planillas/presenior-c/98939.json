@@ -1,0 +1,322 @@
+{
+ "id": "98939",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "DEPORTIVO MITRE",
+ "visitante": "LA ESCAPADA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "275",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-16 11:00:00",
+  "Fecha_fin": "2026-05-16 11:00:00",
+  "Locatario": "DEPORTIVO MITRE",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "LA ESCAPADA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "20274",
+   "Nombre": "ALEJANDRO BRUBACHER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38740",
+   "Nombre": "FEDERICO BRANDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "23889",
+   "Nombre": "ANDRES BAUDO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "33110",
+   "Nombre": "GABRIEL ARBIZA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "27464",
+   "Nombre": "MAURICIO GASTON ARAMBILLET",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "50049",
+   "Nombre": "DIEGO MARTIN ALBANO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "29857",
+   "Nombre": "GUILLERMO SLINGER",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "36926",
+   "Nombre": "JUAN JOSE FILLAT",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "27523",
+   "Nombre": "JUAN FRANCISCO PEDROZO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "20285",
+   "Nombre": "RODRIGO GASTAMBIDE",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28604",
+   "Nombre": "MARCELO MARTIN SOSA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26328",
+   "Nombre": "JOSE PEDRO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33966",
+   "Nombre": "FACUNDO CASTRO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "16374",
+   "Nombre": "PATRICIO RAFAEL FERRES",
+   "camiseta": "81",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49297",
+   "Nombre": "ALEJANDRO CABRERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "27677",
+   "Nombre": "BRUNO RAVA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "22770",
+   "Nombre": "SEBASTIAN NOSEDA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "39559",
+   "Nombre": "SANTIAGO ALVAREZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "26372",
+   "Nombre": "PABLO COSTANIAN",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "27036",
+   "Nombre": "DIEGO FEDERICO PIQUEREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "26345",
+   "Nombre": "FEDERICO LALUZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "30932",
+   "Nombre": "MATHIAS RODDA",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50049",
+   "Jug_Sale": "DIEGO MARTIN ALBANO",
+   "CarneEntra": "35526",
+   "Jug_Entra": "RAUL IGNACIO WANSEELE",
+   "camiseta": "11",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "33110",
+   "Jug_Sale": "GABRIEL ARBIZA",
+   "CarneEntra": "54923",
+   "Jug_Entra": "SANTIAGO ANDRES AVIERO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27523",
+   "Jug_Sale": "JUAN FRANCISCO PEDROZO",
+   "CarneEntra": "20725",
+   "Jug_Entra": "SANTIAGO JOAQUIN DOS SANTOS",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28604",
+   "Jug_Sale": "MARCELO MARTIN SOSA",
+   "CarneEntra": "32418",
+   "Jug_Entra": "JOSE IGNACIO OLASCOAGA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36926",
+   "Jug_Sale": "JUAN JOSE FILLAT",
+   "CarneEntra": "20277",
+   "Jug_Entra": "LUIS ENRIQUE LOZANO",
+   "camiseta": "27",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "38740",
+   "Jug_Sale": "FEDERICO BRANDA",
+   "CarneEntra": "36542",
+   "Jug_Entra": "GABRIEL MOSKOVICZ",
+   "camiseta": "13",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "16374",
+   "Jug_Sale": "PATRICIO RAFAEL FERRES",
+   "CarneEntra": "20236",
+   "Jug_Entra": "BARI FRANCISCO MONZEGLIO",
+   "camiseta": "12",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "49297",
+   "Jug_Sale": "ALEJANDRO CABRERA",
+   "CarneEntra": "32039",
+   "Jug_Entra": "ALEJANDRO SPANGENBERG",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33966",
+   "Jug_Sale": "FACUNDO CASTRO",
+   "CarneEntra": "24928",
+   "Jug_Entra": "GERARDO LUIS DA PRA",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26345",
+   "Jug_Sale": "FEDERICO LALUZ",
+   "CarneEntra": "54449",
+   "Jug_Entra": "PABLO EDUARDO FONTES",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30932",
+   "Jug_Sale": "MATHIAS RODDA",
+   "CarneEntra": "27695",
+   "Jug_Entra": "JUAN MARTIN RODRIGUEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26372",
+   "Jug_Sale": "PABLO COSTANIAN",
+   "CarneEntra": "26682",
+   "Jug_Entra": "GUILLERMO VARELA",
+   "camiseta": "17",
+   "minutos": "53"
+  },
+  {
+   "CarneSale": "27036",
+   "Jug_Sale": "DIEGO FEDERICO PIQUEREZ",
+   "CarneEntra": "25724",
+   "Jug_Entra": "FELIPE TERRA",
+   "camiseta": "32",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "22770",
+   "Jug_Sale": "SEBASTIAN NOSEDA",
+   "CarneEntra": "25245",
+   "Jug_Entra": "IGNACIO GONZALO DIAZ",
+   "camiseta": "5",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "33966",
+   "Jug_Sale": "FACUNDO CASTRO",
+   "CarneEntra": "63782",
+   "Jug_Entra": "AGUSTIN JAIME",
+   "camiseta": "26",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "20285",
+   "Nombre": "RODRIGO GASTAMBIDE",
+   "minutos": "49",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "27036",
+   "Nombre": "DIEGO FEDERICO PIQUEREZ",
+   "minutos": "26",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54449",
+   "Nombre": "PABLO EDUARDO FONTES",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54449",
+   "Nombre": "PABLO EDUARDO FONTES",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

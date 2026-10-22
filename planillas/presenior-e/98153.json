@@ -1,0 +1,316 @@
+{
+ "id": "98153",
+ "categoria": "presenior-e",
+ "serie": "PSE2",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COMPLEJO DEVOTO",
+ "local": "WANDERERS",
+ "visitante": "BELLA UNION UNIVERSITARIO",
+ "gl": 5,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "535",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 2",
+  "Cancha": "COMPLEJO DEVOTO",
+  "Fecha_Inicio": "2026-04-18 10:45:00",
+  "Fecha_fin": "2026-04-18 10:45:00",
+  "Locatario": "WANDERERS",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "BELLA UNION UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "48560",
+   "Nombre": "HERNAN FABRICIO DI MATTIA",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37872",
+   "Nombre": "JONATHAN EMANUEL CABRERA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "49734",
+   "Nombre": "MAXIMILIANO TEJERA",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "32667",
+   "Nombre": "AGUSTIN IGNACIO FLIELLER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "51999",
+   "Nombre": "DIEGO GODOY",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "35393",
+   "Nombre": "MATIAS NICOLAS SOMMA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "46824",
+   "Nombre": "ERNESTO FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "38957",
+   "Nombre": "FEDERICO ANDRES GRANDE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "32102",
+   "Nombre": "MAURICIO NICOLAS WURTH",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54723",
+   "Nombre": "MICHAEL ANDRES MARTINEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "37182",
+   "Nombre": "SANTIAGO MALLO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67674",
+   "Nombre": "JUAN JOSE ANCHIETA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58245",
+   "Nombre": "JOSE EMILIO VILLAR",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "40578",
+   "Nombre": "SANTIAGO DUARTE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "60210",
+   "Nombre": "MARTIN ANDRES ALVEZ",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "57376",
+   "Nombre": "ANDRES SEBASTIAN ROVETTA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "41311",
+   "Nombre": "LEONARDO DANIEL GARCIA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64926",
+   "Nombre": "MARTIN BENTOS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35958",
+   "Nombre": "RENATO RIBEIRO",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60341",
+   "Nombre": "JONATHAN ALVEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "45449",
+   "Nombre": "MANUEL QUINTANA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "57873",
+   "Nombre": "MATIAS ARIEL DE LOS SANTOS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "37872",
+   "Jug_Sale": "JONATHAN EMANUEL CABRERA",
+   "CarneEntra": "29805",
+   "Jug_Entra": "LEON MAURICIO BO",
+   "camiseta": "29",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "32102",
+   "Jug_Sale": "MAURICIO NICOLAS WURTH",
+   "CarneEntra": "46824",
+   "Jug_Entra": "ERNESTO FERNANDEZ",
+   "camiseta": "12",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "38957",
+   "Jug_Sale": "FEDERICO ANDRES GRANDE",
+   "CarneEntra": "37872",
+   "Jug_Entra": "JONATHAN EMANUEL CABRERA",
+   "camiseta": "69",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "49734",
+   "Jug_Sale": "MAXIMILIANO TEJERA",
+   "CarneEntra": "38957",
+   "Jug_Entra": "FEDERICO ANDRES GRANDE",
+   "camiseta": "15",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "51999",
+   "Jug_Sale": "DIEGO GODOY",
+   "CarneEntra": "41786",
+   "Jug_Entra": "MATHIAS EZEQUIEL BONILLA",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46824",
+   "Jug_Sale": "ERNESTO FERNANDEZ",
+   "CarneEntra": "44958",
+   "Jug_Entra": "FERNANDO GONZALEZ",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37182",
+   "Jug_Sale": "SANTIAGO MALLO",
+   "CarneEntra": "57434",
+   "Jug_Entra": "GONZALO ANDRES SANGUINETTI",
+   "camiseta": "82",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "41311",
+   "Jug_Sale": "LEONARDO DANIEL GARCIA",
+   "CarneEntra": "45482",
+   "Jug_Entra": "JOSE MIGUEL SOMACAL",
+   "camiseta": "86",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "58245",
+   "Jug_Sale": "JOSE EMILIO VILLAR",
+   "CarneEntra": "38804",
+   "Jug_Entra": "JUAN JOSE PAGLIASSO",
+   "camiseta": "31",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "60341",
+   "Jug_Sale": "JONATHAN ALVEZ",
+   "CarneEntra": "52988",
+   "Jug_Entra": "NICOLAS MARTIN ALBANO",
+   "camiseta": "32",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "40578",
+   "Jug_Sale": "SANTIAGO DUARTE",
+   "CarneEntra": "33295",
+   "Jug_Entra": "GARY ANDRES SUAREZ",
+   "camiseta": "17",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "57873",
+   "Jug_Sale": "MATIAS ARIEL DE LOS SANTOS",
+   "CarneEntra": "65395",
+   "Jug_Entra": "MATEO PERALTA",
+   "camiseta": "26",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "37872",
+   "Nombre": "JONATHAN EMANUEL CABRERA",
+   "minutos": "8",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38957",
+   "Nombre": "FEDERICO ANDRES GRANDE",
+   "minutos": "48",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38957",
+   "Nombre": "FEDERICO ANDRES GRANDE",
+   "minutos": "56",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49734",
+   "Nombre": "MAXIMILIANO TEJERA",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "49734",
+   "Nombre": "MAXIMILIANO TEJERA",
+   "minutos": "76",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "45449",
+   "Nombre": "MANUEL QUINTANA",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58245",
+   "Nombre": "JOSE EMILIO VILLAR",
+   "minutos": "30",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

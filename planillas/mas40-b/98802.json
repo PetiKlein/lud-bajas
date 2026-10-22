@@ -1,0 +1,343 @@
+{
+ "id": "98802",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "SA.FE.MA",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "156",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-05-16 10:51:00",
+  "Fecha_fin": "2026-05-16 10:51:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SA.FE.MA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64234",
+   "Nombre": "SANTIAGO CASTRO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "17928",
+   "Nombre": "AGUSTIN MAGNONE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16172",
+   "Nombre": "MARTIN MAGNONE",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "15432",
+   "Nombre": "TOMAS PARODI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "22873",
+   "Nombre": "PEDRO MARCO TURTURIELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "14519",
+   "Nombre": "JOSE IGNACIO ROQUETA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "18357",
+   "Nombre": "MANUEL CAUBARRERE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "16738",
+   "Nombre": "RAMIRO AROCENA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "17194",
+   "Nombre": "JUAN PABLO CASTRO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "19295",
+   "Nombre": "JUAN ANDRES REY",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "18393",
+   "Nombre": "GERARDO GABRIEL MONZON",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "21597",
+   "Nombre": "CLAUDIO GARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48898",
+   "Nombre": "NICOLAS DIEGO VIGNI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "18279",
+   "Nombre": "CRISTIAN DAVID RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "18534",
+   "Nombre": "ANDRES MARCOS COPPOLA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "15555",
+   "Nombre": "SANTIAGO JAVIER CABALLERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "46359",
+   "Nombre": "GERARDO ANDRES FERRARI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "22359",
+   "Nombre": "JUAN CARLOS MUSSIO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "35585",
+   "Nombre": "DAMIAN ANDRES PERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "49350",
+   "Nombre": "DIEGO GUSTAVO DELFANTE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "47402",
+   "Nombre": "MANUEL SOTELO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "48821",
+   "Nombre": "JOAQUIN ANDRES ZUNINO",
+   "camiseta": "91",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "15432",
+   "Jug_Sale": "TOMAS PARODI",
+   "CarneEntra": "15264",
+   "Jug_Entra": "FEDERICO SCHOL",
+   "camiseta": "10",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "18357",
+   "Jug_Sale": "MANUEL CAUBARRERE",
+   "CarneEntra": "21574",
+   "Jug_Entra": "SEBASTIAN NUÑEZ",
+   "camiseta": "3",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "18393",
+   "Jug_Sale": "GERARDO GABRIEL MONZON",
+   "CarneEntra": "65494",
+   "Jug_Entra": "ALEJANDRO DOMINGUEZ",
+   "camiseta": "8",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "17194",
+   "Jug_Sale": "JUAN PABLO CASTRO",
+   "CarneEntra": "18352",
+   "Jug_Entra": "IGNACIO CARLOS CASAROTTI",
+   "camiseta": "11",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "16738",
+   "Jug_Sale": "RAMIRO AROCENA",
+   "CarneEntra": "16934",
+   "Jug_Entra": "DAVID ARIEL BURGUEÑO",
+   "camiseta": "21",
+   "minutos": "0"
+  },
+  {
+   "CarneSale": "17928",
+   "Jug_Sale": "AGUSTIN MAGNONE",
+   "CarneEntra": "22174",
+   "Jug_Entra": "FEDERICO MONTANS MONTANS",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22873",
+   "Jug_Sale": "PEDRO MARCO TURTURIELLO",
+   "CarneEntra": "21923",
+   "Jug_Entra": "RAFAEL MONZON",
+   "camiseta": "99",
+   "minutos": "0"
+  },
+  {
+   "CarneSale": "14519",
+   "Jug_Sale": "JOSE IGNACIO ROQUETA",
+   "CarneEntra": "64791",
+   "Jug_Entra": "RODRIGO NUÑEZ",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19295",
+   "Jug_Sale": "JUAN ANDRES REY",
+   "CarneEntra": "20891",
+   "Jug_Entra": "AGUSTIN MANUEL CASAROTTI",
+   "camiseta": "9",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22359",
+   "Jug_Sale": "JUAN CARLOS MUSSIO",
+   "CarneEntra": "17552",
+   "Jug_Entra": "MARTIN SEBASTIAN MARQUES",
+   "camiseta": "19",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "15555",
+   "Jug_Sale": "SANTIAGO JAVIER CABALLERO",
+   "CarneEntra": "17552",
+   "Jug_Entra": "MARTIN SEBASTIAN MARQUES",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "48821",
+   "Jug_Sale": "JOAQUIN ANDRES ZUNINO",
+   "CarneEntra": "46359",
+   "Jug_Entra": "GERARDO ANDRES FERRARI",
+   "camiseta": "17",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "48898",
+   "Jug_Sale": "NICOLAS DIEGO VIGNI",
+   "CarneEntra": "49350",
+   "Jug_Entra": "DIEGO GUSTAVO DELFANTE",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "22359",
+   "Jug_Sale": "JUAN CARLOS MUSSIO",
+   "CarneEntra": "28626",
+   "Jug_Entra": "JUAN JOSE MALACIC",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46359",
+   "Jug_Sale": "GERARDO ANDRES FERRARI",
+   "CarneEntra": "17929",
+   "Jug_Entra": "GONZALO JORGE TAGLIAFERRO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49350",
+   "Jug_Sale": "DIEGO GUSTAVO DELFANTE",
+   "CarneEntra": "19368",
+   "Jug_Entra": "LUCAS SOTELO",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47402",
+   "Jug_Sale": "MANUEL SOTELO",
+   "CarneEntra": "66997",
+   "Jug_Entra": "ERNESTO ACUÑA",
+   "camiseta": "8",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "14519",
+   "Nombre": "JOSE IGNACIO ROQUETA",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "21923",
+   "Nombre": "RAFAEL MONZON",
+   "minutos": "77",
+   "EnContra": "0"
+  },
+  {
+   "carne": "22873",
+   "Nombre": "PEDRO MARCO TURTURIELLO",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "48821",
+   "Nombre": "JOAQUIN ANDRES ZUNINO",
+   "minutos": "29",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ANDRES MARCOS COPPOLA",
+   "observaciones": ""
+  }
+ ]
+}

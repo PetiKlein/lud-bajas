@@ -1,0 +1,220 @@
+{
+ "id": "98763",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "SANDY FUTBOL",
+ "local": "RESISTENCIA",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "156",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "SANDY FUTBOL",
+  "Fecha_Inicio": "2026-05-16 11:15:00",
+  "Fecha_fin": "2026-05-16 11:15:00",
+  "Locatario": "RESISTENCIA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "22462",
+   "Nombre": "PEDRO CAPRANI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "53274",
+   "Nombre": "FACUNDO JOSE MELGAR",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "26679",
+   "Nombre": "PABLO FREIRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "23532",
+   "Nombre": "RODRIGO IBACETA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26846",
+   "Nombre": "RODRIGO ROCHA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "23840",
+   "Nombre": "RODRIGO AÑON",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "24879",
+   "Nombre": "DIEGO NICOLAS RIOLFO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "23048",
+   "Nombre": "GONZALO ANDRES MAQUIEIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19902",
+   "Nombre": "SEBASTIAN MOTTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "34591",
+   "Nombre": "GUILLERMO PINO",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "29781",
+   "Nombre": "EMANUEL BURGUEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "35744",
+   "Nombre": "CARLOS VELLOZAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "25350",
+   "Nombre": "BRUNO CARLO BERTOLOTTI",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "27667",
+   "Nombre": "HUGO AGUSTIN NIETO",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31631",
+   "Nombre": "GUILLERMO LUIS PASTORINI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "20022",
+   "Nombre": "ALFONSO PRADERIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "27517",
+   "Nombre": "GONZALO BORGES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "29948",
+   "Nombre": "ENRRICO ROSSI",
+   "camiseta": "35",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23840",
+   "Jug_Sale": "RODRIGO AÑON",
+   "CarneEntra": "25142",
+   "Jug_Entra": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "26846",
+   "Jug_Sale": "RODRIGO ROCHA",
+   "CarneEntra": "49856",
+   "Jug_Entra": "MAURICIO JAVIER DAL MONTE",
+   "camiseta": "6",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "24879",
+   "Jug_Sale": "DIEGO NICOLAS RIOLFO",
+   "CarneEntra": "23891",
+   "Jug_Entra": "SEBASTIAN GALISTEO",
+   "camiseta": "11",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "25651",
+   "Jug_Sale": "CRISTIAN AROCHA",
+   "CarneEntra": "23885",
+   "Jug_Entra": "MAURICIO DANIEL HERNANDEZ",
+   "camiseta": "21",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "minutos": "9",
+   "EnContra": "0"
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "minutos": "14",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

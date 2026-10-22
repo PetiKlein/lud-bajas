@@ -1,0 +1,283 @@
+{
+ "id": "100883",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+ "local": "HEBRAICA UNIVERSITARIO",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "114",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "CAM. DEP. ASOC. HEBRAICA Y MAC",
+  "Fecha_Inicio": "2026-08-15 11:00:00",
+  "Fecha_fin": "2026-08-15 11:00:00",
+  "Locatario": "HEBRAICA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32001",
+   "Nombre": "GIOVANNI ZEOLI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "24718",
+   "Nombre": "NICOLAS OPER",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20057",
+   "Nombre": "DIEGO MARCEL KACOWICZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "32888",
+   "Nombre": "DIEGO DAVID SONSOL",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "23924",
+   "Nombre": "MARTIN SCHINDLER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "37102",
+   "Nombre": "NICOLAS DIEGO MARIÑANSKY",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "26234",
+   "Nombre": "FEDERICO SCHINDLER",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "30253",
+   "Nombre": "SANTIAGO SAUL",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "44950",
+   "Nombre": "DIEGO LIPATIN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "22778",
+   "Nombre": "ALAN GRAUSER",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "40919",
+   "Nombre": "DIEGO GONZALEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53628",
+   "Nombre": "BRUNO DAVID GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32437",
+   "Nombre": "EMILIANO MARQUES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "29258",
+   "Nombre": "JUAN MARTIN BORCHES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59140",
+   "Nombre": "DIEGO ANDRES LOPEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "31286",
+   "Nombre": "GONZALO CASANOVA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "31284",
+   "Nombre": "FELIPE MARIA CALZA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "39765",
+   "Nombre": "PABLO PARADA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "29119",
+   "Nombre": "ALEJANDRO JUAN RAIZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "17299",
+   "Nombre": "JOSE PEDRO CARZOLIO",
+   "camiseta": "31",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27583",
+   "Nombre": "ESTEBAN DAVID ZAPATA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "23766",
+   "Nombre": "SEBASTIAN DE MARTINO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "22778",
+   "Jug_Sale": "ALAN GRAUSER",
+   "CarneEntra": "30530",
+   "Jug_Entra": "PABLO DULCINI",
+   "camiseta": "13",
+   "minutos": "12"
+  },
+  {
+   "CarneSale": "20057",
+   "Jug_Sale": "DIEGO MARCEL KACOWICZ",
+   "CarneEntra": "23109",
+   "Jug_Entra": "MAURICIO ALBERICO MARQUEZ",
+   "camiseta": "1",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "37102",
+   "Jug_Sale": "NICOLAS DIEGO MARIÑANSKY",
+   "CarneEntra": "21338",
+   "Jug_Entra": "ALAN PAUL MIZRAJI",
+   "camiseta": "15",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "44950",
+   "Jug_Sale": "DIEGO LIPATIN",
+   "CarneEntra": "31806",
+   "Jug_Entra": "DANIEL NICOLAS ROSETTI",
+   "camiseta": "10",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "40919",
+   "Jug_Sale": "DIEGO GONZALEZ",
+   "CarneEntra": "37102",
+   "Jug_Entra": "NICOLAS DIEGO MARIÑANSKY",
+   "camiseta": "23",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "32437",
+   "Jug_Sale": "EMILIANO MARQUES",
+   "CarneEntra": "30056",
+   "Jug_Entra": "DIEGO JUAN REQUENA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29258",
+   "Jug_Sale": "JUAN MARTIN BORCHES",
+   "CarneEntra": "31298",
+   "Jug_Entra": "SANTIAGO OMAR TORIJA",
+   "camiseta": "15",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "23766",
+   "Jug_Sale": "SEBASTIAN DE MARTINO",
+   "CarneEntra": "31496",
+   "Jug_Entra": "GERMAN MIRAGLIA",
+   "camiseta": "20",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "27583",
+   "Jug_Sale": "ESTEBAN DAVID ZAPATA",
+   "CarneEntra": "36099",
+   "Jug_Entra": "EZEQUIEL ROJAS",
+   "camiseta": "19",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "29119",
+   "Jug_Sale": "ALEJANDRO JUAN RAIZ",
+   "CarneEntra": "31303",
+   "Jug_Entra": "FACUNDO BRIZ",
+   "camiseta": "16",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "31284",
+   "Jug_Sale": "FELIPE MARIA CALZA",
+   "CarneEntra": "33465",
+   "Jug_Entra": "PEDRO ISIDORO ROJA",
+   "camiseta": "45",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "27583",
+   "Nombre": "ESTEBAN DAVID ZAPATA",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27583",
+   "Nombre": "ESTEBAN DAVID ZAPATA",
+   "minutos": "68",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27583",
+   "Nombre": "ESTEBAN DAVID ZAPATA",
+   "minutos": "74",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

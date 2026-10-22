@@ -1,0 +1,345 @@
+{
+ "id": "99899",
+ "categoria": "sub16",
+ "serie": "16-4-",
+ "fecha": 7,
+ "fechaHora": "2026-06-11 19:00:00",
+ "cancha": "BRITISH SCHOOL",
+ "local": "ACADEMIA FRM",
+ "visitante": "THE BRITISH SCHOOL",
+ "gl": 0,
+ "gv": 8,
+ "detalle": {
+  "nro_partido": "112",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 4",
+  "Cancha": "BRITISH SCHOOL",
+  "Fecha_Inicio": "2026-06-11 20:40:00",
+  "Fecha_fin": "2026-06-11 20:40:00",
+  "Locatario": "ACADEMIA FRM",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "THE BRITISH SCHOOL",
+  "goles_visitante": "8",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61085",
+   "Nombre": "FABRIZIO PERRONE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61168",
+   "Nombre": "LAUTARO BASTOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64940",
+   "Nombre": "FACUNDO EMANUEL PEGORRARO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62765",
+   "Nombre": "BENJAMIN DELGADO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63498",
+   "Nombre": "BRUNO SOUZA",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "62960",
+   "Nombre": "SANTINO BENEDETTI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61725",
+   "Nombre": "IGNACIO RIVERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63864",
+   "Nombre": "ELIAS TIMOTEO DA SILVA",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "68599",
+   "Nombre": "FEDERICO GABRIEL GACEL",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "62762",
+   "Nombre": "JAVIER CABRERA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65657",
+   "Nombre": "MATIAS OXANDABARAT",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61654",
+   "Nombre": "JUAN MANUEL MOREIRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "63186",
+   "Nombre": "JUAN SEBASTIAN JIMENEZ DE ARECHAGA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "65049",
+   "Nombre": "JUAN ALFONSO ODDONE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "62989",
+   "Nombre": "BENJAMIN RISSO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "65066",
+   "Nombre": "JAVIER JOSE FLEURQUIN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65036",
+   "Nombre": "SANTIAGO TORRES",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "62239",
+   "Nombre": "ANDRES TERCERO PEREZ DEL CASTILLO",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "65058",
+   "Nombre": "IGNACIO AGUSTIN NOVEGIL",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "65053",
+   "Nombre": "JUAN BOSCH",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65064",
+   "Nombre": "JUAN MARTIN FRECHOU",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61665",
+   "Nombre": "JUAN MIGUEL AGUERRE",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61168",
+   "Jug_Sale": "LAUTARO BASTOS",
+   "CarneEntra": "68394",
+   "Jug_Entra": "LEANDRO NICOLAS LIMA",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63864",
+   "Jug_Sale": "ELIAS TIMOTEO DA SILVA",
+   "CarneEntra": "64946",
+   "Jug_Entra": "MATEO NODAR",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65657",
+   "Jug_Sale": "MATIAS OXANDABARAT",
+   "CarneEntra": "68598",
+   "Jug_Entra": "MATEO ABREU",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63498",
+   "Jug_Sale": "BRUNO SOUZA",
+   "CarneEntra": "68127",
+   "Jug_Entra": "ALEJO EZEQUIEL LEFKO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62960",
+   "Jug_Sale": "SANTINO BENEDETTI",
+   "CarneEntra": "62963",
+   "Jug_Entra": "VALENTIN MANUEL RODRIGUEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68394",
+   "Jug_Sale": "LEANDRO NICOLAS LIMA",
+   "CarneEntra": "63498",
+   "Jug_Entra": "BRUNO SOUZA",
+   "camiseta": "43",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "68127",
+   "Jug_Sale": "ALEJO EZEQUIEL LEFKO",
+   "CarneEntra": "61168",
+   "Jug_Entra": "LAUTARO BASTOS",
+   "camiseta": "9",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62963",
+   "Jug_Sale": "VALENTIN MANUEL RODRIGUEZ",
+   "CarneEntra": "63864",
+   "Jug_Entra": "ELIAS TIMOTEO DA SILVA",
+   "camiseta": "54",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62765",
+   "Jug_Sale": "BENJAMIN DELGADO",
+   "CarneEntra": "65657",
+   "Jug_Entra": "MATIAS OXANDABARAT",
+   "camiseta": "28",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65066",
+   "Jug_Sale": "JAVIER JOSE FLEURQUIN",
+   "CarneEntra": "61599",
+   "Jug_Entra": "ALFONSO MAILHOS",
+   "camiseta": "91",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "61665",
+   "Jug_Sale": "JUAN MIGUEL AGUERRE",
+   "CarneEntra": "62241",
+   "Jug_Entra": "BENJAMIN ALBERTO BRAUSE",
+   "camiseta": "32",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "65064",
+   "Jug_Sale": "JUAN MARTIN FRECHOU",
+   "CarneEntra": "65060",
+   "Jug_Entra": "FRANZ SEDELMAYR",
+   "camiseta": "21",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "62239",
+   "Jug_Sale": "ANDRES TERCERO PEREZ DEL CASTILLO",
+   "CarneEntra": "65039",
+   "Jug_Entra": "ALFONSO CASTILLO",
+   "camiseta": "37",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "65049",
+   "Jug_Sale": "JUAN ALFONSO ODDONE",
+   "CarneEntra": "65063",
+   "Jug_Entra": "VICENTE PONCE DE LEON",
+   "camiseta": "15",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "63186",
+   "Jug_Sale": "JUAN SEBASTIAN JIMENEZ DE ARECHAGA",
+   "CarneEntra": "61657",
+   "Jug_Entra": "AGUSTIN SCASSO",
+   "camiseta": "29",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "61665",
+   "Nombre": "JUAN MIGUEL AGUERRE",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62239",
+   "Nombre": "ANDRES TERCERO PEREZ DEL CASTILLO",
+   "minutos": "11",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62989",
+   "Nombre": "BENJAMIN RISSO",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65036",
+   "Nombre": "SANTIAGO TORRES",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65053",
+   "Nombre": "JUAN BOSCH",
+   "minutos": "5",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65053",
+   "Nombre": "JUAN BOSCH",
+   "minutos": "31",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65053",
+   "Nombre": "JUAN BOSCH",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65053",
+   "Nombre": "JUAN BOSCH",
+   "minutos": "76",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,272 @@
+{
+ "id": "102291",
+ "categoria": "mas40-a",
+ "serie": "40CP",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "HEBRAICA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "433",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAS40 \"A\" PERM. y DESC.",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-09-26 13:15:00",
+  "Fecha_fin": "2026-09-26 13:15:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "HEBRAICA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "19892",
+   "Nombre": "ULISES DANIEL VARELA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19424",
+   "Nombre": "RODRIGO NICOLAS SOTELO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "19499",
+   "Nombre": "NICOLAS DANIEL MUNIZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "23625",
+   "Nombre": "GEORGE ANDRES GRUNERT",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "13973",
+   "Nombre": "MARTIN FUENTES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "12928",
+   "Nombre": "JAVIER ANDRES LUSSICH",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "22221",
+   "Nombre": "EDUARDO ALBISTUR",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "17068",
+   "Nombre": "RAFAEL FEDERICO MORATO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "15973",
+   "Nombre": "JUAN AGUSTIN ORTIZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "18210",
+   "Nombre": "DIEGO RIVAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "18909",
+   "Nombre": "HECTOR DANIEL EROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "21670",
+   "Nombre": "ELI PERELMUTER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26410",
+   "Nombre": "MATIAS MOSCONA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "44715",
+   "Nombre": "DIEGO PERELMUTER",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "18964",
+   "Nombre": "FABIAN BIRNBAUM",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "15031",
+   "Nombre": "JULIO HERMAN BANEWUR",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "19096",
+   "Nombre": "ARI KACZKA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26078",
+   "Nombre": "FEDERICO WOLF CHEBI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "28249",
+   "Nombre": "MAURO RADZINSKI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "19947",
+   "Nombre": "DENNY LIAM BRECHNER",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "17086",
+   "Nombre": "OSCAR DIEGO FALERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "36064",
+   "Nombre": "DIEGO GONZALO CIAPPESONI",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "22221",
+   "Jug_Sale": "EDUARDO ALBISTUR",
+   "CarneEntra": "18239",
+   "Jug_Entra": "CESAR ANDRES SANGUINETTI",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15973",
+   "Jug_Sale": "JUAN AGUSTIN ORTIZ",
+   "CarneEntra": "19506",
+   "Jug_Entra": "ALEJANDRO FERRARI",
+   "camiseta": "12",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "18909",
+   "Jug_Sale": "HECTOR DANIEL EROSA",
+   "CarneEntra": "17650",
+   "Jug_Entra": "NICOLAS GERMAN FERNANDEZ",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "18210",
+   "Jug_Sale": "DIEGO RIVAS",
+   "CarneEntra": "12928",
+   "Jug_Entra": "JAVIER ANDRES LUSSICH",
+   "camiseta": "29",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "17068",
+   "Jug_Sale": "RAFAEL FEDERICO MORATO",
+   "CarneEntra": "16308",
+   "Jug_Entra": "JAVIER JORGE FERNANDEZ",
+   "camiseta": "22",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "15031",
+   "Jug_Sale": "JULIO HERMAN BANEWUR",
+   "CarneEntra": "20627",
+   "Jug_Entra": "MARTIN BERENSTEIN",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36064",
+   "Jug_Sale": "DIEGO GONZALO CIAPPESONI",
+   "CarneEntra": "15031",
+   "Jug_Entra": "JULIO HERMAN BANEWUR",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "17086",
+   "Jug_Sale": "OSCAR DIEGO FALERO",
+   "CarneEntra": "36064",
+   "Jug_Entra": "DIEGO GONZALO CIAPPESONI",
+   "camiseta": "12",
+   "minutos": "69"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "13973",
+   "Nombre": "MARTIN FUENTES",
+   "minutos": "26",
+   "EnContra": "0"
+  },
+  {
+   "carne": "18210",
+   "Nombre": "DIEGO RIVAS",
+   "minutos": "74",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "19096",
+   "Nombre": "ARI KACZKA",
+   "minutos": "20",
+   "EnContra": "1"
+  },
+  {
+   "carne": "19096",
+   "Nombre": "ARI KACZKA",
+   "minutos": "29",
+   "EnContra": "1"
+  },
+  {
+   "carne": "20627",
+   "Nombre": "MARTIN BERENSTEIN",
+   "minutos": "84",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

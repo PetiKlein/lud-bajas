@@ -1,0 +1,341 @@
+{
+ "id": "97933",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "UNIVERSITARIO VERONES",
+ "visitante": "GOMENSORO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "3",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-04-11 00:00:00",
+  "Fecha_fin": "2026-04-11 00:00:00",
+  "Locatario": "UNIVERSITARIO VERONES",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "GOMENSORO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63287",
+   "Nombre": "RICARDO DANIEL PAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36484",
+   "Nombre": "SEBASTIAN GIORDANO BASSI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "17615",
+   "Nombre": "LUIS IGNACIO ILLARRAMENDI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26150",
+   "Nombre": "JESUS GABRIEL LARROSA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "33519",
+   "Nombre": "PABLO BERMUDEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "13911",
+   "Nombre": "FABRICIO GASTON PRIETO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "19369",
+   "Nombre": "LUIS IGNACIO FORTE",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32302",
+   "Nombre": "HECTOR MARCELO PEREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38761",
+   "Nombre": "CHRISTIANS ADRIAN QUIMBO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "57254",
+   "Nombre": "JORGE ANIBAL DIAZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "40522",
+   "Nombre": "PABLO MIGUEL OTTONELLI",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "23296",
+   "Nombre": "WASHINGTON RICARDO SANTANA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30341",
+   "Nombre": "GUILLERMO LARROQUE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "15792",
+   "Nombre": "JUAN RAMON PAEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "24555",
+   "Nombre": "DIEGO TARAMASCO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "17096",
+   "Nombre": "JULIAN CARVE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "15471",
+   "Nombre": "IGNACIO VAZQUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "17030",
+   "Nombre": "JUAN DIEGO LARROQUE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "13368",
+   "Nombre": "MARTIN ANDRES OLIVERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "28905",
+   "Nombre": "BRUNO NICOLAS LAGOMARSINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "32302",
+   "Jug_Sale": "HECTOR MARCELO PEREZ",
+   "CarneEntra": "17985",
+   "Jug_Entra": "GASTON ALEXIS DUARTE",
+   "camiseta": "5",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "33519",
+   "Jug_Sale": "PABLO BERMUDEZ",
+   "CarneEntra": "25293",
+   "Jug_Entra": "NICOLAS GALUP",
+   "camiseta": "8",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "26150",
+   "Jug_Sale": "JESUS GABRIEL LARROSA",
+   "CarneEntra": "57254",
+   "Jug_Entra": "JORGE ANIBAL DIAZ",
+   "camiseta": "23",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "17615",
+   "Jug_Sale": "LUIS IGNACIO ILLARRAMENDI",
+   "CarneEntra": "14035",
+   "Jug_Entra": "LEONARDO FABIAN VALLEJO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38761",
+   "Jug_Sale": "CHRISTIANS ADRIAN QUIMBO",
+   "CarneEntra": "32893",
+   "Jug_Entra": "MAURICIO ANDRES REFRESQUINI",
+   "camiseta": "85",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19369",
+   "Jug_Sale": "LUIS IGNACIO FORTE",
+   "CarneEntra": "16647",
+   "Jug_Entra": "FERNANDO DANIEL BETARTE",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "13911",
+   "Jug_Sale": "FABRICIO GASTON PRIETO",
+   "CarneEntra": "35285",
+   "Jug_Entra": "JULIO BRAYAN MELLO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57254",
+   "Jug_Sale": "JORGE ANIBAL DIAZ",
+   "CarneEntra": "35143",
+   "Jug_Entra": "DAVIS STEVEN SANCHEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "40522",
+   "Jug_Sale": "PABLO MIGUEL OTTONELLI",
+   "CarneEntra": "33515",
+   "Jug_Entra": "GASTON FERNANDEZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32893",
+   "Jug_Sale": "MAURICIO ANDRES REFRESQUINI",
+   "CarneEntra": "40522",
+   "Jug_Entra": "PABLO MIGUEL OTTONELLI",
+   "camiseta": "25",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "35143",
+   "Jug_Sale": "DAVIS STEVEN SANCHEZ",
+   "CarneEntra": "19369",
+   "Jug_Entra": "LUIS IGNACIO FORTE",
+   "camiseta": "12",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30341",
+   "Jug_Sale": "GUILLERMO LARROQUE",
+   "CarneEntra": "20527",
+   "Jug_Entra": "NICOLAS RIENZI",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15471",
+   "Jug_Sale": "IGNACIO VAZQUEZ",
+   "CarneEntra": "28755",
+   "Jug_Entra": "JOSE ANDRES LOPEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17096",
+   "Jug_Sale": "JULIAN CARVE",
+   "CarneEntra": "17425",
+   "Jug_Entra": "DIEGO SCLEIDOROVICH",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "13368",
+   "Jug_Sale": "MARTIN ANDRES OLIVERA",
+   "CarneEntra": "14903",
+   "Jug_Entra": "TAZIO SCALDAFERRI",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24555",
+   "Jug_Sale": "DIEGO TARAMASCO",
+   "CarneEntra": "20528",
+   "Jug_Entra": "DIEGO TRAVERS",
+   "camiseta": "21",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "17030",
+   "Jug_Sale": "JUAN DIEGO LARROQUE",
+   "CarneEntra": "22061",
+   "Jug_Entra": "MARCELO ARIEL AMARAL",
+   "camiseta": "19",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "40476",
+   "Jug_Sale": "JOSE MANUEL CAYAFFA",
+   "CarneEntra": "14859",
+   "Jug_Entra": "PABLO JAVIER AITA",
+   "camiseta": "22",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "28905",
+   "Jug_Sale": "BRUNO NICOLAS LAGOMARSINO",
+   "CarneEntra": "21662",
+   "Jug_Entra": "MARIO DARMI ALVEZ",
+   "camiseta": "2",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "14903",
+   "Nombre": "TAZIO SCALDAFERRI",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "40476",
+   "Nombre": "JOSE MANUEL CAYAFFA",
+   "minutos": "20",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

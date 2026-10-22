@@ -1,0 +1,285 @@
+{
+ "id": "97967",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "MONTE VI \"LOS CEIBOS\"",
+ "local": "CEIBOS CLUB",
+ "visitante": "OLD WOODLANDS CLUB",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "243",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "MONTE VI \"LOS CEIBOS\"",
+  "Fecha_Inicio": "2026-04-11 11:00:00",
+  "Fecha_fin": "2026-04-11 11:00:00",
+  "Locatario": "CEIBOS CLUB",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "OLD WOODLANDS CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32002",
+   "Nombre": "GIOVANNI PAOLO VIGNOTTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32081",
+   "Nombre": "GONZALO TRAPP",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "22441",
+   "Nombre": "SANTIAGO JORGE KIRIAKIDIS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "21512",
+   "Nombre": "JUAN MARTIN DIAZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "32341",
+   "Nombre": "AGUSTIN ALVARO VIDAL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "20250",
+   "Nombre": "ALEJANDRO MARIA GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "18098",
+   "Nombre": "CARLOS JAVIER MORALES",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30514",
+   "Nombre": "FRANCISCO JOSE DIAZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "39059",
+   "Nombre": "GUILLERMO JOSE BARREIRO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "36768",
+   "Nombre": "FACUNDO SILVEIRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "30061",
+   "Nombre": "FEDERICO ILDEFONSO GARCIA",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "35551",
+   "Nombre": "JOAQUIN APARICIO GUADALUPE",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "28224",
+   "Nombre": "IGNACIO JOSE IRAOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "32011",
+   "Nombre": "JOAQUIN DELUCCA",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32402",
+   "Nombre": "FERNANDO VALDEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "37661",
+   "Nombre": "JUAN AGUSTIN DIAZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "35773",
+   "Nombre": "CARLOS ANDRES GARBUYO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "34974",
+   "Nombre": "FRANCO COLELLA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "25993",
+   "Nombre": "CLAUDIO HERRERA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "31892",
+   "Nombre": "TOMAS DELUCCA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "39865",
+   "Nombre": "JUAN MANUEL BIDEGAIN",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "35465",
+   "Nombre": "JUAN IGNACIO MONTANS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "20250",
+   "Jug_Sale": "ALEJANDRO MARIA GONZALEZ",
+   "CarneEntra": "24858",
+   "Jug_Entra": "JUAN IGNACIO KIRIAKIDIS",
+   "camiseta": "9",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "39059",
+   "Jug_Sale": "GUILLERMO JOSE BARREIRO",
+   "CarneEntra": "22537",
+   "Jug_Entra": "SANTIAGO ANTONIOL",
+   "camiseta": "2",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "30514",
+   "Jug_Sale": "FRANCISCO JOSE DIAZ",
+   "CarneEntra": "28104",
+   "Jug_Entra": "GUZMAN FEDERICO DE CASTRO",
+   "camiseta": "17",
+   "minutos": "67"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37661",
+   "Jug_Sale": "JUAN AGUSTIN DIAZ",
+   "CarneEntra": "44965",
+   "Jug_Entra": "MAX ALEGRE",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25993",
+   "Jug_Sale": "CLAUDIO HERRERA",
+   "CarneEntra": "18017",
+   "Jug_Entra": "NICOLAS PIROTTO",
+   "camiseta": "45",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "39865",
+   "Jug_Sale": "JUAN MANUEL BIDEGAIN",
+   "CarneEntra": "36822",
+   "Jug_Entra": "MARTIN CABANELAS",
+   "camiseta": "97",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "32011",
+   "Jug_Sale": "JOAQUIN DELUCCA",
+   "CarneEntra": "67550",
+   "Jug_Entra": "JUAN JOSE ALONSO",
+   "camiseta": "46",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "36822",
+   "Jug_Sale": "MARTIN CABANELAS",
+   "CarneEntra": "39865",
+   "Jug_Entra": "JUAN MANUEL BIDEGAIN",
+   "camiseta": "95",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "28224",
+   "Jug_Sale": "IGNACIO JOSE IRAOLA",
+   "CarneEntra": "35791",
+   "Jug_Entra": "MARCOS HONTOU",
+   "camiseta": "30",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "18098",
+   "Nombre": "CARLOS JAVIER MORALES",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "22441",
+   "Nombre": "SANTIAGO JORGE KIRIAKIDIS",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "36768",
+   "Nombre": "FACUNDO SILVEIRA",
+   "minutos": "61",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31892",
+   "Nombre": "TOMAS DELUCCA",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31892",
+   "Nombre": "TOMAS DELUCCA",
+   "minutos": "37",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "CLAUDIO HERRERA",
+   "observaciones": ""
+  }
+ ]
+}

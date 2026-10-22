@@ -1,0 +1,309 @@
+{
+ "id": "100318",
+ "categoria": "sub16",
+ "serie": "16-32",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 13:30:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "A.E.B.U",
+ "gl": 7,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "197",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 3 RUEDA 2",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-06-21 15:10:00",
+  "Fecha_fin": "2026-06-21 15:10:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "7",
+  "puntos_locatario": "3",
+  "Visitante": "A.E.B.U",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64675",
+   "Nombre": "LUCAS PUCCIARELLI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63918",
+   "Nombre": "FELIPE MORIS",
+   "camiseta": "34",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64007",
+   "Nombre": "LAUTARO FERNANDEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62740",
+   "Nombre": "FELIPE CLEMENT",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63942",
+   "Nombre": "SANTINO MORISIO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "65044",
+   "Nombre": "NICOLAS CUELLO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "63037",
+   "Nombre": "NICOLAS SZAMES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "65573",
+   "Nombre": "BENJAMIN ALISKEVICH",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "66320",
+   "Nombre": "BENJAMIN GRUDZIEN",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "63920",
+   "Nombre": "FELIPE ZUBILLAGA",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "63921",
+   "Nombre": "JOAQUIN ZUBILLAGA",
+   "camiseta": "74",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67290",
+   "Nombre": "DIEGO FERNANDO NICOLENCO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67231",
+   "Nombre": "CAMILO MARTIN PEREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "65130",
+   "Nombre": "FELIPE CUETO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "68025",
+   "Nombre": "JAHAZIEL ANDRES GALANTON",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68641",
+   "Nombre": "BENICIO CAYAFFA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68501",
+   "Nombre": "JOAQUIN VIERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67733",
+   "Nombre": "ALEJANDRO MARRERO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "67228",
+   "Nombre": "THIAGO PEREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65128",
+   "Nombre": "RONALD CASTELLON",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67229",
+   "Nombre": "VALENTIN CABRERA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65139",
+   "Nombre": "DANIEL ANTONIO LEYVA",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63920",
+   "Jug_Sale": "FELIPE ZUBILLAGA",
+   "CarneEntra": "65599",
+   "Jug_Entra": "SEBASTIAN MARTINEZ",
+   "camiseta": "33",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "64007",
+   "Jug_Sale": "LAUTARO FERNANDEZ",
+   "CarneEntra": "63919",
+   "Jug_Entra": "SANTINO AMAYA",
+   "camiseta": "32",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "65573",
+   "Jug_Sale": "BENJAMIN ALISKEVICH",
+   "CarneEntra": "65411",
+   "Jug_Entra": "FRANCISCO IGLESIA",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66320",
+   "Jug_Sale": "BENJAMIN GRUDZIEN",
+   "CarneEntra": "68787",
+   "Jug_Entra": "PEDRO BURGHI",
+   "camiseta": "58",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65139",
+   "Jug_Sale": "DANIEL ANTONIO LEYVA",
+   "CarneEntra": "65422",
+   "Jug_Entra": "AGUSTIN NUÑEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67229",
+   "Jug_Sale": "VALENTIN CABRERA",
+   "CarneEntra": "65133",
+   "Jug_Entra": "MARCO STEFANO FERRANTY",
+   "camiseta": "7",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "67228",
+   "Jug_Sale": "THIAGO PEREZ",
+   "CarneEntra": "65420",
+   "Jug_Entra": "CONSTANTINO CABRERA",
+   "camiseta": "10",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "68501",
+   "Jug_Sale": "JOAQUIN VIERA",
+   "CarneEntra": "67732",
+   "Jug_Entra": "ALEX GABRIEL HORNOS",
+   "camiseta": "50",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "68641",
+   "Jug_Sale": "BENICIO CAYAFFA",
+   "CarneEntra": "65135",
+   "Jug_Entra": "TIAGO REY",
+   "camiseta": "11",
+   "minutos": "67"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62740",
+   "Nombre": "FELIPE CLEMENT",
+   "minutos": "56",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62740",
+   "Nombre": "FELIPE CLEMENT",
+   "minutos": "73",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63037",
+   "Nombre": "NICOLAS SZAMES",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65044",
+   "Nombre": "NICOLAS CUELLO",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65044",
+   "Nombre": "NICOLAS CUELLO",
+   "minutos": "66",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65573",
+   "Nombre": "BENJAMIN ALISKEVICH",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68787",
+   "Nombre": "PEDRO BURGHI",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "65130",
+   "Nombre": "FELIPE CUETO",
+   "minutos": "78",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68641",
+   "Nombre": "BENICIO CAYAFFA",
+   "minutos": "6",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ALEJANDRO MARRERO",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "id": "99515",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 6,
+ "fechaHora": "2026-05-31 13:30:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "POCO SITIO PLAYA VERDE",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "23",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-05-31 15:20:00",
+  "Fecha_fin": "2026-05-31 15:20:00",
+  "Locatario": "POCO SITIO PLAYA VERDE",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68723",
+   "Nombre": "MATIAS ARMAND UGON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67120",
+   "Nombre": "FAUSTINO BACHINI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67118",
+   "Nombre": "PAOLO FORNARI TASHIRO",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67115",
+   "Nombre": "NICOLAS STORACE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67110",
+   "Nombre": "JOAQUIN MENDOZA IZETTA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "67973",
+   "Nombre": "LUCAS CASTRO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67123",
+   "Nombre": "FELIPE SALVIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67970",
+   "Nombre": "FEDERICO LUMACA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64430",
+   "Nombre": "JOAQUIN FERNANDO PERLA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67126",
+   "Nombre": "JUAN IGNACIO VIEITES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67117",
+   "Nombre": "FELIPE CONDON",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64328",
+   "Nombre": "LORENZO BRUNO PEZZANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66948",
+   "Nombre": "FACUNDO RADESCA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67409",
+   "Nombre": "ALEJO CONDE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63038",
+   "Nombre": "FELIPE LIGÜERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67406",
+   "Nombre": "BAUTISTA APRAHAMIAN",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "66945",
+   "Nombre": "FACUNDO PERERA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "60486",
+   "Nombre": "JUAN PEDRO ALVEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "64890",
+   "Nombre": "MARTIN PONCE DE LEON",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66951",
+   "Nombre": "MANUEL VILENSKY",
+   "camiseta": "81",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67970",
+   "Jug_Sale": "FEDERICO LUMACA",
+   "CarneEntra": "68582",
+   "Jug_Entra": "BENJAMIN DEMATTE",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64430",
+   "Jug_Sale": "JOAQUIN FERNANDO PERLA",
+   "CarneEntra": "67115",
+   "Jug_Entra": "NICOLAS STORACE",
+   "camiseta": "4",
+   "minutos": "56"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66951",
+   "Jug_Sale": "MANUEL VILENSKY",
+   "CarneEntra": "64330",
+   "Jug_Entra": "BAUTISTA TRIGO",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67406",
+   "Jug_Sale": "BAUTISTA APRAHAMIAN",
+   "CarneEntra": "68188",
+   "Jug_Entra": "JUAN CRUZ BENKO",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60486",
+   "Jug_Sale": "JUAN PEDRO ALVEZ",
+   "CarneEntra": "66947",
+   "Jug_Entra": "TOMAS VILENSKY",
+   "camiseta": "56",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66948",
+   "Jug_Sale": "FACUNDO RADESCA",
+   "CarneEntra": "65916",
+   "Jug_Entra": "EMILIANO PUJADAS",
+   "camiseta": "66",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63038",
+   "Jug_Sale": "FELIPE LIGÜERA",
+   "CarneEntra": "64892",
+   "Jug_Entra": "VICENTE DE ROSA",
+   "camiseta": "12",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "63461",
+   "Jug_Sale": "GUILLERMO SPILLER",
+   "CarneEntra": "64334",
+   "Jug_Entra": "LEANDRO BARRIOLA",
+   "camiseta": "28",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "64328",
+   "Jug_Sale": "LORENZO BRUNO PEZZANI",
+   "CarneEntra": "66944",
+   "Jug_Entra": "EMANUEL GERARDI",
+   "camiseta": "30",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "66950",
+   "Jug_Sale": "FRANCISCO CHIAPPORI",
+   "CarneEntra": "66951",
+   "Jug_Entra": "MANUEL VILENSKY",
+   "camiseta": "81",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "61",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "68",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64890",
+   "Nombre": "MARTIN PONCE DE LEON",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "minutos": "69",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67406",
+   "Nombre": "BAUTISTA APRAHAMIAN",
+   "minutos": "9",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

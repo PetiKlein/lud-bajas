@@ -1,0 +1,238 @@
+{
+ "id": "99105",
+ "categoria": "mas40-c",
+ "serie": "40S22",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:30:00",
+ "cancha": "COMPLEJO ABUA",
+ "local": "UNIVERSIDAD DE MONTEVIDEO",
+ "visitante": "DEPORTIVO MORON",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "267",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 1",
+  "Cancha": "COMPLEJO ABUA",
+  "Fecha_Inicio": "2026-05-23 13:10:00",
+  "Fecha_fin": "2026-05-23 13:10:00",
+  "Locatario": "UNIVERSIDAD DE MONTEVIDEO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "DEPORTIVO MORON",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "9204",
+   "Nombre": "MARCELO RAUL LORENZO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "42605",
+   "Nombre": "NESTOR SCLAVI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "20413",
+   "Nombre": "GABRIEL CARRIQUIRY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "16267",
+   "Nombre": "ALEJANDRO FEDERICO YOUNG",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24784",
+   "Nombre": "RODRIGO ANTONIO VAZQUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "23543",
+   "Nombre": "SARKIS DANIEL ICHKHANIAN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "30169",
+   "Nombre": "DAMIANO TIERI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "35458",
+   "Nombre": "JULIO ANDRES GADEA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46506",
+   "Nombre": "DIEGO PEREZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "47400",
+   "Nombre": "ESTEBAN DANIEL GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "24432",
+   "Nombre": "MARCELO JAVIER SOSA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52385",
+   "Nombre": "PABLO MARTIN SANTESTEBAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63890",
+   "Nombre": "GUSTAVO ENRIQUE COSTAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67568",
+   "Nombre": "GASTON LEIVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66459",
+   "Nombre": "IGNACIO DE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "18199",
+   "Nombre": "NICOLAS LOPEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "39708",
+   "Nombre": "ANIBAL LEONARDO BARRIOS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "31628",
+   "Nombre": "MARCELO PACHECO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "26147",
+   "Nombre": "ALEJANDRO JAVIER CIMAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57477",
+   "Nombre": "RICHARD ARTURO GENOVESE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "19530",
+   "Nombre": "ALEJANDRO BENTANCUR",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56722",
+   "Nombre": "ALFREDO LAGUARDA",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "30169",
+   "Jug_Sale": "DAMIANO TIERI",
+   "CarneEntra": "47400",
+   "Jug_Entra": "ESTEBAN DANIEL GARCIA",
+   "camiseta": "22",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "47400",
+   "Jug_Sale": "ESTEBAN DANIEL GARCIA",
+   "CarneEntra": "61462",
+   "Jug_Entra": "MARTIN ALEJANDRO LANDER",
+   "camiseta": "9",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57477",
+   "Jug_Sale": "RICHARD ARTURO GENOVESE",
+   "CarneEntra": "53136",
+   "Jug_Entra": "RODRIGO ALONSO",
+   "camiseta": "29",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "67568",
+   "Jug_Sale": "GASTON LEIVA",
+   "CarneEntra": "51564",
+   "Jug_Entra": "GONZALO MARTIN GARATE",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56722",
+   "Jug_Sale": "ALFREDO LAGUARDA",
+   "CarneEntra": "24685",
+   "Jug_Entra": "DIEGO MARTIN CORREA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63890",
+   "Jug_Sale": "GUSTAVO ENRIQUE COSTAS",
+   "CarneEntra": "28668",
+   "Jug_Entra": "SERGIO ANDRES MORGADES",
+   "camiseta": "19",
+   "minutos": "58"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35458",
+   "Nombre": "JULIO ANDRES GADEA",
+   "minutos": "49",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67568",
+   "Nombre": "GASTON LEIVA",
+   "minutos": "27",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

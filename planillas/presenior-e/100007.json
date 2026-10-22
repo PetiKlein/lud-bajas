@@ -1,0 +1,265 @@
+{
+ "id": "100007",
+ "categoria": "presenior-e",
+ "serie": "PSE2",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CLUB ATLETICO AGUADA",
+ "visitante": "OLD CHRISTIANS AZUL",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "566",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 2",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-13 13:10:00",
+  "Fecha_fin": "2026-06-13 13:10:00",
+  "Locatario": "CLUB ATLETICO AGUADA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "OLD CHRISTIANS AZUL",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "27765",
+   "Nombre": "RODRIGO GRILLE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32749",
+   "Nombre": "DIEGO SEBASTIAN SOSA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "32733",
+   "Nombre": "RAMIRO DE LA PUENTE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "36896",
+   "Nombre": "JUAN IGNACIO PEYRO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "28132",
+   "Nombre": "MARTIN ECHEGARAY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "39203",
+   "Nombre": "ANDRY WAY RUIZ DIAZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51188",
+   "Nombre": "FACUNDO MARTIN DIAZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "31934",
+   "Nombre": "JAVIER ANDRES GARCIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33312",
+   "Nombre": "HERNAN RUMBO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "54433",
+   "Nombre": "GONZALO GRILLE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "50541",
+   "Nombre": "MARCELO JUNIOR FERNANDEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54428",
+   "Nombre": "JOAQUIN GINZO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "35883",
+   "Nombre": "JOSÈ MIGUEL STRAUCH",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "33182",
+   "Nombre": "EDUARDO BLENGIO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62421",
+   "Nombre": "MATEO SEGURA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "64135",
+   "Nombre": "LUCIANO LOPEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "39794",
+   "Nombre": "SEBASTIAN GUSTAVO RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "32366",
+   "Nombre": "FELIPE ALONSO",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32417",
+   "Nombre": "ALBERTO ANDRES LECUEDER",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "30908",
+   "Nombre": "DIEGO CLAVERA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "36896",
+   "Jug_Sale": "JUAN IGNACIO PEYRO",
+   "CarneEntra": "65002",
+   "Jug_Entra": "LESTER DIAZ",
+   "camiseta": "17",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "31934",
+   "Jug_Sale": "JAVIER ANDRES GARCIA",
+   "CarneEntra": "32569",
+   "Jug_Entra": "EDUARDO DANIEL SAURINA",
+   "camiseta": "20",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "54433",
+   "Jug_Sale": "GONZALO GRILLE",
+   "CarneEntra": "28276",
+   "Jug_Entra": "DIEGO MARTIN GUTIERREZ",
+   "camiseta": "9",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "51188",
+   "Jug_Sale": "FACUNDO MARTIN DIAZ",
+   "CarneEntra": "31934",
+   "Jug_Entra": "JAVIER ANDRES GARCIA",
+   "camiseta": "5",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "32749",
+   "Jug_Sale": "DIEGO SEBASTIAN SOSA",
+   "CarneEntra": "54433",
+   "Jug_Entra": "GONZALO GRILLE",
+   "camiseta": "8",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "54428",
+   "Jug_Sale": "JOAQUIN GINZO",
+   "CarneEntra": "36371",
+   "Jug_Entra": "MARCOS RODRIGUEZ",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33182",
+   "Jug_Sale": "EDUARDO BLENGIO",
+   "CarneEntra": "28705",
+   "Jug_Entra": "LUIS MARIA DEL CASTILLO",
+   "camiseta": "92",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30908",
+   "Jug_Sale": "DIEGO CLAVERA",
+   "CarneEntra": "36002",
+   "Jug_Entra": "SANTIAGO MANUEL NARANCIO",
+   "camiseta": "7",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "39794",
+   "Jug_Sale": "SEBASTIAN GUSTAVO RODRIGUEZ",
+   "CarneEntra": "44023",
+   "Jug_Entra": "FRANCISCO CERVINO",
+   "camiseta": "28",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "32417",
+   "Jug_Sale": "ALBERTO ANDRES LECUEDER",
+   "CarneEntra": "22234",
+   "Jug_Entra": "SANTIAGO HORACIO SASSI",
+   "camiseta": "18",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "64135",
+   "Jug_Sale": "LUCIANO LOPEZ",
+   "CarneEntra": "32417",
+   "Jug_Entra": "ALBERTO ANDRES LECUEDER",
+   "camiseta": "19",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "32733",
+   "Nombre": "RAMIRO DE LA PUENTE",
+   "minutos": "1",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54433",
+   "Nombre": "GONZALO GRILLE",
+   "minutos": "53",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

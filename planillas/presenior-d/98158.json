@@ -1,0 +1,300 @@
+{
+ "id": "98158",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "SCUOLA PALERMO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "585",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-04-18 11:00:00",
+  "Fecha_fin": "2026-04-18 11:00:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "SCUOLA PALERMO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "37679",
+   "Nombre": "JORGE ANTONIO PONS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35379",
+   "Nombre": "FEDERICO LA LAINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "24411",
+   "Nombre": "ENRIQUE CARLOS DELGADO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "43248",
+   "Nombre": "GONZALO DE LEON",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "42925",
+   "Nombre": "MARTIN LA LAINA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "45272",
+   "Nombre": "DIEGO GERMAN MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61635",
+   "Nombre": "AGUSTIN SEBASTIAN ROSSI",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "22165",
+   "Nombre": "BRUNO LUIS VARALDO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46800",
+   "Nombre": "VICTOR DIEGO MOREIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "27715",
+   "Nombre": "OSCAR MARTIN BASSO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "25051",
+   "Nombre": "EDMUNDO MIGUEL GRIFFIN",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "25425",
+   "Nombre": "FACUNDO RICARDO SILVEIRA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "37936",
+   "Nombre": "ALEJANDRO MONETTI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67780",
+   "Nombre": "CRISTIAN CANOSA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64370",
+   "Nombre": "FACUNDO ANDRADA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "26656",
+   "Nombre": "LEONARDO FRANCISCO SERGIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62799",
+   "Nombre": "BRUNO FEDERICO BARRETO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "39901",
+   "Nombre": "AGUSTIN MAZZEY",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61258",
+   "Nombre": "ULISES LACUESTA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "29165",
+   "Nombre": "JOSE LUIS DUCRET",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "37896",
+   "Nombre": "JUAN IGNACIO VITUREIRA",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "31871",
+   "Nombre": "GIANCARLO RAFAEL DIPAULO",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "46800",
+   "Jug_Sale": "VICTOR DIEGO MOREIRA",
+   "CarneEntra": "28544",
+   "Jug_Entra": "PABLO ENRIQUE MARTINEZ",
+   "camiseta": "3",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "42925",
+   "Jug_Sale": "MARTIN LA LAINA",
+   "CarneEntra": "34252",
+   "Jug_Entra": "MARCELO DANIEL SASSO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25051",
+   "Jug_Sale": "EDMUNDO MIGUEL GRIFFIN",
+   "CarneEntra": "43595",
+   "Jug_Entra": "MATIAS LORENZO BASSO",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "28544",
+   "Jug_Sale": "PABLO ENRIQUE MARTINEZ",
+   "CarneEntra": "25759",
+   "Jug_Entra": "AGUSTIN LAMARCA",
+   "camiseta": "23",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "43248",
+   "Jug_Sale": "GONZALO DE LEON",
+   "CarneEntra": "25051",
+   "Jug_Entra": "EDMUNDO MIGUEL GRIFFIN",
+   "camiseta": "22",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "27715",
+   "Jug_Sale": "OSCAR MARTIN BASSO",
+   "CarneEntra": "28544",
+   "Jug_Entra": "PABLO ENRIQUE MARTINEZ",
+   "camiseta": "3",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37936",
+   "Jug_Sale": "ALEJANDRO MONETTI",
+   "CarneEntra": "33970",
+   "Jug_Entra": "MATHIAS DANIEL VENEROSO",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37896",
+   "Jug_Sale": "JUAN IGNACIO VITUREIRA",
+   "CarneEntra": "36708",
+   "Jug_Entra": "ALVARO APOLITO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26656",
+   "Jug_Sale": "LEONARDO FRANCISCO SERGIO",
+   "CarneEntra": "39983",
+   "Jug_Entra": "DAMIAN BARES",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31871",
+   "Jug_Sale": "GIANCARLO RAFAEL DIPAULO",
+   "CarneEntra": "29694",
+   "Jug_Entra": "SANTIAGO BRUM",
+   "camiseta": "70",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "29165",
+   "Jug_Sale": "JOSE LUIS DUCRET",
+   "CarneEntra": "32769",
+   "Jug_Entra": "GONZALO MATIAS AMARO",
+   "camiseta": "20",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "61258",
+   "Jug_Sale": "ULISES LACUESTA",
+   "CarneEntra": "35160",
+   "Jug_Entra": "FEDERICO SINACORE",
+   "camiseta": "27",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "39901",
+   "Jug_Sale": "AGUSTIN MAZZEY",
+   "CarneEntra": "21437",
+   "Jug_Entra": "FRANCISCO BREGSTEIN",
+   "camiseta": "15",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "22165",
+   "Nombre": "BRUNO LUIS VARALDO",
+   "minutos": "6",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "36708",
+   "Nombre": "ALVARO APOLITO",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62799",
+   "Nombre": "BRUNO FEDERICO BARRETO",
+   "minutos": "88",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

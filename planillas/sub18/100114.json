@@ -1,0 +1,277 @@
+{
+ "id": "100114",
+ "categoria": "sub18",
+ "serie": "18-1-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 15:30:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "12",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 1",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-14 17:30:00",
+  "Fecha_fin": "2026-06-14 17:30:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58980",
+   "Nombre": "MATEO PONCE DE LEON",
+   "camiseta": "78",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59264",
+   "Nombre": "JUAN FRANCISCO JIMENEZ DE ARECHAGA",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "68153",
+   "Nombre": "MATEO DEAMBROSI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "58845",
+   "Nombre": "JUAN ENRIQUE GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59109",
+   "Nombre": "SANTIAGO ALVAREZ",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "59474",
+   "Nombre": "AGUSTIN CHIAPPORI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "59473",
+   "Nombre": "SANTIAGO OUTERELO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "64307",
+   "Nombre": "VALENTIN GRUBITS",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "66398",
+   "Nombre": "VALENTINO ESCAMES",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "58855",
+   "Nombre": "JOAQUIN MARTINEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "62640",
+   "Nombre": "FRANCO ANDRES LOPEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61017",
+   "Nombre": "NAHUEL CRISTOBO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62213",
+   "Nombre": "NICOLAS FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68628",
+   "Nombre": "JOAQUIN ISMAEL CARDOZO",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "57583",
+   "Nombre": "KEVIN FACUNDO MAGURNO",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58261",
+   "Nombre": "NICOLAS ACUÑA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "57237",
+   "Nombre": "ANGEL SEBASTIAN MARTINEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57245",
+   "Nombre": "AGUSTIN EMMANUEL TORIJA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67074",
+   "Nombre": "TOMÀS CENTURIÒN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67073",
+   "Nombre": "LUCAS EZEQUIEL SERPA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68461",
+   "Nombre": "RENZO NAHUEL CEDRES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "60432",
+   "Nombre": "FELIPE CERONI",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59264",
+   "Jug_Sale": "JUAN FRANCISCO JIMENEZ DE ARECHAGA",
+   "CarneEntra": "62638",
+   "Jug_Entra": "LEANDRO BARBOZA",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62640",
+   "Jug_Sale": "FRANCO ANDRES LOPEZ",
+   "CarneEntra": "64335",
+   "Jug_Entra": "JUAN FRANCISCO ALTESOR",
+   "camiseta": "80",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "68153",
+   "Jug_Sale": "MATEO DEAMBROSI",
+   "CarneEntra": "63664",
+   "Jug_Entra": "FACUNDO BLEZIO",
+   "camiseta": "22",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "59474",
+   "Jug_Sale": "AGUSTIN CHIAPPORI",
+   "CarneEntra": "62639",
+   "Jug_Entra": "THOMAS FRIESEN",
+   "camiseta": "21",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "58845",
+   "Jug_Sale": "JUAN ENRIQUE GONZALEZ",
+   "CarneEntra": "62648",
+   "Jug_Entra": "GUILLERMO SIMONET",
+   "camiseta": "12",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67074",
+   "Jug_Sale": "TOMÀS CENTURIÒN",
+   "CarneEntra": "60681",
+   "Jug_Entra": "IGNACIO JOAQUIN FERNANDEZ",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68461",
+   "Jug_Sale": "RENZO NAHUEL CEDRES",
+   "CarneEntra": "60654",
+   "Jug_Entra": "JOAQUIN MURGUIA",
+   "camiseta": "20",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58261",
+   "Jug_Sale": "NICOLAS ACUÑA",
+   "CarneEntra": "62302",
+   "Jug_Entra": "JUAN IGNACIO CABALLERO",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "60432",
+   "Jug_Sale": "FELIPE CERONI",
+   "CarneEntra": "60283",
+   "Jug_Entra": "MATEO DE LEON",
+   "camiseta": "6",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57245",
+   "Jug_Sale": "AGUSTIN EMMANUEL TORIJA",
+   "CarneEntra": "65453",
+   "Jug_Entra": "EZEQUIEL ANDRES ZUGARRAMURDI",
+   "camiseta": "12",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "67073",
+   "Jug_Sale": "LUCAS EZEQUIEL SERPA",
+   "CarneEntra": "57241",
+   "Jug_Entra": "ESTEFANO MAIDANA",
+   "camiseta": "91",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58855",
+   "Nombre": "JOAQUIN MARTINEZ",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62640",
+   "Nombre": "FRANCO ANDRES LOPEZ",
+   "minutos": "12",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

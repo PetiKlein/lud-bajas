@@ -1,0 +1,306 @@
+{
+ "id": "98165",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "UT SERVIAM",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "579",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-04-18 11:00:00",
+  "Fecha_fin": "2026-04-18 11:00:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "UT SERVIAM",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "44974",
+   "Nombre": "RODOLFO PIENIKA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38821",
+   "Nombre": "MARTIN MORA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26098",
+   "Nombre": "BRUNO VICENTE NASSUTTI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "34473",
+   "Nombre": "SANTIAGO DELGADO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "63540",
+   "Nombre": "MARTIN CARLEVARO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63236",
+   "Nombre": "DIEGO ALEJANDRO REGUEIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60110",
+   "Nombre": "WILLIAM PAOLO SARDIÑA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60005",
+   "Nombre": "WASHINGTON WALDEMAR VIANA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "32434",
+   "Nombre": "CARLOS DIEGO GIMENEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "25538",
+   "Nombre": "PABLO DANIEL MARTINEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "38185",
+   "Nombre": "JOSE EDUARDO BANEGAS",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "52060",
+   "Nombre": "SANTIAGO MARTIN PERALTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33873",
+   "Nombre": "JOSE IGNACIO DALLORSO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "30308",
+   "Nombre": "GONZALO COSTA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30219",
+   "Nombre": "SEBASTIAN FERRANDO",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "27245",
+   "Nombre": "FELIPE SPOSARO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55031",
+   "Nombre": "HUGO IGNACIO TRIAS",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "30114",
+   "Nombre": "GONZALO FELIPE IRRAZABAL",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "31636",
+   "Nombre": "GABRIEL JOSE OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "29251",
+   "Nombre": "SANTIAGO JOSE MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67336",
+   "Nombre": "DIEGO REZK",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "30816",
+   "Nombre": "LUCAS RODRIGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63540",
+   "Jug_Sale": "MARTIN CARLEVARO",
+   "CarneEntra": "53055",
+   "Jug_Entra": "JULIAN RAMON VELIZ",
+   "camiseta": "9",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "38185",
+   "Jug_Sale": "JOSE EDUARDO BANEGAS",
+   "CarneEntra": "45375",
+   "Jug_Entra": "JOSE ALFREDO ROSAS",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25538",
+   "Jug_Sale": "PABLO DANIEL MARTINEZ",
+   "CarneEntra": "56346",
+   "Jug_Entra": "ADRIANO DANIEL ALVAREZ",
+   "camiseta": "6",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "38821",
+   "Jug_Sale": "MARTIN MORA",
+   "CarneEntra": "17345",
+   "Jug_Entra": "DANIEL MARCELO LIGUORI",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "53055",
+   "Jug_Sale": "JULIAN RAMON VELIZ",
+   "CarneEntra": "63540",
+   "Jug_Entra": "MARTIN CARLEVARO",
+   "camiseta": "3",
+   "minutos": "74"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30114",
+   "Jug_Sale": "GONZALO FELIPE IRRAZABAL",
+   "CarneEntra": "31891",
+   "Jug_Entra": "JUAN FRANCISCO IRRAZABAL",
+   "camiseta": "22",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "33873",
+   "Jug_Sale": "JOSE IGNACIO DALLORSO",
+   "CarneEntra": "36025",
+   "Jug_Entra": "JOAQUIN ENRIQUE SILVEYRA",
+   "camiseta": "13",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "31636",
+   "Jug_Sale": "GABRIEL JOSE OLIVERA",
+   "CarneEntra": "31601",
+   "Jug_Entra": "JOAQUIN BERTELLI",
+   "camiseta": "20",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "55031",
+   "Jug_Sale": "HUGO IGNACIO TRIAS",
+   "CarneEntra": "27207",
+   "Jug_Entra": "SEBASTIAN HALTY",
+   "camiseta": "12",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "30308",
+   "Jug_Sale": "GONZALO COSTA",
+   "CarneEntra": "26064",
+   "Jug_Entra": "NICOLAS GLAUSIUSS",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30219",
+   "Jug_Sale": "SEBASTIAN FERRANDO",
+   "CarneEntra": "25307",
+   "Jug_Entra": "RAFAEL MARASCIO",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67336",
+   "Jug_Sale": "DIEGO REZK",
+   "CarneEntra": "37586",
+   "Jug_Entra": "MATIAS OLALDE",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29251",
+   "Jug_Sale": "SANTIAGO JOSE MARTINEZ",
+   "CarneEntra": "38233",
+   "Jug_Entra": "GASTON MOLINELLI",
+   "camiseta": "24",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60110",
+   "Nombre": "WILLIAM PAOLO SARDIÑA",
+   "minutos": "77",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63540",
+   "Nombre": "MARTIN CARLEVARO",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63540",
+   "Nombre": "MARTIN CARLEVARO",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "30816",
+   "Nombre": "LUCAS RODRIGUEZ",
+   "minutos": "25",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

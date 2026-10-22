@@ -1,0 +1,287 @@
+{
+ "id": "98634",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 3,
+ "fechaHora": "2026-04-25 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "UT SERVIAM",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "587",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-04-25 11:00:00",
+  "Fecha_fin": "2026-04-25 11:00:00",
+  "Locatario": "UT SERVIAM",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52060",
+   "Nombre": "SANTIAGO MARTIN PERALTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30308",
+   "Nombre": "GONZALO COSTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "27245",
+   "Nombre": "FELIPE SPOSARO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "31636",
+   "Nombre": "GABRIEL JOSE OLIVERA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "55031",
+   "Nombre": "HUGO IGNACIO TRIAS",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "31891",
+   "Nombre": "JUAN FRANCISCO IRRAZABAL",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26064",
+   "Nombre": "NICOLAS GLAUSIUSS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "36244",
+   "Nombre": "LUIS IGNACIO CAMPON",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "37586",
+   "Nombre": "MATIAS OLALDE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "33873",
+   "Nombre": "JOSE IGNACIO DALLORSO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "30114",
+   "Nombre": "GONZALO FELIPE IRRAZABAL",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47757",
+   "Nombre": "JUAN ANDRES NOGUES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "36137",
+   "Nombre": "FEDERICO MENDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "37016",
+   "Nombre": "JUAN ANDRES CASTRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "33691",
+   "Nombre": "GONZALO SUCAZES",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "52449",
+   "Nombre": "FACUNDO FIERRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "30155",
+   "Nombre": "MANUEL FELIPE BOERO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "44615",
+   "Nombre": "JOAQUIN FARIÑA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "43724",
+   "Nombre": "EDISON ALEXANDER MONZON",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "30114",
+   "Jug_Sale": "GONZALO FELIPE IRRAZABAL",
+   "CarneEntra": "67336",
+   "Jug_Entra": "DIEGO REZK",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26064",
+   "Jug_Sale": "NICOLAS GLAUSIUSS",
+   "CarneEntra": "28727",
+   "Jug_Entra": "GUILLERMO JOSE PAIS",
+   "camiseta": "2",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "30308",
+   "Jug_Sale": "GONZALO COSTA",
+   "CarneEntra": "28828",
+   "Jug_Entra": "DIEGO FEDERICO ROSELLI",
+   "camiseta": "70",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "31636",
+   "Jug_Sale": "GABRIEL JOSE OLIVERA",
+   "CarneEntra": "36337",
+   "Jug_Entra": "MATIAS NICOLAS SILVEYRA",
+   "camiseta": "74",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "36244",
+   "Jug_Sale": "LUIS IGNACIO CAMPON",
+   "CarneEntra": "36025",
+   "Jug_Entra": "JOAQUIN ENRIQUE SILVEYRA",
+   "camiseta": "33",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "37586",
+   "Jug_Sale": "MATIAS OLALDE",
+   "CarneEntra": "25307",
+   "Jug_Entra": "RAFAEL MARASCIO",
+   "camiseta": "27",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37016",
+   "Jug_Sale": "JUAN ANDRES CASTRO",
+   "CarneEntra": "34916",
+   "Jug_Entra": "MARCOS ALEJO SANCHEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47757",
+   "Jug_Sale": "JUAN ANDRES NOGUES",
+   "CarneEntra": "34914",
+   "Jug_Entra": "SANTIAGO FERNANDEZ",
+   "camiseta": "8",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "47757",
+   "Jug_Sale": "JUAN ANDRES NOGUES",
+   "CarneEntra": "31549",
+   "Jug_Entra": "MICHEL SEBASTIAN MATTOS",
+   "camiseta": "32",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "33691",
+   "Jug_Sale": "GONZALO SUCAZES",
+   "CarneEntra": "33744",
+   "Jug_Entra": "NICOLAS MOREIRA",
+   "camiseta": "28",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "30308",
+   "Nombre": "GONZALO COSTA",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67336",
+   "Nombre": "DIEGO REZK",
+   "minutos": "69",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "observaciones": ""
+  }
+ ]
+}

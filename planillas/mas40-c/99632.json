@@ -1,0 +1,279 @@
+{
+ "id": "99632",
+ "categoria": "mas40-c",
+ "serie": "40S23",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "LATINO FUTBOL CLUB",
+ "visitante": "WANDERERS",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "323",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 2",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-06-06 11:00:00",
+  "Fecha_fin": "2026-06-06 11:00:00",
+  "Locatario": "LATINO FUTBOL CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "15611",
+   "Nombre": "JUAN PABLO BIANCHI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "16962",
+   "Nombre": "PAOLO PASCUAL VIOLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "23817",
+   "Nombre": "ALEJANDRO JOSE NEVES",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27003",
+   "Nombre": "FRANCISCO NICOLAS BARCIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64348",
+   "Nombre": "RAMIRO DANIEL COSTA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "19853",
+   "Nombre": "GERARDO SEBASTIAN FANJUL",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "17833",
+   "Nombre": "AGUSTIN MARIA ILLARAMENDI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "17601",
+   "Nombre": "NICOLAS DANIEL DE MAIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61736",
+   "Nombre": "PABLO SEBASTIAN MIRANDA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "34945",
+   "Nombre": "NATHAN MANGADO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "47213",
+   "Nombre": "MIGUEL ANGEL MOREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "15281",
+   "Nombre": "JAVIER GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54310",
+   "Nombre": "JAVIER DI LONGO PINALI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "20364",
+   "Nombre": "NICOLAS MARTIN ERRICO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "13375",
+   "Nombre": "EMILIANO CAMACHO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "17546",
+   "Nombre": "PABLO AGUSTIN EGUES",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32915",
+   "Nombre": "GASTON AGUILAR",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53619",
+   "Nombre": "GABRIEL ALEJANDRO DACAL",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "22331",
+   "Nombre": "DIEGO ALBERTO FALCO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "28497",
+   "Nombre": "RODRIGO FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "23413",
+   "Nombre": "JOSE IGNACIO PEREZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "61272",
+   "Nombre": "LUIS GAMIO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27003",
+   "Jug_Sale": "FRANCISCO NICOLAS BARCIA",
+   "CarneEntra": "28680",
+   "Jug_Entra": "RAUL ALFREDO FRAGA",
+   "camiseta": "9",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "64348",
+   "Jug_Sale": "RAMIRO DANIEL COSTA",
+   "CarneEntra": "34945",
+   "Jug_Entra": "NATHAN MANGADO",
+   "camiseta": "16",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "19853",
+   "Jug_Sale": "GERARDO SEBASTIAN FANJUL",
+   "CarneEntra": "18876",
+   "Jug_Entra": "CONRADO MANUEL FRAU",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34945",
+   "Jug_Sale": "NATHAN MANGADO",
+   "CarneEntra": "52344",
+   "Jug_Entra": "MARCELO ALEJANDRO PEÑA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47213",
+   "Jug_Sale": "MIGUEL ANGEL MOREIRA",
+   "CarneEntra": "66031",
+   "Jug_Entra": "GIOVANNI MARTIN DE LEON",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34945",
+   "Jug_Sale": "NATHAN MANGADO",
+   "CarneEntra": "33571",
+   "Jug_Entra": "OSCAR DANIEL FERNANDEZ",
+   "camiseta": "23",
+   "minutos": "40"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "13375",
+   "Jug_Sale": "EMILIANO CAMACHO",
+   "CarneEntra": "23120",
+   "Jug_Entra": "FABRICIO ADRIAN RICOBALDI",
+   "camiseta": "10",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "32915",
+   "Jug_Sale": "GASTON AGUILAR",
+   "CarneEntra": "61953",
+   "Jug_Entra": "NICOLAS JULIO CANESSA",
+   "camiseta": "24",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "23120",
+   "Jug_Sale": "FABRICIO ADRIAN RICOBALDI",
+   "CarneEntra": "30357",
+   "Jug_Entra": "PABLO HERNANDEZ",
+   "camiseta": "25",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "17546",
+   "Nombre": "PABLO AGUSTIN EGUES",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17546",
+   "Nombre": "PABLO AGUSTIN EGUES",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22331",
+   "Nombre": "DIEGO ALBERTO FALCO",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53619",
+   "Nombre": "GABRIEL ALEJANDRO DACAL",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "54310",
+   "Nombre": "JAVIER DI LONGO PINALI",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

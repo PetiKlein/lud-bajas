@@ -1,0 +1,279 @@
+{
+ "id": "99363",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "COM. DEP. CLUB TROUVILLE",
+ "local": "TROUVILLE UNIVERSITARIO",
+ "visitante": "JEAN PIAGET",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "624",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COM. DEP. CLUB TROUVILLE",
+  "Fecha_Inicio": "2026-05-30 11:00:00",
+  "Fecha_fin": "2026-05-30 11:00:00",
+  "Locatario": "TROUVILLE UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "JEAN PIAGET",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "53672",
+   "Nombre": "JUAN CAMILO PIZZANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60110",
+   "Nombre": "WILLIAM PAOLO SARDIÑA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63236",
+   "Nombre": "DIEGO ALEJANDRO REGUEIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "21976",
+   "Nombre": "MATIAS CARLOS TAGLIORETTI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63540",
+   "Nombre": "MARTIN CARLEVARO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "34473",
+   "Nombre": "SANTIAGO DELGADO",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25538",
+   "Nombre": "PABLO DANIEL MARTINEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "26098",
+   "Nombre": "BRUNO VICENTE NASSUTTI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "56346",
+   "Nombre": "ADRIANO DANIEL ALVAREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "34554",
+   "Nombre": "AGUSTIN LARROSA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "45375",
+   "Nombre": "JOSE ALFREDO ROSAS",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "17702",
+   "Nombre": "DANIEL WARD",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "36908",
+   "Nombre": "MARTIN GEJER",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "54346",
+   "Nombre": "DIEGO JAVIER GORTAIRE",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "21189",
+   "Nombre": "SEBASTIAN CAREDIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38672",
+   "Nombre": "JOSE ALEJANDRO RUIZ DIAZ",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21011",
+   "Nombre": "DANIEL IGAL GROISMAN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "43847",
+   "Nombre": "JOAQUIN STIRLING",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54505",
+   "Nombre": "RODRIGO SORIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "21009",
+   "Nombre": "MAXIMILIANO AUGUSTO PEÑALVA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "23874",
+   "Nombre": "GAI BOROVIK",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "41052",
+   "Nombre": "VALENTIN MATEO PEÑALVA",
+   "camiseta": "44",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63540",
+   "Jug_Sale": "MARTIN CARLEVARO",
+   "CarneEntra": "17345",
+   "Jug_Entra": "DANIEL MARCELO LIGUORI",
+   "camiseta": "7",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "45375",
+   "Jug_Sale": "JOSE ALFREDO ROSAS",
+   "CarneEntra": "63540",
+   "Jug_Entra": "MARTIN CARLEVARO",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "34554",
+   "Jug_Sale": "AGUSTIN LARROSA",
+   "CarneEntra": "9747",
+   "Jug_Entra": "ALEJANDRO GABRIEL CANOURA",
+   "camiseta": "3",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "21976",
+   "Jug_Sale": "MATIAS CARLOS TAGLIORETTI",
+   "CarneEntra": "45375",
+   "Jug_Entra": "JOSE ALFREDO ROSAS",
+   "camiseta": "16",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "21009",
+   "Jug_Sale": "MAXIMILIANO AUGUSTO PEÑALVA",
+   "CarneEntra": "32269",
+   "Jug_Entra": "LUCAS CABRERA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23874",
+   "Jug_Sale": "GAI BOROVIK",
+   "CarneEntra": "55338",
+   "Jug_Entra": "BRIAN MAJLIN",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54505",
+   "Jug_Sale": "RODRIGO SORIA",
+   "CarneEntra": "18049",
+   "Jug_Entra": "ALAN TURNIANSKY",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21189",
+   "Jug_Sale": "SEBASTIAN CAREDIO",
+   "CarneEntra": "45279",
+   "Jug_Entra": "ALAN LIEPMANN",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21011",
+   "Jug_Sale": "DANIEL IGAL GROISMAN",
+   "CarneEntra": "21189",
+   "Jug_Entra": "SEBASTIAN CAREDIO",
+   "camiseta": "10",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "43847",
+   "Jug_Sale": "JOAQUIN STIRLING",
+   "CarneEntra": "44952",
+   "Jug_Entra": "ANDRES BURCATOVSKY",
+   "camiseta": "32",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "54346",
+   "Jug_Sale": "DIEGO JAVIER GORTAIRE",
+   "CarneEntra": "23348",
+   "Jug_Entra": "JUAN ANDRES MARTINICORENA",
+   "camiseta": "27",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "44952",
+   "Jug_Sale": "ANDRES BURCATOVSKY",
+   "CarneEntra": "68650",
+   "Jug_Entra": "FRANCO EMANUEL BOBADILLA",
+   "camiseta": "17",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "38672",
+   "Nombre": "JOSE ALEJANDRO RUIZ DIAZ",
+   "minutos": "54",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

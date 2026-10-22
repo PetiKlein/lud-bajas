@@ -1,0 +1,288 @@
+{
+ "id": "101476",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "PALLOTTI UNIVERSITARIO",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "211",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-05 11:00:00",
+  "Fecha_fin": "2026-09-05 11:00:00",
+  "Locatario": "PALLOTTI UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67586",
+   "Nombre": "DIEGO GASTON MUIÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38888",
+   "Nombre": "ANDRES RICARDO SOSA",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "28455",
+   "Nombre": "FEDERICO BRUZZONE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "58534",
+   "Nombre": "MAURO GUGLIALMELLI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68720",
+   "Nombre": "GABRIEL GLIELMA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "27654",
+   "Nombre": "ISMAEL NADAL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "27222",
+   "Nombre": "PABLO MARTIN HERNANDEZ",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28849",
+   "Nombre": "EMILIANO SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62798",
+   "Nombre": "RODRIGO GONNZALEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "26406",
+   "Nombre": "JUAN ANDRES VARELA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "25286",
+   "Nombre": "MATIAS SOSA",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "28362",
+   "Nombre": "JUAN PABLO MARSICANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48257",
+   "Nombre": "RODRIGO CABRAL",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "22253",
+   "Nombre": "LUCAS MORISIO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "18137",
+   "Nombre": "MATIAS VALENTIN ROSENDE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "29289",
+   "Nombre": "ANKIN APRAHAMIAN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "20483",
+   "Nombre": "NICOLAS KARDJIAN",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "34400",
+   "Nombre": "CARLOS MANUEL DE MELLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "28144",
+   "Nombre": "ANDRES ANTONIO BESIO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "18574",
+   "Nombre": "PABLO AGUSTIN FERNANDEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "35975",
+   "Nombre": "RODRIGO SCHRAMM",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "26011",
+   "Nombre": "MAURO GIAMMARCHI",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27654",
+   "Jug_Sale": "ISMAEL NADAL",
+   "CarneEntra": "68668",
+   "Jug_Entra": "ALVARO DANIEL NOBLE",
+   "camiseta": "0",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58534",
+   "Jug_Sale": "MAURO GUGLIALMELLI",
+   "CarneEntra": "37650",
+   "Jug_Entra": "GONZALO SEBASTIAN MARTINICORENA",
+   "camiseta": "0",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28455",
+   "Jug_Sale": "FEDERICO BRUZZONE",
+   "CarneEntra": "60517",
+   "Jug_Entra": "SERGIO ANDRES LOPEZ",
+   "camiseta": "18",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "68720",
+   "Jug_Sale": "GABRIEL GLIELMA",
+   "CarneEntra": "21100",
+   "Jug_Entra": "RODRIGO LUJAN",
+   "camiseta": "27",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "26406",
+   "Jug_Sale": "JUAN ANDRES VARELA",
+   "CarneEntra": "67587",
+   "Jug_Entra": "MATIAS EIRIN",
+   "camiseta": "4",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "35975",
+   "Jug_Sale": "RODRIGO SCHRAMM",
+   "CarneEntra": "23201",
+   "Jug_Entra": "JOSE IGNACIO MAIORANO",
+   "camiseta": "88",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "29289",
+   "Jug_Sale": "ANKIN APRAHAMIAN",
+   "CarneEntra": "20439",
+   "Jug_Entra": "RODRIGO PABLO BAUBETA",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "18574",
+   "Jug_Sale": "PABLO AGUSTIN FERNANDEZ",
+   "CarneEntra": "28371",
+   "Jug_Entra": "MAXIMILIANO JAVIER CRISTIANI",
+   "camiseta": "25",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "20483",
+   "Jug_Sale": "NICOLAS KARDJIAN",
+   "CarneEntra": "20675",
+   "Jug_Entra": "RODRIGO RAUL TURNES",
+   "camiseta": "10",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "26011",
+   "Jug_Sale": "MAURO GIAMMARCHI",
+   "CarneEntra": "18056",
+   "Jug_Entra": "FELIPE GARCIA",
+   "camiseta": "40",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "25286",
+   "Nombre": "MATIAS SOSA",
+   "minutos": "82",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62798",
+   "Nombre": "RODRIGO GONNZALEZ",
+   "minutos": "70",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "18574",
+   "Nombre": "PABLO AGUSTIN FERNANDEZ",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "26011",
+   "Nombre": "MAURO GIAMMARCHI",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28144",
+   "Nombre": "ANDRES ANTONIO BESIO",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

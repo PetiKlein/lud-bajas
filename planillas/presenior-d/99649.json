@@ -1,0 +1,286 @@
+{
+ "id": "99649",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "OLD BRENDANS CLUB",
+ "visitante": "CLUB FUERZA AEREA",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "628",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-06-06 13:15:00",
+  "Fecha_fin": "2026-06-06 13:15:00",
+  "Locatario": "OLD BRENDANS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CLUB FUERZA AEREA",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "21036",
+   "Nombre": "JUAN AGUSTIN MURIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35203",
+   "Nombre": "SANTIAGO HUELMO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "28389",
+   "Nombre": "DIEGO FRANCO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "20251",
+   "Nombre": "PABLO HERRERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63840",
+   "Nombre": "EMILIO NICOLAS CAMEJO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "33907",
+   "Nombre": "JOAQUIN CICATIELLO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "23486",
+   "Nombre": "SEBASTIAN VIDAL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "27751",
+   "Nombre": "GUZMAN DANIEL MONTGOMERY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63917",
+   "Nombre": "BRUNO FRANCISCO CONTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "34281",
+   "Nombre": "MIGUEL PITETTA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "35538",
+   "Nombre": "YAIR EDGAR MORALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "17537",
+   "Nombre": "ANGEL SEBASTIAN MOREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "40807",
+   "Nombre": "MARIANO GERMAN FIGUEROA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "24179",
+   "Nombre": "SERGIO DANIEL BIANCHI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "20859",
+   "Nombre": "IGNACIO OTASU",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "25991",
+   "Nombre": "FEDERICO BARDIER",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "18698",
+   "Nombre": "FERNANDO MACEIRA",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27122",
+   "Nombre": "LEANDRO MIGUEL GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "36916",
+   "Nombre": "SANTIAGO NICOLAS RUGLIO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "17844",
+   "Nombre": "YAMANDU SEBASTIAN SILVA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "20772",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23486",
+   "Jug_Sale": "SEBASTIAN VIDAL",
+   "CarneEntra": "35203",
+   "Jug_Entra": "SANTIAGO HUELMO",
+   "camiseta": "4",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "28389",
+   "Jug_Sale": "DIEGO FRANCO",
+   "CarneEntra": "33066",
+   "Jug_Entra": "RAFAEL ESTEBAN GIMENEZ",
+   "camiseta": "10",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "63917",
+   "Jug_Sale": "BRUNO FRANCISCO CONTE",
+   "CarneEntra": "20392",
+   "Jug_Entra": "SEBASTIAN MOREIRA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35203",
+   "Jug_Sale": "SANTIAGO HUELMO",
+   "CarneEntra": "25908",
+   "Jug_Entra": "JUAN MANUEL LAZBAL",
+   "camiseta": "32",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "31607",
+   "Jug_Sale": "FEDERICO MARTIN GOMEZ",
+   "CarneEntra": "37740",
+   "Jug_Entra": "GONZALO RAMALLO",
+   "camiseta": "13",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "34281",
+   "Jug_Sale": "MIGUEL PITETTA",
+   "CarneEntra": "31607",
+   "Jug_Entra": "FEDERICO MARTIN GOMEZ",
+   "camiseta": "14",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "20772",
+   "Jug_Sale": "IGNACIO GONZALEZ",
+   "CarneEntra": "66178",
+   "Jug_Entra": "JAIRO ALTAMIR DE LOS SANTOS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20859",
+   "Jug_Sale": "IGNACIO OTASU",
+   "CarneEntra": "21333",
+   "Jug_Entra": "GUSTAVO DANIEL GESTIDO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27122",
+   "Jug_Sale": "LEANDRO MIGUEL GONZALEZ",
+   "CarneEntra": "62950",
+   "Jug_Entra": "ENZO DANILO ACOSTA",
+   "camiseta": "61",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "17844",
+   "Jug_Sale": "YAMANDU SEBASTIAN SILVA",
+   "CarneEntra": "25130",
+   "Jug_Entra": "FABRIZIO APELLANIZ",
+   "camiseta": "35",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "17537",
+   "Jug_Sale": "ANGEL SEBASTIAN MOREIRA",
+   "CarneEntra": "32752",
+   "Jug_Entra": "ALVARO DARIO BALCEMAO",
+   "camiseta": "27",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "20772",
+   "Jug_Sale": "IGNACIO GONZALEZ",
+   "CarneEntra": "24312",
+   "Jug_Entra": "JUAN NICOLAS DA SILVA",
+   "camiseta": "45",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "34281",
+   "Nombre": "MIGUEL PITETTA",
+   "minutos": "0",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "36916",
+   "Nombre": "SANTIAGO NICOLAS RUGLIO",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

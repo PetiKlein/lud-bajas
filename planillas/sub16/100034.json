@@ -1,0 +1,310 @@
+{
+ "id": "100034",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 13:30:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "11",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-06-14 16:10:00",
+  "Fecha_fin": "2026-06-14 16:10:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61727",
+   "Nombre": "BRUNO FERRARO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61544",
+   "Nombre": "SANTINO CASTELLI",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64051",
+   "Nombre": "JUAN MANUEL SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64303",
+   "Nombre": "MATIAS OLARAN",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64314",
+   "Nombre": "SANTIAGO MANUEL RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65350",
+   "Nombre": "VALENTIN RUIZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66881",
+   "Nombre": "EMILIANO NELSON MOISES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67651",
+   "Nombre": "BENJAMIN TRICOTTI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "65298",
+   "Nombre": "NAHUEL CARMINATI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "66426",
+   "Nombre": "LUCAS ROSA",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61542",
+   "Nombre": "JOAQUIN BOGLIACCINI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "61539",
+   "Nombre": "LUCAS VALLE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58632",
+   "Nombre": "FAUSTO SASTRE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "58633",
+   "Nombre": "JOAQUIN CARRIO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58626",
+   "Nombre": "SANTIAGO CASTRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61536",
+   "Nombre": "AGUSTIN PIRIZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61706",
+   "Nombre": "GUILLERMO SOSA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61769",
+   "Nombre": "SANTIAGO RAFANIELLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61540",
+   "Nombre": "RAMIRO DANZA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58629",
+   "Nombre": "FRANCISCO AGOSTO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64385",
+   "Nombre": "SAMUEL ANDRES ESTELLER",
+   "camiseta": "69",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67651",
+   "Jug_Sale": "BENJAMIN TRICOTTI",
+   "CarneEntra": "67075",
+   "Jug_Entra": "NAEL GARCIA",
+   "camiseta": "25",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "66881",
+   "Jug_Sale": "EMILIANO NELSON MOISES",
+   "CarneEntra": "62893",
+   "Jug_Entra": "AGUSTIN FERNANDEZ",
+   "camiseta": "20",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65298",
+   "Jug_Sale": "NAHUEL CARMINATI",
+   "CarneEntra": "62926",
+   "Jug_Entra": "DIEGO GUIRADO",
+   "camiseta": "10",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64051",
+   "Jug_Sale": "JUAN MANUEL SOSA",
+   "CarneEntra": "67871",
+   "Jug_Entra": "MATEO EZEQUIEL PAGUA",
+   "camiseta": "17",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65350",
+   "Jug_Sale": "VALENTIN RUIZ",
+   "CarneEntra": "67077",
+   "Jug_Entra": "MAXIMILIANO ANDRES ACOSTA",
+   "camiseta": "18",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "66426",
+   "Jug_Sale": "LUCAS ROSA",
+   "CarneEntra": "67088",
+   "Jug_Entra": "THIAGO MARTUL",
+   "camiseta": "27",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61539",
+   "Jug_Sale": "LUCAS VALLE",
+   "CarneEntra": "61543",
+   "Jug_Entra": "SANTINO ARDITO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58632",
+   "Jug_Sale": "FAUSTO SASTRE",
+   "CarneEntra": "64405",
+   "Jug_Entra": "JUAN IGNACIO PERI",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61769",
+   "Jug_Sale": "SANTIAGO RAFANIELLO",
+   "CarneEntra": "64398",
+   "Jug_Entra": "GUILLERMO NORIA",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61706",
+   "Jug_Sale": "GUILLERMO SOSA",
+   "CarneEntra": "66503",
+   "Jug_Entra": "CLAUDIO NICOLAS SOSA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61540",
+   "Jug_Sale": "RAMIRO DANZA",
+   "CarneEntra": "66502",
+   "Jug_Entra": "PEDRO MELAZZI",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58629",
+   "Jug_Sale": "FRANCISCO AGOSTO",
+   "CarneEntra": "58634",
+   "Jug_Entra": "THIAGO MISA",
+   "camiseta": "99",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65350",
+   "Nombre": "VALENTIN RUIZ",
+   "minutos": "36",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65350",
+   "Nombre": "VALENTIN RUIZ",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66426",
+   "Nombre": "LUCAS ROSA",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67077",
+   "Nombre": "MAXIMILIANO ANDRES ACOSTA",
+   "minutos": "73",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58629",
+   "Nombre": "FRANCISCO AGOSTO",
+   "minutos": "4",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58629",
+   "Nombre": "FRANCISCO AGOSTO",
+   "minutos": "58",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

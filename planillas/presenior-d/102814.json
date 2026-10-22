@@ -1,0 +1,279 @@
+{
+ "id": "102814",
+ "categoria": "presenior-d",
+ "serie": "PSDTA",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "OLD BRENDANS CLUB",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "927",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"D\" TIT. y ASC.",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-10-10 11:00:00",
+  "Fecha_fin": "2026-10-10 11:00:00",
+  "Locatario": "OLD BRENDANS CLUB",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35203",
+   "Nombre": "SANTIAGO HUELMO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "34281",
+   "Nombre": "MIGUEL PITETTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "25908",
+   "Nombre": "JUAN MANUEL LAZBAL",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "23486",
+   "Nombre": "SEBASTIAN VIDAL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "38649",
+   "Nombre": "ADRIAN RIBERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "20392",
+   "Nombre": "SEBASTIAN MOREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "21036",
+   "Nombre": "JUAN AGUSTIN MURIAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "31607",
+   "Nombre": "FEDERICO MARTIN GOMEZ",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24874",
+   "Nombre": "MARCELO ADRIAN CAMMARANO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "27751",
+   "Nombre": "GUZMAN DANIEL MONTGOMERY",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46295",
+   "Nombre": "MARTIN VARELA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38960",
+   "Nombre": "MAURO MIGUEL BARONE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64423",
+   "Nombre": "PABLO SEBASTIAN COLOMBO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "50518",
+   "Nombre": "LUCIANO MONTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "37149",
+   "Nombre": "GERMAN REY",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30402",
+   "Nombre": "GONZALO MARTIN PERALTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "58504",
+   "Nombre": "EMMANUEL OSCAR GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "39618",
+   "Nombre": "AGUSTIN COSTA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "39622",
+   "Nombre": "ISMAEL NAPOLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "35156",
+   "Nombre": "ESTEBAN ORLANDO CABO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "25665",
+   "Nombre": "JONATHAN ADRIAN PACHECO",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "34281",
+   "Jug_Sale": "MIGUEL PITETTA",
+   "CarneEntra": "51479",
+   "Jug_Entra": "LUIS ANDRES SOSA",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25908",
+   "Jug_Sale": "JUAN MANUEL LAZBAL",
+   "CarneEntra": "18387",
+   "Jug_Entra": "ALVARO BELISTRI",
+   "camiseta": "5",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "35203",
+   "Jug_Sale": "SANTIAGO HUELMO",
+   "CarneEntra": "34841",
+   "Jug_Entra": "GONZALO FEDERICO ROSSO",
+   "camiseta": "27",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "31607",
+   "Jug_Sale": "FEDERICO MARTIN GOMEZ",
+   "CarneEntra": "25908",
+   "Jug_Entra": "JUAN MANUEL LAZBAL",
+   "camiseta": "32",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "25908",
+   "Jug_Sale": "JUAN MANUEL LAZBAL",
+   "CarneEntra": "35203",
+   "Jug_Entra": "SANTIAGO HUELMO",
+   "camiseta": "4",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "35156",
+   "Jug_Sale": "ESTEBAN ORLANDO CABO",
+   "CarneEntra": "66383",
+   "Jug_Entra": "EMILIANO JAVIER RODRIGUEZ",
+   "camiseta": "27",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "38960",
+   "Jug_Sale": "MAURO MIGUEL BARONE",
+   "CarneEntra": "40437",
+   "Jug_Entra": "GERMAN FARIAS",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25665",
+   "Jug_Sale": "JONATHAN ADRIAN PACHECO",
+   "CarneEntra": "30387",
+   "Jug_Entra": "AGUSTIN NICOLAS GUARCH",
+   "camiseta": "36",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "30402",
+   "Jug_Sale": "GONZALO MARTIN PERALTA",
+   "CarneEntra": "36714",
+   "Jug_Entra": "GONZALO MARTIN FERNANDEZ",
+   "camiseta": "17",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "minutos": "30",
+   "EnContra": "0"
+  },
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "minutos": "66",
+   "EnContra": "0"
+  },
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "minutos": "78",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "39618",
+   "Nombre": "AGUSTIN COSTA",
+   "minutos": "31",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MARTIN VARELA",
+   "observaciones": ""
+  }
+ ]
+}

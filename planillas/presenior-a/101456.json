@@ -1,0 +1,282 @@
+{
+ "id": "101456",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "INDEPENDIENTE",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "89",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-09-05 11:10:00",
+  "Fecha_fin": "2026-09-05 11:10:00",
+  "Locatario": "INDEPENDIENTE",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "26091",
+   "Nombre": "JESUS MORALES",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "26209",
+   "Nombre": "FEDERICO ISMAEL OLIVERA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "22901",
+   "Nombre": "JUAN IGNACIO LOZANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "26963",
+   "Nombre": "MATIAS PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40282",
+   "Nombre": "DIEGO FERNANDO VARINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "31037",
+   "Nombre": "JOHN CHRISTOPHER AYALA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "30261",
+   "Nombre": "JOAQUIN MURARA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "29449",
+   "Nombre": "JAVIER MAGNONE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "26525",
+   "Nombre": "JOAQUIN ROSSI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "24833",
+   "Nombre": "PABLO SASIAIN",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24773",
+   "Nombre": "DIEGO KSIAZENICKI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "40434",
+   "Nombre": "JUAN PABLO DEUS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27444",
+   "Nombre": "FERNANDO RUBEN MATO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26202",
+   "Nombre": "AGUSTIN SANTIAGO DAGUERRE",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "33051",
+   "Nombre": "JUAN MARCELO DUTRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "25135",
+   "Nombre": "RODRIGO CAMPOAMOR",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "36531",
+   "Nombre": "IGNACIO JIMENEZ",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "25243",
+   "Nombre": "DIEGO CABRERA",
+   "camiseta": "80",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23159",
+   "Nombre": "NICOLAS LOPEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "33503",
+   "Nombre": "NICOLAS FEUERSTEIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "23357",
+   "Nombre": "MIGUEL IGNACIO FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "25027",
+   "Nombre": "SANTIAGO MATIAS RAMA",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24773",
+   "Jug_Sale": "DIEGO KSIAZENICKI",
+   "CarneEntra": "66577",
+   "Jug_Entra": "JORGE ANDRES ZUBILLAGA",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26091",
+   "Jug_Sale": "JESUS MORALES",
+   "CarneEntra": "31467",
+   "Jug_Entra": "RODRIGO HUGO OLIVERA",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26963",
+   "Jug_Sale": "MATIAS PEREZ",
+   "CarneEntra": "40122",
+   "Jug_Entra": "HUGO FERNANDO DONATTO",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26525",
+   "Jug_Sale": "JOAQUIN ROSSI",
+   "CarneEntra": "21386",
+   "Jug_Entra": "EMILIANO PEDRAGOSA",
+   "camiseta": "71",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29449",
+   "Jug_Sale": "JAVIER MAGNONE",
+   "CarneEntra": "52863",
+   "Jug_Entra": "DAMIAN IGNACIO BAGINI",
+   "camiseta": "19",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "40282",
+   "Jug_Sale": "DIEGO FERNANDO VARINI",
+   "CarneEntra": "30239",
+   "Jug_Entra": "IGNACIO BOROTRA",
+   "camiseta": "21",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "30261",
+   "Jug_Sale": "JOAQUIN MURARA",
+   "CarneEntra": "29888",
+   "Jug_Entra": "ANDRES RAPETTI",
+   "camiseta": "33",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "23357",
+   "Jug_Sale": "MIGUEL IGNACIO FERNANDEZ",
+   "CarneEntra": "27997",
+   "Jug_Entra": "NICOLAS VALDEZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33503",
+   "Jug_Sale": "NICOLAS FEUERSTEIN",
+   "CarneEntra": "26713",
+   "Jug_Entra": "GUZMAN LUIS CASARINO",
+   "camiseta": "10",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "23159",
+   "Jug_Sale": "NICOLAS LOPEZ",
+   "CarneEntra": "22417",
+   "Jug_Entra": "MATIAS VARINI",
+   "camiseta": "3",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "36531",
+   "Jug_Sale": "IGNACIO JIMENEZ",
+   "CarneEntra": "26408",
+   "Jug_Entra": "RODRIGO LEGUISAMO",
+   "camiseta": "1",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "29449",
+   "Nombre": "JAVIER MAGNONE",
+   "minutos": "8",
+   "EnContra": "0"
+  },
+  {
+   "carne": "29449",
+   "Nombre": "JAVIER MAGNONE",
+   "minutos": "54",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "JUAN PABLO DEUS",
+   "observaciones": ""
+  }
+ ]
+}

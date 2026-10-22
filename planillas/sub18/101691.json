@@ -1,0 +1,299 @@
+{
+ "id": "101691",
+ "categoria": "sub18",
+ "serie": "18-61",
+ "fecha": 1,
+ "fechaHora": "2026-09-06 15:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "SANTA ELENA LAGOMAR",
+ "visitante": "SAN AGUSTIN",
+ "gl": 5,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "327",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 6 GRUPO 1",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-06 17:30:00",
+  "Fecha_fin": "2026-09-06 17:30:00",
+  "Locatario": "SANTA ELENA LAGOMAR",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "SAN AGUSTIN",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57824",
+   "Nombre": "JOAQUIN DE AVILA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57807",
+   "Nombre": "BENJAMIN BARLOCCI",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "69055",
+   "Nombre": "DIEGO LEANDRO FERNANDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57797",
+   "Nombre": "JUAN CRUZ GÜENA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57455",
+   "Nombre": "DEVIN NOAH SALDAÑA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60633",
+   "Nombre": "MIRKO ANGEL IBARBURU",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60617",
+   "Nombre": "MATEO SCARONE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57817",
+   "Nombre": "SANTIAGO PALO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "57806",
+   "Nombre": "TOMAS ELIZEIRE",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "60635",
+   "Nombre": "ALEX FERRER",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "57823",
+   "Nombre": "GUILLERMO RODRIGUEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57287",
+   "Nombre": "HUGO ADRIAN BRESCIA",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "67884",
+   "Nombre": "PATRICIO URUGUAY PEREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62144",
+   "Nombre": "MATEO GONZALEZ",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "62660",
+   "Nombre": "JUAN MARTIN RICARDI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "67878",
+   "Nombre": "JUAN IGNACIO LEDESMA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "67883",
+   "Nombre": "ALEJO PEZZOLANO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60378",
+   "Nombre": "FRANCO PATRONE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67880",
+   "Nombre": "FELIPE RIVERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68406",
+   "Nombre": "MATHEO JAVIER PUÑALES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62130",
+   "Nombre": "FRANCO FOFONKA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "62156",
+   "Nombre": "JUAN JOSE CABILLON",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57455",
+   "Jug_Sale": "DEVIN NOAH SALDAÑA",
+   "CarneEntra": "57813",
+   "Jug_Entra": "BRUNO CAMADINI",
+   "camiseta": "92",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57823",
+   "Jug_Sale": "GUILLERMO RODRIGUEZ",
+   "CarneEntra": "65911",
+   "Jug_Entra": "SANTINO MERINGOLO",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57797",
+   "Jug_Sale": "JUAN CRUZ GÜENA",
+   "CarneEntra": "57823",
+   "Jug_Entra": "GUILLERMO RODRIGUEZ",
+   "camiseta": "72",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "60635",
+   "Jug_Sale": "ALEX FERRER",
+   "CarneEntra": "57455",
+   "Jug_Entra": "DEVIN NOAH SALDAÑA",
+   "camiseta": "8",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "57807",
+   "Jug_Sale": "BENJAMIN BARLOCCI",
+   "CarneEntra": "60635",
+   "Jug_Entra": "ALEX FERRER",
+   "camiseta": "80",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68406",
+   "Jug_Sale": "MATHEO JAVIER PUÑALES",
+   "CarneEntra": "62158",
+   "Jug_Entra": "SANTIAGO PECHIAR",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62156",
+   "Jug_Sale": "JUAN JOSE CABILLON",
+   "CarneEntra": "68797",
+   "Jug_Entra": "FELIPE PEREZ",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67880",
+   "Jug_Sale": "FELIPE RIVERO",
+   "CarneEntra": "68338",
+   "Jug_Entra": "IGNACIO COELHO DE OLIVEIRA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67884",
+   "Jug_Sale": "PATRICIO URUGUAY PEREZ",
+   "CarneEntra": "63230",
+   "Jug_Entra": "FAUSTO CORES",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67883",
+   "Jug_Sale": "ALEJO PEZZOLANO",
+   "CarneEntra": "67881",
+   "Jug_Entra": "SHANDELAIO JOAQUIN GONZALEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57455",
+   "Nombre": "DEVIN NOAH SALDAÑA",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57455",
+   "Nombre": "DEVIN NOAH SALDAÑA",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "69055",
+   "Nombre": "DIEGO LEANDRO FERNANDEZ",
+   "minutos": "29",
+   "EnContra": "0"
+  },
+  {
+   "carne": "69055",
+   "Nombre": "DIEGO LEANDRO FERNANDEZ",
+   "minutos": "64",
+   "EnContra": "0"
+  },
+  {
+   "carne": "69055",
+   "Nombre": "DIEGO LEANDRO FERNANDEZ",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62156",
+   "Nombre": "JUAN JOSE CABILLON",
+   "minutos": "28",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FRANCO FOFONKA",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,315 @@
+{
+ "id": "100872",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "E.L.F.",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "233",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-08-15 10:55:00",
+  "Fecha_fin": "2026-08-15 10:55:00",
+  "Locatario": "E.L.F.",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "21497",
+   "Nombre": "PABLO MARCELO EASTON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "50274",
+   "Nombre": "SANTIAGO ESPAÑA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26340",
+   "Nombre": "AGUSTIN CAÑADAS",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27935",
+   "Nombre": "NICOLAS MARTIN PARDO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "23793",
+   "Nombre": "IGNACIO ILDEFONSO PEREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "24317",
+   "Nombre": "DIEGO IGNACIO PUPPO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "22081",
+   "Nombre": "GUILLERMO GROSS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "25659",
+   "Nombre": "FREDY GASTON BATISTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33595",
+   "Nombre": "FACUNDO CALVI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "26925",
+   "Nombre": "SANTIAGO GASTON SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "34958",
+   "Nombre": "FEDERICO CAMPOS",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67636",
+   "Nombre": "RICARDO GONCALVES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25030",
+   "Nombre": "JUAN MANUEL ROVELLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "28851",
+   "Nombre": "GUILLERMO MUTAY",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "16315",
+   "Nombre": "MATIAS FERMIN IRAZABAL",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25876",
+   "Nombre": "SANTIAGO ANDRES ARROYO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "28502",
+   "Nombre": "MARTIN PRESNO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "28499",
+   "Nombre": "MARTIN LARRAURI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "29031",
+   "Nombre": "FERNANDO BELOSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68244",
+   "Nombre": "JORGE SEBASTIAN CALATAYUD",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "62272",
+   "Nombre": "DIEGO NICOLAS LA PAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "25301",
+   "Nombre": "GERONIMO METHOL",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50274",
+   "Jug_Sale": "SANTIAGO ESPAÑA",
+   "CarneEntra": "26741",
+   "Jug_Entra": "FRANCO CROTTI",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26925",
+   "Jug_Sale": "SANTIAGO GASTON SILVA",
+   "CarneEntra": "26824",
+   "Jug_Entra": "MATHIAS PENSATORI",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23793",
+   "Jug_Sale": "IGNACIO ILDEFONSO PEREZ",
+   "CarneEntra": "66157",
+   "Jug_Entra": "FABIAN GASTON BLANCO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22081",
+   "Jug_Sale": "GUILLERMO GROSS",
+   "CarneEntra": "64066",
+   "Jug_Entra": "NERIO JOSE GIL",
+   "camiseta": "21",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "27935",
+   "Jug_Sale": "NICOLAS MARTIN PARDO",
+   "CarneEntra": "28383",
+   "Jug_Entra": "AGUSTIN JOSE SARNO",
+   "camiseta": "18",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "25659",
+   "Jug_Sale": "FREDY GASTON BATISTA",
+   "CarneEntra": "17988",
+   "Jug_Entra": "ENRIQUE LEV",
+   "camiseta": "4",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "26824",
+   "Jug_Sale": "MATHIAS PENSATORI",
+   "CarneEntra": "66214",
+   "Jug_Entra": "JONATHAN MAICOL GARCIA",
+   "camiseta": "23",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "27935",
+   "Jug_Sale": "NICOLAS MARTIN PARDO",
+   "CarneEntra": "33477",
+   "Jug_Entra": "GONZALO JOAQUIN ULERY",
+   "camiseta": "9",
+   "minutos": "92"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "29031",
+   "Jug_Sale": "FERNANDO BELOSO",
+   "CarneEntra": "23563",
+   "Jug_Entra": "JOSE LUIS OLIVERA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68244",
+   "Jug_Sale": "JORGE SEBASTIAN CALATAYUD",
+   "CarneEntra": "15330",
+   "Jug_Entra": "MATIAS RAFAEL PLADA",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25301",
+   "Jug_Sale": "GERONIMO METHOL",
+   "CarneEntra": "37949",
+   "Jug_Entra": "IGNACIO ROSATI",
+   "camiseta": "13",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "28499",
+   "Jug_Sale": "MARTIN LARRAURI",
+   "CarneEntra": "55496",
+   "Jug_Entra": "JOAQUIN ANDRES DELFINER",
+   "camiseta": "15",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "28502",
+   "Jug_Sale": "MARTIN PRESNO",
+   "CarneEntra": "37000",
+   "Jug_Entra": "IGNACIO JULIO PUCURULL",
+   "camiseta": "18",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "37000",
+   "Jug_Sale": "IGNACIO JULIO PUCURULL",
+   "CarneEntra": "33243",
+   "Jug_Entra": "ALFONSO FREIRIA",
+   "camiseta": "17",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "25030",
+   "Jug_Sale": "JUAN MANUEL ROVELLA",
+   "CarneEntra": "18842",
+   "Jug_Entra": "RODRIGO ALBERTO DURAN",
+   "camiseta": "19",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "26824",
+   "Nombre": "MATHIAS PENSATORI",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "26824",
+   "Nombre": "MATHIAS PENSATORI",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "34958",
+   "Nombre": "FEDERICO CAMPOS",
+   "minutos": "93",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

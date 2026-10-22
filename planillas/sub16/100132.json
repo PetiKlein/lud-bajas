@@ -1,0 +1,294 @@
+{
+ "id": "100132",
+ "categoria": "sub16",
+ "serie": "16-2-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 13:30:00",
+ "cancha": "ELF (LICEO FRANCES)",
+ "local": "E.L.F.",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "37",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 2",
+  "Cancha": "ELF (LICEO FRANCES)",
+  "Fecha_Inicio": "2026-06-14 15:10:00",
+  "Fecha_fin": "2026-06-14 15:10:00",
+  "Locatario": "E.L.F.",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62388",
+   "Nombre": "GONZALO VERANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64104",
+   "Nombre": "JUAN MARTIN WALLACE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67516",
+   "Nombre": "FRANCISCO MORAGUES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64002",
+   "Nombre": "JUAN PABLO REHERMANN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61455",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62369",
+   "Nombre": "MAURICIO ZECCHI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62844",
+   "Nombre": "THIAGO BOUREL",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65470",
+   "Nombre": "DANTE BAROSSI",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "68433",
+   "Nombre": "TOMAS LLUBERAS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64092",
+   "Nombre": "JUAN ENRIQUE ALVES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63130",
+   "Nombre": "EMILIANO PUCEIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63045",
+   "Nombre": "RENZO FERNANDEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "63941",
+   "Nombre": "FEDERICO DANERS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64277",
+   "Nombre": "FRANCISCO BISELLI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66865",
+   "Nombre": "ZACK BEKMEZIAN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64176",
+   "Nombre": "MANUEL MENDARO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62871",
+   "Nombre": "BENJAMIN FERNANDEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67725",
+   "Nombre": "MATEO SEÑORALE",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66552",
+   "Nombre": "FACUNDO NICOLAS ORIBE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66549",
+   "Nombre": "JOAQUIN LOPEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64177",
+   "Nombre": "VALENTIN GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66547",
+   "Nombre": "TOMAS SALORT",
+   "camiseta": "74",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68433",
+   "Jug_Sale": "TOMAS LLUBERAS",
+   "CarneEntra": "67156",
+   "Jug_Entra": "JUAN IGNACIO ARANCO",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65470",
+   "Jug_Sale": "DANTE BAROSSI",
+   "CarneEntra": "64583",
+   "Jug_Entra": "FRANCISCO ALCIATURI",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64092",
+   "Jug_Sale": "JUAN ENRIQUE ALVES",
+   "CarneEntra": "68154",
+   "Jug_Entra": "RODRIGO COIROLO",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67516",
+   "Jug_Sale": "FRANCISCO MORAGUES",
+   "CarneEntra": "64105",
+   "Jug_Entra": "JEF VAN DAMME",
+   "camiseta": "21",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "62369",
+   "Jug_Sale": "MAURICIO ZECCHI",
+   "CarneEntra": "62399",
+   "Jug_Entra": "JUAN IGNACIO BLANCO",
+   "camiseta": "17",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64002",
+   "Jug_Sale": "JUAN PABLO REHERMANN",
+   "CarneEntra": "67155",
+   "Jug_Entra": "ALFONSO DI MURRO",
+   "camiseta": "26",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66552",
+   "Jug_Sale": "FACUNDO NICOLAS ORIBE",
+   "CarneEntra": "67724",
+   "Jug_Entra": "TIZIANO AMADO",
+   "camiseta": "36",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64277",
+   "Jug_Sale": "FRANCISCO BISELLI",
+   "CarneEntra": "64175",
+   "Jug_Entra": "LUCAS COALLA",
+   "camiseta": "39",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62871",
+   "Jug_Sale": "BENJAMIN FERNANDEZ",
+   "CarneEntra": "66551",
+   "Jug_Entra": "EMANUEL CORREA",
+   "camiseta": "73",
+   "minutos": "22"
+  },
+  {
+   "CarneSale": "64177",
+   "Jug_Sale": "VALENTIN GONZALEZ",
+   "CarneEntra": "68713",
+   "Jug_Entra": "FEDERICO FERRARES",
+   "camiseta": "89",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "66551",
+   "Jug_Sale": "EMANUEL CORREA",
+   "CarneEntra": "63742",
+   "Jug_Entra": "VALENTIN MURIAS",
+   "camiseta": "35",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "66549",
+   "Jug_Sale": "JOAQUIN LOPEZ",
+   "CarneEntra": "66868",
+   "Jug_Entra": "MARTIN IURATO",
+   "camiseta": "23",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "63941",
+   "Jug_Sale": "FEDERICO DANERS",
+   "CarneEntra": "64277",
+   "Jug_Entra": "FRANCISCO BISELLI",
+   "camiseta": "11",
+   "minutos": "71"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67156",
+   "Nombre": "JUAN IGNACIO ARANCO",
+   "minutos": "54",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67725",
+   "Nombre": "MATEO SEÑORALE",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -8,7 +8,7 @@
      "id": "mayores-a",
      "letra": "A",
      "nombre": "Mayores A",
-     "actualizado": "2026-10-22T12:19:55.124Z",
+     "actualizado": "2026-10-22T13:10:10.468Z",
      "partidos": 152,
      "conPlanilla": 152,
      "conProblemas": 22,
@@ -18,7 +18,7 @@
      "id": "mayores-b",
      "letra": "B",
      "nombre": "Mayores B",
-     "actualizado": "2026-10-22T12:19:55.162Z",
+     "actualizado": "2026-10-22T13:10:10.498Z",
      "partidos": 151,
      "conPlanilla": 151,
      "conProblemas": 25,
@@ -28,7 +28,7 @@
      "id": "mayores-c",
      "letra": "C",
      "nombre": "Mayores C",
-     "actualizado": "2026-10-22T12:19:55.197Z",
+     "actualizado": "2026-10-22T13:10:10.520Z",
      "partidos": 152,
      "conPlanilla": 152,
      "conProblemas": 23,
@@ -38,7 +38,7 @@
      "id": "mayores-d",
      "letra": "D",
      "nombre": "Mayores D",
-     "actualizado": "2026-10-22T12:19:55.231Z",
+     "actualizado": "2026-10-22T13:10:10.542Z",
      "partidos": 152,
      "conPlanilla": 152,
      "conProblemas": 21,
@@ -48,7 +48,7 @@
      "id": "mayores-e",
      "letra": "E",
      "nombre": "Mayores E",
-     "actualizado": "2026-10-22T12:19:55.264Z",
+     "actualizado": "2026-10-22T13:10:10.563Z",
      "partidos": 152,
      "conPlanilla": 151,
      "conProblemas": 31,
@@ -58,7 +58,7 @@
      "id": "mayores-f",
      "letra": "F",
      "nombre": "Mayores F",
-     "actualizado": "2026-10-22T12:19:55.290Z",
+     "actualizado": "2026-10-22T13:10:10.583Z",
      "partidos": 152,
      "conPlanilla": 151,
      "conProblemas": 37,
@@ -68,7 +68,7 @@
      "id": "mayores-g",
      "letra": "G",
      "nombre": "Mayores G",
-     "actualizado": "2026-10-22T12:19:55.315Z",
+     "actualizado": "2026-10-22T13:10:10.601Z",
      "partidos": 126,
      "conPlanilla": 126,
      "conProblemas": 29,
@@ -84,7 +84,7 @@
      "id": "sub20-a",
      "letra": "A",
      "nombre": "Sub 20 A",
-     "actualizado": "2026-10-22T12:19:55.341Z",
+     "actualizado": "2026-10-22T13:10:10.618Z",
      "partidos": 152,
      "conPlanilla": 151,
      "conProblemas": 34,
@@ -94,7 +94,7 @@
      "id": "sub20-b",
      "letra": "B",
      "nombre": "Sub 20 B",
-     "actualizado": "2026-10-22T12:19:55.367Z",
+     "actualizado": "2026-10-22T13:10:10.646Z",
      "partidos": 152,
      "conPlanilla": 148,
      "conProblemas": 30,
@@ -104,7 +104,7 @@
      "id": "sub20-c",
      "letra": "C",
      "nombre": "Sub 20 C",
-     "actualizado": "2026-10-22T12:19:55.407Z",
+     "actualizado": "2026-10-22T13:10:10.666Z",
      "partidos": 152,
      "conPlanilla": 147,
      "conProblemas": 45,
@@ -120,7 +120,7 @@
      "id": "reserva-a",
      "letra": "A",
      "nombre": "Reserva A",
-     "actualizado": "2026-10-22T12:19:55.433Z",
+     "actualizado": "2026-10-22T13:10:10.688Z",
      "partidos": 144,
      "conPlanilla": 144,
      "conProblemas": 23,
@@ -130,7 +130,7 @@
      "id": "reserva-b",
      "letra": "B",
      "nombre": "Reserva B",
-     "actualizado": "2026-10-22T12:19:55.465Z",
+     "actualizado": "2026-10-22T13:10:10.711Z",
      "partidos": 144,
      "conPlanilla": 144,
      "conProblemas": 30,
@@ -140,7 +140,7 @@
      "id": "reserva-c",
      "letra": "C",
      "nombre": "Reserva C",
-     "actualizado": "2026-10-22T12:19:55.494Z",
+     "actualizado": "2026-10-22T13:10:10.733Z",
      "partidos": 145,
      "conPlanilla": 141,
      "conProblemas": 23,
@@ -150,11 +150,135 @@
      "id": "reserva-d",
      "letra": "D",
      "nombre": "Reserva D",
-     "actualizado": "2026-10-22T12:19:55.527Z",
+     "actualizado": "2026-10-22T13:10:10.756Z",
      "partidos": 209,
      "conPlanilla": 198,
      "conProblemas": 71,
      "equipos": 23
+    }
+   ]
+  },
+  {
+   "id": "presenior",
+   "nombre": "Pre Senior",
+   "divisionales": [
+    {
+     "id": "presenior-a",
+     "letra": "A",
+     "nombre": "Pre Senior A",
+     "actualizado": "2026-10-22T13:10:10.784Z",
+     "partidos": 144,
+     "conPlanilla": 143,
+     "conProblemas": 30,
+     "equipos": 16
+    },
+    {
+     "id": "presenior-b",
+     "letra": "B",
+     "nombre": "Pre Senior B",
+     "actualizado": "2026-10-22T13:10:10.793Z",
+     "partidos": 144,
+     "conPlanilla": 144,
+     "conProblemas": 33,
+     "equipos": 16
+    },
+    {
+     "id": "presenior-c",
+     "letra": "C",
+     "nombre": "Pre Senior C",
+     "actualizado": "2026-10-22T13:10:10.805Z",
+     "partidos": 144,
+     "conPlanilla": 144,
+     "conProblemas": 36,
+     "equipos": 16
+    },
+    {
+     "id": "presenior-d",
+     "letra": "D",
+     "nombre": "Pre Senior D",
+     "actualizado": "2026-10-22T13:10:10.819Z",
+     "partidos": 145,
+     "conPlanilla": 145,
+     "conProblemas": 60,
+     "equipos": 16
+    },
+    {
+     "id": "presenior-e",
+     "letra": "E",
+     "nombre": "Pre Senior E",
+     "actualizado": "2026-10-22T13:10:10.829Z",
+     "partidos": 164,
+     "conPlanilla": 159,
+     "conProblemas": 62,
+     "equipos": 19
+    }
+   ]
+  },
+  {
+   "id": "mas40",
+   "nombre": "Más 40",
+   "divisionales": [
+    {
+     "id": "mas40-a",
+     "letra": "A",
+     "nombre": "Más 40 A",
+     "actualizado": "2026-10-22T13:10:10.842Z",
+     "partidos": 144,
+     "conPlanilla": 141,
+     "conProblemas": 53,
+     "equipos": 16
+    },
+    {
+     "id": "mas40-b",
+     "letra": "B",
+     "nombre": "Más 40 B",
+     "actualizado": "2026-10-22T13:10:10.854Z",
+     "partidos": 145,
+     "conPlanilla": 137,
+     "conProblemas": 64,
+     "equipos": 16
+    },
+    {
+     "id": "mas40-c",
+     "letra": "C",
+     "nombre": "Más 40 C",
+     "actualizado": "2026-10-22T13:10:10.863Z",
+     "partidos": 142,
+     "conPlanilla": 141,
+     "conProblemas": 66,
+     "equipos": 19
+    }
+   ]
+  },
+  {
+   "id": "sub18",
+   "nombre": "Sub 18",
+   "divisionales": [
+    {
+     "id": "sub18",
+     "letra": "Única",
+     "nombre": "Sub 18",
+     "actualizado": "2026-10-22T13:10:10.883Z",
+     "partidos": 367,
+     "conPlanilla": 348,
+     "conProblemas": 156,
+     "equipos": 50
+    }
+   ]
+  },
+  {
+   "id": "sub16",
+   "nombre": "Sub 16",
+   "divisionales": [
+    {
+     "id": "sub16",
+     "letra": "Única",
+     "nombre": "Sub 16",
+     "actualizado": "2026-10-22T13:10:10.909Z",
+     "partidos": 284,
+     "conPlanilla": 276,
+     "conProblemas": 136,
+     "equipos": 39
     }
    ]
   }

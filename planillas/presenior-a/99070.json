@@ -1,0 +1,301 @@
+{
+ "id": "99070",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS CLUB",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "45",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-05-23 13:15:00",
+  "Fecha_fin": "2026-05-23 13:15:00",
+  "Locatario": "OLD CHRISTIANS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "26015",
+   "Nombre": "GUILLERMO FEDERICO BRITOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26806",
+   "Nombre": "JULIO MANUEL LESTIDO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "21639",
+   "Nombre": "EDUARDO GABRIEL PEIRANO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "29797",
+   "Nombre": "JAVIER SARTORI",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "22099",
+   "Nombre": "IGNACIO MARIA PEREZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "20036",
+   "Nombre": "MATIAS CROSTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "33107",
+   "Nombre": "DIEGO RAFAEL ZAFFARONI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "26727",
+   "Nombre": "CARLOS EDUARDO SCHECK",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "33837",
+   "Nombre": "MARTIN GUIDOBONO",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "60126",
+   "Nombre": "DIEGO REIMUNDES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28143",
+   "Nombre": "EMILIANO GIOIA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "53628",
+   "Nombre": "BRUNO DAVID GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27674",
+   "Nombre": "MARTIN GIRALDI",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40521",
+   "Nombre": "CHRISTIAN EDUARDO FERRET",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "59140",
+   "Nombre": "DIEGO ANDRES LOPEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "32437",
+   "Nombre": "EMILIANO MARQUES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "31284",
+   "Nombre": "FELIPE MARIA CALZA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31833",
+   "Nombre": "JUAN MARTIN COURTOISIE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "35132",
+   "Nombre": "GIANFRANCO ROVETTA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "17299",
+   "Nombre": "JOSE PEDRO CARZOLIO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "29119",
+   "Nombre": "ALEJANDRO JUAN RAIZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "23766",
+   "Nombre": "SEBASTIAN DE MARTINO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "29797",
+   "Jug_Sale": "JAVIER SARTORI",
+   "CarneEntra": "28835",
+   "Jug_Entra": "JUAN IGNACIO GORBARAN",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33837",
+   "Jug_Sale": "MARTIN GUIDOBONO",
+   "CarneEntra": "26729",
+   "Jug_Entra": "LUIS IGNACIO CRISCI",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33107",
+   "Jug_Sale": "DIEGO RAFAEL ZAFFARONI",
+   "CarneEntra": "40060",
+   "Jug_Entra": "MATEO LONG",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26727",
+   "Jug_Sale": "CARLOS EDUARDO SCHECK",
+   "CarneEntra": "30140",
+   "Jug_Entra": "GUZMAN JOSE ALFONSO",
+   "camiseta": "59",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28143",
+   "Jug_Sale": "EMILIANO GIOIA",
+   "CarneEntra": "33189",
+   "Jug_Entra": "THOMAS SCHIMDT",
+   "camiseta": "14",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "60126",
+   "Jug_Sale": "DIEGO REIMUNDES",
+   "CarneEntra": "27137",
+   "Jug_Entra": "DIEGO PEDRO MARIÑO",
+   "camiseta": "9",
+   "minutos": "16"
+  },
+  {
+   "CarneSale": "21639",
+   "Jug_Sale": "EDUARDO GABRIEL PEIRANO",
+   "CarneEntra": "24790",
+   "Jug_Entra": "IGNACIO NOGUEIRA",
+   "camiseta": "11",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "22099",
+   "Jug_Sale": "IGNACIO MARIA PEREZ",
+   "CarneEntra": "26731",
+   "Jug_Entra": "JOSE PEDRO ARAMENDIA",
+   "camiseta": "92",
+   "minutos": "32"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "23766",
+   "Jug_Sale": "SEBASTIAN DE MARTINO",
+   "CarneEntra": "27583",
+   "Jug_Entra": "ESTEBAN DAVID ZAPATA",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59140",
+   "Jug_Sale": "DIEGO ANDRES LOPEZ",
+   "CarneEntra": "31298",
+   "Jug_Entra": "SANTIAGO OMAR TORIJA",
+   "camiseta": "19",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "27674",
+   "Jug_Sale": "MARTIN GIRALDI",
+   "CarneEntra": "27656",
+   "Jug_Entra": "NICOLAS ALEJANDRO MEYER",
+   "camiseta": "18",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "27583",
+   "Jug_Sale": "ESTEBAN DAVID ZAPATA",
+   "CarneEntra": "33465",
+   "Jug_Entra": "PEDRO ISIDORO ROJA",
+   "camiseta": "45",
+   "minutos": "66"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60126",
+   "Nombre": "DIEGO REIMUNDES",
+   "minutos": "8",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "JULIO MANUEL LESTIDO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "MATIAS CROSTA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "CHRISTIAN EDUARDO FERRET",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "EMILIANO MARQUES",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "FELIPE MARIA CALZA",
+   "observaciones": ""
+  }
+ ]
+}

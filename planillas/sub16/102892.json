@@ -1,0 +1,247 @@
+{
+ "id": "102892",
+ "categoria": "sub16",
+ "serie": "16-32",
+ "fecha": 4,
+ "fechaHora": "2026-10-11 13:30:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "COLEGIO SANTA ELENA",
+ "visitante": "UNIVERSITARIO VERONES",
+ "gl": 0,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "212",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 3 RUEDA 2",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-10-11 15:10:00",
+  "Fecha_fin": "2026-10-11 15:10:00",
+  "Locatario": "COLEGIO SANTA ELENA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "UNIVERSITARIO VERONES",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65389",
+   "Nombre": "LORENZO PERROTTA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66009",
+   "Nombre": "JOAQUIN DOMINGO LUCA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65400",
+   "Nombre": "JUAN EMILIO BORGEAUD",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65402",
+   "Nombre": "FRANCO VILLAGRAN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65893",
+   "Nombre": "FACUNDO QUARTINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65398",
+   "Nombre": "BRUNO ANTONIO GIACOMINI",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68395",
+   "Nombre": "BORJA QUIROGA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68687",
+   "Nombre": "BERNARDO CALVIÑO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "65403",
+   "Nombre": "MATEO VALENTIN LOPEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61460",
+   "Nombre": "SANTIAGO GUTIERREZ",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "65396",
+   "Nombre": "IÑAKI SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66830",
+   "Nombre": "SANTINO MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65837",
+   "Nombre": "MATIAS ALBE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62829",
+   "Nombre": "MARTIN BRUNO LACUESTA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "60532",
+   "Nombre": "MANUEL FELIPE PEREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67436",
+   "Nombre": "FACUNDO NICOLAS ROLIN",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62532",
+   "Nombre": "AUGUSTO RODRIGUEZ",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62526",
+   "Nombre": "SANTIAGO MARIN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64345",
+   "Nombre": "ELIAS DAVID MARTINEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62548",
+   "Nombre": "FACUNDO NICOLAS CASTAÑARES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64022",
+   "Nombre": "BENJAMIN MENDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62523",
+   "Nombre": "GUILLERMO WARREN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65893",
+   "Jug_Sale": "FACUNDO QUARTINO",
+   "CarneEntra": "65585",
+   "Jug_Entra": "JOAQUIN MOREIRA",
+   "camiseta": "7",
+   "minutos": "55"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62526",
+   "Jug_Sale": "SANTIAGO MARIN",
+   "CarneEntra": "68191",
+   "Jug_Entra": "VALENTINO BRIOSI",
+   "camiseta": "23",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "65837",
+   "Jug_Sale": "MATIAS ALBE",
+   "CarneEntra": "67439",
+   "Jug_Entra": "SANTIAGO NICOLAS HERRERA",
+   "camiseta": "16",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "66830",
+   "Jug_Sale": "SANTINO MARTINEZ",
+   "CarneEntra": "62515",
+   "Jug_Entra": "SANTIAGO ACOSTA",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "60532",
+   "Jug_Sale": "MANUEL FELIPE PEREIRA",
+   "CarneEntra": "66830",
+   "Jug_Entra": "SANTINO MARTINEZ",
+   "camiseta": "3",
+   "minutos": "20"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "62829",
+   "Nombre": "MARTIN BRUNO LACUESTA",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64022",
+   "Nombre": "BENJAMIN MENDEZ",
+   "minutos": "54",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65837",
+   "Nombre": "MATIAS ALBE",
+   "minutos": "56",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67436",
+   "Nombre": "FACUNDO NICOLAS ROLIN",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67436",
+   "Nombre": "FACUNDO NICOLAS ROLIN",
+   "minutos": "68",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

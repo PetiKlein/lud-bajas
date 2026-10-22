@@ -1,0 +1,280 @@
+{
+ "id": "100879",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "COM.SINDICATO MEDICO",
+ "local": "SINDICATO MEDICO DEL URUGUAY",
+ "visitante": "CLUB ATLETICO BRAZO ORIENTAL",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "234",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COM.SINDICATO MEDICO",
+  "Fecha_Inicio": "2026-08-15 10:50:00",
+  "Fecha_fin": "2026-08-15 10:50:00",
+  "Locatario": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB ATLETICO BRAZO ORIENTAL",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57110",
+   "Nombre": "RICHARD ALEJANDRO ARAUJO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "24174",
+   "Nombre": "MARTIN HORACIO ZOLESSI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28758",
+   "Nombre": "MARTIN ESTEBAN SIERRA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "21378",
+   "Nombre": "NICOLAS ANTUNEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "22568",
+   "Nombre": "ESTEBAN FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "15384",
+   "Nombre": "EDUARDO NAKLE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "30026",
+   "Nombre": "ALEJANDRO AZZIZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "33746",
+   "Nombre": "ANDRES ISMAEL AGUILERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "31273",
+   "Nombre": "NICOLAS ACUÑA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "13778",
+   "Nombre": "MARCELO SERGIO ICASURIAGA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "43128",
+   "Nombre": "LUIS MARCELO JURADO",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "36575",
+   "Nombre": "RAMON HORACIO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19265",
+   "Nombre": "ROBERTO GASTON SOLER",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "25540",
+   "Nombre": "IGNACIO BELLO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "25585",
+   "Nombre": "NICOLAS GALMARINI",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "22551",
+   "Nombre": "RODRIGO DANIEL LESTIDO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "21969",
+   "Nombre": "MATIAS MUÑOZ",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "27920",
+   "Nombre": "GONZALO LEON ARIAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "27919",
+   "Nombre": "FRANCISCO ARIAS",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "25414",
+   "Nombre": "SERGIO LUIS MASTROGIOVANNI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "24780",
+   "Nombre": "FRANCISCO PEREIRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "46513",
+   "Nombre": "DIEGO ALFREDO LANZARO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24174",
+   "Jug_Sale": "MARTIN HORACIO ZOLESSI",
+   "CarneEntra": "30779",
+   "Jug_Entra": "FABRICIO JORDAN LUCERO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15384",
+   "Jug_Sale": "EDUARDO NAKLE",
+   "CarneEntra": "11858",
+   "Jug_Entra": "JUAN ANDRES ARRAGA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30026",
+   "Jug_Sale": "ALEJANDRO AZZIZ",
+   "CarneEntra": "25654",
+   "Jug_Entra": "GUILLERMO DANIEL MARTINEZ",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31273",
+   "Jug_Sale": "NICOLAS ACUÑA",
+   "CarneEntra": "30026",
+   "Jug_Entra": "ALEJANDRO AZZIZ",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28758",
+   "Jug_Sale": "MARTIN ESTEBAN SIERRA",
+   "CarneEntra": "15384",
+   "Jug_Entra": "EDUARDO NAKLE",
+   "camiseta": "20",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "21969",
+   "Jug_Sale": "MATIAS MUÑOZ",
+   "CarneEntra": "28139",
+   "Jug_Entra": "ENZO JOSE FUDA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22551",
+   "Jug_Sale": "RODRIGO DANIEL LESTIDO",
+   "CarneEntra": "40190",
+   "Jug_Entra": "PABLO NICOLAS MAGRIS",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24780",
+   "Jug_Sale": "FRANCISCO PEREIRA",
+   "CarneEntra": "36477",
+   "Jug_Entra": "ALEJANDRO SEBASTIAN BALDOVINO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19265",
+   "Jug_Sale": "ROBERTO GASTON SOLER",
+   "CarneEntra": "42942",
+   "Jug_Entra": "MAURICIO JAVIER RODRIGUEZ",
+   "camiseta": "4",
+   "minutos": "63"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "43128",
+   "Nombre": "LUIS MARCELO JURADO",
+   "minutos": "76",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "21969",
+   "Nombre": "MATIAS MUÑOZ",
+   "minutos": "8",
+   "EnContra": "1"
+  },
+  {
+   "carne": "25414",
+   "Nombre": "SERGIO LUIS MASTROGIOVANNI",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "36575",
+   "Nombre": "RAMON HORACIO RODRIGUEZ",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46513",
+   "Nombre": "DIEGO ALFREDO LANZARO",
+   "minutos": "30",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

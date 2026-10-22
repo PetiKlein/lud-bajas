@@ -1,0 +1,231 @@
+{
+ "id": "102331",
+ "categoria": "mas40-b",
+ "serie": "40CC",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "COM.SINDICATO MEDICO",
+ "local": "SINDICATO MEDICO DEL URUGUAY",
+ "visitante": "SA.FE.MA",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "487",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "MAS40 \"B\" PER. y DESC,",
+  "Cancha": "COM.SINDICATO MEDICO",
+  "Fecha_Inicio": "2026-09-26 11:00:00",
+  "Fecha_fin": "2026-09-26 11:00:00",
+  "Locatario": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "SA.FE.MA",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "16606",
+   "Nombre": "ALVARO CHIRICO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24174",
+   "Nombre": "MARTIN HORACIO ZOLESSI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "15384",
+   "Nombre": "EDUARDO NAKLE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "11999",
+   "Nombre": "JUAN MARCELO PAHOR",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "22568",
+   "Nombre": "ESTEBAN FERNANDEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "33140",
+   "Nombre": "DIEGO GASTON MACHADO",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "15689",
+   "Nombre": "ALVARO ANDRES LOPEZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "21110",
+   "Nombre": "ALEX ROBERTO BELLONI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57110",
+   "Nombre": "RICHARD ALEJANDRO ARAUJO",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "43128",
+   "Nombre": "LUIS MARCELO JURADO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "40413",
+   "Nombre": "FEDERICO FABIAN PALLONE",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "15555",
+   "Nombre": "SANTIAGO JAVIER CABALLERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66997",
+   "Nombre": "ERNESTO ACUÑA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "46359",
+   "Nombre": "GERARDO ANDRES FERRARI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "18279",
+   "Nombre": "CRISTIAN DAVID RODRIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "18534",
+   "Nombre": "ANDRES MARCOS COPPOLA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35585",
+   "Nombre": "DAMIAN ANDRES PERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "18278",
+   "Nombre": "FEDERICO NICOLAS RODRIGUEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "22359",
+   "Nombre": "JUAN CARLOS MUSSIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "62621",
+   "Nombre": "ALEX JOHANN BONJOUR",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "49350",
+   "Nombre": "DIEGO GUSTAVO DELFANTE",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "40413",
+   "Jug_Sale": "FEDERICO FABIAN PALLONE",
+   "CarneEntra": "26918",
+   "Jug_Entra": "PABLO RENATO ATAIDES",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57110",
+   "Jug_Sale": "RICHARD ALEJANDRO ARAUJO",
+   "CarneEntra": "35376",
+   "Jug_Entra": "CARLOS ALBERTO FERREIRA",
+   "camiseta": "21",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "43128",
+   "Jug_Sale": "LUIS MARCELO JURADO",
+   "CarneEntra": "40413",
+   "Jug_Entra": "FEDERICO FABIAN PALLONE",
+   "camiseta": "23",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "15384",
+   "Nombre": "EDUARDO NAKLE",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "22568",
+   "Nombre": "ESTEBAN FERNANDEZ",
+   "minutos": "48",
+   "EnContra": "0"
+  },
+  {
+   "carne": "43128",
+   "Nombre": "LUIS MARCELO JURADO",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57110",
+   "Nombre": "RICHARD ALEJANDRO ARAUJO",
+   "minutos": "5",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "15555",
+   "Nombre": "SANTIAGO JAVIER CABALLERO",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22359",
+   "Nombre": "JUAN CARLOS MUSSIO",
+   "minutos": "33",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

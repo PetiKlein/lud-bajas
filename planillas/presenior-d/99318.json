@@ -1,0 +1,322 @@
+{
+ "id": "99318",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "DEPORTIVO MATADERO",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "616",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-05-23 11:00:00",
+  "Fecha_fin": "2026-05-23 11:00:00",
+  "Locatario": "DEPORTIVO MATADERO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "20058",
+   "Nombre": "NICOLAS VOLONTERIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "28654",
+   "Nombre": "FEDERICO ISLAS",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "26930",
+   "Nombre": "ANDRES NICOLAS PALMA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "26924",
+   "Nombre": "ALVARO NICOLAS NERIS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "41699",
+   "Nombre": "FEDERICO AGUSTIN CORES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "21208",
+   "Nombre": "ARTURO KEUSHKERIAN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "62589",
+   "Nombre": "DIEGO NICOLAS SANTOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "47886",
+   "Nombre": "FELIPE ORDOQUI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "19824",
+   "Nombre": "FEDERICO BRUSCHI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "18823",
+   "Nombre": "SANTIAGO ADOLFO DIAZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "29431",
+   "Nombre": "FRANCISCO JORGE AGUERRE",
+   "camiseta": "13",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "46295",
+   "Nombre": "MARTIN VARELA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33169",
+   "Nombre": "LUCA PRATTO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "32607",
+   "Nombre": "SANTIAGO DANIEL CARAMELLI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "50518",
+   "Nombre": "LUCIANO MONTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "38960",
+   "Nombre": "MAURO MIGUEL BARONE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "30402",
+   "Nombre": "GONZALO MARTIN PERALTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "37149",
+   "Nombre": "GERMAN REY",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67893",
+   "Nombre": "FEDERICO JAVIER GONZALEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64423",
+   "Nombre": "PABLO SEBASTIAN COLOMBO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "36172",
+   "Nombre": "BRUNO SERRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58504",
+   "Nombre": "EMMANUEL OSCAR GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26924",
+   "Jug_Sale": "ALVARO NICOLAS NERIS",
+   "CarneEntra": "33861",
+   "Jug_Entra": "RODRIGO ACOSTA",
+   "camiseta": "40",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "19824",
+   "Jug_Sale": "FEDERICO BRUSCHI",
+   "CarneEntra": "26923",
+   "Jug_Entra": "MATHIAS MAURENTE",
+   "camiseta": "15",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "28654",
+   "Jug_Sale": "FEDERICO ISLAS",
+   "CarneEntra": "19723",
+   "Jug_Entra": "FEDERICO JAVIER GEDANKE",
+   "camiseta": "8",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "41699",
+   "Jug_Sale": "FEDERICO AGUSTIN CORES",
+   "CarneEntra": "25632",
+   "Jug_Entra": "CHRISTIAN GABRIEL MALDONADO",
+   "camiseta": "25",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "21208",
+   "Jug_Sale": "ARTURO KEUSHKERIAN",
+   "CarneEntra": "23894",
+   "Jug_Entra": "FERNANDO JAVIER ORDOÑEZ",
+   "camiseta": "7",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "20058",
+   "Jug_Sale": "NICOLAS VOLONTERIO",
+   "CarneEntra": "31617",
+   "Jug_Entra": "SANTIAGO MATO",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26930",
+   "Jug_Sale": "ANDRES NICOLAS PALMA",
+   "CarneEntra": "32024",
+   "Jug_Entra": "DIEGO MARTIN PIÑEIRO",
+   "camiseta": "29",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "29431",
+   "Jug_Sale": "FRANCISCO JORGE AGUERRE",
+   "CarneEntra": "21208",
+   "Jug_Entra": "ARTURO KEUSHKERIAN",
+   "camiseta": "29",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "18823",
+   "Jug_Sale": "SANTIAGO ADOLFO DIAZ",
+   "CarneEntra": "19824",
+   "Jug_Entra": "FEDERICO BRUSCHI",
+   "camiseta": "10",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "37149",
+   "Jug_Sale": "GERMAN REY",
+   "CarneEntra": "36714",
+   "Jug_Entra": "GONZALO MARTIN FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30402",
+   "Jug_Sale": "GONZALO MARTIN PERALTA",
+   "CarneEntra": "64852",
+   "Jug_Entra": "MAXIMO SALVATORE",
+   "camiseta": "8",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "50518",
+   "Jug_Sale": "LUCIANO MONTERO",
+   "CarneEntra": "30387",
+   "Jug_Entra": "AGUSTIN NICOLAS GUARCH",
+   "camiseta": "36",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "58504",
+   "Jug_Sale": "EMMANUEL OSCAR GARCIA",
+   "CarneEntra": "41273",
+   "Jug_Entra": "DIEGO BRUNO ESTELLANO",
+   "camiseta": "13",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "36172",
+   "Jug_Sale": "BRUNO SERRA",
+   "CarneEntra": "25665",
+   "Jug_Entra": "JONATHAN ADRIAN PACHECO",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33169",
+   "Jug_Sale": "LUCA PRATTO",
+   "CarneEntra": "41544",
+   "Jug_Entra": "FEDRICO ANDRES DURAN",
+   "camiseta": "10",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "18823",
+   "Nombre": "SANTIAGO ADOLFO DIAZ",
+   "minutos": "74",
+   "EnContra": "0"
+  },
+  {
+   "carne": "33861",
+   "Nombre": "RODRIGO ACOSTA",
+   "minutos": "46",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "36172",
+   "Nombre": "BRUNO SERRA",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "36714",
+   "Nombre": "GONZALO MARTIN FERNANDEZ",
+   "minutos": "52",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

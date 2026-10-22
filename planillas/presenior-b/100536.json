@@ -1,0 +1,231 @@
+{
+ "id": "100536",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "CLUB SOCIAL PIEDRAS BLANCAS",
+ "visitante": "ARGOS ",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "204",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-06-27 11:00:00",
+  "Fecha_fin": "2026-06-27 11:00:00",
+  "Locatario": "CLUB SOCIAL PIEDRAS BLANCAS",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "ARGOS ",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "27616",
+   "Nombre": "FEDERICO ANDRES LANZA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "33675",
+   "Nombre": "RICARDO FABIAN PEREYRA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33737",
+   "Nombre": "GUSTAVO DANIEL TARAMASCO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "36581",
+   "Nombre": "MARTIN ROBERTO BUENO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "50185",
+   "Nombre": "NICOLAS GERMAN MUCHA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "43644",
+   "Nombre": "ALFREDO PAIVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "26796",
+   "Nombre": "IGNACIO CURTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "53960",
+   "Nombre": "FERNANDO MARTIN BUDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "58815",
+   "Nombre": "WLATER DIEGO AYALA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "38983",
+   "Nombre": "GABRIEL ALEJANDRO MUNIZ",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "33668",
+   "Nombre": "MATIAS NICOLAS DUARTE",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "31613",
+   "Nombre": "LUCAS LEONEL BOUISSA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "65239",
+   "Nombre": "GUZMAN MOUHAPE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68418",
+   "Nombre": "JONATHAN AVELLANEDA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "33380",
+   "Nombre": "GERARDO MENDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "53683",
+   "Nombre": "DIEGO MARTIN ACOSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "50530",
+   "Nombre": "SEBASTIAN JARA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "35424",
+   "Nombre": "MARIO MACHADO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66159",
+   "Nombre": "JHONY ALEXANDER BARCIA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "67473",
+   "Nombre": "JUAN FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68573",
+   "Nombre": "DIEGO COSTA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "38103",
+   "Nombre": "FACUNDO PEREYRA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "53960",
+   "Jug_Sale": "FERNANDO MARTIN BUDEZ",
+   "CarneEntra": "35718",
+   "Jug_Entra": "ANDRES LUCIO CASTIGLIA",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43644",
+   "Jug_Sale": "ALFREDO PAIVA",
+   "CarneEntra": "50276",
+   "Jug_Entra": "MARCELO SEBASTIAN DE NOBREGA SOBRINHO",
+   "camiseta": "44",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "33737",
+   "Jug_Sale": "GUSTAVO DANIEL TARAMASCO",
+   "CarneEntra": "33350",
+   "Jug_Entra": "SEBASTIAN ANDRES PEÑA",
+   "camiseta": "30",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "38983",
+   "Jug_Sale": "GABRIEL ALEJANDRO MUNIZ",
+   "CarneEntra": "53960",
+   "Jug_Entra": "FERNANDO MARTIN BUDEZ",
+   "camiseta": "14",
+   "minutos": "29"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68418",
+   "Jug_Sale": "JONATHAN AVELLANEDA",
+   "CarneEntra": "62323",
+   "Jug_Entra": "JEREMMY MICHAEL RAMIREZ",
+   "camiseta": "11",
+   "minutos": "44"
+  },
+  {
+   "CarneSale": "35424",
+   "Jug_Sale": "MARIO MACHADO",
+   "CarneEntra": "27165",
+   "Jug_Entra": "FRANCISCO SEBASTIAN ARNALDI",
+   "camiseta": "7",
+   "minutos": "60"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "53960",
+   "Nombre": "FERNANDO MARTIN BUDEZ",
+   "minutos": "93",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

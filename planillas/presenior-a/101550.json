@@ -1,0 +1,270 @@
+{
+ "id": "101550",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "UNIVERSITARIO VERONES",
+ "visitante": "HEBRAICA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "94",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-09-05 13:05:00",
+  "Fecha_fin": "2026-09-05 13:05:00",
+  "Locatario": "UNIVERSITARIO VERONES",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "HEBRAICA UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "49186",
+   "Nombre": "CHARLES ADRIAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "16642",
+   "Nombre": "SEBASTIAN COUTO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "57254",
+   "Nombre": "JORGE ANIBAL DIAZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "33390",
+   "Nombre": "MAURIZIO ADINOLFI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "30933",
+   "Nombre": "JORGE MARTIN CORREA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "35143",
+   "Nombre": "DAVIS STEVEN SANCHEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "32130",
+   "Nombre": "JUAN MANUEL TARALLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "24949",
+   "Nombre": "MARTIN MARIO MERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "29845",
+   "Nombre": "HORACIO DAMIAN CASANOVA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "35044",
+   "Nombre": "EDISON ANDRES DOMINGUEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "22077",
+   "Nombre": "CESAR AUGUSTO CAVALLI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "14307",
+   "Nombre": "GUILLERMO DANIEL VERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "23925",
+   "Nombre": "KEVIN LUBINSKI",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35360",
+   "Nombre": "ALBERTO BENTANCUR",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "23924",
+   "Nombre": "MARTIN SCHINDLER",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20057",
+   "Nombre": "DIEGO MARCEL KACOWICZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "35701",
+   "Nombre": "EMILIANO SEBASTIAN ACUÑA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "37102",
+   "Nombre": "NICOLAS DIEGO MARIÑANSKY",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "46051",
+   "Nombre": "JOAQUIN RAMA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "35085",
+   "Nombre": "IONATAN ISZAKOVITS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "40919",
+   "Nombre": "DIEGO GONZALEZ",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "22778",
+   "Nombre": "ALAN GRAUSER",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24949",
+   "Jug_Sale": "MARTIN MARIO MERA",
+   "CarneEntra": "31340",
+   "Jug_Entra": "ADRIAN CRHISTIAN DELEON",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35143",
+   "Jug_Sale": "DAVIS STEVEN SANCHEZ",
+   "CarneEntra": "24949",
+   "Jug_Entra": "MARTIN MARIO MERA",
+   "camiseta": "11",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "20057",
+   "Jug_Sale": "DIEGO MARCEL KACOWICZ",
+   "CarneEntra": "30530",
+   "Jug_Entra": "PABLO DULCINI",
+   "camiseta": "13",
+   "minutos": "0"
+  },
+  {
+   "CarneSale": "22778",
+   "Jug_Sale": "ALAN GRAUSER",
+   "CarneEntra": "30253",
+   "Jug_Entra": "SANTIAGO SAUL",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37102",
+   "Jug_Sale": "NICOLAS DIEGO MARIÑANSKY",
+   "CarneEntra": "26234",
+   "Jug_Entra": "FEDERICO SCHINDLER",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35701",
+   "Jug_Sale": "EMILIANO SEBASTIAN ACUÑA",
+   "CarneEntra": "44950",
+   "Jug_Entra": "DIEGO LIPATIN",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44950",
+   "Jug_Sale": "DIEGO LIPATIN",
+   "CarneEntra": "23290",
+   "Jug_Entra": "DIEGO ISRAEL POZIOMEK",
+   "camiseta": "27",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "29845",
+   "Nombre": "HORACIO DAMIAN CASANOVA",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "30933",
+   "Nombre": "JORGE MARTIN CORREA",
+   "minutos": "5",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "35085",
+   "Nombre": "IONATAN ISZAKOVITS",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "40919",
+   "Nombre": "DIEGO GONZALEZ",
+   "minutos": "2",
+   "EnContra": "1"
+  },
+  {
+   "carne": "40919",
+   "Nombre": "DIEGO GONZALEZ",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46051",
+   "Nombre": "JOAQUIN RAMA",
+   "minutos": "20",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

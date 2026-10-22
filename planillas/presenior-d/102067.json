@@ -1,0 +1,260 @@
+{
+ "id": "102067",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "COMPLEJO MARLUNA",
+ "local": "MATECHA",
+ "visitante": "MATURANA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "680",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO MARLUNA",
+  "Fecha_Inicio": "2026-09-19 11:00:00",
+  "Fecha_fin": "2026-09-19 11:00:00",
+  "Locatario": "MATECHA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "MATURANA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "34858",
+   "Nombre": "DARDO LUIS ARISMENDI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "52803",
+   "Nombre": "LEONARDO NICOLAS GONZALEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "26640",
+   "Nombre": "JUAN DIEGO ZUNINO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45167",
+   "Nombre": "NICOLAS RISSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46137",
+   "Nombre": "EDUARDO MATIAS PEREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "41343",
+   "Nombre": "DARIO DANIEL GAZZO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67415",
+   "Nombre": "JOSE ALEJANDRO MELLUSO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "41332",
+   "Nombre": "CHRISTIAN ADRIAN COUSILLAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61724",
+   "Nombre": "LEANDRO REYES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "59836",
+   "Nombre": "EMILIANO ZOCCOLINI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57305",
+   "Nombre": "SERGIO DANIEL CAMPOS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "31313",
+   "Nombre": "LUIS DANIEL ROSSANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67695",
+   "Nombre": "JUAN ANTONIO ALVAREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "24842",
+   "Nombre": "ALEJANDRO ANDRES SOCA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64581",
+   "Nombre": "ALVARO MONTELONGO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "42234",
+   "Nombre": "AGUSTIN LABAT",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "37588",
+   "Nombre": "JOSE IGNACIO SAN MARTIN",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "35395",
+   "Nombre": "MASSIMILIANO PECORA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54392",
+   "Nombre": "RODRIGO ALBANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59690",
+   "Nombre": "GONZALO GABRIEL",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "28071",
+   "Nombre": "SEBASTIAN PENA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "34097",
+   "Nombre": "PABLO SEBASTIAN MOREIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67415",
+   "Jug_Sale": "JOSE ALEJANDRO MELLUSO",
+   "CarneEntra": "68883",
+   "Jug_Entra": "HUGO FRANCISCO OLIVERA",
+   "camiseta": "25",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "59836",
+   "Jug_Sale": "EMILIANO ZOCCOLINI",
+   "CarneEntra": "67414",
+   "Jug_Entra": "SEBASTIAN ALEJANDRO HAHN",
+   "camiseta": "22",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "41332",
+   "Jug_Sale": "CHRISTIAN ADRIAN COUSILLAS",
+   "CarneEntra": "67415",
+   "Jug_Entra": "JOSE ALEJANDRO MELLUSO",
+   "camiseta": "23",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "61724",
+   "Jug_Sale": "LEANDRO REYES",
+   "CarneEntra": "41332",
+   "Jug_Entra": "CHRISTIAN ADRIAN COUSILLAS",
+   "camiseta": "10",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "59690",
+   "Jug_Sale": "GONZALO GABRIEL",
+   "CarneEntra": "30135",
+   "Jug_Entra": "ADRIAN INFANTINI",
+   "camiseta": "23",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "37588",
+   "Jug_Sale": "JOSE IGNACIO SAN MARTIN",
+   "CarneEntra": "28070",
+   "Jug_Entra": "ERNESTO ELGUE",
+   "camiseta": "27",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "24842",
+   "Jug_Sale": "ALEJANDRO ANDRES SOCA",
+   "CarneEntra": "28027",
+   "Jug_Entra": "MARTIN PENA",
+   "camiseta": "28",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "28071",
+   "Jug_Sale": "SEBASTIAN PENA",
+   "CarneEntra": "59690",
+   "Jug_Entra": "GONZALO GABRIEL",
+   "camiseta": "9",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "41332",
+   "Nombre": "CHRISTIAN ADRIAN COUSILLAS",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57305",
+   "Nombre": "SERGIO DANIEL CAMPOS",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "34097",
+   "Nombre": "PABLO SEBASTIAN MOREIRA",
+   "minutos": "43",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

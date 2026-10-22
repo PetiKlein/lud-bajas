@@ -1,0 +1,183 @@
+{
+ "id": "99160",
+ "categoria": "sub18",
+ "serie": "18-4-",
+ "fecha": 5,
+ "fechaHora": "2026-05-24 15:30:00",
+ "cancha": "POLIDEPORTIVO FAUQUET",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "SEMINARIO UNIVERSITARIO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "101",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 4",
+  "Cancha": "POLIDEPORTIVO FAUQUET",
+  "Fecha_Inicio": "2026-05-24 17:20:00",
+  "Fecha_fin": "2026-05-24 17:20:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "SEMINARIO UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66534",
+   "Nombre": "GONZALO MARTIN LLOVET",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66211",
+   "Nombre": "BENJAMIN SALGADO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63363",
+   "Nombre": "NICOLAS OTERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "59461",
+   "Nombre": "FEDERICO MAIORANA",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "56059",
+   "Nombre": "MARTIN REYES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61802",
+   "Nombre": "MATEO ZOLESSI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57788",
+   "Nombre": "MANUEL BERMUDEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66335",
+   "Nombre": "AGUSTIN CUÑA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57783",
+   "Nombre": "BRUNO THIAGO ANTUNES",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60882",
+   "Nombre": "SANTIAGO PEREIRA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66051",
+   "Nombre": "GUILLERMO SANTIAGO RUSSO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58835",
+   "Nombre": "MATEO NAOR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "58834",
+   "Nombre": "FEDERICO ELISSALDE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63299",
+   "Nombre": "JOAQUIN SANTIAGO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62035",
+   "Nombre": "FRANCO BORSANI",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68243",
+   "Nombre": "APARICIO OLIVERA",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56059",
+   "Jug_Sale": "MARTIN REYES",
+   "CarneEntra": "68590",
+   "Jug_Entra": "JERONIMO BOCCHI",
+   "camiseta": "29",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "60882",
+   "Jug_Sale": "SANTIAGO PEREIRA",
+   "CarneEntra": "68639",
+   "Jug_Entra": "JOAQUIN SARKISIAN",
+   "camiseta": "25",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "66335",
+   "Jug_Sale": "AGUSTIN CUÑA",
+   "CarneEntra": "68664",
+   "Jug_Entra": "ANDRES IRIBARNEGARAY",
+   "camiseta": "32",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "61802",
+   "Jug_Sale": "MATEO ZOLESSI",
+   "CarneEntra": "63154",
+   "Jug_Entra": "FELIPE GARZINA",
+   "camiseta": "4",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "62035",
+   "Nombre": "FRANCO BORSANI",
+   "minutos": "84",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "FEDERICO ELISSALDE",
+   "observaciones": ""
+  }
+ ]
+}

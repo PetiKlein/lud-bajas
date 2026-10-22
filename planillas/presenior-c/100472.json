@@ -1,0 +1,274 @@
+{
+ "id": "100472",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "VERDE BREMEN",
+ "local": "ODONTOLOGIA UNIVERSITARIO",
+ "visitante": "CEIBOS CLUB",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "324",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "VERDE BREMEN",
+  "Fecha_Inicio": "2026-06-27 11:00:00",
+  "Fecha_fin": "2026-06-27 11:00:00",
+  "Locatario": "ODONTOLOGIA UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CEIBOS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "26181",
+   "Nombre": "VICTOR JAVIER VIDAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31564",
+   "Nombre": "DIEGO MARTIN GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "35517",
+   "Nombre": "GONZALO GASTON CROSI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54776",
+   "Nombre": "AGUSTIN DIEGO INGOGLIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57076",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47097",
+   "Nombre": "ALVARO DAMIAN COLMAN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "51068",
+   "Nombre": "MATIAS ALEXIS FLORES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "21433",
+   "Nombre": "SEBASTIAN VEGAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "38527",
+   "Nombre": "NICOLAS DUARTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "64735",
+   "Nombre": "MATIAS GONZALO LOPEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46285",
+   "Nombre": "FABRICIO PEREIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32002",
+   "Nombre": "GIOVANNI PAOLO VIGNOTTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22441",
+   "Nombre": "SANTIAGO JORGE KIRIAKIDIS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "30061",
+   "Nombre": "FEDERICO ILDEFONSO GARCIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "44947",
+   "Nombre": "JUAN IGNACIO BAYCE",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "32081",
+   "Nombre": "GONZALO TRAPP",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "20367",
+   "Nombre": "NICOLAS ORDOQUI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "21512",
+   "Nombre": "JUAN MARTIN DIAZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "36768",
+   "Nombre": "FACUNDO SILVEIRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "32341",
+   "Nombre": "AGUSTIN ALVARO VIDAL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "20250",
+   "Nombre": "ALEJANDRO MARIA GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "18098",
+   "Nombre": "CARLOS JAVIER MORALES",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51068",
+   "Jug_Sale": "MATIAS ALEXIS FLORES",
+   "CarneEntra": "56373",
+   "Jug_Entra": "GONZALO RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "46285",
+   "Jug_Sale": "FABRICIO PEREIRA",
+   "CarneEntra": "68417",
+   "Jug_Entra": "SEBASTIAN GARCIA",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38527",
+   "Jug_Sale": "NICOLAS DUARTE",
+   "CarneEntra": "42511",
+   "Jug_Entra": "LUCAS AZURICA",
+   "camiseta": "18",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "31564",
+   "Jug_Sale": "DIEGO MARTIN GONZALEZ",
+   "CarneEntra": "66117",
+   "Jug_Entra": "SANTIAGO SEIJAS",
+   "camiseta": "10",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22441",
+   "Jug_Sale": "SANTIAGO JORGE KIRIAKIDIS",
+   "CarneEntra": "24948",
+   "Jug_Entra": "FRANCISCO CARRIQUIRY",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20250",
+   "Jug_Sale": "ALEJANDRO MARIA GONZALEZ",
+   "CarneEntra": "21279",
+   "Jug_Entra": "GONZALO FEDERICO MULLIN",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18098",
+   "Jug_Sale": "CARLOS JAVIER MORALES",
+   "CarneEntra": "24858",
+   "Jug_Entra": "JUAN IGNACIO KIRIAKIDIS",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21512",
+   "Jug_Sale": "JUAN MARTIN DIAZ",
+   "CarneEntra": "24177",
+   "Jug_Entra": "EMETERIO MARTIN MORALES",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "44947",
+   "Jug_Sale": "JUAN IGNACIO BAYCE",
+   "CarneEntra": "28104",
+   "Jug_Entra": "GUZMAN FEDERICO DE CASTRO",
+   "camiseta": "5",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47097",
+   "Nombre": "ALVARO DAMIAN COLMAN",
+   "minutos": "35",
+   "EnContra": "0"
+  },
+  {
+   "carne": "54776",
+   "Nombre": "AGUSTIN DIEGO INGOGLIA",
+   "minutos": "90",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68417",
+   "Nombre": "SEBASTIAN GARCIA",
+   "minutos": "76",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "36768",
+   "Nombre": "FACUNDO SILVEIRA",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

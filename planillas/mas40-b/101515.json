@@ -1,0 +1,229 @@
+{
+ "id": "101515",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "ARGOS ",
+ "visitante": "RIVER PLATE UNIVERSITARIO",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "213",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-05 11:00:00",
+  "Fecha_fin": "2026-09-05 11:00:00",
+  "Locatario": "ARGOS ",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "RIVER PLATE UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "14496",
+   "Nombre": "HECTOR MIGUEL MASSA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "53688",
+   "Nombre": "PABLO SILVA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "55792",
+   "Nombre": "MARCELO FABIAN BETANCOR",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "27339",
+   "Nombre": "RODRIGO LEONEL GONZALEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "32836",
+   "Nombre": "NICOLAS EDUARDO IMBRIACO",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "16790",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "25496",
+   "Nombre": "MIJAIL YAPOR",
+   "camiseta": "43",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20944",
+   "Nombre": "GERMAN ENRIQUE IBAÑEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "22222",
+   "Nombre": "RAMIRO FRANCISCO OLMOS",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "37959",
+   "Nombre": "PABLO DANIEL ALVAREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "19606",
+   "Nombre": "PEDRO JAVIER AMENGUAL",
+   "camiseta": "47",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "35761",
+   "Nombre": "MARTIN FORNO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33349",
+   "Nombre": "GUSTAVO ELOY DELGADO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64148",
+   "Nombre": "ROBERTO EKKER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "24427",
+   "Nombre": "MARTIN FERNANDO PUERTO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "40771",
+   "Nombre": "NICOLAS PERDOMO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39847",
+   "Nombre": "JAIME GARCIA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "21571",
+   "Nombre": "GABRIEL SUAREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "52517",
+   "Nombre": "MARCELO EDUARDO PEREZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "29363",
+   "Nombre": "RAFAEL ENRIQUE PERDOMO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "12545",
+   "Nombre": "GERARDO DIEGO SEOANE",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "26052",
+   "Nombre": "PABLO SEBASTIAN FERNANDEZ",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "19606",
+   "Jug_Sale": "PEDRO JAVIER AMENGUAL",
+   "CarneEntra": "19486",
+   "Jug_Entra": "GUSTAVO GABRIEL BARRENECHEA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22222",
+   "Jug_Sale": "RAMIRO FRANCISCO OLMOS",
+   "CarneEntra": "21824",
+   "Jug_Entra": "JORGE EDUARDO ADIB",
+   "camiseta": "17",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "32836",
+   "Jug_Sale": "NICOLAS EDUARDO IMBRIACO",
+   "CarneEntra": "19215",
+   "Jug_Entra": "MAURICIO GUSTAVO MATO",
+   "camiseta": "71",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "26052",
+   "Jug_Sale": "PABLO SEBASTIAN FERNANDEZ",
+   "CarneEntra": "35758",
+   "Jug_Entra": "MARTIN ALTAMIRANO",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52517",
+   "Jug_Sale": "MARCELO EDUARDO PEREZ",
+   "CarneEntra": "40772",
+   "Jug_Entra": "CLAUDIO FABIAN TEJERA",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "40771",
+   "Jug_Sale": "NICOLAS PERDOMO",
+   "CarneEntra": "26052",
+   "Jug_Entra": "PABLO SEBASTIAN FERNANDEZ",
+   "camiseta": "31",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "RODRIGO LEONEL GONZALEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

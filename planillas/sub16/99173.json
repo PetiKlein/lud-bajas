@@ -1,0 +1,362 @@
+{
+ "id": "99173",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 5,
+ "fechaHora": "2026-05-24 13:30:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 11,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "20",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-05-24 14:30:00",
+  "Fecha_fin": "2026-05-24 14:30:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "11",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67901",
+   "Nombre": "MATEO CHAVES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "67896",
+   "Nombre": "MATEO HERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "62483",
+   "Nombre": "JUAN IGNACIO FREGUEIRO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67899",
+   "Nombre": "DIEGO AGUSTIN RIVERO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67898",
+   "Nombre": "MATHIAS MANUEL SALDAÑA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "68525",
+   "Nombre": "ADIP NASSER",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "68524",
+   "Nombre": "ANTHONY LAUTARO MUÑOZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "66828",
+   "Nombre": "JUAN MARTIN BELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67900",
+   "Nombre": "NICOLAS CAPORALE",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62252",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68277",
+   "Nombre": "VALENTINO LOPEZ",
+   "camiseta": "79",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64387",
+   "Nombre": "BENICIO BENJAMIN CURTO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61769",
+   "Nombre": "SANTIAGO RAFANIELLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66508",
+   "Nombre": "FACUNDO RODRIGUEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "58626",
+   "Nombre": "SANTIAGO CASTRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61537",
+   "Nombre": "BAUTISTA GARCIA",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "61536",
+   "Nombre": "AGUSTIN PIRIZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "58630",
+   "Nombre": "JUAN IGNACIO PATRONE",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "64376",
+   "Nombre": "JOSE PEDRO ARBILLA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64405",
+   "Nombre": "JUAN IGNACIO PERI",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "64385",
+   "Nombre": "SAMUEL ANDRES ESTELLER",
+   "camiseta": "69",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64379",
+   "Nombre": "MAURO MARIO ZORRILLA",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68525",
+   "Jug_Sale": "ADIP NASSER",
+   "CarneEntra": "64458",
+   "Jug_Entra": "MATEO CUSATO",
+   "camiseta": "27",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "67898",
+   "Jug_Sale": "MATHIAS MANUEL SALDAÑA",
+   "CarneEntra": "62268",
+   "Jug_Entra": "MATEO RULLO",
+   "camiseta": "22",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "67901",
+   "Jug_Sale": "MATEO CHAVES",
+   "CarneEntra": "60587",
+   "Jug_Entra": "LEONEL GERONIMO SINFUENTES",
+   "camiseta": "89",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62483",
+   "Jug_Sale": "JUAN IGNACIO FREGUEIRO",
+   "CarneEntra": "65248",
+   "Jug_Entra": "TIZIANO RAMOS",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68524",
+   "Jug_Sale": "ANTHONY LAUTARO MUÑOZ",
+   "CarneEntra": "64456",
+   "Jug_Entra": "GIANLUCA IORLANO",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68277",
+   "Jug_Sale": "VALENTINO LOPEZ",
+   "CarneEntra": "62257",
+   "Jug_Entra": "EMILIANO GARCIA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67896",
+   "Jug_Sale": "MATEO HERNANDEZ",
+   "CarneEntra": "62247",
+   "Jug_Entra": "TOMAS BENTANCOR",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67899",
+   "Jug_Sale": "DIEGO AGUSTIN RIVERO",
+   "CarneEntra": "64213",
+   "Jug_Entra": "JULIAN WINTER",
+   "camiseta": "2",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66828",
+   "Jug_Sale": "JUAN MARTIN BELLO",
+   "CarneEntra": "67222",
+   "Jug_Entra": "ANTONY DAVID ZARRAGA",
+   "camiseta": "66",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61537",
+   "Jug_Sale": "BAUTISTA GARCIA",
+   "CarneEntra": "67292",
+   "Jug_Entra": "NICOLAS PROCHET",
+   "camiseta": "19",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "64379",
+   "Jug_Sale": "MAURO MARIO ZORRILLA",
+   "CarneEntra": "68534",
+   "Jug_Entra": "FACUNDO NAHUEL VICENTE",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66508",
+   "Jug_Sale": "FACUNDO RODRIGUEZ",
+   "CarneEntra": "64390",
+   "Jug_Entra": "FRANCISCO LUNGO",
+   "camiseta": "24",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64376",
+   "Jug_Sale": "JOSE PEDRO ARBILLA",
+   "CarneEntra": "64379",
+   "Jug_Entra": "MAURO MARIO ZORRILLA",
+   "camiseta": "5",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "64405",
+   "Jug_Sale": "JUAN IGNACIO PERI",
+   "CarneEntra": "61537",
+   "Jug_Entra": "BAUTISTA GARCIA",
+   "camiseta": "73",
+   "minutos": "62"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62252",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "minutos": "9",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62252",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "minutos": "35",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62268",
+   "Nombre": "MATEO RULLO",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64456",
+   "Nombre": "GIANLUCA IORLANO",
+   "minutos": "82",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65248",
+   "Nombre": "TIZIANO RAMOS",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65248",
+   "Nombre": "TIZIANO RAMOS",
+   "minutos": "52",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66828",
+   "Nombre": "JUAN MARTIN BELLO",
+   "minutos": "56",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67899",
+   "Nombre": "DIEGO AGUSTIN RIVERO",
+   "minutos": "39",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67900",
+   "Nombre": "NICOLAS CAPORALE",
+   "minutos": "71",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68524",
+   "Nombre": "ANTHONY LAUTARO MUÑOZ",
+   "minutos": "34",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68524",
+   "Nombre": "ANTHONY LAUTARO MUÑOZ",
+   "minutos": "37",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64376",
+   "Nombre": "JOSE PEDRO ARBILLA",
+   "minutos": "37",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

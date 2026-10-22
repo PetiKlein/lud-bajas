@@ -1,0 +1,310 @@
+{
+ "id": "102593",
+ "categoria": "presenior-a",
+ "serie": "PSAPD",
+ "fecha": 2,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "MADRUGADA F.C",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 1,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "813",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"A\" PER. y DESC",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-10-03 11:00:00",
+  "Fecha_fin": "2026-10-03 11:00:00",
+  "Locatario": "MADRUGADA F.C",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35976",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "21347",
+   "Nombre": "GUILLERMO FERNANDO TORIJA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "18456",
+   "Nombre": "MARTIN MARUCA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "31517",
+   "Nombre": "ALEJANDRO BAUDO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "34213",
+   "Nombre": "MATEO MARQUES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "30158",
+   "Nombre": "MATIAS LIVCHICH",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "34256",
+   "Nombre": "GASTON ELBIO CANCELA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "40268",
+   "Nombre": "FABIAN RODRIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "31925",
+   "Nombre": "PEDRO NICOLAS GARCIA",
+   "camiseta": "87",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51373",
+   "Nombre": "SERGIO MAXIMILIANO PEREZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54309",
+   "Nombre": "JUAN MANUEL PUERTA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37846",
+   "Nombre": "CHRISTIAN DEL CASTILLO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "45419",
+   "Nombre": "DIEGO JAVIER CHAVES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "20401",
+   "Nombre": "JUAN PEDRO QUAGLIATA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25260",
+   "Nombre": "DIEGO THEODOSOPOULOS",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "35597",
+   "Nombre": "FABIAN CHIRIBAO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "40793",
+   "Nombre": "FERNANDO ABDO",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "33785",
+   "Nombre": "ALEJANDRO RAYMOND",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "34126",
+   "Nombre": "ALEXIS GERMAN GARRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65023",
+   "Nombre": "BRUNO MATIAS SOSA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "15508",
+   "Nombre": "DANIEL SEBASTIAN MARTINEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "27042",
+   "Nombre": "MAXIMILIANO ALBERTO CHIRIBAO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "35976",
+   "Jug_Sale": "FEDERICO GARCIA",
+   "CarneEntra": "19135",
+   "Jug_Entra": "NICOLAS ANDRES SCHENONE",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34256",
+   "Jug_Sale": "GASTON ELBIO CANCELA",
+   "CarneEntra": "35976",
+   "Jug_Entra": "FEDERICO GARCIA",
+   "camiseta": "21",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "30158",
+   "Jug_Sale": "MATIAS LIVCHICH",
+   "CarneEntra": "28237",
+   "Jug_Entra": "MARCELO DAMIAN CASTRILLEJO",
+   "camiseta": "10",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "34213",
+   "Jug_Sale": "MATEO MARQUES",
+   "CarneEntra": "39060",
+   "Jug_Entra": "FRANCISCO DANIEL BENTANCOR",
+   "camiseta": "47",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "21347",
+   "Jug_Sale": "GUILLERMO FERNANDO TORIJA",
+   "CarneEntra": "54528",
+   "Jug_Entra": "ALFREDO ANDRES HERRERA",
+   "camiseta": "19",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "31925",
+   "Jug_Sale": "PEDRO NICOLAS GARCIA",
+   "CarneEntra": "29114",
+   "Jug_Entra": "JOSE SEBASTIAN GRATTAROLA",
+   "camiseta": "3",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "15508",
+   "Jug_Sale": "DANIEL SEBASTIAN MARTINEZ",
+   "CarneEntra": "26332",
+   "Jug_Entra": "SEBASTIAN CARDOZO",
+   "camiseta": "13",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "40793",
+   "Jug_Sale": "FERNANDO ABDO",
+   "CarneEntra": "28073",
+   "Jug_Entra": "CHRISTIAN FERNANDO VIGORITO",
+   "camiseta": "23",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "20401",
+   "Jug_Sale": "JUAN PEDRO QUAGLIATA",
+   "CarneEntra": "22745",
+   "Jug_Entra": "ESTEBAN JOAQUIN PERA",
+   "camiseta": "10",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "45419",
+   "Jug_Sale": "DIEGO JAVIER CHAVES",
+   "CarneEntra": "27192",
+   "Jug_Entra": "JULIAN ALBERTO SPENCER",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27042",
+   "Jug_Sale": "MAXIMILIANO ALBERTO CHIRIBAO",
+   "CarneEntra": "23219",
+   "Jug_Entra": "LEANDRO RAMOS",
+   "camiseta": "32",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "65023",
+   "Jug_Sale": "BRUNO MATIAS SOSA",
+   "CarneEntra": "26373",
+   "Jug_Entra": "NICOLAS SILVA",
+   "camiseta": "11",
+   "minutos": "60"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "54309",
+   "Nombre": "JUAN MANUEL PUERTA",
+   "minutos": "2",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "20401",
+   "Nombre": "JUAN PEDRO QUAGLIATA",
+   "minutos": "9",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23219",
+   "Nombre": "LEANDRO RAMOS",
+   "minutos": "84",
+   "EnContra": "1"
+  },
+  {
+   "carne": "27192",
+   "Nombre": "JULIAN ALBERTO SPENCER",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "34126",
+   "Nombre": "ALEXIS GERMAN GARRO",
+   "minutos": "31",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65023",
+   "Nombre": "BRUNO MATIAS SOSA",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,294 @@
+{
+ "id": "102060",
+ "categoria": "mas40-c",
+ "serie": "M40O",
+ "fecha": 1,
+ "fechaHora": "2026-09-19 11:25:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "PINAR JRS",
+ "visitante": "J.M.L.M",
+ "gl": 1,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "331",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "M40 DIV. C COPA ORO R1",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-19 00:00:00",
+  "Fecha_fin": "2026-09-19 00:00:00",
+  "Locatario": "PINAR JRS",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "15978",
+   "Nombre": "ERICH MARTIN SIERRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24069",
+   "Nombre": "SEBASTIAN MARTINEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "25513",
+   "Nombre": "MARTIN ALBERTO DAVISON",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57944",
+   "Nombre": "CESAR JOAQUIN RAÑA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "33075",
+   "Nombre": "MAXIMILIANO BUCK",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "34145",
+   "Nombre": "VICTOR FERNANDO SAMPAYO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "43279",
+   "Nombre": "MIGUEL ANGEL NUÑEZ",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "22404",
+   "Nombre": "DANIEL MARTIN PEYDRO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "20867",
+   "Nombre": "CARLOS MARTIN BORGES",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "47196",
+   "Nombre": "DARWIN SILVA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "13791",
+   "Nombre": "DIEGO NICOLAS CAIMI",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "21539",
+   "Nombre": "JUAN PABLO MARTIN",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "51716",
+   "Nombre": "SANTIAGO SYMONDS",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "20670",
+   "Nombre": "MARTIN MUSACCO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "42983",
+   "Nombre": "DANIEL DELMONTE",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "24167",
+   "Nombre": "IGNACIO PRIETO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "21747",
+   "Nombre": "JAVIER ALFREDO GONZALEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "29496",
+   "Nombre": "DIEGO FERRARI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "17945",
+   "Nombre": "SEBASTIAN PANARIO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "18773",
+   "Nombre": "JUAN ANDRES BECERRA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "22144",
+   "Nombre": "DIEGO HORACIO ODIZZIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "34140",
+   "Nombre": "DIEGO VALENTIN CERVIERI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57944",
+   "Jug_Sale": "CESAR JOAQUIN RAÑA",
+   "CarneEntra": "36834",
+   "Jug_Entra": "MATIAS ADDIEGO",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22404",
+   "Jug_Sale": "DANIEL MARTIN PEYDRO",
+   "CarneEntra": "37906",
+   "Jug_Entra": "LUIS DIEGO ALCARRAZ",
+   "camiseta": "24",
+   "minutos": "47"
+  },
+  {
+   "CarneSale": "43279",
+   "Jug_Sale": "MIGUEL ANGEL NUÑEZ",
+   "CarneEntra": "57944",
+   "Jug_Entra": "CESAR JOAQUIN RAÑA",
+   "camiseta": "21",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "33075",
+   "Jug_Sale": "MAXIMILIANO BUCK",
+   "CarneEntra": "22404",
+   "Jug_Entra": "DANIEL MARTIN PEYDRO",
+   "camiseta": "25",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "13791",
+   "Jug_Sale": "DIEGO NICOLAS CAIMI",
+   "CarneEntra": "20973",
+   "Jug_Entra": "GONZALO MORALES",
+   "camiseta": "16",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "29496",
+   "Jug_Sale": "DIEGO FERRARI",
+   "CarneEntra": "21407",
+   "Jug_Entra": "RAFAEL EDISON GARCIA",
+   "camiseta": "42",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "51716",
+   "Jug_Sale": "SANTIAGO SYMONDS",
+   "CarneEntra": "21490",
+   "Jug_Entra": "JUAN PABLO GIMENEZ",
+   "camiseta": "10",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "24167",
+   "Jug_Sale": "IGNACIO PRIETO",
+   "CarneEntra": "20072",
+   "Jug_Entra": "GONZALO QUINAZ",
+   "camiseta": "9",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "18773",
+   "Jug_Sale": "JUAN ANDRES BECERRA",
+   "CarneEntra": "21162",
+   "Jug_Entra": "IGNACIO RAUL ODINO",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "22144",
+   "Jug_Sale": "DIEGO HORACIO ODIZZIO",
+   "CarneEntra": "54454",
+   "Jug_Entra": "DANIEL ANDRES GUITAL",
+   "camiseta": "3",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "47196",
+   "Nombre": "DARWIN SILVA",
+   "minutos": "28",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "22144",
+   "Nombre": "DIEGO HORACIO ODIZZIO",
+   "minutos": "51",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22144",
+   "Nombre": "DIEGO HORACIO ODIZZIO",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "34140",
+   "Nombre": "DIEGO VALENTIN CERVIERI",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "34140",
+   "Nombre": "DIEGO VALENTIN CERVIERI",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "42983",
+   "Nombre": "DANIEL DELMONTE",
+   "minutos": "55",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

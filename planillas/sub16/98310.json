@@ -1,0 +1,269 @@
+{
+ "id": "98310",
+ "categoria": "sub16",
+ "serie": "16-4-",
+ "fecha": 1,
+ "fechaHora": "2026-04-19 13:30:00",
+ "cancha": "POLIDEPORTIVO FAUQUET",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "THE BRITISH SCHOOL",
+ "gl": 2,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "85",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 4",
+  "Cancha": "POLIDEPORTIVO FAUQUET",
+  "Fecha_Inicio": "2026-04-19 15:05:00",
+  "Fecha_fin": "2026-04-19 15:05:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "THE BRITISH SCHOOL",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68250",
+   "Nombre": "IGNACIO SANGUINETTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68044",
+   "Nombre": "FRANCISCO DAVID ROSANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "66931",
+   "Nombre": "SANTIAGO NICOLAS PEÑA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68249",
+   "Nombre": "BAUTISTA SANTIAGO CABRERA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67167",
+   "Nombre": "GERONIMO GHISLIERI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66533",
+   "Nombre": "BENJAMIN SOSA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66536",
+   "Nombre": "JOAQUIN SOSA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62955",
+   "Nombre": "LAUTARO BENJAMIN DI GENOVA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66790",
+   "Nombre": "BRUNO ROMERO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67891",
+   "Nombre": "EMILIANO BENJAMIN DE LOS SANTOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66892",
+   "Nombre": "MARTIN SANTAMARIA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61654",
+   "Nombre": "JUAN MANUEL MOREIRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "61599",
+   "Nombre": "ALFONSO MAILHOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62244",
+   "Nombre": "FELIPE YOUNG",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "62239",
+   "Nombre": "ANDRES TERCERO PEREZ DEL CASTILLO",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "61664",
+   "Nombre": "JUAN DIEGO STELLA",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "63186",
+   "Nombre": "JUAN SEBASTIAN JIMENEZ DE ARECHAGA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "61600",
+   "Nombre": "PAUL PHILIPPE MARTINET",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "65050",
+   "Nombre": "PEDRO MORIXE",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "65036",
+   "Nombre": "SANTIAGO TORRES",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "65053",
+   "Nombre": "JUAN BOSCH",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65058",
+   "Nombre": "IGNACIO AGUSTIN NOVEGIL",
+   "camiseta": "77",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66892",
+   "Jug_Sale": "MARTIN SANTAMARIA",
+   "CarneEntra": "62629",
+   "Jug_Entra": "JUAN FRANCISCO QUINTERO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68249",
+   "Jug_Sale": "BAUTISTA SANTIAGO CABRERA",
+   "CarneEntra": "68248",
+   "Jug_Entra": "SEBASTIAN LARRAÑAGA",
+   "camiseta": "13",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "66533",
+   "Jug_Sale": "BENJAMIN SOSA",
+   "CarneEntra": "66892",
+   "Jug_Entra": "MARTIN SANTAMARIA",
+   "camiseta": "17",
+   "minutos": "51"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62239",
+   "Jug_Sale": "ANDRES TERCERO PEREZ DEL CASTILLO",
+   "CarneEntra": "61657",
+   "Jug_Entra": "AGUSTIN SCASSO",
+   "camiseta": "29",
+   "minutos": "5"
+  },
+  {
+   "CarneSale": "65050",
+   "Jug_Sale": "PEDRO MORIXE",
+   "CarneEntra": "61661",
+   "Jug_Entra": "MATEO TARIGO",
+   "camiseta": "34",
+   "minutos": "29"
+  },
+  {
+   "CarneSale": "61664",
+   "Jug_Sale": "JUAN DIEGO STELLA",
+   "CarneEntra": "65058",
+   "Jug_Entra": "IGNACIO AGUSTIN NOVEGIL",
+   "camiseta": "77",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "62244",
+   "Jug_Sale": "FELIPE YOUNG",
+   "CarneEntra": "65061",
+   "Jug_Entra": "TOMAS MONTERO",
+   "camiseta": "27",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62955",
+   "Nombre": "LAUTARO BENJAMIN DI GENOVA",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67891",
+   "Nombre": "EMILIANO BENJAMIN DE LOS SANTOS",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61599",
+   "Nombre": "ALFONSO MAILHOS",
+   "minutos": "24",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62244",
+   "Nombre": "FELIPE YOUNG",
+   "minutos": "40",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63186",
+   "Nombre": "JUAN SEBASTIAN JIMENEZ DE ARECHAGA",
+   "minutos": "59",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FRANCISCO DAVID ROSANO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

@@ -1,0 +1,255 @@
+{
+ "id": "100527",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "FUERZA AEREA",
+ "local": "CLUB FUERZA AEREA",
+ "visitante": "DEPORTIVO MATADERO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "656",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "FUERZA AEREA",
+  "Fecha_Inicio": "2026-06-27 10:50:00",
+  "Fecha_fin": "2026-06-27 10:50:00",
+  "Locatario": "CLUB FUERZA AEREA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO MATADERO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35538",
+   "Nombre": "YAIR EDGAR MORALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "17537",
+   "Nombre": "ANGEL SEBASTIAN MOREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "24179",
+   "Nombre": "SERGIO DANIEL BIANCHI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "36916",
+   "Nombre": "SANTIAGO NICOLAS RUGLIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "27122",
+   "Nombre": "LEANDRO MIGUEL GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "32752",
+   "Nombre": "ALVARO DARIO BALCEMAO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "21318",
+   "Nombre": "PABLO DANIEL REINOSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "21333",
+   "Nombre": "GUSTAVO DANIEL GESTIDO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "25991",
+   "Nombre": "FEDERICO BARDIER",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "18698",
+   "Nombre": "FERNANDO MACEIRA",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26057",
+   "Nombre": "MARTIN MATHIAS PRIETO",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "20058",
+   "Nombre": "NICOLAS VOLONTERIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "28654",
+   "Nombre": "FEDERICO ISLAS",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "37263",
+   "Nombre": "FELIPE MAURENTE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "26930",
+   "Nombre": "ANDRES NICOLAS PALMA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62589",
+   "Nombre": "DIEGO NICOLAS SANTOS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "21208",
+   "Nombre": "ARTURO KEUSHKERIAN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "33861",
+   "Nombre": "RODRIGO ACOSTA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "47886",
+   "Nombre": "FELIPE ORDOQUI",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "28853",
+   "Nombre": "MARCIO NICOLAS ARAUJO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "30561",
+   "Nombre": "FLAVIO STEFANO PALOMBO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "26923",
+   "Nombre": "MATHIAS MAURENTE",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "21333",
+   "Jug_Sale": "GUSTAVO DANIEL GESTIDO",
+   "CarneEntra": "25130",
+   "Jug_Entra": "FABRIZIO APELLANIZ",
+   "camiseta": "35",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "32752",
+   "Jug_Sale": "ALVARO DARIO BALCEMAO",
+   "CarneEntra": "20772",
+   "Jug_Entra": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "21318",
+   "Jug_Sale": "PABLO DANIEL REINOSO",
+   "CarneEntra": "21755",
+   "Jug_Entra": "ROBERTO BORBONET",
+   "camiseta": "19",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "27122",
+   "Jug_Sale": "LEANDRO MIGUEL GONZALEZ",
+   "CarneEntra": "63106",
+   "Jug_Entra": "NICOLAS LOPEZ",
+   "camiseta": "8",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "28654",
+   "Jug_Sale": "FEDERICO ISLAS",
+   "CarneEntra": "62903",
+   "Jug_Entra": "PEDRO GULARTE",
+   "camiseta": "52",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "26923",
+   "Jug_Sale": "MATHIAS MAURENTE",
+   "CarneEntra": "19824",
+   "Jug_Entra": "FEDERICO BRUSCHI",
+   "camiseta": "10",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "26930",
+   "Jug_Sale": "ANDRES NICOLAS PALMA",
+   "CarneEntra": "21379",
+   "Jug_Entra": "AGUSTIN FRAGA",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "21208",
+   "Jug_Sale": "ARTURO KEUSHKERIAN",
+   "CarneEntra": "25632",
+   "Jug_Entra": "CHRISTIAN GABRIEL MALDONADO",
+   "camiseta": "51",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "30561",
+   "Jug_Sale": "FLAVIO STEFANO PALOMBO",
+   "CarneEntra": "32024",
+   "Jug_Entra": "DIEGO MARTIN PIÑEIRO",
+   "camiseta": "90",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "28853",
+   "Nombre": "MARCIO NICOLAS ARAUJO",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,231 @@
+{
+ "id": "102470",
+ "categoria": "presenior-e",
+ "serie": "PSET2",
+ "fecha": 1,
+ "fechaHora": "2026-10-03 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "LA CUEVA DEL LOBIZON",
+ "visitante": "CLUB RICHARD ANDERSON UNIV.",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "1004",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "3",
+  "Divisional": "PS DIV. E 2ªR COPA ORO",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-10-03 10:55:00",
+  "Fecha_fin": "2026-10-03 10:55:00",
+  "Locatario": "LA CUEVA DEL LOBIZON",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB RICHARD ANDERSON UNIV.",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "42159",
+   "Nombre": "SIGFRIDO VETTORAZZI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49909",
+   "Nombre": "PABLO MAYOBRE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "62180",
+   "Nombre": "AGUSTIN LAVENTURE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "30916",
+   "Nombre": "MATIAS LA CAVA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "33715",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "33673",
+   "Nombre": "MARTIN ANDRES TORRES",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "29552",
+   "Nombre": "NICOLAS LEONARDO ZABALETA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "26194",
+   "Nombre": "ALFONSO ROSSO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23668",
+   "Nombre": "MAURO ANDRES SERRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "35129",
+   "Nombre": "PABLO FARIAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "28805",
+   "Nombre": "FEDERICO ROSSO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "33713",
+   "Nombre": "FERNANDO JOSE BARCALA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "33306",
+   "Nombre": "GONZALO NICOLAS PELUFO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "26708",
+   "Nombre": "FRANCISCO CALVIÑO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "38345",
+   "Nombre": "IGNACIO DANIEL VARELA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "43161",
+   "Nombre": "JOSE LUIS FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "33278",
+   "Nombre": "MARTIN FAGIOLI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31957",
+   "Nombre": "GONZALO ERNESTO GIAMBRUNO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "31708",
+   "Nombre": "DIEGO VELASCO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "31594",
+   "Nombre": "ALAN VACCARO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26753",
+   "Nombre": "DIEGO MARTIN RIENZI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "38658",
+   "Nombre": "GERMAN FERNANDEZ",
+   "camiseta": "39",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "28805",
+   "Jug_Sale": "FEDERICO ROSSO",
+   "CarneEntra": "37332",
+   "Jug_Entra": "FEDERICO ISPER",
+   "camiseta": "19",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "29552",
+   "Jug_Sale": "NICOLAS LEONARDO ZABALETA",
+   "CarneEntra": "33725",
+   "Jug_Entra": "JUAN OHOLEGUY",
+   "camiseta": "18",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "26194",
+   "Jug_Sale": "ALFONSO ROSSO",
+   "CarneEntra": "19700",
+   "Jug_Entra": "ANDRES PIÑEYRUA",
+   "camiseta": "21",
+   "minutos": "89"
+  },
+  {
+   "CarneSale": "23668",
+   "Jug_Sale": "MAURO ANDRES SERRA",
+   "CarneEntra": "32032",
+   "Jug_Entra": "SANTIAGO BORGIA",
+   "camiseta": "31",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "35129",
+   "Jug_Sale": "PABLO FARIAS",
+   "CarneEntra": "22726",
+   "Jug_Entra": "JUAN ANDRES ALDECOA",
+   "camiseta": "25",
+   "minutos": "96"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "31957",
+   "Jug_Sale": "GONZALO ERNESTO GIAMBRUNO",
+   "CarneEntra": "41244",
+   "Jug_Entra": "DIEGO MARTIN PEREYRA",
+   "camiseta": "22",
+   "minutos": "46"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35129",
+   "Nombre": "PABLO FARIAS",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

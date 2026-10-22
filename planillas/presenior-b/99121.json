@@ -1,0 +1,291 @@
+{
+ "id": "99121",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "PALLOTTI UNIVERSITARIO",
+ "visitante": "RESISTENCIA",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "166",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-23 13:00:00",
+  "Fecha_fin": "2026-05-23 13:00:00",
+  "Locatario": "PALLOTTI UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "RESISTENCIA",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67586",
+   "Nombre": "DIEGO GASTON MUIÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38888",
+   "Nombre": "ANDRES RICARDO SOSA",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "37505",
+   "Nombre": "ANDRES DENES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "28849",
+   "Nombre": "EMILIANO SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51700",
+   "Nombre": "NICOLAS DARIO CORREA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68668",
+   "Nombre": "ALVARO DANIEL NOBLE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "37650",
+   "Nombre": "GONZALO SEBASTIAN MARTINICORENA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "26406",
+   "Nombre": "JUAN ANDRES VARELA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62798",
+   "Nombre": "RODRIGO GONNZALEZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64445",
+   "Nombre": "RODRIGO JAVIER MENENDEZ",
+   "camiseta": "96",
+   "Capitan": ""
+  },
+  {
+   "carne": "54487",
+   "Nombre": "FABIO GABRIEL CROCI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "31507",
+   "Nombre": "JOAQUIN BADO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "25142",
+   "Nombre": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "23532",
+   "Nombre": "RODRIGO IBACETA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26679",
+   "Nombre": "PABLO FREIRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "22462",
+   "Nombre": "PEDRO CAPRANI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23452",
+   "Nombre": "IGNACIO SPANGENBERG",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "24879",
+   "Nombre": "DIEGO NICOLAS RIOLFO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "51700",
+   "Jug_Sale": "NICOLAS DARIO CORREA",
+   "CarneEntra": "67587",
+   "Jug_Entra": "MATIAS EIRIN",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37650",
+   "Jug_Sale": "GONZALO SEBASTIAN MARTINICORENA",
+   "CarneEntra": "27654",
+   "Jug_Entra": "ISMAEL NADAL",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37505",
+   "Jug_Sale": "ANDRES DENES",
+   "CarneEntra": "51700",
+   "Jug_Entra": "NICOLAS DARIO CORREA",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "26406",
+   "Jug_Sale": "JUAN ANDRES VARELA",
+   "CarneEntra": "37650",
+   "Jug_Entra": "GONZALO SEBASTIAN MARTINICORENA",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "38888",
+   "Jug_Sale": "ANDRES RICARDO SOSA",
+   "CarneEntra": "21100",
+   "Jug_Entra": "RODRIGO LUJAN",
+   "camiseta": "2",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "62798",
+   "Jug_Sale": "RODRIGO GONNZALEZ",
+   "CarneEntra": "26406",
+   "Jug_Entra": "JUAN ANDRES VARELA",
+   "camiseta": "9",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "28849",
+   "Jug_Sale": "EMILIANO SOSA",
+   "CarneEntra": "38358",
+   "Jug_Entra": "NICOLAS ALVAREZ",
+   "camiseta": "20",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "23452",
+   "Jug_Sale": "IGNACIO SPANGENBERG",
+   "CarneEntra": "28831",
+   "Jug_Entra": "JOSE IGNACIO SANCHEZ",
+   "camiseta": "19",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "26679",
+   "Jug_Sale": "PABLO FREIRE",
+   "CarneEntra": "23885",
+   "Jug_Entra": "MAURICIO DANIEL HERNANDEZ",
+   "camiseta": "21",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "49863",
+   "Jug_Sale": "JUAN IGNACIO PRADO",
+   "CarneEntra": "49856",
+   "Jug_Entra": "MAURICIO JAVIER DAL MONTE",
+   "camiseta": "6",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "25651",
+   "Jug_Sale": "CRISTIAN AROCHA",
+   "CarneEntra": "23840",
+   "Jug_Entra": "RODRIGO AÑON",
+   "camiseta": "29",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "23532",
+   "Jug_Sale": "RODRIGO IBACETA",
+   "CarneEntra": "27066",
+   "Jug_Entra": "SANTIAGO JULIAN LAGOMARSINO",
+   "camiseta": "22",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "22462",
+   "Nombre": "PEDRO CAPRANI",
+   "minutos": "14",
+   "EnContra": "1"
+  },
+  {
+   "carne": "24879",
+   "Nombre": "DIEGO NICOLAS RIOLFO",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28831",
+   "Nombre": "JOSE IGNACIO SANCHEZ",
+   "minutos": "77",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

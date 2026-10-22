@@ -1,0 +1,280 @@
+{
+ "id": "101465",
+ "categoria": "presenior-e",
+ "serie": "PSETA",
+ "fecha": 7,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "COMPLEJO ABUA",
+ "local": "BELLA UNION UNIVERSITARIO",
+ "visitante": "CLUB RICHARD ANDERSON UNIV.",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "717",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PS DIV. E 1ªR COPA ORO",
+  "Cancha": "COMPLEJO ABUA",
+  "Fecha_Inicio": "2026-09-05 10:55:00",
+  "Fecha_fin": "2026-09-05 10:55:00",
+  "Locatario": "BELLA UNION UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB RICHARD ANDERSON UNIV.",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67674",
+   "Nombre": "JUAN JOSE ANCHIETA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "38804",
+   "Nombre": "JUAN JOSE PAGLIASSO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "33295",
+   "Nombre": "GARY ANDRES SUAREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "57376",
+   "Nombre": "ANDRES SEBASTIAN ROVETTA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "45482",
+   "Nombre": "JOSE MIGUEL SOMACAL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "41311",
+   "Nombre": "LEONARDO DANIEL GARCIA",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "45449",
+   "Nombre": "MANUEL QUINTANA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "64926",
+   "Nombre": "MARTIN BENTOS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35958",
+   "Nombre": "RENATO RIBEIRO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "30583",
+   "Nombre": "WALTER LIMA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51431",
+   "Nombre": "VICTOR EDUARDO ARBIZA",
+   "camiseta": "86",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "33713",
+   "Nombre": "FERNANDO JOSE BARCALA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "33306",
+   "Nombre": "GONZALO NICOLAS PELUFO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "26708",
+   "Nombre": "FRANCISCO CALVIÑO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33116",
+   "Nombre": "GUILLERMO EDUARDO BELZA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "31708",
+   "Nombre": "DIEGO VELASCO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "28333",
+   "Nombre": "JOAQUIN OJEDA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "33278",
+   "Nombre": "MARTIN FAGIOLI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "43161",
+   "Nombre": "JOSE LUIS FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "31594",
+   "Nombre": "ALAN VACCARO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28100",
+   "Nombre": "ANDRES BUREL",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "30054",
+   "Nombre": "NICOLAS BARQUET",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "38804",
+   "Jug_Sale": "JUAN JOSE PAGLIASSO",
+   "CarneEntra": "40578",
+   "Jug_Entra": "SANTIAGO DUARTE",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45482",
+   "Jug_Sale": "JOSE MIGUEL SOMACAL",
+   "CarneEntra": "49464",
+   "Jug_Entra": "AUGUSTO MARTIN DE LOS SANTOS",
+   "camiseta": "4",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "35958",
+   "Jug_Sale": "RENATO RIBEIRO",
+   "CarneEntra": "58388",
+   "Jug_Entra": "DAMIAN LATORRE",
+   "camiseta": "80",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "28100",
+   "Jug_Sale": "ANDRES BUREL",
+   "CarneEntra": "34939",
+   "Jug_Entra": "SANTIAGO DANIEL RODRIGUEZ",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "30054",
+   "Jug_Sale": "NICOLAS BARQUET",
+   "CarneEntra": "38658",
+   "Jug_Entra": "GERMAN FERNANDEZ",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43161",
+   "Jug_Sale": "JOSE LUIS FERNANDEZ",
+   "CarneEntra": "38345",
+   "Jug_Entra": "IGNACIO DANIEL VARELA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28333",
+   "Jug_Sale": "JOAQUIN OJEDA",
+   "CarneEntra": "31957",
+   "Jug_Entra": "GONZALO ERNESTO GIAMBRUNO",
+   "camiseta": "25",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "33278",
+   "Jug_Sale": "MARTIN FAGIOLI",
+   "CarneEntra": "31254",
+   "Jug_Entra": "FEDERICO DANIEL ZANETTI",
+   "camiseta": "9",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "33306",
+   "Jug_Sale": "GONZALO NICOLAS PELUFO",
+   "CarneEntra": "34856",
+   "Jug_Entra": "ALEJANDRO ALVAREZ",
+   "camiseta": "13",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "45449",
+   "Nombre": "MANUEL QUINTANA",
+   "minutos": "8",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28100",
+   "Nombre": "ANDRES BUREL",
+   "minutos": "32",
+   "EnContra": "1"
+  },
+  {
+   "carne": "30054",
+   "Nombre": "NICOLAS BARQUET",
+   "minutos": "15",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31594",
+   "Nombre": "ALAN VACCARO",
+   "minutos": "71",
+   "EnContra": "1"
+  },
+  {
+   "carne": "38345",
+   "Nombre": "IGNACIO DANIEL VARELA",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

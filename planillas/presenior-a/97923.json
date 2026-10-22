@@ -1,0 +1,263 @@
+{
+ "id": "97923",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "LOS MILAGROS",
+ "local": "OLD IVY",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "6",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "LOS MILAGROS",
+  "Fecha_Inicio": "2026-04-11 00:00:00",
+  "Fecha_fin": "2026-04-11 00:00:00",
+  "Locatario": "OLD IVY",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "24571",
+   "Nombre": "IGNACIO DIEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22430",
+   "Nombre": "RODRIGO DANIEL PUJOL",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23949",
+   "Nombre": "SANTIAGO MUXI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "20308",
+   "Nombre": "BRUNO CROSTA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "21861",
+   "Nombre": "MARTIN CARRASCO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "20622",
+   "Nombre": "TAREK EL YAMANI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "22585",
+   "Nombre": "FRANCISCO BOSCH",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "21327",
+   "Nombre": "FELIPE LECUEDER",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "25888",
+   "Nombre": "FELIPE DE LOS CAMPOS",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "31539",
+   "Nombre": "CARLOS SANGUINETTI",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "22426",
+   "Nombre": "GUZMAN VIDAL",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "30639",
+   "Nombre": "NICOLAS FERNANDO ALVAREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35358",
+   "Nombre": "GONZALO MARTIN RUSSO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "23989",
+   "Nombre": "MAURICIO SANTIAGO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27240",
+   "Nombre": "CARLOS GABRIEL SCHOPF",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "35041",
+   "Nombre": "JOAQUIN GUERRA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "26688",
+   "Nombre": "MATEO PEREIRO",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "25769",
+   "Nombre": "FABRICIO RIANI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "26528",
+   "Nombre": "MARIO SZLAFMYC",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "23836",
+   "Nombre": "DIEGO ARJONA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "29905",
+   "Nombre": "FELIPE SURRACO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "20774",
+   "Nombre": "DIEGO ALEMAN",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "25888",
+   "Jug_Sale": "FELIPE DE LOS CAMPOS",
+   "CarneEntra": "41229",
+   "Jug_Entra": "ALEJANDRO ENRIQUE ARAYA",
+   "camiseta": "12",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "20622",
+   "Jug_Sale": "TAREK EL YAMANI",
+   "CarneEntra": "20294",
+   "Jug_Entra": "SANTIAGO RIANI",
+   "camiseta": "4",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "41229",
+   "Jug_Sale": "ALEJANDRO ENRIQUE ARAYA",
+   "CarneEntra": "20335",
+   "Jug_Entra": "JUAN MUXI",
+   "camiseta": "11",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "22430",
+   "Jug_Sale": "RODRIGO DANIEL PUJOL",
+   "CarneEntra": "22431",
+   "Jug_Entra": "PEDRO ANDRES LAPI",
+   "camiseta": "2",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "22585",
+   "Jug_Sale": "FRANCISCO BOSCH",
+   "CarneEntra": "23240",
+   "Jug_Entra": "RUBEN DARIO NAVARRO",
+   "camiseta": "14",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "25769",
+   "Jug_Sale": "FABRICIO RIANI",
+   "CarneEntra": "22414",
+   "Jug_Entra": "RODRIGO OLAVE",
+   "camiseta": "8",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "27240",
+   "Jug_Sale": "CARLOS GABRIEL SCHOPF",
+   "CarneEntra": "18053",
+   "Jug_Entra": "FEDERICO BENTANCUR",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26528",
+   "Jug_Sale": "MARIO SZLAFMYC",
+   "CarneEntra": "30849",
+   "Jug_Entra": "MANUEL BARBOZA",
+   "camiseta": "11",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "35358",
+   "Jug_Sale": "GONZALO MARTIN RUSSO",
+   "CarneEntra": "23004",
+   "Jug_Entra": "ANGEL URRABURU",
+   "camiseta": "25",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "26688",
+   "Jug_Sale": "MATEO PEREIRO",
+   "CarneEntra": "54075",
+   "Jug_Entra": "RODRIGO VIEIRA",
+   "camiseta": "54",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "26688",
+   "Nombre": "MATEO PEREIRO",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

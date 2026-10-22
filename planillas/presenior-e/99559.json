@@ -1,0 +1,304 @@
+{
+ "id": "99559",
+ "categoria": "presenior-e",
+ "serie": "PSE2",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CLUB ATLETICO AGUADA",
+ "visitante": "CIENFAR F.C.",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "556",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 2",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-30 00:00:00",
+  "Fecha_fin": "2026-05-30 00:00:00",
+  "Locatario": "CLUB ATLETICO AGUADA",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CIENFAR F.C.",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52551",
+   "Nombre": "GIANCARLO CORBELLINI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51188",
+   "Nombre": "FACUNDO MARTIN DIAZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "36896",
+   "Nombre": "JUAN IGNACIO PEYRO",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "39203",
+   "Nombre": "ANDRY WAY RUIZ DIAZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32733",
+   "Nombre": "RAMIRO DE LA PUENTE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "37270",
+   "Nombre": "LEONARDO MAURICIO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "28132",
+   "Nombre": "MARTIN ECHEGARAY",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "24851",
+   "Nombre": "DANIEL ECHAGARAY",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "31934",
+   "Nombre": "JAVIER ANDRES GARCIA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "33312",
+   "Nombre": "HERNAN RUMBO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "32569",
+   "Nombre": "EDUARDO DANIEL SAURINA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "23069",
+   "Nombre": "DIEGO MARTIN MAROTTA",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "52499",
+   "Nombre": "RODOLFO ECHEMENDIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "21308",
+   "Nombre": "FEDERICO PARNIZARI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "29910",
+   "Nombre": "MANUEL IBARRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "17796",
+   "Nombre": "IGNACIO BARRETO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "37656",
+   "Nombre": "ANGEL MATIAS RODRIGUEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "38789",
+   "Nombre": "NICOLAS FARIAS",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "26085",
+   "Nombre": "BRUNO BELLINI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "27619",
+   "Nombre": "DANIEL EDGARDO MAROTTA",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "23384",
+   "Nombre": "MARTIN HIRIART",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "26324",
+   "Nombre": "JUAN MARTIN GARRIDO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31934",
+   "Jug_Sale": "JAVIER ANDRES GARCIA",
+   "CarneEntra": "29741",
+   "Jug_Entra": "JUAN IGNACIO BRESQUE",
+   "camiseta": "6",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "51188",
+   "Jug_Sale": "FACUNDO MARTIN DIAZ",
+   "CarneEntra": "65002",
+   "Jug_Entra": "LESTER DIAZ",
+   "camiseta": "8",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "32569",
+   "Jug_Sale": "EDUARDO DANIEL SAURINA",
+   "CarneEntra": "31934",
+   "Jug_Entra": "JAVIER ANDRES GARCIA",
+   "camiseta": "14",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "32733",
+   "Jug_Sale": "RAMIRO DE LA PUENTE",
+   "CarneEntra": "32569",
+   "Jug_Entra": "EDUARDO DANIEL SAURINA",
+   "camiseta": "20",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "23384",
+   "Jug_Sale": "MARTIN HIRIART",
+   "CarneEntra": "33067",
+   "Jug_Entra": "FEDERICO MANUEL REY",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "52499",
+   "Jug_Sale": "RODOLFO ECHEMENDIA",
+   "CarneEntra": "35076",
+   "Jug_Entra": "DIEGO FERNANDO RODRIGUEZ",
+   "camiseta": "90",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17796",
+   "Jug_Sale": "IGNACIO BARRETO",
+   "CarneEntra": "19488",
+   "Jug_Entra": "SANTIAGO LAUREIRO",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27619",
+   "Jug_Sale": "DANIEL EDGARDO MAROTTA",
+   "CarneEntra": "33273",
+   "Jug_Entra": "DANIEL ADRIAN RAMOS",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26085",
+   "Jug_Sale": "BRUNO BELLINI",
+   "CarneEntra": "36922",
+   "Jug_Entra": "MAURICIO FARIAS",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38789",
+   "Jug_Sale": "NICOLAS FARIAS",
+   "CarneEntra": "36786",
+   "Jug_Entra": "PABLO FEDERICO COLLAZO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26324",
+   "Jug_Sale": "JUAN MARTIN GARRIDO",
+   "CarneEntra": "68379",
+   "Jug_Entra": "KINLEY CLEMENS SALMON",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23069",
+   "Jug_Sale": "DIEGO MARTIN MAROTTA",
+   "CarneEntra": "23384",
+   "Jug_Entra": "MARTIN HIRIART",
+   "camiseta": "7",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "32733",
+   "Nombre": "RAMIRO DE LA PUENTE",
+   "minutos": "91",
+   "EnContra": "0"
+  },
+  {
+   "carne": "33312",
+   "Nombre": "HERNAN RUMBO",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "39203",
+   "Nombre": "ANDRY WAY RUIZ DIAZ",
+   "minutos": "27",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "27619",
+   "Nombre": "DANIEL EDGARDO MAROTTA",
+   "minutos": "4",
+   "EnContra": "1"
+  },
+  {
+   "carne": "37656",
+   "Nombre": "ANGEL MATIAS RODRIGUEZ",
+   "minutos": "2",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

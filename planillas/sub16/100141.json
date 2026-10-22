@@ -1,0 +1,374 @@
+{
+ "id": "100141",
+ "categoria": "sub16",
+ "serie": "16-3-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "SCUOLA PALERMO",
+ "gl": 7,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "67",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 3",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-14 00:00:00",
+  "Fecha_fin": "2026-06-14 00:00:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "7",
+  "puntos_locatario": "3",
+  "Visitante": "SCUOLA PALERMO",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68385",
+   "Nombre": "LEANDRO JOAQUIN VECINO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65151",
+   "Nombre": "MATEO EMANUEL ROQUETA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65150",
+   "Nombre": "FRANCISCO ROBLEDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65180",
+   "Nombre": "RAFAEL DONEGANA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63014",
+   "Nombre": "TIMOTEO ZORRILLA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63707",
+   "Nombre": "JUAN MARTIN BARTABURU",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65152",
+   "Nombre": "JOAQUN REY",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "60736",
+   "Nombre": "PEDRO ARQUERO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63019",
+   "Nombre": "JUAN BAUTISTA MUÑOZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "68456",
+   "Nombre": "JUAN MARTIN SOSA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "65183",
+   "Nombre": "JOAQUIN GERSCHUNI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65600",
+   "Nombre": "BENICIO SASSON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65718",
+   "Nombre": "VICENTE VALENTIN VIERA",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "60764",
+   "Nombre": "FACUNDO CARAMBULA",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "65716",
+   "Nombre": "MATEO DEVITA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65887",
+   "Nombre": "FABRIZIO BISOGNO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "63142",
+   "Nombre": "SANTIAGO METTEO SEVRINI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "68377",
+   "Nombre": "THIAN BAUTISTA MORALES",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63514",
+   "Nombre": "LUCAS TAROCO",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "61437",
+   "Nombre": "MARTIN BREGSTEIN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "60475",
+   "Nombre": "AGUSTIN ANTELO",
+   "camiseta": "56",
+   "Capitan": ""
+  },
+  {
+   "carne": "64756",
+   "Nombre": "FELIPE REINALDO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68385",
+   "Jug_Sale": "LEANDRO JOAQUIN VECINO",
+   "CarneEntra": "65247",
+   "Jug_Entra": "VALENTINO MARADEI",
+   "camiseta": "12",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65151",
+   "Jug_Sale": "MATEO EMANUEL ROQUETA",
+   "CarneEntra": "68487",
+   "Jug_Entra": "SEBASTIAN BARBOZA",
+   "camiseta": "31",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65150",
+   "Jug_Sale": "FRANCISCO ROBLEDO",
+   "CarneEntra": "68488",
+   "Jug_Entra": "SAMUEL DYLAN RIVAS",
+   "camiseta": "41",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65180",
+   "Jug_Sale": "RAFAEL DONEGANA",
+   "CarneEntra": "68642",
+   "Jug_Entra": "JOAQUIN PIETRAFESA",
+   "camiseta": "71",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63014",
+   "Jug_Sale": "TIMOTEO ZORRILLA",
+   "CarneEntra": "63194",
+   "Jug_Entra": "THIAGO SILVA",
+   "camiseta": "32",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63707",
+   "Jug_Sale": "JUAN MARTIN BARTABURU",
+   "CarneEntra": "65146",
+   "Jug_Entra": "FELIPE VILLAR",
+   "camiseta": "8",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65152",
+   "Jug_Sale": "JOAQUN REY",
+   "CarneEntra": "68743",
+   "Jug_Entra": "JOAQUIN SERNIZ",
+   "camiseta": "13",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "60736",
+   "Jug_Sale": "PEDRO ARQUERO",
+   "CarneEntra": "65157",
+   "Jug_Entra": "SANTIAGO CISNEROS",
+   "camiseta": "91",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63019",
+   "Jug_Sale": "JUAN BAUTISTA MUÑOZ",
+   "CarneEntra": "62749",
+   "Jug_Entra": "JOAQUIN ALEJANDRO GARAT",
+   "camiseta": "29",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65183",
+   "Jug_Sale": "JOAQUIN GERSCHUNI",
+   "CarneEntra": "65891",
+   "Jug_Entra": "LAUTARO NICOLAS DIAZ ALANIZ",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "68456",
+   "Jug_Sale": "JUAN MARTIN SOSA",
+   "CarneEntra": "68743",
+   "Jug_Entra": "JOAQUIN SERNIZ",
+   "camiseta": "51",
+   "minutos": "40"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65716",
+   "Jug_Sale": "MATEO DEVITA",
+   "CarneEntra": "68376",
+   "Jug_Entra": "JUAN IGNACIO MUÑOZ",
+   "camiseta": "8",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63142",
+   "Jug_Sale": "SANTIAGO METTEO SEVRINI",
+   "CarneEntra": "60477",
+   "Jug_Entra": "LUCA LORIETO",
+   "camiseta": "33",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "60475",
+   "Jug_Sale": "AGUSTIN ANTELO",
+   "CarneEntra": "65610",
+   "Jug_Entra": "LUCA GONZALEZ",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "60764",
+   "Jug_Sale": "FACUNDO CARAMBULA",
+   "CarneEntra": "65615",
+   "Jug_Entra": "MAURIZIO XAVIER SORRONDEGUI",
+   "camiseta": "20",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "63514",
+   "Jug_Sale": "LUCAS TAROCO",
+   "CarneEntra": "68378",
+   "Jug_Entra": "SANTIAGO MATTERA",
+   "camiseta": "28",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "65718",
+   "Jug_Sale": "VICENTE VALENTIN VIERA",
+   "CarneEntra": "68690",
+   "Jug_Entra": "MARTIN PALLAS",
+   "camiseta": "12",
+   "minutos": "63"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60736",
+   "Nombre": "PEDRO ARQUERO",
+   "minutos": "37",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63019",
+   "Nombre": "JUAN BAUTISTA MUÑOZ",
+   "minutos": "4",
+   "EnContra": "0"
+  },
+  {
+   "carne": "63707",
+   "Nombre": "JUAN MARTIN BARTABURU",
+   "minutos": "3",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65183",
+   "Nombre": "JOAQUIN GERSCHUNI",
+   "minutos": "10",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65183",
+   "Nombre": "JOAQUIN GERSCHUNI",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65183",
+   "Nombre": "JOAQUIN GERSCHUNI",
+   "minutos": "35",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68743",
+   "Nombre": "JOAQUIN SERNIZ",
+   "minutos": "54",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61437",
+   "Nombre": "MARTIN BREGSTEIN",
+   "minutos": "71",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64756",
+   "Nombre": "FELIPE REINALDO",
+   "minutos": "47",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65610",
+   "Nombre": "LUCA GONZALEZ",
+   "minutos": "51",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,287 @@
+{
+ "id": "102031",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "Comp. \"LA REP. DE LIVERPOOL\"",
+ "local": "LIVERPOOL UNIVERSITARIO",
+ "visitante": "CLUB FUERZA AEREA",
+ "gl": 3,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "679",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "Comp. \"LA REP. DE LIVERPOOL\"",
+  "Fecha_Inicio": "2026-09-19 10:50:00",
+  "Fecha_fin": "2026-09-19 10:50:00",
+  "Locatario": "LIVERPOOL UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB FUERZA AEREA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "33436",
+   "Nombre": "ANDRES SPADARO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "27084",
+   "Nombre": "MAXIMILIANO ALBERTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "38901",
+   "Nombre": "LEONARDO IZMENDI",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "66360",
+   "Nombre": "AGUSTIN PAUL GALVAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "31175",
+   "Nombre": "MATHIAS VIERA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38423",
+   "Nombre": "OCTAVIO OSVALDO CAZZOLA",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "50308",
+   "Nombre": "LUIS ANTONIO SIMOES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "22552",
+   "Nombre": "MAURICIO DI NITTO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "33231",
+   "Nombre": "SANTIAGO ANTUNEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "59321",
+   "Nombre": "ALFONSO BRITOS",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "35538",
+   "Nombre": "YAIR EDGAR MORALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "17537",
+   "Nombre": "ANGEL SEBASTIAN MOREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "24282",
+   "Nombre": "GERARDO MOREIRA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "24179",
+   "Nombre": "SERGIO DANIEL BIANCHI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "20859",
+   "Nombre": "IGNACIO OTASU",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "40807",
+   "Nombre": "MARIANO GERMAN FIGUEROA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "25991",
+   "Nombre": "FEDERICO BARDIER",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27122",
+   "Nombre": "LEANDRO MIGUEL GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "36916",
+   "Nombre": "SANTIAGO NICOLAS RUGLIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "20772",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "17844",
+   "Nombre": "YAMANDU SEBASTIAN SILVA",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59321",
+   "Jug_Sale": "ALFONSO BRITOS",
+   "CarneEntra": "33219",
+   "Jug_Entra": "MATIAS SANTIAGO DEVINCENZI",
+   "camiseta": "24",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "50308",
+   "Jug_Sale": "LUIS ANTONIO SIMOES",
+   "CarneEntra": "24813",
+   "Jug_Entra": "DANILO SEBASTIAN PUGLISI",
+   "camiseta": "9",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "38901",
+   "Jug_Sale": "LEONARDO IZMENDI",
+   "CarneEntra": "33231",
+   "Jug_Entra": "SANTIAGO ANTUNEZ",
+   "camiseta": "22",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "22552",
+   "Jug_Sale": "MAURICIO DI NITTO",
+   "CarneEntra": "35408",
+   "Jug_Entra": "JUAN PABLO ROMERO",
+   "camiseta": "15",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "31175",
+   "Jug_Sale": "MATHIAS VIERA",
+   "CarneEntra": "20971",
+   "Jug_Entra": "ROBERTO LAMAS",
+   "camiseta": "20",
+   "minutos": "94"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "20859",
+   "Jug_Sale": "IGNACIO OTASU",
+   "CarneEntra": "66178",
+   "Jug_Entra": "JAIRO ALTAMIR DE LOS SANTOS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17537",
+   "Jug_Sale": "ANGEL SEBASTIAN MOREIRA",
+   "CarneEntra": "19790",
+   "Jug_Entra": "GUSTAVO JAVIER GONZALEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24282",
+   "Jug_Sale": "GERARDO MOREIRA",
+   "CarneEntra": "32752",
+   "Jug_Entra": "ALVARO DARIO BALCEMAO",
+   "camiseta": "27",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "20772",
+   "Jug_Sale": "IGNACIO GONZALEZ",
+   "CarneEntra": "24312",
+   "Jug_Entra": "JUAN NICOLAS DA SILVA",
+   "camiseta": "45",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "17844",
+   "Jug_Sale": "YAMANDU SEBASTIAN SILVA",
+   "CarneEntra": "21755",
+   "Jug_Entra": "ROBERTO BORBONET",
+   "camiseta": "19",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "38423",
+   "Nombre": "OCTAVIO OSVALDO CAZZOLA",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38901",
+   "Nombre": "LEONARDO IZMENDI",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "minutos": "36",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "66178",
+   "Nombre": "JAIRO ALTAMIR DE LOS SANTOS",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MARIANO GERMAN FIGUEROA",
+   "observaciones": ""
+  }
+ ]
+}

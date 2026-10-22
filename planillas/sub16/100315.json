@@ -1,0 +1,256 @@
+{
+ "id": "100315",
+ "categoria": "sub16",
+ "serie": "16-52",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 13:30:00",
+ "cancha": "COMPLEJO RUTA 48",
+ "local": "ESCUELA L.P.",
+ "visitante": "DFC",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "256",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 5 RUEDA 2",
+  "Cancha": "COMPLEJO RUTA 48",
+  "Fecha_Inicio": "2026-06-21 15:10:00",
+  "Fecha_fin": "2026-06-21 15:10:00",
+  "Locatario": "ESCUELA L.P.",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "DFC",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61428",
+   "Nombre": "DIEGO VICENTE FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "61583",
+   "Nombre": "TOMAS MORGA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "61438",
+   "Nombre": "GUILLERMO GABRIEL SUAREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62414",
+   "Nombre": "ERICK RIVERO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "68017",
+   "Nombre": "MATEO VALENTIN TORTEROLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "61553",
+   "Nombre": "EMANUEL GUERINO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68633",
+   "Nombre": "EMILIANO BOIDI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "68146",
+   "Nombre": "RENZO GONZALEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61424",
+   "Nombre": "ULISES ESPINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68014",
+   "Nombre": "BRUNO GABRIEL GARCIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63825",
+   "Nombre": "GABRIEL LOPEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67601",
+   "Nombre": "CONSTANTINO VIERAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68184",
+   "Nombre": "SANTIAGO FONTOURA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67604",
+   "Nombre": "IGNACIO GARCIA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67469",
+   "Nombre": "SANTIAGO DANIEL DE LA LLANA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67602",
+   "Nombre": "VALENTINO LAUTARO DE ARMAS",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67929",
+   "Nombre": "EMILIANO BURGAINS",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67932",
+   "Nombre": "BAUTISTA PAZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68452",
+   "Nombre": "SANDINO GABRIEL CUNHA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67607",
+   "Nombre": "LAUTARO ALEXANDER ALANIS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67609",
+   "Nombre": "NICOLAS RAUL PEREIRO",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68017",
+   "Jug_Sale": "MATEO VALENTIN TORTEROLO",
+   "CarneEntra": "68326",
+   "Jug_Entra": "LUCIANO VALENTIN PEREIRA",
+   "camiseta": "10",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68184",
+   "Jug_Sale": "SANTIAGO FONTOURA",
+   "CarneEntra": "67600",
+   "Jug_Entra": "BRUNO NICOLAS YACQUE",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67609",
+   "Jug_Sale": "NICOLAS RAUL PEREIRO",
+   "CarneEntra": "67931",
+   "Jug_Entra": "FACUNDO MANUEL CAUTO",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68452",
+   "Jug_Sale": "SANDINO GABRIEL CUNHA",
+   "CarneEntra": "67599",
+   "Jug_Entra": "MATEO TIZIANO CASTRO",
+   "camiseta": "6",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "67607",
+   "Jug_Sale": "LAUTARO ALEXANDER ALANIS",
+   "CarneEntra": "67466",
+   "Jug_Entra": "FRANCO OTTONELLO",
+   "camiseta": "19",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "67932",
+   "Jug_Sale": "BAUTISTA PAZ",
+   "CarneEntra": "67603",
+   "Jug_Entra": "BRUNO PODESTA",
+   "camiseta": "16",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "68633",
+   "Nombre": "EMILIANO BOIDI",
+   "minutos": "77",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67600",
+   "Nombre": "BRUNO NICOLAS YACQUE",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67607",
+   "Nombre": "LAUTARO ALEXANDER ALANIS",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68452",
+   "Nombre": "SANDINO GABRIEL CUNHA",
+   "minutos": "36",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

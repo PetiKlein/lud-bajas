@@ -1,0 +1,300 @@
+{
+ "id": "99497",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "UT SERVIAM",
+ "visitante": "LIVERPOOL UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "619",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-05-30 11:10:00",
+  "Fecha_fin": "2026-05-30 11:10:00",
+  "Locatario": "UT SERVIAM",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "LIVERPOOL UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52060",
+   "Nombre": "SANTIAGO MARTIN PERALTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "31891",
+   "Nombre": "JUAN FRANCISCO IRRAZABAL",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25334",
+   "Nombre": "ALBERTO JONATAN DUARTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "27245",
+   "Nombre": "FELIPE SPOSARO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "29251",
+   "Nombre": "SANTIAGO JOSE MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "55031",
+   "Nombre": "HUGO IGNACIO TRIAS",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "36244",
+   "Nombre": "LUIS IGNACIO CAMPON",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "37586",
+   "Nombre": "MATIAS OLALDE",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "30816",
+   "Nombre": "LUCAS RODRIGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "31791",
+   "Nombre": "JOAQUIN MARQUEZ",
+   "camiseta": "49",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37636",
+   "Nombre": "PABLO SEBASTIAN BRIONES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27084",
+   "Nombre": "MAXIMILIANO ALBERTI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "20971",
+   "Nombre": "ROBERTO LAMAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "23402",
+   "Nombre": "JOSE MARIA PALMA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "22552",
+   "Nombre": "MAURICIO DI NITTO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "50308",
+   "Nombre": "LUIS ANTONIO SIMOES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31175",
+   "Nombre": "MATHIAS VIERA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "66360",
+   "Nombre": "AGUSTIN PAUL GALVAN",
+   "camiseta": "29",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62591",
+   "Nombre": "MATHIAS DEMATTE",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "59321",
+   "Nombre": "ALFONSO BRITOS",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "37586",
+   "Jug_Sale": "MATIAS OLALDE",
+   "CarneEntra": "31636",
+   "Jug_Entra": "GABRIEL JOSE OLIVERA",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31791",
+   "Jug_Sale": "JOAQUIN MARQUEZ",
+   "CarneEntra": "30114",
+   "Jug_Entra": "GONZALO FELIPE IRRAZABAL",
+   "camiseta": "99",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "36244",
+   "Jug_Sale": "LUIS IGNACIO CAMPON",
+   "CarneEntra": "67336",
+   "Jug_Entra": "DIEGO REZK",
+   "camiseta": "36",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "35916",
+   "Jug_Sale": "RODRIGO LUIS CUBRIA",
+   "CarneEntra": "25307",
+   "Jug_Entra": "RAFAEL MARASCIO",
+   "camiseta": "9",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "30816",
+   "Jug_Sale": "LUCAS RODRIGUEZ",
+   "CarneEntra": "36025",
+   "Jug_Entra": "JOAQUIN ENRIQUE SILVEYRA",
+   "camiseta": "13",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62591",
+   "Jug_Sale": "MATHIAS DEMATTE",
+   "CarneEntra": "23980",
+   "Jug_Entra": "NICOLAS GABRIEL RODRIGUEZ",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22552",
+   "Jug_Sale": "MAURICIO DI NITTO",
+   "CarneEntra": "24812",
+   "Jug_Entra": "SANTIAGO FAJARDO",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20971",
+   "Jug_Sale": "ROBERTO LAMAS",
+   "CarneEntra": "36915",
+   "Jug_Entra": "JUAN ANDRES DELGADO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50308",
+   "Jug_Sale": "LUIS ANTONIO SIMOES",
+   "CarneEntra": "25477",
+   "Jug_Entra": "EMILIANO FAJARDO",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "23402",
+   "Jug_Sale": "JOSE MARIA PALMA",
+   "CarneEntra": "35408",
+   "Jug_Entra": "JUAN PABLO ROMERO",
+   "camiseta": "15",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "27084",
+   "Jug_Sale": "MAXIMILIANO ALBERTI",
+   "CarneEntra": "50915",
+   "Jug_Entra": "BRUNO GONZALEZ",
+   "camiseta": "23",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "25477",
+   "Jug_Sale": "EMILIANO FAJARDO",
+   "CarneEntra": "66940",
+   "Jug_Entra": "GUILLERMO RODRIGUEZ",
+   "camiseta": "39",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "59321",
+   "Jug_Sale": "ALFONSO BRITOS",
+   "CarneEntra": "50308",
+   "Jug_Entra": "LUIS ANTONIO SIMOES",
+   "camiseta": "11",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "minutos": "77",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "40586",
+   "Nombre": "BIAGIO MONZILLO",
+   "minutos": "45",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

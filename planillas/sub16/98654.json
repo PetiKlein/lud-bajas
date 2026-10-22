@@ -1,0 +1,349 @@
+{
+ "id": "98654",
+ "categoria": "sub16",
+ "serie": "16-3-",
+ "fecha": 2,
+ "fechaHora": "2026-04-26 13:30:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "A.E.B.U",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "61",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 3",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-04-26 15:15:00",
+  "Fecha_fin": "2026-04-26 15:15:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "A.E.B.U",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66405",
+   "Nombre": "FRANCO CHIAPPE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61647",
+   "Nombre": "LAUTARO PELAYO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66154",
+   "Nombre": "FACUNDO CASTIÑEIRA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "63588",
+   "Nombre": "JUAN IGNACIO RAIMONDO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63766",
+   "Nombre": "EMANUEL MOREIRA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67862",
+   "Nombre": "LAUTARO GASTON GIORDANO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "61458",
+   "Nombre": "GERONIMO RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61560",
+   "Nombre": "ANTONIO CARVALLIDO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61993",
+   "Nombre": "JOAQUIN PEREYRA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "66814",
+   "Nombre": "LUCIO AGUSTIN BENITEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66678",
+   "Nombre": "FABIO ALEXANDER SUREZ",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65140",
+   "Nombre": "JOAQUIN REVELLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65128",
+   "Nombre": "RONALD CASTELLON",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67734",
+   "Nombre": "BENJAMIN PAIS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65133",
+   "Nombre": "MARCO STEFANO FERRANTY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65139",
+   "Nombre": "DANIEL ANTONIO LEYVA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "68025",
+   "Nombre": "JAHAZIEL ANDRES GALANTON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65130",
+   "Nombre": "FELIPE CUETO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67732",
+   "Nombre": "ALEX GABRIEL HORNOS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "66119",
+   "Nombre": "SANTIAGO MANUEL SILVA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67231",
+   "Nombre": "CAMILO MARTIN PEREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67228",
+   "Nombre": "THIAGO PEREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67862",
+   "Jug_Sale": "LAUTARO GASTON GIORDANO",
+   "CarneEntra": "67493",
+   "Jug_Entra": "GUILLERMO PAIVA",
+   "camiseta": "30",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63588",
+   "Jug_Sale": "JUAN IGNACIO RAIMONDO",
+   "CarneEntra": "61995",
+   "Jug_Entra": "JULIAN COSTA",
+   "camiseta": "5",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "66154",
+   "Jug_Sale": "FACUNDO CASTIÑEIRA",
+   "CarneEntra": "67861",
+   "Jug_Entra": "MARTIN IGNACIO CORRENGGIA",
+   "camiseta": "2",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "61458",
+   "Jug_Sale": "GERONIMO RODRIGUEZ",
+   "CarneEntra": "66816",
+   "Jug_Entra": "IGNACIO GALIZIA",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "66814",
+   "Jug_Sale": "LUCIO AGUSTIN BENITEZ",
+   "CarneEntra": "61494",
+   "Jug_Entra": "BAUTISTA MIRABAL",
+   "camiseta": "13",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "61993",
+   "Jug_Sale": "JOAQUIN PEREYRA",
+   "CarneEntra": "67497",
+   "Jug_Entra": "VALENTINO LOPEZ",
+   "camiseta": "22",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63766",
+   "Jug_Sale": "EMANUEL MOREIRA",
+   "CarneEntra": "62261",
+   "Jug_Entra": "LUCIANO BUTTERI",
+   "camiseta": "3",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "61560",
+   "Jug_Sale": "ANTONIO CARVALLIDO",
+   "CarneEntra": "67491",
+   "Jug_Entra": "FELIPE SABIANO",
+   "camiseta": "51",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "66678",
+   "Jug_Sale": "FABIO ALEXANDER SUREZ",
+   "CarneEntra": "67495",
+   "Jug_Entra": "MARTIN OROÑO",
+   "camiseta": "41",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "61647",
+   "Jug_Sale": "LAUTARO PELAYO",
+   "CarneEntra": "66815",
+   "Jug_Entra": "MARCOS WALLERSTEIN",
+   "camiseta": "20",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "62261",
+   "Jug_Sale": "LUCIANO BUTTERI",
+   "CarneEntra": "67492",
+   "Jug_Entra": "EZEQUIEL PERDOMO",
+   "camiseta": "40",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67228",
+   "Jug_Sale": "THIAGO PEREZ",
+   "CarneEntra": "65132",
+   "Jug_Entra": "ANGEL AMENGOR",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67732",
+   "Jug_Sale": "ALEX GABRIEL HORNOS",
+   "CarneEntra": "67230",
+   "Jug_Entra": "JOSE FRANCISCO BLANCO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65139",
+   "Jug_Sale": "DANIEL ANTONIO LEYVA",
+   "CarneEntra": "65620",
+   "Jug_Entra": "IGNACIO GABRIEL TERRA IRIGOY",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65130",
+   "Jug_Sale": "FELIPE CUETO",
+   "CarneEntra": "67229",
+   "Jug_Entra": "VALENTIN CABRERA",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65133",
+   "Jug_Sale": "MARCO STEFANO FERRANTY",
+   "CarneEntra": "67229",
+   "Jug_Entra": "VALENTIN CABRERA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68025",
+   "Jug_Sale": "JAHAZIEL ANDRES GALANTON",
+   "CarneEntra": "67732",
+   "Jug_Entra": "ALEX GABRIEL HORNOS",
+   "camiseta": "21",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61494",
+   "Nombre": "BAUTISTA MIRABAL",
+   "minutos": "52",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61560",
+   "Nombre": "ANTONIO CARVALLIDO",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61993",
+   "Nombre": "JOAQUIN PEREYRA",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67862",
+   "Nombre": "LAUTARO GASTON GIORDANO",
+   "minutos": "19",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "68025",
+   "Nombre": "JAHAZIEL ANDRES GALANTON",
+   "minutos": "8",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "RONALD CASTELLON",
+   "observaciones": ""
+  }
+ ]
+}

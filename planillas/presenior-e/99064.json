@@ -1,0 +1,330 @@
+{
+ "id": "99064",
+ "categoria": "presenior-e",
+ "serie": "PSE1",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 11:15:00",
+ "cancha": "CAMPO DEP. COLEGIO INGLES",
+ "local": "COLEGIO Y LICEO INGLES",
+ "visitante": "SUDAMERICA UNIVERSITARIO",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "508",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 1",
+  "Cancha": "CAMPO DEP. COLEGIO INGLES",
+  "Fecha_Inicio": "2026-05-23 13:15:00",
+  "Fecha_fin": "2026-05-23 13:15:00",
+  "Locatario": "COLEGIO Y LICEO INGLES",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SUDAMERICA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "37150",
+   "Nombre": "GERONIMO AGUSTIN KACHELE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30167",
+   "Nombre": "RENZO PARODI",
+   "camiseta": "91",
+   "Capitan": ""
+  },
+  {
+   "carne": "30184",
+   "Nombre": "PEDRO BOADO",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "26262",
+   "Nombre": "NICOLAS AGUIRREGARAY",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "33332",
+   "Nombre": "JUAN IGNACIO ARANCIBIA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "30770",
+   "Nombre": "GUILLERMO LUIS GALAIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "26534",
+   "Nombre": "GUILLERMO ADOLFO VIGNOLO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26911",
+   "Nombre": "BRUNO GIANCARLO GENTILE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "29931",
+   "Nombre": "GERMAN SUAREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "30328",
+   "Nombre": "FACUNDO KACHELE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "28272",
+   "Nombre": "SERGIO IGNACIO VICO",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22724",
+   "Nombre": "AGUSTIN ANDRES QUINTEROS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "43631",
+   "Nombre": "JUAN ANDRES ORTUZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "55997",
+   "Nombre": "KEVIN ROMAN AMEIGENDA",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49931",
+   "Nombre": "IAN ANDRES PEREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "22142",
+   "Nombre": "GONZALO PEREZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "37635",
+   "Nombre": "SANTIAGO DIAZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "45681",
+   "Nombre": "VICTOR ROLANDO RIVERO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "51984",
+   "Nombre": "FERNANDO ALEJANDRO MARQUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "63371",
+   "Nombre": "NICOLAS GRANJA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "54112",
+   "Nombre": "ARIEL FRANCISCO ACOSTA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68649",
+   "Nombre": "BRUNO COCCARO",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "30328",
+   "Jug_Sale": "FACUNDO KACHELE",
+   "CarneEntra": "36954",
+   "Jug_Entra": "JOAQUIN SANSBERRO",
+   "camiseta": "80",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "30770",
+   "Jug_Sale": "GUILLERMO LUIS GALAIN",
+   "CarneEntra": "26382",
+   "Jug_Entra": "FACUNDO ARTAGAVEYTIA",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "26534",
+   "Jug_Sale": "GUILLERMO ADOLFO VIGNOLO",
+   "CarneEntra": "24049",
+   "Jug_Entra": "MARTIN ESTEBAN DEMARIA",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "30167",
+   "Jug_Sale": "RENZO PARODI",
+   "CarneEntra": "30835",
+   "Jug_Entra": "RODRIGO LUIS PASTOR",
+   "camiseta": "34",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30184",
+   "Jug_Sale": "PEDRO BOADO",
+   "CarneEntra": "24727",
+   "Jug_Entra": "JORGE LUIS NICOLETTI",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26262",
+   "Jug_Sale": "NICOLAS AGUIRREGARAY",
+   "CarneEntra": "23478",
+   "Jug_Entra": "MARCEL ANDRES RAUSS",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33332",
+   "Jug_Sale": "JUAN IGNACIO ARANCIBIA",
+   "CarneEntra": "35135",
+   "Jug_Entra": "JULIAN PINTOS",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26911",
+   "Jug_Sale": "BRUNO GIANCARLO GENTILE",
+   "CarneEntra": "26920",
+   "Jug_Entra": "IGNACIO MARIA SILVA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29931",
+   "Jug_Sale": "GERMAN SUAREZ",
+   "CarneEntra": "26979",
+   "Jug_Entra": "JUAN MANUEL LAMELA",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28272",
+   "Jug_Sale": "SERGIO IGNACIO VICO",
+   "CarneEntra": "28228",
+   "Jug_Entra": "MANUEL MARTINEZ",
+   "camiseta": "81",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22142",
+   "Jug_Sale": "GONZALO PEREZ",
+   "CarneEntra": "43631",
+   "Jug_Entra": "JUAN ANDRES ORTUZ",
+   "camiseta": "4",
+   "minutos": "5"
+  },
+  {
+   "CarneSale": "43631",
+   "Jug_Sale": "JUAN ANDRES ORTUZ",
+   "CarneEntra": "54089",
+   "Jug_Entra": "PABLO GOROSO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68649",
+   "Jug_Sale": "BRUNO COCCARO",
+   "CarneEntra": "12552",
+   "Jug_Entra": "PABLO DANIEL AGUIAR",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54112",
+   "Jug_Sale": "ARIEL FRANCISCO ACOSTA",
+   "CarneEntra": "68649",
+   "Jug_Entra": "BRUNO COCCARO",
+   "camiseta": "6",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "24727",
+   "Nombre": "JORGE LUIS NICOLETTI",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "30184",
+   "Nombre": "PEDRO BOADO",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "33332",
+   "Nombre": "JUAN IGNACIO ARANCIBIA",
+   "minutos": "28",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "68649",
+   "Nombre": "BRUNO COCCARO",
+   "minutos": "88",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68649",
+   "Nombre": "BRUNO COCCARO",
+   "minutos": "94",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "GERONIMO AGUSTIN KACHELE",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "VICTOR ROLANDO RIVERO",
+   "observaciones": ""
+  }
+ ]
+}

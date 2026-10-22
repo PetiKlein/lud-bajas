@@ -1,0 +1,327 @@
+{
+ "id": "101236",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "SAN ISIDRO LOMAS",
+ "local": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "visitante": "ODONTOLOGIA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "266",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "SAN ISIDRO LOMAS",
+  "Fecha_Inicio": "2026-08-29 13:10:00",
+  "Fecha_fin": "2026-08-29 13:10:00",
+  "Locatario": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ODONTOLOGIA UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "25589",
+   "Nombre": "MARCOS BRAHIAN FRANCO",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "66437",
+   "Nombre": "CHRISTIAN MAURICIO PORRAS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "24797",
+   "Nombre": "SEBASTIAN CURBELO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "24802",
+   "Nombre": "MARCELO INFANTE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66451",
+   "Nombre": "FEDERICO MATHIAS PERCOPO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "26468",
+   "Nombre": "GIULIANO ROSSI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "65126",
+   "Nombre": "GONZALO JOEL ARANDA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "38777",
+   "Nombre": "LADARIO MARCELO DA ROSA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "28600",
+   "Nombre": "SEBASTIAN RUIZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "33057",
+   "Nombre": "RUBEN LUIS BALERON",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "30934",
+   "Nombre": "NICOLAS MAXIMILIANO HERRERA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26181",
+   "Nombre": "VICTOR JAVIER VIDAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47097",
+   "Nombre": "ALVARO DAMIAN COLMAN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "57076",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21433",
+   "Nombre": "SEBASTIAN VEGAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46285",
+   "Nombre": "FABRICIO PEREIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62646",
+   "Nombre": "DARWIN GERARDO D’AMICO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "38527",
+   "Nombre": "NICOLAS DUARTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "51068",
+   "Nombre": "MATIAS ALEXIS FLORES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35517",
+   "Nombre": "GONZALO GASTON CROSI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66117",
+   "Nombre": "SANTIAGO SEIJAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "31564",
+   "Nombre": "DIEGO MARTIN GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "25589",
+   "Jug_Sale": "MARCOS BRAHIAN FRANCO",
+   "CarneEntra": "44887",
+   "Jug_Entra": "MATIAS SOSA",
+   "camiseta": "67",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66451",
+   "Jug_Sale": "FEDERICO MATHIAS PERCOPO",
+   "CarneEntra": "33056",
+   "Jug_Entra": "PABLO PANTIN",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33057",
+   "Jug_Sale": "RUBEN LUIS BALERON",
+   "CarneEntra": "24149",
+   "Jug_Entra": "IGNACIO FLORES",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66437",
+   "Jug_Sale": "CHRISTIAN MAURICIO PORRAS",
+   "CarneEntra": "28357",
+   "Jug_Entra": "MAURICIO FUENTES",
+   "camiseta": "4",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "38777",
+   "Jug_Sale": "LADARIO MARCELO DA ROSA",
+   "CarneEntra": "18291",
+   "Jug_Entra": "LEONARDO DANIEL FERNANDEZ",
+   "camiseta": "35",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "30934",
+   "Jug_Sale": "NICOLAS MAXIMILIANO HERRERA",
+   "CarneEntra": "68997",
+   "Jug_Entra": "BRUNO NICOLAS CANCELA",
+   "camiseta": "32",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "65126",
+   "Jug_Sale": "GONZALO JOEL ARANDA",
+   "CarneEntra": "19472",
+   "Jug_Entra": "RODOLFO GASTON GRAÑA",
+   "camiseta": "19",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51068",
+   "Jug_Sale": "MATIAS ALEXIS FLORES",
+   "CarneEntra": "64735",
+   "Jug_Entra": "MATIAS GONZALO LOPEZ",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46285",
+   "Jug_Sale": "FABRICIO PEREIRA",
+   "CarneEntra": "54775",
+   "Jug_Entra": "PABLO DANIEL MARTINEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38527",
+   "Jug_Sale": "NICOLAS DUARTE",
+   "CarneEntra": "54776",
+   "Jug_Entra": "AGUSTIN DIEGO INGOGLIA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35517",
+   "Jug_Sale": "GONZALO GASTON CROSI",
+   "CarneEntra": "68417",
+   "Jug_Entra": "SEBASTIAN GARCIA",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "47097",
+   "Jug_Sale": "ALVARO DAMIAN COLMAN",
+   "CarneEntra": "41189",
+   "Jug_Entra": "WASHINGTON ALEXANDER VIERA",
+   "camiseta": "7",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "31564",
+   "Jug_Sale": "DIEGO MARTIN GONZALEZ",
+   "CarneEntra": "42511",
+   "Jug_Entra": "LUCAS AZURICA",
+   "camiseta": "18",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "66117",
+   "Jug_Sale": "SANTIAGO SEIJAS",
+   "CarneEntra": "11270",
+   "Jug_Entra": "DINO GABRIEL CASTELLANOS",
+   "camiseta": "12",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "62646",
+   "Jug_Sale": "DARWIN GERARDO D’AMICO",
+   "CarneEntra": "26509",
+   "Jug_Entra": "GUILLERMO MARTIN MENDEZ",
+   "camiseta": "14",
+   "minutos": "81"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "28600",
+   "Nombre": "SEBASTIAN RUIZ",
+   "minutos": "32",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "35517",
+   "Nombre": "GONZALO GASTON CROSI",
+   "minutos": "5",
+   "EnContra": "1"
+  },
+  {
+   "carne": "46285",
+   "Nombre": "FABRICIO PEREIRA",
+   "minutos": "24",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66117",
+   "Nombre": "SANTIAGO SEIJAS",
+   "minutos": "41",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "SEBASTIAN RUIZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

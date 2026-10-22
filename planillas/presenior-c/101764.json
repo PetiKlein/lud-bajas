@@ -1,0 +1,304 @@
+{
+ "id": "101764",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 09:00:00",
+ "cancha": "COMPLEJO EL ENCUENTRO",
+ "local": "ODONTOLOGIA UNIVERSITARIO",
+ "visitante": "DEPORTIVO MITRE",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "339",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO EL ENCUENTRO",
+  "Fecha_Inicio": "2026-09-12 10:50:00",
+  "Fecha_fin": "2026-09-12 10:50:00",
+  "Locatario": "ODONTOLOGIA UNIVERSITARIO",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "DEPORTIVO MITRE",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "26181",
+   "Nombre": "VICTOR JAVIER VIDAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57076",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31564",
+   "Nombre": "DIEGO MARTIN GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66117",
+   "Nombre": "SANTIAGO SEIJAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38527",
+   "Nombre": "NICOLAS DUARTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "51068",
+   "Nombre": "MATIAS ALEXIS FLORES",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35517",
+   "Nombre": "GONZALO GASTON CROSI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64735",
+   "Nombre": "MATIAS GONZALO LOPEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "54776",
+   "Nombre": "AGUSTIN DIEGO INGOGLIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "21433",
+   "Nombre": "SEBASTIAN VEGAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "56373",
+   "Nombre": "GONZALO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "20274",
+   "Nombre": "ALEJANDRO BRUBACHER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33110",
+   "Nombre": "GABRIEL ARBIZA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "23889",
+   "Nombre": "ANDRES BAUDO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "38740",
+   "Nombre": "FEDERICO BRANDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "27464",
+   "Nombre": "MAURICIO GASTON ARAMBILLET",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "20285",
+   "Nombre": "RODRIGO GASTAMBIDE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "20621",
+   "Nombre": "MATEO IGNACIO CABRAL",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28604",
+   "Nombre": "MARCELO MARTIN SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "27523",
+   "Nombre": "JUAN FRANCISCO PEDROZO",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "29585",
+   "Nombre": "CHRISTIAN PAUL SHAW",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "33279",
+   "Nombre": "FEDERICO JAVIER PESELEWITZ",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "54776",
+   "Jug_Sale": "AGUSTIN DIEGO INGOGLIA",
+   "CarneEntra": "68417",
+   "Jug_Entra": "SEBASTIAN GARCIA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35517",
+   "Jug_Sale": "GONZALO GASTON CROSI",
+   "CarneEntra": "54775",
+   "Jug_Entra": "PABLO DANIEL MARTINEZ",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66117",
+   "Jug_Sale": "SANTIAGO SEIJAS",
+   "CarneEntra": "41189",
+   "Jug_Entra": "WASHINGTON ALEXANDER VIERA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56373",
+   "Jug_Sale": "GONZALO RODRIGUEZ",
+   "CarneEntra": "26509",
+   "Jug_Entra": "GUILLERMO MARTIN MENDEZ",
+   "camiseta": "14",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "21433",
+   "Jug_Sale": "SEBASTIAN VEGAS",
+   "CarneEntra": "32395",
+   "Jug_Entra": "RODRIGO DELL ACQUA",
+   "camiseta": "3",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "38527",
+   "Jug_Sale": "NICOLAS DUARTE",
+   "CarneEntra": "11270",
+   "Jug_Entra": "DINO GABRIEL CASTELLANOS",
+   "camiseta": "12",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "31564",
+   "Jug_Sale": "DIEGO MARTIN GONZALEZ",
+   "CarneEntra": "28214",
+   "Jug_Entra": "BRUNO GERVASIO CARDOZO",
+   "camiseta": "33",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "64735",
+   "Jug_Sale": "MATIAS GONZALO LOPEZ",
+   "CarneEntra": "25333",
+   "Jug_Entra": "JUAN CARLOS CORREA",
+   "camiseta": "80",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "28604",
+   "Jug_Sale": "MARCELO MARTIN SOSA",
+   "CarneEntra": "49964",
+   "Jug_Entra": "MARIO ANTONIO REBOLIZ",
+   "camiseta": "11",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "20621",
+   "Jug_Sale": "MATEO IGNACIO CABRAL",
+   "CarneEntra": "36932",
+   "Jug_Entra": "MARCELO FEDERICO GERPE",
+   "camiseta": "5",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "38740",
+   "Jug_Sale": "FEDERICO BRANDA",
+   "CarneEntra": "20277",
+   "Jug_Entra": "LUIS ENRIQUE LOZANO",
+   "camiseta": "6",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "33279",
+   "Jug_Sale": "FEDERICO JAVIER PESELEWITZ",
+   "CarneEntra": "36542",
+   "Jug_Entra": "GABRIEL MOSKOVICZ",
+   "camiseta": "20",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "31564",
+   "Nombre": "DIEGO MARTIN GONZALEZ",
+   "minutos": "9",
+   "EnContra": "0"
+  },
+  {
+   "carne": "31564",
+   "Nombre": "DIEGO MARTIN GONZALEZ",
+   "minutos": "66",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38527",
+   "Nombre": "NICOLAS DUARTE",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38527",
+   "Nombre": "NICOLAS DUARTE",
+   "minutos": "28",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "20285",
+   "Nombre": "RODRIGO GASTAMBIDE",
+   "minutos": "40",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

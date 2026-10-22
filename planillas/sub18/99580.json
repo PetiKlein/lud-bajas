@@ -1,0 +1,203 @@
+{
+ "id": "99580",
+ "categoria": "sub18",
+ "serie": "18-4-",
+ "fecha": 6,
+ "fechaHora": "2026-05-31 15:30:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "SEMINARIO UNIVERSITARIO",
+ "visitante": "LA ESCALINATA",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "108",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 4",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-05-31 17:30:00",
+  "Fecha_fin": "2026-05-31 17:30:00",
+  "Locatario": "SEMINARIO UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "LA ESCALINATA",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58835",
+   "Nombre": "MATEO NAOR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62035",
+   "Nombre": "FRANCO BORSANI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "63299",
+   "Nombre": "JOAQUIN SANTIAGO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67728",
+   "Nombre": "EMILIANO MASSAFERRO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "68243",
+   "Nombre": "APARICIO OLIVERA",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68449",
+   "Nombre": "JHOAN ELIEN GOPAR",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "58824",
+   "Nombre": "JOAQUIN VILA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58820",
+   "Nombre": "ARAM MOURADIAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62900",
+   "Nombre": "FACUNDO FERREYRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62117",
+   "Nombre": "EMILIO SANCHEZ",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "58821",
+   "Nombre": "MATEO BERTOLA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "58818",
+   "Nombre": "MAXIMILIANO BORDOLLI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "60301",
+   "Nombre": "FEDERICO JAVIER AMILIVIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58822",
+   "Nombre": "SANTIAGO BERTOLA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67974",
+   "Nombre": "GIANLUCA PEÑA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63490",
+   "Nombre": "FELIPE DIAZ",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [],
+ "cambiosV": [
+  {
+   "CarneSale": "62117",
+   "Jug_Sale": "EMILIO SANCHEZ",
+   "CarneEntra": "68700",
+   "Jug_Entra": "BELTRAN SANCHEZ",
+   "camiseta": "80",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58821",
+   "Jug_Sale": "MATEO BERTOLA",
+   "CarneEntra": "62680",
+   "Jug_Entra": "MATIAS RAFFO",
+   "camiseta": "25",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "67974",
+   "Jug_Sale": "GIANLUCA PEÑA",
+   "CarneEntra": "68507",
+   "Jug_Entra": "TIAGO VERDIER",
+   "camiseta": "77",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "58818",
+   "Jug_Sale": "MAXIMILIANO BORDOLLI",
+   "CarneEntra": "62117",
+   "Jug_Entra": "EMILIO SANCHEZ",
+   "camiseta": "41",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "62035",
+   "Nombre": "FRANCO BORSANI",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62035",
+   "Nombre": "FRANCO BORSANI",
+   "minutos": "43",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62035",
+   "Nombre": "FRANCO BORSANI",
+   "minutos": "0",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58824",
+   "Nombre": "JOAQUIN VILA",
+   "minutos": "81",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68700",
+   "Nombre": "BELTRAN SANCHEZ",
+   "minutos": "79",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

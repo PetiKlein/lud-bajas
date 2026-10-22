@@ -1,0 +1,256 @@
+{
+ "id": "101768",
+ "categoria": "presenior-e",
+ "serie": "PSEP",
+ "fecha": 4,
+ "fechaHora": "2026-09-12 11:15:00",
+ "cancha": "CHACRA PASO DEL SAUCE",
+ "local": "APENAS UNIVERSITARIO",
+ "visitante": "SINDICATO MEDICO DEL URUGUAY",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "730",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PS DIV. E 1ªR COPA PLATA",
+  "Cancha": "CHACRA PASO DEL SAUCE",
+  "Fecha_Inicio": "2026-09-12 13:15:00",
+  "Fecha_fin": "2026-09-12 13:15:00",
+  "Locatario": "APENAS UNIVERSITARIO",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68961",
+   "Nombre": "IVAN ANTUNEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49202",
+   "Nombre": "LEONARDO ARIONI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68279",
+   "Nombre": "GASTON ANDRES ENCISO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68426",
+   "Nombre": "MARCELO ADRIAN MANSILLA",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "35007",
+   "Nombre": "BRAHIAN VIDIR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67447",
+   "Nombre": "GASTON LUCAS FOLIATTI",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "68425",
+   "Nombre": "ARIEL ALEXANDRO RIDGUAY",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "29690",
+   "Nombre": "GUZMAN ARTICARDI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64040",
+   "Nombre": "OSCAR MATIAS FERRAZ",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37503",
+   "Nombre": "NICOLAS RODRIGO BRANDI",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "26392",
+   "Nombre": "BRUNO PABLO BRIOZZO",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58895",
+   "Nombre": "GONZALO EZEQUIEL BARRIONUEVO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "30994",
+   "Nombre": "VICTOR HUGO MADERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "45582",
+   "Nombre": "JUAN CARLOS CHIARINO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "35210",
+   "Nombre": "AGUSTIN BORGGIO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "30427",
+   "Nombre": "FABRICIO GANNUSO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "27963",
+   "Nombre": "JORGE FEDERICO KLEINMAN",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48362",
+   "Nombre": "FABIO NELSON RODRIGUEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "40213",
+   "Nombre": "DIEGO JOSE ROSSO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "48337",
+   "Nombre": "EDUARDO GUSTAVO CLAUSTRE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "42101",
+   "Nombre": "FABIAN ANDRES CARLOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "30070",
+   "Nombre": "PABLO LACUESTA",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68961",
+   "Jug_Sale": "IVAN ANTUNEZ",
+   "CarneEntra": "38239",
+   "Jug_Entra": "SANTIAGO MARTIN SOSA",
+   "camiseta": "7",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30994",
+   "Jug_Sale": "VICTOR HUGO MADERA",
+   "CarneEntra": "67681",
+   "Jug_Entra": "MARTIN EDISON LONG",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45582",
+   "Jug_Sale": "JUAN CARLOS CHIARINO",
+   "CarneEntra": "57400",
+   "Jug_Entra": "ALEXIS EXEQUIEL CASTRO",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "48337",
+   "Jug_Sale": "EDUARDO GUSTAVO CLAUSTRE",
+   "CarneEntra": "57251",
+   "Jug_Entra": "GUSTAVO ADOLFO CHAVEZ",
+   "camiseta": "70",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "30427",
+   "Jug_Sale": "FABRICIO GANNUSO",
+   "CarneEntra": "52336",
+   "Jug_Entra": "FEDERICO MOREIRA",
+   "camiseta": "15",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "27963",
+   "Jug_Sale": "JORGE FEDERICO KLEINMAN",
+   "CarneEntra": "30994",
+   "Jug_Entra": "VICTOR HUGO MADERA",
+   "camiseta": "14",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "35007",
+   "Nombre": "BRAHIAN VIDIR",
+   "minutos": "57",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38239",
+   "Nombre": "SANTIAGO MARTIN SOSA",
+   "minutos": "89",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68426",
+   "Nombre": "MARCELO ADRIAN MANSILLA",
+   "minutos": "41",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "30427",
+   "Nombre": "FABRICIO GANNUSO",
+   "minutos": "43",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67681",
+   "Nombre": "MARTIN EDISON LONG",
+   "minutos": "50",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,279 @@
+{
+ "id": "101472",
+ "categoria": "mas40-c",
+ "serie": "M40B",
+ "fecha": 1,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "ACADEMIA",
+ "local": "FERROTANQUE",
+ "visitante": "DEPORTIVO MORON",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "368",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "2",
+  "Divisional": "M40 DIV. C COPA BRONCE R1",
+  "Cancha": "ACADEMIA",
+  "Fecha_Inicio": "2026-09-05 10:50:00",
+  "Fecha_fin": "2026-09-05 10:50:00",
+  "Locatario": "FERROTANQUE",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO MORON",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68691",
+   "Nombre": "ESTEBAN DANIEL DILEMA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "16747",
+   "Nombre": "PABLO DANIEL GOMEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "27927",
+   "Nombre": "GERMAN LOMBARDI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "17855",
+   "Nombre": "WASHINGTON SILVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "44183",
+   "Nombre": "PABLO GARRO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "17449",
+   "Nombre": "ALEJANDRO GABRIEL BARLOCCO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "69079",
+   "Nombre": "SANTIAGO ROBERTO BERNARDI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "22439",
+   "Nombre": "AUGUSTO GUILLERMO AMESPIL",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "69088",
+   "Nombre": "RICARDO GABRIEL ARRIETA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61838",
+   "Nombre": "PABLO JESUS MENDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "21293",
+   "Nombre": "SEBASTIAN NICOLAS BARLOCCO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60166",
+   "Nombre": "JAVIER ALEJANDRO CAMPOS",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "66459",
+   "Nombre": "IGNACIO DE",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63890",
+   "Nombre": "GUSTAVO ENRIQUE COSTAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "53136",
+   "Nombre": "RODRIGO ALONSO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "19530",
+   "Nombre": "ALEJANDRO BENTANCUR",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26147",
+   "Nombre": "ALEJANDRO JAVIER CIMAS",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "56722",
+   "Nombre": "ALFREDO LAGUARDA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57477",
+   "Nombre": "RICHARD ARTURO GENOVESE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "65311",
+   "Nombre": "WASHINGTON JOSE RODRIGUEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "39708",
+   "Nombre": "ANIBAL LEONARDO BARRIOS",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "67568",
+   "Nombre": "GASTON LEIVA",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "17855",
+   "Jug_Sale": "WASHINGTON SILVA",
+   "CarneEntra": "12221",
+   "Jug_Entra": "MARIO CESAR RODRIGUEZ",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "17449",
+   "Jug_Sale": "ALEJANDRO GABRIEL BARLOCCO",
+   "CarneEntra": "16747",
+   "Jug_Entra": "PABLO DANIEL GOMEZ",
+   "camiseta": "15",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "27927",
+   "Jug_Sale": "GERMAN LOMBARDI",
+   "CarneEntra": "22210",
+   "Jug_Entra": "MARCOS ADOLFO AMESPIL",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22439",
+   "Jug_Sale": "AUGUSTO GUILLERMO AMESPIL",
+   "CarneEntra": "60735",
+   "Jug_Entra": "CHRISTIAN MARCEL BARATTA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61838",
+   "Jug_Sale": "PABLO JESUS MENDEZ",
+   "CarneEntra": "39807",
+   "Jug_Entra": "GUSTAVO MOSQUERA",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16747",
+   "Jug_Sale": "PABLO DANIEL GOMEZ",
+   "CarneEntra": "40746",
+   "Jug_Entra": "DIEGO FEDERICO BAYLE",
+   "camiseta": "18",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65311",
+   "Jug_Sale": "WASHINGTON JOSE RODRIGUEZ",
+   "CarneEntra": "18199",
+   "Jug_Entra": "NICOLAS LOPEZ",
+   "camiseta": "3",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "19530",
+   "Jug_Sale": "ALEJANDRO BENTANCUR",
+   "CarneEntra": "20419",
+   "Jug_Entra": "SEBASTIAN FERNANDO DEANGELILLO",
+   "camiseta": "4",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "53136",
+   "Jug_Sale": "RODRIGO ALONSO",
+   "CarneEntra": "68413",
+   "Jug_Entra": "IVES FERNANDO MUÑOZ",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "63890",
+   "Jug_Sale": "GUSTAVO ENRIQUE COSTAS",
+   "CarneEntra": "31628",
+   "Jug_Entra": "MARCELO PACHECO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39708",
+   "Jug_Sale": "ANIBAL LEONARDO BARRIOS",
+   "CarneEntra": "37208",
+   "Jug_Entra": "FEDERICO ISMAEL WOLCAN",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57477",
+   "Jug_Sale": "RICHARD ARTURO GENOVESE",
+   "CarneEntra": "51564",
+   "Jug_Entra": "GONZALO MARTIN GARATE",
+   "camiseta": "77",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "56722",
+   "Nombre": "ALFREDO LAGUARDA",
+   "minutos": "57",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

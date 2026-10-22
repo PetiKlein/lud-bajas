@@ -1,0 +1,208 @@
+{
+ "id": "99758",
+ "categoria": "sub16",
+ "serie": "16-4-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 13:45:00",
+ "cancha": "COMPLEJO AZULGRANA",
+ "local": "PELOTA AL MEDIO UNIVERSITARIO",
+ "visitante": "SEMINARIO UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "110",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 4",
+  "Cancha": "COMPLEJO AZULGRANA",
+  "Fecha_Inicio": "2026-06-07 15:30:00",
+  "Fecha_fin": "2026-06-07 15:30:00",
+  "Locatario": "PELOTA AL MEDIO UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "SEMINARIO UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64810",
+   "Nombre": "DAMIAN PICASSO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63467",
+   "Nombre": "PABLO BESTRICOV",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67831",
+   "Nombre": "ISMAEL PERDOMO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67821",
+   "Nombre": "EMILIANO FABRICIO ABRINES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65865",
+   "Nombre": "JOAQUIN RAMOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67822",
+   "Nombre": "JOAQUIN ANDRES BELLO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66085",
+   "Nombre": "EZEQUIEL SERGIO SILVEIRA",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67805",
+   "Nombre": "RODRIGO IPARRAGUIRRE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64801",
+   "Nombre": "CAMILO NAHUEL FERNANDEZ",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "67819",
+   "Nombre": "MATEO CALAGUY",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67813",
+   "Nombre": "JONATHAN BENJAMIN RIVERO",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61582",
+   "Nombre": "JUSTINO MUNYO",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67821",
+   "Jug_Sale": "EMILIANO FABRICIO ABRINES",
+   "CarneEntra": "68215",
+   "Jug_Entra": "FABRICIO NAHUEL MONTES",
+   "camiseta": "21",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67805",
+   "Jug_Sale": "RODRIGO IPARRAGUIRRE",
+   "CarneEntra": "67820",
+   "Jug_Entra": "DYLAN ALEXANDER VIERA",
+   "camiseta": "11",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67831",
+   "Jug_Sale": "ISMAEL PERDOMO",
+   "CarneEntra": "68216",
+   "Jug_Entra": "FRANCO PICASSO",
+   "camiseta": "15",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63467",
+   "Jug_Sale": "PABLO BESTRICOV",
+   "CarneEntra": "67805",
+   "Jug_Entra": "RODRIGO IPARRAGUIRRE",
+   "camiseta": "32",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67813",
+   "Jug_Sale": "JONATHAN BENJAMIN RIVERO",
+   "CarneEntra": "67818",
+   "Jug_Entra": "LUCIANO AGUSTIN FUQUES",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64810",
+   "Jug_Sale": "DAMIAN PICASSO",
+   "CarneEntra": "67808",
+   "Jug_Entra": "FRANCISCO EDUARDO CLEFFI",
+   "camiseta": "31",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67822",
+   "Jug_Sale": "JOAQUIN ANDRES BELLO",
+   "CarneEntra": "67811",
+   "Jug_Entra": "MATIAS ALEJANDRO ROJAS",
+   "camiseta": "7",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "65865",
+   "Jug_Sale": "JOAQUIN RAMOS",
+   "CarneEntra": "67814",
+   "Jug_Entra": "LUCA  MARTIN PASTORINO",
+   "camiseta": "22",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "67819",
+   "Jug_Sale": "MATEO CALAGUY",
+   "CarneEntra": "67815",
+   "Jug_Entra": "ALAN SEBASTIAN CASTELLANOS",
+   "camiseta": "23",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "66085",
+   "Jug_Sale": "EZEQUIEL SERGIO SILVEIRA",
+   "CarneEntra": "67825",
+   "Jug_Entra": "BRUNO AMARO VERRIEL",
+   "camiseta": "28",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "64801",
+   "Nombre": "CAMILO NAHUEL FERNANDEZ",
+   "minutos": "40",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64801",
+   "Nombre": "CAMILO NAHUEL FERNANDEZ",
+   "minutos": "78",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

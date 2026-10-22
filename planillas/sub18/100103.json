@@ -1,0 +1,322 @@
+{
+ "id": "100103",
+ "categoria": "sub18",
+ "serie": "18-5-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 15:30:00",
+ "cancha": "THE ANGLO SCHOOL",
+ "local": "ANGLO SCHOOL UNIVERSITARIO",
+ "visitante": "CEIBOS CLUB",
+ "gl": 0,
+ "gv": 10,
+ "detalle": {
+  "nro_partido": "124",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 5",
+  "Cancha": "THE ANGLO SCHOOL",
+  "Fecha_Inicio": "2026-06-14 17:15:00",
+  "Fecha_fin": "2026-06-14 17:15:00",
+  "Locatario": "ANGLO SCHOOL UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CEIBOS CLUB",
+  "goles_visitante": "10",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67130",
+   "Nombre": "JUAN FLEITAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60487",
+   "Nombre": "SANTIAGO LUVIZIO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "60461",
+   "Nombre": "BAUTISTA LOPEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66778",
+   "Nombre": "SANTIAGO MACEDO",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "67129",
+   "Nombre": "DELLAN SANTANA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "60337",
+   "Nombre": "MATEO GLISENTI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65822",
+   "Nombre": "MATEO GREGORIO GONZALEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62547",
+   "Nombre": "GUILERMO DIEGO POMI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64236",
+   "Nombre": "NICOLAS KRUL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67128",
+   "Nombre": "FRANCISCO VERNASSA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66732",
+   "Nombre": "FACUNDO GALLINO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65418",
+   "Nombre": "AGUSTIN ALVEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "60333",
+   "Nombre": "MANUEL LLORENTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64697",
+   "Nombre": "FRANCISCO GIMENEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62224",
+   "Nombre": "PEDRO NARANCIO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68046",
+   "Nombre": "CAMILO VERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "57924",
+   "Nombre": "FACUNDO IMANOL OLARREAGA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65335",
+   "Nombre": "JUAN BAUTISTA RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62671",
+   "Nombre": "JOAQUIN CURBELO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62865",
+   "Nombre": "BENJAMIN FERNANDEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "67237",
+   "Nombre": "ESTEBAN TORRES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61844",
+   "Nombre": "GERONIMO RODRIGO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62547",
+   "Jug_Sale": "GUILERMO DIEGO POMI",
+   "CarneEntra": "60554",
+   "Jug_Entra": "JUAN PATRICIO MOSCA",
+   "camiseta": "8",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67237",
+   "Jug_Sale": "ESTEBAN TORRES",
+   "CarneEntra": "64872",
+   "Jug_Entra": "FRANCISCO ROSSIGUOLO",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61844",
+   "Jug_Sale": "GERONIMO RODRIGO",
+   "CarneEntra": "66147",
+   "Jug_Entra": "LEANDRO CAMBÒN",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62865",
+   "Jug_Sale": "BENJAMIN FERNANDEZ",
+   "CarneEntra": "62071",
+   "Jug_Entra": "JOAQUIN MARIA BARTOL",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57924",
+   "Jug_Sale": "FACUNDO IMANOL OLARREAGA",
+   "CarneEntra": "64879",
+   "Jug_Entra": "APARICIO VOSS",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68046",
+   "Jug_Sale": "CAMILO VERA",
+   "CarneEntra": "60875",
+   "Jug_Entra": "ALFONSO FERBER",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62671",
+   "Jug_Sale": "JOAQUIN CURBELO",
+   "CarneEntra": "65419",
+   "Jug_Entra": "JOAQUIN PEDRO BAYCE",
+   "camiseta": "18",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "65335",
+   "Jug_Sale": "JUAN BAUTISTA RODRIGUEZ",
+   "CarneEntra": "65859",
+   "Jug_Entra": "JUAN ALFONSO RODRIGUEZ",
+   "camiseta": "19",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64697",
+   "Jug_Sale": "FRANCISCO GIMENEZ",
+   "CarneEntra": "64701",
+   "Jug_Entra": "JUAN MARTIN MESA",
+   "camiseta": "61",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "62224",
+   "Jug_Sale": "PEDRO NARANCIO",
+   "CarneEntra": "67622",
+   "Jug_Entra": "FRANCISCO FYNN",
+   "camiseta": "3",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "60875",
+   "Nombre": "ALFONSO FERBER",
+   "minutos": "73",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62071",
+   "Nombre": "JOAQUIN MARIA BARTOL",
+   "minutos": "63",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62071",
+   "Nombre": "JOAQUIN MARIA BARTOL",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64879",
+   "Nombre": "APARICIO VOSS",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64879",
+   "Nombre": "APARICIO VOSS",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64879",
+   "Nombre": "APARICIO VOSS",
+   "minutos": "78",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65335",
+   "Nombre": "JUAN BAUTISTA RODRIGUEZ",
+   "minutos": "28",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66147",
+   "Nombre": "LEANDRO CAMBÒN",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67237",
+   "Nombre": "ESTEBAN TORRES",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67237",
+   "Nombre": "ESTEBAN TORRES",
+   "minutos": "40",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "NICOLAS KRUL",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

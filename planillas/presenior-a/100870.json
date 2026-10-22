@@ -1,0 +1,274 @@
+{
+ "id": "100870",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "INDEPENDIENTE",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "119",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-08-15 11:00:00",
+  "Fecha_fin": "2026-08-15 11:00:00",
+  "Locatario": "INDEPENDIENTE",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "31467",
+   "Nombre": "RODRIGO HUGO OLIVERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30261",
+   "Nombre": "JOAQUIN MURARA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26963",
+   "Nombre": "MATIAS PEREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40122",
+   "Nombre": "HUGO FERNANDO DONATTO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "40282",
+   "Nombre": "DIEGO FERNANDO VARINI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "22901",
+   "Nombre": "JUAN IGNACIO LOZANO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31037",
+   "Nombre": "JOHN CHRISTOPHER AYALA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "29449",
+   "Nombre": "JAVIER MAGNONE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "32123",
+   "Nombre": "AGUSTIN ANANIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "24833",
+   "Nombre": "PABLO SASIAIN",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24773",
+   "Nombre": "DIEGO KSIAZENICKI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44514",
+   "Nombre": "MAURO CESAR ASPLANATO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "21266",
+   "Nombre": "JUAN MARTIN TERRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "26390",
+   "Nombre": "ROBERTO MATIAS GIMENEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "26389",
+   "Nombre": "MARTIN JOSE DONAGARAY",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "26395",
+   "Nombre": "SANTIAGO JOSE DE HAEDO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "36432",
+   "Nombre": "ALBERTO FELIZ INCIARTE",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26852",
+   "Nombre": "ANDRES JOSE MERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "26980",
+   "Nombre": "SANTIAGO NIELS SHAW",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "26591",
+   "Nombre": "FELIPE DE SANTIAGO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "27541",
+   "Nombre": "GERMAN JOSE ALBANELL",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "28182",
+   "Nombre": "ALFREDO AROCENA",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31467",
+   "Jug_Sale": "RODRIGO HUGO OLIVERA",
+   "CarneEntra": "26091",
+   "Jug_Entra": "JESUS MORALES",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26963",
+   "Jug_Sale": "MATIAS PEREZ",
+   "CarneEntra": "26209",
+   "Jug_Entra": "FEDERICO ISMAEL OLIVERA",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29449",
+   "Jug_Sale": "JAVIER MAGNONE",
+   "CarneEntra": "26525",
+   "Jug_Entra": "JOAQUIN ROSSI",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "24773",
+   "Jug_Sale": "DIEGO KSIAZENICKI",
+   "CarneEntra": "66577",
+   "Jug_Entra": "JORGE ANDRES ZUBILLAGA",
+   "camiseta": "25",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "26591",
+   "Jug_Sale": "FELIPE DE SANTIAGO",
+   "CarneEntra": "27314",
+   "Jug_Entra": "ALEJO MORALES",
+   "camiseta": "18",
+   "minutos": "11"
+  },
+  {
+   "CarneSale": "21266",
+   "Jug_Sale": "JUAN MARTIN TERRA",
+   "CarneEntra": "28645",
+   "Jug_Entra": "JOAQUIN SASSON",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27541",
+   "Jug_Sale": "GERMAN JOSE ALBANELL",
+   "CarneEntra": "25060",
+   "Jug_Entra": "NICOLAS RUEDA",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "28182",
+   "Jug_Sale": "ALFREDO AROCENA",
+   "CarneEntra": "29696",
+   "Jug_Entra": "FRANCISCO LOPEZ",
+   "camiseta": "92",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "26852",
+   "Jug_Sale": "ANDRES JOSE MERA",
+   "CarneEntra": "34613",
+   "Jug_Entra": "DIEGO MARIA CROSA",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "26980",
+   "Jug_Sale": "SANTIAGO NIELS SHAW",
+   "CarneEntra": "31088",
+   "Jug_Entra": "ELBIO MARIA FERNANDEZ",
+   "camiseta": "32",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "34613",
+   "Nombre": "DIEGO MARIA CROSA",
+   "minutos": "76",
+   "EnContra": "1"
+  },
+  {
+   "carne": "36432",
+   "Nombre": "ALBERTO FELIZ INCIARTE",
+   "minutos": "7",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MARTIN JOSE DONAGARAY",
+   "observaciones": ""
+  }
+ ]
+}

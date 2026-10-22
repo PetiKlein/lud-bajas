@@ -1,0 +1,299 @@
+{
+ "id": "97913",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "SANDY FUTBOL",
+ "local": "RESISTENCIA",
+ "visitante": "ESTUDIANTIL SALTEÑO",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "126",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "SANDY FUTBOL",
+  "Fecha_Inicio": "2026-04-11 11:00:00",
+  "Fecha_fin": "2026-04-11 11:00:00",
+  "Locatario": "RESISTENCIA",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "ESTUDIANTIL SALTEÑO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31507",
+   "Nombre": "JOAQUIN BADO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26846",
+   "Nombre": "RODRIGO ROCHA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "26679",
+   "Nombre": "PABLO FREIRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "23452",
+   "Nombre": "IGNACIO SPANGENBERG",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "23532",
+   "Nombre": "RODRIGO IBACETA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "24879",
+   "Nombre": "DIEGO NICOLAS RIOLFO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "23840",
+   "Nombre": "RODRIGO AÑON",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32541",
+   "Nombre": "NICOLAS GARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19819",
+   "Nombre": "ALVARO GABRIEL LOPEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "54214",
+   "Nombre": "CHRISTIAN FABIAN MOREIRA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "19202",
+   "Nombre": "MARTIN FACUNDO LEITES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "22273",
+   "Nombre": "CARLOS JOAQUIN ELLIOT",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31404",
+   "Nombre": "AGUSTIN GABRIEL GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "38949",
+   "Nombre": "OSCAR SEBASTIAN ALBRECH",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "31557",
+   "Nombre": "SERGIO GABRIEL MARTIRENA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "26701",
+   "Nombre": "MARCELO GUSTAVO MEDINA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "22861",
+   "Nombre": "MATIAS NIEVES",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "25653",
+   "Nombre": "ROBERTO FERNANDO DA ROSA",
+   "camiseta": "90",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "49863",
+   "Jug_Sale": "JUAN IGNACIO PRADO",
+   "CarneEntra": "25142",
+   "Jug_Entra": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23840",
+   "Jug_Sale": "RODRIGO AÑON",
+   "CarneEntra": "53274",
+   "Jug_Entra": "FACUNDO JOSE MELGAR",
+   "camiseta": "24",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "23452",
+   "Jug_Sale": "IGNACIO SPANGENBERG",
+   "CarneEntra": "28831",
+   "Jug_Entra": "JOSE IGNACIO SANCHEZ",
+   "camiseta": "19",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "25651",
+   "Jug_Sale": "CRISTIAN AROCHA",
+   "CarneEntra": "23885",
+   "Jug_Entra": "MAURICIO DANIEL HERNANDEZ",
+   "camiseta": "21",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "24879",
+   "Jug_Sale": "DIEGO NICOLAS RIOLFO",
+   "CarneEntra": "27066",
+   "Jug_Entra": "SANTIAGO JULIAN LAGOMARSINO",
+   "camiseta": "22",
+   "minutos": "69"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "26701",
+   "Jug_Sale": "MARCELO GUSTAVO MEDINA",
+   "CarneEntra": "29924",
+   "Jug_Entra": "ESTEBAN NICOLAS VADASZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19202",
+   "Jug_Sale": "MARTIN FACUNDO LEITES",
+   "CarneEntra": "30595",
+   "Jug_Entra": "GUSTAVO ENRIQUE MATTOS",
+   "camiseta": "30",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "22273",
+   "Jug_Sale": "CARLOS JOAQUIN ELLIOT",
+   "CarneEntra": "25905",
+   "Jug_Entra": "SERGIO NICOLAS OLIVERI",
+   "camiseta": "20",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "54214",
+   "Jug_Sale": "CHRISTIAN FABIAN MOREIRA",
+   "CarneEntra": "23039",
+   "Jug_Entra": "ANDRES ALEJANDRO PERALTA",
+   "camiseta": "13",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "31404",
+   "Jug_Sale": "AGUSTIN GABRIEL GONZALEZ",
+   "CarneEntra": "55245",
+   "Jug_Entra": "JUAN PABLO ROSAS",
+   "camiseta": "21",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23885",
+   "Nombre": "MAURICIO DANIEL HERNANDEZ",
+   "minutos": "89",
+   "EnContra": "0"
+  },
+  {
+   "carne": "24879",
+   "Nombre": "DIEGO NICOLAS RIOLFO",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "minutos": "53",
+   "EnContra": "0"
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "minutos": "86",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "25653",
+   "Nombre": "ROBERTO FERNANDO DA ROSA",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "25653",
+   "Nombre": "ROBERTO FERNANDO DA ROSA",
+   "minutos": "44",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ALVARO GABRIEL LOPEZ",
+   "observaciones": ""
+  }
+ ]
+}

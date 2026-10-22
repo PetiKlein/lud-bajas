@@ -1,0 +1,318 @@
+{
+ "id": "99384",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "DEPORTIVO MITRE",
+ "visitante": "CEIBOS CLUB",
+ "gl": 1,
+ "gv": 5,
+ "detalle": {
+  "nro_partido": "290",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-05-30 13:15:00",
+  "Fecha_fin": "2026-05-30 13:15:00",
+  "Locatario": "DEPORTIVO MITRE",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CEIBOS CLUB",
+  "goles_visitante": "5",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "20274",
+   "Nombre": "ALEJANDRO BRUBACHER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27523",
+   "Nombre": "JUAN FRANCISCO PEDROZO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "20277",
+   "Nombre": "LUIS ENRIQUE LOZANO",
+   "camiseta": "27",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33110",
+   "Nombre": "GABRIEL ARBIZA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "38740",
+   "Nombre": "FEDERICO BRANDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "27464",
+   "Nombre": "MAURICIO GASTON ARAMBILLET",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "20621",
+   "Nombre": "MATEO IGNACIO CABRAL",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "29857",
+   "Nombre": "GUILLERMO SLINGER",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "20276",
+   "Nombre": "GASTON LUIS MENENDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "36926",
+   "Nombre": "JUAN JOSE FILLAT",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "20285",
+   "Nombre": "RODRIGO GASTAMBIDE",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "24753",
+   "Nombre": "FERNANDO CARRASCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32081",
+   "Nombre": "GONZALO TRAPP",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "20367",
+   "Nombre": "NICOLAS ORDOQUI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "30514",
+   "Nombre": "FRANCISCO JOSE DIAZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "22441",
+   "Nombre": "SANTIAGO JORGE KIRIAKIDIS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "21512",
+   "Nombre": "JUAN MARTIN DIAZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "20250",
+   "Nombre": "ALEJANDRO MARIA GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "36768",
+   "Nombre": "FACUNDO SILVEIRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "32341",
+   "Nombre": "AGUSTIN ALVARO VIDAL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "18098",
+   "Nombre": "CARLOS JAVIER MORALES",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24858",
+   "Nombre": "JUAN IGNACIO KIRIAKIDIS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27523",
+   "Jug_Sale": "JUAN FRANCISCO PEDROZO",
+   "CarneEntra": "32418",
+   "Jug_Entra": "JOSE IGNACIO OLASCOAGA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36926",
+   "Jug_Sale": "JUAN JOSE FILLAT",
+   "CarneEntra": "50049",
+   "Jug_Entra": "DIEGO MARTIN ALBANO",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20276",
+   "Jug_Sale": "GASTON LUIS MENENDEZ",
+   "CarneEntra": "28604",
+   "Jug_Entra": "MARCELO MARTIN SOSA",
+   "camiseta": "7",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "20621",
+   "Jug_Sale": "MATEO IGNACIO CABRAL",
+   "CarneEntra": "29585",
+   "Jug_Entra": "CHRISTIAN PAUL SHAW",
+   "camiseta": "14",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "20277",
+   "Jug_Sale": "LUIS ENRIQUE LOZANO",
+   "CarneEntra": "31450",
+   "Jug_Entra": "ANDRES MATIAS SPOSITO",
+   "camiseta": "9",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "27464",
+   "Jug_Sale": "MAURICIO GASTON ARAMBILLET",
+   "CarneEntra": "66860",
+   "Jug_Entra": "LUCAS MANUEL BARREIRO",
+   "camiseta": "13",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "29857",
+   "Jug_Sale": "GUILLERMO SLINGER",
+   "CarneEntra": "36542",
+   "Jug_Entra": "GABRIEL MOSKOVICZ",
+   "camiseta": "30",
+   "minutos": "84"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30514",
+   "Jug_Sale": "FRANCISCO JOSE DIAZ",
+   "CarneEntra": "24859",
+   "Jug_Entra": "FERNANDO DAMIANI",
+   "camiseta": "5",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "24858",
+   "Jug_Sale": "JUAN IGNACIO KIRIAKIDIS",
+   "CarneEntra": "28104",
+   "Jug_Entra": "GUZMAN FEDERICO DE CASTRO",
+   "camiseta": "6",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "32081",
+   "Jug_Sale": "GONZALO TRAPP",
+   "CarneEntra": "24948",
+   "Jug_Entra": "FRANCISCO CARRIQUIRY",
+   "camiseta": "3",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "24859",
+   "Jug_Sale": "FERNANDO DAMIANI",
+   "CarneEntra": "24857",
+   "Jug_Entra": "JOSE LUIS DIAZ",
+   "camiseta": "13",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "20250",
+   "Jug_Sale": "ALEJANDRO MARIA GONZALEZ",
+   "CarneEntra": "24177",
+   "Jug_Entra": "EMETERIO MARTIN MORALES",
+   "camiseta": "24",
+   "minutos": "34"
+  },
+  {
+   "CarneSale": "32341",
+   "Jug_Sale": "AGUSTIN ALVARO VIDAL",
+   "CarneEntra": "21279",
+   "Jug_Entra": "GONZALO FEDERICO MULLIN",
+   "camiseta": "2",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "20276",
+   "Nombre": "GASTON LUIS MENENDEZ",
+   "minutos": "43",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "21512",
+   "Nombre": "JUAN MARTIN DIAZ",
+   "minutos": "72",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22441",
+   "Nombre": "SANTIAGO JORGE KIRIAKIDIS",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22441",
+   "Nombre": "SANTIAGO JORGE KIRIAKIDIS",
+   "minutos": "89",
+   "EnContra": "1"
+  },
+  {
+   "carne": "24177",
+   "Nombre": "EMETERIO MARTIN MORALES",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "36768",
+   "Nombre": "FACUNDO SILVEIRA",
+   "minutos": "62",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

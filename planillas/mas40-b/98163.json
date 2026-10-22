@@ -1,0 +1,368 @@
+{
+ "id": "98163",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "CENTRO CRISTOBAL COLON",
+ "visitante": "TENIS EL PINAR",
+ "gl": 1,
+ "gv": 8,
+ "detalle": {
+  "nro_partido": "132",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-04-18 10:50:00",
+  "Fecha_fin": "2026-04-18 10:50:00",
+  "Locatario": "CENTRO CRISTOBAL COLON",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "8",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "28787",
+   "Nombre": "GABRIEL OSVALDO CHAVES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54620",
+   "Nombre": "HAMILTON BERNARDO TOURON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "15663",
+   "Nombre": "JUAN FRANCISCO FRUGONI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "42067",
+   "Nombre": "GUILLERMO NICOLAS FOSSA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "24886",
+   "Nombre": "SEBASTIAN SCATTONE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67322",
+   "Nombre": "SANTIAGO ENRIQUE BARRETO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "27238",
+   "Nombre": "MAURICIO ACOSTA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "39726",
+   "Nombre": "FEDERICO ROBERTO CHAVES",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "19015",
+   "Nombre": "PABLO ANDRES ALDAYA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "26491",
+   "Nombre": "MARTIN HUMBERTO GUIGOU",
+   "camiseta": "55",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "11891",
+   "Nombre": "RAFAEL ALVARO MANCINI",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22873",
+   "Nombre": "PEDRO MARCO TURTURIELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "16172",
+   "Nombre": "MARTIN MAGNONE",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "16738",
+   "Nombre": "RAMIRO AROCENA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "17928",
+   "Nombre": "AGUSTIN MAGNONE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "15432",
+   "Nombre": "TOMAS PARODI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "15264",
+   "Nombre": "FEDERICO SCHOL",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "20891",
+   "Nombre": "AGUSTIN MANUEL CASAROTTI",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64234",
+   "Nombre": "SANTIAGO CASTRO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "14519",
+   "Nombre": "JOSE IGNACIO ROQUETA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "17194",
+   "Nombre": "JUAN PABLO CASTRO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "18357",
+   "Nombre": "MANUEL CAUBARRERE",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "11891",
+   "Jug_Sale": "RAFAEL ALVARO MANCINI",
+   "CarneEntra": "17856",
+   "Jug_Entra": "ANDRES MARTINEZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39726",
+   "Jug_Sale": "FEDERICO ROBERTO CHAVES",
+   "CarneEntra": "14898",
+   "Jug_Entra": "HECTOR ADRIAN CEDRES",
+   "camiseta": "53",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42067",
+   "Jug_Sale": "GUILLERMO NICOLAS FOSSA",
+   "CarneEntra": "28443",
+   "Jug_Entra": "VICENTE FAVIO GIUDICE",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67322",
+   "Jug_Sale": "SANTIAGO ENRIQUE BARRETO",
+   "CarneEntra": "9934",
+   "Jug_Entra": "MARTIN ALEJANDRO MENDEZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24886",
+   "Jug_Sale": "SEBASTIAN SCATTONE",
+   "CarneEntra": "66858",
+   "Jug_Entra": "JUAN PABLO VALENTINI",
+   "camiseta": "51",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19015",
+   "Jug_Sale": "PABLO ANDRES ALDAYA",
+   "CarneEntra": "12416",
+   "Jug_Entra": "CHRISTIAN ANDRES ALCORTA",
+   "camiseta": "5",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "54620",
+   "Jug_Sale": "HAMILTON BERNARDO TOURON",
+   "CarneEntra": "11730",
+   "Jug_Entra": "PABLO ALEJANDRO BRAZEIRO",
+   "camiseta": "71",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "27238",
+   "Jug_Sale": "MAURICIO ACOSTA",
+   "CarneEntra": "24886",
+   "Jug_Entra": "SEBASTIAN SCATTONE",
+   "camiseta": "7",
+   "minutos": "66"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "14519",
+   "Jug_Sale": "JOSE IGNACIO ROQUETA",
+   "CarneEntra": "19295",
+   "Jug_Entra": "JUAN ANDRES REY",
+   "camiseta": "32",
+   "minutos": "44"
+  },
+  {
+   "CarneSale": "15264",
+   "Jug_Sale": "FEDERICO SCHOL",
+   "CarneEntra": "22174",
+   "Jug_Entra": "FEDERICO MONTANS MONTANS",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16172",
+   "Jug_Sale": "MARTIN MAGNONE",
+   "CarneEntra": "20429",
+   "Jug_Entra": "ALEJANDRO LEONARDO PEREZ",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20891",
+   "Jug_Sale": "AGUSTIN MANUEL CASAROTTI",
+   "CarneEntra": "16934",
+   "Jug_Entra": "DAVID ARIEL BURGUEÑO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22873",
+   "Jug_Sale": "PEDRO MARCO TURTURIELLO",
+   "CarneEntra": "20891",
+   "Jug_Entra": "AGUSTIN MANUEL CASAROTTI",
+   "camiseta": "9",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "17194",
+   "Jug_Sale": "JUAN PABLO CASTRO",
+   "CarneEntra": "65494",
+   "Jug_Entra": "ALEJANDRO DOMINGUEZ",
+   "camiseta": "8",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "17928",
+   "Jug_Sale": "AGUSTIN MAGNONE",
+   "CarneEntra": "21574",
+   "Jug_Entra": "SEBASTIAN NUÑEZ",
+   "camiseta": "3",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "18357",
+   "Jug_Sale": "MANUEL CAUBARRERE",
+   "CarneEntra": "15264",
+   "Jug_Entra": "FEDERICO SCHOL",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "15432",
+   "Jug_Sale": "TOMAS PARODI",
+   "CarneEntra": "14519",
+   "Jug_Entra": "JOSE IGNACIO ROQUETA",
+   "camiseta": "32",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "24886",
+   "Nombre": "SEBASTIAN SCATTONE",
+   "minutos": "15",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "15264",
+   "Nombre": "FEDERICO SCHOL",
+   "minutos": "29",
+   "EnContra": "1"
+  },
+  {
+   "carne": "16934",
+   "Nombre": "DAVID ARIEL BURGUEÑO",
+   "minutos": "67",
+   "EnContra": "1"
+  },
+  {
+   "carne": "20891",
+   "Nombre": "AGUSTIN MANUEL CASAROTTI",
+   "minutos": "32",
+   "EnContra": "1"
+  },
+  {
+   "carne": "20891",
+   "Nombre": "AGUSTIN MANUEL CASAROTTI",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "20891",
+   "Nombre": "AGUSTIN MANUEL CASAROTTI",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "20891",
+   "Nombre": "AGUSTIN MANUEL CASAROTTI",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22174",
+   "Nombre": "FEDERICO MONTANS MONTANS",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22873",
+   "Nombre": "PEDRO MARCO TURTURIELLO",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

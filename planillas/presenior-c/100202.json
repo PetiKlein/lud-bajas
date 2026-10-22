@@ -1,0 +1,278 @@
+{
+ "id": "100202",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "FLORES UNIVERSITARIO",
+ "visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "315",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-20 11:50:00",
+  "Fecha_fin": "2026-06-20 11:50:00",
+  "Locatario": "FLORES UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "SAN ISIDRO LOMAS UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "51777",
+   "Nombre": "FEDERICO BLANCO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "17156",
+   "Nombre": "ERNESTO GABRIEL FERREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "44671",
+   "Nombre": "MANUEL SANCHEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67362",
+   "Nombre": "NICOLAS DARIO PEREZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "40343",
+   "Nombre": "DIEGO CEA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "42447",
+   "Nombre": "SEBASTIAN ISMAEL DA COSTA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "36178",
+   "Nombre": "RODRIGO FAGUNDEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "45436",
+   "Nombre": "RAMIRO GABRIEL SOCA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "22126",
+   "Nombre": "ALDO MARTIN LAZAR",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31555",
+   "Nombre": "FRANCISCO MANUEL IADE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "29488",
+   "Nombre": "JUAN IGNACIO VIERA",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "28357",
+   "Nombre": "MAURICIO FUENTES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33056",
+   "Nombre": "PABLO PANTIN",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "24797",
+   "Nombre": "SEBASTIAN CURBELO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "24406",
+   "Nombre": "DANIEL ALVARO BARNALES",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "28600",
+   "Nombre": "SEBASTIAN RUIZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "24149",
+   "Nombre": "IGNACIO FLORES",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "18291",
+   "Nombre": "LEONARDO DANIEL FERNANDEZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "66451",
+   "Nombre": "FEDERICO MATHIAS PERCOPO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "22516",
+   "Nombre": "SANTIAGO NICOLAS DEGASPERI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "43177",
+   "Nombre": "JUAN EDUARDO GOMEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "27331",
+   "Nombre": "ALEJANDRO FABIAN GADEA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67362",
+   "Jug_Sale": "NICOLAS DARIO PEREZ",
+   "CarneEntra": "40342",
+   "Jug_Entra": "BRAIAN JAVIER CABRERA",
+   "camiseta": "21",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "29488",
+   "Jug_Sale": "JUAN IGNACIO VIERA",
+   "CarneEntra": "42447",
+   "Jug_Entra": "SEBASTIAN ISMAEL DA COSTA",
+   "camiseta": "20",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "36178",
+   "Jug_Sale": "RODRIGO FAGUNDEZ",
+   "CarneEntra": "36968",
+   "Jug_Entra": "MARTIN PRATO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42447",
+   "Jug_Sale": "SEBASTIAN ISMAEL DA COSTA",
+   "CarneEntra": "54381",
+   "Jug_Entra": "MARTIN GONZALO GOÑI",
+   "camiseta": "2",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24406",
+   "Jug_Sale": "DANIEL ALVARO BARNALES",
+   "CarneEntra": "66451",
+   "Jug_Entra": "FEDERICO MATHIAS PERCOPO",
+   "camiseta": "14",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "18291",
+   "Jug_Sale": "LEONARDO DANIEL FERNANDEZ",
+   "CarneEntra": "24802",
+   "Jug_Entra": "MARCELO INFANTE",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66451",
+   "Jug_Sale": "FEDERICO MATHIAS PERCOPO",
+   "CarneEntra": "65126",
+   "Jug_Entra": "GONZALO JOEL ARANDA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22516",
+   "Jug_Sale": "SANTIAGO NICOLAS DEGASPERI",
+   "CarneEntra": "26943",
+   "Jug_Entra": "RODRIGO GOLFARINI",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28600",
+   "Jug_Sale": "SEBASTIAN RUIZ",
+   "CarneEntra": "18291",
+   "Jug_Entra": "LEONARDO DANIEL FERNANDEZ",
+   "camiseta": "35",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "27331",
+   "Jug_Sale": "ALEJANDRO FABIAN GADEA",
+   "CarneEntra": "24406",
+   "Jug_Entra": "DANIEL ALVARO BARNALES",
+   "camiseta": "23",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "33056",
+   "Jug_Sale": "PABLO PANTIN",
+   "CarneEntra": "28600",
+   "Jug_Entra": "SEBASTIAN RUIZ",
+   "camiseta": "24",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "22126",
+   "Nombre": "ALDO MARTIN LAZAR",
+   "minutos": "67",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "24149",
+   "Nombre": "IGNACIO FLORES",
+   "minutos": "46",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

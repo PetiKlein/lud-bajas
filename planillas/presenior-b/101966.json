@@ -1,0 +1,267 @@
+{
+ "id": "101966",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 09:00:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "CLUB SEMINARIO",
+ "visitante": "RESISTENCIA",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "218",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-09-12 11:00:00",
+  "Fecha_fin": "2026-09-12 11:00:00",
+  "Locatario": "CLUB SEMINARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "RESISTENCIA",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "18842",
+   "Nombre": "RODRIGO ALBERTO DURAN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25030",
+   "Nombre": "JUAN MANUEL ROVELLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "31935",
+   "Nombre": "JUAN ANDRES SILVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "16315",
+   "Nombre": "MATIAS FERMIN IRAZABAL",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "25876",
+   "Nombre": "SANTIAGO ANDRES ARROYO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "28502",
+   "Nombre": "MARTIN PRESNO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "29031",
+   "Nombre": "FERNANDO BELOSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "28499",
+   "Nombre": "MARTIN LARRAURI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "23563",
+   "Nombre": "JOSE LUIS OLIVERA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62272",
+   "Nombre": "DIEGO NICOLAS LA PAZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "22618",
+   "Nombre": "FRANCISCO NAVARRO",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49856",
+   "Nombre": "MAURICIO JAVIER DAL MONTE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "31507",
+   "Nombre": "JOAQUIN BADO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "26679",
+   "Nombre": "PABLO FREIRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "53274",
+   "Nombre": "FACUNDO JOSE MELGAR",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "27066",
+   "Nombre": "SANTIAGO JULIAN LAGOMARSINO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "23452",
+   "Nombre": "IGNACIO SPANGENBERG",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "28831",
+   "Nombre": "JOSE IGNACIO SANCHEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "25030",
+   "Jug_Sale": "JUAN MANUEL ROVELLA",
+   "CarneEntra": "24772",
+   "Jug_Entra": "DANIEL ANTONIO MARTINEZ",
+   "camiseta": "11",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "31935",
+   "Jug_Sale": "JUAN ANDRES SILVA",
+   "CarneEntra": "18209",
+   "Jug_Entra": "MARTIN GUILLERMO IRAZOQUI",
+   "camiseta": "9",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "23563",
+   "Jug_Sale": "JOSE LUIS OLIVERA",
+   "CarneEntra": "25030",
+   "Jug_Entra": "JUAN MANUEL ROVELLA",
+   "camiseta": "18",
+   "minutos": "74"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49856",
+   "Jug_Sale": "MAURICIO JAVIER DAL MONTE",
+   "CarneEntra": "26846",
+   "Jug_Entra": "RODRIGO ROCHA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27066",
+   "Jug_Sale": "SANTIAGO JULIAN LAGOMARSINO",
+   "CarneEntra": "23532",
+   "Jug_Entra": "RODRIGO IBACETA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26679",
+   "Jug_Sale": "PABLO FREIRE",
+   "CarneEntra": "28541",
+   "Jug_Entra": "IGNACIO BONINO",
+   "camiseta": "34",
+   "minutos": "11"
+  },
+  {
+   "CarneSale": "23452",
+   "Jug_Sale": "IGNACIO SPANGENBERG",
+   "CarneEntra": "23840",
+   "Jug_Entra": "RODRIGO AÑON",
+   "camiseta": "29",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "28831",
+   "Jug_Sale": "JOSE IGNACIO SANCHEZ",
+   "CarneEntra": "23885",
+   "Jug_Entra": "MAURICIO DANIEL HERNANDEZ",
+   "camiseta": "21",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "25651",
+   "Jug_Sale": "CRISTIAN AROCHA",
+   "CarneEntra": "28831",
+   "Jug_Entra": "JOSE IGNACIO SANCHEZ",
+   "camiseta": "19",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "23452",
+   "Nombre": "IGNACIO SPANGENBERG",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "23885",
+   "Nombre": "MAURICIO DANIEL HERNANDEZ",
+   "minutos": "77",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28831",
+   "Nombre": "JOSE IGNACIO SANCHEZ",
+   "minutos": "30",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

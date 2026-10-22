@@ -1,0 +1,263 @@
+{
+ "id": "100206",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "DANUBIO FUTBOL CLUB",
+ "visitante": "TENIS EL PINAR",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "200",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-06-20 00:00:00",
+  "Fecha_fin": "2026-06-20 00:00:00",
+  "Locatario": "DANUBIO FUTBOL CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "14645",
+   "Nombre": "PABLO ALBERTO FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35270",
+   "Nombre": "WALTER GIANNI BALDASSARI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "18843",
+   "Nombre": "WILLIAM GONZALEZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "13451",
+   "Nombre": "OSCAR ALEJANDRO ARRUDA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "18625",
+   "Nombre": "RAMIRO ADOLFO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58590",
+   "Nombre": "DIEGO FERREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "29411",
+   "Nombre": "ALFONSO MICHEL MARQUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "12721",
+   "Nombre": "FABIAN HERNAN CORTES",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "39707",
+   "Nombre": "EDUARDO FABIAN BURGOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "23153",
+   "Nombre": "FABIAN VICTOR CORE",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "66193",
+   "Nombre": "LUIS MAYORGA",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64234",
+   "Nombre": "SANTIAGO CASTRO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "17928",
+   "Nombre": "AGUSTIN MAGNONE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16172",
+   "Nombre": "MARTIN MAGNONE",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "16738",
+   "Nombre": "RAMIRO AROCENA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "18357",
+   "Nombre": "MANUEL CAUBARRERE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "20891",
+   "Nombre": "AGUSTIN MANUEL CASAROTTI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "22174",
+   "Nombre": "FEDERICO MONTANS MONTANS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "17194",
+   "Nombre": "JUAN PABLO CASTRO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "21923",
+   "Nombre": "RAFAEL MONZON",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "18393",
+   "Nombre": "GERARDO GABRIEL MONZON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "16699",
+   "Nombre": "JUAN LUIS CAUBARRERE",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "29411",
+   "Jug_Sale": "ALFONSO MICHEL MARQUEZ",
+   "CarneEntra": "17384",
+   "Jug_Entra": "DIEGO PERDOMO",
+   "camiseta": "24",
+   "minutos": "9"
+  },
+  {
+   "CarneSale": "18625",
+   "Jug_Sale": "RAMIRO ADOLFO RODRIGUEZ",
+   "CarneEntra": "20702",
+   "Jug_Entra": "JOSE LUIS TRIGO",
+   "camiseta": "18",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "21923",
+   "Jug_Sale": "RAFAEL MONZON",
+   "CarneEntra": "19295",
+   "Jug_Entra": "JUAN ANDRES REY",
+   "camiseta": "33",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "22174",
+   "Jug_Sale": "FEDERICO MONTANS MONTANS",
+   "CarneEntra": "15264",
+   "Jug_Entra": "FEDERICO SCHOL",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17194",
+   "Jug_Sale": "JUAN PABLO CASTRO",
+   "CarneEntra": "19569",
+   "Jug_Entra": "CARLOS ANDRES URIARTE",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20891",
+   "Jug_Sale": "AGUSTIN MANUEL CASAROTTI",
+   "CarneEntra": "19569",
+   "Jug_Entra": "CARLOS ANDRES URIARTE",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16738",
+   "Jug_Sale": "RAMIRO AROCENA",
+   "CarneEntra": "64791",
+   "Jug_Entra": "RODRIGO NUÑEZ",
+   "camiseta": "4",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "16738",
+   "Jug_Sale": "RAMIRO AROCENA",
+   "CarneEntra": "64791",
+   "Jug_Entra": "RODRIGO NUÑEZ",
+   "camiseta": "4",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "18357",
+   "Jug_Sale": "MANUEL CAUBARRERE",
+   "CarneEntra": "21574",
+   "Jug_Entra": "SEBASTIAN NUÑEZ",
+   "camiseta": "3",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "19295",
+   "Jug_Sale": "JUAN ANDRES REY",
+   "CarneEntra": "20891",
+   "Jug_Entra": "AGUSTIN MANUEL CASAROTTI",
+   "camiseta": "9",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58590",
+   "Nombre": "DIEGO FERREIRA",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

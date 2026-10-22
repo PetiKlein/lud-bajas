@@ -1,0 +1,203 @@
+{
+ "id": "100428",
+ "categoria": "sub16",
+ "serie": "16-32",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 13:30:00",
+ "cancha": "COMPLEJO SCHIAFFINO (LAVALLEJA",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "199",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 3 RUEDA 2",
+  "Cancha": "COMPLEJO SCHIAFFINO (LAVALLEJA",
+  "Fecha_Inicio": "2026-06-21 15:10:00",
+  "Fecha_fin": "2026-06-21 15:10:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66775",
+   "Nombre": "NATHANIEL GARAY",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "67925",
+   "Nombre": "SEBASTIAN OMAR PERALTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65821",
+   "Nombre": "JUAN BAUTISTA CAULLIN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64088",
+   "Nombre": "DIEGO MARTIN PINTOS",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65903",
+   "Nombre": "SEBASTIAN BORCA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64586",
+   "Nombre": "FACUNDO MARIO SEGREDO",
+   "camiseta": "94",
+   "Capitan": ""
+  },
+  {
+   "carne": "61692",
+   "Nombre": "SANTIAGO HERNANDEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65498",
+   "Nombre": "FRANCISCO PAULOS",
+   "camiseta": "85",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62758",
+   "Nombre": "MANUEL LORENZO FAZZIO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65389",
+   "Nombre": "LORENZO PERROTTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61460",
+   "Nombre": "SANTIAGO GUTIERREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66009",
+   "Nombre": "JOAQUIN DOMINGO LUCA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65893",
+   "Nombre": "FACUNDO QUARTINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "65383",
+   "Nombre": "JUAN MANUEL MORENA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "68396",
+   "Nombre": "JUAQUIN JACINTO PORCAL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65402",
+   "Nombre": "FRANCO VILLAGRAN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65398",
+   "Nombre": "BRUNO ANTONIO GIACOMINI",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65403",
+   "Nombre": "MATEO VALENTIN LOPEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68395",
+   "Nombre": "BORJA QUIROGA",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [],
+ "cambiosV": [
+  {
+   "CarneSale": "61460",
+   "Jug_Sale": "SANTIAGO GUTIERREZ",
+   "CarneEntra": "65396",
+   "Jug_Entra": "IÑAKI SOSA",
+   "camiseta": "9",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65903",
+   "Nombre": "SEBASTIAN BORCA",
+   "minutos": "15",
+   "EnContra": "0"
+  },
+  {
+   "carne": "65903",
+   "Nombre": "SEBASTIAN BORCA",
+   "minutos": "33",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66775",
+   "Nombre": "NATHANIEL GARAY",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61460",
+   "Nombre": "SANTIAGO GUTIERREZ",
+   "minutos": "5",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61460",
+   "Nombre": "SANTIAGO GUTIERREZ",
+   "minutos": "28",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61460",
+   "Nombre": "SANTIAGO GUTIERREZ",
+   "minutos": "29",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

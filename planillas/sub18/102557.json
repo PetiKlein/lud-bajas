@@ -1,0 +1,310 @@
+{
+ "id": "102557",
+ "categoria": "sub18",
+ "serie": "18-22",
+ "fecha": 3,
+ "fechaHora": "2026-10-04 15:30:00",
+ "cancha": "COLEGIO ARETEIA",
+ "local": "DEP.de la C. ARETEIA BIMBULLY",
+ "visitante": "E.L.F.",
+ "gl": 3,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "222",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 2 RUEDA 2",
+  "Cancha": "COLEGIO ARETEIA",
+  "Fecha_Inicio": "2026-10-04 17:23:00",
+  "Fecha_fin": "2026-10-04 17:23:00",
+  "Locatario": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_locatario": "3",
+  "puntos_locatario": "1",
+  "Visitante": "E.L.F.",
+  "goles_visitante": "3",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63416",
+   "Nombre": "FRANCO CELLA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61409",
+   "Nombre": "MARTIN ALVAREZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "61308",
+   "Nombre": "DIEGO MARTIN EZQUERRA",
+   "camiseta": "64",
+   "Capitan": ""
+  },
+  {
+   "carne": "59884",
+   "Nombre": "MATEO PASTORIN",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "66237",
+   "Nombre": "TOMAS POGGI",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "61132",
+   "Nombre": "IAN FRANCO CAUTERUCCI",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "59881",
+   "Nombre": "FRANCO MARA",
+   "camiseta": "30",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63541",
+   "Nombre": "FACUNDO TILVE",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "64276",
+   "Nombre": "FELIPE NOCETTI",
+   "camiseta": "78",
+   "Capitan": ""
+  },
+  {
+   "carne": "58365",
+   "Nombre": "FEDERICO NAVARRO",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "61405",
+   "Nombre": "LUCIANO LUGO",
+   "camiseta": "49",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62388",
+   "Nombre": "GONZALO VERANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67093",
+   "Nombre": "FEDERICO SISIASVILI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59812",
+   "Nombre": "FRANCO EMANUEL NUÑEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60273",
+   "Nombre": "LUCAS FLORENTINO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61337",
+   "Nombre": "FELIPE GRANOTICH",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "57687",
+   "Nombre": "RAMIRO MENDEZ",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59811",
+   "Nombre": "JOAQUIN LEONARDO NUÑEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64228",
+   "Nombre": "FELIPE BARDIER",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "69155",
+   "Nombre": "MAEL FONTANA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "62055",
+   "Nombre": "IGNACIO PAKLAYAN",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "61087",
+   "Nombre": "MANUEL RODRIGUEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61409",
+   "Jug_Sale": "MARTIN ALVAREZ",
+   "CarneEntra": "61408",
+   "Jug_Entra": "FACUNDO FERNANDO VEGA",
+   "camiseta": "76",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "58365",
+   "Jug_Sale": "FEDERICO NAVARRO",
+   "CarneEntra": "60705",
+   "Jug_Entra": "THIAGO BAZAN",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60705",
+   "Jug_Sale": "THIAGO BAZAN",
+   "CarneEntra": "58365",
+   "Jug_Entra": "FEDERICO NAVARRO",
+   "camiseta": "42",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "61405",
+   "Jug_Sale": "LUCIANO LUGO",
+   "CarneEntra": "69215",
+   "Jug_Entra": "LUCAS CASTRO",
+   "camiseta": "66",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60273",
+   "Jug_Sale": "LUCAS FLORENTINO",
+   "CarneEntra": "61161",
+   "Jug_Entra": "FACUNDO CORREA",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61337",
+   "Jug_Sale": "FELIPE GRANOTICH",
+   "CarneEntra": "62844",
+   "Jug_Entra": "THIAGO BOUREL",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "59811",
+   "Jug_Sale": "JOAQUIN LEONARDO NUÑEZ",
+   "CarneEntra": "64092",
+   "Jug_Entra": "JUAN ENRIQUE ALVES",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62055",
+   "Jug_Sale": "IGNACIO PAKLAYAN",
+   "CarneEntra": "56753",
+   "Jug_Entra": "JUAN MARTIN BENQUET",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "69155",
+   "Jug_Sale": "MAEL FONTANA",
+   "CarneEntra": "57955",
+   "Jug_Entra": "MATIAS VIÑAR",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64228",
+   "Jug_Sale": "FELIPE BARDIER",
+   "CarneEntra": "60455",
+   "Jug_Entra": "FRANCO INSAUSTI",
+   "camiseta": "22",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "64092",
+   "Jug_Sale": "JUAN ENRIQUE ALVES",
+   "CarneEntra": "57571",
+   "Jug_Entra": "THEO FAURE",
+   "camiseta": "6",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "59812",
+   "Jug_Sale": "FRANCO EMANUEL NUÑEZ",
+   "CarneEntra": "62369",
+   "Jug_Entra": "MAURICIO ZECCHI",
+   "camiseta": "3",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58365",
+   "Nombre": "FEDERICO NAVARRO",
+   "minutos": "37",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58365",
+   "Nombre": "FEDERICO NAVARRO",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61308",
+   "Nombre": "DIEGO MARTIN EZQUERRA",
+   "minutos": "9",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62055",
+   "Nombre": "IGNACIO PAKLAYAN",
+   "minutos": "68",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62055",
+   "Nombre": "IGNACIO PAKLAYAN",
+   "minutos": "71",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62055",
+   "Nombre": "IGNACIO PAKLAYAN",
+   "minutos": "93",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

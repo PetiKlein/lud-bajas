@@ -1,0 +1,265 @@
+{
+ "id": "102026",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "TACUAREMBO UNIVERSITARIO",
+ "visitante": "HEBRAICA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "111",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-09-19 11:00:00",
+  "Fecha_fin": "2026-09-19 11:00:00",
+  "Locatario": "TACUAREMBO UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "HEBRAICA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "22311",
+   "Nombre": "JUAN GONZALO LEVRATTO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "31853",
+   "Nombre": "JAVIER IGNACIO GUERRERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "21464",
+   "Nombre": "ALEJANDRO BOIX",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "19440",
+   "Nombre": "SANTIAGO CASTELLS",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26326",
+   "Nombre": "LUIS IGNACIO ABUD",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "19435",
+   "Nombre": "PABLO MARTIN MOLINA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "22013",
+   "Nombre": "RUBEN HUERTAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "12365",
+   "Nombre": "JORGE ERNESTO SUAREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "26855",
+   "Nombre": "MARCELO ENRIQUE DAVILA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "57920",
+   "Nombre": "CARLOS IGNACIO DIAZ",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "19006",
+   "Nombre": "LUCIO FLAVIO ALVEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "14307",
+   "Nombre": "GUILLERMO DANIEL VERA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44715",
+   "Nombre": "DIEGO PERELMUTER",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "26078",
+   "Nombre": "FEDERICO WOLF CHEBI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "19947",
+   "Nombre": "DENNY LIAM BRECHNER",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "15031",
+   "Nombre": "JULIO HERMAN BANEWUR",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "10577",
+   "Nombre": "DIEGO GARFINKEL",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "15418",
+   "Nombre": "ALEX MICHEL DICHTENBERG",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28249",
+   "Nombre": "MAURO RADZINSKI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "19096",
+   "Nombre": "ARI KACZKA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "17086",
+   "Nombre": "OSCAR DIEGO FALERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "36064",
+   "Nombre": "DIEGO GONZALO CIAPPESONI",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "26855",
+   "Jug_Sale": "MARCELO ENRIQUE DAVILA",
+   "CarneEntra": "15494",
+   "Jug_Entra": "ROBERTO MAURICIO DAVILA",
+   "camiseta": "78",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26855",
+   "Jug_Sale": "MARCELO ENRIQUE DAVILA",
+   "CarneEntra": "26855",
+   "Jug_Entra": "MARCELO ENRIQUE DAVILA",
+   "camiseta": "15",
+   "minutos": "51"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "15418",
+   "Jug_Sale": "ALEX MICHEL DICHTENBERG",
+   "CarneEntra": "15823",
+   "Jug_Entra": "EDGARD BARILAS",
+   "camiseta": "14",
+   "minutos": "10"
+  },
+  {
+   "CarneSale": "10577",
+   "Jug_Sale": "DIEGO GARFINKEL",
+   "CarneEntra": "21670",
+   "Jug_Entra": "ELI PERELMUTER",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15031",
+   "Jug_Sale": "JULIO HERMAN BANEWUR",
+   "CarneEntra": "20627",
+   "Jug_Entra": "MARTIN BERENSTEIN",
+   "camiseta": "13",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "15823",
+   "Jug_Sale": "EDGARD BARILAS",
+   "CarneEntra": "26410",
+   "Jug_Entra": "MATIAS MOSCONA",
+   "camiseta": "4",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "21670",
+   "Jug_Sale": "ELI PERELMUTER",
+   "CarneEntra": "15031",
+   "Jug_Entra": "JULIO HERMAN BANEWUR",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "15031",
+   "Jug_Sale": "JULIO HERMAN BANEWUR",
+   "CarneEntra": "10577",
+   "Jug_Entra": "DIEGO GARFINKEL",
+   "camiseta": "8",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "12365",
+   "Nombre": "JORGE ERNESTO SUAREZ",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "26855",
+   "Nombre": "MARCELO ENRIQUE DAVILA",
+   "minutos": "54",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "20627",
+   "Nombre": "MARTIN BERENSTEIN",
+   "minutos": "60",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "GUILLERMO DANIEL VERA",
+   "observaciones": ""
+  }
+ ]
+}

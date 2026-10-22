@@ -1,0 +1,239 @@
+{
+ "id": "100223",
+ "categoria": "mas40-c",
+ "serie": "40S23",
+ "fecha": 4,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "FERROTANQUE",
+ "gl": 5,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "304",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 2",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-06-20 13:15:00",
+  "Fecha_fin": "2026-06-20 13:15:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "FERROTANQUE",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "22220",
+   "Nombre": "CARLOS SEBASTIAN RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "16709",
+   "Nombre": "BRUNO CHIESA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "24412",
+   "Nombre": "RODRIGO CADENAS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "18994",
+   "Nombre": "LEONARDO CAULA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "17984",
+   "Nombre": "MARTIN ARMANDO ANTELO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "42184",
+   "Nombre": "ANDRES RODOLFO LARGHER",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54436",
+   "Nombre": "MARTIN AGUERRE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62983",
+   "Nombre": "NESTOR GABRIEL DAVILA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64670",
+   "Nombre": "ADRIAN SILVEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "38826",
+   "Nombre": "DIEGO ERNESTO CANO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "18382",
+   "Nombre": "IGNACIO LIORI",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39807",
+   "Nombre": "GUSTAVO MOSQUERA",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "17449",
+   "Nombre": "ALEJANDRO GABRIEL BARLOCCO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "49339",
+   "Nombre": "VICTOR MARTIN GUERRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "60735",
+   "Nombre": "CHRISTIAN MARCEL BARATTA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63333",
+   "Nombre": "SEBASTIAN MARTIN DA CUNHA",
+   "camiseta": "71",
+   "Capitan": ""
+  },
+  {
+   "carne": "18329",
+   "Nombre": "FRANCISCO MANUEL FERNANDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "22210",
+   "Nombre": "MARCOS ADOLFO AMESPIL",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67037",
+   "Nombre": "MARIANO RODRIGO FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "27927",
+   "Nombre": "GERMAN LOMBARDI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "19570",
+   "Nombre": "SEBASTIAN DURA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "40746",
+   "Nombre": "DIEGO FEDERICO BAYLE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "24412",
+   "Jug_Sale": "RODRIGO CADENAS",
+   "CarneEntra": "67413",
+   "Jug_Entra": "THOMAS EVANS",
+   "camiseta": "14",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "40746",
+   "Jug_Sale": "DIEGO FEDERICO BAYLE",
+   "CarneEntra": "17855",
+   "Jug_Entra": "WASHINGTON SILVA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49339",
+   "Jug_Sale": "VICTOR MARTIN GUERRA",
+   "CarneEntra": "12221",
+   "Jug_Entra": "MARIO CESAR RODRIGUEZ",
+   "camiseta": "19",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "12221",
+   "Jug_Sale": "MARIO CESAR RODRIGUEZ",
+   "CarneEntra": "63333",
+   "Jug_Entra": "SEBASTIAN MARTIN DA CUNHA",
+   "camiseta": "71",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "17984",
+   "Nombre": "MARTIN ARMANDO ANTELO",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "18382",
+   "Nombre": "IGNACIO LIORI",
+   "minutos": "17",
+   "EnContra": "0"
+  },
+  {
+   "carne": "18382",
+   "Nombre": "IGNACIO LIORI",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "18382",
+   "Nombre": "IGNACIO LIORI",
+   "minutos": "62",
+   "EnContra": "0"
+  },
+  {
+   "carne": "18382",
+   "Nombre": "IGNACIO LIORI",
+   "minutos": "63",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

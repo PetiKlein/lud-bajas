@@ -1,0 +1,268 @@
+{
+ "id": "99335",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "SANDY FUTBOL",
+ "local": "RESISTENCIA",
+ "visitante": "CIRCULO DE TENIS MONTEVIDEO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "171",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "SANDY FUTBOL",
+  "Fecha_Inicio": "2026-05-30 11:00:00",
+  "Fecha_fin": "2026-05-30 11:00:00",
+  "Locatario": "RESISTENCIA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31507",
+   "Nombre": "JOAQUIN BADO",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26846",
+   "Nombre": "RODRIGO ROCHA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "26679",
+   "Nombre": "PABLO FREIRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "22462",
+   "Nombre": "PEDRO CAPRANI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23532",
+   "Nombre": "RODRIGO IBACETA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "23452",
+   "Nombre": "IGNACIO SPANGENBERG",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "24879",
+   "Nombre": "DIEGO NICOLAS RIOLFO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22452",
+   "Nombre": "SEBASTIAN SALAVERRIA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64253",
+   "Nombre": "MATIAS EMMANUEL PUCCIARELLI",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "38294",
+   "Nombre": "NICOLAS MOISES NOVAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "26175",
+   "Nombre": "EMILIANO LONGONE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "29950",
+   "Nombre": "DIEGO MUJICA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "21402",
+   "Nombre": "JUAN IGNACIO SECO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "20875",
+   "Nombre": "JUAN ANDRES AREOSA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "27967",
+   "Nombre": "NICOLAS IWANKA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "23921",
+   "Nombre": "JUAN ANDRES BOCCHIO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "44462",
+   "Nombre": "SANTIAGO LAMANNA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "25359",
+   "Nombre": "MATIAS ENZO VERNASSA",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23532",
+   "Jug_Sale": "RODRIGO IBACETA",
+   "CarneEntra": "27066",
+   "Jug_Entra": "SANTIAGO JULIAN LAGOMARSINO",
+   "camiseta": "22",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "24879",
+   "Jug_Sale": "DIEGO NICOLAS RIOLFO",
+   "CarneEntra": "28831",
+   "Jug_Entra": "JOSE IGNACIO SANCHEZ",
+   "camiseta": "19",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "25651",
+   "Jug_Sale": "CRISTIAN AROCHA",
+   "CarneEntra": "25142",
+   "Jug_Entra": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "23452",
+   "Jug_Sale": "IGNACIO SPANGENBERG",
+   "CarneEntra": "23840",
+   "Jug_Entra": "RODRIGO AÑON",
+   "camiseta": "29",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "25359",
+   "Jug_Sale": "MATIAS ENZO VERNASSA",
+   "CarneEntra": "34891",
+   "Jug_Entra": "NICOLAS CHAIA",
+   "camiseta": "13",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "27967",
+   "Jug_Sale": "NICOLAS IWANKA",
+   "CarneEntra": "27293",
+   "Jug_Entra": "FERNANDO ALEM",
+   "camiseta": "4",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "64253",
+   "Jug_Sale": "MATIAS EMMANUEL PUCCIARELLI",
+   "CarneEntra": "24257",
+   "Jug_Entra": "SANTIAGO SILVEIRA DE ANDRADE",
+   "camiseta": "20",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "23921",
+   "Jug_Sale": "JUAN ANDRES BOCCHIO",
+   "CarneEntra": "25202",
+   "Jug_Entra": "JUAN PABLO OLAVE",
+   "camiseta": "2",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "20875",
+   "Jug_Sale": "JUAN ANDRES AREOSA",
+   "CarneEntra": "26217",
+   "Jug_Entra": "DIEGO MARTIN DEMICHELI",
+   "camiseta": "9",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23532",
+   "Nombre": "RODRIGO IBACETA",
+   "minutos": "20",
+   "EnContra": "0"
+  },
+  {
+   "carne": "28831",
+   "Nombre": "JOSE IGNACIO SANCHEZ",
+   "minutos": "56",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "44462",
+   "Nombre": "SANTIAGO LAMANNA",
+   "minutos": "33",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

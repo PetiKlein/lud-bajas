@@ -1,0 +1,374 @@
+{
+ "id": "102913",
+ "categoria": "sub16",
+ "serie": "16-52",
+ "fecha": 4,
+ "fechaHora": "2026-10-14 18:00:00",
+ "cancha": "COMPLEJO DFC",
+ "local": "DFC",
+ "visitante": "ESTUDIANTES DEL PLATA",
+ "gl": 6,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "267",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 5 RUEDA 2",
+  "Cancha": "COMPLEJO DFC",
+  "Fecha_Inicio": "2026-10-14 20:00:00",
+  "Fecha_fin": "2026-10-14 20:00:00",
+  "Locatario": "DFC",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "ESTUDIANTES DEL PLATA",
+  "goles_visitante": "4",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67601",
+   "Nombre": "CONSTANTINO VIERAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68911",
+   "Nombre": "SANTIAGO AGUSTIN ESCARCENA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67932",
+   "Nombre": "BAUTISTA PAZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67602",
+   "Nombre": "VALENTINO LAUTARO DE ARMAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67929",
+   "Nombre": "EMILIANO BURGAINS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68183",
+   "Nombre": "JOAQUIN JOAQUIN",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "67928",
+   "Nombre": "ANGEL EDUARDO DI MATTEO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67468",
+   "Nombre": "FACUNDO BENJAMIN FACUNDO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67600",
+   "Nombre": "BRUNO NICOLAS YACQUE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67607",
+   "Nombre": "LAUTARO ALEXANDER ALANIS",
+   "camiseta": "47",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68888",
+   "Nombre": "TOMAS ERRANDONEA",
+   "camiseta": "85",
+   "Capitan": ""
+  },
+  {
+   "carne": "65287",
+   "Nombre": "JOAQUIN NICOLAS ANDRIOLI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67754",
+   "Nombre": "IGNACIO BASQUADE DIAZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68047",
+   "Nombre": "FELIPE MONTES DE OCA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67747",
+   "Nombre": "ENZO GERMAN ALDERETTE",
+   "camiseta": "48",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68049",
+   "Nombre": "FRANCO LESCANO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67757",
+   "Nombre": "ANYEL JULIAN SAHAKIAN",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "68679",
+   "Nombre": "JUAN DIEGO BRUM",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67742",
+   "Nombre": "JUAN MANUEL ASHFIELD",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "65294",
+   "Nombre": "MARIANO ARAMIS SARINA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68799",
+   "Nombre": "AXEL MATHIAS ESCARCENA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67468",
+   "Jug_Sale": "FACUNDO BENJAMIN FACUNDO",
+   "CarneEntra": "67603",
+   "Jug_Entra": "BRUNO PODESTA",
+   "camiseta": "16",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "68911",
+   "Jug_Sale": "SANTIAGO AGUSTIN ESCARCENA",
+   "CarneEntra": "68964",
+   "Jug_Entra": "BENJAMIN DANIEL CALCAÑO",
+   "camiseta": "88",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "67600",
+   "Jug_Sale": "BRUNO NICOLAS YACQUE",
+   "CarneEntra": "67466",
+   "Jug_Entra": "FRANCO OTTONELLO",
+   "camiseta": "27",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "68964",
+   "Jug_Sale": "BENJAMIN DANIEL CALCAÑO",
+   "CarneEntra": "68451",
+   "Jug_Entra": "GUSTAVO ALEJANDRO ATENCIO",
+   "camiseta": "28",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "67929",
+   "Jug_Sale": "EMILIANO BURGAINS",
+   "CarneEntra": "67469",
+   "Jug_Entra": "SANTIAGO DANIEL DE LA LLANA",
+   "camiseta": "26",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67928",
+   "Jug_Sale": "ANGEL EDUARDO DI MATTEO",
+   "CarneEntra": "67465",
+   "Jug_Entra": "IGANCIO CAMEJO",
+   "camiseta": "8",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67601",
+   "Jug_Sale": "CONSTANTINO VIERAS",
+   "CarneEntra": "63051",
+   "Jug_Entra": "LUCIANO MONTAÑA",
+   "camiseta": "12",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67607",
+   "Jug_Sale": "LAUTARO ALEXANDER ALANIS",
+   "CarneEntra": "67609",
+   "Jug_Entra": "NICOLAS RAUL PEREIRO",
+   "camiseta": "18",
+   "minutos": "40"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68049",
+   "Jug_Sale": "FRANCO LESCANO",
+   "CarneEntra": "67767",
+   "Jug_Entra": "LEON FELIPE DAL MONTE",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67742",
+   "Jug_Sale": "JUAN MANUEL ASHFIELD",
+   "CarneEntra": "67760",
+   "Jug_Entra": "MATEO JAIR BALSAMO",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67754",
+   "Jug_Sale": "IGNACIO BASQUADE DIAZ",
+   "CarneEntra": "68057",
+   "Jug_Entra": "BRUNO NICOLAS NUÑEZ",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67754",
+   "Jug_Sale": "IGNACIO BASQUADE DIAZ",
+   "CarneEntra": "67770",
+   "Jug_Entra": "SANTIAGO AGUSTIN GARCIA",
+   "camiseta": "47",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68799",
+   "Jug_Sale": "AXEL MATHIAS ESCARCENA",
+   "CarneEntra": "67754",
+   "Jug_Entra": "IGNACIO BASQUADE DIAZ",
+   "camiseta": "7",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "65294",
+   "Jug_Sale": "MARIANO ARAMIS SARINA",
+   "CarneEntra": "67742",
+   "Jug_Entra": "JUAN MANUEL ASHFIELD",
+   "camiseta": "21",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "67757",
+   "Jug_Sale": "ANYEL JULIAN SAHAKIAN",
+   "CarneEntra": "67747",
+   "Jug_Entra": "ENZO GERMAN ALDERETTE",
+   "camiseta": "48",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "68799",
+   "Jug_Sale": "AXEL MATHIAS ESCARCENA",
+   "CarneEntra": "68049",
+   "Jug_Entra": "FRANCO LESCANO",
+   "camiseta": "24",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "68047",
+   "Jug_Sale": "FELIPE MONTES DE OCA",
+   "CarneEntra": "68799",
+   "Jug_Entra": "AXEL MATHIAS ESCARCENA",
+   "camiseta": "17",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "minutos": "24",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67466",
+   "Nombre": "FRANCO OTTONELLO",
+   "minutos": "82",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67468",
+   "Nombre": "FACUNDO BENJAMIN FACUNDO",
+   "minutos": "18",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67609",
+   "Nombre": "NICOLAS RAUL PEREIRO",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67928",
+   "Nombre": "ANGEL EDUARDO DI MATTEO",
+   "minutos": "23",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67742",
+   "Nombre": "JUAN MANUEL ASHFIELD",
+   "minutos": "16",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67757",
+   "Nombre": "ANYEL JULIAN SAHAKIAN",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67757",
+   "Nombre": "ANYEL JULIAN SAHAKIAN",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68799",
+   "Nombre": "AXEL MATHIAS ESCARCENA",
+   "minutos": "36",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

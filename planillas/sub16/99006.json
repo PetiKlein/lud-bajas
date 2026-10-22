@@ -1,0 +1,303 @@
+{
+ "id": "99006",
+ "categoria": "sub16",
+ "serie": "16-4-",
+ "fecha": 4,
+ "fechaHora": "2026-05-17 13:30:00",
+ "cancha": "POLIDEPORTIVO CARRASCO",
+ "local": "ACADEMIA FRM",
+ "visitante": "PELOTA AL MEDIO UNIVERSITARIO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "98",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 4",
+  "Cancha": "POLIDEPORTIVO CARRASCO",
+  "Fecha_Inicio": "2026-05-17 15:15:00",
+  "Fecha_fin": "2026-05-17 15:15:00",
+  "Locatario": "ACADEMIA FRM",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "PELOTA AL MEDIO UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61085",
+   "Nombre": "FABRIZIO PERRONE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65501",
+   "Nombre": "SANTIAGO CORREA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64940",
+   "Nombre": "FACUNDO EMANUEL PEGORRARO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "65502",
+   "Nombre": "MAXIMO CANO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62765",
+   "Nombre": "BENJAMIN DELGADO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62762",
+   "Nombre": "JAVIER CABRERA",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65657",
+   "Nombre": "MATIAS OXANDABARAT",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "61168",
+   "Nombre": "LAUTARO BASTOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "61728",
+   "Nombre": "FELIPE SALVADOR TELLECHEA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64943",
+   "Nombre": "JUAN MARTIN BANINA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64946",
+   "Nombre": "MATEO NODAR",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64810",
+   "Nombre": "DAMIAN PICASSO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67821",
+   "Nombre": "EMILIANO FABRICIO ABRINES",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67805",
+   "Nombre": "RODRIGO IPARRAGUIRRE",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "65865",
+   "Nombre": "JOAQUIN RAMOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67831",
+   "Nombre": "ISMAEL PERDOMO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67806",
+   "Nombre": "JOAQUIN IPARRAGUIRRE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67822",
+   "Nombre": "JOAQUIN ANDRES BELLO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63467",
+   "Nombre": "PABLO BESTRICOV",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67814",
+   "Nombre": "LUCA  MARTIN PASTORINO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "67820",
+   "Nombre": "DYLAN ALEXANDER VIERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67813",
+   "Nombre": "JONATHAN BENJAMIN RIVERO",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61168",
+   "Jug_Sale": "LAUTARO BASTOS",
+   "CarneEntra": "62960",
+   "Jug_Entra": "SANTINO BENEDETTI",
+   "camiseta": "11",
+   "minutos": "29"
+  },
+  {
+   "CarneSale": "65657",
+   "Jug_Sale": "MATIAS OXANDABARAT",
+   "CarneEntra": "63864",
+   "Jug_Entra": "ELIAS TIMOTEO DA SILVA",
+   "camiseta": "16",
+   "minutos": "29"
+  },
+  {
+   "CarneSale": "64946",
+   "Jug_Sale": "MATEO NODAR",
+   "CarneEntra": "65502",
+   "Jug_Entra": "MAXIMO CANO",
+   "camiseta": "10",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "65657",
+   "Jug_Sale": "MATIAS OXANDABARAT",
+   "CarneEntra": "64946",
+   "Jug_Entra": "MATEO NODAR",
+   "camiseta": "29",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "65502",
+   "Jug_Sale": "MAXIMO CANO",
+   "CarneEntra": "65657",
+   "Jug_Entra": "MATIAS OXANDABARAT",
+   "camiseta": "28",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65865",
+   "Jug_Sale": "JOAQUIN RAMOS",
+   "CarneEntra": "66085",
+   "Jug_Entra": "EZEQUIEL SERGIO SILVEIRA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67822",
+   "Jug_Sale": "JOAQUIN ANDRES BELLO",
+   "CarneEntra": "67819",
+   "Jug_Entra": "MATEO CALAGUY",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67805",
+   "Jug_Sale": "RODRIGO IPARRAGUIRRE",
+   "CarneEntra": "67818",
+   "Jug_Entra": "LUCIANO AGUSTIN FUQUES",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67814",
+   "Jug_Sale": "LUCA  MARTIN PASTORINO",
+   "CarneEntra": "68216",
+   "Jug_Entra": "FRANCO PICASSO",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67820",
+   "Jug_Sale": "DYLAN ALEXANDER VIERA",
+   "CarneEntra": "67811",
+   "Jug_Entra": "MATIAS ALEJANDRO ROJAS",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63467",
+   "Jug_Sale": "PABLO BESTRICOV",
+   "CarneEntra": "64801",
+   "Jug_Entra": "CAMILO NAHUEL FERNANDEZ",
+   "camiseta": "34",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "67806",
+   "Jug_Sale": "JOAQUIN IPARRAGUIRRE",
+   "CarneEntra": "67815",
+   "Jug_Entra": "ALAN SEBASTIAN CASTELLANOS",
+   "camiseta": "23",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "67821",
+   "Jug_Sale": "EMILIANO FABRICIO ABRINES",
+   "CarneEntra": "68215",
+   "Jug_Entra": "FABRICIO NAHUEL MONTES",
+   "camiseta": "21",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "67813",
+   "Jug_Sale": "JONATHAN BENJAMIN RIVERO",
+   "CarneEntra": "67825",
+   "Jug_Entra": "BRUNO AMARO VERRIEL",
+   "camiseta": "28",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "67831",
+   "Jug_Sale": "ISMAEL PERDOMO",
+   "CarneEntra": "66280",
+   "Jug_Entra": "ALAN STEVEN SALDIVIA",
+   "camiseta": "18",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "67811",
+   "Nombre": "MATIAS ALEJANDRO ROJAS",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

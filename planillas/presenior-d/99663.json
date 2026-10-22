@@ -1,0 +1,301 @@
+{
+ "id": "99663",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 11:15:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "LATINO FUTBOL CLUB",
+ "visitante": "ANGLO",
+ "gl": 6,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "632",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-06-06 13:05:00",
+  "Fecha_fin": "2026-06-06 13:05:00",
+  "Locatario": "LATINO FUTBOL CLUB",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "ANGLO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47757",
+   "Nombre": "JUAN ANDRES NOGUES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "33080",
+   "Nombre": "NICOLAS CERISOLA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "36137",
+   "Nombre": "FEDERICO MENDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "59021",
+   "Nombre": "HORACIO MATIAS DEL CORRO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "52449",
+   "Nombre": "FACUNDO FIERRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "30155",
+   "Nombre": "MANUEL FELIPE BOERO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56450",
+   "Nombre": "FEDERICO HERMIDA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "31035",
+   "Nombre": "GIANFRANCO AMADO POSE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32716",
+   "Nombre": "MARTIN ANDRES ORDOQUI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67640",
+   "Nombre": "SANTIAGO MARTINEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "38794",
+   "Nombre": "ANDRES LEITES",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51350",
+   "Nombre": "NICOLAS MAURIÑOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67787",
+   "Nombre": "JOAQUIN GARCIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60159",
+   "Nombre": "MATHIAS ADRIAN OTTON",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "25431",
+   "Nombre": "JUAN ANDRES GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60162",
+   "Nombre": "YUBERT LEONEL ALOY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "32734",
+   "Nombre": "CHRISTIAN ADAN ARRIOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "28464",
+   "Nombre": "ANDRES ALONSO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61143",
+   "Nombre": "FEDERICO MANUEL OLIVERA",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59021",
+   "Jug_Sale": "HORACIO MATIAS DEL CORRO",
+   "CarneEntra": "26283",
+   "Jug_Entra": "RAFAEL DELLA TORRE",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31035",
+   "Jug_Sale": "GIANFRANCO AMADO POSE",
+   "CarneEntra": "37034",
+   "Jug_Entra": "LEANDRO GERMAN TARANTO",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47757",
+   "Jug_Sale": "JUAN ANDRES NOGUES",
+   "CarneEntra": "33744",
+   "Jug_Entra": "NICOLAS MOREIRA",
+   "camiseta": "28",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "36137",
+   "Jug_Sale": "FEDERICO MENDEZ",
+   "CarneEntra": "37016",
+   "Jug_Entra": "JUAN ANDRES CASTRO",
+   "camiseta": "3",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "21819",
+   "Jug_Sale": "IGNACIO RODRIGUEZ",
+   "CarneEntra": "30416",
+   "Jug_Entra": "MANOEL CASTRO",
+   "camiseta": "14",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "33080",
+   "Jug_Sale": "NICOLAS CERISOLA",
+   "CarneEntra": "37036",
+   "Jug_Entra": "IGNACIO GONZALO PAOLILLO",
+   "camiseta": "26",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "30155",
+   "Jug_Sale": "MANUEL FELIPE BOERO",
+   "CarneEntra": "64349",
+   "Jug_Entra": "MICHAEL RAJ",
+   "camiseta": "22",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51350",
+   "Jug_Sale": "NICOLAS MAURIÑOS",
+   "CarneEntra": "18430",
+   "Jug_Entra": "HERNAN BOUZA",
+   "camiseta": "20",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "18430",
+   "Jug_Sale": "HERNAN BOUZA",
+   "CarneEntra": "64634",
+   "Jug_Entra": "LEONARDO GABRIEL HERNANDEZ",
+   "camiseta": "9",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "60162",
+   "Jug_Sale": "YUBERT LEONEL ALOY",
+   "CarneEntra": "67504",
+   "Jug_Entra": "RICHARD RODRIGUEZ",
+   "camiseta": "22",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "61143",
+   "Jug_Sale": "FEDERICO MANUEL OLIVERA",
+   "CarneEntra": "60162",
+   "Jug_Entra": "YUBERT LEONEL ALOY",
+   "camiseta": "5",
+   "minutos": "69"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "21819",
+   "Nombre": "IGNACIO RODRIGUEZ",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "30155",
+   "Nombre": "MANUEL FELIPE BOERO",
+   "minutos": "44",
+   "EnContra": "0"
+  },
+  {
+   "carne": "33744",
+   "Nombre": "NICOLAS MOREIRA",
+   "minutos": "83",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "54",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "88",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

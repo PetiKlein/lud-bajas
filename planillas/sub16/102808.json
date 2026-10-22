@@ -1,0 +1,289 @@
+{
+ "id": "102808",
+ "categoria": "sub16",
+ "serie": "16-42",
+ "fecha": 4,
+ "fechaHora": "2026-10-11 13:30:00",
+ "cancha": "SPORT 11",
+ "local": "ARQUITECTURA JRS.",
+ "visitante": "TENIS EL PINAR",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "237",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 4 RUEDA 2",
+  "Cancha": "SPORT 11",
+  "Fecha_Inicio": "2026-10-11 15:20:00",
+  "Fecha_fin": "2026-10-11 15:20:00",
+  "Locatario": "ARQUITECTURA JRS.",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66790",
+   "Nombre": "BRUNO ROMERO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65791",
+   "Nombre": "BENJAMIN MARTINEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "69194",
+   "Nombre": "SANTIAGO REBELLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68249",
+   "Nombre": "BAUTISTA SANTIAGO CABRERA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "69193",
+   "Nombre": "AGUSTIN VARGAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "62629",
+   "Nombre": "JUAN FRANCISCO QUINTERO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "66533",
+   "Nombre": "BENJAMIN SOSA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62955",
+   "Nombre": "LAUTARO BENJAMIN DI GENOVA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "60541",
+   "Nombre": "CAMILO ENRIQUE ALEGARI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "60697",
+   "Nombre": "DANIEL NOGUEIRA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "69197",
+   "Nombre": "MANUEL SOTELO",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67020",
+   "Nombre": "FELIPE DURAND",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66600",
+   "Nombre": "AGUSTIN MARCHETTI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66603",
+   "Nombre": "BAUTISTA PASSEGGI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63948",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65295",
+   "Nombre": "BAUTISTA SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "61623",
+   "Nombre": "PABLO MARCELO TOPOLANSKY",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63940",
+   "Nombre": "GERONIMO SPERANZA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67019",
+   "Nombre": "JUAN MARTIN POLETTO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67018",
+   "Nombre": "JOAQUIN RAMIREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "66516",
+   "Nombre": "JUAN MANUEL BARRIOS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63945",
+   "Nombre": "CONSTANTINO AROCENA",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "60697",
+   "Jug_Sale": "DANIEL NOGUEIRA",
+   "CarneEntra": "62629",
+   "Jug_Entra": "JUAN FRANCISCO QUINTERO",
+   "camiseta": "19",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "69193",
+   "Jug_Sale": "AGUSTIN VARGAS",
+   "CarneEntra": "60697",
+   "Jug_Entra": "DANIEL NOGUEIRA",
+   "camiseta": "14",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "62629",
+   "Jug_Sale": "JUAN FRANCISCO QUINTERO",
+   "CarneEntra": "69192",
+   "Jug_Entra": "DIEGO NOGUEIRA",
+   "camiseta": "41",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67019",
+   "Jug_Sale": "JUAN MARTIN POLETTO",
+   "CarneEntra": "66602",
+   "Jug_Entra": "EMILIANO CAUDURO",
+   "camiseta": "6",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "66600",
+   "Jug_Sale": "AGUSTIN MARCHETTI",
+   "CarneEntra": "64081",
+   "Jug_Entra": "GERONIMO MENDOZA",
+   "camiseta": "2",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "67018",
+   "Jug_Sale": "JOAQUIN RAMIREZ",
+   "CarneEntra": "65291",
+   "Jug_Entra": "EMILIANO SALGUEIRO",
+   "camiseta": "21",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "66516",
+   "Jug_Sale": "JUAN MANUEL BARRIOS",
+   "CarneEntra": "66604",
+   "Jug_Entra": "IGNACIO DOMINGUEZ",
+   "camiseta": "15",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "63945",
+   "Jug_Sale": "CONSTANTINO AROCENA",
+   "CarneEntra": "64247",
+   "Jug_Entra": "MATEO NIETO",
+   "camiseta": "18",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "65295",
+   "Jug_Sale": "BAUTISTA SOSA",
+   "CarneEntra": "66600",
+   "Jug_Entra": "AGUSTIN MARCHETTI",
+   "camiseta": "5",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "61623",
+   "Jug_Sale": "PABLO MARCELO TOPOLANSKY",
+   "CarneEntra": "66516",
+   "Jug_Entra": "JUAN MANUEL BARRIOS",
+   "camiseta": "17",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "65295",
+   "Jug_Sale": "BAUTISTA SOSA",
+   "CarneEntra": "63945",
+   "Jug_Entra": "CONSTANTINO AROCENA",
+   "camiseta": "10",
+   "minutos": "35"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "63945",
+   "Nombre": "CONSTANTINO AROCENA",
+   "minutos": "36",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64247",
+   "Nombre": "MATEO NIETO",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64247",
+   "Nombre": "MATEO NIETO",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64247",
+   "Nombre": "MATEO NIETO",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

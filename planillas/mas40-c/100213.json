@@ -1,0 +1,304 @@
+{
+ "id": "100213",
+ "categoria": "mas40-c",
+ "serie": "40S23",
+ "fecha": 4,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "LATINO FUTBOL CLUB",
+ "visitante": "ARQUITECTURA JRS.",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "305",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 2",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-06-20 11:00:00",
+  "Fecha_fin": "2026-06-20 11:00:00",
+  "Locatario": "LATINO FUTBOL CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "ARQUITECTURA JRS.",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "15611",
+   "Nombre": "JUAN PABLO BIANCHI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "28680",
+   "Nombre": "RAUL ALFREDO FRAGA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "23817",
+   "Nombre": "ALEJANDRO JOSE NEVES",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64348",
+   "Nombre": "RAMIRO DANIEL COSTA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "18876",
+   "Nombre": "CONRADO MANUEL FRAU",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "17833",
+   "Nombre": "AGUSTIN MARIA ILLARAMENDI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "16962",
+   "Nombre": "PAOLO PASCUAL VIOLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "17436",
+   "Nombre": "ALFREDO MARTIN JUBIN",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "61736",
+   "Nombre": "PABLO SEBASTIAN MIRANDA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "21523",
+   "Nombre": "GASTON LEWI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57703",
+   "Nombre": "JORGE ANDRES VONDER",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "24630",
+   "Nombre": "DANIEL IGNACIO DIAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "34872",
+   "Nombre": "SALVADOR DANGIOLILLO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "65224",
+   "Nombre": "LUIS SEBASTIAN VILLALBA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "21051",
+   "Nombre": "WALTER FEDERICO PEREZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "17884",
+   "Nombre": "DIEGO ALEJANDRO VILLAR",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "30818",
+   "Nombre": "PABLO FRADILETTI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "26469",
+   "Nombre": "OSCAR MARTIN BADALA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "18044",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "16685",
+   "Nombre": "SEBASTIAN TURELL",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "20909",
+   "Nombre": "JUAN MANUEL BLANCO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "42426",
+   "Nombre": "GERMAN PEREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61736",
+   "Jug_Sale": "PABLO SEBASTIAN MIRANDA",
+   "CarneEntra": "19853",
+   "Jug_Entra": "GERARDO SEBASTIAN FANJUL",
+   "camiseta": "17",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "57703",
+   "Jug_Sale": "JORGE ANDRES VONDER",
+   "CarneEntra": "18140",
+   "Jug_Entra": "JUAN ENRIQUE ARTAGAVEYTIA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16962",
+   "Jug_Sale": "PAOLO PASCUAL VIOLA",
+   "CarneEntra": "61736",
+   "Jug_Entra": "PABLO SEBASTIAN MIRANDA",
+   "camiseta": "15",
+   "minutos": "90"
+  },
+  {
+   "CarneSale": "64348",
+   "Jug_Sale": "RAMIRO DANIEL COSTA",
+   "CarneEntra": "33571",
+   "Jug_Entra": "OSCAR DANIEL FERNANDEZ",
+   "camiseta": "23",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "21523",
+   "Jug_Sale": "GASTON LEWI",
+   "CarneEntra": "47213",
+   "Jug_Entra": "MIGUEL ANGEL MOREIRA",
+   "camiseta": "11",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "18876",
+   "Jug_Sale": "CONRADO MANUEL FRAU",
+   "CarneEntra": "52344",
+   "Jug_Entra": "MARCELO ALEJANDRO PEÑA",
+   "camiseta": "7",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65224",
+   "Jug_Sale": "LUIS SEBASTIAN VILLALBA",
+   "CarneEntra": "26116",
+   "Jug_Entra": "LEONARDO FACUNDO SORIA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30818",
+   "Jug_Sale": "PABLO FRADILETTI",
+   "CarneEntra": "53691",
+   "Jug_Entra": "LEONARDO JAVIER DIAZ",
+   "camiseta": "89",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20909",
+   "Jug_Sale": "JUAN MANUEL BLANCO",
+   "CarneEntra": "13496",
+   "Jug_Entra": "MARCELO JACQUES",
+   "camiseta": "17",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "53691",
+   "Jug_Sale": "LEONARDO JAVIER DIAZ",
+   "CarneEntra": "27004",
+   "Jug_Entra": "WILSON ANDRES CORIA",
+   "camiseta": "19",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "16685",
+   "Jug_Sale": "SEBASTIAN TURELL",
+   "CarneEntra": "33969",
+   "Jug_Entra": "JAVIER CURIEL",
+   "camiseta": "10",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "13496",
+   "Jug_Sale": "MARCELO JACQUES",
+   "CarneEntra": "51375",
+   "Jug_Entra": "DORON URWICZ",
+   "camiseta": "16",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57703",
+   "Nombre": "JORGE ANDRES VONDER",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "42426",
+   "Nombre": "GERMAN PEREZ",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "RAUL ALFREDO FRAGA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "AGUSTIN MARIA ILLARAMENDI",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "JORGE ANDRES VONDER",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "OSCAR MARTIN BADALA",
+   "observaciones": ""
+  }
+ ]
+}

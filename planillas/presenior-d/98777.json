@@ -1,0 +1,284 @@
+{
+ "id": "98777",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "ESTUDIANTES ESPAÑOLES",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "608",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-05-16 11:00:00",
+  "Fecha_fin": "2026-05-16 11:00:00",
+  "Locatario": "ESTUDIANTES ESPAÑOLES",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "32352",
+   "Nombre": "DIEGO IGNACIO RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44745",
+   "Nombre": "CAMILO CASAS",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "41404",
+   "Nombre": "SANTIAGO BALLETTO BALLETTO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "26279",
+   "Nombre": "RODRIGO EMILIANO ANTELO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31375",
+   "Nombre": "GONZALO CAIRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "34626",
+   "Nombre": "RODRIGO SEBASTIAN ANDRADA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "23946",
+   "Nombre": "ALEJANDRO AGUSTIN DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "41417",
+   "Nombre": "MAURICIO PELUFFO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "43679",
+   "Nombre": "BRUNO ERNESTO ALARIO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "23753",
+   "Nombre": "DIEGO MAURICIO ACOSTA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "29200",
+   "Nombre": "JAVIER RODRIGUEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "21036",
+   "Nombre": "JUAN AGUSTIN MURIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27384",
+   "Nombre": "NICOLAS ESTEVEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "20392",
+   "Nombre": "SEBASTIAN MOREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "20251",
+   "Nombre": "PABLO HERRERA",
+   "camiseta": "37",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "38649",
+   "Nombre": "ADRIAN RIBERO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "34281",
+   "Nombre": "MIGUEL PITETTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "33066",
+   "Nombre": "RAFAEL ESTEBAN GIMENEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "23486",
+   "Nombre": "SEBASTIAN VIDAL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "27751",
+   "Nombre": "GUZMAN DANIEL MONTGOMERY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "25908",
+   "Nombre": "JUAN MANUEL LAZBAL",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "34626",
+   "Jug_Sale": "RODRIGO SEBASTIAN ANDRADA",
+   "CarneEntra": "61545",
+   "Jug_Entra": "RODRIGO DANIEL BALBI",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41404",
+   "Jug_Sale": "SANTIAGO BALLETTO BALLETTO",
+   "CarneEntra": "67556",
+   "Jug_Entra": "ADRIAN MARCEL CARRION",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "41417",
+   "Jug_Sale": "MAURICIO PELUFFO",
+   "CarneEntra": "41079",
+   "Jug_Entra": "RODRIGO MARCEL OVIEDO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29200",
+   "Jug_Sale": "JAVIER RODRIGUEZ",
+   "CarneEntra": "33389",
+   "Jug_Entra": "VALENTIN CAFARO",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31375",
+   "Jug_Sale": "GONZALO CAIRO",
+   "CarneEntra": "20356",
+   "Jug_Entra": "FERNANDO SIMON BARCELO",
+   "camiseta": "14",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "44745",
+   "Jug_Sale": "CAMILO CASAS",
+   "CarneEntra": "41852",
+   "Jug_Entra": "GASTON FEDERICO VAURO",
+   "camiseta": "6",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "23946",
+   "Jug_Sale": "ALEJANDRO AGUSTIN DIAZ",
+   "CarneEntra": "28364",
+   "Jug_Entra": "DANIEL SAULEDA",
+   "camiseta": "28",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "34281",
+   "Jug_Sale": "MIGUEL PITETTA",
+   "CarneEntra": "18387",
+   "Jug_Entra": "ALVARO BELISTRI",
+   "camiseta": "5",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "20251",
+   "Jug_Sale": "PABLO HERRERA",
+   "CarneEntra": "63840",
+   "Jug_Entra": "EMILIO NICOLAS CAMEJO",
+   "camiseta": "50",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "25908",
+   "Jug_Sale": "JUAN MANUEL LAZBAL",
+   "CarneEntra": "34281",
+   "Jug_Entra": "MIGUEL PITETTA",
+   "camiseta": "19",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "33066",
+   "Jug_Sale": "RAFAEL ESTEBAN GIMENEZ",
+   "CarneEntra": "51479",
+   "Jug_Entra": "LUIS ANDRES SOSA",
+   "camiseta": "37",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "23486",
+   "Jug_Sale": "SEBASTIAN VIDAL",
+   "CarneEntra": "33066",
+   "Jug_Entra": "RAFAEL ESTEBAN GIMENEZ",
+   "camiseta": "10",
+   "minutos": "87"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "minutos": "38",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "SEBASTIAN MOREIRA",
+   "observaciones": ""
+  }
+ ]
+}

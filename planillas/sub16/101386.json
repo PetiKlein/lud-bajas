@@ -1,0 +1,364 @@
+{
+ "id": "101386",
+ "categoria": "sub16",
+ "serie": "16-42",
+ "fecha": 6,
+ "fechaHora": "2026-08-30 13:30:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "THE BRITISH SCHOOL",
+ "gl": 3,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "246",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 4 RUEDA 2",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-08-30 15:15:00",
+  "Fecha_fin": "2026-08-30 15:15:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "THE BRITISH SCHOOL",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63944",
+   "Nombre": "ROBERTO SAENZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64081",
+   "Nombre": "GERONIMO MENDOZA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "63948",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "66603",
+   "Nombre": "BAUTISTA PASSEGGI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67912",
+   "Nombre": "JUAN  MANUEL PICERNO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "66600",
+   "Nombre": "AGUSTIN MARCHETTI",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63940",
+   "Nombre": "GERONIMO SPERANZA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67019",
+   "Nombre": "JUAN MARTIN POLETTO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "63945",
+   "Nombre": "CONSTANTINO AROCENA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "66516",
+   "Nombre": "JUAN MANUEL BARRIOS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64247",
+   "Nombre": "MATEO NIETO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61654",
+   "Nombre": "JUAN MANUEL MOREIRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "63186",
+   "Nombre": "JUAN SEBASTIAN JIMENEZ DE ARECHAGA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "67992",
+   "Nombre": "JUAN IGNACIO RODRIGUEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65049",
+   "Nombre": "JUAN ALFONSO ODDONE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64668",
+   "Nombre": "ALFONSO CAO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65058",
+   "Nombre": "IGNACIO AGUSTIN NOVEGIL",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "62239",
+   "Nombre": "ANDRES TERCERO PEREZ DEL CASTILLO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65039",
+   "Nombre": "ALFONSO CASTILLO",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "65064",
+   "Nombre": "JUAN MARTIN FRECHOU",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65413",
+   "Nombre": "ISIDORO ALBERTO JAIME",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65052",
+   "Nombre": "TOMAS VILLAR",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66603",
+   "Jug_Sale": "BAUTISTA PASSEGGI",
+   "CarneEntra": "66601",
+   "Jug_Entra": "BAUTISTA GALLOTTI",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63944",
+   "Jug_Sale": "ROBERTO SAENZ",
+   "CarneEntra": "67020",
+   "Jug_Entra": "FELIPE DURAND",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67912",
+   "Jug_Sale": "JUAN  MANUEL PICERNO",
+   "CarneEntra": "66602",
+   "Jug_Entra": "EMILIANO CAUDURO",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67019",
+   "Jug_Sale": "JUAN MARTIN POLETTO",
+   "CarneEntra": "65295",
+   "Jug_Entra": "BAUTISTA SOSA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63945",
+   "Jug_Sale": "CONSTANTINO AROCENA",
+   "CarneEntra": "64083",
+   "Jug_Entra": "BAUTISTA DE SOUZA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64247",
+   "Jug_Sale": "MATEO NIETO",
+   "CarneEntra": "66604",
+   "Jug_Entra": "IGNACIO DOMINGUEZ",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66516",
+   "Jug_Sale": "JUAN MANUEL BARRIOS",
+   "CarneEntra": "67018",
+   "Jug_Entra": "JOAQUIN RAMIREZ",
+   "camiseta": "6",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63948",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "64247",
+   "Jug_Entra": "MATEO NIETO",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "65295",
+   "Jug_Sale": "BAUTISTA SOSA",
+   "CarneEntra": "63945",
+   "Jug_Entra": "CONSTANTINO AROCENA",
+   "camiseta": "16",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67992",
+   "Jug_Sale": "JUAN IGNACIO RODRIGUEZ",
+   "CarneEntra": "65035",
+   "Jug_Entra": "FRANCISCO IÑAKI MARTINEZ",
+   "camiseta": "30",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "64668",
+   "Jug_Sale": "ALFONSO CAO",
+   "CarneEntra": "62989",
+   "Jug_Entra": "BENJAMIN RISSO",
+   "camiseta": "99",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65413",
+   "Jug_Sale": "ISIDORO ALBERTO JAIME",
+   "CarneEntra": "62241",
+   "Jug_Entra": "BENJAMIN ALBERTO BRAUSE",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65039",
+   "Jug_Sale": "ALFONSO CASTILLO",
+   "CarneEntra": "61665",
+   "Jug_Entra": "JUAN MIGUEL AGUERRE",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65052",
+   "Jug_Sale": "TOMAS VILLAR",
+   "CarneEntra": "65053",
+   "Jug_Entra": "JUAN BOSCH",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62989",
+   "Jug_Sale": "BENJAMIN RISSO",
+   "CarneEntra": "65032",
+   "Jug_Entra": "BENJAMIN ABBATEMARCO",
+   "camiseta": "28",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "65049",
+   "Jug_Sale": "JUAN ALFONSO ODDONE",
+   "CarneEntra": "61661",
+   "Jug_Entra": "MATEO TARIGO",
+   "camiseta": "94",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "65064",
+   "Jug_Sale": "JUAN MARTIN FRECHOU",
+   "CarneEntra": "65038",
+   "Jug_Entra": "ANTONIO RUPENIAN",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "65058",
+   "Jug_Sale": "IGNACIO AGUSTIN NOVEGIL",
+   "CarneEntra": "65046",
+   "Jug_Entra": "VITTORIO GIUSEPPE CLERICI",
+   "camiseta": "13",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63940",
+   "Nombre": "GERONIMO SPERANZA",
+   "minutos": "61",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64247",
+   "Nombre": "MATEO NIETO",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66516",
+   "Nombre": "JUAN MANUEL BARRIOS",
+   "minutos": "58",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62241",
+   "Nombre": "BENJAMIN ALBERTO BRAUSE",
+   "minutos": "83",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65035",
+   "Nombre": "FRANCISCO IÑAKI MARTINEZ",
+   "minutos": "74",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65053",
+   "Nombre": "JUAN BOSCH",
+   "minutos": "81",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65064",
+   "Nombre": "JUAN MARTIN FRECHOU",
+   "minutos": "18",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

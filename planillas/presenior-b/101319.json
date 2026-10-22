@@ -1,0 +1,318 @@
+{
+ "id": "101319",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "PALLOTTI UNIVERSITARIO",
+ "visitante": "PERRY SEXTA UNIVERSITARIO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "151",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-08-29 13:15:00",
+  "Fecha_fin": "2026-08-29 13:15:00",
+  "Locatario": "PALLOTTI UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "PERRY SEXTA UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67586",
+   "Nombre": "DIEGO GASTON MUIÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38888",
+   "Nombre": "ANDRES RICARDO SOSA",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "68720",
+   "Nombre": "GABRIEL GLIELMA",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "37505",
+   "Nombre": "ANDRES DENES",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58534",
+   "Nombre": "MAURO GUGLIALMELLI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "27222",
+   "Nombre": "PABLO MARTIN HERNANDEZ",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68668",
+   "Nombre": "ALVARO DANIEL NOBLE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "62798",
+   "Nombre": "RODRIGO GONNZALEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "28849",
+   "Nombre": "EMILIANO SOSA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38358",
+   "Nombre": "NICOLAS ALVAREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "25286",
+   "Nombre": "MATIAS SOSA",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57513",
+   "Nombre": "MARTIN TORRES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "37677",
+   "Nombre": "GABRIEL CANTERA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "24867",
+   "Nombre": "GUILLERMO RUIZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "43467",
+   "Nombre": "NICOLAS PATRICIO LLAMBI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "32042",
+   "Nombre": "RODRIGO ERNESTO CAPRARIO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "52218",
+   "Nombre": "MARTIN VILCHE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "24836",
+   "Nombre": "AGUSTIN ROLDAN",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "30262",
+   "Nombre": "SEBASTIAN MARIO LADO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "30203",
+   "Nombre": "MAXIMILIANO MATEAUDA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "50525",
+   "Nombre": "SEBASTIAN ANDRES FLORES",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "38941",
+   "Nombre": "CHRISTIAN NICOLAS ALVERNAZ",
+   "camiseta": "13",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "25286",
+   "Jug_Sale": "MATIAS SOSA",
+   "CarneEntra": "27654",
+   "Jug_Entra": "ISMAEL NADAL",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68720",
+   "Jug_Sale": "GABRIEL GLIELMA",
+   "CarneEntra": "28455",
+   "Jug_Entra": "FEDERICO BRUZZONE",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58534",
+   "Jug_Sale": "MAURO GUGLIALMELLI",
+   "CarneEntra": "37650",
+   "Jug_Entra": "GONZALO SEBASTIAN MARTINICORENA",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "27222",
+   "Jug_Sale": "PABLO MARTIN HERNANDEZ",
+   "CarneEntra": "40814",
+   "Jug_Entra": "AGUSTIN ALVEZ",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "37505",
+   "Jug_Sale": "ANDRES DENES",
+   "CarneEntra": "33224",
+   "Jug_Entra": "MARCIO MAÑANA",
+   "camiseta": "7",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "38888",
+   "Jug_Sale": "ANDRES RICARDO SOSA",
+   "CarneEntra": "21100",
+   "Jug_Entra": "RODRIGO LUJAN",
+   "camiseta": "25",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "52218",
+   "Jug_Sale": "MARTIN VILCHE",
+   "CarneEntra": "24958",
+   "Jug_Entra": "MATHIAS NICOLAS VARELA",
+   "camiseta": "6",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "37677",
+   "Jug_Sale": "GABRIEL CANTERA",
+   "CarneEntra": "49082",
+   "Jug_Entra": "MAXIMILIANO MILAN",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24867",
+   "Jug_Sale": "GUILLERMO RUIZ",
+   "CarneEntra": "52190",
+   "Jug_Entra": "EDUARDO SEBASTIAN DA CUNHA",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30262",
+   "Jug_Sale": "SEBASTIAN MARIO LADO",
+   "CarneEntra": "47661",
+   "Jug_Entra": "EMILIANO MIELS SANTOS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50525",
+   "Jug_Sale": "SEBASTIAN ANDRES FLORES",
+   "CarneEntra": "26146",
+   "Jug_Entra": "HORACIO ALDO MONTORO",
+   "camiseta": "21",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "43467",
+   "Jug_Sale": "NICOLAS PATRICIO LLAMBI",
+   "CarneEntra": "52556",
+   "Jug_Entra": "RODRIGO ANDRES GONZALEZ",
+   "camiseta": "19",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "32042",
+   "Jug_Sale": "RODRIGO ERNESTO CAPRARIO",
+   "CarneEntra": "40804",
+   "Jug_Entra": "BRUNO DANIEL ESAIN",
+   "camiseta": "15",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "38941",
+   "Jug_Sale": "CHRISTIAN NICOLAS ALVERNAZ",
+   "CarneEntra": "54338",
+   "Jug_Entra": "MARCELO DANIEL PITTAMEGLIO",
+   "camiseta": "14",
+   "minutos": "59"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "25286",
+   "Nombre": "MATIAS SOSA",
+   "minutos": "38",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "24958",
+   "Nombre": "MATHIAS NICOLAS VARELA",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "38941",
+   "Nombre": "CHRISTIAN NICOLAS ALVERNAZ",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "NICOLAS ALVAREZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "AGUSTIN ROLDAN",
+   "observaciones": ""
+  }
+ ]
+}

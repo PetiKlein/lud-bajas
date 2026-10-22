@@ -1,0 +1,303 @@
+{
+ "id": "100871",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "LA BLANQUEADA",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "118",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-08-15 11:00:00",
+  "Fecha_fin": "2026-08-15 11:00:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "LA BLANQUEADA",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "34543",
+   "Nombre": "HERNAN GOMEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30511",
+   "Nombre": "BRUNO ERNESTO MILAN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "54800",
+   "Nombre": "ADRIAN AGUIAR GERARDO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38595",
+   "Nombre": "PABLO FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "34110",
+   "Nombre": "RODRIGO CARSIN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "37081",
+   "Nombre": "SANTIAGO LAGO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23905",
+   "Nombre": "IGNACIO RAFAEL D AVILA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "35037",
+   "Nombre": "FEDERICO CARSIN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26514",
+   "Nombre": "JUAN PEDRO CHIAPPARA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "31053",
+   "Nombre": "MARTIN NICOLAS BINCE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "34812",
+   "Nombre": "FELIPE MOTTA",
+   "camiseta": "50",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37989",
+   "Nombre": "GABRIEL GUILLEN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33288",
+   "Nombre": "RODRIGO GUSTAVO FERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "25091",
+   "Nombre": "SERGIO MAROTTA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "25090",
+   "Nombre": "DARIO MACEDO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "54318",
+   "Nombre": "SANTIAGO GABRIEL RIERA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "26415",
+   "Nombre": "MARTIN GABRIEL MORILLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "26042",
+   "Nombre": "DAVID JHONATAN MENESES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "39881",
+   "Nombre": "GERMAN MARTINEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "34431",
+   "Nombre": "CLAUDIO ANDRES ZANCHETTA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "19194",
+   "Nombre": "AGUSTIN FARACHIO",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33307",
+   "Nombre": "NICOLAS SILVERA",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "30511",
+   "Jug_Sale": "BRUNO ERNESTO MILAN",
+   "CarneEntra": "26840",
+   "Jug_Entra": "HECTOR MARIANO MENDEZ",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31053",
+   "Jug_Sale": "MARTIN NICOLAS BINCE",
+   "CarneEntra": "23869",
+   "Jug_Entra": "SANTIAGO ESTEVEZ",
+   "camiseta": "13",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "34110",
+   "Jug_Sale": "RODRIGO CARSIN",
+   "CarneEntra": "24246",
+   "Jug_Entra": "FACUNDO MARTIN FREGOSSI",
+   "camiseta": "33",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "54800",
+   "Jug_Sale": "ADRIAN AGUIAR GERARDO",
+   "CarneEntra": "29901",
+   "Jug_Entra": "CAMILO LAGUNA",
+   "camiseta": "16",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "35037",
+   "Jug_Sale": "FEDERICO CARSIN",
+   "CarneEntra": "39911",
+   "Jug_Entra": "LORENZO RAUL TENCA",
+   "camiseta": "29",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "34812",
+   "Jug_Sale": "FELIPE MOTTA",
+   "CarneEntra": "22028",
+   "Jug_Entra": "JHONATAN RICARDO MARTINEZ",
+   "camiseta": "3",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "33288",
+   "Jug_Sale": "RODRIGO GUSTAVO FERNANDEZ",
+   "CarneEntra": "23208",
+   "Jug_Entra": "PABLO BRANDO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54318",
+   "Jug_Sale": "SANTIAGO GABRIEL RIERA",
+   "CarneEntra": "21216",
+   "Jug_Entra": "GABRIEL TORRES TORRES",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26042",
+   "Jug_Sale": "DAVID JHONATAN MENESES",
+   "CarneEntra": "64286",
+   "Jug_Entra": "DIEGO ANDRE GARCIA",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34431",
+   "Jug_Sale": "CLAUDIO ANDRES ZANCHETTA",
+   "CarneEntra": "27597",
+   "Jug_Entra": "SANTIAGO LOPEZ PINTOS",
+   "camiseta": "91",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "26415",
+   "Jug_Sale": "MARTIN GABRIEL MORILLO",
+   "CarneEntra": "39193",
+   "Jug_Entra": "FRANCO JAVIER VETRALE",
+   "camiseta": "24",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "39881",
+   "Jug_Sale": "GERMAN MARTINEZ",
+   "CarneEntra": "25276",
+   "Jug_Entra": "LEONARDO CIRO ROMANO",
+   "camiseta": "9",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "26840",
+   "Nombre": "HECTOR MARIANO MENDEZ",
+   "minutos": "89",
+   "EnContra": "0"
+  },
+  {
+   "carne": "34812",
+   "Nombre": "FELIPE MOTTA",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "23208",
+   "Nombre": "PABLO BRANDO",
+   "minutos": "84",
+   "EnContra": "1"
+  },
+  {
+   "carne": "39881",
+   "Nombre": "GERMAN MARTINEZ",
+   "minutos": "57",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "PABLO FERNANDEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

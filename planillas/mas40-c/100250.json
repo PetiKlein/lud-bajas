@@ -1,0 +1,304 @@
+{
+ "id": "100250",
+ "categoria": "mas40-c",
+ "serie": "40S22",
+ "fecha": 4,
+ "fechaHora": "2026-06-20 11:20:00",
+ "cancha": "SANDY FUTBOL",
+ "local": "CLUB RICHARD ANDERSON UNIV.",
+ "visitante": "PERRY JUVENTUD",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "259",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 1",
+  "Cancha": "SANDY FUTBOL",
+  "Fecha_Inicio": "2026-06-20 00:00:00",
+  "Fecha_fin": "2026-06-20 00:00:00",
+  "Locatario": "CLUB RICHARD ANDERSON UNIV.",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "PERRY JUVENTUD",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "20259",
+   "Nombre": "FELIPE CASTILLO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25567",
+   "Nombre": "FERNANDO JAVIER COLLAZO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "17456",
+   "Nombre": "LAZARO GABRIEL CUNHA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "34227",
+   "Nombre": "GASTON JORGE BRUNO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "42479",
+   "Nombre": "MARTIN PABLO ALAGIA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "28826",
+   "Nombre": "MILTON EDGARDO DE OLIVEIRA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "17178",
+   "Nombre": "EDUARDO ANDRES BALLINI",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "25997",
+   "Nombre": "SEBASTIAN SARKISIAN",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "16260",
+   "Nombre": "GERMAN JORGE RUIZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "20411",
+   "Nombre": "SANTIAGO ENRIQUE ARIGON",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "16373",
+   "Nombre": "NICOLAS PIZZO",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "13170",
+   "Nombre": "VICTOR ALEJANDRO MAIDANA",
+   "camiseta": "0",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "13717",
+   "Nombre": "PEDRO ALEJANDRO TRIACA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62913",
+   "Nombre": "CRISTIAN DANIEL CARRERAS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16050",
+   "Nombre": "MILTON JULIO GALLAS",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "24144",
+   "Nombre": "ALFREDO ALVAREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "12758",
+   "Nombre": "GIANNI FILOSI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "34618",
+   "Nombre": "DAMIAN EDUARDO DIAZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "13073",
+   "Nombre": "JUAN IGNACIO RIJO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "13752",
+   "Nombre": "WALTER ROBERTO VIERA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "27542",
+   "Nombre": "PABLO NICOLAS SILVEIRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "38336",
+   "Nombre": "ANDRES EDUARDO GASTEASORO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "28826",
+   "Jug_Sale": "MILTON EDGARDO DE OLIVEIRA",
+   "CarneEntra": "19074",
+   "Jug_Entra": "NESTOR ADRIAN ALONSO",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20259",
+   "Jug_Sale": "FELIPE CASTILLO",
+   "CarneEntra": "18045",
+   "Jug_Entra": "PABLO SEBASTIAN GONZALEZ",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20411",
+   "Jug_Sale": "SANTIAGO ENRIQUE ARIGON",
+   "CarneEntra": "67456",
+   "Jug_Entra": "PABLO CABELLERO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25567",
+   "Jug_Sale": "FERNANDO JAVIER COLLAZO",
+   "CarneEntra": "18189",
+   "Jug_Entra": "GUSTAVO DIEGO LASARTE",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16373",
+   "Jug_Sale": "NICOLAS PIZZO",
+   "CarneEntra": "26139",
+   "Jug_Entra": "LUIS MAURICIO VENTURINI",
+   "camiseta": "15",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "17178",
+   "Jug_Sale": "EDUARDO ANDRES BALLINI",
+   "CarneEntra": "28826",
+   "Jug_Entra": "MILTON EDGARDO DE OLIVEIRA",
+   "camiseta": "22",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "25997",
+   "Jug_Sale": "SEBASTIAN SARKISIAN",
+   "CarneEntra": "25567",
+   "Jug_Entra": "FERNANDO JAVIER COLLAZO",
+   "camiseta": "4",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "13073",
+   "Jug_Sale": "JUAN IGNACIO RIJO",
+   "CarneEntra": "63739",
+   "Jug_Entra": "LUIS EDUARDO ORLANDO",
+   "camiseta": "11",
+   "minutos": "19"
+  },
+  {
+   "CarneSale": "62913",
+   "Jug_Sale": "CRISTIAN DANIEL CARRERAS",
+   "CarneEntra": "12635",
+   "Jug_Entra": "MARCOS JAVIER MANEIRO",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16050",
+   "Jug_Sale": "MILTON JULIO GALLAS",
+   "CarneEntra": "10802",
+   "Jug_Entra": "CARLOS EDUARDO DIDE",
+   "camiseta": "55",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "27542",
+   "Jug_Sale": "PABLO NICOLAS SILVEIRA",
+   "CarneEntra": "62913",
+   "Jug_Entra": "CRISTIAN DANIEL CARRERAS",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "38336",
+   "Jug_Sale": "ANDRES EDUARDO GASTEASORO",
+   "CarneEntra": "27542",
+   "Jug_Entra": "PABLO NICOLAS SILVEIRA",
+   "camiseta": "4",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "17456",
+   "Nombre": "LAZARO GABRIEL CUNHA",
+   "minutos": "12",
+   "EnContra": "0"
+  },
+  {
+   "carne": "28826",
+   "Nombre": "MILTON EDGARDO DE OLIVEIRA",
+   "minutos": "21",
+   "EnContra": "0"
+  },
+  {
+   "carne": "42479",
+   "Nombre": "MARTIN PABLO ALAGIA",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "42479",
+   "Nombre": "MARTIN PABLO ALAGIA",
+   "minutos": "77",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "27542",
+   "Nombre": "PABLO NICOLAS SILVEIRA",
+   "minutos": "5",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,276 @@
+{
+ "id": "102891",
+ "categoria": "sub16",
+ "serie": "16-32",
+ "fecha": 4,
+ "fechaHora": "2026-10-11 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "211",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 3 RUEDA 2",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-11 15:15:00",
+  "Fecha_fin": "2026-10-11 15:15:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68385",
+   "Nombre": "LEANDRO JOAQUIN VECINO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68383",
+   "Nombre": "RODRIGO ATILIO GARCIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63014",
+   "Nombre": "TIMOTEO ZORRILLA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65180",
+   "Nombre": "RAFAEL DONEGANA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "60428",
+   "Nombre": "BLAS TRAVERS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68744",
+   "Nombre": "FRANCO SANTAMARIA",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "63193",
+   "Nombre": "JUAN IGNACIO SANTOS",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "63035",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "60736",
+   "Nombre": "PEDRO ARQUERO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62749",
+   "Nombre": "JOAQUIN ALEJANDRO GARAT",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "68456",
+   "Nombre": "JUAN MARTIN SOSA",
+   "camiseta": "72",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61771",
+   "Nombre": "FILIPPO DE MORI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63918",
+   "Nombre": "FELIPE MORIS",
+   "camiseta": "34",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63920",
+   "Nombre": "FELIPE ZUBILLAGA",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "66320",
+   "Nombre": "BENJAMIN GRUDZIEN",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "65599",
+   "Nombre": "SEBASTIAN MARTINEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "64007",
+   "Nombre": "LAUTARO FERNANDEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "65044",
+   "Nombre": "NICOLAS CUELLO",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "63942",
+   "Nombre": "SANTINO MORISIO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63037",
+   "Nombre": "NICOLAS SZAMES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62740",
+   "Nombre": "FELIPE CLEMENT",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "62741",
+   "Nombre": "PEDRO MIGNONE",
+   "camiseta": "60",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63014",
+   "Jug_Sale": "TIMOTEO ZORRILLA",
+   "CarneEntra": "65151",
+   "Jug_Entra": "MATEO EMANUEL ROQUETA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68744",
+   "Jug_Sale": "FRANCO SANTAMARIA",
+   "CarneEntra": "65152",
+   "Jug_Entra": "JOAQUN REY",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68456",
+   "Jug_Sale": "JUAN MARTIN SOSA",
+   "CarneEntra": "65186",
+   "Jug_Entra": "RAUL SEBASTIAN CAZABAN",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62749",
+   "Jug_Sale": "JOAQUIN ALEJANDRO GARAT",
+   "CarneEntra": "68190",
+   "Jug_Entra": "RENATO ANDRADE",
+   "camiseta": "95",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68383",
+   "Jug_Sale": "RODRIGO ATILIO GARCIA",
+   "CarneEntra": "63019",
+   "Jug_Entra": "JUAN BAUTISTA MUÑOZ",
+   "camiseta": "23",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "68385",
+   "Jug_Sale": "LEANDRO JOAQUIN VECINO",
+   "CarneEntra": "62743",
+   "Jug_Entra": "XABI JORGE PEREZ",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "65180",
+   "Jug_Sale": "RAFAEL DONEGANA",
+   "CarneEntra": "65183",
+   "Jug_Entra": "JOAQUIN GERSCHUNI",
+   "camiseta": "9",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "60428",
+   "Jug_Sale": "BLAS TRAVERS",
+   "CarneEntra": "68485",
+   "Jug_Entra": "THIAGO MEDINA",
+   "camiseta": "72",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63920",
+   "Jug_Sale": "FELIPE ZUBILLAGA",
+   "CarneEntra": "63919",
+   "Jug_Entra": "SANTINO AMAYA",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65599",
+   "Jug_Sale": "SEBASTIAN MARTINEZ",
+   "CarneEntra": "63921",
+   "Jug_Entra": "JOAQUIN ZUBILLAGA",
+   "camiseta": "74",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65152",
+   "Nombre": "JOAQUN REY",
+   "minutos": "79",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68190",
+   "Nombre": "RENATO ANDRADE",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63037",
+   "Nombre": "NICOLAS SZAMES",
+   "minutos": "77",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

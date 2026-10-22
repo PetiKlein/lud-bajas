@@ -1,0 +1,308 @@
+{
+ "id": "102313",
+ "categoria": "presenior-d",
+ "serie": "PSDPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "MATECHA",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "949",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"D\" PER. y DESC",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-09-26 13:15:00",
+  "Fecha_fin": "2026-09-26 13:15:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "MATECHA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "31313",
+   "Nombre": "LUIS DANIEL ROSSANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64581",
+   "Nombre": "ALVARO MONTELONGO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "67695",
+   "Nombre": "JUAN ANTONIO ALVAREZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "24842",
+   "Nombre": "ALEJANDRO ANDRES SOCA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "42234",
+   "Nombre": "AGUSTIN LABAT",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35395",
+   "Nombre": "MASSIMILIANO PECORA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "54392",
+   "Nombre": "RODRIGO ALBANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "38025",
+   "Nombre": "TOMAS DIEGO CURBELO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "59690",
+   "Nombre": "GONZALO GABRIEL",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "28662",
+   "Nombre": "JOAQUIN AMENGUAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51361",
+   "Nombre": "FABRICIO PEREYRA",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "34858",
+   "Nombre": "DARDO LUIS ARISMENDI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62208",
+   "Nombre": "ANDRES MARTIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "53616",
+   "Nombre": "MAURICIO VEGA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "25641",
+   "Nombre": "MAICOHOL GABRIEL GARCIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "26640",
+   "Nombre": "JUAN DIEGO ZUNINO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68883",
+   "Nombre": "HUGO FRANCISCO OLIVERA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65343",
+   "Nombre": "MAURICIO FABIAN COUSILLAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61724",
+   "Nombre": "LEANDRO REYES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65962",
+   "Nombre": "IGNACIO PEREIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "31780",
+   "Nombre": "JOSE IGNACIO GIL",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "36329",
+   "Nombre": "NICOLAS FABRIZIO DAMIAN",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59690",
+   "Jug_Sale": "GONZALO GABRIEL",
+   "CarneEntra": "28170",
+   "Jug_Entra": "JOAQUIN RAFFO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64581",
+   "Jug_Sale": "ALVARO MONTELONGO",
+   "CarneEntra": "28070",
+   "Jug_Entra": "ERNESTO ELGUE",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42234",
+   "Jug_Sale": "AGUSTIN LABAT",
+   "CarneEntra": "28617",
+   "Jug_Entra": "FEDERICO GARCIA",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38025",
+   "Jug_Sale": "TOMAS DIEGO CURBELO",
+   "CarneEntra": "31936",
+   "Jug_Entra": "FACUNDO DELGADO",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "51361",
+   "Jug_Sale": "FABRICIO PEREYRA",
+   "CarneEntra": "28027",
+   "Jug_Entra": "MARTIN PENA",
+   "camiseta": "28",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "28662",
+   "Jug_Sale": "JOAQUIN AMENGUAL",
+   "CarneEntra": "28287",
+   "Jug_Entra": "MARTIN CASTAGNA",
+   "camiseta": "32",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "35395",
+   "Jug_Sale": "MASSIMILIANO PECORA",
+   "CarneEntra": "38025",
+   "Jug_Entra": "TOMAS DIEGO CURBELO",
+   "camiseta": "10",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65343",
+   "Jug_Sale": "MAURICIO FABIAN COUSILLAS",
+   "CarneEntra": "45816",
+   "Jug_Entra": "FERNANDO ANDRES CERDA",
+   "camiseta": "8",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "61724",
+   "Jug_Sale": "LEANDRO REYES",
+   "CarneEntra": "36329",
+   "Jug_Entra": "NICOLAS FABRIZIO DAMIAN",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "53616",
+   "Jug_Sale": "MAURICIO VEGA",
+   "CarneEntra": "65343",
+   "Jug_Entra": "MAURICIO FABIAN COUSILLAS",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36329",
+   "Jug_Sale": "NICOLAS FABRIZIO DAMIAN",
+   "CarneEntra": "67414",
+   "Jug_Entra": "SEBASTIAN ALEJANDRO HAHN",
+   "camiseta": "27",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "36329",
+   "Jug_Sale": "NICOLAS FABRIZIO DAMIAN",
+   "CarneEntra": "67414",
+   "Jug_Entra": "SEBASTIAN ALEJANDRO HAHN",
+   "camiseta": "27",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "68883",
+   "Jug_Sale": "HUGO FRANCISCO OLIVERA",
+   "CarneEntra": "53616",
+   "Jug_Entra": "MAURICIO VEGA",
+   "camiseta": "11",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "53616",
+   "Jug_Sale": "MAURICIO VEGA",
+   "CarneEntra": "68883",
+   "Jug_Entra": "HUGO FRANCISCO OLIVERA",
+   "camiseta": "4",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "28617",
+   "Nombre": "FEDERICO GARCIA",
+   "minutos": "49",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MAICOHOL GABRIEL GARCIA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "JOSE IGNACIO GIL",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "NICOLAS FABRIZIO DAMIAN",
+   "observaciones": ""
+  }
+ ]
+}

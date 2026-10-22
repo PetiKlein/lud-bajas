@@ -1,0 +1,283 @@
+{
+ "id": "99359",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "HARAS CUC",
+ "local": "RIVER PLATE UNIVERSITARIO",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "175",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "HARAS CUC",
+  "Fecha_Inicio": "2026-05-30 11:00:00",
+  "Fecha_fin": "2026-05-30 11:00:00",
+  "Locatario": "RIVER PLATE UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35761",
+   "Nombre": "MARTIN FORNO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "19490",
+   "Nombre": "PABLO ANDRES GONZALEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "61117",
+   "Nombre": "FABIAN REDIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64148",
+   "Nombre": "ROBERTO EKKER",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "21571",
+   "Nombre": "GABRIEL SUAREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "40771",
+   "Nombre": "NICOLAS PERDOMO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "29363",
+   "Nombre": "RAFAEL ENRIQUE PERDOMO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "39847",
+   "Nombre": "JAIME GARCIA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "55272",
+   "Nombre": "GASTON RAFAEL PERGOLA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "22451",
+   "Nombre": "JUAN PABLO BUELA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "18274",
+   "Nombre": "ANDRES ANTONACCI",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "59466",
+   "Nombre": "JAVIER ZUBILLAGA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "13676",
+   "Nombre": "IGNACIO GALEANO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "20439",
+   "Nombre": "RODRIGO PABLO BAUBETA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21389",
+   "Nombre": "ALESSANDRO PASQUALE GIARDINO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64672",
+   "Nombre": "GONZALO VENDITTO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "22628",
+   "Nombre": "NICOLAS SAEZ",
+   "camiseta": "81",
+   "Capitan": ""
+  },
+  {
+   "carne": "19479",
+   "Nombre": "MIGUEL RUBINO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "20737",
+   "Nombre": "JAVIER GUSTAVO MARIÑO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "11361",
+   "Nombre": "CARLOS JAVIER SARACCO",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "14917",
+   "Nombre": "FEDERICO SASSI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "18067",
+   "Nombre": "JUAN MANUEL YAQUINTA",
+   "camiseta": "91",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "39847",
+   "Jug_Sale": "JAIME GARCIA",
+   "CarneEntra": "52517",
+   "Jug_Entra": "MARCELO EDUARDO PEREZ",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18274",
+   "Jug_Sale": "ANDRES ANTONACCI",
+   "CarneEntra": "26052",
+   "Jug_Entra": "PABLO SEBASTIAN FERNANDEZ",
+   "camiseta": "31",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22451",
+   "Jug_Sale": "JUAN PABLO BUELA",
+   "CarneEntra": "59168",
+   "Jug_Entra": "FERNANDO IGNACIO SILVA",
+   "camiseta": "1",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "61117",
+   "Jug_Sale": "FABIAN REDIN",
+   "CarneEntra": "24427",
+   "Jug_Entra": "MARTIN FERNANDO PUERTO",
+   "camiseta": "30",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "64148",
+   "Jug_Sale": "ROBERTO EKKER",
+   "CarneEntra": "51382",
+   "Jug_Entra": "MIGUEL ANGEL PASTORINO",
+   "camiseta": "26",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "40771",
+   "Jug_Sale": "NICOLAS PERDOMO",
+   "CarneEntra": "40772",
+   "Jug_Entra": "CLAUDIO FABIAN TEJERA",
+   "camiseta": "11",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "55272",
+   "Jug_Sale": "GASTON RAFAEL PERGOLA",
+   "CarneEntra": "33349",
+   "Jug_Entra": "GUSTAVO ELOY DELGADO",
+   "camiseta": "3",
+   "minutos": "62"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22628",
+   "Jug_Sale": "NICOLAS SAEZ",
+   "CarneEntra": "18056",
+   "Jug_Entra": "FELIPE GARCIA",
+   "camiseta": "40",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "19479",
+   "Jug_Sale": "MIGUEL RUBINO",
+   "CarneEntra": "58917",
+   "Jug_Entra": "IGNACIO ZUGARRAMURDI",
+   "camiseta": "57",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "64672",
+   "Jug_Sale": "GONZALO VENDITTO",
+   "CarneEntra": "12621",
+   "Jug_Entra": "CHAHIN ANDRES TCHAKIRIAN",
+   "camiseta": "4",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "14917",
+   "Jug_Sale": "FEDERICO SASSI",
+   "CarneEntra": "19479",
+   "Jug_Entra": "MIGUEL RUBINO",
+   "camiseta": "5",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "24427",
+   "Nombre": "MARTIN FERNANDO PUERTO",
+   "minutos": "85",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "18067",
+   "Nombre": "JUAN MANUEL YAQUINTA",
+   "minutos": "45",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "MARTIN FORNO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

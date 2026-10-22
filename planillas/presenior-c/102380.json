@@ -1,0 +1,263 @@
+{
+ "id": "102380",
+ "categoria": "presenior-c",
+ "serie": "PSCPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "DEPORTIVO MITRE",
+ "visitante": "CLARA JACKSON UNIVERSITARIO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "892",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"C\" PER. y DESC",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-26 13:00:00",
+  "Fecha_fin": "2026-09-26 13:00:00",
+  "Locatario": "DEPORTIVO MITRE",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLARA JACKSON UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47389",
+   "Nombre": "SEBASTIAN SILVA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33110",
+   "Nombre": "GABRIEL ARBIZA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "50049",
+   "Nombre": "DIEGO MARTIN ALBANO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "23889",
+   "Nombre": "ANDRES BAUDO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "54923",
+   "Nombre": "SANTIAGO ANDRES AVIERO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "36926",
+   "Nombre": "JUAN JOSE FILLAT",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "27523",
+   "Nombre": "JUAN FRANCISCO PEDROZO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "29857",
+   "Nombre": "GUILLERMO SLINGER",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "20621",
+   "Nombre": "MATEO IGNACIO CABRAL",
+   "camiseta": "27",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20285",
+   "Nombre": "RODRIGO GASTAMBIDE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "20276",
+   "Nombre": "GASTON LUIS MENENDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "40111",
+   "Nombre": "DIEGO ROJAS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "28183",
+   "Nombre": "LEONARDO BANCHERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "33810",
+   "Nombre": "RODRIGO SOBRADO",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "46032",
+   "Nombre": "IGNACIO GABRIEL GARCILAZO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "57636",
+   "Nombre": "FACUNDO RUBEN MANZI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "40042",
+   "Nombre": "AGUSTIN GILI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "30276",
+   "Nombre": "KLAVDIO AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "35291",
+   "Nombre": "ADRIAN MONTOLI",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "35443",
+   "Nombre": "RAFAEL LANZETTA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61414",
+   "Nombre": "BRUNO TRIGO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "20285",
+   "Jug_Sale": "RODRIGO GASTAMBIDE",
+   "CarneEntra": "32418",
+   "Jug_Entra": "JOSE IGNACIO OLASCOAGA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "36926",
+   "Jug_Sale": "JUAN JOSE FILLAT",
+   "CarneEntra": "49964",
+   "Jug_Entra": "MARIO ANTONIO REBOLIZ",
+   "camiseta": "7",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "27523",
+   "Jug_Sale": "JUAN FRANCISCO PEDROZO",
+   "CarneEntra": "31450",
+   "Jug_Entra": "ANDRES MATIAS SPOSITO",
+   "camiseta": "47",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "20621",
+   "Jug_Sale": "MATEO IGNACIO CABRAL",
+   "CarneEntra": "20725",
+   "Jug_Entra": "SANTIAGO JOAQUIN DOS SANTOS",
+   "camiseta": "45",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "20276",
+   "Jug_Sale": "GASTON LUIS MENENDEZ",
+   "CarneEntra": "28604",
+   "Jug_Entra": "MARCELO MARTIN SOSA",
+   "camiseta": "0",
+   "minutos": "77"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61414",
+   "Jug_Sale": "BRUNO TRIGO",
+   "CarneEntra": "39896",
+   "Jug_Entra": "PABLO DANILO MONTOLI",
+   "camiseta": "81",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46032",
+   "Jug_Sale": "IGNACIO GABRIEL GARCILAZO",
+   "CarneEntra": "30876",
+   "Jug_Entra": "MATIAS NICOLAS RUIZ",
+   "camiseta": "28",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "35443",
+   "Jug_Sale": "RAFAEL LANZETTA",
+   "CarneEntra": "35830",
+   "Jug_Entra": "MARTIN MARIO VILAR",
+   "camiseta": "20",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "30276",
+   "Jug_Sale": "KLAVDIO AGUSTIN MARTINEZ",
+   "CarneEntra": "37606",
+   "Jug_Entra": "NICOLAS SANTIAGO BOULLOSA",
+   "camiseta": "12",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "40042",
+   "Jug_Sale": "AGUSTIN GILI",
+   "CarneEntra": "30788",
+   "Jug_Entra": "DIEGO MARIA ROUSSERIE",
+   "camiseta": "23",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "40111",
+   "Nombre": "DIEGO ROJAS",
+   "minutos": "73",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

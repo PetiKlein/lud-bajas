@@ -1,0 +1,257 @@
+{
+ "id": "102262",
+ "categoria": "presenior-c",
+ "serie": "PSCPD",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "FLORES UNIVERSITARIO",
+ "visitante": "TACUAREMBO UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "891",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"C\" PER. y DESC",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-26 00:00:00",
+  "Fecha_fin": "2026-09-26 00:00:00",
+  "Locatario": "FLORES UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "TACUAREMBO UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "42447",
+   "Nombre": "SEBASTIAN ISMAEL DA COSTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68325",
+   "Nombre": "ADRIAN MAXIMILIANO BRAIN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54381",
+   "Nombre": "MARTIN GONZALO GOÑI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "36178",
+   "Nombre": "RODRIGO FAGUNDEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "40343",
+   "Nombre": "DIEGO CEA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "37074",
+   "Nombre": "BRUNO SANTIAGO ARBIA",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45436",
+   "Nombre": "RAMIRO GABRIEL SOCA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "31555",
+   "Nombre": "FRANCISCO MANUEL IADE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67362",
+   "Nombre": "NICOLAS DARIO PEREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "22126",
+   "Nombre": "ALDO MARTIN LAZAR",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "46292",
+   "Nombre": "DIEGO ISMAEL FERREIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "69154",
+   "Nombre": "HORACIO SEBASTIAN GODOY",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "54499",
+   "Nombre": "GUILLERMO LEDESMA",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "36979",
+   "Nombre": "JOAQUIN ZILLI",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "54050",
+   "Nombre": "DAMIAN IRAZABAL",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "20272",
+   "Nombre": "JOAQUIN NAZARENO OLASO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "35387",
+   "Nombre": "MAURICIO ANDRES RODRIGUEZ",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "43766",
+   "Nombre": "NICOLAS JONATHAN CORREA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "42678",
+   "Nombre": "WILKER NOEL ARAUJO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31675",
+   "Nombre": "DANIEL ALMEDO SILVA",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "33731",
+   "Nombre": "GREGORY SANTIAGO OLIVERA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "31602",
+   "Nombre": "DIEGO ENRIQUE SITYA",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "36178",
+   "Jug_Sale": "RODRIGO FAGUNDEZ",
+   "CarneEntra": "17156",
+   "Jug_Entra": "ERNESTO GABRIEL FERREIRA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31555",
+   "Jug_Sale": "FRANCISCO MANUEL IADE",
+   "CarneEntra": "29591",
+   "Jug_Entra": "MAXIMILIANO RUSSO",
+   "camiseta": "9",
+   "minutos": "63"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "42678",
+   "Jug_Sale": "WILKER NOEL ARAUJO",
+   "CarneEntra": "27790",
+   "Jug_Entra": "DIEGO ERNESTO CORREA",
+   "camiseta": "50",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "54050",
+   "Jug_Sale": "DAMIAN IRAZABAL",
+   "CarneEntra": "38875",
+   "Jug_Entra": "MARIO RAFAEL CASTILLO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54499",
+   "Jug_Sale": "GUILLERMO LEDESMA",
+   "CarneEntra": "51556",
+   "Jug_Entra": "CARLOS ANDRES BENITEZ",
+   "camiseta": "12",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "33731",
+   "Jug_Sale": "GREGORY SANTIAGO OLIVERA",
+   "CarneEntra": "54050",
+   "Jug_Entra": "DAMIAN IRAZABAL",
+   "camiseta": "14",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "43766",
+   "Jug_Sale": "NICOLAS JONATHAN CORREA",
+   "CarneEntra": "61174",
+   "Jug_Entra": "MARTIN FEDERICO FONSECA",
+   "camiseta": "27",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "29591",
+   "Nombre": "MAXIMILIANO RUSSO",
+   "minutos": "85",
+   "EnContra": "0"
+  },
+  {
+   "carne": "46292",
+   "Nombre": "DIEGO ISMAEL FERREIRA",
+   "minutos": "6",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "33731",
+   "Nombre": "GREGORY SANTIAGO OLIVERA",
+   "minutos": "20",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "RAMIRO GABRIEL SOCA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

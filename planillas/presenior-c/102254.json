@@ -1,0 +1,253 @@
+{
+ "id": "102254",
+ "categoria": "presenior-c",
+ "serie": "PSCTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "LA ESCAPADA UNIVERSITARIO",
+ "visitante": "CEIBOS CLUB",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "977",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"C\" TIT. y ASC.",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-09-26 11:00:00",
+  "Fecha_fin": "2026-09-26 11:00:00",
+  "Locatario": "LA ESCAPADA UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CEIBOS CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "38861",
+   "Nombre": "DIEGO MARTIN IRAZUN",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26328",
+   "Nombre": "JOSE PEDRO RODRIGUEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "16374",
+   "Nombre": "PATRICIO RAFAEL FERRES",
+   "camiseta": "81",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33966",
+   "Nombre": "FACUNDO CASTRO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "63782",
+   "Nombre": "AGUSTIN JAIME",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "25245",
+   "Nombre": "IGNACIO GONZALO DIAZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "26372",
+   "Nombre": "PABLO COSTANIAN",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "27695",
+   "Nombre": "JUAN MARTIN RODRIGUEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "30932",
+   "Nombre": "MATHIAS RODDA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "27036",
+   "Nombre": "DIEGO FEDERICO PIQUEREZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "26345",
+   "Nombre": "FEDERICO LALUZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32002",
+   "Nombre": "GIOVANNI PAOLO VIGNOTTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "44947",
+   "Nombre": "JUAN IGNACIO BAYCE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "20367",
+   "Nombre": "NICOLAS ORDOQUI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "24948",
+   "Nombre": "FRANCISCO CARRIQUIRY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "20250",
+   "Nombre": "ALEJANDRO MARIA GONZALEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21512",
+   "Nombre": "JUAN MARTIN DIAZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "30061",
+   "Nombre": "FEDERICO ILDEFONSO GARCIA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "32341",
+   "Nombre": "AGUSTIN ALVARO VIDAL",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "36768",
+   "Nombre": "FACUNDO SILVEIRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "24859",
+   "Nombre": "FERNANDO DAMIANI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "21279",
+   "Nombre": "GONZALO FEDERICO MULLIN",
+   "camiseta": "0",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27695",
+   "Jug_Sale": "JUAN MARTIN RODRIGUEZ",
+   "CarneEntra": "26346",
+   "Jug_Entra": "TOMAS CAYOTA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25245",
+   "Jug_Sale": "IGNACIO GONZALO DIAZ",
+   "CarneEntra": "25724",
+   "Jug_Entra": "FELIPE TERRA",
+   "camiseta": "32",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "26346",
+   "Jug_Sale": "TOMAS CAYOTA",
+   "CarneEntra": "27253",
+   "Jug_Entra": "MARTIN RAMIREZ",
+   "camiseta": "4",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "21512",
+   "Jug_Sale": "JUAN MARTIN DIAZ",
+   "CarneEntra": "30514",
+   "Jug_Entra": "FRANCISCO JOSE DIAZ",
+   "camiseta": "15",
+   "minutos": "39"
+  },
+  {
+   "CarneSale": "24948",
+   "Jug_Sale": "FRANCISCO CARRIQUIRY",
+   "CarneEntra": "22441",
+   "Jug_Entra": "SANTIAGO JORGE KIRIAKIDIS",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44947",
+   "Jug_Sale": "JUAN IGNACIO BAYCE",
+   "CarneEntra": "18098",
+   "Jug_Entra": "CARLOS JAVIER MORALES",
+   "camiseta": "7",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "20250",
+   "Jug_Sale": "ALEJANDRO MARIA GONZALEZ",
+   "CarneEntra": "28104",
+   "Jug_Entra": "GUZMAN FEDERICO DE CASTRO",
+   "camiseta": "9",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "24948",
+   "Jug_Sale": "FRANCISCO CARRIQUIRY",
+   "CarneEntra": "22441",
+   "Jug_Entra": "SANTIAGO JORGE KIRIAKIDIS",
+   "camiseta": "20",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "20367",
+   "Nombre": "NICOLAS ORDOQUI",
+   "minutos": "73",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22441",
+   "Nombre": "SANTIAGO JORGE KIRIAKIDIS",
+   "minutos": "68",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

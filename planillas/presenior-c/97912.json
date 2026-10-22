@@ -1,0 +1,266 @@
+{
+ "id": "97912",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "CLARA JACKSON UNIVERSITARIO",
+ "visitante": "ARQUITECTURA JRS.",
+ "gl": 1,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "247",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-04-11 10:57:00",
+  "Fecha_fin": "2026-04-11 10:57:00",
+  "Locatario": "CLARA JACKSON UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ARQUITECTURA JRS.",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "40111",
+   "Nombre": "DIEGO ROJAS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "32894",
+   "Nombre": "CARLOS ANDRES BENTANCOURT",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "26280",
+   "Nombre": "DIEGO ALVEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "33810",
+   "Nombre": "RODRIGO SOBRADO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "28183",
+   "Nombre": "LEONARDO BANCHERO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "27327",
+   "Nombre": "GERMAN RODRIGO SANTAMARIA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "30276",
+   "Nombre": "KLAVDIO AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "34406",
+   "Nombre": "FRANCO ANTONIO RICARDI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48326",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "34628",
+   "Nombre": "SANTIAGO PATRICIO IGLESIAS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35642",
+   "Nombre": "PABLO DANIEL OLIVERA",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26631",
+   "Nombre": "PEDRO RAUL DA COSTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49989",
+   "Nombre": "JOAQUIN NICOLAS JORAJURIA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "25949",
+   "Nombre": "FEDERICO MARTIN MALOMO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "48986",
+   "Nombre": "GUILLERMO GERARDO MELGAREJO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "35454",
+   "Nombre": "GUILLERMO MATTOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "47052",
+   "Nombre": "MANUEL SAVIOZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "29550",
+   "Nombre": "PABLO SERGIO FERREIRA",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "40505",
+   "Nombre": "MARTIN BALBI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "40466",
+   "Nombre": "CARLOS ANDRES FERNANDEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64424",
+   "Nombre": "LEONARDO GABRIEL MACIAS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58564",
+   "Nombre": "MAURO ARTURO GANDIN",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "30276",
+   "Jug_Sale": "KLAVDIO AGUSTIN MARTINEZ",
+   "CarneEntra": "35291",
+   "Jug_Entra": "ADRIAN MONTOLI",
+   "camiseta": "22",
+   "minutos": "29"
+  },
+  {
+   "CarneSale": "26280",
+   "Jug_Sale": "DIEGO ALVEZ",
+   "CarneEntra": "35443",
+   "Jug_Entra": "RAFAEL LANZETTA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32894",
+   "Jug_Sale": "CARLOS ANDRES BENTANCOURT",
+   "CarneEntra": "35096",
+   "Jug_Entra": "AGUSTIN OSVALDO MIRO",
+   "camiseta": "4",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "27327",
+   "Jug_Sale": "GERMAN RODRIGO SANTAMARIA",
+   "CarneEntra": "46032",
+   "Jug_Entra": "IGNACIO GABRIEL GARCILAZO",
+   "camiseta": "24",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "34406",
+   "Jug_Sale": "FRANCO ANTONIO RICARDI",
+   "CarneEntra": "23403",
+   "Jug_Entra": "AGUSTIN MUNIZ",
+   "camiseta": "9",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "35443",
+   "Jug_Sale": "RAFAEL LANZETTA",
+   "CarneEntra": "40042",
+   "Jug_Entra": "AGUSTIN GILI",
+   "camiseta": "18",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "48986",
+   "Jug_Sale": "GUILLERMO GERARDO MELGAREJO",
+   "CarneEntra": "44380",
+   "Jug_Entra": "MATHIAS ALEJANDRO LABITOLA",
+   "camiseta": "13",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "64424",
+   "Jug_Sale": "LEONARDO GABRIEL MACIAS",
+   "CarneEntra": "20037",
+   "Jug_Entra": "RAMIRO ERNESTO BAVA",
+   "camiseta": "11",
+   "minutos": "77"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "34628",
+   "Nombre": "SANTIAGO PATRICIO IGLESIAS",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "25949",
+   "Nombre": "FEDERICO MARTIN MALOMO",
+   "minutos": "3",
+   "EnContra": "1"
+  },
+  {
+   "carne": "25949",
+   "Nombre": "FEDERICO MARTIN MALOMO",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64424",
+   "Nombre": "LEONARDO GABRIEL MACIAS",
+   "minutos": "57",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

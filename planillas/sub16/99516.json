@@ -1,0 +1,302 @@
+{
+ "id": "99516",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 6,
+ "fechaHora": "2026-05-31 13:30:00",
+ "cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+ "local": "CLUB JESUS MARIA",
+ "visitante": "DEPORTIVO LS UNIVERSITARIO",
+ "gl": 3,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "24",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "COMPLEJO COLEGIO JESÚS MARÍA",
+  "Fecha_Inicio": "2026-05-31 15:20:00",
+  "Fecha_fin": "2026-05-31 15:20:00",
+  "Locatario": "CLUB JESUS MARIA",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68278",
+   "Nombre": "MATEO VALLARINO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65202",
+   "Nombre": "FABIAN DARIO MARIÑO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61918",
+   "Nombre": "LORENZO SILVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66935",
+   "Nombre": "FRANCISCO GALLESIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64906",
+   "Nombre": "JOSE APARICIO PERRIER",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64905",
+   "Nombre": "TOMAS GALLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67712",
+   "Nombre": "JUAN MANUEL LAGISQUET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64903",
+   "Nombre": "GUILLERMO LOPEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66933",
+   "Nombre": "FRANCISCO BERRIEL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62390",
+   "Nombre": "SANTIAGO LOMBARDO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "61920",
+   "Nombre": "BAUTISTA TARIGO",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61727",
+   "Nombre": "BRUNO FERRARO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61544",
+   "Nombre": "SANTINO CASTELLI",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65352",
+   "Nombre": "FELIPE GEREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64051",
+   "Nombre": "JUAN MANUEL SOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64303",
+   "Nombre": "MATIAS OLARAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64297",
+   "Nombre": "LUCA MATEO ARDID",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "67868",
+   "Nombre": "SANTIAGO MORAES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64314",
+   "Nombre": "SANTIAGO MANUEL RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67075",
+   "Nombre": "NAEL GARCIA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "67871",
+   "Nombre": "MATEO EZEQUIEL PAGUA",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64906",
+   "Jug_Sale": "JOSE APARICIO PERRIER",
+   "CarneEntra": "67851",
+   "Jug_Entra": "DIAGO CESAR MARIÑO",
+   "camiseta": "21",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "67712",
+   "Jug_Sale": "JUAN MANUEL LAGISQUET",
+   "CarneEntra": "63445",
+   "Jug_Entra": "TIZIANO FRASCHERI",
+   "camiseta": "4",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "66933",
+   "Jug_Sale": "FRANCISCO BERRIEL",
+   "CarneEntra": "62396",
+   "Jug_Entra": "FELIPE ORTIZ",
+   "camiseta": "22",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "64905",
+   "Jug_Sale": "TOMAS GALLO",
+   "CarneEntra": "65203",
+   "Jug_Entra": "JOAQUIN YAÑEZ",
+   "camiseta": "16",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "62390",
+   "Jug_Sale": "SANTIAGO LOMBARDO",
+   "CarneEntra": "60445",
+   "Jug_Entra": "JOAQUIN LORENZO",
+   "camiseta": "20",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64303",
+   "Jug_Sale": "MATIAS OLARAN",
+   "CarneEntra": "64052",
+   "Jug_Entra": "NICOLAS VALENTINO IFRAN",
+   "camiseta": "22",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67871",
+   "Jug_Sale": "MATEO EZEQUIEL PAGUA",
+   "CarneEntra": "65298",
+   "Jug_Entra": "NAHUEL CARMINATI",
+   "camiseta": "19",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "64051",
+   "Jug_Sale": "JUAN MANUEL SOSA",
+   "CarneEntra": "66426",
+   "Jug_Entra": "LUCAS ROSA",
+   "camiseta": "3",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "67075",
+   "Jug_Sale": "NAEL GARCIA",
+   "CarneEntra": "65350",
+   "Jug_Entra": "VALENTIN RUIZ",
+   "camiseta": "23",
+   "minutos": "61"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60445",
+   "Nombre": "JOAQUIN LORENZO",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61918",
+   "Nombre": "LORENZO SILVA",
+   "minutos": "58",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61920",
+   "Nombre": "BAUTISTA TARIGO",
+   "minutos": "49",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "minutos": "73",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62922",
+   "Nombre": "JUAN MANUEL PEREYRA",
+   "minutos": "80",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64314",
+   "Nombre": "SANTIAGO MANUEL RODRIGUEZ",
+   "minutos": "23",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FABIAN DARIO MARIÑO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "SANTIAGO MORAES",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,239 @@
+{
+ "id": "101992",
+ "categoria": "sub16",
+ "serie": "16-12",
+ "fecha": 2,
+ "fechaHora": "2026-09-15 19:00:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "ALEMAN UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "145",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 1 RUEDA 2",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-09-15 20:35:00",
+  "Fecha_fin": "2026-09-15 20:35:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "ALEMAN UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64544",
+   "Nombre": "JOAQUIN SEBASTIAN MEDINA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64841",
+   "Nombre": "THIAGO DOMINGUEZ",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "69024",
+   "Nombre": "NAHUEL ORTIZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "64541",
+   "Nombre": "VALENTINO SANCHEZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "64538",
+   "Nombre": "RODRIGO AGUSTIN RICO",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "64528",
+   "Nombre": "SANTIAGO COPATTI",
+   "camiseta": "43",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "67313",
+   "Nombre": "LAUTARO SALVARREY",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "69025",
+   "Nombre": "BRUNO MELIAN",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63362",
+   "Nombre": "TOMAS VALENTINO MARRONE",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64328",
+   "Nombre": "LORENZO BRUNO PEZZANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67409",
+   "Nombre": "ALEJO CONDE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65916",
+   "Nombre": "EMILIANO PUJADAS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "66948",
+   "Nombre": "FACUNDO RADESCA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "63038",
+   "Nombre": "FELIPE LIGÜERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64327",
+   "Nombre": "AGUSTIN JUSTO RODRIGUEZ",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "60486",
+   "Nombre": "JUAN PEDRO ALVEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "62937",
+   "Nombre": "LEON PEDRO SCHILDE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64890",
+   "Nombre": "MARTIN PONCE DE LEON",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64538",
+   "Jug_Sale": "RODRIGO AGUSTIN RICO",
+   "CarneEntra": "68163",
+   "Jug_Entra": "LAUTARO ERVIN KRUGER",
+   "camiseta": "44",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "69025",
+   "Jug_Sale": "BRUNO MELIAN",
+   "CarneEntra": "60538",
+   "Jug_Entra": "RODRIGO BIANCO",
+   "camiseta": "63",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65916",
+   "Jug_Sale": "EMILIANO PUJADAS",
+   "CarneEntra": "67406",
+   "Jug_Entra": "BAUTISTA APRAHAMIAN",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66948",
+   "Jug_Sale": "FACUNDO RADESCA",
+   "CarneEntra": "64334",
+   "Jug_Entra": "LEANDRO BARRIOLA",
+   "camiseta": "28",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "minutos": "45",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "70",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "NICOLAS MARTINEZ",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

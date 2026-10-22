@@ -1,0 +1,255 @@
+{
+ "id": "100222",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "CLUB FUERZA AEREA",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "645",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-06-20 11:00:00",
+  "Fecha_fin": "2026-06-20 11:00:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB FUERZA AEREA",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "25051",
+   "Nombre": "EDMUNDO MIGUEL GRIFFIN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "43595",
+   "Nombre": "MATIAS LORENZO BASSO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "24412",
+   "Nombre": "RODRIGO CADENAS",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "35379",
+   "Nombre": "FEDERICO LA LAINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66270",
+   "Nombre": "RODRIGO GONCALVEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "24411",
+   "Nombre": "ENRIQUE CARLOS DELGADO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64355",
+   "Nombre": "ALCIDES RICARDO SILVEIRA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "22165",
+   "Nombre": "BRUNO LUIS VARALDO",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45272",
+   "Nombre": "DIEGO GERMAN MARTINEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "28544",
+   "Nombre": "PABLO ENRIQUE MARTINEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "19890",
+   "Nombre": "JAVIER GOÑI",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "35538",
+   "Nombre": "YAIR EDGAR MORALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "17537",
+   "Nombre": "ANGEL SEBASTIAN MOREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "20859",
+   "Nombre": "IGNACIO OTASU",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "24179",
+   "Nombre": "SERGIO DANIEL BIANCHI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "27122",
+   "Nombre": "LEANDRO MIGUEL GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "25991",
+   "Nombre": "FEDERICO BARDIER",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "18698",
+   "Nombre": "FERNANDO MACEIRA",
+   "camiseta": "16",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21318",
+   "Nombre": "PABLO DANIEL REINOSO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "26057",
+   "Nombre": "MARTIN MATHIAS PRIETO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "20772",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "17844",
+   "Nombre": "YAMANDU SEBASTIAN SILVA",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64355",
+   "Jug_Sale": "ALCIDES RICARDO SILVEIRA",
+   "CarneEntra": "34252",
+   "Jug_Entra": "MARCELO DANIEL SASSO",
+   "camiseta": "32",
+   "minutos": "28"
+  },
+  {
+   "CarneSale": "19890",
+   "Jug_Sale": "JAVIER GOÑI",
+   "CarneEntra": "22220",
+   "Jug_Entra": "CARLOS SEBASTIAN RODRIGUEZ",
+   "camiseta": "12",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "17844",
+   "Jug_Sale": "YAMANDU SEBASTIAN SILVA",
+   "CarneEntra": "66178",
+   "Jug_Entra": "JAIRO ALTAMIR DE LOS SANTOS",
+   "camiseta": "11",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "17537",
+   "Jug_Sale": "ANGEL SEBASTIAN MOREIRA",
+   "CarneEntra": "40807",
+   "Jug_Entra": "MARIANO GERMAN FIGUEROA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20772",
+   "Jug_Sale": "IGNACIO GONZALEZ",
+   "CarneEntra": "63106",
+   "Jug_Entra": "NICOLAS LOPEZ",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20859",
+   "Jug_Sale": "IGNACIO OTASU",
+   "CarneEntra": "19790",
+   "Jug_Entra": "GUSTAVO JAVIER GONZALEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21318",
+   "Jug_Sale": "PABLO DANIEL REINOSO",
+   "CarneEntra": "32752",
+   "Jug_Entra": "ALVARO DARIO BALCEMAO",
+   "camiseta": "27",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "27122",
+   "Jug_Sale": "LEANDRO MIGUEL GONZALEZ",
+   "CarneEntra": "21755",
+   "Jug_Entra": "ROBERTO BORBONET",
+   "camiseta": "19",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "66178",
+   "Jug_Sale": "JAIRO ALTAMIR DE LOS SANTOS",
+   "CarneEntra": "24312",
+   "Jug_Entra": "JUAN NICOLAS DA SILVA",
+   "camiseta": "45",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "40807",
+   "Nombre": "MARIANO GERMAN FIGUEROA",
+   "minutos": "87",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

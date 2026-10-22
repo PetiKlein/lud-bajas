@@ -1,0 +1,336 @@
+{
+ "id": "98911",
+ "categoria": "sub18",
+ "serie": "18-5-",
+ "fecha": 4,
+ "fechaHora": "2026-05-17 15:30:00",
+ "cancha": "CAMPO DEP. COLEGIO INGLES",
+ "local": "COLEGIO Y LICEO INGLES",
+ "visitante": "ELBIO FERNANDEZ",
+ "gl": 1,
+ "gv": 8,
+ "detalle": {
+  "nro_partido": "128",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 5",
+  "Cancha": "CAMPO DEP. COLEGIO INGLES",
+  "Fecha_Inicio": "2026-05-17 17:30:00",
+  "Fecha_fin": "2026-05-17 17:30:00",
+  "Locatario": "COLEGIO Y LICEO INGLES",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ELBIO FERNANDEZ",
+  "goles_visitante": "8",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64433",
+   "Nombre": "SANTIAGO LUCAS RODRIGUEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64421",
+   "Nombre": "FAUSTINO SALVO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62971",
+   "Nombre": "FACUNDO GABRIEL FRAGA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66105",
+   "Nombre": "FELIPE CEBAS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64512",
+   "Nombre": "LUCAS LLUIS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64733",
+   "Nombre": "MATEO ALMADA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65996",
+   "Nombre": "MATEO EYHERALDE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68007",
+   "Nombre": "JUAN DIEGO RIVERO",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "64510",
+   "Nombre": "FRANCISCO HERRERO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65539",
+   "Nombre": "SANTIAGO ORDOÑEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64235",
+   "Nombre": "PEDRO RAMOS",
+   "camiseta": "35",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58389",
+   "Nombre": "JERONIMO MARTINEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67298",
+   "Nombre": "FRANCISCO BAUTISTA MARTINEZ",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "66347",
+   "Nombre": "LEONIDAS ALEJANDRO VARELA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "64367",
+   "Nombre": "MARTIN IGNACIO VARELA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "65871",
+   "Nombre": "NICOLAS MIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64830",
+   "Nombre": "THIAGO FOJO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "64432",
+   "Nombre": "FEDERICO GASTELUMENDI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64434",
+   "Nombre": "SANTIAGO LAPENTE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "64537",
+   "Nombre": "GIULIANO FRANCO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64530",
+   "Nombre": "EMILIANO DOS SANTOS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65873",
+   "Nombre": "FEDERICO GOÑI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64421",
+   "Jug_Sale": "FAUSTINO SALVO",
+   "CarneEntra": "57671",
+   "Jug_Entra": "VALENTINO SILVA",
+   "camiseta": "20",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "64510",
+   "Jug_Sale": "FRANCISCO HERRERO",
+   "CarneEntra": "68437",
+   "Jug_Entra": "FRANCO CASARETTO",
+   "camiseta": "10",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "68007",
+   "Jug_Sale": "JUAN DIEGO RIVERO",
+   "CarneEntra": "68436",
+   "Jug_Entra": "FRANCISCO RIVERO",
+   "camiseta": "23",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "64235",
+   "Jug_Sale": "PEDRO RAMOS",
+   "CarneEntra": "62971",
+   "Jug_Entra": "FACUNDO GABRIEL FRAGA",
+   "camiseta": "5",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "65996",
+   "Jug_Sale": "MATEO EYHERALDE",
+   "CarneEntra": "60491",
+   "Jug_Entra": "TOMAS LENZI",
+   "camiseta": "14",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "62971",
+   "Jug_Sale": "FACUNDO GABRIEL FRAGA",
+   "CarneEntra": "67823",
+   "Jug_Entra": "FEDERICO ORTIZ",
+   "camiseta": "81",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65539",
+   "Jug_Sale": "SANTIAGO ORDOÑEZ",
+   "CarneEntra": "68237",
+   "Jug_Entra": "SANTIAGO LEONCINI",
+   "camiseta": "19",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64434",
+   "Jug_Sale": "SANTIAGO LAPENTE",
+   "CarneEntra": "64533",
+   "Jug_Entra": "GUILLERMO GOLDIE",
+   "camiseta": "8",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "64530",
+   "Jug_Sale": "EMILIANO DOS SANTOS",
+   "CarneEntra": "64432",
+   "Jug_Entra": "FEDERICO GASTELUMENDI",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "66347",
+   "Jug_Sale": "LEONIDAS ALEJANDRO VARELA",
+   "CarneEntra": "64530",
+   "Jug_Entra": "EMILIANO DOS SANTOS",
+   "camiseta": "10",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "65873",
+   "Jug_Sale": "FEDERICO GOÑI",
+   "CarneEntra": "67298",
+   "Jug_Entra": "FRANCISCO BAUTISTA MARTINEZ",
+   "camiseta": "92",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "67298",
+   "Jug_Sale": "FRANCISCO BAUTISTA MARTINEZ",
+   "CarneEntra": "68371",
+   "Jug_Entra": "LUIS IGNACIO PAULOS",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64537",
+   "Jug_Sale": "GIULIANO FRANCO",
+   "CarneEntra": "67296",
+   "Jug_Entra": "SANTIAGO JANSSEN",
+   "camiseta": "22",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65996",
+   "Nombre": "MATEO EYHERALDE",
+   "minutos": "83",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64432",
+   "Nombre": "FEDERICO GASTELUMENDI",
+   "minutos": "81",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64530",
+   "Nombre": "EMILIANO DOS SANTOS",
+   "minutos": "21",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64530",
+   "Nombre": "EMILIANO DOS SANTOS",
+   "minutos": "32",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64530",
+   "Nombre": "EMILIANO DOS SANTOS",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64530",
+   "Nombre": "EMILIANO DOS SANTOS",
+   "minutos": "63",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64830",
+   "Nombre": "THIAGO FOJO",
+   "minutos": "44",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65873",
+   "Nombre": "FEDERICO GOÑI",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65873",
+   "Nombre": "FEDERICO GOÑI",
+   "minutos": "33",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

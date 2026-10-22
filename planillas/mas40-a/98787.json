@@ -1,0 +1,285 @@
+{
+ "id": "98787",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 11:15:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "MATURANA UNIVERSITARIO",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "40",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-05-16 13:15:00",
+  "Fecha_fin": "2026-05-16 13:15:00",
+  "Locatario": "MATURANA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "19371",
+   "Nombre": "JOSE IGNACIO LAMANNA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27144",
+   "Nombre": "FERNANDO EDUARDO RUBINO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "20513",
+   "Nombre": "RODRIGO NICOLAS NEVES",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61374",
+   "Nombre": "ALVARO RAFAEL GONZALEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "33263",
+   "Nombre": "ALEJANDRO NICOLAS FRIGERIO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "20820",
+   "Nombre": "GABRIEL ALEJANDRO PAISAN",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "26401",
+   "Nombre": "GONZALO DANIEL ROMITTI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "22421",
+   "Nombre": "GERMAN DANIEL INDERKUM",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "24529",
+   "Nombre": "MARTIN MARTINEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "22982",
+   "Nombre": "JUAN ANDRES LAMANNA",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58329",
+   "Nombre": "FEDERICO DAMIAN RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "14032",
+   "Nombre": "MARIANO MALLO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "19499",
+   "Nombre": "NICOLAS DANIEL MUNIZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "23788",
+   "Nombre": "NICOLAS JAVIER MORO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "19424",
+   "Nombre": "RODRIGO NICOLAS SOTELO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "42446",
+   "Nombre": "ALEJANDRO PERETTI",
+   "camiseta": "40",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "14034",
+   "Nombre": "ALEX PATRICIO FERREIRA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "14737",
+   "Nombre": "JOSE MARIA GALLINAL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "18239",
+   "Nombre": "CESAR ANDRES SANGUINETTI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "18909",
+   "Nombre": "HECTOR DANIEL EROSA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "14666",
+   "Nombre": "CARLOS EDUARDO RAINERI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "17068",
+   "Nombre": "RAFAEL FEDERICO MORATO",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61374",
+   "Jug_Sale": "ALVARO RAFAEL GONZALEZ",
+   "CarneEntra": "22455",
+   "Jug_Entra": "GONZALO GAMBETTA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27144",
+   "Jug_Sale": "FERNANDO EDUARDO RUBINO",
+   "CarneEntra": "30484",
+   "Jug_Entra": "DIEGO LOPEZ",
+   "camiseta": "99",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "22455",
+   "Jug_Sale": "GONZALO GAMBETTA",
+   "CarneEntra": "19590",
+   "Jug_Entra": "GONZALO RAUL MANGADO",
+   "camiseta": "17",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "24529",
+   "Jug_Sale": "MARTIN MARTINEZ",
+   "CarneEntra": "22401",
+   "Jug_Entra": "GUILLERMO RAFFO",
+   "camiseta": "37",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "20513",
+   "Jug_Sale": "RODRIGO NICOLAS NEVES",
+   "CarneEntra": "57381",
+   "Jug_Entra": "GERARDO BARBIERI",
+   "camiseta": "90",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "33263",
+   "Jug_Sale": "ALEJANDRO NICOLAS FRIGERIO",
+   "CarneEntra": "62023",
+   "Jug_Entra": "GONZALO VALLE",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20513",
+   "Jug_Sale": "RODRIGO NICOLAS NEVES",
+   "CarneEntra": "22563",
+   "Jug_Entra": "LUIS ALFREDO CIDRAS",
+   "camiseta": "5",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "14666",
+   "Jug_Sale": "CARLOS EDUARDO RAINERI",
+   "CarneEntra": "18210",
+   "Jug_Entra": "DIEGO RIVAS",
+   "camiseta": "23",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "18909",
+   "Jug_Sale": "HECTOR DANIEL EROSA",
+   "CarneEntra": "13395",
+   "Jug_Entra": "ANDRES FROMMEL",
+   "camiseta": "7",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "14737",
+   "Jug_Sale": "JOSE MARIA GALLINAL",
+   "CarneEntra": "25980",
+   "Jug_Entra": "JUAN MARCELO SUAREZ",
+   "camiseta": "99",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "19424",
+   "Jug_Sale": "RODRIGO NICOLAS SOTELO",
+   "CarneEntra": "12928",
+   "Jug_Entra": "JAVIER ANDRES LUSSICH",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "18239",
+   "Jug_Sale": "CESAR ANDRES SANGUINETTI",
+   "CarneEntra": "35842",
+   "Jug_Entra": "STEPHEN MCCARTHY",
+   "camiseta": "9",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "22401",
+   "Nombre": "GUILLERMO RAFFO",
+   "minutos": "96",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58329",
+   "Nombre": "FEDERICO DAMIAN RODRIGUEZ",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

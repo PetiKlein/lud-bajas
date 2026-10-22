@@ -1,0 +1,250 @@
+{
+ "id": "100600",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:00:00",
+ "cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "87",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO URUNDAY UNIVERSITARIO",
+  "Fecha_Inicio": "2026-06-27 00:00:00",
+  "Fecha_fin": "2026-06-27 00:00:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "13146",
+   "Nombre": "DIEGO RODRIGO BRESCIANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22309",
+   "Nombre": "MARTIN GOYEN",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "30421",
+   "Nombre": "JAVIER FEDERICO RODRIGUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "19340",
+   "Nombre": "PAULO MARTIN DI CANDIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "13585",
+   "Nombre": "DANIEL ALEJANDRO MARTIN",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "15935",
+   "Nombre": "CRISTIANO FABIANO LOPEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "64158",
+   "Nombre": "FEDERICO GABRIEL GRANDILLO",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "14997",
+   "Nombre": "RODRIGO FERNANDO PEREZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "18675",
+   "Nombre": "GERMAN AGUSTIN PEREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "21150",
+   "Nombre": "MARTIN SEBASTIAN SANCHEZ",
+   "camiseta": "37",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64650",
+   "Nombre": "ALVARO FEDERICO PEREZ LAGO",
+   "camiseta": "43",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "18358",
+   "Nombre": "RODRIGO CASTRO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "47565",
+   "Nombre": "JUAN RAMIRO PERADOTTO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "20245",
+   "Nombre": "MATIAS AGUSTIN GONZALEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "10683",
+   "Nombre": "GABRIEL ENRIQUE MEDINA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "20523",
+   "Nombre": "FLAVIO LLORACH",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "16277",
+   "Nombre": "EDUARDO MISA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "11221",
+   "Nombre": "MARIO SERGIO BADANO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "32875",
+   "Nombre": "LEANDRO SEBASTIAN ALEGRE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "14749",
+   "Nombre": "MARCELO FABIAN DE LEON",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "46961",
+   "Nombre": "GERARDO FRANCISCO ALCIATURI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "13983",
+   "Nombre": "MARCELO DANIEL MAUTTONI",
+   "camiseta": "88",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "18675",
+   "Jug_Sale": "GERMAN AGUSTIN PEREZ",
+   "CarneEntra": "21200",
+   "Jug_Entra": "GONZALO SEBASTIAN SIAN",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30421",
+   "Jug_Sale": "JAVIER FEDERICO RODRIGUEZ",
+   "CarneEntra": "54136",
+   "Jug_Entra": "GASTON FERREYRA",
+   "camiseta": "45",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "21200",
+   "Jug_Sale": "GONZALO SEBASTIAN SIAN",
+   "CarneEntra": "28573",
+   "Jug_Entra": "JOSE FEDERICO ARAUJO",
+   "camiseta": "27",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "20523",
+   "Jug_Sale": "FLAVIO LLORACH",
+   "CarneEntra": "13805",
+   "Jug_Entra": "SERGIO JAVIER VIDAL",
+   "camiseta": "30",
+   "minutos": "13"
+  },
+  {
+   "CarneSale": "16277",
+   "Jug_Sale": "EDUARDO MISA",
+   "CarneEntra": "36335",
+   "Jug_Entra": "JORGE LUIS SEIJAS",
+   "camiseta": "20",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "13805",
+   "Jug_Sale": "SERGIO JAVIER VIDAL",
+   "CarneEntra": "13275",
+   "Jug_Entra": "FRANCISCO JAVIER MITRANO",
+   "camiseta": "44",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "47565",
+   "Jug_Sale": "JUAN RAMIRO PERADOTTO",
+   "CarneEntra": "13805",
+   "Jug_Entra": "SERGIO JAVIER VIDAL",
+   "camiseta": "30",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "30421",
+   "Nombre": "JAVIER FEDERICO RODRIGUEZ",
+   "minutos": "25",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64158",
+   "Nombre": "FEDERICO GABRIEL GRANDILLO",
+   "minutos": "34",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "GERARDO FRANCISCO ALCIATURI",
+   "observaciones": ""
+  }
+ ]
+}

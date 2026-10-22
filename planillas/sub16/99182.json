@@ -1,0 +1,237 @@
+{
+ "id": "99182",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 5,
+ "fechaHora": "2026-05-24 13:30:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "17",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-05-24 17:15:00",
+  "Fecha_fin": "2026-05-24 17:15:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64544",
+   "Nombre": "JOAQUIN SEBASTIAN MEDINA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65250",
+   "Nombre": "MARIANO ESTRELLA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64534",
+   "Nombre": "JORDAN SANTIAGO BORBA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64541",
+   "Nombre": "VALENTINO SANCHEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "62764",
+   "Nombre": "PATRICIO TADEO LARROSA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67313",
+   "Nombre": "LAUTARO SALVARREY",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "64528",
+   "Nombre": "SANTIAGO COPATTI",
+   "camiseta": "11",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65792",
+   "Nombre": "JOAQUIN NICOLAS RECAETA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "63362",
+   "Nombre": "TOMAS VALENTINO MARRONE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68278",
+   "Nombre": "MATEO VALLARINO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "63445",
+   "Nombre": "TIZIANO FRASCHERI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66935",
+   "Nombre": "FRANCISCO GALLESIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64906",
+   "Nombre": "JOSE APARICIO PERRIER",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64905",
+   "Nombre": "TOMAS GALLO",
+   "camiseta": "70",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61918",
+   "Nombre": "LORENZO SILVA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67712",
+   "Nombre": "JUAN MANUEL LAGISQUET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "65202",
+   "Nombre": "FABIAN DARIO MARIÑO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62396",
+   "Nombre": "FELIPE ORTIZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "64903",
+   "Nombre": "GUILLERMO LOPEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61920",
+   "Nombre": "BAUTISTA TARIGO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65792",
+   "Jug_Sale": "JOAQUIN NICOLAS RECAETA",
+   "CarneEntra": "68163",
+   "Jug_Entra": "LAUTARO ERVIN KRUGER",
+   "camiseta": "9",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "65250",
+   "Jug_Sale": "MARIANO ESTRELLA",
+   "CarneEntra": "64538",
+   "Jug_Entra": "RODRIGO AGUSTIN RICO",
+   "camiseta": "29",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65202",
+   "Jug_Sale": "FABIAN DARIO MARIÑO",
+   "CarneEntra": "67851",
+   "Jug_Entra": "DIAGO CESAR MARIÑO",
+   "camiseta": "22",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "63445",
+   "Jug_Sale": "TIZIANO FRASCHERI",
+   "CarneEntra": "68363",
+   "Jug_Entra": "MATHEUS HAESBAERT",
+   "camiseta": "11",
+   "minutos": "50"
+  },
+  {
+   "CarneSale": "62396",
+   "Jug_Sale": "FELIPE ORTIZ",
+   "CarneEntra": "66933",
+   "Jug_Entra": "FRANCISCO BERRIEL",
+   "camiseta": "19",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "67712",
+   "Jug_Sale": "JUAN MANUEL LAGISQUET",
+   "CarneEntra": "65203",
+   "Jug_Entra": "JOAQUIN YAÑEZ",
+   "camiseta": "16",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65792",
+   "Nombre": "JOAQUIN NICOLAS RECAETA",
+   "minutos": "18",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67313",
+   "Nombre": "LAUTARO SALVARREY",
+   "minutos": "55",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

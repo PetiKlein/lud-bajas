@@ -1,0 +1,354 @@
+{
+ "id": "98089",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "COMPLEJO LOS CARDALES",
+ "local": "DEPORTIVO MITRE",
+ "visitante": "OLIMAR",
+ "gl": 2,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "245",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LOS CARDALES",
+  "Fecha_Inicio": "2026-04-11 00:00:00",
+  "Fecha_fin": "2026-04-11 00:00:00",
+  "Locatario": "DEPORTIVO MITRE",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "OLIMAR",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "20274",
+   "Nombre": "ALEJANDRO BRUBACHER",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "38740",
+   "Nombre": "FEDERICO BRANDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "50049",
+   "Nombre": "DIEGO MARTIN ALBANO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "33110",
+   "Nombre": "GABRIEL ARBIZA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "23889",
+   "Nombre": "ANDRES BAUDO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "29857",
+   "Nombre": "GUILLERMO SLINGER",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "27523",
+   "Nombre": "JUAN FRANCISCO PEDROZO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "54923",
+   "Nombre": "SANTIAGO ANDRES AVIERO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "20285",
+   "Nombre": "RODRIGO GASTAMBIDE",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28604",
+   "Nombre": "MARCELO MARTIN SOSA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "27464",
+   "Nombre": "MAURICIO GASTON ARAMBILLET",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29386",
+   "Nombre": "MAURICIO FABIAN COSTA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "22467",
+   "Nombre": "GONZALO RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "21600",
+   "Nombre": "FEDERICO MORSI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "20630",
+   "Nombre": "FRANCISCO AMADO SALOMON",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "21063",
+   "Nombre": "MAURICIO MORSI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "26306",
+   "Nombre": "JUAN ANDRES SITYA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "28832",
+   "Nombre": "FEDERICO LARRIERA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "38599",
+   "Nombre": "PABLO ALBERTO GOMEZ",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "41871",
+   "Nombre": "DANILO RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "21510",
+   "Nombre": "GUSTAVO WELKER",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "21560",
+   "Nombre": "SANTIAGO AMARO",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "50049",
+   "Jug_Sale": "DIEGO MARTIN ALBANO",
+   "CarneEntra": "20621",
+   "Jug_Entra": "MATEO IGNACIO CABRAL",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29857",
+   "Jug_Sale": "GUILLERMO SLINGER",
+   "CarneEntra": "32418",
+   "Jug_Entra": "JOSE IGNACIO OLASCOAGA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54923",
+   "Jug_Sale": "SANTIAGO ANDRES AVIERO",
+   "CarneEntra": "35526",
+   "Jug_Entra": "RAUL IGNACIO WANSEELE",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28604",
+   "Jug_Sale": "MARCELO MARTIN SOSA",
+   "CarneEntra": "29585",
+   "Jug_Entra": "CHRISTIAN PAUL SHAW",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38740",
+   "Jug_Sale": "FEDERICO BRANDA",
+   "CarneEntra": "20275",
+   "Jug_Entra": "GABRIEL OTEGUI",
+   "camiseta": "21",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "27523",
+   "Jug_Sale": "JUAN FRANCISCO PEDROZO",
+   "CarneEntra": "33279",
+   "Jug_Entra": "FEDERICO JAVIER PESELEWITZ",
+   "camiseta": "22",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "23889",
+   "Jug_Sale": "ANDRES BAUDO",
+   "CarneEntra": "32279",
+   "Jug_Entra": "FEDERICO AUGUSTO OJEDA",
+   "camiseta": "18",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "27464",
+   "Jug_Sale": "MAURICIO GASTON ARAMBILLET",
+   "CarneEntra": "29857",
+   "Jug_Entra": "GUILLERMO SLINGER",
+   "camiseta": "12",
+   "minutos": "68"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22467",
+   "Jug_Sale": "GONZALO RODRIGUEZ",
+   "CarneEntra": "29959",
+   "Jug_Entra": "JUAN MANUEL MACHADO",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21063",
+   "Jug_Sale": "MAURICIO MORSI",
+   "CarneEntra": "45719",
+   "Jug_Entra": "CRISTIAN ANDRES GONZALEZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21560",
+   "Jug_Sale": "SANTIAGO AMARO",
+   "CarneEntra": "25658",
+   "Jug_Entra": "FERNANDO POSADA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21510",
+   "Jug_Sale": "GUSTAVO WELKER",
+   "CarneEntra": "32969",
+   "Jug_Entra": "FEDERICO NAVILIAT",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26306",
+   "Jug_Sale": "JUAN ANDRES SITYA",
+   "CarneEntra": "45717",
+   "Jug_Entra": "DIEGO MARTIN RIVERO",
+   "camiseta": "19",
+   "minutos": "18"
+  },
+  {
+   "CarneSale": "38599",
+   "Jug_Sale": "PABLO ALBERTO GOMEZ",
+   "CarneEntra": "49715",
+   "Jug_Entra": "ERNESTO AGUSTIN LUCAS",
+   "camiseta": "17",
+   "minutos": "18"
+  },
+  {
+   "CarneSale": "41871",
+   "Jug_Sale": "DANILO RODRIGUEZ",
+   "CarneEntra": "29806",
+   "Jug_Entra": "FEDERICO LURNER",
+   "camiseta": "15",
+   "minutos": "18"
+  },
+  {
+   "CarneSale": "28832",
+   "Jug_Sale": "FEDERICO LARRIERA",
+   "CarneEntra": "24088",
+   "Jug_Entra": "FABRIZIO BERRIOLO",
+   "camiseta": "14",
+   "minutos": "38"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "27464",
+   "Nombre": "MAURICIO GASTON ARAMBILLET",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35526",
+   "Nombre": "RAUL IGNACIO WANSEELE",
+   "minutos": "78",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "21510",
+   "Nombre": "GUSTAVO WELKER",
+   "minutos": "27",
+   "EnContra": "1"
+  },
+  {
+   "carne": "21510",
+   "Nombre": "GUSTAVO WELKER",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28832",
+   "Nombre": "FEDERICO LARRIERA",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32969",
+   "Nombre": "FEDERICO NAVILIAT",
+   "minutos": "70",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32969",
+   "Nombre": "FEDERICO NAVILIAT",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "41871",
+   "Nombre": "DANILO RODRIGUEZ",
+   "minutos": "8",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

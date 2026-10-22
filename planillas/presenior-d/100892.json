@@ -1,0 +1,296 @@
+{
+ "id": "100892",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "DEPORTIVO MATADERO",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "690",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-08-15 00:00:00",
+  "Fecha_fin": "2026-08-15 00:00:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "DEPORTIVO MATADERO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "25051",
+   "Nombre": "EDMUNDO MIGUEL GRIFFIN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "43595",
+   "Nombre": "MATIAS LORENZO BASSO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "35379",
+   "Nombre": "FEDERICO LA LAINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "24412",
+   "Nombre": "RODRIGO CADENAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66270",
+   "Nombre": "RODRIGO GONCALVEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "45272",
+   "Nombre": "DIEGO GERMAN MARTINEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "24411",
+   "Nombre": "ENRIQUE CARLOS DELGADO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "19890",
+   "Nombre": "JAVIER GOÑI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "22165",
+   "Nombre": "BRUNO LUIS VARALDO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46800",
+   "Nombre": "VICTOR DIEGO MOREIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64355",
+   "Nombre": "ALCIDES RICARDO SILVEIRA",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62589",
+   "Nombre": "DIEGO NICOLAS SANTOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37263",
+   "Nombre": "FELIPE MAURENTE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "28654",
+   "Nombre": "FEDERICO ISLAS",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "19723",
+   "Nombre": "FEDERICO JAVIER GEDANKE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "41699",
+   "Nombre": "FEDERICO AGUSTIN CORES",
+   "camiseta": "63",
+   "Capitan": ""
+  },
+  {
+   "carne": "21208",
+   "Nombre": "ARTURO KEUSHKERIAN",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "19824",
+   "Nombre": "FEDERICO BRUSCHI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "29431",
+   "Nombre": "FRANCISCO JORGE AGUERRE",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "18823",
+   "Nombre": "SANTIAGO ADOLFO DIAZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "26923",
+   "Nombre": "MATHIAS MAURENTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "42335",
+   "Nombre": "SEBASTIAN OVELAR",
+   "camiseta": "27",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64355",
+   "Jug_Sale": "ALCIDES RICARDO SILVEIRA",
+   "CarneEntra": "61635",
+   "Jug_Entra": "AGUSTIN SEBASTIAN ROSSI",
+   "camiseta": "29",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "66270",
+   "Jug_Sale": "RODRIGO GONCALVEZ",
+   "CarneEntra": "43248",
+   "Jug_Entra": "GONZALO DE LEON",
+   "camiseta": "6",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "43595",
+   "Jug_Sale": "MATIAS LORENZO BASSO",
+   "CarneEntra": "25759",
+   "Jug_Entra": "AGUSTIN LAMARCA",
+   "camiseta": "3",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "19890",
+   "Jug_Sale": "JAVIER GOÑI",
+   "CarneEntra": "27715",
+   "Jug_Entra": "OSCAR MARTIN BASSO",
+   "camiseta": "10",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "41699",
+   "Jug_Sale": "FEDERICO AGUSTIN CORES",
+   "CarneEntra": "21379",
+   "Jug_Entra": "AGUSTIN FRAGA",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28654",
+   "Jug_Sale": "FEDERICO ISLAS",
+   "CarneEntra": "28853",
+   "Jug_Entra": "MARCIO NICOLAS ARAUJO",
+   "camiseta": "49",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42335",
+   "Jug_Sale": "SEBASTIAN OVELAR",
+   "CarneEntra": "48145",
+   "Jug_Entra": "JUAN MANUEL MARTINEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26923",
+   "Jug_Sale": "MATHIAS MAURENTE",
+   "CarneEntra": "33861",
+   "Jug_Entra": "RODRIGO ACOSTA",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18823",
+   "Jug_Sale": "SANTIAGO ADOLFO DIAZ",
+   "CarneEntra": "26930",
+   "Jug_Entra": "ANDRES NICOLAS PALMA",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19723",
+   "Jug_Sale": "FEDERICO JAVIER GEDANKE",
+   "CarneEntra": "62903",
+   "Jug_Entra": "PEDRO GULARTE",
+   "camiseta": "29",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "19824",
+   "Jug_Sale": "FEDERICO BRUSCHI",
+   "CarneEntra": "23337",
+   "Jug_Entra": "JOAQUIN SANTIAGO MOSCA",
+   "camiseta": "20",
+   "minutos": "63"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "27715",
+   "Nombre": "OSCAR MARTIN BASSO",
+   "minutos": "63",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35379",
+   "Nombre": "FEDERICO LA LAINA",
+   "minutos": "47",
+   "EnContra": "0"
+  },
+  {
+   "carne": "45272",
+   "Nombre": "DIEGO GERMAN MARTINEZ",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28853",
+   "Nombre": "MARCIO NICOLAS ARAUJO",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "29431",
+   "Nombre": "FRANCISCO JORGE AGUERRE",
+   "minutos": "8",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

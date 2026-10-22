@@ -1,0 +1,271 @@
+{
+ "id": "102550",
+ "categoria": "sub18",
+ "serie": "18-32",
+ "fecha": 3,
+ "fechaHora": "2026-10-04 15:30:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "251",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 3 RUEDA 2",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-10-04 17:20:00",
+  "Fecha_fin": "2026-10-04 17:20:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57786",
+   "Nombre": "FAUSTINO ARDITTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62737",
+   "Nombre": "VALENTINO SPOSITO",
+   "camiseta": "29",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64674",
+   "Nombre": "FRANCISCO TERRA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "62734",
+   "Nombre": "BALTAZAR FERRARO",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "63144",
+   "Nombre": "DIEGO RAFAEL DECARLINI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "61501",
+   "Nombre": "IGNACIO PARADA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "61096",
+   "Nombre": "TOMAS ARRIETA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "57605",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "56127",
+   "Nombre": "FELIPE CROCI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "63410",
+   "Nombre": "TOMAS GRUDZIEN",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "61859",
+   "Nombre": "JUAN SEGUNDO RODRIGUEZ",
+   "camiseta": "43",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62694",
+   "Nombre": "NOAH ELIAS LEFKARITIS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64156",
+   "Nombre": "GUILLERMO ZAMPROGNO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "62528",
+   "Nombre": "IGNACIO ARIMON",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "64914",
+   "Nombre": "FEDERICO ABREU",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "58409",
+   "Nombre": "LUCIANO CABRERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58136",
+   "Nombre": "MATEO BENSASSON",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63760",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68808",
+   "Nombre": "FRANCISCO FERNANDEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "66257",
+   "Nombre": "FACUNDO CIPILIANO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "63150",
+   "Nombre": "MATHIAS PABLO FAZZIO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66217",
+   "Nombre": "JUAN GENARO TABO",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61501",
+   "Jug_Sale": "IGNACIO PARADA",
+   "CarneEntra": "65044",
+   "Jug_Entra": "NICOLAS CUELLO",
+   "camiseta": "40",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61859",
+   "Jug_Sale": "JUAN SEGUNDO RODRIGUEZ",
+   "CarneEntra": "57612",
+   "Jug_Entra": "TOMAS ANTUÑA",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63144",
+   "Jug_Sale": "DIEGO RAFAEL DECARLINI",
+   "CarneEntra": "62744",
+   "Jug_Entra": "FELIPE SARACCO",
+   "camiseta": "53",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "57605",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "64007",
+   "Jug_Entra": "LAUTARO FERNANDEZ",
+   "camiseta": "30",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "63410",
+   "Jug_Sale": "TOMAS GRUDZIEN",
+   "CarneEntra": "64793",
+   "Jug_Entra": "MATIAS VOULMINOT",
+   "camiseta": "47",
+   "minutos": "67"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66257",
+   "Jug_Sale": "FACUNDO CIPILIANO",
+   "CarneEntra": "62530",
+   "Jug_Entra": "ELIAN SHARIM TEJERIA",
+   "camiseta": "7",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "62528",
+   "Jug_Sale": "IGNACIO ARIMON",
+   "CarneEntra": "67071",
+   "Jug_Entra": "BRUNO SANCHEZ",
+   "camiseta": "17",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64914",
+   "Jug_Sale": "FEDERICO ABREU",
+   "CarneEntra": "63065",
+   "Jug_Entra": "RODRIGO BENTANCOURT",
+   "camiseta": "79",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57612",
+   "Nombre": "TOMAS ANTUÑA",
+   "minutos": "68",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57612",
+   "Nombre": "TOMAS ANTUÑA",
+   "minutos": "90",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64914",
+   "Nombre": "FEDERICO ABREU",
+   "minutos": "54",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67071",
+   "Nombre": "BRUNO SANCHEZ",
+   "minutos": "94",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "BALTAZAR FERRARO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

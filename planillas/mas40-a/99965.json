@@ -1,0 +1,261 @@
+{
+ "id": "99965",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 11:15:00",
+ "cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+ "local": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "visitante": "GOMENSORO",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "71",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMP. DEVOTO (NAUT. PICHINCHA)",
+  "Fecha_Inicio": "2026-06-13 13:00:00",
+  "Fecha_fin": "2026-06-13 13:00:00",
+  "Locatario": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "GOMENSORO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "14032",
+   "Nombre": "MARIANO MALLO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "23788",
+   "Nombre": "NICOLAS JAVIER MORO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "19424",
+   "Nombre": "RODRIGO NICOLAS SOTELO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "23625",
+   "Nombre": "GEORGE ANDRES GRUNERT",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "42446",
+   "Nombre": "ALEJANDRO PERETTI",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "14737",
+   "Nombre": "JOSE MARIA GALLINAL",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "13500",
+   "Nombre": "FERNANDO MARCOS GOMEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "12928",
+   "Nombre": "JAVIER ANDRES LUSSICH",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25980",
+   "Nombre": "JUAN MARCELO SUAREZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "18239",
+   "Nombre": "CESAR ANDRES SANGUINETTI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "18210",
+   "Nombre": "DIEGO RIVAS",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "11873",
+   "Nombre": "ALFREDO CARVE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "17096",
+   "Nombre": "JULIAN CARVE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "15792",
+   "Nombre": "JUAN RAMON PAEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24555",
+   "Nombre": "DIEGO TARAMASCO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "14231",
+   "Nombre": "RODRIGO RECOBA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "20527",
+   "Nombre": "NICOLAS RIENZI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "14903",
+   "Nombre": "TAZIO SCALDAFERRI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "17425",
+   "Nombre": "DIEGO SCLEIDOROVICH",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "28755",
+   "Nombre": "JOSE ANDRES LOPEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "13368",
+   "Nombre": "MARTIN ANDRES OLIVERA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "13500",
+   "Jug_Sale": "FERNANDO MARCOS GOMEZ",
+   "CarneEntra": "16308",
+   "Jug_Entra": "JAVIER JORGE FERNANDEZ",
+   "camiseta": "22",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "16308",
+   "Jug_Sale": "JAVIER JORGE FERNANDEZ",
+   "CarneEntra": "35842",
+   "Jug_Entra": "STEPHEN MCCARTHY",
+   "camiseta": "9",
+   "minutos": "33"
+  },
+  {
+   "CarneSale": "25980",
+   "Jug_Sale": "JUAN MARCELO SUAREZ",
+   "CarneEntra": "14666",
+   "Jug_Entra": "CARLOS EDUARDO RAINERI",
+   "camiseta": "0",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "17425",
+   "Jug_Sale": "DIEGO SCLEIDOROVICH",
+   "CarneEntra": "23468",
+   "Jug_Entra": "FEDERICO MONTERO",
+   "camiseta": "15",
+   "minutos": "27"
+  },
+  {
+   "CarneSale": "13368",
+   "Jug_Sale": "MARTIN ANDRES OLIVERA",
+   "CarneEntra": "22061",
+   "Jug_Entra": "MARCELO ARIEL AMARAL",
+   "camiseta": "23",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "24555",
+   "Jug_Sale": "DIEGO TARAMASCO",
+   "CarneEntra": "16207",
+   "Jug_Entra": "IGNACIO JAVIER BERTOLINI",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "14231",
+   "Jug_Sale": "RODRIGO RECOBA",
+   "CarneEntra": "14119",
+   "Jug_Entra": "DANIEL GRASSO",
+   "camiseta": "6",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "28755",
+   "Jug_Sale": "JOSE ANDRES LOPEZ",
+   "CarneEntra": "30750",
+   "Jug_Entra": "IVAN BONILLA",
+   "camiseta": "21",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "23468",
+   "Jug_Sale": "FEDERICO MONTERO",
+   "CarneEntra": "17030",
+   "Jug_Entra": "JUAN DIEGO LARROQUE",
+   "camiseta": "4",
+   "minutos": "73"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "14903",
+   "Nombre": "TAZIO SCALDAFERRI",
+   "minutos": "25",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17443",
+   "Nombre": "JAVIER FISCHER",
+   "minutos": "93",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

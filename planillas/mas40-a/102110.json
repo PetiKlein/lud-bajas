@@ -1,0 +1,295 @@
+{
+ "id": "102110",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 14,
+ "fechaHora": "2026-09-19 11:15:00",
+ "cancha": "COMPLEJO MARLUNA",
+ "local": "MATECHA",
+ "visitante": "CENTRO GALLEGO",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "112",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO MARLUNA",
+  "Fecha_Inicio": "2026-09-19 13:15:00",
+  "Fecha_fin": "2026-09-19 13:15:00",
+  "Locatario": "MATECHA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CENTRO GALLEGO",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "67396",
+   "Nombre": "ALEJANDRO REYES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "48328",
+   "Nombre": "ALAR AUGUSTO DUARTE",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "63841",
+   "Nombre": "FERNANDO ANDRES PIÑEYRUA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "45665",
+   "Nombre": "SEBASTIAN EVERGISTO FRANCA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "49426",
+   "Nombre": "HORACIO ISMAEL TARILA",
+   "camiseta": "33",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67146",
+   "Nombre": "HECTOR GUSTAVO PLACERES",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "33619",
+   "Nombre": "VICTOR ANDRES FUICA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67149",
+   "Nombre": "HEBER ALEJANDRO ROMASO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68921",
+   "Nombre": "JESUS SEBASTIAN SILVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "35696",
+   "Nombre": "JUAN MANUEL GIRIBONI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "19658",
+   "Nombre": "DANIEL EDUARDO COSTA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "23721",
+   "Nombre": "RODRIGO ALVAREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35089",
+   "Nombre": "PABLO SEBASTIAN CASTRO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "25625",
+   "Nombre": "DIEGO WALTER ROCHA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "20965",
+   "Nombre": "RODRIGO AUGUSTO MARTINEZ",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "17816",
+   "Nombre": "CARLOS LEANDRO MARTINEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "22483",
+   "Nombre": "EMILIO MANUEL RODRIGUEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "25979",
+   "Nombre": "SERGIO GUZMAN SCUTARI",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "58918",
+   "Nombre": "JOSE  LUIS SMITH",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "42268",
+   "Nombre": "LUIS EMILIO OLIARI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "48318",
+   "Nombre": "BORIS SANTIAGO DURAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "19234",
+   "Nombre": "GABRIEL FAGETTI",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "19658",
+   "Jug_Sale": "DANIEL EDUARDO COSTA",
+   "CarneEntra": "29711",
+   "Jug_Entra": "SEBASTIAN SCITTI",
+   "camiseta": "54",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68921",
+   "Jug_Sale": "JESUS SEBASTIAN SILVA",
+   "CarneEntra": "31743",
+   "Jug_Entra": "ROBERT DANIEL ANTIVERO",
+   "camiseta": "15",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "29711",
+   "Jug_Sale": "SEBASTIAN SCITTI",
+   "CarneEntra": "19658",
+   "Jug_Entra": "DANIEL EDUARDO COSTA",
+   "camiseta": "14",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "19658",
+   "Jug_Sale": "DANIEL EDUARDO COSTA",
+   "CarneEntra": "35695",
+   "Jug_Entra": "ESTEBAN DANIEL VIERA",
+   "camiseta": "17",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "19234",
+   "Jug_Sale": "GABRIEL FAGETTI",
+   "CarneEntra": "23466",
+   "Jug_Entra": "DIEGO FERNANDO PASTORIZA",
+   "camiseta": "82",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42268",
+   "Jug_Sale": "LUIS EMILIO OLIARI",
+   "CarneEntra": "22333",
+   "Jug_Entra": "LEANDRO GASTON NUÑEZ",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22483",
+   "Jug_Sale": "EMILIO MANUEL RODRIGUEZ",
+   "CarneEntra": "23266",
+   "Jug_Entra": "ANDRES NICOLAS FACAL",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "17816",
+   "Jug_Sale": "CARLOS LEANDRO MARTINEZ",
+   "CarneEntra": "32161",
+   "Jug_Entra": "DIEGO SEBASTIAN ROSSI",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20965",
+   "Jug_Sale": "RODRIGO AUGUSTO MARTINEZ",
+   "CarneEntra": "14946",
+   "Jug_Entra": "JUAN PEDRO LARROUTUROU",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25625",
+   "Jug_Sale": "DIEGO WALTER ROCHA",
+   "CarneEntra": "24680",
+   "Jug_Entra": "MATIAS RODRIGUEZ",
+   "camiseta": "23",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "25979",
+   "Jug_Sale": "SERGIO GUZMAN SCUTARI",
+   "CarneEntra": "21126",
+   "Jug_Entra": "SEBASTIAN MANGGINI",
+   "camiseta": "44",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "58918",
+   "Jug_Sale": "JOSE  LUIS SMITH",
+   "CarneEntra": "47888",
+   "Jug_Entra": "MARTIN ANSELMO PACINI",
+   "camiseta": "32",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "14946",
+   "Jug_Sale": "JUAN PEDRO LARROUTUROU",
+   "CarneEntra": "22483",
+   "Jug_Entra": "EMILIO MANUEL RODRIGUEZ",
+   "camiseta": "18",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "48318",
+   "Jug_Sale": "BORIS SANTIAGO DURAN",
+   "CarneEntra": "42268",
+   "Jug_Entra": "LUIS EMILIO OLIARI",
+   "camiseta": "99",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "22333",
+   "Nombre": "LEANDRO GASTON NUÑEZ",
+   "minutos": "95",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

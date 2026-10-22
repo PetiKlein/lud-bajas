@@ -1,0 +1,286 @@
+{
+ "id": "101010",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 15,
+ "fechaHora": "2026-08-15 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "OLD SAMPA CLUB",
+ "visitante": "RESISTENCIA",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "235",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-08-15 11:00:00",
+  "Fecha_fin": "2026-08-15 11:00:00",
+  "Locatario": "OLD SAMPA CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "RESISTENCIA",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "24682",
+   "Nombre": "LORENZO MANUEL FRANZINI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "23361",
+   "Nombre": "ALEJANDRO REYES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "24932",
+   "Nombre": "RAFAEL ETCHEBARNE",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "39512",
+   "Nombre": "JAVIER FRANCISCO MONTANS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "23557",
+   "Nombre": "IGNACIO IRURETA GOYENA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23371",
+   "Nombre": "EDUARDO ANDRES CUÑARRO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "33875",
+   "Nombre": "ENRIQUE LEGARIA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "23363",
+   "Nombre": "ALEJANDRO CALACHA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "21634",
+   "Nombre": "MATIAS CALACHA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "51059",
+   "Nombre": "RODRIGO MENDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "24413",
+   "Nombre": "ISMAEL JORGE FRANCO",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "31507",
+   "Nombre": "JOAQUIN BADO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "49856",
+   "Nombre": "MAURICIO JAVIER DAL MONTE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "26679",
+   "Nombre": "PABLO FREIRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "22462",
+   "Nombre": "PEDRO CAPRANI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "27066",
+   "Nombre": "SANTIAGO JULIAN LAGOMARSINO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "23532",
+   "Nombre": "RODRIGO IBACETA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "24879",
+   "Nombre": "DIEGO NICOLAS RIOLFO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23363",
+   "Jug_Sale": "ALEJANDRO CALACHA",
+   "CarneEntra": "23372",
+   "Jug_Entra": "JUAN IGNACIO LOPEZ",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24413",
+   "Jug_Sale": "ISMAEL JORGE FRANCO",
+   "CarneEntra": "63181",
+   "Jug_Entra": "JUAN PABLO EKMEKDJIAN",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21634",
+   "Jug_Sale": "MATIAS CALACHA",
+   "CarneEntra": "23366",
+   "Jug_Entra": "SANTIAGO POCHINTESTA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24932",
+   "Jug_Sale": "RAFAEL ETCHEBARNE",
+   "CarneEntra": "27933",
+   "Jug_Entra": "ENRIQUE CALACHA",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23371",
+   "Jug_Sale": "EDUARDO ANDRES CUÑARRO",
+   "CarneEntra": "22544",
+   "Jug_Entra": "JUAN GABRIEL BASSO",
+   "camiseta": "30",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "23361",
+   "Jug_Sale": "ALEJANDRO REYES",
+   "CarneEntra": "63323",
+   "Jug_Entra": "MATIAS BATTRO",
+   "camiseta": "25",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "51059",
+   "Jug_Sale": "RODRIGO MENDEZ",
+   "CarneEntra": "23363",
+   "Jug_Entra": "ALEJANDRO CALACHA",
+   "camiseta": "80",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "26679",
+   "Jug_Sale": "PABLO FREIRE",
+   "CarneEntra": "26846",
+   "Jug_Entra": "RODRIGO ROCHA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49863",
+   "Jug_Sale": "JUAN IGNACIO PRADO",
+   "CarneEntra": "25142",
+   "Jug_Entra": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49856",
+   "Jug_Sale": "MAURICIO JAVIER DAL MONTE",
+   "CarneEntra": "53274",
+   "Jug_Entra": "FACUNDO JOSE MELGAR",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25651",
+   "Jug_Sale": "CRISTIAN AROCHA",
+   "CarneEntra": "28831",
+   "Jug_Entra": "JOSE IGNACIO SANCHEZ",
+   "camiseta": "19",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "27066",
+   "Jug_Sale": "SANTIAGO JULIAN LAGOMARSINO",
+   "CarneEntra": "23452",
+   "Jug_Entra": "IGNACIO SPANGENBERG",
+   "camiseta": "17",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "27933",
+   "Nombre": "ENRIQUE CALACHA",
+   "minutos": "89",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "25651",
+   "Nombre": "CRISTIAN AROCHA",
+   "minutos": "10",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

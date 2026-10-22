@@ -1,0 +1,237 @@
+{
+ "id": "103059",
+ "categoria": "sub16",
+ "serie": "16C",
+ "fecha": 1,
+ "fechaHora": "2026-10-18 13:30:00",
+ "cancha": "COMPLEJO LOS NOGALES",
+ "local": "NACIONAL UNIVERSITARIO",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "365",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "3",
+  "Divisional": "SUB16 COMPETENCIA",
+  "Cancha": "COMPLEJO LOS NOGALES",
+  "Fecha_Inicio": "2026-10-18 15:15:00",
+  "Fecha_fin": "2026-10-18 15:15:00",
+  "Locatario": "NACIONAL UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64544",
+   "Nombre": "JOAQUIN SEBASTIAN MEDINA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65250",
+   "Nombre": "MARIANO ESTRELLA",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "64841",
+   "Nombre": "THIAGO DOMINGUEZ",
+   "camiseta": "67",
+   "Capitan": ""
+  },
+  {
+   "carne": "69024",
+   "Nombre": "NAHUEL ORTIZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "64541",
+   "Nombre": "VALENTINO SANCHEZ",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "60538",
+   "Nombre": "RODRIGO BIANCO",
+   "camiseta": "63",
+   "Capitan": ""
+  },
+  {
+   "carne": "64528",
+   "Nombre": "SANTIAGO COPATTI",
+   "camiseta": "43",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62764",
+   "Nombre": "PATRICIO TADEO LARROSA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63362",
+   "Nombre": "TOMAS VALENTINO MARRONE",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "64496",
+   "Nombre": "NICOLAS MARTINEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67313",
+   "Nombre": "LAUTARO SALVARREY",
+   "camiseta": "66",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63746",
+   "Nombre": "JUAN IGNACIO CURIEL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68353",
+   "Nombre": "SANTIAGO JURADO",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "61690",
+   "Nombre": "FACUNDO JORGE DEMARCO",
+   "camiseta": "27",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67925",
+   "Nombre": "SEBASTIAN OMAR PERALTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66974",
+   "Nombre": "FEDERICO HERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68347",
+   "Nombre": "BENJAMIN GONZALEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "65541",
+   "Nombre": "CAMILO RODRIGUEZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "68854",
+   "Nombre": "FRANCISCO SANTORO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65821",
+   "Nombre": "JUAN BAUTISTA CAULLIN",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64091",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "60480",
+   "Nombre": "FELIPE CUYAS",
+   "camiseta": "42",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65250",
+   "Jug_Sale": "MARIANO ESTRELLA",
+   "CarneEntra": "64538",
+   "Jug_Entra": "RODRIGO AGUSTIN RICO",
+   "camiseta": "47",
+   "minutos": "70"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65821",
+   "Jug_Sale": "JUAN BAUTISTA CAULLIN",
+   "CarneEntra": "66196",
+   "Jug_Entra": "JUAN FRANCISCO MEDINA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68353",
+   "Jug_Sale": "SANTIAGO JURADO",
+   "CarneEntra": "68354",
+   "Jug_Entra": "MATIAS AICARDI",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60480",
+   "Jug_Sale": "FELIPE CUYAS",
+   "CarneEntra": "65821",
+   "Jug_Entra": "JUAN BAUTISTA CAULLIN",
+   "camiseta": "21",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "64091",
+   "Jug_Sale": "SANTIAGO FERNANDEZ",
+   "CarneEntra": "66974",
+   "Jug_Entra": "FEDERICO HERNANDEZ",
+   "camiseta": "5",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "68854",
+   "Jug_Sale": "FRANCISCO SANTORO",
+   "CarneEntra": "60480",
+   "Jug_Entra": "FELIPE CUYAS",
+   "camiseta": "42",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "64091",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "minutos": "2",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64091",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "minutos": "2",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

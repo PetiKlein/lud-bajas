@@ -1,0 +1,309 @@
+{
+ "id": "102438",
+ "categoria": "sub16",
+ "serie": "16-42",
+ "fecha": 2,
+ "fechaHora": "2026-10-01 18:30:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "SEMINARIO UNIVERSITARIO",
+ "visitante": "ACADEMIA FRM",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "231",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 4 RUEDA 2",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-10-01 20:10:00",
+  "Fecha_fin": "2026-10-01 20:10:00",
+  "Locatario": "SEMINARIO UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "ACADEMIA FRM",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65368",
+   "Nombre": "JUAN IGNACIO ROURE",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "65108",
+   "Nombre": "JUSTINO OLASCOAGA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65110",
+   "Nombre": "IGNACIO DALLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65166",
+   "Nombre": "AGUSTIN ALVAREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65100",
+   "Nombre": "SANTIAGO CARBAJALES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62558",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65096",
+   "Nombre": "MANUEL ELVERDIN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62556",
+   "Nombre": "FACUNDO LUCERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65169",
+   "Nombre": "FACUNDO ESTRAGO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65366",
+   "Nombre": "FACUNDO DELFINO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "62806",
+   "Nombre": "BENICIO BARBOSA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61085",
+   "Nombre": "FABRIZIO PERRONE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62765",
+   "Nombre": "BENJAMIN DELGADO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65501",
+   "Nombre": "SANTIAGO CORREA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61725",
+   "Nombre": "IGNACIO RIVERO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61168",
+   "Nombre": "LAUTARO BASTOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "63864",
+   "Nombre": "ELIAS TIMOTEO DA SILVA",
+   "camiseta": "54",
+   "Capitan": ""
+  },
+  {
+   "carne": "68602",
+   "Nombre": "NATHAN JOAQUIN HERNANDEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "60439",
+   "Nombre": "EMILIO CARDOZO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "63498",
+   "Nombre": "BRUNO SOUZA",
+   "camiseta": "43",
+   "Capitan": ""
+  },
+  {
+   "carne": "64940",
+   "Nombre": "FACUNDO EMANUEL PEGORRARO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "65657",
+   "Nombre": "MATIAS OXANDABARAT",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65166",
+   "Jug_Sale": "AGUSTIN ALVAREZ",
+   "CarneEntra": "62561",
+   "Jug_Entra": "FACUNDO MOSCA",
+   "camiseta": "18",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62806",
+   "Jug_Sale": "BENICIO BARBOSA",
+   "CarneEntra": "61582",
+   "Jug_Entra": "JUSTINO MUNYO",
+   "camiseta": "11",
+   "minutos": "54"
+  },
+  {
+   "CarneSale": "65366",
+   "Jug_Sale": "FACUNDO DELFINO",
+   "CarneEntra": "62953",
+   "Jug_Entra": "JOAQUIN MORAES",
+   "camiseta": "21",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65100",
+   "Jug_Sale": "SANTIAGO CARBAJALES",
+   "CarneEntra": "65167",
+   "Jug_Entra": "JUAN MIGUEL COBAS",
+   "camiseta": "19",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "65096",
+   "Jug_Sale": "MANUEL ELVERDIN",
+   "CarneEntra": "65172",
+   "Jug_Entra": "FACUNDO GUTIERREZ",
+   "camiseta": "14",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "62556",
+   "Jug_Sale": "FACUNDO LUCERO",
+   "CarneEntra": "65366",
+   "Jug_Entra": "FACUNDO DELFINO",
+   "camiseta": "15",
+   "minutos": "74"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "60439",
+   "Jug_Sale": "EMILIO CARDOZO",
+   "CarneEntra": "60548",
+   "Jug_Entra": "JOAQUIN SCHICKE",
+   "camiseta": "90",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "65657",
+   "Jug_Sale": "MATIAS OXANDABARAT",
+   "CarneEntra": "65504",
+   "Jug_Entra": "THIAGO ALVAREZ",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61168",
+   "Jug_Sale": "LAUTARO BASTOS",
+   "CarneEntra": "68598",
+   "Jug_Entra": "MATEO ABREU",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63864",
+   "Jug_Sale": "ELIAS TIMOTEO DA SILVA",
+   "CarneEntra": "69018",
+   "Jug_Entra": "AARON NICOLAS GARCIA",
+   "camiseta": "99",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "61725",
+   "Jug_Sale": "IGNACIO RIVERO",
+   "CarneEntra": "68706",
+   "Jug_Entra": "IGNACIO PEREZ",
+   "camiseta": "44",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "63498",
+   "Jug_Sale": "BRUNO SOUZA",
+   "CarneEntra": "69017",
+   "Jug_Entra": "FEDERICO ROBERTO RECOBA",
+   "camiseta": "49",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65169",
+   "Nombre": "FACUNDO ESTRAGO",
+   "minutos": "19",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61168",
+   "Nombre": "LAUTARO BASTOS",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63498",
+   "Nombre": "BRUNO SOUZA",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63864",
+   "Nombre": "ELIAS TIMOTEO DA SILVA",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "63864",
+   "Nombre": "ELIAS TIMOTEO DA SILVA",
+   "minutos": "62",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FACUNDO ESTRAGO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

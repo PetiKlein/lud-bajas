@@ -1,0 +1,263 @@
+{
+ "id": "99053",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "COMPLEJO LOS ROJOS",
+ "local": "LATINO FUTBOL CLUB",
+ "visitante": "MATECHA",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "617",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO LOS ROJOS",
+  "Fecha_Inicio": "2026-05-23 11:00:00",
+  "Fecha_fin": "2026-05-23 11:00:00",
+  "Locatario": "LATINO FUTBOL CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "MATECHA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "47757",
+   "Nombre": "JUAN ANDRES NOGUES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "36137",
+   "Nombre": "FEDERICO MENDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "33080",
+   "Nombre": "NICOLAS CERISOLA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "33887",
+   "Nombre": "GIANFRANCO SCARLATTE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "52449",
+   "Nombre": "FACUNDO FIERRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "30155",
+   "Nombre": "MANUEL FELIPE BOERO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "44615",
+   "Nombre": "JOAQUIN FARIÑA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "31035",
+   "Nombre": "GIANFRANCO AMADO POSE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "56450",
+   "Nombre": "FEDERICO HERMIDA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "34858",
+   "Nombre": "DARDO LUIS ARISMENDI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26640",
+   "Nombre": "JUAN DIEGO ZUNINO",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "25641",
+   "Nombre": "MAICOHOL GABRIEL GARCIA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "46137",
+   "Nombre": "EDUARDO MATIAS PEREZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "45167",
+   "Nombre": "NICOLAS RISSO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "41332",
+   "Nombre": "CHRISTIAN ADRIAN COUSILLAS",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "31780",
+   "Nombre": "JOSE IGNACIO GIL",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61724",
+   "Nombre": "LEANDRO REYES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "65962",
+   "Nombre": "IGNACIO PEREIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "57305",
+   "Nombre": "SERGIO DANIEL CAMPOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "59836",
+   "Nombre": "EMILIANO ZOCCOLINI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31035",
+   "Jug_Sale": "GIANFRANCO AMADO POSE",
+   "CarneEntra": "38534",
+   "Jug_Entra": "MAXIMILIANO LARROSA",
+   "camiseta": "19",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "44615",
+   "Jug_Sale": "JOAQUIN FARIÑA",
+   "CarneEntra": "33744",
+   "Jug_Entra": "NICOLAS MOREIRA",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33080",
+   "Jug_Sale": "NICOLAS CERISOLA",
+   "CarneEntra": "31549",
+   "Jug_Entra": "MICHEL SEBASTIAN MATTOS",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47757",
+   "Jug_Sale": "JUAN ANDRES NOGUES",
+   "CarneEntra": "59021",
+   "Jug_Entra": "HORACIO MATIAS DEL CORRO",
+   "camiseta": "4",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "56450",
+   "Jug_Sale": "FEDERICO HERMIDA",
+   "CarneEntra": "30416",
+   "Jug_Entra": "MANOEL CASTRO",
+   "camiseta": "14",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "33887",
+   "Jug_Sale": "GIANFRANCO SCARLATTE",
+   "CarneEntra": "64349",
+   "Jug_Entra": "MICHAEL RAJ",
+   "camiseta": "22",
+   "minutos": "89"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "31780",
+   "Jug_Sale": "JOSE IGNACIO GIL",
+   "CarneEntra": "67415",
+   "Jug_Entra": "JOSE ALEJANDRO MELLUSO",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46137",
+   "Jug_Sale": "EDUARDO MATIAS PEREZ",
+   "CarneEntra": "30693",
+   "Jug_Entra": "SANTIAGO FORD",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61724",
+   "Jug_Sale": "LEANDRO REYES",
+   "CarneEntra": "41343",
+   "Jug_Entra": "DARIO DANIEL GAZZO",
+   "camiseta": "14",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67415",
+   "Jug_Sale": "JOSE ALEJANDRO MELLUSO",
+   "CarneEntra": "31780",
+   "Jug_Entra": "JOSE IGNACIO GIL",
+   "camiseta": "22",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "7",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

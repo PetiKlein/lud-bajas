@@ -1,0 +1,320 @@
+{
+ "id": "97925",
+ "categoria": "mas40-c",
+ "serie": "40S23",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "ACADEMIA",
+ "local": "FERROTANQUE",
+ "visitante": "WANDERERS",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "289",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 2",
+  "Cancha": "ACADEMIA",
+  "Fecha_Inicio": "2026-04-11 10:55:00",
+  "Fecha_fin": "2026-04-11 10:55:00",
+  "Locatario": "FERROTANQUE",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "WANDERERS",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60735",
+   "Nombre": "CHRISTIAN MARCEL BARATTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "18434",
+   "Nombre": "FEDERICO CORALLO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "39807",
+   "Nombre": "GUSTAVO MOSQUERA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "17449",
+   "Nombre": "ALEJANDRO GABRIEL BARLOCCO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "21293",
+   "Nombre": "SEBASTIAN NICOLAS BARLOCCO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "16747",
+   "Nombre": "PABLO DANIEL GOMEZ",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63333",
+   "Nombre": "SEBASTIAN MARTIN DA CUNHA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "30868",
+   "Nombre": "PABLO DANIEL ZACHEO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "17267",
+   "Nombre": "DIEGO SANGUINETTI",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "49339",
+   "Nombre": "VICTOR MARTIN GUERRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "18329",
+   "Nombre": "FRANCISCO MANUEL FERNANDEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "54310",
+   "Nombre": "JAVIER DI LONGO PINALI",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "22794",
+   "Nombre": "MAURO ANDRES BURGOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "30357",
+   "Nombre": "PABLO HERNANDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "23413",
+   "Nombre": "JOSE IGNACIO PEREZ",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "22331",
+   "Nombre": "DIEGO ALBERTO FALCO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "15281",
+   "Nombre": "JAVIER GONZALEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "13375",
+   "Nombre": "EMILIANO CAMACHO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "20364",
+   "Nombre": "NICOLAS MARTIN ERRICO",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "17886",
+   "Nombre": "ENZO BOSSANO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "17546",
+   "Nombre": "PABLO AGUSTIN EGUES",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "23120",
+   "Nombre": "FABRICIO ADRIAN RICOBALDI",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63333",
+   "Jug_Sale": "SEBASTIAN MARTIN DA CUNHA",
+   "CarneEntra": "40746",
+   "Jug_Entra": "DIEGO FEDERICO BAYLE",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30868",
+   "Jug_Sale": "PABLO DANIEL ZACHEO",
+   "CarneEntra": "22210",
+   "Jug_Entra": "MARCOS ADOLFO AMESPIL",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49339",
+   "Jug_Sale": "VICTOR MARTIN GUERRA",
+   "CarneEntra": "61838",
+   "Jug_Entra": "PABLO JESUS MENDEZ",
+   "camiseta": "71",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16747",
+   "Jug_Sale": "PABLO DANIEL GOMEZ",
+   "CarneEntra": "49339",
+   "Jug_Entra": "VICTOR MARTIN GUERRA",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "21293",
+   "Jug_Sale": "SEBASTIAN NICOLAS BARLOCCO",
+   "CarneEntra": "30868",
+   "Jug_Entra": "PABLO DANIEL ZACHEO",
+   "camiseta": "7",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "39807",
+   "Jug_Sale": "GUSTAVO MOSQUERA",
+   "CarneEntra": "16747",
+   "Jug_Entra": "PABLO DANIEL GOMEZ",
+   "camiseta": "15",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "13375",
+   "Jug_Sale": "EMILIANO CAMACHO",
+   "CarneEntra": "17824",
+   "Jug_Entra": "DIEGO ANDRES PICUN",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22794",
+   "Jug_Sale": "MAURO ANDRES BURGOS",
+   "CarneEntra": "15143",
+   "Jug_Entra": "NICOLAS LIEUTIER",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23120",
+   "Jug_Sale": "FABRICIO ADRIAN RICOBALDI",
+   "CarneEntra": "13999",
+   "Jug_Entra": "RAFAEL IGNACIO DI BELLO",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30357",
+   "Jug_Sale": "PABLO HERNANDEZ",
+   "CarneEntra": "61953",
+   "Jug_Entra": "NICOLAS JULIO CANESSA",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23413",
+   "Jug_Sale": "JOSE IGNACIO PEREZ",
+   "CarneEntra": "30357",
+   "Jug_Entra": "PABLO HERNANDEZ",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "15281",
+   "Jug_Sale": "JAVIER GONZALEZ",
+   "CarneEntra": "22794",
+   "Jug_Entra": "MAURO ANDRES BURGOS",
+   "camiseta": "15",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "22331",
+   "Jug_Sale": "DIEGO ALBERTO FALCO",
+   "CarneEntra": "13375",
+   "Jug_Entra": "EMILIANO CAMACHO",
+   "camiseta": "31",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "17886",
+   "Jug_Sale": "ENZO BOSSANO",
+   "CarneEntra": "23120",
+   "Jug_Entra": "FABRICIO ADRIAN RICOBALDI",
+   "camiseta": "10",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "21293",
+   "Nombre": "SEBASTIAN NICOLAS BARLOCCO",
+   "minutos": "18",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "17546",
+   "Nombre": "PABLO AGUSTIN EGUES",
+   "minutos": "64",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17886",
+   "Nombre": "ENZO BOSSANO",
+   "minutos": "42",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17886",
+   "Nombre": "ENZO BOSSANO",
+   "minutos": "64",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22331",
+   "Nombre": "DIEGO ALBERTO FALCO",
+   "minutos": "12",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,266 @@
+{
+ "id": "102245",
+ "categoria": "mas40-c",
+ "serie": "M40P2",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 09:00:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS AZUL",
+ "visitante": "ARQUITECTURA JRS.",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "379",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "3",
+  "Divisional": "M40 DIV. C COPA PLATA R2",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-09-26 11:00:00",
+  "Fecha_fin": "2026-09-26 11:00:00",
+  "Locatario": "OLD CHRISTIANS AZUL",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "ARQUITECTURA JRS.",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "18932",
+   "Nombre": "PABLO IGNACIO CASAMAYOU",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "11987",
+   "Nombre": "JUAN MANUEL ARROSPIDE",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "13969",
+   "Nombre": "NICOLAS CERVIÑO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "16597",
+   "Nombre": "JUAN IGNACIO RACHETTI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "11495",
+   "Nombre": "JUAN FRANCISCO FERREIRA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "21792",
+   "Nombre": "IGNACIO ENRIQUE VOITURET",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64834",
+   "Nombre": "DANIEL ALLIATI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "53334",
+   "Nombre": "MARTIN GONZALEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "19579",
+   "Nombre": "FEDERICO MIGUEL VAL",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "15896",
+   "Nombre": "SEBASTIAN EDUARDO VICTORICA",
+   "camiseta": "76",
+   "Capitan": ""
+  },
+  {
+   "carne": "20964",
+   "Nombre": "FERNANDO JOSE DE LA",
+   "camiseta": "50",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "24630",
+   "Nombre": "DANIEL IGNACIO DIAZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "18044",
+   "Nombre": "FEDERICO PEREZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "26116",
+   "Nombre": "LEONARDO FACUNDO SORIA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "16685",
+   "Nombre": "SEBASTIAN TURELL",
+   "camiseta": "44",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26469",
+   "Nombre": "OSCAR MARTIN BADALA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "22244",
+   "Nombre": "BRUNO CONTI",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "30818",
+   "Nombre": "PABLO FRADILETTI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "22180",
+   "Nombre": "GONZALO JAVIER MEDINA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "51375",
+   "Nombre": "DORON URWICZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "20909",
+   "Nombre": "JUAN MANUEL BLANCO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "23298",
+   "Nombre": "PABLO ERNESTO AIRALDI",
+   "camiseta": "93",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "11495",
+   "Jug_Sale": "JUAN FRANCISCO FERREIRA",
+   "CarneEntra": "64867",
+   "Jug_Entra": "MARTIN ROBERTO PEREYRA",
+   "camiseta": "23",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "15896",
+   "Jug_Sale": "SEBASTIAN EDUARDO VICTORICA",
+   "CarneEntra": "57115",
+   "Jug_Entra": "DIEGO STRAUCH",
+   "camiseta": "33",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "13969",
+   "Jug_Sale": "NICOLAS CERVIÑO",
+   "CarneEntra": "14776",
+   "Jug_Entra": "JUAN IGNACIO MILA",
+   "camiseta": "22",
+   "minutos": "73"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51375",
+   "Jug_Sale": "DORON URWICZ",
+   "CarneEntra": "42426",
+   "Jug_Entra": "GERMAN PEREZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23298",
+   "Jug_Sale": "PABLO ERNESTO AIRALDI",
+   "CarneEntra": "65224",
+   "Jug_Entra": "LUIS SEBASTIAN VILLALBA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42426",
+   "Jug_Sale": "GERMAN PEREZ",
+   "CarneEntra": "19769",
+   "Jug_Entra": "PABLO MARTIN VILLAR",
+   "camiseta": "83",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "65224",
+   "Jug_Sale": "LUIS SEBASTIAN VILLALBA",
+   "CarneEntra": "23298",
+   "Jug_Entra": "PABLO ERNESTO AIRALDI",
+   "camiseta": "93",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "30818",
+   "Jug_Sale": "PABLO FRADILETTI",
+   "CarneEntra": "51375",
+   "Jug_Entra": "DORON URWICZ",
+   "camiseta": "16",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "20964",
+   "Nombre": "FERNANDO JOSE DE LA",
+   "minutos": "57",
+   "EnContra": "0"
+  },
+  {
+   "carne": "53334",
+   "Nombre": "MARTIN GONZALEZ",
+   "minutos": "29",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "22180",
+   "Nombre": "GONZALO JAVIER MEDINA",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "22180",
+   "Nombre": "GONZALO JAVIER MEDINA",
+   "minutos": "95",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

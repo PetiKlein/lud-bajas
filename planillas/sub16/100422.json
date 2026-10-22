@@ -1,0 +1,270 @@
+{
+ "id": "100422",
+ "categoria": "sub16",
+ "serie": "16-22",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 13:50:00",
+ "cancha": "COLEGIO ARETEIA",
+ "local": "LA BLANQUEADA",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "170",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 2 RUEDA 2",
+  "Cancha": "COLEGIO ARETEIA",
+  "Fecha_Inicio": "2026-06-21 15:50:00",
+  "Fecha_fin": "2026-06-21 15:50:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68262",
+   "Nombre": "PEDRO AGUSTIN MORALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64227",
+   "Nombre": "FACUNDO GERIBONI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62077",
+   "Nombre": "JUAN IGNACIO CARDOZO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62886",
+   "Nombre": "IAN FONSECA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "65983",
+   "Nombre": "FACUNDO RICARDO AÑON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66893",
+   "Nombre": "DIEGO OLIVERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62875",
+   "Nombre": "SAMUEL ABALDE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62879",
+   "Nombre": "FACUNDO SANTINO LEITES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "68259",
+   "Nombre": "LAUTARO PORTILLO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63622",
+   "Nombre": "DAVID TEIXEIRA",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62882",
+   "Nombre": "FRANCISCO LEIS",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63045",
+   "Nombre": "RENZO FERNANDEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "63941",
+   "Nombre": "FEDERICO DANERS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64277",
+   "Nombre": "FRANCISCO BISELLI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64175",
+   "Nombre": "LUCAS COALLA",
+   "camiseta": "39",
+   "Capitan": ""
+  },
+  {
+   "carne": "64176",
+   "Nombre": "MANUEL MENDARO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64177",
+   "Nombre": "VALENTIN GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "66552",
+   "Nombre": "FACUNDO NICOLAS ORIBE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "67725",
+   "Nombre": "MATEO SEÑORALE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "66547",
+   "Nombre": "TOMAS SALORT",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "66501",
+   "Nombre": "SANTINO ELLIOT",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65983",
+   "Jug_Sale": "FACUNDO RICARDO AÑON",
+   "CarneEntra": "65476",
+   "Jug_Entra": "GONZALO SILVA",
+   "camiseta": "24",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "62875",
+   "Jug_Sale": "SAMUEL ABALDE",
+   "CarneEntra": "65310",
+   "Jug_Entra": "JOAQUIN FERNANDEZ",
+   "camiseta": "20",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "63622",
+   "Jug_Sale": "DAVID TEIXEIRA",
+   "CarneEntra": "62877",
+   "Jug_Entra": "THIAGO CORREA",
+   "camiseta": "6",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "66552",
+   "Jug_Sale": "FACUNDO NICOLAS ORIBE",
+   "CarneEntra": "66549",
+   "Jug_Entra": "JOAQUIN LOPEZ",
+   "camiseta": "20",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "66547",
+   "Jug_Sale": "TOMAS SALORT",
+   "CarneEntra": "67724",
+   "Jug_Entra": "TIZIANO AMADO",
+   "camiseta": "36",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "66501",
+   "Jug_Sale": "SANTINO ELLIOT",
+   "CarneEntra": "66868",
+   "Jug_Entra": "MARTIN IURATO",
+   "camiseta": "23",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "63941",
+   "Jug_Sale": "FEDERICO DANERS",
+   "CarneEntra": "68805",
+   "Jug_Entra": "FAUSTINO PASARELLO",
+   "camiseta": "62",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "64177",
+   "Jug_Sale": "VALENTIN GONZALEZ",
+   "CarneEntra": "63742",
+   "Jug_Entra": "VALENTIN MURIAS",
+   "camiseta": "16",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "64176",
+   "Jug_Sale": "MANUEL MENDARO",
+   "CarneEntra": "68713",
+   "Jug_Entra": "FEDERICO FERRARES",
+   "camiseta": "86",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63622",
+   "Nombre": "DAVID TEIXEIRA",
+   "minutos": "70",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63045",
+   "Nombre": "RENZO FERNANDEZ",
+   "minutos": "78",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "FACUNDO SANTINO LEITES",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "FRANCISCO LEIS",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": [
+  {
+   "Nombre": "MATEO SEÑORALE",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,295 @@
+{
+ "id": "100127",
+ "categoria": "sub16",
+ "serie": "16-5-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 13:30:00",
+ "cancha": "COMPLEJO RUTA 48",
+ "local": "ESCUELA L.P.",
+ "visitante": "YAGUARI",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "124",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 5",
+  "Cancha": "COMPLEJO RUTA 48",
+  "Fecha_Inicio": "2026-06-14 15:00:00",
+  "Fecha_fin": "2026-06-14 15:00:00",
+  "Locatario": "ESCUELA L.P.",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "YAGUARI",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61547",
+   "Nombre": "FACUNDO MOREIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61424",
+   "Nombre": "ULISES ESPINO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "61438",
+   "Nombre": "GUILLERMO GABRIEL SUAREZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68014",
+   "Nombre": "BRUNO GABRIEL GARCIA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61553",
+   "Nombre": "EMANUEL GUERINO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68326",
+   "Nombre": "LUCIANO VALENTIN PEREIRA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68633",
+   "Nombre": "EMILIANO BOIDI",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "68019",
+   "Nombre": "MATIAS GIMENEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68146",
+   "Nombre": "RENZO GONZALEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63825",
+   "Nombre": "GABRIEL LOPEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62414",
+   "Nombre": "ERICK RIVERO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67886",
+   "Nombre": "GUILLERMO SILVA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "64559",
+   "Nombre": "MATEO BASILIO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64558",
+   "Nombre": "FRANCISCO BINAGUY",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64571",
+   "Nombre": "ALFONSO CEBAS",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64557",
+   "Nombre": "FRANCISCO MARTIN ASCHERI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "68173",
+   "Nombre": "MATIAS ACOTA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64552",
+   "Nombre": "IGNACIO JUAMBELTZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "64564",
+   "Nombre": "LUCAS GOLDBERG",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "64556",
+   "Nombre": "FEDERICO LEONCINI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "64569",
+   "Nombre": "BAUTISTA CAMACHO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64565",
+   "Nombre": "SANTIAGO DI BELLO",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68146",
+   "Jug_Sale": "RENZO GONZALEZ",
+   "CarneEntra": "68150",
+   "Jug_Entra": "HALEY ROJAS",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68633",
+   "Jug_Sale": "EMILIANO BOIDI",
+   "CarneEntra": "61426",
+   "Jug_Entra": "LORENZO RIVERO",
+   "camiseta": "22",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "64565",
+   "Jug_Sale": "SANTIAGO DI BELLO",
+   "CarneEntra": "64551",
+   "Jug_Entra": "FELIPE SICA",
+   "camiseta": "22",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64558",
+   "Jug_Sale": "FRANCISCO BINAGUY",
+   "CarneEntra": "67888",
+   "Jug_Entra": "RODRIGO RAMIREZ",
+   "camiseta": "17",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64556",
+   "Jug_Sale": "FEDERICO LEONCINI",
+   "CarneEntra": "64570",
+   "Jug_Entra": "NICOLAS GARCIA",
+   "camiseta": "11",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64557",
+   "Jug_Sale": "FRANCISCO MARTIN ASCHERI",
+   "CarneEntra": "64561",
+   "Jug_Entra": "EMILIANO BRIVA",
+   "camiseta": "4",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64564",
+   "Jug_Sale": "LUCAS GOLDBERG",
+   "CarneEntra": "64563",
+   "Jug_Entra": "SANTIAGO CARIDE",
+   "camiseta": "3",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64559",
+   "Jug_Sale": "MATEO BASILIO",
+   "CarneEntra": "66286",
+   "Jug_Entra": "JUAN BAUTISTA ARENENE",
+   "camiseta": "21",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64551",
+   "Jug_Sale": "FELIPE SICA",
+   "CarneEntra": "64558",
+   "Jug_Entra": "FRANCISCO BINAGUY",
+   "camiseta": "18",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63825",
+   "Nombre": "GABRIEL LOPEZ",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68326",
+   "Nombre": "LUCIANO VALENTIN PEREIRA",
+   "minutos": "7",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "64563",
+   "Nombre": "SANTIAGO CARIDE",
+   "minutos": "65",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64564",
+   "Nombre": "LUCAS GOLDBERG",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64564",
+   "Nombre": "LUCAS GOLDBERG",
+   "minutos": "73",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67888",
+   "Nombre": "RODRIGO RAMIREZ",
+   "minutos": "74",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MATEO BASILIO",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "MATIAS ACOTA",
+   "observaciones": ""
+  }
+ ]
+}

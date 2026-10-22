@@ -1,0 +1,276 @@
+{
+ "id": "100031",
+ "categoria": "sub16",
+ "serie": "16-1-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 13:30:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "URUNDAY UNIVERSITARIO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "12",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 1",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-06-14 15:10:00",
+  "Fecha_fin": "2026-06-14 15:10:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "URUNDAY UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64328",
+   "Nombre": "LORENZO BRUNO PEZZANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66945",
+   "Nombre": "FACUNDO PERERA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "64890",
+   "Nombre": "MARTIN PONCE DE LEON",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67409",
+   "Nombre": "ALEJO CONDE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "66948",
+   "Nombre": "FACUNDO RADESCA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "64330",
+   "Nombre": "BAUTISTA TRIGO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "66947",
+   "Nombre": "TOMAS VILENSKY",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "63038",
+   "Nombre": "FELIPE LIGÜERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67406",
+   "Nombre": "BAUTISTA APRAHAMIAN",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60587",
+   "Nombre": "LEONEL GERONIMO SINFUENTES",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "67896",
+   "Nombre": "MATEO HERNANDEZ",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "62483",
+   "Nombre": "JUAN IGNACIO FREGUEIRO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "67899",
+   "Nombre": "DIEGO AGUSTIN RIVERO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67898",
+   "Nombre": "MATHIAS MANUEL SALDAÑA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "68525",
+   "Nombre": "ADIP NASSER",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "64456",
+   "Nombre": "GIANLUCA IORLANO",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "68277",
+   "Nombre": "VALENTINO LOPEZ",
+   "camiseta": "72",
+   "Capitan": ""
+  },
+  {
+   "carne": "67900",
+   "Nombre": "NICOLAS CAPORALE",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66828",
+   "Nombre": "JUAN MARTIN BELLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62252",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66947",
+   "Jug_Sale": "TOMAS VILENSKY",
+   "CarneEntra": "68188",
+   "Jug_Entra": "JUAN CRUZ BENKO",
+   "camiseta": "33",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66948",
+   "Jug_Sale": "FACUNDO RADESCA",
+   "CarneEntra": "64327",
+   "Jug_Entra": "AGUSTIN JUSTO RODRIGUEZ",
+   "camiseta": "55",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "63461",
+   "Jug_Sale": "GUILLERMO SPILLER",
+   "CarneEntra": "68772",
+   "Jug_Entra": "SANTIAGO FELICETTI",
+   "camiseta": "4",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68277",
+   "Jug_Sale": "VALENTINO LOPEZ",
+   "CarneEntra": "68766",
+   "Jug_Entra": "SANTIAGO DIAZ",
+   "camiseta": "29",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "60587",
+   "Jug_Sale": "LEONEL GERONIMO SINFUENTES",
+   "CarneEntra": "67901",
+   "Jug_Entra": "MATEO CHAVES",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67896",
+   "Jug_Sale": "MATEO HERNANDEZ",
+   "CarneEntra": "62257",
+   "Jug_Entra": "EMILIANO GARCIA",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62483",
+   "Jug_Sale": "JUAN IGNACIO FREGUEIRO",
+   "CarneEntra": "68809",
+   "Jug_Entra": "SANTIAGO BENITEZ",
+   "camiseta": "23",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "66828",
+   "Jug_Sale": "JUAN MARTIN BELLO",
+   "CarneEntra": "67845",
+   "Jug_Entra": "BENJAMIN TORRES",
+   "camiseta": "9",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "64456",
+   "Jug_Sale": "GIANLUCA IORLANO",
+   "CarneEntra": "68810",
+   "Jug_Entra": "MAURICIO GONZALEZ  DINIZ",
+   "camiseta": "8",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "67898",
+   "Jug_Sale": "MATHIAS MANUEL SALDAÑA",
+   "CarneEntra": "68807",
+   "Jug_Entra": "LEANDRO ROCHA",
+   "camiseta": "27",
+   "minutos": "79"
+  },
+  {
+   "CarneSale": "68525",
+   "Jug_Sale": "ADIP NASSER",
+   "CarneEntra": "65450",
+   "Jug_Entra": "RAMIRO BOO",
+   "camiseta": "18",
+   "minutos": "79"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "44",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "DIEGO AGUSTIN RIVERO",
+   "observaciones": ""
+  }
+ ]
+}

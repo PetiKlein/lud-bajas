@@ -1,0 +1,310 @@
+{
+ "id": "100048",
+ "categoria": "sub18",
+ "serie": "18-6-",
+ "fecha": 8,
+ "fechaHora": "2026-06-14 15:30:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "MARISTAS DEPORTIVO",
+ "gl": 4,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "177",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 6",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-06-14 00:00:00",
+  "Fecha_fin": "2026-06-14 00:00:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "MARISTAS DEPORTIVO",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64191",
+   "Nombre": "NICOLAS ANTONIO DE ARMAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62110",
+   "Nombre": "IGNACIO PUPPO",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "62898",
+   "Nombre": "IGNACIO MELENDRE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61163",
+   "Nombre": "MATEO LAPLAZOTTE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "62112",
+   "Nombre": "IGNACIO FROS",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "61182",
+   "Nombre": "LUCAS CANOSA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58908",
+   "Nombre": "MANUEL PONS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62570",
+   "Nombre": "JUAN BERNARDO HERNANDEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64874",
+   "Nombre": "BRUNO NEBRIL",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "57785",
+   "Nombre": "JUAN CAPPELLINI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61694",
+   "Nombre": "SANTIAGO RIOS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "67544",
+   "Nombre": "MATEO MUÑOZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "59049",
+   "Nombre": "SANTIAGO CABRERA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59055",
+   "Nombre": "JUAN PABLO MIGUEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62908",
+   "Nombre": "MATHEUS JOSE DE MORAES",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66011",
+   "Nombre": "FRANCO MARTIN REY",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "60754",
+   "Nombre": "FELIPE DIAZ",
+   "camiseta": "80",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60829",
+   "Nombre": "SANTIAGO MORALES",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "67545",
+   "Nombre": "JOAQUIN TEO FUSTES",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "62890",
+   "Nombre": "BAUTISTA ALBERTO SPENCER",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62933",
+   "Nombre": "JUAN DIEGO ACOSTA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58923",
+   "Nombre": "MATEO CORREA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62110",
+   "Jug_Sale": "IGNACIO PUPPO",
+   "CarneEntra": "59257",
+   "Jug_Entra": "MANUEL ARROYO",
+   "camiseta": "66",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62570",
+   "Jug_Sale": "JUAN BERNARDO HERNANDEZ",
+   "CarneEntra": "62676",
+   "Jug_Entra": "IGNACIO ANDRES CARLEVARO",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64874",
+   "Jug_Sale": "BRUNO NEBRIL",
+   "CarneEntra": "67411",
+   "Jug_Entra": "SANTIAGO SERRANO",
+   "camiseta": "15",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "62898",
+   "Jug_Sale": "IGNACIO MELENDRE",
+   "CarneEntra": "57781",
+   "Jug_Entra": "JUAN PEDRO LANARO",
+   "camiseta": "2",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "61694",
+   "Jug_Sale": "SANTIAGO RIOS",
+   "CarneEntra": "64188",
+   "Jug_Entra": "TOMAS ARAUJO",
+   "camiseta": "77",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58923",
+   "Jug_Sale": "MATEO CORREA",
+   "CarneEntra": "65726",
+   "Jug_Entra": "MATEO LOPEZ",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66011",
+   "Jug_Sale": "FRANCO MARTIN REY",
+   "CarneEntra": "60168",
+   "Jug_Entra": "RAFAEL DELGADO",
+   "camiseta": "97",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67545",
+   "Jug_Sale": "JOAQUIN TEO FUSTES",
+   "CarneEntra": "68381",
+   "Jug_Entra": "FRANCO VALENTIN LIMA",
+   "camiseta": "51",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "60829",
+   "Jug_Sale": "SANTIAGO MORALES",
+   "CarneEntra": "59053",
+   "Jug_Entra": "EZEQUIEL SILVERA",
+   "camiseta": "20",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "62933",
+   "Jug_Sale": "JUAN DIEGO ACOSTA",
+   "CarneEntra": "62612",
+   "Jug_Entra": "AGUSTIN CARLOS LAPIDO",
+   "camiseta": "11",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "59049",
+   "Jug_Sale": "SANTIAGO CABRERA",
+   "CarneEntra": "68722",
+   "Jug_Entra": "FABRICIO MANUEL RABELA",
+   "camiseta": "22",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "59055",
+   "Jug_Sale": "JUAN PABLO MIGUEZ",
+   "CarneEntra": "67546",
+   "Jug_Entra": "LAZARO MANUEL SANTO",
+   "camiseta": "95",
+   "minutos": "76"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57785",
+   "Nombre": "JUAN CAPPELLINI",
+   "minutos": "27",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61163",
+   "Nombre": "MATEO LAPLAZOTTE",
+   "minutos": "61",
+   "EnContra": "0"
+  },
+  {
+   "carne": "61694",
+   "Nombre": "SANTIAGO RIOS",
+   "minutos": "38",
+   "EnContra": "0"
+  },
+  {
+   "carne": "64874",
+   "Nombre": "BRUNO NEBRIL",
+   "minutos": "66",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62933",
+   "Nombre": "JUAN DIEGO ACOSTA",
+   "minutos": "5",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65726",
+   "Nombre": "MATEO LOPEZ",
+   "minutos": "86",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

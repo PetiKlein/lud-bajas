@@ -1,0 +1,277 @@
+{
+ "id": "100242",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO ARACHAN",
+ "local": "WOLFRAMIO",
+ "visitante": "RESISTENCIA",
+ "gl": 0,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "200",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO ARACHAN",
+  "Fecha_Inicio": "2026-06-20 13:08:00",
+  "Fecha_fin": "2026-06-20 13:08:00",
+  "Locatario": "WOLFRAMIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "RESISTENCIA",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "18734",
+   "Nombre": "PABLO MARTIN AREVALO",
+   "camiseta": "79",
+   "Capitan": ""
+  },
+  {
+   "carne": "38807",
+   "Nombre": "JAVIER MALAN",
+   "camiseta": "86",
+   "Capitan": ""
+  },
+  {
+   "carne": "35489",
+   "Nombre": "JUAN ANDRES FERREIRA",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33546",
+   "Nombre": "JUAN EDUARDO GUTIERREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "24978",
+   "Nombre": "ALEJANDRO BRUSONI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67035",
+   "Nombre": "JOSE MARTIN LUCAS",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "54342",
+   "Nombre": "SANTIAGO MARTIN RODRIGUEZ",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "42249",
+   "Nombre": "GUILLERMO LOPEZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "36676",
+   "Nombre": "MAURICIO NICOLAS GEREZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "31372",
+   "Nombre": "JUAN NICOLAS MOSCOSO",
+   "camiseta": "74",
+   "Capitan": ""
+  },
+  {
+   "carne": "39864",
+   "Nombre": "ANTHONY RODRIGO ALFONSO",
+   "camiseta": "49",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32833",
+   "Nombre": "JUAN JAVIER CARBALLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49863",
+   "Nombre": "JUAN IGNACIO PRADO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "24175",
+   "Nombre": "LUCAS METHOL",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "23456",
+   "Nombre": "SERGIO SEBASTIAN MATTOS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26846",
+   "Nombre": "RODRIGO ROCHA",
+   "camiseta": "3",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26679",
+   "Nombre": "PABLO FREIRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "22462",
+   "Nombre": "PEDRO CAPRANI",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "25142",
+   "Nombre": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "27066",
+   "Nombre": "SANTIAGO JULIAN LAGOMARSINO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "23891",
+   "Nombre": "SEBASTIAN GALISTEO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "23840",
+   "Nombre": "RODRIGO AÑON",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "33546",
+   "Jug_Sale": "JUAN EDUARDO GUTIERREZ",
+   "CarneEntra": "36439",
+   "Jug_Entra": "JORGE FABIO DEL RIO",
+   "camiseta": "10",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "54342",
+   "Jug_Sale": "SANTIAGO MARTIN RODRIGUEZ",
+   "CarneEntra": "30456",
+   "Jug_Entra": "MATIAS FEDERICO PAZ",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30456",
+   "Jug_Sale": "MATIAS FEDERICO PAZ",
+   "CarneEntra": "54342",
+   "Jug_Entra": "SANTIAGO MARTIN RODRIGUEZ",
+   "camiseta": "28",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67035",
+   "Jug_Sale": "JOSE MARTIN LUCAS",
+   "CarneEntra": "20207",
+   "Jug_Entra": "ISMAEL TORT",
+   "camiseta": "16",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "36676",
+   "Jug_Sale": "MAURICIO NICOLAS GEREZ",
+   "CarneEntra": "67035",
+   "Jug_Entra": "JOSE MARTIN LUCAS",
+   "camiseta": "26",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "39864",
+   "Jug_Sale": "ANTHONY RODRIGO ALFONSO",
+   "CarneEntra": "44040",
+   "Jug_Entra": "JUAN IGNACIO SALGADO",
+   "camiseta": "35",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24175",
+   "Jug_Sale": "LUCAS METHOL",
+   "CarneEntra": "31507",
+   "Jug_Entra": "JOAQUIN BADO",
+   "camiseta": "2",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "23891",
+   "Jug_Sale": "SEBASTIAN GALISTEO",
+   "CarneEntra": "24879",
+   "Jug_Entra": "DIEGO NICOLAS RIOLFO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25142",
+   "Jug_Sale": "ADRIAN RODRIGO SILVA",
+   "CarneEntra": "23532",
+   "Jug_Entra": "RODRIGO IBACETA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23840",
+   "Jug_Sale": "RODRIGO AÑON",
+   "CarneEntra": "23885",
+   "Jug_Entra": "MAURICIO DANIEL HERNANDEZ",
+   "camiseta": "21",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "27066",
+   "Jug_Sale": "SANTIAGO JULIAN LAGOMARSINO",
+   "CarneEntra": "25142",
+   "Jug_Entra": "ADRIAN RODRIGO SILVA",
+   "camiseta": "23",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "23885",
+   "Nombre": "MAURICIO DANIEL HERNANDEZ",
+   "minutos": "87",
+   "EnContra": "1"
+  },
+  {
+   "carne": "24879",
+   "Nombre": "DIEGO NICOLAS RIOLFO",
+   "minutos": "96",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

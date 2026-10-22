@@ -1,0 +1,253 @@
+{
+ "id": "100149",
+ "categoria": "sub18",
+ "serie": "18-3-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 15:30:00",
+ "cancha": "ACADEMIA",
+ "local": "A.E.B.U",
+ "visitante": "UNIVERSITARIO VERONES",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "65",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 3",
+  "Cancha": "ACADEMIA",
+  "Fecha_Inicio": "2026-06-14 00:00:00",
+  "Fecha_fin": "2026-06-14 00:00:00",
+  "Locatario": "A.E.B.U",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "UNIVERSITARIO VERONES",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "56488",
+   "Nombre": "MATEO SICINIO SOLARI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "60302",
+   "Nombre": "VALENTINO COLINET",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "65427",
+   "Nombre": "MATEO MONROY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58700",
+   "Nombre": "DIEGO FERNANDO PERONE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67152",
+   "Nombre": "THIAGO MONGE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67148",
+   "Nombre": "ANTHONY CRISTOPHE REYES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "68280",
+   "Nombre": "ERDIBE CASAMAYOR",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "67151",
+   "Nombre": "FELIPE MEDEROS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62645",
+   "Nombre": "JOAQUIN FALERO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67783",
+   "Nombre": "NAHUEL MONGE",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "61814",
+   "Nombre": "SANTIAGO JUAN MAGNANI",
+   "camiseta": "174",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66830",
+   "Nombre": "SANTINO MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62520",
+   "Nombre": "RODRIGO LIGÜERA",
+   "camiseta": "21",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66831",
+   "Nombre": "EYDAN GARCIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62828",
+   "Nombre": "FELIPE DUARTE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67437",
+   "Nombre": "LEON DAVID CESPEDES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65837",
+   "Nombre": "MATIAS ALBE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "62532",
+   "Nombre": "AUGUSTO RODRIGUEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "68105",
+   "Nombre": "HIOJAN GABRIEL GUILLENEA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62818",
+   "Nombre": "SANTIAGO VECOÑA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62823",
+   "Nombre": "NAHUEL CASELLA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62816",
+   "Nombre": "ADRIAN MACHADO",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68280",
+   "Jug_Sale": "ERDIBE CASAMAYOR",
+   "CarneEntra": "68627",
+   "Jug_Entra": "FRANCISCO MENDES",
+   "camiseta": "30",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67783",
+   "Jug_Sale": "NAHUEL MONGE",
+   "CarneEntra": "68783",
+   "Jug_Entra": "TAMIR SCOCOZZA",
+   "camiseta": "20",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60302",
+   "Jug_Sale": "VALENTINO COLINET",
+   "CarneEntra": "68280",
+   "Jug_Entra": "ERDIBE CASAMAYOR",
+   "camiseta": "19",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62816",
+   "Jug_Sale": "ADRIAN MACHADO",
+   "CarneEntra": "67436",
+   "Jug_Entra": "FACUNDO NICOLAS ROLIN",
+   "camiseta": "15",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "67437",
+   "Jug_Sale": "LEON DAVID CESPEDES",
+   "CarneEntra": "64345",
+   "Jug_Entra": "ELIAS DAVID MARTINEZ",
+   "camiseta": "22",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "62520",
+   "Jug_Sale": "RODRIGO LIGÜERA",
+   "CarneEntra": "62828",
+   "Jug_Entra": "FELIPE DUARTE",
+   "camiseta": "19",
+   "minutos": "67"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61814",
+   "Nombre": "SANTIAGO JUAN MAGNANI",
+   "minutos": "56",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "65837",
+   "Nombre": "MATIAS ALBE",
+   "minutos": "20",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67437",
+   "Nombre": "LEON DAVID CESPEDES",
+   "minutos": "55",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "SANTIAGO VECOÑA",
+   "observaciones": ""
+  },
+  {
+   "Nombre": "NAHUEL CASELLA",
+   "observaciones": ""
+  }
+ ]
+}

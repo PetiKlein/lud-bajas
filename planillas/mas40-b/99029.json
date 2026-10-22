@@ -1,0 +1,329 @@
+{
+ "id": "99029",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 6,
+ "fechaHora": "2026-05-23 09:00:00",
+ "cancha": "COMPLEJO ARACHAN",
+ "local": "OLIMAR",
+ "visitante": "DANUBIO FUTBOL CLUB",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "167",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO ARACHAN",
+  "Fecha_Inicio": "2026-05-23 10:50:00",
+  "Fecha_fin": "2026-05-23 10:50:00",
+  "Locatario": "OLIMAR",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DANUBIO FUTBOL CLUB",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "11179",
+   "Nombre": "ALVARO DANIEL SIERRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "28168",
+   "Nombre": "EDGARDO FABIAN ALVAREZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "20727",
+   "Nombre": "DIEGO SEBASTIAN BORBA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "16871",
+   "Nombre": "NICOLAS GABRIEL CAMPANELLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "16310",
+   "Nombre": "IGNACIO POSADA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "16593",
+   "Nombre": "JOSE MIGUEL ELOSEGUI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "64699",
+   "Nombre": "DIEGO RIVERO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "22324",
+   "Nombre": "FERNANDO DIEGO DELLEPIANE",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "37967",
+   "Nombre": "CARLOS AGUSTIN MERLO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "41635",
+   "Nombre": "NORBERTO SERGIO LONGO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "35024",
+   "Nombre": "GERARDO LUCAS PAGANI",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "14645",
+   "Nombre": "PABLO ALBERTO FERNANDEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "18843",
+   "Nombre": "WILLIAM GONZALEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "61118",
+   "Nombre": "RUBEN DARIO GEREZ",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58932",
+   "Nombre": "JULIO MARTIN FIGUEREDO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "35270",
+   "Nombre": "WALTER GIANNI BALDASSARI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "13451",
+   "Nombre": "OSCAR ALEJANDRO ARRUDA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "29411",
+   "Nombre": "ALFONSO MICHEL MARQUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "17488",
+   "Nombre": "GABRIEL ALEJANDRO PALLEIRO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "39707",
+   "Nombre": "EDUARDO FABIAN BURGOS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "19856",
+   "Nombre": "SEBASTIAN JORGE RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "21796",
+   "Nombre": "GUILLERMO FEDERICO URAN",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "28168",
+   "Jug_Sale": "EDGARDO FABIAN ALVAREZ",
+   "CarneEntra": "19849",
+   "Jug_Entra": "GASTON FERNANDEZ",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16310",
+   "Jug_Sale": "IGNACIO POSADA",
+   "CarneEntra": "45102",
+   "Jug_Entra": "ESTEBAN ANDRES FERNANDEZ",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16593",
+   "Jug_Sale": "JOSE MIGUEL ELOSEGUI",
+   "CarneEntra": "59469",
+   "Jug_Entra": "GONZALO TECHERA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37967",
+   "Jug_Sale": "CARLOS AGUSTIN MERLO",
+   "CarneEntra": "66483",
+   "Jug_Entra": "MARCELO ENRIQUE CAMPANELLA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16871",
+   "Jug_Sale": "NICOLAS GABRIEL CAMPANELLA",
+   "CarneEntra": "18944",
+   "Jug_Entra": "JUAN MANUEL ELOSEGUI",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35024",
+   "Jug_Sale": "GERARDO LUCAS PAGANI",
+   "CarneEntra": "20604",
+   "Jug_Entra": "PABLO FRESIA",
+   "camiseta": "28",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "20727",
+   "Jug_Sale": "DIEGO SEBASTIAN BORBA",
+   "CarneEntra": "16871",
+   "Jug_Entra": "NICOLAS GABRIEL CAMPANELLA",
+   "camiseta": "4",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "19849",
+   "Jug_Sale": "GASTON FERNANDEZ",
+   "CarneEntra": "37800",
+   "Jug_Entra": "JOSE RAUL RODRIGUEZ",
+   "camiseta": "3",
+   "minutos": "69"
+  },
+  {
+   "CarneSale": "64699",
+   "Jug_Sale": "DIEGO RIVERO",
+   "CarneEntra": "16310",
+   "Jug_Entra": "IGNACIO POSADA",
+   "camiseta": "8",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "22324",
+   "Jug_Sale": "FERNANDO DIEGO DELLEPIANE",
+   "CarneEntra": "37967",
+   "Jug_Entra": "CARLOS AGUSTIN MERLO",
+   "camiseta": "15",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "21796",
+   "Jug_Sale": "GUILLERMO FEDERICO URAN",
+   "CarneEntra": "18625",
+   "Jug_Entra": "RAMIRO ADOLFO RODRIGUEZ",
+   "camiseta": "7",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "29411",
+   "Jug_Sale": "ALFONSO MICHEL MARQUEZ",
+   "CarneEntra": "58590",
+   "Jug_Entra": "DIEGO FERREIRA",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58932",
+   "Jug_Sale": "JULIO MARTIN FIGUEREDO",
+   "CarneEntra": "17384",
+   "Jug_Entra": "DIEGO PERDOMO",
+   "camiseta": "4",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "17488",
+   "Jug_Sale": "GABRIEL ALEJANDRO PALLEIRO",
+   "CarneEntra": "23153",
+   "Jug_Entra": "FABIAN VICTOR CORE",
+   "camiseta": "44",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "39707",
+   "Jug_Sale": "EDUARDO FABIAN BURGOS",
+   "CarneEntra": "66926",
+   "Jug_Entra": "PABLO SEBASTIAN RADÜNZ",
+   "camiseta": "23",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "19856",
+   "Jug_Sale": "SEBASTIAN JORGE RODRIGUEZ",
+   "CarneEntra": "51837",
+   "Jug_Entra": "JOHONATAN ANDRES MARTINEZ",
+   "camiseta": "18",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "19856",
+   "Nombre": "SEBASTIAN JORGE RODRIGUEZ",
+   "minutos": "90",
+   "EnContra": "1"
+  },
+  {
+   "carne": "39707",
+   "Nombre": "EDUARDO FABIAN BURGOS",
+   "minutos": "39",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58932",
+   "Nombre": "JULIO MARTIN FIGUEREDO",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61118",
+   "Nombre": "RUBEN DARIO GEREZ",
+   "minutos": "67",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

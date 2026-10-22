@@ -1,0 +1,239 @@
+{
+ "id": "102617",
+ "categoria": "sub18",
+ "serie": "18-22",
+ "fecha": 3,
+ "fechaHora": "2026-10-04 15:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "LA BLANQUEADA",
+ "visitante": "J.M.L.M",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "224",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 2 RUEDA 2",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-10-04 17:25:00",
+  "Fecha_fin": "2026-10-04 17:25:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "J.M.L.M",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65979",
+   "Nombre": "THIAGO JOAQUIN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66906",
+   "Nombre": "RENZO SANTIAGO CANZANI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68245",
+   "Nombre": "RENZO MADAMO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "59410",
+   "Nombre": "SEBASTIAN MARTINEZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "62312",
+   "Nombre": "MARCELO JAVIER SPANO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64720",
+   "Nombre": "DANIEL MAXIMILIANO FUCE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64702",
+   "Nombre": "JUAN BAUTISTA POLERO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "60153",
+   "Nombre": "LAUTARO FRANCISCO MERNIES",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68263",
+   "Nombre": "LUCA SOCA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "67645",
+   "Nombre": "AGUSTIN DA SILVA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "68264",
+   "Nombre": "JOAQUIN MERCADO",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64169",
+   "Nombre": "PEDRO RAVECA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58001",
+   "Nombre": "JUAN MANUEL BENITEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "58002",
+   "Nombre": "FELIPE MONTEMURRO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58174",
+   "Nombre": "MATEO MARTINEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62406",
+   "Nombre": "BRUNO AREVALO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "61732",
+   "Nombre": "MARTIN CARBALLO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "57052",
+   "Nombre": "VALENTIN VIDAL",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "58807",
+   "Nombre": "ALEJANDRO FERRARI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64264",
+   "Nombre": "DIEGO JAUNSOLO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58806",
+   "Nombre": "MATIAS CAGNOLI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58809",
+   "Nombre": "MATEO SCOTTI",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68264",
+   "Jug_Sale": "JOAQUIN MERCADO",
+   "CarneEntra": "68661",
+   "Jug_Entra": "GENNARO MAZZIOTTI",
+   "camiseta": "18",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "64702",
+   "Jug_Sale": "JUAN BAUTISTA POLERO",
+   "CarneEntra": "64229",
+   "Jug_Entra": "BRUNO GARAY",
+   "camiseta": "81",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "58807",
+   "Jug_Sale": "ALEJANDRO FERRARI",
+   "CarneEntra": "69067",
+   "Jug_Entra": "FACUNDO ACOSTA Y LARA",
+   "camiseta": "31",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "58001",
+   "Jug_Sale": "JUAN MANUEL BENITEZ",
+   "CarneEntra": "61733",
+   "Jug_Entra": "BRUNO SANTINO COPPOLA",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64264",
+   "Jug_Sale": "DIEGO JAUNSOLO",
+   "CarneEntra": "62154",
+   "Jug_Entra": "FACUNDO MARTINEZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62406",
+   "Jug_Sale": "BRUNO AREVALO",
+   "CarneEntra": "58001",
+   "Jug_Entra": "JUAN MANUEL BENITEZ",
+   "camiseta": "18",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "58806",
+   "Jug_Sale": "MATIAS CAGNOLI",
+   "CarneEntra": "64264",
+   "Jug_Entra": "DIEGO JAUNSOLO",
+   "camiseta": "5",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "58806",
+   "Nombre": "MATIAS CAGNOLI",
+   "minutos": "84",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

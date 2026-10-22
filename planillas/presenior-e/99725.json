@@ -1,0 +1,288 @@
+{
+ "id": "99725",
+ "categoria": "presenior-e",
+ "serie": "PSE1",
+ "fecha": 8,
+ "fechaHora": "2026-06-06 09:00:00",
+ "cancha": "COM.SINDICATO MEDICO",
+ "local": "SINDICATO MEDICO DEL URUGUAY",
+ "visitante": "SUDAMERICA UNIVERSITARIO",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "519",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 1",
+  "Cancha": "COM.SINDICATO MEDICO",
+  "Fecha_Inicio": "2026-06-06 11:00:00",
+  "Fecha_fin": "2026-06-06 11:00:00",
+  "Locatario": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "SUDAMERICA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58895",
+   "Nombre": "GONZALO EZEQUIEL BARRIONUEVO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63288",
+   "Nombre": "SERGIO FERNANDO ROSSO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "48337",
+   "Nombre": "EDUARDO GUSTAVO CLAUSTRE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "40213",
+   "Nombre": "DIEGO JOSE ROSSO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67782",
+   "Nombre": "IGNACIO DUARTE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "27963",
+   "Nombre": "JORGE FEDERICO KLEINMAN",
+   "camiseta": "31",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35210",
+   "Nombre": "AGUSTIN BORGGIO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "45582",
+   "Nombre": "JUAN CARLOS CHIARINO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48362",
+   "Nombre": "FABIO NELSON RODRIGUEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "30427",
+   "Nombre": "FABRICIO GANNUSO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "67681",
+   "Nombre": "MARTIN EDISON LONG",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22724",
+   "Nombre": "AGUSTIN ANDRES QUINTEROS",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "40257",
+   "Nombre": "ROQUE MARTIN ANDRADA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "12552",
+   "Nombre": "PABLO DANIEL AGUIAR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "54112",
+   "Nombre": "ARIEL FRANCISCO ACOSTA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "63371",
+   "Nombre": "NICOLAS GRANJA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "37635",
+   "Nombre": "SANTIAGO DIAZ",
+   "camiseta": "29",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "54509",
+   "Nombre": "ROBERTO ANDRES BURGOS",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "22142",
+   "Nombre": "GONZALO PEREZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "43631",
+   "Nombre": "JUAN ANDRES ORTUZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "56949",
+   "Nombre": "FREDERICK EMANUEL LEITES",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "54089",
+   "Nombre": "PABLO GOROSO",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "48337",
+   "Jug_Sale": "EDUARDO GUSTAVO CLAUSTRE",
+   "CarneEntra": "57251",
+   "Jug_Entra": "GUSTAVO ADOLFO CHAVEZ",
+   "camiseta": "70",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35210",
+   "Jug_Sale": "AGUSTIN BORGGIO",
+   "CarneEntra": "30070",
+   "Jug_Entra": "PABLO LACUESTA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67681",
+   "Jug_Sale": "MARTIN EDISON LONG",
+   "CarneEntra": "30994",
+   "Jug_Entra": "VICTOR HUGO MADERA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30427",
+   "Jug_Sale": "FABRICIO GANNUSO",
+   "CarneEntra": "52825",
+   "Jug_Entra": "EMILIANO CAMEJO",
+   "camiseta": "17",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "67782",
+   "Jug_Sale": "IGNACIO DUARTE",
+   "CarneEntra": "57400",
+   "Jug_Entra": "ALEXIS EXEQUIEL CASTRO",
+   "camiseta": "26",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "63288",
+   "Jug_Sale": "SERGIO FERNANDO ROSSO",
+   "CarneEntra": "48337",
+   "Jug_Entra": "EDUARDO GUSTAVO CLAUSTRE",
+   "camiseta": "13",
+   "minutos": "58"
+  },
+  {
+   "CarneSale": "27963",
+   "Jug_Sale": "JORGE FEDERICO KLEINMAN",
+   "CarneEntra": "35210",
+   "Jug_Entra": "AGUSTIN BORGGIO",
+   "camiseta": "16",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "57251",
+   "Jug_Sale": "GUSTAVO ADOLFO CHAVEZ",
+   "CarneEntra": "67782",
+   "Jug_Entra": "IGNACIO DUARTE",
+   "camiseta": "5",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "43631",
+   "Jug_Sale": "JUAN ANDRES ORTUZ",
+   "CarneEntra": "54089",
+   "Jug_Entra": "PABLO GOROSO",
+   "camiseta": "15",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "54089",
+   "Jug_Sale": "PABLO GOROSO",
+   "CarneEntra": "55726",
+   "Jug_Entra": "CESAR MIJAIL BARRETO",
+   "camiseta": "33",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "30427",
+   "Nombre": "FABRICIO GANNUSO",
+   "minutos": "55",
+   "EnContra": "0"
+  },
+  {
+   "carne": "40213",
+   "Nombre": "DIEGO JOSE ROSSO",
+   "minutos": "32",
+   "EnContra": "0"
+  },
+  {
+   "carne": "52825",
+   "Nombre": "EMILIANO CAMEJO",
+   "minutos": "80",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67782",
+   "Nombre": "IGNACIO DUARTE",
+   "minutos": "36",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "56949",
+   "Nombre": "FREDERICK EMANUEL LEITES",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,209 @@
+{
+ "id": "100144",
+ "categoria": "sub16",
+ "serie": "16-3-",
+ "fecha": 3,
+ "fechaHora": "2026-06-14 13:30:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "68",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 3",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-06-14 15:10:00",
+  "Fecha_fin": "2026-06-14 15:10:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "66405",
+   "Nombre": "FRANCO CHIAPPE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61647",
+   "Nombre": "LAUTARO PELAYO",
+   "camiseta": "68",
+   "Capitan": ""
+  },
+  {
+   "carne": "62923",
+   "Nombre": "FRANCISCO CROSSA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63588",
+   "Nombre": "JUAN IGNACIO RAIMONDO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "67493",
+   "Nombre": "GUILLERMO PAIVA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "62261",
+   "Nombre": "LUCIANO BUTTERI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "61560",
+   "Nombre": "ANTONIO CARVALLIDO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66678",
+   "Nombre": "FABIO ALEXANDER SUREZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "63468",
+   "Nombre": "JOAQUIN LASARTE",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61993",
+   "Nombre": "JOAQUIN PEREYRA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "66814",
+   "Nombre": "LUCIO AGUSTIN BENITEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66209",
+   "Nombre": "SANTINO SCOSERIA",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "64586",
+   "Nombre": "FACUNDO MARIO SEGREDO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "65903",
+   "Nombre": "SEBASTIAN BORCA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61692",
+   "Nombre": "SANTIAGO HERNANDEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "63039",
+   "Nombre": "MATEO TAIS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64088",
+   "Nombre": "DIEGO MARTIN PINTOS",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67918",
+   "Nombre": "GASTON MILA",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "67925",
+   "Nombre": "SEBASTIAN OMAR PERALTA",
+   "camiseta": "6",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67493",
+   "Jug_Sale": "GUILLERMO PAIVA",
+   "CarneEntra": "61458",
+   "Jug_Entra": "GERONIMO RODRIGUEZ",
+   "camiseta": "15",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63468",
+   "Jug_Sale": "JOAQUIN LASARTE",
+   "CarneEntra": "63766",
+   "Jug_Entra": "EMANUEL MOREIRA",
+   "camiseta": "14",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "66814",
+   "Jug_Sale": "LUCIO AGUSTIN BENITEZ",
+   "CarneEntra": "67862",
+   "Jug_Entra": "LAUTARO GASTON GIORDANO",
+   "camiseta": "21",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "61993",
+   "Jug_Sale": "JOAQUIN PEREYRA",
+   "CarneEntra": "61494",
+   "Jug_Entra": "BAUTISTA MIRABAL",
+   "camiseta": "7",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "63588",
+   "Jug_Sale": "JUAN IGNACIO RAIMONDO",
+   "CarneEntra": "61995",
+   "Jug_Entra": "JULIAN COSTA",
+   "camiseta": "5",
+   "minutos": "68"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "61560",
+   "Nombre": "ANTONIO CARVALLIDO",
+   "minutos": "71",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [
+  {
+   "Nombre": "LAUTARO PELAYO",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

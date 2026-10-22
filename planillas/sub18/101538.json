@@ -1,0 +1,239 @@
+{
+ "id": "101538",
+ "categoria": "sub18",
+ "serie": "18-12",
+ "fecha": 6,
+ "fechaHora": "2026-09-03 20:30:00",
+ "cancha": "CIUDAD DEPORTIVA LS",
+ "local": "DEPORTIVO LS UNIVERSITARIO",
+ "visitante": "CLUB JESUS MARIA",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "209",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 1 RUEDA 2",
+  "Cancha": "CIUDAD DEPORTIVA LS",
+  "Fecha_Inicio": "2026-09-03 22:20:00",
+  "Fecha_fin": "2026-09-03 22:20:00",
+  "Locatario": "DEPORTIVO LS UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB JESUS MARIA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61026",
+   "Nombre": "MANUEL BARRERA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66726",
+   "Nombre": "FACUNDO BIQUE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "59433",
+   "Nombre": "TOMAS SEBASTIAN FRANCO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "59411",
+   "Nombre": "TIAGO MARTIN RAYMONDO",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "67080",
+   "Nombre": "LUCIANO DAVID MOURA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "61057",
+   "Nombre": "MATEO NICOLI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "63703",
+   "Nombre": "MATHIAS AGUSTIN LOPEZ",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67085",
+   "Nombre": "SANTINO IPARRAGUIRRE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61696",
+   "Nombre": "SANTIAGO CHA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "59417",
+   "Nombre": "BENJAMIN ALVAREZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "60212",
+   "Nombre": "VALENTIN RODRIGUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63266",
+   "Nombre": "JUAN MANUEL LOPEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62822",
+   "Nombre": "JOAQUIN LARREA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62065",
+   "Nombre": "FEDERICO RUBIO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65555",
+   "Nombre": "JOAQUIN MEDINA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62058",
+   "Nombre": "FACUNDO BARRIOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "60473",
+   "Nombre": "JUAN AGUSTIN LOPEZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "58819",
+   "Nombre": "GERONIMO ACUÑA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62062",
+   "Nombre": "AFONSO COSTA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "62069",
+   "Nombre": "SANTIAGO SILVA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62063",
+   "Nombre": "RODRIGO RUBIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "57870",
+   "Nombre": "SANTINO BARATE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "59417",
+   "Jug_Sale": "BENJAMIN ALVAREZ",
+   "CarneEntra": "59414",
+   "Jug_Entra": "FACUNDO RODRIGUEZ",
+   "camiseta": "50",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "60212",
+   "Jug_Sale": "VALENTIN RODRIGUEZ",
+   "CarneEntra": "68635",
+   "Jug_Entra": "EZEQUIEL FABIAN VERA",
+   "camiseta": "24",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "67080",
+   "Jug_Sale": "LUCIANO DAVID MOURA",
+   "CarneEntra": "66182",
+   "Jug_Entra": "FABIAN LEONEL DZIEWULECKA",
+   "camiseta": "27",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "61696",
+   "Jug_Sale": "SANTIAGO CHA",
+   "CarneEntra": "60293",
+   "Jug_Entra": "JOAQUIN PASSADORE",
+   "camiseta": "4",
+   "minutos": "76"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62058",
+   "Jug_Sale": "FACUNDO BARRIOS",
+   "CarneEntra": "61918",
+   "Jug_Entra": "LORENZO SILVA",
+   "camiseta": "50",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "62062",
+   "Jug_Sale": "AFONSO COSTA",
+   "CarneEntra": "62059",
+   "Jug_Entra": "FELIPE RUBIO",
+   "camiseta": "11",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "58819",
+   "Jug_Sale": "GERONIMO ACUÑA",
+   "CarneEntra": "62068",
+   "Jug_Entra": "JUAN MANUEL BERGER",
+   "camiseta": "91",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61696",
+   "Nombre": "SANTIAGO CHA",
+   "minutos": "72",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,242 @@
+{
+ "id": "100278",
+ "categoria": "presenior-e",
+ "serie": "PSE1",
+ "fecha": 4,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "HARAS CUC",
+ "local": "RIVER PLATE UNIVERSITARIO",
+ "visitante": "CLUB RICHARD ANDERSON UNIV.",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "496",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 1",
+  "Cancha": "HARAS CUC",
+  "Fecha_Inicio": "2026-06-20 13:00:00",
+  "Fecha_fin": "2026-06-20 13:00:00",
+  "Locatario": "RIVER PLATE UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "CLUB RICHARD ANDERSON UNIV.",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62850",
+   "Nombre": "SEBASTIAN FERREIRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "51396",
+   "Nombre": "GONZALO ZEBALLOS",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "42401",
+   "Nombre": "DIEGO PABLO FACELLO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65215",
+   "Nombre": "SANTIAGO ALMADA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67042",
+   "Nombre": "ANDRES PASSADORE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "43293",
+   "Nombre": "FABIAN SERVETTI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "45128",
+   "Nombre": "ALAN NELSON GARCIA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67488",
+   "Nombre": "CESAR EMILIANO FALCO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "56865",
+   "Nombre": "ALEXANDER ROBERTO TABEIRA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "34843",
+   "Nombre": "DIEGO FERNANDO CHRISTOPH",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "48296",
+   "Nombre": "GUSTAVO MARTIN ANSELMI",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "33713",
+   "Nombre": "FERNANDO JOSE BARCALA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "29132",
+   "Nombre": "JUAN MARTIN CASAL",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "26708",
+   "Nombre": "FRANCISCO CALVIÑO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "33306",
+   "Nombre": "GONZALO NICOLAS PELUFO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "33116",
+   "Nombre": "GUILLERMO EDUARDO BELZA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "31957",
+   "Nombre": "GONZALO ERNESTO GIAMBRUNO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "28333",
+   "Nombre": "JOAQUIN OJEDA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "26753",
+   "Nombre": "DIEGO MARTIN RIENZI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "31594",
+   "Nombre": "ALAN VACCARO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28100",
+   "Nombre": "ANDRES BUREL",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "31254",
+   "Nombre": "FEDERICO DANIEL ZANETTI",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "45128",
+   "Jug_Sale": "ALAN NELSON GARCIA",
+   "CarneEntra": "38486",
+   "Jug_Entra": "GONZALO MALANDRINO",
+   "camiseta": "8",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "34843",
+   "Jug_Sale": "DIEGO FERNANDO CHRISTOPH",
+   "CarneEntra": "57965",
+   "Jug_Entra": "DIEGO  MARTIN SILVA",
+   "camiseta": "5",
+   "minutos": "33"
+  },
+  {
+   "CarneSale": "56865",
+   "Jug_Sale": "ALEXANDER ROBERTO TABEIRA",
+   "CarneEntra": "43305",
+   "Jug_Entra": "FABRIZIO GONZALEZ",
+   "camiseta": "16",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "48296",
+   "Jug_Sale": "GUSTAVO MARTIN ANSELMI",
+   "CarneEntra": "56865",
+   "Jug_Entra": "ALEXANDER ROBERTO TABEIRA",
+   "camiseta": "21",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "31957",
+   "Jug_Sale": "GONZALO ERNESTO GIAMBRUNO",
+   "CarneEntra": "38658",
+   "Jug_Entra": "GERMAN FERNANDEZ",
+   "camiseta": "31",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "38486",
+   "Nombre": "GONZALO MALANDRINO",
+   "minutos": "81",
+   "EnContra": "0"
+  },
+  {
+   "carne": "48296",
+   "Nombre": "GUSTAVO MARTIN ANSELMI",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "31594",
+   "Nombre": "ALAN VACCARO",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31594",
+   "Nombre": "ALAN VACCARO",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

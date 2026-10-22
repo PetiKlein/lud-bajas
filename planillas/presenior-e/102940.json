@@ -1,0 +1,248 @@
+{
+ "id": "102940",
+ "categoria": "presenior-e",
+ "serie": "PSET2",
+ "fecha": 3,
+ "fechaHora": "2026-10-17 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "LA CUEVA DEL LOBIZON",
+ "visitante": "COLEGIO Y LICEO INGLES",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "1013",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "3",
+  "Divisional": "PS DIV. E 2ªR COPA ORO",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-10-17 11:00:00",
+  "Fecha_fin": "2026-10-17 11:00:00",
+  "Locatario": "LA CUEVA DEL LOBIZON",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "COLEGIO Y LICEO INGLES",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "42159",
+   "Nombre": "SIGFRIDO VETTORAZZI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49909",
+   "Nombre": "PABLO MAYOBRE",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "30916",
+   "Nombre": "MATIAS LA CAVA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "33725",
+   "Nombre": "JUAN OHOLEGUY",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "33715",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "33673",
+   "Nombre": "MARTIN ANDRES TORRES",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "29552",
+   "Nombre": "NICOLAS LEONARDO ZABALETA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "26194",
+   "Nombre": "ALFONSO ROSSO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31219",
+   "Nombre": "MARCIO ADRIAN SERRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "35129",
+   "Nombre": "PABLO FARIAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "28805",
+   "Nombre": "FEDERICO ROSSO",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "37150",
+   "Nombre": "GERONIMO AGUSTIN KACHELE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "29931",
+   "Nombre": "GERMAN SUAREZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "30328",
+   "Nombre": "FACUNDO KACHELE",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "28272",
+   "Nombre": "SERGIO IGNACIO VICO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "36150",
+   "Nombre": "JUAN MANUEL PUIG",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "33332",
+   "Nombre": "JUAN IGNACIO ARANCIBIA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "30770",
+   "Nombre": "GUILLERMO LUIS GALAIN",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "30835",
+   "Nombre": "RODRIGO LUIS PASTOR",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "37163",
+   "Nombre": "FELIPE VAZQUEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "30184",
+   "Nombre": "PEDRO BOADO",
+   "camiseta": "37",
+   "Capitan": ""
+  },
+  {
+   "carne": "24727",
+   "Nombre": "JORGE LUIS NICOLETTI",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "31219",
+   "Jug_Sale": "MARCIO ADRIAN SERRA",
+   "CarneEntra": "60806",
+   "Jug_Entra": "RODRIGO DAMIAN KAHRS",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33725",
+   "Jug_Sale": "JUAN OHOLEGUY",
+   "CarneEntra": "59650",
+   "Jug_Entra": "DIEGO FERNANDO BENITEZ",
+   "camiseta": "99",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "29552",
+   "Jug_Sale": "NICOLAS LEONARDO ZABALETA",
+   "CarneEntra": "37332",
+   "Jug_Entra": "FEDERICO ISPER",
+   "camiseta": "19",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "28805",
+   "Jug_Sale": "FEDERICO ROSSO",
+   "CarneEntra": "32032",
+   "Jug_Entra": "SANTIAGO BORGIA",
+   "camiseta": "31",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "24727",
+   "Jug_Sale": "JORGE LUIS NICOLETTI",
+   "CarneEntra": "23478",
+   "Jug_Entra": "MARCEL ANDRES RAUSS",
+   "camiseta": "24",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "36150",
+   "Jug_Sale": "JUAN MANUEL PUIG",
+   "CarneEntra": "26911",
+   "Jug_Entra": "BRUNO GIANCARLO GENTILE",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "30835",
+   "Jug_Sale": "RODRIGO LUIS PASTOR",
+   "CarneEntra": "24146",
+   "Jug_Entra": "FEDERICO GUAYMALLEN CAMBLOR",
+   "camiseta": "14",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "23478",
+   "Jug_Sale": "MARCEL ANDRES RAUSS",
+   "CarneEntra": "36954",
+   "Jug_Entra": "JOAQUIN SANSBERRO",
+   "camiseta": "80",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "37163",
+   "Jug_Sale": "FELIPE VAZQUEZ",
+   "CarneEntra": "30167",
+   "Jug_Entra": "RENZO PARODI",
+   "camiseta": "91",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

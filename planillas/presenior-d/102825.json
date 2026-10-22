@@ -1,0 +1,267 @@
+{
+ "id": "102825",
+ "categoria": "presenior-d",
+ "serie": "PSDPD",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 00:00:00",
+ "cancha": "COMPLEJO NORTHFIELD",
+ "local": "JEAN PIAGET",
+ "visitante": "ANGLO",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "957",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"D\" PER. y DESC",
+  "Cancha": "COMPLEJO NORTHFIELD",
+  "Fecha_Inicio": "2026-10-10 00:00:00",
+  "Fecha_fin": "2026-10-10 00:00:00",
+  "Locatario": "JEAN PIAGET",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "ANGLO",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "17702",
+   "Nombre": "DANIEL WARD",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37124",
+   "Nombre": "RICHARD ALEJANDRO ROCCO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "18049",
+   "Nombre": "ALAN TURNIANSKY",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "21009",
+   "Nombre": "MAXIMILIANO AUGUSTO PEÑALVA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "43847",
+   "Nombre": "JOAQUIN STIRLING",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "43721",
+   "Nombre": "BRUNO RIVERO",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "57047",
+   "Nombre": "SERGIO GASTON MARTINEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "41052",
+   "Nombre": "VALENTIN MATEO PEÑALVA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "28277",
+   "Nombre": "LUCAS JUAN PUIG",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "41805",
+   "Nombre": "DIEGO AUGUSTO LORENZO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "45283",
+   "Nombre": "DIEGO GAURONAS",
+   "camiseta": "26",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32716",
+   "Nombre": "MARTIN ANDRES ORDOQUI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "51350",
+   "Nombre": "NICOLAS MAURIÑOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "33238",
+   "Nombre": "PABLO NICOLAS NUÑEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "18430",
+   "Nombre": "HERNAN BOUZA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "67504",
+   "Nombre": "RICHARD RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60162",
+   "Nombre": "YUBERT LEONEL ALOY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "25431",
+   "Nombre": "JUAN ANDRES GONZALEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60159",
+   "Nombre": "MATHIAS ADRIAN OTTON",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "32734",
+   "Nombre": "CHRISTIAN ADAN ARRIOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "28464",
+   "Nombre": "ANDRES ALONSO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "35345",
+   "Nombre": "RONEL SEBASTIAN ALVARIZA",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "41805",
+   "Jug_Sale": "DIEGO AUGUSTO LORENZO",
+   "CarneEntra": "41805",
+   "Jug_Entra": "DIEGO AUGUSTO LORENZO",
+   "camiseta": "5",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "37124",
+   "Jug_Sale": "RICHARD ALEJANDRO ROCCO",
+   "CarneEntra": "57047",
+   "Jug_Entra": "SERGIO GASTON MARTINEZ",
+   "camiseta": "14",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57047",
+   "Jug_Sale": "SERGIO GASTON MARTINEZ",
+   "CarneEntra": "23874",
+   "Jug_Entra": "GAI BOROVIK",
+   "camiseta": "17",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67504",
+   "Jug_Sale": "RICHARD RODRIGUEZ",
+   "CarneEntra": "67787",
+   "Jug_Entra": "JOAQUIN GARCIA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18430",
+   "Jug_Sale": "HERNAN BOUZA",
+   "CarneEntra": "18539",
+   "Jug_Entra": "MAURICIO EDUARDO SANTELLAN",
+   "camiseta": "22",
+   "minutos": "37"
+  },
+  {
+   "CarneSale": "35345",
+   "Jug_Sale": "RONEL SEBASTIAN ALVARIZA",
+   "CarneEntra": "61143",
+   "Jug_Entra": "FEDERICO MANUEL OLIVERA",
+   "camiseta": "32",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "28464",
+   "Jug_Sale": "ANDRES ALONSO",
+   "CarneEntra": "54335",
+   "Jug_Entra": "MATEO HERNANDEZ",
+   "camiseta": "20",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "25431",
+   "Jug_Sale": "JUAN ANDRES GONZALEZ",
+   "CarneEntra": "17610",
+   "Jug_Entra": "ALEJANDRO GONZALEZ",
+   "camiseta": "4",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "32734",
+   "Jug_Sale": "CHRISTIAN ADAN ARRIOLA",
+   "CarneEntra": "64634",
+   "Jug_Entra": "LEONARDO GABRIEL HERNANDEZ",
+   "camiseta": "9",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "32734",
+   "Nombre": "CHRISTIAN ADAN ARRIOLA",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "32734",
+   "Nombre": "CHRISTIAN ADAN ARRIOLA",
+   "minutos": "58",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61143",
+   "Nombre": "FEDERICO MANUEL OLIVERA",
+   "minutos": "90",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

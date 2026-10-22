@@ -1,0 +1,307 @@
+{
+ "id": "102425",
+ "categoria": "sub16",
+ "serie": "16-22",
+ "fecha": 5,
+ "fechaHora": "2026-09-27 15:30:00",
+ "cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+ "local": "LA BLANQUEADA",
+ "visitante": "CLUB SEMINARIO",
+ "gl": 1,
+ "gv": 10,
+ "detalle": {
+  "nro_partido": "188",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 2 RUEDA 2",
+  "Cancha": "PARQUE CUPRA - CLUB SEMINARIO",
+  "Fecha_Inicio": "2026-09-27 17:20:00",
+  "Fecha_fin": "2026-09-27 17:20:00",
+  "Locatario": "LA BLANQUEADA",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB SEMINARIO",
+  "goles_visitante": "10",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68267",
+   "Nombre": "FABRIZIO GIAMBIASI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65310",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66741",
+   "Nombre": "JOAQUIN TARANTO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "63023",
+   "Nombre": "LUCAS EMANUEL MACHADO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62877",
+   "Nombre": "THIAGO CORREA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66893",
+   "Nombre": "DIEGO OLIVERA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "64227",
+   "Nombre": "FACUNDO GERIBONI",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "62880",
+   "Nombre": "GONZALO ABELLA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "66746",
+   "Nombre": "THIAGO BROQUETAS",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68404",
+   "Nombre": "THIAGO CURBELO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66742",
+   "Nombre": "MATIAS TERRA",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62569",
+   "Nombre": "MATIAS GABRIEL COLOMBO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62553",
+   "Nombre": "FELIPE GOSLINO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65165",
+   "Nombre": "FRANCO TAMBORINI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "62626",
+   "Nombre": "ALFONSO MARQUISA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65109",
+   "Nombre": "GONZALO ALEJANDRO CASSARINO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "65364",
+   "Nombre": "FRANCISO RAMOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "66627",
+   "Nombre": "FRANCO PERCOVICH",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "65365",
+   "Nombre": "JUAN VALENTI",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65173",
+   "Nombre": "ANTONIO XALAMBRI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "62946",
+   "Nombre": "MATIAS DOMINGUEZ",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "62350",
+   "Nombre": "NICOLAS FERRAZ",
+   "camiseta": "7",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [],
+ "cambiosV": [
+  {
+   "CarneSale": "65109",
+   "Jug_Sale": "GONZALO ALEJANDRO CASSARINO",
+   "CarneEntra": "65173",
+   "Jug_Entra": "ANTONIO XALAMBRI",
+   "camiseta": "11",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "62626",
+   "Jug_Sale": "ALFONSO MARQUISA",
+   "CarneEntra": "62553",
+   "Jug_Entra": "FELIPE GOSLINO",
+   "camiseta": "18",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "66627",
+   "Jug_Sale": "FRANCO PERCOVICH",
+   "CarneEntra": "62350",
+   "Jug_Entra": "NICOLAS FERRAZ",
+   "camiseta": "7",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "62946",
+   "Jug_Sale": "MATIAS DOMINGUEZ",
+   "CarneEntra": "65365",
+   "Jug_Entra": "JUAN VALENTI",
+   "camiseta": "5",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "62553",
+   "Jug_Sale": "FELIPE GOSLINO",
+   "CarneEntra": "62803",
+   "Jug_Entra": "FRANCISCO RIVA",
+   "camiseta": "2",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65173",
+   "Jug_Sale": "ANTONIO XALAMBRI",
+   "CarneEntra": "65111",
+   "Jug_Entra": "FELIPE VIOLA",
+   "camiseta": "9",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65365",
+   "Jug_Sale": "JUAN VALENTI",
+   "CarneEntra": "67731",
+   "Jug_Entra": "FRANCISCO ALLEGRI",
+   "camiseta": "19",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62350",
+   "Jug_Sale": "NICOLAS FERRAZ",
+   "CarneEntra": "67353",
+   "Jug_Entra": "JUAN MARTIN BIDEGAIN",
+   "camiseta": "15",
+   "minutos": "40"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65310",
+   "Nombre": "JOAQUIN FERNANDEZ",
+   "minutos": "20",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62553",
+   "Nombre": "FELIPE GOSLINO",
+   "minutos": "19",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62946",
+   "Nombre": "MATIAS DOMINGUEZ",
+   "minutos": "15",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65111",
+   "Nombre": "FELIPE VIOLA",
+   "minutos": "61",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65111",
+   "Nombre": "FELIPE VIOLA",
+   "minutos": "62",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65173",
+   "Nombre": "ANTONIO XALAMBRI",
+   "minutos": "18",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65173",
+   "Nombre": "ANTONIO XALAMBRI",
+   "minutos": "30",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66627",
+   "Nombre": "FRANCO PERCOVICH",
+   "minutos": "7",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66627",
+   "Nombre": "FRANCO PERCOVICH",
+   "minutos": "16",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67731",
+   "Nombre": "FRANCISCO ALLEGRI",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67731",
+   "Nombre": "FRANCISCO ALLEGRI",
+   "minutos": "73",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

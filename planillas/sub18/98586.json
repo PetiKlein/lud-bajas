@@ -1,0 +1,260 @@
+{
+ "id": "98586",
+ "categoria": "sub18",
+ "serie": "18-3-",
+ "fecha": 2,
+ "fechaHora": "2026-04-26 15:30:00",
+ "cancha": "SCUOLA ITALIANA",
+ "local": "SCUOLA PALERMO",
+ "visitante": "COLEGIO SANTA ELENA",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "63",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 3",
+  "Cancha": "SCUOLA ITALIANA",
+  "Fecha_Inicio": "2026-04-26 17:20:00",
+  "Fecha_fin": "2026-04-26 17:20:00",
+  "Locatario": "SCUOLA PALERMO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "COLEGIO SANTA ELENA",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63525",
+   "Nombre": "DAVI VIERA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "62155",
+   "Nombre": "BENO QUARTARA",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "62157",
+   "Nombre": "FACUNDO TORTEROLO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "60745",
+   "Nombre": "LUCIANO DELGADO",
+   "camiseta": "98",
+   "Capitan": ""
+  },
+  {
+   "carne": "59177",
+   "Nombre": "NICOLAS MARQUES",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "57695",
+   "Nombre": "CAMILO ZAMORA",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "67703",
+   "Nombre": "AGUSTIN NATTERO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63526",
+   "Nombre": "MATEO LABRADOR",
+   "camiseta": "12",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59564",
+   "Nombre": "HUGO BARCHI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68094",
+   "Nombre": "JUAN SANTIAGO KALEMKERIAN",
+   "camiseta": "93",
+   "Capitan": ""
+  },
+  {
+   "carne": "59173",
+   "Nombre": "AGUSTIN NICOLAS GANDINI",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62694",
+   "Nombre": "NOAH ELIAS LEFKARITIS",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64156",
+   "Nombre": "GUILLERMO ZAMPROGNO",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "63760",
+   "Nombre": "JUAN MANUEL RODRIGUEZ",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "66257",
+   "Nombre": "FACUNDO CIPILIANO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "63150",
+   "Nombre": "MATHIAS PABLO FAZZIO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "58136",
+   "Nombre": "MATEO BENSASSON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58409",
+   "Nombre": "LUCIANO CABRERA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "58135",
+   "Nombre": "TIAGO JULIEN ALVAREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62530",
+   "Nombre": "ELIAN SHARIM TEJERIA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "64724",
+   "Nombre": "JUAN SALVADOR MENDEZ",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "62528",
+   "Nombre": "IGNACIO ARIMON",
+   "camiseta": "32",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62157",
+   "Jug_Sale": "FACUNDO TORTEROLO",
+   "CarneEntra": "59171",
+   "Jug_Entra": "FRANCISCO BROCH",
+   "camiseta": "25",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "59173",
+   "Jug_Sale": "AGUSTIN NICOLAS GANDINI",
+   "CarneEntra": "62129",
+   "Jug_Entra": "LUCAS GUTIERREZ",
+   "camiseta": "27",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63150",
+   "Jug_Sale": "MATHIAS PABLO FAZZIO",
+   "CarneEntra": "64914",
+   "Jug_Entra": "FEDERICO ABREU",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66257",
+   "Jug_Sale": "FACUNDO CIPILIANO",
+   "CarneEntra": "68391",
+   "Jug_Entra": "SANTINO GORDILLO",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64724",
+   "Jug_Sale": "JUAN SALVADOR MENDEZ",
+   "CarneEntra": "57679",
+   "Jug_Entra": "JUAN MANUEL BELLO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62528",
+   "Jug_Sale": "IGNACIO ARIMON",
+   "CarneEntra": "66217",
+   "Jug_Entra": "JUAN GENARO TABO",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58135",
+   "Jug_Sale": "TIAGO JULIEN ALVAREZ",
+   "CarneEntra": "63065",
+   "Jug_Entra": "RODRIGO BENTANCOURT",
+   "camiseta": "32",
+   "minutos": "47"
+  },
+  {
+   "CarneSale": "58135",
+   "Jug_Sale": "TIAGO JULIEN ALVAREZ",
+   "CarneEntra": "61890",
+   "Jug_Entra": "FELIPE MOLFINO",
+   "camiseta": "22",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57695",
+   "Nombre": "CAMILO ZAMORA",
+   "minutos": "10",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58135",
+   "Nombre": "TIAGO JULIEN ALVAREZ",
+   "minutos": "59",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62530",
+   "Nombre": "ELIAN SHARIM TEJERIA",
+   "minutos": "27",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

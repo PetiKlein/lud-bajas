@@ -1,0 +1,288 @@
+{
+ "id": "101752",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 13,
+ "fechaHora": "2026-09-12 09:00:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "JUAN XXIII",
+ "gl": 1,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "103",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-09-12 10:50:00",
+  "Fecha_fin": "2026-09-12 10:50:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "JUAN XXIII",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "34543",
+   "Nombre": "HERNAN GOMEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35037",
+   "Nombre": "FEDERICO CARSIN",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "38595",
+   "Nombre": "PABLO FERNANDEZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "34110",
+   "Nombre": "RODRIGO CARSIN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "29901",
+   "Nombre": "CAMILO LAGUNA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "26840",
+   "Nombre": "HECTOR MARIANO MENDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "31053",
+   "Nombre": "MARTIN NICOLAS BINCE",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "23869",
+   "Nombre": "SANTIAGO ESTEVEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "54800",
+   "Nombre": "ADRIAN AGUIAR GERARDO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "34812",
+   "Nombre": "FELIPE MOTTA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "23905",
+   "Nombre": "IGNACIO RAFAEL D AVILA",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22065",
+   "Nombre": "PABLO JAVIER VERGES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33489",
+   "Nombre": "JUAN MANUEL YAÑEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "21348",
+   "Nombre": "PABLO CORREA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "27083",
+   "Nombre": "NICOLAS DIEGO MOURE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "33743",
+   "Nombre": "DIEGO CAYOTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "37774",
+   "Nombre": "RICHARD FERNANDO BARBOZA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "28086",
+   "Nombre": "GUZMAN PRESNO",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32536",
+   "Nombre": "DIEGO ALBERTO PEREZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "29212",
+   "Nombre": "ALFONSO MARIA CASTELLS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "21269",
+   "Nombre": "ALFONSO LUIS VIDAL",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "22120",
+   "Nombre": "SANTIAGO ESCOBAR",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23869",
+   "Jug_Sale": "SANTIAGO ESTEVEZ",
+   "CarneEntra": "26514",
+   "Jug_Entra": "JUAN PEDRO CHIAPPARA",
+   "camiseta": "27",
+   "minutos": "5"
+  },
+  {
+   "CarneSale": "35037",
+   "Jug_Sale": "FEDERICO CARSIN",
+   "CarneEntra": "34815",
+   "Jug_Entra": "IGNACIO MEDERO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "54800",
+   "Jug_Sale": "ADRIAN AGUIAR GERARDO",
+   "CarneEntra": "30511",
+   "Jug_Entra": "BRUNO ERNESTO MILAN",
+   "camiseta": "15",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "31053",
+   "Jug_Sale": "MARTIN NICOLAS BINCE",
+   "CarneEntra": "22028",
+   "Jug_Entra": "JHONATAN RICARDO MARTINEZ",
+   "camiseta": "3",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "34812",
+   "Jug_Sale": "FELIPE MOTTA",
+   "CarneEntra": "39911",
+   "Jug_Entra": "LORENZO RAUL TENCA",
+   "camiseta": "29",
+   "minutos": "72"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22065",
+   "Jug_Sale": "PABLO JAVIER VERGES",
+   "CarneEntra": "54395",
+   "Jug_Entra": "ANDRES VECINO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37774",
+   "Jug_Sale": "RICHARD FERNANDO BARBOZA",
+   "CarneEntra": "28887",
+   "Jug_Entra": "JAVIER URRESTARAZU",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "21348",
+   "Jug_Sale": "PABLO CORREA",
+   "CarneEntra": "21458",
+   "Jug_Entra": "PABLO JOSE MARTON",
+   "camiseta": "20",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "22120",
+   "Jug_Sale": "SANTIAGO ESCOBAR",
+   "CarneEntra": "18778",
+   "Jug_Entra": "SANTIAGO WALTER CAMPO",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33489",
+   "Jug_Sale": "JUAN MANUEL YAÑEZ",
+   "CarneEntra": "33135",
+   "Jug_Entra": "NICOLAS RAMON AÑON",
+   "camiseta": "21",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "34812",
+   "Nombre": "FELIPE MOTTA",
+   "minutos": "21",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "21269",
+   "Nombre": "ALFONSO LUIS VIDAL",
+   "minutos": "14",
+   "EnContra": "1"
+  },
+  {
+   "carne": "21269",
+   "Nombre": "ALFONSO LUIS VIDAL",
+   "minutos": "50",
+   "EnContra": "1"
+  },
+  {
+   "carne": "21269",
+   "Nombre": "ALFONSO LUIS VIDAL",
+   "minutos": "92",
+   "EnContra": "1"
+  },
+  {
+   "carne": "28086",
+   "Nombre": "GUZMAN PRESNO",
+   "minutos": "25",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

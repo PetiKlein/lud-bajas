@@ -1,0 +1,265 @@
+{
+ "id": "100218",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "VERDE BREMEN",
+ "local": "PERRY SEXTA UNIVERSITARIO",
+ "visitante": "CENTRO GALLEGO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "199",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "VERDE BREMEN",
+  "Fecha_Inicio": "2026-06-20 11:00:00",
+  "Fecha_fin": "2026-06-20 11:00:00",
+  "Locatario": "PERRY SEXTA UNIVERSITARIO",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CENTRO GALLEGO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57513",
+   "Nombre": "MARTIN TORRES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "37677",
+   "Nombre": "GABRIEL CANTERA",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24867",
+   "Nombre": "GUILLERMO RUIZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "43467",
+   "Nombre": "NICOLAS PATRICIO LLAMBI",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "32042",
+   "Nombre": "RODRIGO ERNESTO CAPRARIO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "52218",
+   "Nombre": "MARTIN VILCHE",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "30262",
+   "Nombre": "SEBASTIAN MARIO LADO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "24958",
+   "Nombre": "MATHIAS NICOLAS VARELA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "47661",
+   "Nombre": "EMILIANO MIELS SANTOS",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64241",
+   "Nombre": "PAOLO BALDUINI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "28796",
+   "Nombre": "RODRIGO EDUARDO POSTIGLIONE",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29319",
+   "Nombre": "DAMIAN BAPTISTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26416",
+   "Nombre": "MATIAS IVAN RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "30896",
+   "Nombre": "AGUSTIN SANTIAGO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "67211",
+   "Nombre": "PABLO MARTIN BUDUSSIAN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "22596",
+   "Nombre": "BRUNO MARTELLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "68365",
+   "Nombre": "CHRISTIAN NICOLAS TRINIDAD",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "29335",
+   "Nombre": "WALTER MARTIN BURWOOD",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "32517",
+   "Nombre": "VENANCIO FLORES",
+   "camiseta": "77",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62848",
+   "Nombre": "FELIPE PILON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "33394",
+   "Nombre": "PEDRO PORTA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38871",
+   "Nombre": "BRIAN DANIEL SILVA",
+   "camiseta": "21",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "37677",
+   "Jug_Sale": "GABRIEL CANTERA",
+   "CarneEntra": "38941",
+   "Jug_Entra": "CHRISTIAN NICOLAS ALVERNAZ",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24867",
+   "Jug_Sale": "GUILLERMO RUIZ",
+   "CarneEntra": "52556",
+   "Jug_Entra": "RODRIGO ANDRES GONZALEZ",
+   "camiseta": "19",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "30262",
+   "Jug_Sale": "SEBASTIAN MARIO LADO",
+   "CarneEntra": "40804",
+   "Jug_Entra": "BRUNO DANIEL ESAIN",
+   "camiseta": "27",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "24958",
+   "Jug_Sale": "MATHIAS NICOLAS VARELA",
+   "CarneEntra": "26146",
+   "Jug_Entra": "HORACIO ALDO MONTORO",
+   "camiseta": "18",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "64241",
+   "Jug_Sale": "PAOLO BALDUINI",
+   "CarneEntra": "40575",
+   "Jug_Entra": "JUAN MARTIN HERNANDEZ",
+   "camiseta": "32",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67211",
+   "Jug_Sale": "PABLO MARTIN BUDUSSIAN",
+   "CarneEntra": "45725",
+   "Jug_Entra": "GERMAN NAHUEL MEDINA",
+   "camiseta": "22",
+   "minutos": "57"
+  },
+  {
+   "CarneSale": "68365",
+   "Jug_Sale": "CHRISTIAN NICOLAS TRINIDAD",
+   "CarneEntra": "38252",
+   "Jug_Entra": "LUCAS BAPTISTA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38871",
+   "Jug_Sale": "BRIAN DANIEL SILVA",
+   "CarneEntra": "67211",
+   "Jug_Entra": "PABLO MARTIN BUDUSSIAN",
+   "camiseta": "18",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "38941",
+   "Nombre": "CHRISTIAN NICOLAS ALVERNAZ",
+   "minutos": "52",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "62848",
+   "Nombre": "FELIPE PILON",
+   "minutos": "69",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62848",
+   "Nombre": "FELIPE PILON",
+   "minutos": "91",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "MATIAS IVAN RODRIGUEZ",
+   "observaciones": ""
+  }
+ ]
+}

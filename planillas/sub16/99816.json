@@ -1,0 +1,338 @@
+{
+ "id": "99816",
+ "categoria": "sub16",
+ "serie": "16-3-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 13:30:00",
+ "cancha": "ACADEMIA",
+ "local": "A.E.B.U",
+ "visitante": "CIRCULO DE TENIS MONTEVIDEO",
+ "gl": 1,
+ "gv": 7,
+ "detalle": {
+  "nro_partido": "81",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-16 SERIE 3",
+  "Cancha": "ACADEMIA",
+  "Fecha_Inicio": "2026-06-07 14:30:00",
+  "Fecha_fin": "2026-06-07 14:30:00",
+  "Locatario": "A.E.B.U",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_visitante": "7",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "65140",
+   "Nombre": "JOAQUIN REVELLO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "65128",
+   "Nombre": "RONALD CASTELLON",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67228",
+   "Nombre": "THIAGO PEREZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "67231",
+   "Nombre": "CAMILO MARTIN PEREZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "66119",
+   "Nombre": "SANTIAGO MANUEL SILVA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68501",
+   "Nombre": "JOAQUIN VIERA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67733",
+   "Nombre": "ALEJANDRO MARRERO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "68641",
+   "Nombre": "BENICIO CAYAFFA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65139",
+   "Nombre": "DANIEL ANTONIO LEYVA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "65132",
+   "Nombre": "ANGEL AMENGOR",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "65130",
+   "Nombre": "FELIPE CUETO",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65247",
+   "Nombre": "VALENTINO MARADEI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "68383",
+   "Nombre": "RODRIGO ATILIO GARCIA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "62752",
+   "Nombre": "MARCOS SANDINO GANDINI",
+   "camiseta": "49",
+   "Capitan": ""
+  },
+  {
+   "carne": "65149",
+   "Nombre": "AGUSTIN ESTEBAN SOSA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65186",
+   "Nombre": "RAUL SEBASTIAN CAZABAN",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "60736",
+   "Nombre": "PEDRO ARQUERO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "60428",
+   "Nombre": "BLAS TRAVERS",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "60696",
+   "Nombre": "CARLOS FIELITZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63035",
+   "Nombre": "JOAQUIN NUÑEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62743",
+   "Nombre": "XABI JORGE PEREZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "68488",
+   "Nombre": "SAMUEL DYLAN RIVAS",
+   "camiseta": "57",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65132",
+   "Jug_Sale": "ANGEL AMENGOR",
+   "CarneEntra": "65133",
+   "Jug_Entra": "MARCO STEFANO FERRANTY",
+   "camiseta": "7",
+   "minutos": "52"
+  },
+  {
+   "CarneSale": "65139",
+   "Jug_Sale": "DANIEL ANTONIO LEYVA",
+   "CarneEntra": "65422",
+   "Jug_Entra": "AGUSTIN NUÑEZ",
+   "camiseta": "6",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "67228",
+   "Jug_Sale": "THIAGO PEREZ",
+   "CarneEntra": "65420",
+   "Jug_Entra": "CONSTANTINO CABRERA",
+   "camiseta": "5",
+   "minutos": "65"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65247",
+   "Jug_Sale": "VALENTINO MARADEI",
+   "CarneEntra": "68486",
+   "Jug_Entra": "GERMAN PEREIRA",
+   "camiseta": "15",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65149",
+   "Jug_Sale": "AGUSTIN ESTEBAN SOSA",
+   "CarneEntra": "63193",
+   "Jug_Entra": "JUAN IGNACIO SANTOS",
+   "camiseta": "57",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65186",
+   "Jug_Sale": "RAUL SEBASTIAN CAZABAN",
+   "CarneEntra": "65148",
+   "Jug_Entra": "SANTINO VEGA",
+   "camiseta": "5",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "60428",
+   "Jug_Sale": "BLAS TRAVERS",
+   "CarneEntra": "68744",
+   "Jug_Entra": "FRANCO SANTAMARIA",
+   "camiseta": "81",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "60696",
+   "Jug_Sale": "CARLOS FIELITZ",
+   "CarneEntra": "68743",
+   "Jug_Entra": "JOAQUIN SERNIZ",
+   "camiseta": "91",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "62743",
+   "Jug_Sale": "XABI JORGE PEREZ",
+   "CarneEntra": "60433",
+   "Jug_Entra": "ALFONSO PAROLIN",
+   "camiseta": "20",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "68488",
+   "Jug_Sale": "SAMUEL DYLAN RIVAS",
+   "CarneEntra": "63707",
+   "Jug_Entra": "JUAN MARTIN BARTABURU",
+   "camiseta": "41",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "60428",
+   "Jug_Sale": "BLAS TRAVERS",
+   "CarneEntra": "65154",
+   "Jug_Entra": "PEDRO MARTINEZ",
+   "camiseta": "13",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "60736",
+   "Jug_Sale": "PEDRO ARQUERO",
+   "CarneEntra": "68455",
+   "Jug_Entra": "JOAQUIN ESPINOSA",
+   "camiseta": "12",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "63035",
+   "Jug_Sale": "JOAQUIN NUÑEZ",
+   "CarneEntra": "63016",
+   "Jug_Entra": "THIAGO ISMAEL VILLARES",
+   "camiseta": "18",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63016",
+   "Jug_Sale": "THIAGO ISMAEL VILLARES",
+   "CarneEntra": "65183",
+   "Jug_Entra": "JOAQUIN GERSCHUNI",
+   "camiseta": "9",
+   "minutos": "64"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "65139",
+   "Nombre": "DANIEL ANTONIO LEYVA",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "63707",
+   "Nombre": "JUAN MARTIN BARTABURU",
+   "minutos": "56",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65149",
+   "Nombre": "AGUSTIN ESTEBAN SOSA",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "65186",
+   "Nombre": "RAUL SEBASTIAN CAZABAN",
+   "minutos": "16",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68455",
+   "Nombre": "JOAQUIN ESPINOSA",
+   "minutos": "93",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68744",
+   "Nombre": "FRANCO SANTAMARIA",
+   "minutos": "49",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68744",
+   "Nombre": "FRANCO SANTAMARIA",
+   "minutos": "63",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68744",
+   "Nombre": "FRANCO SANTAMARIA",
+   "minutos": "80",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

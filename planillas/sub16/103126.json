@@ -1,0 +1,305 @@
+{
+ "id": "103126",
+ "categoria": "sub16",
+ "serie": "16B",
+ "fecha": 1,
+ "fechaHora": "2026-10-18 13:30:00",
+ "cancha": "COMPLEJO DFC",
+ "local": "DFC",
+ "visitante": "DEP.de la C. ARETEIA BIMBULLY",
+ "gl": 0,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "339",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "3",
+  "Divisional": "SUB16 BRONCE",
+  "Cancha": "COMPLEJO DFC",
+  "Fecha_Inicio": "2026-10-18 15:10:00",
+  "Fecha_fin": "2026-10-18 15:10:00",
+  "Locatario": "DFC",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "DEP.de la C. ARETEIA BIMBULLY",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63051",
+   "Nombre": "LUCIANO MONTAÑA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67602",
+   "Nombre": "VALENTINO LAUTARO DE ARMAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67469",
+   "Nombre": "SANTIAGO DANIEL DE LA LLANA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67932",
+   "Nombre": "BAUTISTA PAZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "67468",
+   "Nombre": "FACUNDO BENJAMIN FACUNDO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "67600",
+   "Nombre": "BRUNO NICOLAS YACQUE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68183",
+   "Nombre": "JOAQUIN JOAQUIN",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "67929",
+   "Nombre": "EMILIANO BURGAINS",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "67464",
+   "Nombre": "VALENTIN SALVADOR ALFARO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67607",
+   "Nombre": "LAUTARO ALEXANDER ALANIS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "67609",
+   "Nombre": "NICOLAS RAUL PEREIRO",
+   "camiseta": "18",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "63096",
+   "Nombre": "MARCOS MARTIN LEIRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "63941",
+   "Nombre": "FEDERICO DANERS",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64183",
+   "Nombre": "CAMILO VEGA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "66549",
+   "Nombre": "JOAQUIN LOPEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64176",
+   "Nombre": "MANUEL MENDARO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "62871",
+   "Nombre": "BENJAMIN FERNANDEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67724",
+   "Nombre": "TIZIANO AMADO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "66552",
+   "Nombre": "FACUNDO NICOLAS ORIBE",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66868",
+   "Nombre": "MARTIN IURATO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "66551",
+   "Nombre": "EMANUEL CORREA",
+   "camiseta": "73",
+   "Capitan": ""
+  },
+  {
+   "carne": "64180",
+   "Nombre": "CAETANO BEYHAUT",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67607",
+   "Jug_Sale": "LAUTARO ALEXANDER ALANIS",
+   "CarneEntra": "68451",
+   "Jug_Entra": "GUSTAVO ALEJANDRO ATENCIO",
+   "camiseta": "28",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "63051",
+   "Jug_Sale": "LUCIANO MONTAÑA",
+   "CarneEntra": "67601",
+   "Jug_Entra": "CONSTANTINO VIERAS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68183",
+   "Jug_Sale": "JOAQUIN JOAQUIN",
+   "CarneEntra": "68911",
+   "Jug_Entra": "SANTIAGO AGUSTIN ESCARCENA",
+   "camiseta": "79",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67600",
+   "Jug_Sale": "BRUNO NICOLAS YACQUE",
+   "CarneEntra": "67466",
+   "Jug_Entra": "FRANCO OTTONELLO",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67464",
+   "Jug_Sale": "VALENTIN SALVADOR ALFARO",
+   "CarneEntra": "67465",
+   "Jug_Entra": "IGANCIO CAMEJO",
+   "camiseta": "8",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "67609",
+   "Jug_Sale": "NICOLAS RAUL PEREIRO",
+   "CarneEntra": "67603",
+   "Jug_Entra": "BRUNO PODESTA",
+   "camiseta": "16",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "67468",
+   "Jug_Sale": "FACUNDO BENJAMIN FACUNDO",
+   "CarneEntra": "68964",
+   "Jug_Entra": "BENJAMIN DANIEL CALCAÑO",
+   "camiseta": "88",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "68451",
+   "Jug_Sale": "GUSTAVO ALEJANDRO ATENCIO",
+   "CarneEntra": "67463",
+   "Jug_Entra": "ROMAN GABRIEL MARTINEZ",
+   "camiseta": "29",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "63941",
+   "Jug_Sale": "FEDERICO DANERS",
+   "CarneEntra": "64178",
+   "Jug_Entra": "MATEO BARRETO",
+   "camiseta": "3",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "66552",
+   "Jug_Sale": "FACUNDO NICOLAS ORIBE",
+   "CarneEntra": "64277",
+   "Jug_Entra": "FRANCISCO BISELLI",
+   "camiseta": "11",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "62871",
+   "Jug_Sale": "BENJAMIN FERNANDEZ",
+   "CarneEntra": "68713",
+   "Jug_Entra": "FEDERICO FERRARES",
+   "camiseta": "89",
+   "minutos": "21"
+  },
+  {
+   "CarneSale": "64176",
+   "Jug_Sale": "MANUEL MENDARO",
+   "CarneEntra": "66547",
+   "Jug_Entra": "TOMAS SALORT",
+   "camiseta": "74",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "66551",
+   "Jug_Sale": "EMANUEL CORREA",
+   "CarneEntra": "66553",
+   "Jug_Entra": "MAURO GOMEZ",
+   "camiseta": "35",
+   "minutos": "64"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "62871",
+   "Nombre": "BENJAMIN FERNANDEZ",
+   "minutos": "46",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64180",
+   "Nombre": "CAETANO BEYHAUT",
+   "minutos": "10",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66549",
+   "Nombre": "JOAQUIN LOPEZ",
+   "minutos": "74",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67724",
+   "Nombre": "TIZIANO AMADO",
+   "minutos": "59",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

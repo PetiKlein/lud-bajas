@@ -1,0 +1,277 @@
+{
+ "id": "100421",
+ "categoria": "sub18",
+ "serie": "18-12",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 15:30:00",
+ "cancha": "CAMPO DEP. INSTITUTO CRANDON",
+ "local": "CRANDON UNIVERSITARIO",
+ "visitante": "POCO SITIO PLAYA VERDE",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "187",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 1 RUEDA 2",
+  "Cancha": "CAMPO DEP. INSTITUTO CRANDON",
+  "Fecha_Inicio": "2026-06-21 17:20:00",
+  "Fecha_fin": "2026-06-21 17:20:00",
+  "Locatario": "CRANDON UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "POCO SITIO PLAYA VERDE",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "57590",
+   "Nombre": "FELIPE AMORIN",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "57597",
+   "Nombre": "JUAN IGNACIO CAPORALE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "58605",
+   "Nombre": "GIUSEPPE RICCIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58628",
+   "Nombre": "MARIO LORENZO MOLINA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "57599",
+   "Nombre": "MANUEL AVILA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "57603",
+   "Nombre": "SANTIAGO COSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "57631",
+   "Nombre": "JUAN IGNACIO DIAZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "57601",
+   "Nombre": "RODRIGO INFANTOZZI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58502",
+   "Nombre": "TIZIANO VILA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "57604",
+   "Nombre": "SANTIAGO MANUEL CURBELO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57632",
+   "Nombre": "AGUSTIN MANTERO",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "68089",
+   "Nombre": "LUCAS GOVENAZZO",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68095",
+   "Nombre": "CARLOS ANTONIO SCHIAPPACASSE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64422",
+   "Nombre": "MATEO TORTEROLO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "68581",
+   "Nombre": "PEDRO LEMA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "68092",
+   "Nombre": "FACUNDO MÖLLER",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "64420",
+   "Nombre": "JUAN PABLO FIGUEREDO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "68090",
+   "Nombre": "AARON BENJAMIN DUARTE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "64429",
+   "Nombre": "AGUSTIN GONZALO MARTINEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67110",
+   "Nombre": "JOAQUIN MENDOZA IZETTA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "67118",
+   "Nombre": "PAOLO FORNARI TASHIRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67123",
+   "Nombre": "FELIPE SALVIA",
+   "camiseta": "61",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "57631",
+   "Jug_Sale": "JUAN IGNACIO DIAZ",
+   "CarneEntra": "67894",
+   "Jug_Entra": "LORENZO VELAZCO",
+   "camiseta": "2",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "57601",
+   "Jug_Sale": "RODRIGO INFANTOZZI",
+   "CarneEntra": "58626",
+   "Jug_Entra": "SANTIAGO CASTRO",
+   "camiseta": "15",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "57597",
+   "Jug_Sale": "JUAN IGNACIO CAPORALE",
+   "CarneEntra": "58628",
+   "Jug_Entra": "MARIO LORENZO MOLINA",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "58605",
+   "Jug_Sale": "GIUSEPPE RICCIO",
+   "CarneEntra": "58502",
+   "Jug_Entra": "TIZIANO VILA",
+   "camiseta": "7",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "57603",
+   "Jug_Sale": "SANTIAGO COSTA",
+   "CarneEntra": "57591",
+   "Jug_Entra": "FRANCISCO DUARTE",
+   "camiseta": "23",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "58502",
+   "Jug_Sale": "TIZIANO VILA",
+   "CarneEntra": "61431",
+   "Jug_Entra": "MARTIN RAMA",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58628",
+   "Jug_Sale": "MARIO LORENZO MOLINA",
+   "CarneEntra": "58627",
+   "Jug_Entra": "PIERRE VALENTINO BONILLA",
+   "camiseta": "18",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "68095",
+   "Jug_Sale": "CARLOS ANTONIO SCHIAPPACASSE",
+   "CarneEntra": "67109",
+   "Jug_Entra": "NICOLAS PAIS",
+   "camiseta": "22",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68090",
+   "Jug_Sale": "AARON BENJAMIN DUARTE",
+   "CarneEntra": "67973",
+   "Jug_Entra": "LUCAS CASTRO",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64429",
+   "Jug_Sale": "AGUSTIN GONZALO MARTINEZ",
+   "CarneEntra": "68090",
+   "Jug_Entra": "AARON BENJAMIN DUARTE",
+   "camiseta": "15",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "67118",
+   "Jug_Sale": "PAOLO FORNARI TASHIRO",
+   "CarneEntra": "68095",
+   "Jug_Entra": "CARLOS ANTONIO SCHIAPPACASSE",
+   "camiseta": "20",
+   "minutos": "80"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57597",
+   "Nombre": "JUAN IGNACIO CAPORALE",
+   "minutos": "5",
+   "EnContra": "0"
+  },
+  {
+   "carne": "57601",
+   "Nombre": "RODRIGO INFANTOZZI",
+   "minutos": "25",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

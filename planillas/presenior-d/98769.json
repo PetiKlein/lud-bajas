@@ -1,0 +1,336 @@
+{
+ "id": "98769",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 5,
+ "fechaHora": "2026-05-16 09:00:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "UT SERVIAM",
+ "visitante": "SCUOLA PALERMO",
+ "gl": 3,
+ "gv": 6,
+ "detalle": {
+  "nro_partido": "603",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-05-16 11:15:00",
+  "Fecha_fin": "2026-05-16 11:15:00",
+  "Locatario": "UT SERVIAM",
+  "goles_locatario": "3",
+  "puntos_locatario": "0",
+  "Visitante": "SCUOLA PALERMO",
+  "goles_visitante": "6",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "52060",
+   "Nombre": "SANTIAGO MARTIN PERALTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "27245",
+   "Nombre": "FELIPE SPOSARO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "55031",
+   "Nombre": "HUGO IGNACIO TRIAS",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "30308",
+   "Nombre": "GONZALO COSTA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "33873",
+   "Nombre": "JOSE IGNACIO DALLORSO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "31891",
+   "Nombre": "JUAN FRANCISCO IRRAZABAL",
+   "camiseta": "22",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30114",
+   "Nombre": "GONZALO FELIPE IRRAZABAL",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "36244",
+   "Nombre": "LUIS IGNACIO CAMPON",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "37586",
+   "Nombre": "MATIAS OLALDE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "31791",
+   "Nombre": "JOAQUIN MARQUEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "30816",
+   "Nombre": "LUCAS RODRIGUEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "27630",
+   "Nombre": "SANTIAGO IRIGOYEN",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "32769",
+   "Nombre": "GONZALO MATIAS AMARO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "39901",
+   "Nombre": "AGUSTIN MAZZEY",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "29165",
+   "Nombre": "JOSE LUIS DUCRET",
+   "camiseta": "87",
+   "Capitan": ""
+  },
+  {
+   "carne": "62799",
+   "Nombre": "BRUNO FEDERICO BARRETO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "64370",
+   "Nombre": "FACUNDO ANDRADA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "30599",
+   "Nombre": "JUAN MARTIN VEIGA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61258",
+   "Nombre": "ULISES LACUESTA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "31871",
+   "Nombre": "GIANCARLO RAFAEL DIPAULO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "33970",
+   "Nombre": "MATHIAS DANIEL VENEROSO",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "20987",
+   "Nombre": "MAXIMILIANO SANTIAGO",
+   "camiseta": "28",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "33873",
+   "Jug_Sale": "JOSE IGNACIO DALLORSO",
+   "CarneEntra": "25334",
+   "Jug_Entra": "ALBERTO JONATAN DUARTE",
+   "camiseta": "15",
+   "minutos": "49"
+  },
+  {
+   "CarneSale": "30114",
+   "Jug_Sale": "GONZALO FELIPE IRRAZABAL",
+   "CarneEntra": "35916",
+   "Jug_Entra": "RODRIGO LUIS CUBRIA",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30816",
+   "Jug_Sale": "LUCAS RODRIGUEZ",
+   "CarneEntra": "29251",
+   "Jug_Entra": "SANTIAGO JOSE MARTINEZ",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31891",
+   "Jug_Sale": "JUAN FRANCISCO IRRAZABAL",
+   "CarneEntra": "36337",
+   "Jug_Entra": "MATIAS NICOLAS SILVEYRA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31791",
+   "Jug_Sale": "JOAQUIN MARQUEZ",
+   "CarneEntra": "67336",
+   "Jug_Entra": "DIEGO REZK",
+   "camiseta": "5",
+   "minutos": "71"
+  },
+  {
+   "CarneSale": "36244",
+   "Jug_Sale": "LUIS IGNACIO CAMPON",
+   "CarneEntra": "38233",
+   "Jug_Entra": "GASTON MOLINELLI",
+   "camiseta": "24",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "30599",
+   "Jug_Sale": "JUAN MARTIN VEIGA",
+   "CarneEntra": "67780",
+   "Jug_Entra": "CRISTIAN CANOSA",
+   "camiseta": "14",
+   "minutos": "26"
+  },
+  {
+   "CarneSale": "32769",
+   "Jug_Sale": "GONZALO MATIAS AMARO",
+   "CarneEntra": "37936",
+   "Jug_Entra": "ALEJANDRO MONETTI",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20987",
+   "Jug_Sale": "MAXIMILIANO SANTIAGO",
+   "CarneEntra": "36708",
+   "Jug_Entra": "ALVARO APOLITO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31871",
+   "Jug_Sale": "GIANCARLO RAFAEL DIPAULO",
+   "CarneEntra": "21647",
+   "Jug_Entra": "HERNAN NOVICK",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61258",
+   "Jug_Sale": "ULISES LACUESTA",
+   "CarneEntra": "37896",
+   "Jug_Entra": "JUAN IGNACIO VITUREIRA",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29165",
+   "Jug_Sale": "JOSE LUIS DUCRET",
+   "CarneEntra": "26656",
+   "Jug_Entra": "LEONARDO FRANCISCO SERGIO",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37896",
+   "Jug_Sale": "JUAN IGNACIO VITUREIRA",
+   "CarneEntra": "20987",
+   "Jug_Entra": "MAXIMILIANO SANTIAGO",
+   "camiseta": "28",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "30816",
+   "Nombre": "LUCAS RODRIGUEZ",
+   "minutos": "41",
+   "EnContra": "0"
+  },
+  {
+   "carne": "35916",
+   "Nombre": "RODRIGO LUIS CUBRIA",
+   "minutos": "68",
+   "EnContra": "0"
+  },
+  {
+   "carne": "37586",
+   "Nombre": "MATIAS OLALDE",
+   "minutos": "61",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "21647",
+   "Nombre": "HERNAN NOVICK",
+   "minutos": "98",
+   "EnContra": "1"
+  },
+  {
+   "carne": "36708",
+   "Nombre": "ALVARO APOLITO",
+   "minutos": "97",
+   "EnContra": "1"
+  },
+  {
+   "carne": "61258",
+   "Nombre": "ULISES LACUESTA",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62799",
+   "Nombre": "BRUNO FEDERICO BARRETO",
+   "minutos": "20",
+   "EnContra": "1"
+  },
+  {
+   "carne": "62799",
+   "Nombre": "BRUNO FEDERICO BARRETO",
+   "minutos": "38",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64370",
+   "Nombre": "FACUNDO ANDRADA",
+   "minutos": "97",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

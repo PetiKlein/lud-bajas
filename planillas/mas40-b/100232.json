@@ -1,0 +1,336 @@
+{
+ "id": "100232",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 11:20:00",
+ "cancha": "CARRASCO LAWN TENIS (KM 23)",
+ "local": "CARRASCO LAWN TENNIS",
+ "visitante": "CLUB ESTUDIANTES INGENIERIA",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "193",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "CARRASCO LAWN TENIS (KM 23)",
+  "Fecha_Inicio": "2026-06-20 13:05:00",
+  "Fecha_fin": "2026-06-20 13:05:00",
+  "Locatario": "CARRASCO LAWN TENNIS",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB ESTUDIANTES INGENIERIA",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "13883",
+   "Nombre": "GONZALO JOSE RUIZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64812",
+   "Nombre": "URI KORYTNICKI",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "20818",
+   "Nombre": "DIEGO PATRON",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21389",
+   "Nombre": "ALESSANDRO PASQUALE GIARDINO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "64672",
+   "Nombre": "GONZALO VENDITTO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "19479",
+   "Nombre": "MIGUEL RUBINO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "20439",
+   "Nombre": "RODRIGO PABLO BAUBETA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "59466",
+   "Nombre": "JAVIER ZUBILLAGA",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "12621",
+   "Nombre": "CHAHIN ANDRES TCHAKIRIAN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "19098",
+   "Nombre": "GUIDO STUMBO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "14917",
+   "Nombre": "FEDERICO SASSI",
+   "camiseta": "29",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "36878",
+   "Nombre": "DARIO ALBERTO DE LEON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60047",
+   "Nombre": "ELIAS EFRAIN AVELLANEDA",
+   "camiseta": "89",
+   "Capitan": ""
+  },
+  {
+   "carne": "66344",
+   "Nombre": "MARTIN CATTONI",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "16424",
+   "Nombre": "PABLO MARTIN VILLOLDO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "51305",
+   "Nombre": "PABLO ANDRES NAVARRETE",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "14144",
+   "Nombre": "PABLO FEDERICO CACERES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "25364",
+   "Nombre": "LEANDRO APARICIO GALETTA",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "66345",
+   "Nombre": "ALEXIS OMAR SORIA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "50827",
+   "Nombre": "PABLO ALFREDO FUENTES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "66613",
+   "Nombre": "ALEJANDRO JAVIER POSES",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "15132",
+   "Nombre": "ALEJANDRO ALVARO BELLERATI",
+   "camiseta": "99",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64812",
+   "Jug_Sale": "URI KORYTNICKI",
+   "CarneEntra": "58917",
+   "Jug_Entra": "IGNACIO ZUGARRAMURDI",
+   "camiseta": "57",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20818",
+   "Jug_Sale": "DIEGO PATRON",
+   "CarneEntra": "20483",
+   "Jug_Entra": "NICOLAS KARDJIAN",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19479",
+   "Jug_Sale": "MIGUEL RUBINO",
+   "CarneEntra": "25821",
+   "Jug_Entra": "JOAQUIN MAGALLAN",
+   "camiseta": "86",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19479",
+   "Jug_Sale": "MIGUEL RUBINO",
+   "CarneEntra": "24212",
+   "Jug_Entra": "LUIGI PAOLO CONTIN",
+   "camiseta": "66",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "21389",
+   "Jug_Sale": "ALESSANDRO PASQUALE GIARDINO",
+   "CarneEntra": "22253",
+   "Jug_Entra": "LUCAS MORISIO",
+   "camiseta": "26",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64672",
+   "Jug_Sale": "GONZALO VENDITTO",
+   "CarneEntra": "18574",
+   "Jug_Entra": "PABLO AGUSTIN FERNANDEZ",
+   "camiseta": "32",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "14917",
+   "Jug_Sale": "FEDERICO SASSI",
+   "CarneEntra": "19479",
+   "Jug_Entra": "MIGUEL RUBINO",
+   "camiseta": "5",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51305",
+   "Jug_Sale": "PABLO ANDRES NAVARRETE",
+   "CarneEntra": "38770",
+   "Jug_Entra": "ANTONIO MANUEL RODRIGUEZ",
+   "camiseta": "45",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "50827",
+   "Jug_Sale": "PABLO ALFREDO FUENTES",
+   "CarneEntra": "20701",
+   "Jug_Entra": "ALEJANDRO IGNACIO SILVERA",
+   "camiseta": "41",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15132",
+   "Jug_Sale": "ALEJANDRO ALVARO BELLERATI",
+   "CarneEntra": "32307",
+   "Jug_Entra": "RAMIRO VICENTE MOYANO",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66613",
+   "Jug_Sale": "ALEJANDRO JAVIER POSES",
+   "CarneEntra": "30077",
+   "Jug_Entra": "PABLO EDGARDO ALVEZ",
+   "camiseta": "5",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66345",
+   "Jug_Sale": "ALEXIS OMAR SORIA",
+   "CarneEntra": "18381",
+   "Jug_Entra": "JAVIER MARTIN",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16424",
+   "Jug_Sale": "PABLO MARTIN VILLOLDO",
+   "CarneEntra": "61597",
+   "Jug_Entra": "ENZO RAUL VIERA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20701",
+   "Jug_Sale": "ALEJANDRO IGNACIO SILVERA",
+   "CarneEntra": "15132",
+   "Jug_Entra": "ALEJANDRO ALVARO BELLERATI",
+   "camiseta": "99",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "25364",
+   "Jug_Sale": "LEANDRO APARICIO GALETTA",
+   "CarneEntra": "51305",
+   "Jug_Entra": "PABLO ANDRES NAVARRETE",
+   "camiseta": "23",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "66345",
+   "Jug_Sale": "ALEXIS OMAR SORIA",
+   "CarneEntra": "50827",
+   "Jug_Entra": "PABLO ALFREDO FUENTES",
+   "camiseta": "30",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "20439",
+   "Nombre": "RODRIGO PABLO BAUBETA",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "20439",
+   "Nombre": "RODRIGO PABLO BAUBETA",
+   "minutos": "78",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58917",
+   "Nombre": "IGNACIO ZUGARRAMURDI",
+   "minutos": "87",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "32307",
+   "Nombre": "RAMIRO VICENTE MOYANO",
+   "minutos": "48",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66613",
+   "Nombre": "ALEJANDRO JAVIER POSES",
+   "minutos": "43",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

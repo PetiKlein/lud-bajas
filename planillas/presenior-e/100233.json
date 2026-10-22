@@ -1,0 +1,309 @@
+{
+ "id": "100233",
+ "categoria": "presenior-e",
+ "serie": "PSE1",
+ "fecha": 4,
+ "fechaHora": "2026-06-20 11:15:00",
+ "cancha": "COMPLEJO LAS CASUARINAS",
+ "local": "LA CUEVA DEL LOBIZON",
+ "visitante": "SINDICATO MEDICO DEL URUGUAY",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "500",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 1",
+  "Cancha": "COMPLEJO LAS CASUARINAS",
+  "Fecha_Inicio": "2026-06-20 13:15:00",
+  "Fecha_fin": "2026-06-20 13:15:00",
+  "Locatario": "LA CUEVA DEL LOBIZON",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "42159",
+   "Nombre": "SIGFRIDO VETTORAZZI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33715",
+   "Nombre": "FELIPE CASTRO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "27061",
+   "Nombre": "FEDERICO ANDRES ROVASCIO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "62180",
+   "Nombre": "AGUSTIN LAVENTURE",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "22726",
+   "Nombre": "JUAN ANDRES ALDECOA",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26194",
+   "Nombre": "ALFONSO ROSSO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "30916",
+   "Nombre": "MATIAS LA CAVA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "38201",
+   "Nombre": "NICOLAS RODRIGUEZ",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "31219",
+   "Nombre": "MARCIO ADRIAN SERRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "35129",
+   "Nombre": "PABLO FARIAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "36207",
+   "Nombre": "AGUSTIN CLEFFI",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58895",
+   "Nombre": "GONZALO EZEQUIEL BARRIONUEVO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "45721",
+   "Nombre": "ALEXIS JOHAN MARRERO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "48337",
+   "Nombre": "EDUARDO GUSTAVO CLAUSTRE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "40213",
+   "Nombre": "DIEGO JOSE ROSSO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67782",
+   "Nombre": "IGNACIO DUARTE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "27963",
+   "Nombre": "JORGE FEDERICO KLEINMAN",
+   "camiseta": "31",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "30070",
+   "Nombre": "PABLO LACUESTA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "67681",
+   "Nombre": "MARTIN EDISON LONG",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "45582",
+   "Nombre": "JUAN CARLOS CHIARINO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "48362",
+   "Nombre": "FABIO NELSON RODRIGUEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "30994",
+   "Nombre": "VICTOR HUGO MADERA",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27061",
+   "Jug_Sale": "FEDERICO ANDRES ROVASCIO",
+   "CarneEntra": "33725",
+   "Jug_Entra": "JUAN OHOLEGUY",
+   "camiseta": "10",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "22726",
+   "Jug_Sale": "JUAN ANDRES ALDECOA",
+   "CarneEntra": "19700",
+   "Jug_Entra": "ANDRES PIÑEYRUA",
+   "camiseta": "21",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "36207",
+   "Jug_Sale": "AGUSTIN CLEFFI",
+   "CarneEntra": "23668",
+   "Jug_Entra": "MAURO ANDRES SERRA",
+   "camiseta": "10",
+   "minutos": "46"
+  },
+  {
+   "CarneSale": "30916",
+   "Jug_Sale": "MATIAS LA CAVA",
+   "CarneEntra": "32033",
+   "Jug_Entra": "ENRIQUE MARTINEZ",
+   "camiseta": "15",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "35129",
+   "Jug_Sale": "PABLO FARIAS",
+   "CarneEntra": "32033",
+   "Jug_Entra": "ENRIQUE MARTINEZ",
+   "camiseta": "31",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "26194",
+   "Jug_Sale": "ALFONSO ROSSO",
+   "CarneEntra": "45674",
+   "Jug_Entra": "NAHUEL ENRIQUE RUIZ",
+   "camiseta": "16",
+   "minutos": "87"
+  },
+  {
+   "CarneSale": "33715",
+   "Jug_Sale": "FELIPE CASTRO",
+   "CarneEntra": "30062",
+   "Jug_Entra": "MICHAEL MACRINO",
+   "camiseta": "29",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "67681",
+   "Jug_Sale": "MARTIN EDISON LONG",
+   "CarneEntra": "30427",
+   "Jug_Entra": "FABRICIO GANNUSO",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30994",
+   "Jug_Sale": "VICTOR HUGO MADERA",
+   "CarneEntra": "67681",
+   "Jug_Entra": "MARTIN EDISON LONG",
+   "camiseta": "9",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "45721",
+   "Jug_Sale": "ALEXIS JOHAN MARRERO",
+   "CarneEntra": "30994",
+   "Jug_Entra": "VICTOR HUGO MADERA",
+   "camiseta": "14",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "27963",
+   "Jug_Sale": "JORGE FEDERICO KLEINMAN",
+   "CarneEntra": "45721",
+   "Jug_Entra": "ALEXIS JOHAN MARRERO",
+   "camiseta": "25",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "45721",
+   "Jug_Sale": "ALEXIS JOHAN MARRERO",
+   "CarneEntra": "27963",
+   "Jug_Entra": "JORGE FEDERICO KLEINMAN",
+   "camiseta": "31",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "23668",
+   "Nombre": "MAURO ANDRES SERRA",
+   "minutos": "88",
+   "EnContra": "0"
+  },
+  {
+   "carne": "36207",
+   "Nombre": "AGUSTIN CLEFFI",
+   "minutos": "22",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38201",
+   "Nombre": "NICOLAS RODRIGUEZ",
+   "minutos": "62",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67681",
+   "Nombre": "MARTIN EDISON LONG",
+   "minutos": "67",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67681",
+   "Nombre": "MARTIN EDISON LONG",
+   "minutos": "73",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "IGNACIO DUARTE",
+   "observaciones": ""
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "id": "101454",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+ "local": "NUMA TURCATTI",
+ "visitante": "OLD BRENDANS CLUB",
+ "gl": 0,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "660",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "LIMBURGO -DR.J.L.PISCIOTTANO-",
+  "Fecha_Inicio": "2026-09-05 10:48:00",
+  "Fecha_fin": "2026-09-05 10:48:00",
+  "Locatario": "NUMA TURCATTI",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BRENDANS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "25051",
+   "Nombre": "EDMUNDO MIGUEL GRIFFIN",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "43595",
+   "Nombre": "MATIAS LORENZO BASSO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "24412",
+   "Nombre": "RODRIGO CADENAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "35379",
+   "Nombre": "FEDERICO LA LAINA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66270",
+   "Nombre": "RODRIGO GONCALVEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "45272",
+   "Nombre": "DIEGO GERMAN MARTINEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "24411",
+   "Nombre": "ENRIQUE CARLOS DELGADO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "22165",
+   "Nombre": "BRUNO LUIS VARALDO",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26706",
+   "Nombre": "SANTIAGO JUAN CRUZ",
+   "camiseta": "35",
+   "Capitan": ""
+  },
+  {
+   "carne": "27715",
+   "Nombre": "OSCAR MARTIN BASSO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "42925",
+   "Nombre": "MARTIN LA LAINA",
+   "camiseta": "15",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "33066",
+   "Nombre": "RAFAEL ESTEBAN GIMENEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32371",
+   "Nombre": "MATIAS CLAUDIO MARCHESANO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23486",
+   "Nombre": "SEBASTIAN VIDAL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "20251",
+   "Nombre": "PABLO HERRERA",
+   "camiseta": "37",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "63917",
+   "Nombre": "BRUNO FRANCISCO CONTE",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "63840",
+   "Nombre": "EMILIO NICOLAS CAMEJO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "24874",
+   "Nombre": "MARCELO ADRIAN CAMMARANO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "34281",
+   "Nombre": "MIGUEL PITETTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "27751",
+   "Nombre": "GUZMAN DANIEL MONTGOMERY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "25908",
+   "Nombre": "JUAN MANUEL LAZBAL",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "33907",
+   "Nombre": "JOAQUIN CICATIELLO",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "42925",
+   "Jug_Sale": "MARTIN LA LAINA",
+   "CarneEntra": "34252",
+   "Jug_Entra": "MARCELO DANIEL SASSO",
+   "camiseta": "44",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "66270",
+   "Jug_Sale": "RODRIGO GONCALVEZ",
+   "CarneEntra": "42925",
+   "Jug_Entra": "MARTIN LA LAINA",
+   "camiseta": "15",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "32371",
+   "Jug_Sale": "MATIAS CLAUDIO MARCHESANO",
+   "CarneEntra": "28389",
+   "Jug_Entra": "DIEGO FRANCO",
+   "camiseta": "5",
+   "minutos": "24"
+  },
+  {
+   "CarneSale": "23486",
+   "Jug_Sale": "SEBASTIAN VIDAL",
+   "CarneEntra": "20392",
+   "Jug_Entra": "SEBASTIAN MOREIRA",
+   "camiseta": "11",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63917",
+   "Jug_Sale": "BRUNO FRANCISCO CONTE",
+   "CarneEntra": "51479",
+   "Jug_Entra": "LUIS ANDRES SOSA",
+   "camiseta": "0",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "63840",
+   "Jug_Sale": "EMILIO NICOLAS CAMEJO",
+   "CarneEntra": "27384",
+   "Jug_Entra": "NICOLAS ESTEVEZ",
+   "camiseta": "25",
+   "minutos": "72"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "25908",
+   "Nombre": "JUAN MANUEL LAZBAL",
+   "minutos": "5",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

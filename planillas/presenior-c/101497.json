@@ -1,0 +1,292 @@
+{
+ "id": "101497",
+ "categoria": "presenior-c",
+ "serie": "PSC",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "COMPLEJO LOS CARDALES",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "ODONTOLOGIA UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "334",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"C\"",
+  "Cancha": "COMPLEJO LOS CARDALES",
+  "Fecha_Inicio": "2026-09-05 13:10:00",
+  "Fecha_fin": "2026-09-05 13:10:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "ODONTOLOGIA UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "47924",
+   "Nombre": "NICOLAS CARDOZO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "31579",
+   "Nombre": "MATIAS JAVIER GONZALEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "27951",
+   "Nombre": "JONATHAN FRANCISCO LEMOS",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "16998",
+   "Nombre": "IGNACIO GRANDAL",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "41310",
+   "Nombre": "JORGE AGUSTIN VIZCAINO",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "33796",
+   "Nombre": "HERNAN NUÑEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "26404",
+   "Nombre": "FEDERICO DE LEON",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "18492",
+   "Nombre": "LEANDRO MAGALLANES",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "22171",
+   "Nombre": "MARTIN JAVIER SOSA",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "68241",
+   "Nombre": "JUAN PEDRO PACHECO",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "26181",
+   "Nombre": "VICTOR JAVIER VIDAL",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64735",
+   "Nombre": "MATIAS GONZALO LOPEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "57076",
+   "Nombre": "FEDERICO RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "47097",
+   "Nombre": "ALVARO DAMIAN COLMAN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "21433",
+   "Nombre": "SEBASTIAN VEGAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "46285",
+   "Nombre": "FABRICIO PEREIRA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62646",
+   "Nombre": "DARWIN GERARDO D’AMICO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "68417",
+   "Nombre": "SEBASTIAN GARCIA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "35517",
+   "Nombre": "GONZALO GASTON CROSI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "31564",
+   "Nombre": "DIEGO MARTIN GONZALEZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66117",
+   "Nombre": "SANTIAGO SEIJAS",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "18492",
+   "Jug_Sale": "LEANDRO MAGALLANES",
+   "CarneEntra": "31343",
+   "Jug_Entra": "JUAN FRANCISCO INSA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26404",
+   "Jug_Sale": "FEDERICO DE LEON",
+   "CarneEntra": "31320",
+   "Jug_Entra": "SANTIAGO AGUSTIN OCHOA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16998",
+   "Jug_Sale": "IGNACIO GRANDAL",
+   "CarneEntra": "22830",
+   "Jug_Entra": "JUAN MANUEL CASTALDI",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22171",
+   "Jug_Sale": "MARTIN JAVIER SOSA",
+   "CarneEntra": "31447",
+   "Jug_Entra": "DAVID PEREZ",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "68241",
+   "Jug_Sale": "JUAN PEDRO PACHECO",
+   "CarneEntra": "62781",
+   "Jug_Entra": "WILLIAN MIGUEL ROSA",
+   "camiseta": "19",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "68241",
+   "Jug_Sale": "JUAN PEDRO PACHECO",
+   "CarneEntra": "26665",
+   "Jug_Entra": "MARTIN REY",
+   "camiseta": "18",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "46285",
+   "Jug_Sale": "FABRICIO PEREIRA",
+   "CarneEntra": "56373",
+   "Jug_Entra": "GONZALO RODRIGUEZ",
+   "camiseta": "8",
+   "minutos": "20"
+  },
+  {
+   "CarneSale": "68417",
+   "Jug_Sale": "SEBASTIAN GARCIA",
+   "CarneEntra": "38527",
+   "Jug_Entra": "NICOLAS DUARTE",
+   "camiseta": "77",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47097",
+   "Jug_Sale": "ALVARO DAMIAN COLMAN",
+   "CarneEntra": "51068",
+   "Jug_Entra": "MATIAS ALEXIS FLORES",
+   "camiseta": "23",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "66117",
+   "Jug_Sale": "SANTIAGO SEIJAS",
+   "CarneEntra": "41189",
+   "Jug_Entra": "WASHINGTON ALEXANDER VIERA",
+   "camiseta": "7",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "64735",
+   "Jug_Sale": "MATIAS GONZALO LOPEZ",
+   "CarneEntra": "54775",
+   "Jug_Entra": "PABLO DANIEL MARTINEZ",
+   "camiseta": "16",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "51068",
+   "Jug_Sale": "MATIAS ALEXIS FLORES",
+   "CarneEntra": "66117",
+   "Jug_Entra": "SANTIAGO SEIJAS",
+   "camiseta": "10",
+   "minutos": "75"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "minutos": "14",
+   "EnContra": "0"
+  },
+  {
+   "carne": "32100",
+   "Nombre": "FEDERICO FARACHIO",
+   "minutos": "30",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "35517",
+   "Nombre": "GONZALO GASTON CROSI",
+   "minutos": "43",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,323 @@
+{
+ "id": "100433",
+ "categoria": "sub16",
+ "serie": "16-42",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 13:30:00",
+ "cancha": "TENIS EL PINAR",
+ "local": "TENIS EL PINAR",
+ "visitante": "SEMINARIO UNIVERSITARIO",
+ "gl": 3,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "227",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 4 RUEDA 2",
+  "Cancha": "TENIS EL PINAR",
+  "Fecha_Inicio": "2026-06-21 15:10:00",
+  "Fecha_fin": "2026-06-21 15:10:00",
+  "Locatario": "TENIS EL PINAR",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SEMINARIO UNIVERSITARIO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "63944",
+   "Nombre": "ROBERTO SAENZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "64081",
+   "Nombre": "GERONIMO MENDOZA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66600",
+   "Nombre": "AGUSTIN MARCHETTI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "63948",
+   "Nombre": "MATIAS FERNANDEZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "65295",
+   "Nombre": "BAUTISTA SOSA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "66516",
+   "Nombre": "JUAN MANUEL BARRIOS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64247",
+   "Nombre": "MATEO NIETO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67019",
+   "Nombre": "JUAN MARTIN POLETTO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61623",
+   "Nombre": "PABLO MARCELO TOPOLANSKY",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64242",
+   "Nombre": "GERONIMO VAYTKEVCIUS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "63940",
+   "Nombre": "GERONIMO SPERANZA",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "65164",
+   "Nombre": "JUAN MANUEL FASANO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62572",
+   "Nombre": "JUAN MARTIN AYERZA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "65096",
+   "Nombre": "MANUEL ELVERDIN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65108",
+   "Nombre": "JUSTINO OLASCOAGA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65110",
+   "Nombre": "IGNACIO DALLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "65100",
+   "Nombre": "SANTIAGO CARBAJALES",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "62558",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "65169",
+   "Nombre": "FACUNDO ESTRAGO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61582",
+   "Nombre": "JUSTINO MUNYO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "62575",
+   "Nombre": "MATIAS ROBOTTI",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "62566",
+   "Nombre": "ALFONSO LORENZO",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64242",
+   "Jug_Sale": "GERONIMO VAYTKEVCIUS",
+   "CarneEntra": "67018",
+   "Jug_Entra": "JOAQUIN RAMIREZ",
+   "camiseta": "14",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66516",
+   "Jug_Sale": "JUAN MANUEL BARRIOS",
+   "CarneEntra": "64083",
+   "Jug_Entra": "BAUTISTA DE SOUZA",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "63940",
+   "Jug_Sale": "GERONIMO SPERANZA",
+   "CarneEntra": "66600",
+   "Jug_Entra": "AGUSTIN MARCHETTI",
+   "camiseta": "15",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64081",
+   "Jug_Sale": "GERONIMO MENDOZA",
+   "CarneEntra": "63948",
+   "Jug_Entra": "MATIAS FERNANDEZ",
+   "camiseta": "18",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "63944",
+   "Jug_Sale": "ROBERTO SAENZ",
+   "CarneEntra": "67020",
+   "Jug_Entra": "FELIPE DURAND",
+   "camiseta": "21",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "66600",
+   "Jug_Sale": "AGUSTIN MARCHETTI",
+   "CarneEntra": "66602",
+   "Jug_Entra": "EMILIANO CAUDURO",
+   "camiseta": "4",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "63948",
+   "Jug_Sale": "MATIAS FERNANDEZ",
+   "CarneEntra": "67912",
+   "Jug_Entra": "JUAN  MANUEL PICERNO",
+   "camiseta": "22",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "65295",
+   "Jug_Sale": "BAUTISTA SOSA",
+   "CarneEntra": "66604",
+   "Jug_Entra": "IGNACIO DOMINGUEZ",
+   "camiseta": "20",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "64247",
+   "Jug_Sale": "MATEO NIETO",
+   "CarneEntra": "66603",
+   "Jug_Entra": "BAUTISTA PASSEGGI",
+   "camiseta": "3",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67019",
+   "Jug_Sale": "JUAN MARTIN POLETTO",
+   "CarneEntra": "63945",
+   "Jug_Entra": "CONSTANTINO AROCENA",
+   "camiseta": "11",
+   "minutos": "40"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62572",
+   "Jug_Sale": "JUAN MARTIN AYERZA",
+   "CarneEntra": "65099",
+   "Jug_Entra": "MATEO BAZZINO",
+   "camiseta": "16",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "62566",
+   "Jug_Sale": "ALFONSO LORENZO",
+   "CarneEntra": "62806",
+   "Jug_Entra": "BENICIO BARBOSA",
+   "camiseta": "9",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "65096",
+   "Jug_Sale": "MANUEL ELVERDIN",
+   "CarneEntra": "63298",
+   "Jug_Entra": "JUAN MANUEL URRUTIA",
+   "camiseta": "22",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "65100",
+   "Jug_Sale": "SANTIAGO CARBAJALES",
+   "CarneEntra": "65104",
+   "Jug_Entra": "NICOLAS GONZALEZ",
+   "camiseta": "8",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "62558",
+   "Jug_Sale": "FELIPE PEREZ",
+   "CarneEntra": "65167",
+   "Jug_Entra": "JUAN MIGUEL COBAS",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "61582",
+   "Jug_Sale": "JUSTINO MUNYO",
+   "CarneEntra": "62953",
+   "Jug_Entra": "JOAQUIN MORAES",
+   "camiseta": "20",
+   "minutos": "40"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66516",
+   "Nombre": "JUAN MANUEL BARRIOS",
+   "minutos": "11",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66604",
+   "Nombre": "IGNACIO DOMINGUEZ",
+   "minutos": "46",
+   "EnContra": "0"
+  },
+  {
+   "carne": "66604",
+   "Nombre": "IGNACIO DOMINGUEZ",
+   "minutos": "51",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

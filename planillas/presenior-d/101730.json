@@ -1,0 +1,236 @@
+{
+ "id": "101730",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "DANUBIO FUTBOL CLUB",
+ "visitante": "ANGLO",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "666",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-09-05 11:00:00",
+  "Fecha_fin": "2026-09-05 11:00:00",
+  "Locatario": "DANUBIO FUTBOL CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "ANGLO",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "30387",
+   "Nombre": "AGUSTIN NICOLAS GUARCH",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "30402",
+   "Nombre": "GONZALO MARTIN PERALTA",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "36172",
+   "Nombre": "BRUNO SERRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "39622",
+   "Nombre": "ISMAEL NAPOLI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "34641",
+   "Nombre": "MAURICIO ANDRES LASSERRE",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58504",
+   "Nombre": "EMMANUEL OSCAR GARCIA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "32607",
+   "Nombre": "SANTIAGO DANIEL CARAMELLI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "40437",
+   "Nombre": "GERMAN FARIAS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "64423",
+   "Nombre": "PABLO SEBASTIAN COLOMBO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "41544",
+   "Nombre": "FEDRICO ANDRES DURAN",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "52142",
+   "Nombre": "ALEXIS KEVIN MANRIQUE",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32716",
+   "Nombre": "MARTIN ANDRES ORDOQUI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67504",
+   "Nombre": "RICHARD RODRIGUEZ",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "33238",
+   "Nombre": "PABLO NICOLAS NUÑEZ",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "33087",
+   "Nombre": "HANS STEFAN TRAPP",
+   "camiseta": "19",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "51350",
+   "Nombre": "NICOLAS MAURIÑOS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "38475",
+   "Nombre": "EDUARDO SEBASTIAN BOGADRO",
+   "camiseta": "36",
+   "Capitan": ""
+  },
+  {
+   "carne": "60162",
+   "Nombre": "YUBERT LEONEL ALOY",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "18539",
+   "Nombre": "MAURICIO EDUARDO SANTELLAN",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "60159",
+   "Nombre": "MATHIAS ADRIAN OTTON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "32734",
+   "Nombre": "CHRISTIAN ADAN ARRIOLA",
+   "camiseta": "70",
+   "Capitan": ""
+  },
+  {
+   "carne": "28464",
+   "Nombre": "ANDRES ALONSO",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "52142",
+   "Jug_Sale": "ALEXIS KEVIN MANRIQUE",
+   "CarneEntra": "66383",
+   "Jug_Entra": "EMILIANO JAVIER RODRIGUEZ",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "34641",
+   "Jug_Sale": "MAURICIO ANDRES LASSERRE",
+   "CarneEntra": "38960",
+   "Jug_Entra": "MAURO MIGUEL BARONE",
+   "camiseta": "21",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "18539",
+   "Jug_Sale": "MAURICIO EDUARDO SANTELLAN",
+   "CarneEntra": "18430",
+   "Jug_Entra": "HERNAN BOUZA",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "28464",
+   "Jug_Sale": "ANDRES ALONSO",
+   "CarneEntra": "35345",
+   "Jug_Entra": "RONEL SEBASTIAN ALVARIZA",
+   "camiseta": "7",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "60162",
+   "Jug_Sale": "YUBERT LEONEL ALOY",
+   "CarneEntra": "25431",
+   "Jug_Entra": "JUAN ANDRES GONZALEZ",
+   "camiseta": "10",
+   "minutos": "64"
+  },
+  {
+   "CarneSale": "67504",
+   "Jug_Sale": "RICHARD RODRIGUEZ",
+   "CarneEntra": "38794",
+   "Jug_Entra": "ANDRES LEITES",
+   "camiseta": "25",
+   "minutos": "71"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "64423",
+   "Nombre": "PABLO SEBASTIAN COLOMBO",
+   "minutos": "93",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "PABLO NICOLAS NUÑEZ",
+   "observaciones": ""
+  }
+ ]
+}

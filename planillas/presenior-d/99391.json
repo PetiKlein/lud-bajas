@@ -1,0 +1,299 @@
+{
+ "id": "99391",
+ "categoria": "presenior-d",
+ "serie": "PSD",
+ "fecha": 7,
+ "fechaHora": "2026-05-30 09:00:00",
+ "cancha": "COLEGIO PIO",
+ "local": "DANUBIO FUTBOL CLUB",
+ "visitante": "LATINO FUTBOL CLUB",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "621",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"D\"",
+  "Cancha": "COLEGIO PIO",
+  "Fecha_Inicio": "2026-05-30 10:55:00",
+  "Fecha_fin": "2026-05-30 10:55:00",
+  "Locatario": "DANUBIO FUTBOL CLUB",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "LATINO FUTBOL CLUB",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "46295",
+   "Nombre": "MARTIN VARELA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "30402",
+   "Nombre": "GONZALO MARTIN PERALTA",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "50518",
+   "Nombre": "LUCIANO MONTERO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "35156",
+   "Nombre": "ESTEBAN ORLANDO CABO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "38960",
+   "Nombre": "MAURO MIGUEL BARONE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "36172",
+   "Nombre": "BRUNO SERRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "25665",
+   "Nombre": "JONATHAN ADRIAN PACHECO",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "32607",
+   "Nombre": "SANTIAGO DANIEL CARAMELLI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "33169",
+   "Nombre": "LUCA PRATTO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64852",
+   "Nombre": "MAXIMO SALVATORE",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "37149",
+   "Nombre": "GERMAN REY",
+   "camiseta": "9",
+   "Capitan": "(C)"
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "39628",
+   "Nombre": "FERNANDO DE POI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37036",
+   "Nombre": "IGNACIO GONZALO PAOLILLO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "36137",
+   "Nombre": "FEDERICO MENDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "33080",
+   "Nombre": "NICOLAS CERISOLA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "47757",
+   "Nombre": "JUAN ANDRES NOGUES",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "52449",
+   "Nombre": "FACUNDO FIERRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "30155",
+   "Nombre": "MANUEL FELIPE BOERO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "56450",
+   "Nombre": "FEDERICO HERMIDA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "34914",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "31035",
+   "Nombre": "GIANFRANCO AMADO POSE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "25665",
+   "Jug_Sale": "JONATHAN ADRIAN PACHECO",
+   "CarneEntra": "41544",
+   "Jug_Entra": "FEDRICO ANDRES DURAN",
+   "camiseta": "10",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33169",
+   "Jug_Sale": "LUCA PRATTO",
+   "CarneEntra": "36714",
+   "Jug_Entra": "GONZALO MARTIN FERNANDEZ",
+   "camiseta": "14",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "36172",
+   "Jug_Sale": "BRUNO SERRA",
+   "CarneEntra": "39618",
+   "Jug_Entra": "AGUSTIN COSTA",
+   "camiseta": "18",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "32607",
+   "Jug_Sale": "SANTIAGO DANIEL CARAMELLI",
+   "CarneEntra": "34641",
+   "Jug_Entra": "MAURICIO ANDRES LASSERRE",
+   "camiseta": "5",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64852",
+   "Jug_Sale": "MAXIMO SALVATORE",
+   "CarneEntra": "30387",
+   "Jug_Entra": "AGUSTIN NICOLAS GUARCH",
+   "camiseta": "36",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "30402",
+   "Jug_Sale": "GONZALO MARTIN PERALTA",
+   "CarneEntra": "66383",
+   "Jug_Entra": "EMILIANO JAVIER RODRIGUEZ",
+   "camiseta": "27",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "34914",
+   "Jug_Sale": "SANTIAGO FERNANDEZ",
+   "CarneEntra": "33410",
+   "Jug_Entra": "JOSE ARAUJO",
+   "camiseta": "6",
+   "minutos": "35"
+  },
+  {
+   "CarneSale": "37036",
+   "Jug_Sale": "IGNACIO GONZALO PAOLILLO",
+   "CarneEntra": "31549",
+   "Jug_Entra": "MICHEL SEBASTIAN MATTOS",
+   "camiseta": "32",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "47757",
+   "Jug_Sale": "JUAN ANDRES NOGUES",
+   "CarneEntra": "37034",
+   "Jug_Entra": "LEANDRO GERMAN TARANTO",
+   "camiseta": "31",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "37036",
+   "Jug_Sale": "IGNACIO GONZALO PAOLILLO",
+   "CarneEntra": "59021",
+   "Jug_Entra": "HORACIO MATIAS DEL CORRO",
+   "camiseta": "4",
+   "minutos": "42"
+  },
+  {
+   "CarneSale": "31035",
+   "Jug_Sale": "GIANFRANCO AMADO POSE",
+   "CarneEntra": "33744",
+   "Jug_Entra": "NICOLAS MOREIRA",
+   "camiseta": "28",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "56450",
+   "Jug_Sale": "FEDERICO HERMIDA",
+   "CarneEntra": "30416",
+   "Jug_Entra": "MANOEL CASTRO",
+   "camiseta": "14",
+   "minutos": "43"
+  },
+  {
+   "CarneSale": "37036",
+   "Jug_Sale": "IGNACIO GONZALO PAOLILLO",
+   "CarneEntra": "31549",
+   "Jug_Entra": "MICHEL SEBASTIAN MATTOS",
+   "camiseta": "32",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "45",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51694",
+   "Nombre": "JUAN PABLO LEYTON",
+   "minutos": "93",
+   "EnContra": "1"
+  },
+  {
+   "carne": "52449",
+   "Nombre": "FACUNDO FIERRO",
+   "minutos": "14",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

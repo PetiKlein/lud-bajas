@@ -1,0 +1,229 @@
+{
+ "id": "100412",
+ "categoria": "sub16",
+ "serie": "16-12",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 13:30:00",
+ "cancha": "OLD CHRISTIANS CLUB",
+ "local": "OLD CHRISTIANS CLUB",
+ "visitante": "NACIONAL UNIVERSITARIO",
+ "gl": 5,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "141",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 1 RUEDA 2",
+  "Cancha": "OLD CHRISTIANS CLUB",
+  "Fecha_Inicio": "2026-06-21 15:30:00",
+  "Fecha_fin": "2026-06-21 15:30:00",
+  "Locatario": "OLD CHRISTIANS CLUB",
+  "goles_locatario": "5",
+  "puntos_locatario": "3",
+  "Visitante": "NACIONAL UNIVERSITARIO",
+  "goles_visitante": "3",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "62095",
+   "Nombre": "BAUTISTA MAULION",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "61959",
+   "Nombre": "JUAN IGNACIO RISSO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "62096",
+   "Nombre": "APARICIO SUAREZ",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "67541",
+   "Nombre": "ALEJO STORACE",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "68039",
+   "Nombre": "SANTINO BORRAZAS",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "64679",
+   "Nombre": "JUAN PEDRO LANDAUER",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "67105",
+   "Nombre": "ALEJO EDUARDO LENOBLE",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "62091",
+   "Nombre": "ALEJO TELLERIA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "68167",
+   "Nombre": "IGNACIO COMAS",
+   "camiseta": "97",
+   "Capitan": ""
+  },
+  {
+   "carne": "68820",
+   "Nombre": "LUCAS BACHINO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "68826",
+   "Nombre": "NICOLAS SCHNECK",
+   "camiseta": "80",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "64544",
+   "Nombre": "JOAQUIN SEBASTIAN MEDINA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "64528",
+   "Nombre": "SANTIAGO COPATTI",
+   "camiseta": "43",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64538",
+   "Nombre": "RODRIGO AGUSTIN RICO",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "67313",
+   "Nombre": "LAUTARO SALVARREY",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "64841",
+   "Nombre": "THIAGO DOMINGUEZ",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "62764",
+   "Nombre": "PATRICIO TADEO LARROSA",
+   "camiseta": "63",
+   "Capitan": ""
+  },
+  {
+   "carne": "60538",
+   "Nombre": "RODRIGO BIANCO",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "63362",
+   "Nombre": "TOMAS VALENTINO MARRONE",
+   "camiseta": "45",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "62096",
+   "Jug_Sale": "APARICIO SUAREZ",
+   "CarneEntra": "62854",
+   "Jug_Entra": "JUAN IGNACIO PIVEL",
+   "camiseta": "18",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "67105",
+   "Jug_Sale": "ALEJO EDUARDO LENOBLE",
+   "CarneEntra": "67536",
+   "Jug_Entra": "LUCAS STORACE",
+   "camiseta": "24",
+   "minutos": "40"
+  }
+ ],
+ "cambiosV": [],
+ "golesL": [
+  {
+   "carne": "62091",
+   "Nombre": "ALEJO TELLERIA",
+   "minutos": "13",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62091",
+   "Nombre": "ALEJO TELLERIA",
+   "minutos": "34",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62095",
+   "Nombre": "BAUTISTA MAULION",
+   "minutos": "72",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67536",
+   "Nombre": "LUCAS STORACE",
+   "minutos": "60",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68039",
+   "Nombre": "SANTINO BORRAZAS",
+   "minutos": "36",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "minutos": "68",
+   "EnContra": "1"
+  },
+  {
+   "carne": "67314",
+   "Nombre": "SEBASTIAN FALERO",
+   "minutos": "79",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

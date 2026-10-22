@@ -1,0 +1,260 @@
+{
+ "id": "102270",
+ "categoria": "presenior-d",
+ "serie": "PSDTA",
+ "fecha": 1,
+ "fechaHora": "2026-09-26 11:15:00",
+ "cancha": "ST. BRENDANS",
+ "local": "OLD BRENDANS CLUB",
+ "visitante": "CLUB FUERZA AEREA",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "919",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"D\" TIT. y ASC.",
+  "Cancha": "ST. BRENDANS",
+  "Fecha_Inicio": "2026-09-26 13:00:00",
+  "Fecha_fin": "2026-09-26 13:00:00",
+  "Locatario": "OLD BRENDANS CLUB",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "CLUB FUERZA AEREA",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "21036",
+   "Nombre": "JUAN AGUSTIN MURIAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "37740",
+   "Nombre": "GONZALO RAMALLO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "33907",
+   "Nombre": "JOAQUIN CICATIELLO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "20392",
+   "Nombre": "SEBASTIAN MOREIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "23486",
+   "Nombre": "SEBASTIAN VIDAL",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "28389",
+   "Nombre": "DIEGO FRANCO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35203",
+   "Nombre": "SANTIAGO HUELMO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "24874",
+   "Nombre": "MARCELO ADRIAN CAMMARANO",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "27751",
+   "Nombre": "GUZMAN DANIEL MONTGOMERY",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "33066",
+   "Nombre": "RAFAEL ESTEBAN GIMENEZ",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "41985",
+   "Nombre": "PABLO ANDRES GINARD",
+   "camiseta": "25",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "35538",
+   "Nombre": "YAIR EDGAR MORALES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24179",
+   "Nombre": "SERGIO DANIEL BIANCHI",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "17537",
+   "Nombre": "ANGEL SEBASTIAN MOREIRA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "27122",
+   "Nombre": "LEANDRO MIGUEL GONZALEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "24282",
+   "Nombre": "GERARDO MOREIRA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "36916",
+   "Nombre": "SANTIAGO NICOLAS RUGLIO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "25991",
+   "Nombre": "FEDERICO BARDIER",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "32752",
+   "Nombre": "ALVARO DARIO BALCEMAO",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "21755",
+   "Nombre": "ROBERTO BORBONET",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "20772",
+   "Nombre": "IGNACIO GONZALEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "27563",
+   "Nombre": "ALVARO MARTIN BARDIER",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "23486",
+   "Jug_Sale": "SEBASTIAN VIDAL",
+   "CarneEntra": "20251",
+   "Jug_Entra": "PABLO HERRERA",
+   "camiseta": "37",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33066",
+   "Jug_Sale": "RAFAEL ESTEBAN GIMENEZ",
+   "CarneEntra": "18387",
+   "Jug_Entra": "ALVARO BELISTRI",
+   "camiseta": "50",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "35203",
+   "Jug_Sale": "SANTIAGO HUELMO",
+   "CarneEntra": "34841",
+   "Jug_Entra": "GONZALO FEDERICO ROSSO",
+   "camiseta": "32",
+   "minutos": "85"
+  },
+  {
+   "CarneSale": "41985",
+   "Jug_Sale": "PABLO ANDRES GINARD",
+   "CarneEntra": "33066",
+   "Jug_Entra": "RAFAEL ESTEBAN GIMENEZ",
+   "camiseta": "10",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "20772",
+   "Jug_Sale": "IGNACIO GONZALEZ",
+   "CarneEntra": "32198",
+   "Jug_Entra": "DIEGO MARTIN ACOSTA",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21755",
+   "Jug_Sale": "ROBERTO BORBONET",
+   "CarneEntra": "46316",
+   "Jug_Entra": "SANTIAGO ROLAN",
+   "camiseta": "40",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32752",
+   "Jug_Sale": "ALVARO DARIO BALCEMAO",
+   "CarneEntra": "19790",
+   "Jug_Entra": "GUSTAVO JAVIER GONZALEZ",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24282",
+   "Jug_Sale": "GERARDO MOREIRA",
+   "CarneEntra": "24312",
+   "Jug_Entra": "JUAN NICOLAS DA SILVA",
+   "camiseta": "45",
+   "minutos": "76"
+  },
+  {
+   "CarneSale": "21755",
+   "Jug_Sale": "ROBERTO BORBONET",
+   "CarneEntra": "63106",
+   "Jug_Entra": "NICOLAS LOPEZ",
+   "camiseta": "0",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "33907",
+   "Nombre": "JOAQUIN CICATIELLO",
+   "minutos": "62",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "SERGIO DANIEL BIANCHI",
+   "observaciones": ""
+  }
+ ]
+}

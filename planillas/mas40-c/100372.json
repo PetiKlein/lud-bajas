@@ -1,0 +1,234 @@
+{
+ "id": "100372",
+ "categoria": "mas40-c",
+ "serie": "40S22",
+ "fecha": 4,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "PINAR JRS",
+ "gl": 0,
+ "gv": 3,
+ "detalle": {
+  "nro_partido": "256",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 1",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-06-20 10:45:00",
+  "Fecha_fin": "2026-06-20 10:45:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "PINAR JRS",
+  "goles_visitante": "3",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60166",
+   "Nombre": "JAVIER ALEJANDRO CAMPOS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57477",
+   "Nombre": "RICHARD ARTURO GENOVESE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66459",
+   "Nombre": "IGNACIO DE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "67568",
+   "Nombre": "GASTON LEIVA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63890",
+   "Nombre": "GUSTAVO ENRIQUE COSTAS",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "31628",
+   "Nombre": "MARCELO PACHECO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "19530",
+   "Nombre": "ALEJANDRO BENTANCUR",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "53136",
+   "Nombre": "RODRIGO ALONSO",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "65311",
+   "Nombre": "WASHINGTON JOSE RODRIGUEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "28668",
+   "Nombre": "SERGIO ANDRES MORGADES",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "68413",
+   "Nombre": "IVES FERNANDO MUÑOZ",
+   "camiseta": "2",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "15978",
+   "Nombre": "ERICH MARTIN SIERRA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "25513",
+   "Nombre": "MARTIN ALBERTO DAVISON",
+   "camiseta": "7",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24069",
+   "Nombre": "SEBASTIAN MARTINEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "33946",
+   "Nombre": "RICARDO MANUEL SAAVEDRA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "43279",
+   "Nombre": "MIGUEL ANGEL NUÑEZ",
+   "camiseta": "82",
+   "Capitan": ""
+  },
+  {
+   "carne": "27800",
+   "Nombre": "JOSE PABLO CHAMORRO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "20867",
+   "Nombre": "CARLOS MARTIN BORGES",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "47196",
+   "Nombre": "DARWIN SILVA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "48801",
+   "Nombre": "MAXIMILIANO BENVENUTI",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "17612",
+   "Nombre": "UGO LIGNELLI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "15410",
+   "Nombre": "CAMILO TABORELLI",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [],
+ "cambiosV": [
+  {
+   "CarneSale": "27800",
+   "Jug_Sale": "JOSE PABLO CHAMORRO",
+   "CarneEntra": "57944",
+   "Jug_Entra": "CESAR JOAQUIN RAÑA",
+   "camiseta": "21",
+   "minutos": "15"
+  },
+  {
+   "CarneSale": "24069",
+   "Jug_Sale": "SEBASTIAN MARTINEZ",
+   "CarneEntra": "34145",
+   "Jug_Entra": "VICTOR FERNANDO SAMPAYO",
+   "camiseta": "28",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "47196",
+   "Jug_Sale": "DARWIN SILVA",
+   "CarneEntra": "33075",
+   "Jug_Entra": "MAXIMILIANO BUCK",
+   "camiseta": "4",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "43279",
+   "Jug_Sale": "MIGUEL ANGEL NUÑEZ",
+   "CarneEntra": "37906",
+   "Jug_Entra": "LUIS DIEGO ALCARRAZ",
+   "camiseta": "24",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "57944",
+   "Jug_Sale": "CESAR JOAQUIN RAÑA",
+   "CarneEntra": "18863",
+   "Jug_Entra": "LEONARDO FOSSATTI",
+   "camiseta": "23",
+   "minutos": "68"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "17612",
+   "Nombre": "UGO LIGNELLI",
+   "minutos": "55",
+   "EnContra": "1"
+  },
+  {
+   "carne": "33946",
+   "Nombre": "RICARDO MANUEL SAAVEDRA",
+   "minutos": "76",
+   "EnContra": "1"
+  },
+  {
+   "carne": "48801",
+   "Nombre": "MAXIMILIANO BENVENUTI",
+   "minutos": "16",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

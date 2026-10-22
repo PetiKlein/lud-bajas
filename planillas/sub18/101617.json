@@ -1,0 +1,280 @@
+{
+ "id": "101617",
+ "categoria": "sub18",
+ "serie": "18-42",
+ "fecha": 7,
+ "fechaHora": "2026-09-06 15:30:00",
+ "cancha": "ST. BRENDANS",
+ "local": "OLD BRENDANS CLUB",
+ "visitante": "TENIS EL PINAR",
+ "gl": 4,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "296",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 4 RUEDA 2",
+  "Cancha": "ST. BRENDANS",
+  "Fecha_Inicio": "2026-09-06 00:00:00",
+  "Fecha_fin": "2026-09-06 00:00:00",
+  "Locatario": "OLD BRENDANS CLUB",
+  "goles_locatario": "4",
+  "puntos_locatario": "3",
+  "Visitante": "TENIS EL PINAR",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "60266",
+   "Nombre": "DIEGO ARMANDO RAMIREZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57835",
+   "Nombre": "ALFONSO ZAMBRANO",
+   "camiseta": "18",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56688",
+   "Nombre": "TOMAS PASSADORE",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "56474",
+   "Nombre": "JUAN BAUTISTA PAGANI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63255",
+   "Nombre": "JOAQUIN YAGODA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "57836",
+   "Nombre": "JUAN MANUEL ABELLA",
+   "camiseta": "44",
+   "Capitan": ""
+  },
+  {
+   "carne": "57838",
+   "Nombre": "SANTINO DANTONIO",
+   "camiseta": "55",
+   "Capitan": ""
+  },
+  {
+   "carne": "56510",
+   "Nombre": "JULIO PATRICIO JAKOB",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67762",
+   "Nombre": "JUAN MANUEL BERNAL",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58004",
+   "Nombre": "TIAGO KAMINIETZKY",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "58479",
+   "Nombre": "TOMAS TELLERIA",
+   "camiseta": "26",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "56185",
+   "Nombre": "JUAN ANDRES BAYARDI",
+   "camiseta": "1",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66346",
+   "Nombre": "FELIPE PACHECO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "63081",
+   "Nombre": "ALEX MONNERJAHN",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61620",
+   "Nombre": "FACUNDO PORRAS",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "61615",
+   "Nombre": "SEBASTIAN VAITKEVICIUS",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61617",
+   "Nombre": "LUCIO  JOSE MORENO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61622",
+   "Nombre": "MATEO OMAR ROLAND",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "60921",
+   "Nombre": "TEO OLAVE",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61625",
+   "Nombre": "FACUNDO GOLDARACENA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "67913",
+   "Nombre": "ISAIAS ANDRES MACEIRA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "61618",
+   "Nombre": "BAUTISTA MORALES",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "56474",
+   "Jug_Sale": "JUAN BAUTISTA PAGANI",
+   "CarneEntra": "60467",
+   "Jug_Entra": "SIMON FABINI",
+   "camiseta": "42",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57836",
+   "Jug_Sale": "JUAN MANUEL ABELLA",
+   "CarneEntra": "58427",
+   "Jug_Entra": "FACUNDO FIORE",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "67762",
+   "Jug_Sale": "JUAN MANUEL BERNAL",
+   "CarneEntra": "60472",
+   "Jug_Entra": "SANCHO CONTI",
+   "camiseta": "10",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "58004",
+   "Jug_Sale": "TIAGO KAMINIETZKY",
+   "CarneEntra": "62978",
+   "Jug_Entra": "LUCAS CAPLIVSCHI",
+   "camiseta": "29",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "58479",
+   "Jug_Sale": "TOMAS TELLERIA",
+   "CarneEntra": "65624",
+   "Jug_Entra": "LORENZO RODRIGUEZ",
+   "camiseta": "20",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "56510",
+   "Jug_Sale": "JULIO PATRICIO JAKOB",
+   "CarneEntra": "60676",
+   "Jug_Entra": "ANDRES LOPEZ",
+   "camiseta": "41",
+   "minutos": "86"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61618",
+   "Jug_Sale": "BAUTISTA MORALES",
+   "CarneEntra": "61614",
+   "Jug_Entra": "GERONIMO  ARTURO MUÑOZ",
+   "camiseta": "14",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "67913",
+   "Jug_Sale": "ISAIAS ANDRES MACEIRA",
+   "CarneEntra": "61619",
+   "Jug_Entra": "JUAN IGNACIO AIKE",
+   "camiseta": "60",
+   "minutos": "88"
+  },
+  {
+   "CarneSale": "61615",
+   "Jug_Sale": "SEBASTIAN VAITKEVICIUS",
+   "CarneEntra": "66598",
+   "Jug_Entra": "SANTINO DURAND",
+   "camiseta": "22",
+   "minutos": "88"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57835",
+   "Nombre": "ALFONSO ZAMBRANO",
+   "minutos": "89",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58004",
+   "Nombre": "TIAGO KAMINIETZKY",
+   "minutos": "6",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58479",
+   "Nombre": "TOMAS TELLERIA",
+   "minutos": "28",
+   "EnContra": "0"
+  },
+  {
+   "carne": "58479",
+   "Nombre": "TOMAS TELLERIA",
+   "minutos": "47",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61618",
+   "Nombre": "BAUTISTA MORALES",
+   "minutos": "39",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

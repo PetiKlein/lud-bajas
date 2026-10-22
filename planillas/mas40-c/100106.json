@@ -1,0 +1,299 @@
+{
+ "id": "100106",
+ "categoria": "mas40-c",
+ "serie": "40S22",
+ "fecha": 9,
+ "fechaHora": "2026-06-13 09:00:00",
+ "cancha": "COMPLEJO ABUA",
+ "local": "UNIVERSIDAD DE MONTEVIDEO",
+ "visitante": "CLUB RICHARD ANDERSON UNIV.",
+ "gl": 0,
+ "gv": 7,
+ "detalle": {
+  "nro_partido": "285",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIV.\"C\" SERIE 1",
+  "Cancha": "COMPLEJO ABUA",
+  "Fecha_Inicio": "2026-06-13 11:00:00",
+  "Fecha_fin": "2026-06-13 11:00:00",
+  "Locatario": "UNIVERSIDAD DE MONTEVIDEO",
+  "goles_locatario": "0",
+  "puntos_locatario": "0",
+  "Visitante": "CLUB RICHARD ANDERSON UNIV.",
+  "goles_visitante": "7",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "42605",
+   "Nombre": "NESTOR SCLAVI",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "20413",
+   "Nombre": "GABRIEL CARRIQUIRY",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "16205",
+   "Nombre": "AITOR GALDONA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "24784",
+   "Nombre": "RODRIGO ANTONIO VAZQUEZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "16267",
+   "Nombre": "ALEJANDRO FEDERICO YOUNG",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "42430",
+   "Nombre": "LEANDRO TABARE VAZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "61462",
+   "Nombre": "MARTIN ALEJANDRO LANDER",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "13042",
+   "Nombre": "ALVARO IGNACIO AGUIRRE",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "23543",
+   "Nombre": "SARKIS DANIEL ICHKHANIAN",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "20056",
+   "Nombre": "RAUL EDUARDO HIDALGO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "30169",
+   "Nombre": "DAMIANO TIERI",
+   "camiseta": "17",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "18045",
+   "Nombre": "PABLO SEBASTIAN GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "17456",
+   "Nombre": "LAZARO GABRIEL CUNHA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "67456",
+   "Nombre": "PABLO CABELLERO",
+   "camiseta": "14",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "34227",
+   "Nombre": "GASTON JORGE BRUNO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "42479",
+   "Nombre": "MARTIN PABLO ALAGIA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "28826",
+   "Nombre": "MILTON EDGARDO DE OLIVEIRA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "19666",
+   "Nombre": "ALVARO JORGE SABINI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "17178",
+   "Nombre": "EDUARDO ANDRES BALLINI",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "25997",
+   "Nombre": "SEBASTIAN SARKISIAN",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "16260",
+   "Nombre": "GERMAN JORGE RUIZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "25567",
+   "Nombre": "FERNANDO JAVIER COLLAZO",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "61462",
+   "Jug_Sale": "MARTIN ALEJANDRO LANDER",
+   "CarneEntra": "17667",
+   "Jug_Entra": "WILFREDO CLAUDIO CAMACHO",
+   "camiseta": "6",
+   "minutos": "8"
+  },
+  {
+   "CarneSale": "16205",
+   "Jug_Sale": "AITOR GALDONA",
+   "CarneEntra": "26201",
+   "Jug_Entra": "CARLOS DAMYAN IGNARIO",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20056",
+   "Jug_Sale": "RAUL EDUARDO HIDALGO",
+   "CarneEntra": "14583",
+   "Jug_Entra": "PAULO RAUL SALDAÑA",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "14583",
+   "Jug_Sale": "PAULO RAUL SALDAÑA",
+   "CarneEntra": "61462",
+   "Jug_Entra": "MARTIN ALEJANDRO LANDER",
+   "camiseta": "16",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "20413",
+   "Jug_Sale": "GABRIEL CARRIQUIRY",
+   "CarneEntra": "13042",
+   "Jug_Entra": "ALVARO IGNACIO AGUIRRE",
+   "camiseta": "11",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "17667",
+   "Jug_Sale": "WILFREDO CLAUDIO CAMACHO",
+   "CarneEntra": "14583",
+   "Jug_Entra": "PAULO RAUL SALDAÑA",
+   "camiseta": "20",
+   "minutos": "75"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "34227",
+   "Jug_Sale": "GASTON JORGE BRUNO",
+   "CarneEntra": "19074",
+   "Jug_Entra": "NESTOR ADRIAN ALONSO",
+   "camiseta": "19",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "17178",
+   "Jug_Sale": "EDUARDO ANDRES BALLINI",
+   "CarneEntra": "17925",
+   "Jug_Entra": "PABLO ANDRES RUIZ",
+   "camiseta": "10",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "17456",
+   "Jug_Sale": "LAZARO GABRIEL CUNHA",
+   "CarneEntra": "25567",
+   "Jug_Entra": "FERNANDO JAVIER COLLAZO",
+   "camiseta": "4",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "28826",
+   "Jug_Sale": "MILTON EDGARDO DE OLIVEIRA",
+   "CarneEntra": "17456",
+   "Jug_Entra": "LAZARO GABRIEL CUNHA",
+   "camiseta": "9",
+   "minutos": "71"
+  }
+ ],
+ "golesL": [],
+ "golesV": [
+  {
+   "carne": "17178",
+   "Nombre": "EDUARDO ANDRES BALLINI",
+   "minutos": "6",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17456",
+   "Nombre": "LAZARO GABRIEL CUNHA",
+   "minutos": "53",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17456",
+   "Nombre": "LAZARO GABRIEL CUNHA",
+   "minutos": "82",
+   "EnContra": "1"
+  },
+  {
+   "carne": "17456",
+   "Nombre": "LAZARO GABRIEL CUNHA",
+   "minutos": "85",
+   "EnContra": "1"
+  },
+  {
+   "carne": "25997",
+   "Nombre": "SEBASTIAN SARKISIAN",
+   "minutos": "68",
+   "EnContra": "1"
+  },
+  {
+   "carne": "34227",
+   "Nombre": "GASTON JORGE BRUNO",
+   "minutos": "31",
+   "EnContra": "1"
+  },
+  {
+   "carne": "42479",
+   "Nombre": "MARTIN PABLO ALAGIA",
+   "minutos": "76",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

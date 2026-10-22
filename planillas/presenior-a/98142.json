@@ -1,0 +1,286 @@
+{
+ "id": "98142",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "16",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-04-18 11:00:00",
+  "Fecha_fin": "2026-04-18 11:00:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "22065",
+   "Nombre": "PABLO JAVIER VERGES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "32536",
+   "Nombre": "DIEGO ALBERTO PEREZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "33743",
+   "Nombre": "DIEGO CAYOTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "27083",
+   "Nombre": "NICOLAS DIEGO MOURE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "21424",
+   "Nombre": "ALEJANDRO MAÑE",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "29899",
+   "Nombre": "ALEJANDRO PUCHIELE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "37774",
+   "Nombre": "RICHARD FERNANDO BARBOZA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "28887",
+   "Nombre": "JAVIER URRESTARAZU",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "29212",
+   "Nombre": "ALFONSO MARIA CASTELLS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "18778",
+   "Nombre": "SANTIAGO WALTER CAMPO",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "30983",
+   "Nombre": "RENZO LUCAS",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "44514",
+   "Nombre": "MAURO CESAR ASPLANATO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26980",
+   "Nombre": "SANTIAGO NIELS SHAW",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "21266",
+   "Nombre": "JUAN MARTIN TERRA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "26389",
+   "Nombre": "MARTIN JOSE DONAGARAY",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "26390",
+   "Nombre": "ROBERTO MATIAS GIMENEZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "26395",
+   "Nombre": "SANTIAGO JOSE DE HAEDO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32038",
+   "Nombre": "LUCAS MARIA GARCIA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "26852",
+   "Nombre": "ANDRES JOSE MERA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "29662",
+   "Nombre": "SANTIAGO JUAN ALBANELL",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "28182",
+   "Nombre": "ALFREDO AROCENA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "49522",
+   "Nombre": "MATEO PEREIRA",
+   "camiseta": "94",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "28887",
+   "Jug_Sale": "JAVIER URRESTARAZU",
+   "CarneEntra": "28086",
+   "Jug_Entra": "GUZMAN PRESNO",
+   "camiseta": "8",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "37774",
+   "Jug_Sale": "RICHARD FERNANDO BARBOZA",
+   "CarneEntra": "21269",
+   "Jug_Entra": "ALFONSO LUIS VIDAL",
+   "camiseta": "19",
+   "minutos": "59"
+  },
+  {
+   "CarneSale": "29212",
+   "Jug_Sale": "ALFONSO MARIA CASTELLS",
+   "CarneEntra": "40583",
+   "Jug_Entra": "NICOLAS BRANCATO",
+   "camiseta": "40",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "21424",
+   "Jug_Sale": "ALEJANDRO MAÑE",
+   "CarneEntra": "54395",
+   "Jug_Entra": "ANDRES VECINO",
+   "camiseta": "13",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29899",
+   "Jug_Sale": "ALEJANDRO PUCHIELE",
+   "CarneEntra": "22120",
+   "Jug_Entra": "SANTIAGO ESCOBAR",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "32536",
+   "Jug_Sale": "DIEGO ALBERTO PEREZ",
+   "CarneEntra": "21478",
+   "Jug_Entra": "RENZO SEBASTIAN CHIMELIR",
+   "camiseta": "15",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "18778",
+   "Jug_Sale": "SANTIAGO WALTER CAMPO",
+   "CarneEntra": "35845",
+   "Jug_Entra": "GABRIEL TARUSELLI",
+   "camiseta": "27",
+   "minutos": "88"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "26852",
+   "Jug_Sale": "ANDRES JOSE MERA",
+   "CarneEntra": "27541",
+   "Jug_Entra": "GERMAN JOSE ALBANELL",
+   "camiseta": "13",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "28182",
+   "Jug_Sale": "ALFREDO AROCENA",
+   "CarneEntra": "31896",
+   "Jug_Entra": "ALFONSO GUZMAN GALLO",
+   "camiseta": "9",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "49522",
+   "Jug_Sale": "MATEO PEREIRA",
+   "CarneEntra": "26868",
+   "Jug_Entra": "TOMAS AROCENA",
+   "camiseta": "10",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "29662",
+   "Jug_Sale": "SANTIAGO JUAN ALBANELL",
+   "CarneEntra": "26591",
+   "Jug_Entra": "FELIPE DE SANTIAGO",
+   "camiseta": "22",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "32038",
+   "Jug_Sale": "LUCAS MARIA GARCIA",
+   "CarneEntra": "33900",
+   "Jug_Entra": "SANTIAGO ARANCIBIA",
+   "camiseta": "14",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "30983",
+   "Nombre": "RENZO LUCAS",
+   "minutos": "86",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "28182",
+   "Nombre": "ALFREDO AROCENA",
+   "minutos": "57",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

@@ -1,0 +1,304 @@
+{
+ "id": "100535",
+ "categoria": "mas40-b",
+ "serie": "M40S2",
+ "fecha": 11,
+ "fechaHora": "2026-06-27 09:04:00",
+ "cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+ "local": "RIVER PLATE UNIVERSITARIO",
+ "visitante": "OLIMAR",
+ "gl": 0,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "205",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"B\"",
+  "Cancha": "COM. CLUB UNIVERSIDAD CATOLICA",
+  "Fecha_Inicio": "2026-06-27 10:55:00",
+  "Fecha_fin": "2026-06-27 10:55:00",
+  "Locatario": "RIVER PLATE UNIVERSITARIO",
+  "goles_locatario": "0",
+  "puntos_locatario": "1",
+  "Visitante": "OLIMAR",
+  "goles_visitante": "0",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "35761",
+   "Nombre": "MARTIN FORNO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "24427",
+   "Nombre": "MARTIN FERNANDO PUERTO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "40771",
+   "Nombre": "NICOLAS PERDOMO",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "19490",
+   "Nombre": "PABLO ANDRES GONZALEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "21571",
+   "Nombre": "GABRIEL SUAREZ",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "55272",
+   "Nombre": "GASTON RAFAEL PERGOLA",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "35159",
+   "Nombre": "FEDERICO PIÑEIRO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "52517",
+   "Nombre": "MARCELO EDUARDO PEREZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "39847",
+   "Nombre": "JAIME GARCIA",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "20360",
+   "Nombre": "GUSTAVO JUAN HONORIO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "59168",
+   "Nombre": "FERNANDO IGNACIO SILVA",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "11179",
+   "Nombre": "ALVARO DANIEL SIERRA",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "64699",
+   "Nombre": "DIEGO RIVERO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "17870",
+   "Nombre": "MARTIN AGUILAR",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "16871",
+   "Nombre": "NICOLAS GABRIEL CAMPANELLA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "37967",
+   "Nombre": "CARLOS AGUSTIN MERLO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "16310",
+   "Nombre": "IGNACIO POSADA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "21414",
+   "Nombre": "GERMAN DEVITTA",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "18826",
+   "Nombre": "DANIEL FEDERICO FOLABELLA",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "35128",
+   "Nombre": "MARCOS ALBERTO MERLO",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "64696",
+   "Nombre": "MARCELO MADJARIAN",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23561",
+   "Nombre": "GERMAN NICOLAS CHEBATAROFF",
+   "camiseta": "33",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "39847",
+   "Jug_Sale": "JAIME GARCIA",
+   "CarneEntra": "51382",
+   "Jug_Entra": "MIGUEL ANGEL PASTORINO",
+   "camiseta": "26",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "20360",
+   "Jug_Sale": "GUSTAVO JUAN HONORIO",
+   "CarneEntra": "39847",
+   "Jug_Entra": "JAIME GARCIA",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55272",
+   "Jug_Sale": "GASTON RAFAEL PERGOLA",
+   "CarneEntra": "18274",
+   "Jug_Entra": "ANDRES ANTONACCI",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24427",
+   "Jug_Sale": "MARTIN FERNANDO PUERTO",
+   "CarneEntra": "61117",
+   "Jug_Entra": "FABIAN REDIN",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "18274",
+   "Jug_Sale": "ANDRES ANTONACCI",
+   "CarneEntra": "26052",
+   "Jug_Entra": "PABLO SEBASTIAN FERNANDEZ",
+   "camiseta": "31",
+   "minutos": "48"
+  },
+  {
+   "CarneSale": "39847",
+   "Jug_Sale": "JAIME GARCIA",
+   "CarneEntra": "55272",
+   "Jug_Entra": "GASTON RAFAEL PERGOLA",
+   "camiseta": "24",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "52517",
+   "Jug_Sale": "MARCELO EDUARDO PEREZ",
+   "CarneEntra": "29363",
+   "Jug_Entra": "RAFAEL ENRIQUE PERDOMO",
+   "camiseta": "14",
+   "minutos": "79"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "21414",
+   "Jug_Sale": "GERMAN DEVITTA",
+   "CarneEntra": "37800",
+   "Jug_Entra": "JOSE RAUL RODRIGUEZ",
+   "camiseta": "31",
+   "minutos": "14"
+  },
+  {
+   "CarneSale": "64699",
+   "Jug_Sale": "DIEGO RIVERO",
+   "CarneEntra": "22324",
+   "Jug_Entra": "FERNANDO DIEGO DELLEPIANE",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "16871",
+   "Jug_Sale": "NICOLAS GABRIEL CAMPANELLA",
+   "CarneEntra": "19849",
+   "Jug_Entra": "GASTON FERNANDEZ",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "35128",
+   "Jug_Sale": "MARCOS ALBERTO MERLO",
+   "CarneEntra": "16017",
+   "Jug_Entra": "ADRIAN FERNANDEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64696",
+   "Jug_Sale": "MARCELO MADJARIAN",
+   "CarneEntra": "18944",
+   "Jug_Entra": "JUAN MANUEL ELOSEGUI",
+   "camiseta": "27",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "37967",
+   "Jug_Sale": "CARLOS AGUSTIN MERLO",
+   "CarneEntra": "52443",
+   "Jug_Entra": "MARIO GUSTAVO ALONSO",
+   "camiseta": "20",
+   "minutos": "40"
+  },
+  {
+   "CarneSale": "37800",
+   "Jug_Sale": "JOSE RAUL RODRIGUEZ",
+   "CarneEntra": "10059",
+   "Jug_Entra": "GONZALO FABIAN WELKER",
+   "camiseta": "50",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "16310",
+   "Jug_Sale": "IGNACIO POSADA",
+   "CarneEntra": "68872",
+   "Jug_Entra": "PABLO DARCI YASUIRE",
+   "camiseta": "28",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "19849",
+   "Jug_Sale": "GASTON FERNANDEZ",
+   "CarneEntra": "20604",
+   "Jug_Entra": "PABLO FRESIA",
+   "camiseta": "18",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

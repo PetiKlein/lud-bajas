@@ -1,0 +1,308 @@
+{
+ "id": "100427",
+ "categoria": "sub18",
+ "serie": "18-32",
+ "fecha": 1,
+ "fechaHora": "2026-06-21 15:30:00",
+ "cancha": "VILLA MARIA",
+ "local": "DEPORTIVO MORON",
+ "visitante": "CIRCULO DE TENIS MONTEVIDEO",
+ "gl": 1,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "245",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB18 SERIE 3 RUEDA 2",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-06-21 17:25:00",
+  "Fecha_fin": "2026-06-21 17:25:00",
+  "Locatario": "DEPORTIVO MORON",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_visitante": "2",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61996",
+   "Nombre": "JUAN MATEO MAGUNA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66249",
+   "Nombre": "FACUNDO DIAZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57779",
+   "Nombre": "NICOLAS LLANES",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "68022",
+   "Nombre": "FACUNDO SEBASTIAN VILLAGRAN",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "57778",
+   "Nombre": "MANUEL CAMPOS",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "65649",
+   "Nombre": "JUAN BARROS",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "57780",
+   "Nombre": "DIEGO BETTINELLI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "63643",
+   "Nombre": "MATEO FAULORD",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61144",
+   "Nombre": "FACUNDO LUIS D’AMICO",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59260",
+   "Nombre": "ALFONSO VERDUN",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "58771",
+   "Nombre": "ALEJO RODRIGUEZ",
+   "camiseta": "20",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "60419",
+   "Nombre": "JOAQUIN EMANUEL CASALAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "57625",
+   "Nombre": "LORENZO MORANDI",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57613",
+   "Nombre": "LUCIANO ASTENGO",
+   "camiseta": "83",
+   "Capitan": ""
+  },
+  {
+   "carne": "65181",
+   "Nombre": "VALENTIN MAÑANA",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "57630",
+   "Nombre": "FRANCISCO PONCE",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "61379",
+   "Nombre": "SEBASTIAN DEL CAMPO",
+   "camiseta": "41",
+   "Capitan": ""
+  },
+  {
+   "carne": "68498",
+   "Nombre": "MATIAS MENDOZA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "60424",
+   "Nombre": "AGUSTIN NICOLAS CASALAS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "59362",
+   "Nombre": "ALEJO SILVEIRA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "66095",
+   "Nombre": "MATIAS VILLAR",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "60544",
+   "Nombre": "SANTIAGO CABALLERO",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65649",
+   "Jug_Sale": "JUAN BARROS",
+   "CarneEntra": "68256",
+   "Jug_Entra": "FRANCO CODEVILA",
+   "camiseta": "31",
+   "minutos": "6"
+  },
+  {
+   "CarneSale": "58771",
+   "Jug_Sale": "ALEJO RODRIGUEZ",
+   "CarneEntra": "64944",
+   "Jug_Entra": "VALENTINO DECIA",
+   "camiseta": "12",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61144",
+   "Jug_Sale": "FACUNDO LUIS D’AMICO",
+   "CarneEntra": "64207",
+   "Jug_Entra": "LAUTARO FABIAN LECUNA",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57780",
+   "Jug_Sale": "DIEGO BETTINELLI",
+   "CarneEntra": "64937",
+   "Jug_Entra": "IGNACIO CASADO CASADO",
+   "camiseta": "23",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "59260",
+   "Jug_Sale": "ALFONSO VERDUN",
+   "CarneEntra": "57790",
+   "Jug_Entra": "FELIPE VALENTIN GARI",
+   "camiseta": "17",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "66249",
+   "Jug_Sale": "FACUNDO DIAZ",
+   "CarneEntra": "61144",
+   "Jug_Entra": "FACUNDO LUIS D’AMICO",
+   "camiseta": "5",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "61144",
+   "Jug_Sale": "FACUNDO LUIS D’AMICO",
+   "CarneEntra": "58563",
+   "Jug_Entra": "AGUSTIN MARTINEZ",
+   "camiseta": "30",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57613",
+   "Jug_Sale": "LUCIANO ASTENGO",
+   "CarneEntra": "65184",
+   "Jug_Entra": "TOBIAS WEISKE",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61379",
+   "Jug_Sale": "SEBASTIAN DEL CAMPO",
+   "CarneEntra": "57622",
+   "Jug_Entra": "AGUSTIN LOURADO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57625",
+   "Jug_Sale": "LORENZO MORANDI",
+   "CarneEntra": "63111",
+   "Jug_Entra": "LUKA RECOBA",
+   "camiseta": "32",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "59362",
+   "Jug_Sale": "ALEJO SILVEIRA",
+   "CarneEntra": "60579",
+   "Jug_Entra": "MATEO MANCINI",
+   "camiseta": "25",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "66095",
+   "Jug_Sale": "MATIAS VILLAR",
+   "CarneEntra": "68099",
+   "Jug_Entra": "ALAN JEAN ROSANO",
+   "camiseta": "13",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "65184",
+   "Jug_Sale": "TOBIAS WEISKE",
+   "CarneEntra": "66326",
+   "Jug_Entra": "LUCAS DIEGO GONZALEZ",
+   "camiseta": "16",
+   "minutos": "82"
+  },
+  {
+   "CarneSale": "60544",
+   "Jug_Sale": "SANTIAGO CABALLERO",
+   "CarneEntra": "63104",
+   "Jug_Entra": "FACUNDO CARDANI",
+   "camiseta": "26",
+   "minutos": "82"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "58771",
+   "Nombre": "ALEJO RODRIGUEZ",
+   "minutos": "75",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61379",
+   "Nombre": "SEBASTIAN DEL CAMPO",
+   "minutos": "60",
+   "EnContra": "1"
+  },
+  {
+   "carne": "66095",
+   "Nombre": "MATIAS VILLAR",
+   "minutos": "22",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

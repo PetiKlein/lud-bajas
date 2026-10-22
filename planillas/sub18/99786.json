@@ -1,0 +1,296 @@
+{
+ "id": "99786",
+ "categoria": "sub18",
+ "serie": "18-4-",
+ "fecha": 7,
+ "fechaHora": "2026-06-07 15:30:00",
+ "cancha": "POLIDEPORTIVO CARRASCO",
+ "local": "ACADEMIA FRM",
+ "visitante": "OLD BOYS CLUB",
+ "gl": 1,
+ "gv": 8,
+ "detalle": {
+  "nro_partido": "112",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "1",
+  "Divisional": "SUB-18 SERIE 4",
+  "Cancha": "POLIDEPORTIVO CARRASCO",
+  "Fecha_Inicio": "2026-06-07 18:00:00",
+  "Fecha_fin": "2026-06-07 18:00:00",
+  "Locatario": "ACADEMIA FRM",
+  "goles_locatario": "1",
+  "puntos_locatario": "0",
+  "Visitante": "OLD BOYS CLUB",
+  "goles_visitante": "8",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "61085",
+   "Nombre": "FABRIZIO PERRONE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66353",
+   "Nombre": "PAVEL GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "61728",
+   "Nombre": "FELIPE SALVADOR TELLECHEA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "61372",
+   "Nombre": "BRYAN ALEXANDER BAGNASCO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "60275",
+   "Nombre": "JUAN DIEGO DELGADO",
+   "camiseta": "37",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "59062",
+   "Nombre": "MARTIN ANDRES ALBORNOZ",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "68596",
+   "Nombre": "MARCOS BRIAN",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "68595",
+   "Nombre": "LAUTARO MARTINEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "65660",
+   "Nombre": "FACUNDO VEIGA",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "62765",
+   "Nombre": "BENJAMIN DELGADO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "64943",
+   "Nombre": "JUAN MARTIN BANINA",
+   "camiseta": "30",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58840",
+   "Nombre": "BENJAMIN VALERIANI",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56271",
+   "Nombre": "SANTIAGO CARDOSO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "57002",
+   "Nombre": "JUAN MARTIN CANUTI",
+   "camiseta": "36",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "57005",
+   "Nombre": "IGNACIO IBARBURU",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "58880",
+   "Nombre": "FEDERICO BARBOSA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "58843",
+   "Nombre": "GUILLERMO REILLY",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "58858",
+   "Nombre": "JOAQUIN QUINTO REYES",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "57001",
+   "Nombre": "MANUEL BOSCH",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "58881",
+   "Nombre": "FELIPE WILD",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "56259",
+   "Nombre": "JUAN BAUTISTA PERCIAVALLE",
+   "camiseta": "45",
+   "Capitan": ""
+  },
+  {
+   "carne": "58841",
+   "Nombre": "JUAN BAUTISTA BONOMI",
+   "camiseta": "46",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66353",
+   "Jug_Sale": "PAVEL GONZALEZ",
+   "CarneEntra": "65771",
+   "Jug_Entra": "SANTIAGO MATEO VENTURELLI",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65660",
+   "Jug_Sale": "FACUNDO VEIGA",
+   "CarneEntra": "66353",
+   "Jug_Entra": "PAVEL GONZALEZ",
+   "camiseta": "8",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "57002",
+   "Jug_Sale": "JUAN MARTIN CANUTI",
+   "CarneEntra": "62988",
+   "Jug_Entra": "LUCAS BENJAMIN WOYCIK",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58881",
+   "Jug_Sale": "FELIPE WILD",
+   "CarneEntra": "60174",
+   "Jug_Entra": "SANTIAGO VILLALBA",
+   "camiseta": "38",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56271",
+   "Jug_Sale": "SANTIAGO CARDOSO",
+   "CarneEntra": "58863",
+   "Jug_Entra": "CONRADO KAMIL",
+   "camiseta": "8",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "58843",
+   "Jug_Sale": "GUILLERMO REILLY",
+   "CarneEntra": "58844",
+   "Jug_Entra": "NICOLAS MONTERO",
+   "camiseta": "27",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "58841",
+   "Jug_Sale": "JUAN BAUTISTA BONOMI",
+   "CarneEntra": "56261",
+   "Jug_Entra": "FRANCISCO NOVEGIL",
+   "camiseta": "36",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "57001",
+   "Jug_Sale": "MANUEL BOSCH",
+   "CarneEntra": "56255",
+   "Jug_Entra": "TOMAS YOUNG",
+   "camiseta": "51",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "68595",
+   "Nombre": "LAUTARO MARTINEZ",
+   "minutos": "50",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "58841",
+   "Nombre": "JUAN BAUTISTA BONOMI",
+   "minutos": "28",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58841",
+   "Nombre": "JUAN BAUTISTA BONOMI",
+   "minutos": "34",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58841",
+   "Nombre": "JUAN BAUTISTA BONOMI",
+   "minutos": "32",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58844",
+   "Nombre": "NICOLAS MONTERO",
+   "minutos": "75",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58858",
+   "Nombre": "JOAQUIN QUINTO REYES",
+   "minutos": "2",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58858",
+   "Nombre": "JOAQUIN QUINTO REYES",
+   "minutos": "12",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58858",
+   "Nombre": "JOAQUIN QUINTO REYES",
+   "minutos": "23",
+   "EnContra": "1"
+  },
+  {
+   "carne": "58858",
+   "Nombre": "JOAQUIN QUINTO REYES",
+   "minutos": "25",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

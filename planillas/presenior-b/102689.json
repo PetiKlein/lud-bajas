@@ -1,0 +1,306 @@
+{
+ "id": "102689",
+ "categoria": "presenior-b",
+ "serie": "PSBPD",
+ "fecha": 3,
+ "fechaHora": "2026-10-10 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "ARGOS ",
+ "visitante": "CENTRO GALLEGO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "873",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "2",
+  "Divisional": "PRESENIOR \"B\" PER. y DESC",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-10-10 13:10:00",
+  "Fecha_fin": "2026-10-10 13:10:00",
+  "Locatario": "ARGOS ",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "CENTRO GALLEGO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "27339",
+   "Nombre": "RODRIGO LEONEL GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "53683",
+   "Nombre": "DIEGO MARTIN ACOSTA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "68418",
+   "Nombre": "JONATHAN AVELLANEDA",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "50530",
+   "Nombre": "SEBASTIAN JARA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "62845",
+   "Nombre": "ANDRES CATALANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "66159",
+   "Nombre": "JHONY ALEXANDER BARCIA",
+   "camiseta": "90",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "33380",
+   "Nombre": "GERARDO MENDEZ",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "61913",
+   "Nombre": "PABLO GABRIEL CUADRADO",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "67473",
+   "Nombre": "JUAN FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38008",
+   "Nombre": "JOSE MAURO RODRIGUEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "62323",
+   "Nombre": "JEREMMY MICHAEL RAMIREZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "29319",
+   "Nombre": "DAMIAN BAPTISTA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22596",
+   "Nombre": "BRUNO MARTELLA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "68365",
+   "Nombre": "CHRISTIAN NICOLAS TRINIDAD",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "30896",
+   "Nombre": "AGUSTIN SANTIAGO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "46319",
+   "Nombre": "SERGIO MATIAS MARTINEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "17809",
+   "Nombre": "JUAN DANIEL GHEZZI",
+   "camiseta": "32",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "62848",
+   "Nombre": "FELIPE PILON",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "37457",
+   "Nombre": "GERMAN AUGUSTO FRASCHINI",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "33394",
+   "Nombre": "PEDRO PORTA",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "53841",
+   "Nombre": "EZEQUIEL ANDRES ARRAMBIDE",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "27673",
+   "Nombre": "JUAN PABLO PAZ",
+   "camiseta": "23",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68418",
+   "Jug_Sale": "JONATHAN AVELLANEDA",
+   "CarneEntra": "29325",
+   "Jug_Entra": "DIEGO MARCEL ACEVEDO",
+   "camiseta": "18",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "53683",
+   "Jug_Sale": "DIEGO MARTIN ACOSTA",
+   "CarneEntra": "68573",
+   "Jug_Entra": "DIEGO COSTA",
+   "camiseta": "2",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61913",
+   "Jug_Sale": "PABLO GABRIEL CUADRADO",
+   "CarneEntra": "61915",
+   "Jug_Entra": "FEDERICO JOAQUIN LEAL",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "62323",
+   "Jug_Sale": "JEREMMY MICHAEL RAMIREZ",
+   "CarneEntra": "27165",
+   "Jug_Entra": "FRANCISCO SEBASTIAN ARNALDI",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "38008",
+   "Jug_Sale": "JOSE MAURO RODRIGUEZ",
+   "CarneEntra": "35424",
+   "Jug_Entra": "MARIO MACHADO",
+   "camiseta": "24",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33380",
+   "Jug_Sale": "GERARDO MENDEZ",
+   "CarneEntra": "38008",
+   "Jug_Entra": "JOSE MAURO RODRIGUEZ",
+   "camiseta": "10",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "66159",
+   "Jug_Sale": "JHONY ALEXANDER BARCIA",
+   "CarneEntra": "53683",
+   "Jug_Entra": "DIEGO MARTIN ACOSTA",
+   "camiseta": "5",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "29325",
+   "Jug_Sale": "DIEGO MARCEL ACEVEDO",
+   "CarneEntra": "33380",
+   "Jug_Entra": "GERARDO MENDEZ",
+   "camiseta": "25",
+   "minutos": "47"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62848",
+   "Jug_Sale": "FELIPE PILON",
+   "CarneEntra": "58918",
+   "Jug_Entra": "JOSE  LUIS SMITH",
+   "camiseta": "13",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "68365",
+   "Jug_Sale": "CHRISTIAN NICOLAS TRINIDAD",
+   "CarneEntra": "24680",
+   "Jug_Entra": "MATIAS RODRIGUEZ",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27673",
+   "Jug_Sale": "JUAN PABLO PAZ",
+   "CarneEntra": "27328",
+   "Jug_Entra": "ANGEL FEDERICO BELLO",
+   "camiseta": "19",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "33394",
+   "Jug_Sale": "PEDRO PORTA",
+   "CarneEntra": "46504",
+   "Jug_Entra": "KEVIN RAFAEL JAURETCHE",
+   "camiseta": "23",
+   "minutos": "75"
+  },
+  {
+   "CarneSale": "46319",
+   "Jug_Sale": "SERGIO MATIAS MARTINEZ",
+   "CarneEntra": "27673",
+   "Jug_Entra": "JUAN PABLO PAZ",
+   "camiseta": "23",
+   "minutos": "85"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "66159",
+   "Nombre": "JHONY ALEXANDER BARCIA",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "67473",
+   "Nombre": "JUAN FERNANDEZ",
+   "minutos": "72",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "30896",
+   "Nombre": "AGUSTIN SANTIAGO",
+   "minutos": "41",
+   "EnContra": "1"
+  },
+  {
+   "carne": "53841",
+   "Nombre": "EZEQUIEL ANDRES ARRAMBIDE",
+   "minutos": "45",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

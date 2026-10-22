@@ -1,0 +1,251 @@
+{
+ "id": "103058",
+ "categoria": "sub18",
+ "serie": "18O",
+ "fecha": 1,
+ "fechaHora": "2026-10-18 15:30:00",
+ "cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+ "local": "SAN JUAN BAUTISTA",
+ "visitante": "CARRASCO LAWN TENNIS",
+ "gl": 1,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "347",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 18 ",
+  "categoria": "SUB 18 MASCULINO",
+  "rueda": "3",
+  "Divisional": "SUB18 ORO",
+  "Cancha": "CAMPO DEP. SAN JUAN BAUTISTA",
+  "Fecha_Inicio": "2026-10-18 17:30:00",
+  "Fecha_fin": "2026-10-18 17:30:00",
+  "Locatario": "SAN JUAN BAUTISTA",
+  "goles_locatario": "1",
+  "puntos_locatario": "1",
+  "Visitante": "CARRASCO LAWN TENNIS",
+  "goles_visitante": "1",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64191",
+   "Nombre": "NICOLAS ANTONIO DE ARMAS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "62670",
+   "Nombre": "LORENZO MONTERO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "62898",
+   "Nombre": "IGNACIO MELENDRE",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "57781",
+   "Nombre": "JUAN PEDRO LANARO",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "59257",
+   "Nombre": "MANUEL ARROYO",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "61182",
+   "Nombre": "LUCAS CANOSA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "58908",
+   "Nombre": "MANUEL PONS",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "64436",
+   "Nombre": "FACUNDO FUENTES",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "67411",
+   "Nombre": "SANTIAGO SERRANO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "57785",
+   "Nombre": "JUAN CAPPELLINI",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "61694",
+   "Nombre": "SANTIAGO RIOS",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "57786",
+   "Nombre": "FAUSTINO ARDITTI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56869",
+   "Nombre": "NICOLAS PODESTA",
+   "camiseta": "36",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "64674",
+   "Nombre": "FRANCISCO TERRA",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "62744",
+   "Nombre": "FELIPE SARACCO",
+   "camiseta": "53",
+   "Capitan": ""
+  },
+  {
+   "carne": "62734",
+   "Nombre": "BALTAZAR FERRARO",
+   "camiseta": "48",
+   "Capitan": ""
+  },
+  {
+   "carne": "61501",
+   "Nombre": "IGNACIO PARADA",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "57593",
+   "Nombre": "GENARO DE MORI",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "61096",
+   "Nombre": "TOMAS ARRIETA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "57605",
+   "Nombre": "SANTIAGO GONZALEZ",
+   "camiseta": "51",
+   "Capitan": ""
+  },
+  {
+   "carne": "56127",
+   "Nombre": "FELIPE CROCI",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "63410",
+   "Nombre": "TOMAS GRUDZIEN",
+   "camiseta": "34",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "64191",
+   "Jug_Sale": "NICOLAS ANTONIO DE ARMAS",
+   "CarneEntra": "57840",
+   "Jug_Entra": "DIEGO BIDEGAIN",
+   "camiseta": "20",
+   "minutos": "38"
+  },
+  {
+   "CarneSale": "64436",
+   "Jug_Sale": "FACUNDO FUENTES",
+   "CarneEntra": "67801",
+   "Jug_Entra": "LORENZO SOBA",
+   "camiseta": "23",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "67411",
+   "Jug_Sale": "SANTIAGO SERRANO",
+   "CarneEntra": "68684",
+   "Jug_Entra": "IÑAKI IZUIBEJERES",
+   "camiseta": "25",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "62734",
+   "Jug_Sale": "BALTAZAR FERRARO",
+   "CarneEntra": "63144",
+   "Jug_Entra": "DIEGO RAFAEL DECARLINI",
+   "camiseta": "23",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "57605",
+   "Jug_Sale": "SANTIAGO GONZALEZ",
+   "CarneEntra": "60773",
+   "Jug_Entra": "ALFONSO SCHAICH",
+   "camiseta": "14",
+   "minutos": "66"
+  },
+  {
+   "CarneSale": "61501",
+   "Jug_Sale": "IGNACIO PARADA",
+   "CarneEntra": "57612",
+   "Jug_Entra": "TOMAS ANTUÑA",
+   "camiseta": "20",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "56127",
+   "Jug_Sale": "FELIPE CROCI",
+   "CarneEntra": "61859",
+   "Jug_Entra": "JUAN SEGUNDO RODRIGUEZ",
+   "camiseta": "19",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "57785",
+   "Nombre": "JUAN CAPPELLINI",
+   "minutos": "63",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61096",
+   "Nombre": "TOMAS ARRIETA",
+   "minutos": "11",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [
+  {
+   "Nombre": "LUCAS CANOSA",
+   "observaciones": ""
+  }
+ ],
+ "expulsadosV": []
+}

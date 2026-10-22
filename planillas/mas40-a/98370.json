@@ -1,0 +1,322 @@
+{
+ "id": "98370",
+ "categoria": "mas40-a",
+ "serie": "M40S1",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "VILLA MARIA",
+ "local": "URUNDAY UNIVERSITARIO",
+ "visitante": "TACUAREMBO UNIVERSITARIO",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "12",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "MAS 40",
+  "categoria": "MÁS 40 MASCULINO",
+  "rueda": "1",
+  "Divisional": "MAS 40 DIVISIONAL \"A\"",
+  "Cancha": "VILLA MARIA",
+  "Fecha_Inicio": "2026-04-18 10:45:00",
+  "Fecha_fin": "2026-04-18 10:45:00",
+  "Locatario": "URUNDAY UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "TACUAREMBO UNIVERSITARIO",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "13146",
+   "Nombre": "DIEGO RODRIGO BRESCIANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33509",
+   "Nombre": "HORACIO CORUJO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "22237",
+   "Nombre": "WALTER WILLIAMS BRADFORD",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "22309",
+   "Nombre": "MARTIN GOYEN",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "14997",
+   "Nombre": "RODRIGO FERNANDO PEREZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "21150",
+   "Nombre": "MARTIN SEBASTIAN SANCHEZ",
+   "camiseta": "37",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "56809",
+   "Nombre": "MAXIMILIANO MENDEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "25856",
+   "Nombre": "FEDERICO AGUSTIN GARCIA",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "64158",
+   "Nombre": "FEDERICO GABRIEL GRANDILLO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "15935",
+   "Nombre": "CRISTIANO FABIANO LOPEZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "65179",
+   "Nombre": "MARCELO LOPEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "22311",
+   "Nombre": "JUAN GONZALO LEVRATTO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "26326",
+   "Nombre": "LUIS IGNACIO ABUD",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "21464",
+   "Nombre": "ALEJANDRO BOIX",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "19440",
+   "Nombre": "SANTIAGO CASTELLS",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "38043",
+   "Nombre": "JOSE RAFAEL AIRALA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "19435",
+   "Nombre": "PABLO MARTIN MOLINA",
+   "camiseta": "34",
+   "Capitan": ""
+  },
+  {
+   "carne": "29709",
+   "Nombre": "MILTON DANIEL MALDEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "26855",
+   "Nombre": "MARCELO ENRIQUE DAVILA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "31602",
+   "Nombre": "DIEGO ENRIQUE SITYA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "22013",
+   "Nombre": "RUBEN HUERTAS",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "12365",
+   "Nombre": "JORGE ERNESTO SUAREZ",
+   "camiseta": "14",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "22237",
+   "Jug_Sale": "WALTER WILLIAMS BRADFORD",
+   "CarneEntra": "13585",
+   "Jug_Entra": "DANIEL ALEJANDRO MARTIN",
+   "camiseta": "21",
+   "minutos": "25"
+  },
+  {
+   "CarneSale": "56809",
+   "Jug_Sale": "MAXIMILIANO MENDEZ",
+   "CarneEntra": "64650",
+   "Jug_Entra": "ALVARO FEDERICO PEREZ LAGO",
+   "camiseta": "43",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "15935",
+   "Jug_Sale": "CRISTIANO FABIANO LOPEZ",
+   "CarneEntra": "30395",
+   "Jug_Entra": "DANIEL LIBER CASTRO",
+   "camiseta": "40",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "22309",
+   "Jug_Sale": "MARTIN GOYEN",
+   "CarneEntra": "50552",
+   "Jug_Entra": "ORIBE SEBASTIAN RIOS",
+   "camiseta": "20",
+   "minutos": "60"
+  },
+  {
+   "CarneSale": "25856",
+   "Jug_Sale": "FEDERICO AGUSTIN GARCIA",
+   "CarneEntra": "30421",
+   "Jug_Entra": "JAVIER FEDERICO RODRIGUEZ",
+   "camiseta": "21",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "56809",
+   "Jug_Sale": "MAXIMILIANO MENDEZ",
+   "CarneEntra": "22309",
+   "Jug_Entra": "MARTIN GOYEN",
+   "camiseta": "15",
+   "minutos": "78"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "21464",
+   "Jug_Sale": "ALEJANDRO BOIX",
+   "CarneEntra": "42753",
+   "Jug_Entra": "CESAR ANDRES ROSTAN",
+   "camiseta": "32",
+   "minutos": "12"
+  },
+  {
+   "CarneSale": "31602",
+   "Jug_Sale": "DIEGO ENRIQUE SITYA",
+   "CarneEntra": "21704",
+   "Jug_Entra": "GERARDO HUGO GONZALEZ",
+   "camiseta": "11",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "26326",
+   "Jug_Sale": "LUIS IGNACIO ABUD",
+   "CarneEntra": "18646",
+   "Jug_Entra": "PABLO ALONSO",
+   "camiseta": "26",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "19435",
+   "Jug_Sale": "PABLO MARTIN MOLINA",
+   "CarneEntra": "50440",
+   "Jug_Entra": "JUAN MANUEL GAGO",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29709",
+   "Jug_Sale": "MILTON DANIEL MALDEZ",
+   "CarneEntra": "16875",
+   "Jug_Entra": "MAURICIO DIGENOVA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "26855",
+   "Jug_Sale": "MARCELO ENRIQUE DAVILA",
+   "CarneEntra": "39822",
+   "Jug_Entra": "ALEJANDRO MARTIN BAZZI",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31602",
+   "Jug_Sale": "DIEGO ENRIQUE SITYA",
+   "CarneEntra": "21704",
+   "Jug_Entra": "GERARDO HUGO GONZALEZ",
+   "camiseta": "11",
+   "minutos": "56"
+  },
+  {
+   "CarneSale": "38043",
+   "Jug_Sale": "JOSE RAFAEL AIRALA",
+   "CarneEntra": "31853",
+   "Jug_Entra": "JAVIER IGNACIO GUERRERO",
+   "camiseta": "23",
+   "minutos": "78"
+  },
+  {
+   "CarneSale": "29709",
+   "Jug_Sale": "MILTON DANIEL MALDEZ",
+   "CarneEntra": "35825",
+   "Jug_Entra": "JUAN ANDRES SARRIES",
+   "camiseta": "5",
+   "minutos": "78"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "25856",
+   "Nombre": "FEDERICO AGUSTIN GARCIA",
+   "minutos": "37",
+   "EnContra": "0"
+  },
+  {
+   "carne": "30395",
+   "Nombre": "DANIEL LIBER CASTRO",
+   "minutos": "40",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "22013",
+   "Nombre": "RUBEN HUERTAS",
+   "minutos": "8",
+   "EnContra": "1"
+  },
+  {
+   "carne": "31602",
+   "Nombre": "DIEGO ENRIQUE SITYA",
+   "minutos": "7",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

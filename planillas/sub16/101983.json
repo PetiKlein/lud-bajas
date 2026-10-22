@@ -1,0 +1,316 @@
+{
+ "id": "101983",
+ "categoria": "sub16",
+ "serie": "16-32",
+ "fecha": 2,
+ "fechaHora": "2026-09-13 13:30:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "CIRCULO DE TENIS MONTEVIDEO",
+ "visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+ "gl": 6,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "202",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 3 RUEDA 2",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-09-13 15:15:00",
+  "Fecha_fin": "2026-09-13 15:15:00",
+  "Locatario": "CIRCULO DE TENIS MONTEVIDEO",
+  "goles_locatario": "6",
+  "puntos_locatario": "3",
+  "Visitante": "NAUTICO CARRASCO Y PUNTA GORDA",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "68385",
+   "Nombre": "LEANDRO JOAQUIN VECINO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "60696",
+   "Nombre": "CARLOS FIELITZ",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "63193",
+   "Nombre": "JUAN IGNACIO SANTOS",
+   "camiseta": "57",
+   "Capitan": ""
+  },
+  {
+   "carne": "60433",
+   "Nombre": "ALFONSO PAROLIN",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "65152",
+   "Nombre": "JOAQUN REY",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "68485",
+   "Nombre": "THIAGO MEDINA",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "63014",
+   "Nombre": "TIMOTEO ZORRILLA",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "63194",
+   "Nombre": "THIAGO SILVA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "60736",
+   "Nombre": "PEDRO ARQUERO",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "62749",
+   "Nombre": "JOAQUIN ALEJANDRO GARAT",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "65151",
+   "Nombre": "MATEO EMANUEL ROQUETA",
+   "camiseta": "3",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "66209",
+   "Nombre": "SANTINO SCOSERIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "64586",
+   "Nombre": "FACUNDO MARIO SEGREDO",
+   "camiseta": "24",
+   "Capitan": ""
+  },
+  {
+   "carne": "67925",
+   "Nombre": "SEBASTIAN OMAR PERALTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "65903",
+   "Nombre": "SEBASTIAN BORCA",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "68353",
+   "Nombre": "SANTIAGO JURADO",
+   "camiseta": "61",
+   "Capitan": ""
+  },
+  {
+   "carne": "61926",
+   "Nombre": "TOMAS MONTENEGRO",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "68347",
+   "Nombre": "BENJAMIN GONZALEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "68854",
+   "Nombre": "FRANCISCO SANTORO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "64091",
+   "Nombre": "SANTIAGO FERNANDEZ",
+   "camiseta": "25",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "65498",
+   "Nombre": "FRANCISCO PAULOS",
+   "camiseta": "85",
+   "Capitan": ""
+  },
+  {
+   "carne": "65535",
+   "Nombre": "JOAQUIN VILLAVERDE",
+   "camiseta": "19",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "63193",
+   "Jug_Sale": "JUAN IGNACIO SANTOS",
+   "CarneEntra": "68385",
+   "Jug_Entra": "LEANDRO JOAQUIN VECINO",
+   "camiseta": "1",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "60433",
+   "Jug_Sale": "ALFONSO PAROLIN",
+   "CarneEntra": "68487",
+   "Jug_Entra": "SEBASTIAN BARBOZA",
+   "camiseta": "0",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65152",
+   "Jug_Sale": "JOAQUN REY",
+   "CarneEntra": "60428",
+   "Jug_Entra": "BLAS TRAVERS",
+   "camiseta": "19",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60433",
+   "Jug_Sale": "ALFONSO PAROLIN",
+   "CarneEntra": "65146",
+   "Jug_Entra": "FELIPE VILLAR",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "65152",
+   "Jug_Sale": "JOAQUN REY",
+   "CarneEntra": "68744",
+   "Jug_Entra": "FRANCO SANTAMARIA",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68485",
+   "Jug_Sale": "THIAGO MEDINA",
+   "CarneEntra": "68190",
+   "Jug_Entra": "RENATO ANDRADE",
+   "camiseta": "1",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63014",
+   "Jug_Sale": "TIMOTEO ZORRILLA",
+   "CarneEntra": "65157",
+   "Jug_Entra": "SANTIAGO CISNEROS",
+   "camiseta": "11",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "63194",
+   "Jug_Sale": "THIAGO SILVA",
+   "CarneEntra": "68456",
+   "Jug_Entra": "JUAN MARTIN SOSA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "60736",
+   "Jug_Sale": "PEDRO ARQUERO",
+   "CarneEntra": "68489",
+   "Jug_Entra": "IGNACIO SOSA",
+   "camiseta": "95",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68485",
+   "Jug_Sale": "THIAGO MEDINA",
+   "CarneEntra": "65247",
+   "Jug_Entra": "VALENTINO MARADEI",
+   "camiseta": "12",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "65498",
+   "Jug_Sale": "FRANCISCO PAULOS",
+   "CarneEntra": "63039",
+   "Jug_Entra": "MATEO TAIS",
+   "camiseta": "7",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "64091",
+   "Jug_Sale": "SANTIAGO FERNANDEZ",
+   "CarneEntra": "65498",
+   "Jug_Entra": "FRANCISCO PAULOS",
+   "camiseta": "85",
+   "minutos": "65"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "60433",
+   "Nombre": "ALFONSO PAROLIN",
+   "minutos": "16",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60696",
+   "Nombre": "CARLOS FIELITZ",
+   "minutos": "26",
+   "EnContra": "0"
+  },
+  {
+   "carne": "60736",
+   "Nombre": "PEDRO ARQUERO",
+   "minutos": "7",
+   "EnContra": "0"
+  },
+  {
+   "carne": "62749",
+   "Nombre": "JOAQUIN ALEJANDRO GARAT",
+   "minutos": "37",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68190",
+   "Nombre": "RENATO ANDRADE",
+   "minutos": "67",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68456",
+   "Nombre": "JUAN MARTIN SOSA",
+   "minutos": "88",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "65498",
+   "Nombre": "FRANCISCO PAULOS",
+   "minutos": "85",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

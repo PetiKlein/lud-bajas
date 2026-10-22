@@ -1,0 +1,320 @@
+{
+ "id": "97909",
+ "categoria": "presenior-e",
+ "serie": "PSE1",
+ "fecha": 1,
+ "fechaHora": "2026-04-11 09:00:00",
+ "cancha": "COM.SINDICATO MEDICO",
+ "local": "SINDICATO MEDICO DEL URUGUAY",
+ "visitante": "SANTA ELENA LAGOMAR",
+ "gl": 3,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "483",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 1",
+  "Cancha": "COM.SINDICATO MEDICO",
+  "Fecha_Inicio": "2026-04-11 11:00:00",
+  "Fecha_fin": "2026-04-11 11:00:00",
+  "Locatario": "SINDICATO MEDICO DEL URUGUAY",
+  "goles_locatario": "3",
+  "puntos_locatario": "3",
+  "Visitante": "SANTA ELENA LAGOMAR",
+  "goles_visitante": "2",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "58895",
+   "Nombre": "GONZALO EZEQUIEL BARRIONUEVO",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "45582",
+   "Nombre": "JUAN CARLOS CHIARINO",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "30065",
+   "Nombre": "MAXIMO DANIEL LACUESTA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "67681",
+   "Nombre": "MARTIN EDISON LONG",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "30427",
+   "Nombre": "FABRICIO GANNUSO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "48337",
+   "Nombre": "EDUARDO GUSTAVO CLAUSTRE",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "63288",
+   "Nombre": "SERGIO FERNANDO ROSSO",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "45721",
+   "Nombre": "ALEXIS JOHAN MARRERO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "35210",
+   "Nombre": "AGUSTIN BORGGIO",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "27963",
+   "Nombre": "JORGE FEDERICO KLEINMAN",
+   "camiseta": "27",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "48362",
+   "Nombre": "FABIO NELSON RODRIGUEZ",
+   "camiseta": "24",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "42194",
+   "Nombre": "MAXIMILIANO CESAR BOGGIANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33636",
+   "Nombre": "DARIO GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "25533",
+   "Nombre": "RODRIGO WALTER BAILLO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "24979",
+   "Nombre": "MATHIAS NICOLAS MELGAR",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "36315",
+   "Nombre": "SANTIAGO ARIEL ALONSO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "26411",
+   "Nombre": "JOAQUIN ANTONACCI",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "20325",
+   "Nombre": "ERNESTO MAXIMILIANO MURIAS",
+   "camiseta": "4",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "38769",
+   "Nombre": "GONZALO MELO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "65031",
+   "Nombre": "EDUARDO MANUEL SANTOS",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "19905",
+   "Nombre": "WILMAN SEBASTIAN SUAREZ",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "31565",
+   "Nombre": "DANILO GERMAN SOSA",
+   "camiseta": "16",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "67681",
+   "Jug_Sale": "MARTIN EDISON LONG",
+   "CarneEntra": "30070",
+   "Jug_Entra": "PABLO LACUESTA",
+   "camiseta": "23",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30065",
+   "Jug_Sale": "MAXIMO DANIEL LACUESTA",
+   "CarneEntra": "52336",
+   "Jug_Entra": "FEDERICO MOREIRA",
+   "camiseta": "15",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "45721",
+   "Jug_Sale": "ALEXIS JOHAN MARRERO",
+   "CarneEntra": "30560",
+   "Jug_Entra": "ALEJANDRO ANDRADE",
+   "camiseta": "16",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "27963",
+   "Jug_Sale": "JORGE FEDERICO KLEINMAN",
+   "CarneEntra": "30994",
+   "Jug_Entra": "VICTOR HUGO MADERA",
+   "camiseta": "14",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "30427",
+   "Jug_Sale": "FABRICIO GANNUSO",
+   "CarneEntra": "57251",
+   "Jug_Entra": "GUSTAVO ADOLFO CHAVEZ",
+   "camiseta": "71",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "45582",
+   "Jug_Sale": "JUAN CARLOS CHIARINO",
+   "CarneEntra": "27963",
+   "Jug_Entra": "JORGE FEDERICO KLEINMAN",
+   "camiseta": "27",
+   "minutos": "81"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "19905",
+   "Jug_Sale": "WILMAN SEBASTIAN SUAREZ",
+   "CarneEntra": "27210",
+   "Jug_Entra": "BRUNO MARTIN SOUZA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "25533",
+   "Jug_Sale": "RODRIGO WALTER BAILLO",
+   "CarneEntra": "23483",
+   "Jug_Entra": "GUILLERMO RIHCARD ALVAREZ",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31565",
+   "Jug_Sale": "DANILO GERMAN SOSA",
+   "CarneEntra": "59060",
+   "Jug_Entra": "JUAN BAVA",
+   "camiseta": "3",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42194",
+   "Jug_Sale": "MAXIMILIANO CESAR BOGGIANI",
+   "CarneEntra": "41032",
+   "Jug_Entra": "ENZO GASTON MEIZOSO",
+   "camiseta": "99",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "36315",
+   "Jug_Sale": "SANTIAGO ARIEL ALONSO",
+   "CarneEntra": "21807",
+   "Jug_Entra": "HECTOR SEBASTIAN DUTRA",
+   "camiseta": "15",
+   "minutos": "55"
+  },
+  {
+   "CarneSale": "65031",
+   "Jug_Sale": "EDUARDO MANUEL SANTOS",
+   "CarneEntra": "35570",
+   "Jug_Entra": "GIULIANO JAVIER KUNS",
+   "camiseta": "28",
+   "minutos": "72"
+  },
+  {
+   "CarneSale": "38769",
+   "Jug_Sale": "GONZALO MELO",
+   "CarneEntra": "65097",
+   "Jug_Entra": "SANTIAGO CIRILLI",
+   "camiseta": "15",
+   "minutos": "84"
+  },
+  {
+   "CarneSale": "38769",
+   "Jug_Sale": "GONZALO MELO",
+   "CarneEntra": "20312",
+   "Jug_Entra": "NICOLAS CARLE",
+   "camiseta": "29",
+   "minutos": "89"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "30065",
+   "Nombre": "MAXIMO DANIEL LACUESTA",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "30994",
+   "Nombre": "VICTOR HUGO MADERA",
+   "minutos": "72",
+   "EnContra": "0"
+  },
+  {
+   "carne": "45582",
+   "Nombre": "JUAN CARLOS CHIARINO",
+   "minutos": "47",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "19905",
+   "Nombre": "WILMAN SEBASTIAN SUAREZ",
+   "minutos": "37",
+   "EnContra": "1"
+  },
+  {
+   "carne": "19905",
+   "Nombre": "WILMAN SEBASTIAN SUAREZ",
+   "minutos": "45",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

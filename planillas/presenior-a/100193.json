@@ -1,0 +1,274 @@
+{
+ "id": "100193",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 10,
+ "fechaHora": "2026-06-20 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "MADRUGADA F.C",
+ "gl": 2,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "76",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-06-20 10:50:00",
+  "Fecha_fin": "2026-06-20 10:50:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "MADRUGADA F.C",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "22065",
+   "Nombre": "PABLO JAVIER VERGES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "21458",
+   "Nombre": "PABLO JOSE MARTON",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "32536",
+   "Nombre": "DIEGO ALBERTO PEREZ",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "27083",
+   "Nombre": "NICOLAS DIEGO MOURE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "21478",
+   "Nombre": "RENZO SEBASTIAN CHIMELIR",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "28086",
+   "Nombre": "GUZMAN PRESNO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37774",
+   "Nombre": "RICHARD FERNANDO BARBOZA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "29899",
+   "Nombre": "ALEJANDRO PUCHIELE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "29212",
+   "Nombre": "ALFONSO MARIA CASTELLS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "21269",
+   "Nombre": "ALFONSO LUIS VIDAL",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "37338",
+   "Nombre": "DIEGO AISCAR",
+   "camiseta": "99",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "35976",
+   "Nombre": "FEDERICO GARCIA",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22757",
+   "Nombre": "SEBASTIAN CORREA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "29114",
+   "Nombre": "JOSE SEBASTIAN GRATTAROLA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "31517",
+   "Nombre": "ALEJANDRO BAUDO",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "39060",
+   "Nombre": "FRANCISCO DANIEL BENTANCOR",
+   "camiseta": "47",
+   "Capitan": ""
+  },
+  {
+   "carne": "21347",
+   "Nombre": "GUILLERMO FERNANDO TORIJA",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "31925",
+   "Nombre": "PEDRO NICOLAS GARCIA",
+   "camiseta": "87",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "34213",
+   "Nombre": "MATEO MARQUES",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "40268",
+   "Nombre": "FABIAN RODRIGUEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "30150",
+   "Nombre": "IGNACIO BARBEITO",
+   "camiseta": "52",
+   "Capitan": ""
+  },
+  {
+   "carne": "54309",
+   "Nombre": "JUAN MANUEL PUERTA",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "21478",
+   "Jug_Sale": "RENZO SEBASTIAN CHIMELIR",
+   "CarneEntra": "25320",
+   "Jug_Entra": "IGNACIO MIERES",
+   "camiseta": "19",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "21458",
+   "Jug_Sale": "PABLO JOSE MARTON",
+   "CarneEntra": "40583",
+   "Jug_Entra": "NICOLAS BRANCATO",
+   "camiseta": "10",
+   "minutos": "68"
+  },
+  {
+   "CarneSale": "37338",
+   "Jug_Sale": "DIEGO AISCAR",
+   "CarneEntra": "22120",
+   "Jug_Entra": "SANTIAGO ESCOBAR",
+   "camiseta": "11",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "22065",
+   "Jug_Sale": "PABLO JAVIER VERGES",
+   "CarneEntra": "53016",
+   "Jug_Entra": "MIKAEL DEMIRDJIAN",
+   "camiseta": "24",
+   "minutos": "80"
+  },
+  {
+   "CarneSale": "37774",
+   "Jug_Sale": "RICHARD FERNANDO BARBOZA",
+   "CarneEntra": "18054",
+   "Jug_Entra": "GASTON ANDRES SCHAFFNER",
+   "camiseta": "5",
+   "minutos": "87"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22757",
+   "Jug_Sale": "SEBASTIAN CORREA",
+   "CarneEntra": "34256",
+   "Jug_Entra": "GASTON ELBIO CANCELA",
+   "camiseta": "14",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "39060",
+   "Jug_Sale": "FRANCISCO DANIEL BENTANCOR",
+   "CarneEntra": "34340",
+   "Jug_Entra": "FEDERICO VARGHA",
+   "camiseta": "22",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "30150",
+   "Jug_Sale": "IGNACIO BARBEITO",
+   "CarneEntra": "33545",
+   "Jug_Entra": "GONZALO NUÑEZ",
+   "camiseta": "15",
+   "minutos": "23"
+  },
+  {
+   "CarneSale": "40268",
+   "Jug_Sale": "FABIAN RODRIGUEZ",
+   "CarneEntra": "30154",
+   "Jug_Entra": "CHRISTIAN GRIFIN",
+   "camiseta": "13",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "21347",
+   "Jug_Sale": "GUILLERMO FERNANDO TORIJA",
+   "CarneEntra": "30158",
+   "Jug_Entra": "MATIAS LIVCHICH",
+   "camiseta": "20",
+   "minutos": "30"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "21269",
+   "Nombre": "ALFONSO LUIS VIDAL",
+   "minutos": "68",
+   "EnContra": "0"
+  },
+  {
+   "carne": "37774",
+   "Nombre": "RICHARD FERNANDO BARBOZA",
+   "minutos": "59",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "ALEJANDRO BAUDO",
+   "observaciones": ""
+  }
+ ]
+}

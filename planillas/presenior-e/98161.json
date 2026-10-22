@@ -1,0 +1,318 @@
+{
+ "id": "98161",
+ "categoria": "presenior-e",
+ "serie": "PSE2",
+ "fecha": 2,
+ "fechaHora": "2026-04-18 09:00:00",
+ "cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+ "local": "VARELA UNIVERSITARIO",
+ "visitante": "APENAS UNIVERSITARIO",
+ "gl": 2,
+ "gv": 4,
+ "detalle": {
+  "nro_partido": "534",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIV.\"E\" SERIE 2",
+  "Cancha": "COMPLEJO INDEPENDIENTE UNIV.",
+  "Fecha_Inicio": "2026-04-18 11:00:00",
+  "Fecha_fin": "2026-04-18 11:00:00",
+  "Locatario": "VARELA UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "0",
+  "Visitante": "APENAS UNIVERSITARIO",
+  "goles_visitante": "4",
+  "puntos_visitante": "3",
+  "walk_over": "0",
+  "observaciones": "Se expulsa al delegado de Apenas por protestas al inicio del partido."
+ },
+ "titularesL": [
+  {
+   "carne": "22425",
+   "Nombre": "MARTIN SCAVONE",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "56145",
+   "Nombre": "GIOVANNI FEDERICO BENVENUTO",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "25141",
+   "Nombre": "MATHIAS FRAGA",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "16209",
+   "Nombre": "GABRIEL RIVERO",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "42887",
+   "Nombre": "FEDERICO EDUARDO GARRIDO",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "42353",
+   "Nombre": "NICOLAS MARTIN",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "15665",
+   "Nombre": "JOSE IGNACIO MURIAS",
+   "camiseta": "23",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "41784",
+   "Nombre": "GONZALO SEBASTIAN RUELLA",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "27230",
+   "Nombre": "NICOLAS FASCIOLI",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "21746",
+   "Nombre": "NICOLAS FERNANDEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "31709",
+   "Nombre": "FELIPE HOUNIE",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32393",
+   "Nombre": "GASTON ROBERTO",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "38767",
+   "Nombre": "PAUL MARCEL BERRIEL",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "31436",
+   "Nombre": "JOSÈ ALBERTO DIAZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "34081",
+   "Nombre": "MARTIN SEBASTIAN DESPAUX",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "64040",
+   "Nombre": "OSCAR MATIAS FERRAZ",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "68279",
+   "Nombre": "GASTON ANDRES ENCISO",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "35007",
+   "Nombre": "BRAHIAN VIDIR",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67447",
+   "Nombre": "GASTON LUCAS FOLIATTI",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "49202",
+   "Nombre": "LEONARDO ARIONI",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "34084",
+   "Nombre": "MARCELO ANDRES CHAVEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "39231",
+   "Nombre": "SANTIAGO MARTINEZ",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "21746",
+   "Jug_Sale": "NICOLAS FERNANDEZ",
+   "CarneEntra": "30625",
+   "Jug_Entra": "GIANNI IAQUINTA",
+   "camiseta": "10",
+   "minutos": "62"
+  },
+  {
+   "CarneSale": "31709",
+   "Jug_Sale": "FELIPE HOUNIE",
+   "CarneEntra": "33205",
+   "Jug_Entra": "AGUSTIN GONZALEZ",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42887",
+   "Jug_Sale": "FEDERICO EDUARDO GARRIDO",
+   "CarneEntra": "28829",
+   "Jug_Entra": "SERGIO GERARDO BESOMI",
+   "camiseta": "16",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "42353",
+   "Jug_Sale": "NICOLAS MARTIN",
+   "CarneEntra": "33113",
+   "Jug_Entra": "GERONIMO SANCHEZ",
+   "camiseta": "32",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "56145",
+   "Jug_Sale": "GIOVANNI FEDERICO BENVENUTO",
+   "CarneEntra": "55924",
+   "Jug_Entra": "IGNACIO ARTURO NAVARRO",
+   "camiseta": "27",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "27230",
+   "Jug_Sale": "NICOLAS FASCIOLI",
+   "CarneEntra": "31679",
+   "Jug_Entra": "DIEGO TOME",
+   "camiseta": "34",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "41784",
+   "Jug_Sale": "GONZALO SEBASTIAN RUELLA",
+   "CarneEntra": "39180",
+   "Jug_Entra": "JUAN CAMPON",
+   "camiseta": "4",
+   "minutos": "80"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "49202",
+   "Jug_Sale": "LEONARDO ARIONI",
+   "CarneEntra": "48405",
+   "Jug_Entra": "SEBASTIAN GIMENEZ",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "31436",
+   "Jug_Sale": "JOSÈ ALBERTO DIAZ",
+   "CarneEntra": "25404",
+   "Jug_Entra": "ALFONSO GABRIEL PAPUCHI",
+   "camiseta": "8",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "68279",
+   "Jug_Sale": "GASTON ANDRES ENCISO",
+   "CarneEntra": "29690",
+   "Jug_Entra": "GUZMAN ARTICARDI",
+   "camiseta": "2",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "34081",
+   "Jug_Sale": "MARTIN SEBASTIAN DESPAUX",
+   "CarneEntra": "21936",
+   "Jug_Entra": "JORGE ANDRES SIERRA",
+   "camiseta": "17",
+   "minutos": "70"
+  },
+  {
+   "CarneSale": "64040",
+   "Jug_Sale": "OSCAR MATIAS FERRAZ",
+   "CarneEntra": "64042",
+   "Jug_Entra": "EMILIO CIGANDA",
+   "camiseta": "82",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "39231",
+   "Jug_Sale": "SANTIAGO MARTINEZ",
+   "CarneEntra": "49202",
+   "Jug_Entra": "LEONARDO ARIONI",
+   "camiseta": "15",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "28829",
+   "Nombre": "SERGIO GERARDO BESOMI",
+   "minutos": "75",
+   "EnContra": "0"
+  },
+  {
+   "carne": "41784",
+   "Nombre": "GONZALO SEBASTIAN RUELLA",
+   "minutos": "6",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "35007",
+   "Nombre": "BRAHIAN VIDIR",
+   "minutos": "66",
+   "EnContra": "1"
+  },
+  {
+   "carne": "39231",
+   "Nombre": "SANTIAGO MARTINEZ",
+   "minutos": "13",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68279",
+   "Nombre": "GASTON ANDRES ENCISO",
+   "minutos": "52",
+   "EnContra": "1"
+  },
+  {
+   "carne": "68279",
+   "Nombre": "GASTON ANDRES ENCISO",
+   "minutos": "65",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

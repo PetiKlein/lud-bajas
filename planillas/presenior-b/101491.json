@@ -1,0 +1,290 @@
+{
+ "id": "101491",
+ "categoria": "presenior-b",
+ "serie": "PSB",
+ "fecha": 12,
+ "fechaHora": "2026-09-05 11:15:00",
+ "cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+ "local": "ARGOS ",
+ "visitante": "OLD SAMPA CLUB",
+ "gl": 2,
+ "gv": 2,
+ "detalle": {
+  "nro_partido": "213",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"B\"",
+  "Cancha": "COMPLEJO DEPORTIVO ARRAYANES",
+  "Fecha_Inicio": "2026-09-05 13:05:00",
+  "Fecha_fin": "2026-09-05 13:05:00",
+  "Locatario": "ARGOS ",
+  "goles_locatario": "2",
+  "puntos_locatario": "1",
+  "Visitante": "OLD SAMPA CLUB",
+  "goles_visitante": "2",
+  "puntos_visitante": "1",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "27339",
+   "Nombre": "RODRIGO LEONEL GONZALEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "69029",
+   "Nombre": "EMILIANO RAPHAEL GARIBOTTI",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "31613",
+   "Nombre": "LUCAS LEONEL BOUISSA",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "61913",
+   "Nombre": "PABLO GABRIEL CUADRADO",
+   "camiseta": "38",
+   "Capitan": ""
+  },
+  {
+   "carne": "68573",
+   "Nombre": "DIEGO COSTA",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "66159",
+   "Nombre": "JHONY ALEXANDER BARCIA",
+   "camiseta": "90",
+   "Capitan": ""
+  },
+  {
+   "carne": "38103",
+   "Nombre": "FACUNDO PEREYRA",
+   "camiseta": "20",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "32868",
+   "Nombre": "GUILLERMO SILVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "67473",
+   "Nombre": "JUAN FERNANDEZ",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "38008",
+   "Nombre": "JOSE MAURO RODRIGUEZ",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "47946",
+   "Nombre": "FABRIZIO JAVIER GONZALEZ",
+   "camiseta": "8",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "36104",
+   "Nombre": "SANTIAGO JAUME",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "23361",
+   "Nombre": "ALEJANDRO REYES",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "24932",
+   "Nombre": "RAFAEL ETCHEBARNE",
+   "camiseta": "5",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "24733",
+   "Nombre": "MARTIN NICOLAS COULTHURST",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "23557",
+   "Nombre": "IGNACIO IRURETA GOYENA",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23371",
+   "Nombre": "EDUARDO ANDRES CUÑARRO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "21634",
+   "Nombre": "MATIAS CALACHA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "23363",
+   "Nombre": "ALEJANDRO CALACHA",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "51059",
+   "Nombre": "RODRIGO MENDEZ",
+   "camiseta": "23",
+   "Capitan": ""
+  },
+  {
+   "carne": "23372",
+   "Nombre": "JUAN IGNACIO LOPEZ",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "24413",
+   "Nombre": "ISMAEL JORGE FRANCO",
+   "camiseta": "4",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "66159",
+   "Jug_Sale": "JHONY ALEXANDER BARCIA",
+   "CarneEntra": "61915",
+   "Jug_Entra": "FEDERICO JOAQUIN LEAL",
+   "camiseta": "9",
+   "minutos": "13"
+  },
+  {
+   "CarneSale": "38103",
+   "Jug_Sale": "FACUNDO PEREYRA",
+   "CarneEntra": "64831",
+   "Jug_Entra": "DARIO MARTIN SANCHEZ",
+   "camiseta": "30",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "61913",
+   "Jug_Sale": "PABLO GABRIEL CUADRADO",
+   "CarneEntra": "38103",
+   "Jug_Entra": "FACUNDO PEREYRA",
+   "camiseta": "20",
+   "minutos": "60"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "23371",
+   "Jug_Sale": "EDUARDO ANDRES CUÑARRO",
+   "CarneEntra": "22544",
+   "Jug_Entra": "JUAN GABRIEL BASSO",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "23372",
+   "Jug_Sale": "JUAN IGNACIO LOPEZ",
+   "CarneEntra": "58101",
+   "Jug_Entra": "FRANCISCO VECINO",
+   "camiseta": "36",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21634",
+   "Jug_Sale": "MATIAS CALACHA",
+   "CarneEntra": "63323",
+   "Jug_Entra": "MATIAS BATTRO",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24413",
+   "Jug_Sale": "ISMAEL JORGE FRANCO",
+   "CarneEntra": "27933",
+   "Jug_Entra": "ENRIQUE CALACHA",
+   "camiseta": "30",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "24733",
+   "Jug_Sale": "MARTIN NICOLAS COULTHURST",
+   "CarneEntra": "24739",
+   "Jug_Entra": "NICOLAS SUAREZ",
+   "camiseta": "7",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "23361",
+   "Jug_Sale": "ALEJANDRO REYES",
+   "CarneEntra": "44279",
+   "Jug_Entra": "GUILLERMO NICOLAS CARDOZO",
+   "camiseta": "36",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "23363",
+   "Jug_Sale": "ALEJANDRO CALACHA",
+   "CarneEntra": "23366",
+   "Jug_Entra": "SANTIAGO POCHINTESTA",
+   "camiseta": "88",
+   "minutos": "32"
+  },
+  {
+   "CarneSale": "23557",
+   "Jug_Sale": "IGNACIO IRURETA GOYENA",
+   "CarneEntra": "24729",
+   "Jug_Entra": "ANDRES IRURETA",
+   "camiseta": "25",
+   "minutos": "33"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "38103",
+   "Nombre": "FACUNDO PEREYRA",
+   "minutos": "65",
+   "EnContra": "0"
+  },
+  {
+   "carne": "38103",
+   "Nombre": "FACUNDO PEREYRA",
+   "minutos": "80",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "51059",
+   "Nombre": "RODRIGO MENDEZ",
+   "minutos": "33",
+   "EnContra": "1"
+  },
+  {
+   "carne": "51059",
+   "Nombre": "RODRIGO MENDEZ",
+   "minutos": "75",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

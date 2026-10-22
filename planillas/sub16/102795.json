@@ -1,0 +1,252 @@
+{
+ "id": "102795",
+ "categoria": "sub16",
+ "serie": "16-12",
+ "fecha": 4,
+ "fechaHora": "2026-10-11 13:30:00",
+ "cancha": "CLUB ALEMAN",
+ "local": "ALEMAN UNIVERSITARIO",
+ "visitante": "CRANDON UNIVERSITARIO",
+ "gl": 2,
+ "gv": 1,
+ "detalle": {
+  "nro_partido": "154",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "SUB 16 ",
+  "categoria": "SUB 16 MASCULINO",
+  "rueda": "2",
+  "Divisional": "SUB16 SERIE 1 RUEDA 2",
+  "Cancha": "CLUB ALEMAN",
+  "Fecha_Inicio": "2026-10-11 15:10:00",
+  "Fecha_fin": "2026-10-11 15:10:00",
+  "Locatario": "ALEMAN UNIVERSITARIO",
+  "goles_locatario": "2",
+  "puntos_locatario": "3",
+  "Visitante": "CRANDON UNIVERSITARIO",
+  "goles_visitante": "1",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "64328",
+   "Nombre": "LORENZO BRUNO PEZZANI",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "67409",
+   "Nombre": "ALEJO CONDE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64890",
+   "Nombre": "MARTIN PONCE DE LEON",
+   "camiseta": "2",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66948",
+   "Nombre": "FACUNDO RADESCA",
+   "camiseta": "27",
+   "Capitan": ""
+  },
+  {
+   "carne": "60486",
+   "Nombre": "JUAN PEDRO ALVEZ",
+   "camiseta": "29",
+   "Capitan": ""
+  },
+  {
+   "carne": "62937",
+   "Nombre": "LEON PEDRO SCHILDE",
+   "camiseta": "17",
+   "Capitan": ""
+  },
+  {
+   "carne": "65916",
+   "Nombre": "EMILIANO PUJADAS",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "66950",
+   "Nombre": "FRANCISCO CHIAPPORI",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "68188",
+   "Nombre": "JUAN CRUZ BENKO",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "68771",
+   "Nombre": "VALENTIN COUAYRAHOURCQ",
+   "camiseta": "35",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "61542",
+   "Nombre": "JOAQUIN BOGLIACCINI",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "58633",
+   "Nombre": "JOAQUIN CARRIO",
+   "camiseta": "6",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "58632",
+   "Nombre": "FAUSTO SASTRE",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "64385",
+   "Nombre": "SAMUEL ANDRES ESTELLER",
+   "camiseta": "69",
+   "Capitan": ""
+  },
+  {
+   "carne": "61536",
+   "Nombre": "AGUSTIN PIRIZ",
+   "camiseta": "18",
+   "Capitan": ""
+  },
+  {
+   "carne": "61539",
+   "Nombre": "LUCAS VALLE",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "64379",
+   "Nombre": "MAURO MARIO ZORRILLA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "58626",
+   "Nombre": "SANTIAGO CASTRO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "61769",
+   "Nombre": "SANTIAGO RAFANIELLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "58634",
+   "Nombre": "THIAGO MISA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "58629",
+   "Nombre": "FRANCISCO AGOSTO",
+   "camiseta": "9",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "65916",
+   "Jug_Sale": "EMILIANO PUJADAS",
+   "CarneEntra": "67406",
+   "Jug_Entra": "BAUTISTA APRAHAMIAN",
+   "camiseta": "77",
+   "minutos": "45"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61539",
+   "Jug_Sale": "LUCAS VALLE",
+   "CarneEntra": "64405",
+   "Jug_Entra": "JUAN IGNACIO PERI",
+   "camiseta": "25",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "58626",
+   "Jug_Sale": "SANTIAGO CASTRO",
+   "CarneEntra": "61540",
+   "Jug_Entra": "RAMIRO DANZA",
+   "camiseta": "8",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "61769",
+   "Jug_Sale": "SANTIAGO RAFANIELLO",
+   "CarneEntra": "64387",
+   "Jug_Entra": "BENICIO BENJAMIN CURTO",
+   "camiseta": "15",
+   "minutos": "51"
+  },
+  {
+   "CarneSale": "58629",
+   "Jug_Sale": "FRANCISCO AGOSTO",
+   "CarneEntra": "66503",
+   "Jug_Entra": "CLAUDIO NICOLAS SOSA",
+   "camiseta": "17",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "58634",
+   "Jug_Sale": "THIAGO MISA",
+   "CarneEntra": "66502",
+   "Jug_Entra": "PEDRO MELAZZI",
+   "camiseta": "11",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "64385",
+   "Jug_Sale": "SAMUEL ANDRES ESTELLER",
+   "CarneEntra": "58623",
+   "Jug_Entra": "JUAN PEDRO BOLON",
+   "camiseta": "16",
+   "minutos": "70"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "63461",
+   "Nombre": "GUILLERMO SPILLER",
+   "minutos": "70",
+   "EnContra": "0"
+  },
+  {
+   "carne": "68188",
+   "Nombre": "JUAN CRUZ BENKO",
+   "minutos": "46",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "61536",
+   "Nombre": "AGUSTIN PIRIZ",
+   "minutos": "10",
+   "EnContra": "1"
+  }
+ ],
+ "expulsadosL": [],
+ "expulsadosV": []
+}

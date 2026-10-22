@@ -1,0 +1,260 @@
+{
+ "id": "101191",
+ "categoria": "presenior-a",
+ "serie": "PSA",
+ "fecha": 4,
+ "fechaHora": "2026-08-29 09:00:00",
+ "cancha": "COMPLEJO JUAN XXIII",
+ "local": "JUAN XXIII",
+ "visitante": "UNIVERSITARIO VERONES",
+ "gl": 1,
+ "gv": 0,
+ "detalle": {
+  "nro_partido": "31",
+  "temporada": "RAFAEL \"CANARIO\" GARCÍA",
+  "deporte": "FÚTBOL",
+  "torneo": "PRE SENIOR",
+  "categoria": "PRE-SENIOR MASCULINO",
+  "rueda": "1",
+  "Divisional": "PRESENIOR DIVISIONAL \"A\"",
+  "Cancha": "COMPLEJO JUAN XXIII",
+  "Fecha_Inicio": "2026-08-29 11:00:00",
+  "Fecha_fin": "2026-08-29 11:00:00",
+  "Locatario": "JUAN XXIII",
+  "goles_locatario": "1",
+  "puntos_locatario": "3",
+  "Visitante": "UNIVERSITARIO VERONES",
+  "goles_visitante": "0",
+  "puntos_visitante": "0",
+  "walk_over": "0",
+  "observaciones": null
+ },
+ "titularesL": [
+  {
+   "carne": "22065",
+   "Nombre": "PABLO JAVIER VERGES",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "33489",
+   "Nombre": "JUAN MANUEL YAÑEZ",
+   "camiseta": "19",
+   "Capitan": ""
+  },
+  {
+   "carne": "27083",
+   "Nombre": "NICOLAS DIEGO MOURE",
+   "camiseta": "31",
+   "Capitan": ""
+  },
+  {
+   "carne": "33743",
+   "Nombre": "DIEGO CAYOTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "54395",
+   "Nombre": "ANDRES VECINO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "28086",
+   "Nombre": "GUZMAN PRESNO",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "37774",
+   "Nombre": "RICHARD FERNANDO BARBOZA",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "29212",
+   "Nombre": "ALFONSO MARIA CASTELLS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "29899",
+   "Nombre": "ALEJANDRO PUCHIELE",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "37338",
+   "Nombre": "DIEGO AISCAR",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "30983",
+   "Nombre": "RENZO LUCAS",
+   "camiseta": "10",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "32130",
+   "Nombre": "JUAN MANUEL TARALLO",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "35044",
+   "Nombre": "EDISON ANDRES DOMINGUEZ",
+   "camiseta": "22",
+   "Capitan": ""
+  },
+  {
+   "carne": "49719",
+   "Nombre": "SERGIO ADRIAN ABALO",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "24949",
+   "Nombre": "MARTIN MARIO MERA",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "28265",
+   "Nombre": "SANTIAGO GASTON GIUFFRA",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "49186",
+   "Nombre": "CHARLES ADRIAN MARTINEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "35143",
+   "Nombre": "DAVIS STEVEN SANCHEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "33390",
+   "Nombre": "MAURIZIO ADINOLFI",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "57256",
+   "Nombre": "JUIO FABIAN GONZALEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "22077",
+   "Nombre": "CESAR AUGUSTO CAVALLI",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "30933",
+   "Nombre": "JORGE MARTIN CORREA",
+   "camiseta": "15",
+   "Capitan": "(C)"
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "30983",
+   "Jug_Sale": "RENZO LUCAS",
+   "CarneEntra": "21269",
+   "Jug_Entra": "ALFONSO LUIS VIDAL",
+   "camiseta": "5",
+   "minutos": "12"
+  },
+  {
+   "CarneSale": "37338",
+   "Jug_Sale": "DIEGO AISCAR",
+   "CarneEntra": "22120",
+   "Jug_Entra": "SANTIAGO ESCOBAR",
+   "camiseta": "11",
+   "minutos": "31"
+  },
+  {
+   "CarneSale": "33743",
+   "Jug_Sale": "DIEGO CAYOTA",
+   "CarneEntra": "40583",
+   "Jug_Entra": "NICOLAS BRANCATO",
+   "camiseta": "40",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "29899",
+   "Jug_Sale": "ALEJANDRO PUCHIELE",
+   "CarneEntra": "35845",
+   "Jug_Entra": "GABRIEL TARUSELLI",
+   "camiseta": "27",
+   "minutos": "73"
+  },
+  {
+   "CarneSale": "37774",
+   "Jug_Sale": "RICHARD FERNANDO BARBOZA",
+   "CarneEntra": "28887",
+   "Jug_Entra": "JAVIER URRESTARAZU",
+   "camiseta": "51",
+   "minutos": "86"
+  },
+  {
+   "CarneSale": "54395",
+   "Jug_Sale": "ANDRES VECINO",
+   "CarneEntra": "53016",
+   "Jug_Entra": "MIKAEL DEMIRDJIAN",
+   "camiseta": "24",
+   "minutos": "90"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "35044",
+   "Jug_Sale": "EDISON ANDRES DOMINGUEZ",
+   "CarneEntra": "19034",
+   "Jug_Entra": "MATIAS SURRA",
+   "camiseta": "6",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "24949",
+   "Jug_Sale": "MARTIN MARIO MERA",
+   "CarneEntra": "16642",
+   "Jug_Entra": "SEBASTIAN COUTO",
+   "camiseta": "18",
+   "minutos": "81"
+  },
+  {
+   "CarneSale": "22077",
+   "Jug_Sale": "CESAR AUGUSTO CAVALLI",
+   "CarneEntra": "22553",
+   "Jug_Entra": "GONZALO DANIEL PALAU",
+   "camiseta": "28",
+   "minutos": "90"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "33489",
+   "Nombre": "JUAN MANUEL YAÑEZ",
+   "minutos": "43",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [],
+ "expulsadosL": [],
+ "expulsadosV": [
+  {
+   "Nombre": "SERGIO ADRIAN ABALO",
+   "observaciones": ""
+  }
+ ]
+}
