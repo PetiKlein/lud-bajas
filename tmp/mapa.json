@@ -1,0 +1,1837 @@
+{
+ "presenior-a": [
+  {
+   "titulo": "Titulo",
+   "archivo": "F3232PSAT",
+   "configId": "41",
+   "config": {
+    "ID": "41",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSAT"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "60",
+     "73",
+     "45",
+     "78",
+     "85",
+     "90"
+    ]
+   }
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F3232PSAPD",
+   "config": null
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F3232PSA",
+   "configId": "35",
+   "config": {
+    "ID": "35",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSA"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": 16,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "9",
+     "64",
+     "72",
+     "72",
+     "83",
+     "45"
+    ]
+   }
+  }
+ ],
+ "presenior-b": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F3232PSBTA",
+   "configId": "42",
+   "config": {
+    "ID": "42",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSBTA"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "66",
+     "45",
+     "79"
+    ]
+   }
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F3232PSBPD",
+   "configId": "43",
+   "config": {
+    "ID": "43",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSBPD"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "60",
+     "79"
+    ]
+   }
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F3232PSB",
+   "configId": "36",
+   "config": {
+    "ID": "36",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSB"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": 16,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "7",
+     "45",
+     "45",
+     "45",
+     "45",
+     "75",
+     "80",
+     "80",
+     "86"
+    ]
+   }
+  }
+ ],
+ "presenior-c": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F3232PSCTA",
+   "configId": "44",
+   "config": {
+    "ID": "44",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSCTA"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "45",
+     "71",
+     "70",
+     "87",
+     "90"
+    ]
+   }
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F3232PSCPD",
+   "configId": "45",
+   "config": {
+    "ID": "45",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSCPD"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "63"
+    ]
+   }
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F3232PSC",
+   "configId": "37",
+   "config": {
+    "ID": "37",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSC"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": 16,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "45",
+     "45",
+     "60",
+     "69",
+     "78",
+     "83",
+     "90"
+    ]
+   }
+  }
+ ],
+ "presenior-d": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F3232PSDTA",
+   "configId": "46",
+   "config": {
+    "ID": "46",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSDTA"
+   },
+   "jugados": 13,
+   "proximos": 15,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "75",
+     "85",
+     "85"
+    ]
+   }
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F3232PSDPD",
+   "configId": "47",
+   "config": {
+    "ID": "47",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSDPD"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "35",
+     "45",
+     "75"
+    ]
+   }
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F3232PSD",
+   "configId": "38",
+   "config": {
+    "ID": "38",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSD"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": 16,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "65",
+     "45",
+     "45",
+     "45",
+     "45",
+     "45",
+     "65",
+     "65",
+     "78"
+    ]
+   }
+  }
+ ],
+ "presenior-e": [
+  {
+   "titulo": "Titulo y Ascensos 2ª rueda",
+   "archivo": "F3232PSET2",
+   "config": null
+  },
+  {
+   "titulo": "Titulo y Ascensos 1ª rueda",
+   "archivo": "F3232PSETA",
+   "configId": "48",
+   "config": {
+    "ID": "48",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSETA"
+   },
+   "jugados": 21,
+   "proximos": 7,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "64",
+     "45",
+     "45",
+     "76",
+     "89"
+    ]
+   }
+  },
+  {
+   "titulo": "Copa de Plata 2ª rueda",
+   "archivo": "F3232PSEP2",
+   "config": null
+  },
+  {
+   "titulo": "Copa de Plata 1ª rueda",
+   "archivo": "F3232PSEP",
+   "configId": "49",
+   "config": {
+    "ID": "49",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSEP"
+   },
+   "jugados": 15,
+   "proximos": 0,
+   "equipos": 6,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "60",
+     "65",
+     "73",
+     "80",
+     "81"
+    ]
+   }
+  },
+  {
+   "titulo": "Copa de Bronce 2ª rueda",
+   "archivo": "F3232PSEB2",
+   "config": null
+  },
+  {
+   "titulo": "Copa de Bronce 1ª rueda",
+   "archivo": "F3232PSEB",
+   "config": null
+  },
+  {
+   "titulo": "Primera Rueda Serie 1",
+   "archivo": "F3232PSE1",
+   "configId": "39",
+   "config": {
+    "ID": "39",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSE1"
+   },
+   "jugados": 44,
+   "proximos": 1,
+   "equipos": 10,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "61",
+     "76",
+     "80",
+     "87"
+    ]
+   }
+  },
+  {
+   "titulo": "Primera Rueda Serie 2",
+   "archivo": "F3232PSE2",
+   "configId": "40",
+   "config": {
+    "ID": "40",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "32",
+    "Categoria": "32",
+    "Serie": "PSE2"
+   },
+   "jugados": 36,
+   "proximos": 9,
+   "equipos": 10,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "17",
+     "70",
+     "70"
+    ]
+   }
+  }
+ ],
+ "mas40-a": [
+  {
+   "titulo": "Titulo",
+   "archivo": "F404040CO",
+   "configId": "53",
+   "config": {
+    "ID": "53",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "40",
+    "Categoria": "40",
+    "Serie": "40CO"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "45",
+     "45",
+     "45",
+     "55",
+     "65",
+     "75",
+     "90"
+    ]
+   }
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F404040CP",
+   "configId": "54",
+   "config": {
+    "ID": "54",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "40",
+    "Categoria": "40",
+    "Serie": "40CP"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "13",
+     "45",
+     "45",
+     "65",
+     "90"
+    ]
+   }
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F4040M40S1",
+   "configId": "50",
+   "config": {
+    "ID": "50",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "40",
+    "Categoria": "40",
+    "Serie": "M40S1"
+   },
+   "jugados": 120,
+   "proximos": 0,
+   "equipos": 16,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "45",
+     "45",
+     "45",
+     "45",
+     "70",
+     "89"
+    ]
+   }
+  }
+ ],
+ "mas40-b": [
+  {
+   "titulo": "Titulo y Ascensos",
+   "archivo": "F404040CB",
+   "configId": "55",
+   "config": {
+    "ID": "55",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "40",
+    "Categoria": "40",
+    "Serie": "40CB"
+   },
+   "jugados": 12,
+   "proximos": 16,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "57",
+     "65"
+    ]
+   }
+  },
+  {
+   "titulo": "Permanencia y Descensos",
+   "archivo": "F404040CC",
+   "configId": "56",
+   "config": {
+    "ID": "56",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "40",
+    "Categoria": "40",
+    "Serie": "40CC"
+   },
+   "jugados": 13,
+   "proximos": 14,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "60",
+     "75",
+     "45",
+     "45"
+    ]
+   }
+  },
+  {
+   "titulo": "Primera Rueda",
+   "archivo": "F4040M40S2",
+   "config": null
+  }
+ ],
+ "mas40-c": [
+  {
+   "titulo": "COPA DE ORO",
+   "archivo": "F4040M40O",
+   "config": null
+  },
+  {
+   "titulo": "COPA DE PLATA RUEDA 2",
+   "archivo": "F4040M40P2",
+   "config": null
+  },
+  {
+   "titulo": "COPA DE PLATA",
+   "archivo": "F4040M40P",
+   "config": null
+  },
+  {
+   "titulo": "COPA DE BRONCE RUEDA 2",
+   "archivo": "F4040M40B2",
+   "config": null
+  },
+  {
+   "titulo": "COPA DE BRONCE",
+   "archivo": "F4040M40B",
+   "config": null
+  },
+  {
+   "titulo": "Serie 1",
+   "archivo": "F404040S22",
+   "config": null
+  },
+  {
+   "titulo": "Serie 2",
+   "archivo": "F404040S23",
+   "config": null
+  }
+ ],
+ "sub18-series": [],
+ "sub18-copas": [
+  {
+   "titulo": "Copa de Oro",
+   "archivo": "F181818O",
+   "configId": "74",
+   "config": {
+    "ID": "74",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "18",
+    "Categoria": "18",
+    "Serie": "18O"
+   },
+   "jugados": 4,
+   "proximos": 24,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "63",
+     "71",
+     "71",
+     "80",
+     "82"
+    ]
+   }
+  },
+  {
+   "titulo": "Copa de Plata",
+   "archivo": "F181818P",
+   "configId": "75",
+   "config": {
+    "ID": "75",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "18",
+    "Categoria": "18",
+    "Serie": "18P"
+   },
+   "jugados": 4,
+   "proximos": 24,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "65",
+     "65",
+     "75",
+     "80"
+    ]
+   }
+  },
+  {
+   "titulo": "Copa de Bronce",
+   "archivo": "F181818B",
+   "configId": "76",
+   "config": {
+    "ID": "76",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "18",
+    "Categoria": "18",
+    "Serie": "18B"
+   },
+   "jugados": 4,
+   "proximos": 24,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "45",
+     "45",
+     "60",
+     "62",
+     "76",
+     "76",
+     "88"
+    ]
+   }
+  },
+  {
+   "titulo": "Copa Competencia",
+   "archivo": "F181818C",
+   "configId": "77",
+   "config": {
+    "ID": "77",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "18",
+    "Categoria": "18",
+    "Serie": "18C"
+   },
+   "jugados": 3,
+   "proximos": 25,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "38",
+     "79",
+     "80"
+    ]
+   }
+  },
+  {
+   "titulo": "Copa Confraternidad",
+   "archivo": "F181818F",
+   "config": null
+  },
+  {
+   "titulo": "Copa Amistad",
+   "archivo": "F181818A",
+   "config": null
+  }
+ ],
+ "sub16-series": [],
+ "sub16-copas": [
+  {
+   "titulo": "Copa de Oro",
+   "archivo": "F161616O",
+   "configId": "83",
+   "config": {
+    "ID": "83",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "16",
+    "Categoria": "16",
+    "Serie": "16O"
+   },
+   "jugados": 3,
+   "proximos": 25,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "53",
+     "70",
+     "40"
+    ]
+   }
+  },
+  {
+   "titulo": "Copa de Plata",
+   "archivo": "F161616P",
+   "configId": "84",
+   "config": {
+    "ID": "84",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "16",
+    "Categoria": "16",
+    "Serie": "16P"
+   },
+   "jugados": 4,
+   "proximos": 24,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "54",
+     "54",
+     "66",
+     "74",
+     "74"
+    ]
+   }
+  },
+  {
+   "titulo": "Copa de Bronce",
+   "archivo": "F161616B",
+   "configId": "85",
+   "config": {
+    "ID": "85",
+    "Temporada": "113",
+    "Deporte": "F",
+    "Torneo": "16",
+    "Categoria": "16",
+    "Serie": "16B"
+   },
+   "jugados": 4,
+   "proximos": 24,
+   "equipos": 8,
+   "muestra": {
+    "titulares": 11,
+    "cambios": [
+     "74",
+     "77"
+    ]
+   }
+  },
+  {
+   "titulo": "Copa Competencia",
+   "archivo": "F161616C",
+   "config": null
+  },
+  {
+   "titulo": "Copa Confraternidad",
+   "archivo": "F161616F",
+   "config": null
+  }
+ ],
+ "_config": [
+  {
+   "ID": "35",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSA"
+  },
+  {
+   "ID": "36",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSB"
+  },
+  {
+   "ID": "37",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSC"
+  },
+  {
+   "ID": "38",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSD"
+  },
+  {
+   "ID": "39",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSE1"
+  },
+  {
+   "ID": "40",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSE2"
+  },
+  {
+   "ID": "41",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSAT"
+  },
+  {
+   "ID": "42",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSBTA"
+  },
+  {
+   "ID": "43",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSBPD"
+  },
+  {
+   "ID": "44",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSCTA"
+  },
+  {
+   "ID": "45",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSCPD"
+  },
+  {
+   "ID": "46",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSDTA"
+  },
+  {
+   "ID": "47",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSDPD"
+  },
+  {
+   "ID": "48",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSETA"
+  },
+  {
+   "ID": "49",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSEP"
+  },
+  {
+   "ID": "50",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "M40S1"
+  },
+  {
+   "ID": "51",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "40S21"
+  },
+  {
+   "ID": "52",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "40S22"
+  },
+  {
+   "ID": "53",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "40CO"
+  },
+  {
+   "ID": "54",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "40CP"
+  },
+  {
+   "ID": "55",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "40CB"
+  },
+  {
+   "ID": "56",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "40CC"
+  },
+  {
+   "ID": "57",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "40CB2"
+  },
+  {
+   "ID": "69",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-1-"
+  },
+  {
+   "ID": "70",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-2-"
+  },
+  {
+   "ID": "71",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-3-"
+  },
+  {
+   "ID": "72",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-4-"
+  },
+  {
+   "ID": "73",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-5-"
+  },
+  {
+   "ID": "74",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18O"
+  },
+  {
+   "ID": "75",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18P"
+  },
+  {
+   "ID": "76",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18B"
+  },
+  {
+   "ID": "77",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18C"
+  },
+  {
+   "ID": "78",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-1-"
+  },
+  {
+   "ID": "79",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-2-"
+  },
+  {
+   "ID": "80",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-2-"
+  },
+  {
+   "ID": "81",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-3-"
+  },
+  {
+   "ID": "82",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-4-"
+  },
+  {
+   "ID": "83",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16O"
+  },
+  {
+   "ID": "84",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16P"
+  },
+  {
+   "ID": "85",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16B"
+  },
+  {
+   "ID": "86",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14S1"
+  },
+  {
+   "ID": "87",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14S2"
+  },
+  {
+   "ID": "88",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "CO"
+  },
+  {
+   "ID": "89",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "CP"
+  },
+  {
+   "ID": "90",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "140"
+  },
+  {
+   "ID": "91",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14P"
+  },
+  {
+   "ID": "92",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14B"
+  },
+  {
+   "ID": "93",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14C"
+  },
+  {
+   "ID": "94",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14O2"
+  },
+  {
+   "ID": "95",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14P2"
+  },
+  {
+   "ID": "96",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14B2"
+  },
+  {
+   "ID": "97",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14C2"
+  },
+  {
+   "ID": "139",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "S14S1"
+  },
+  {
+   "ID": "140",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "S14S2"
+  },
+  {
+   "ID": "145",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "40C2"
+  },
+  {
+   "ID": "149",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16C"
+  },
+  {
+   "ID": "150",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18F"
+  },
+  {
+   "ID": "152",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14COP"
+  },
+  {
+   "ID": "153",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14CC1"
+  },
+  {
+   "ID": "154",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14CC2"
+  },
+  {
+   "ID": "157",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "M45S1"
+  },
+  {
+   "ID": "158",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "M45S2"
+  },
+  {
+   "ID": "168",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSAPD"
+  },
+  {
+   "ID": "175",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14F"
+  },
+  {
+   "ID": "178",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "14O"
+  },
+  {
+   "ID": "179",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "45O"
+  },
+  {
+   "ID": "180",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "45P"
+  },
+  {
+   "ID": "191",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "45SFM"
+  },
+  {
+   "ID": "192",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "45SFL"
+  },
+  {
+   "ID": "194",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "45FSL"
+  },
+  {
+   "ID": "195",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "45FSP"
+  },
+  {
+   "ID": "196",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "45FM"
+  },
+  {
+   "ID": "197",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "45FMP"
+  },
+  {
+   "ID": "198",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "M40O"
+  },
+  {
+   "ID": "199",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "M40P"
+  },
+  {
+   "ID": "200",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "M40B"
+  },
+  {
+   "ID": "201",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "45",
+   "Serie": "45FPS"
+  },
+  {
+   "ID": "208",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "S18FO"
+  },
+  {
+   "ID": "209",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18FCP"
+  },
+  {
+   "ID": "210",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "S16FO"
+  },
+  {
+   "ID": "211",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "S16F0"
+  },
+  {
+   "ID": "212",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSCDP"
+  },
+  {
+   "ID": "214",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "1",
+   "Categoria": "32",
+   "Serie": "THPS8"
+  },
+  {
+   "ID": "216",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "1",
+   "Categoria": "32",
+   "Serie": "32TH4"
+  },
+  {
+   "ID": "219",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "1",
+   "Categoria": "32",
+   "Serie": "THPSS"
+  },
+  {
+   "ID": "223",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "1",
+   "Categoria": "32",
+   "Serie": "FPSCC"
+  },
+  {
+   "ID": "226",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "M40S2"
+  },
+  {
+   "ID": "227",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "40S23"
+  },
+  {
+   "ID": "229",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "14",
+   "Categoria": "14",
+   "Serie": "S14S3"
+  },
+  {
+   "ID": "230",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "48",
+   "Serie": "48R1"
+  },
+  {
+   "ID": "235",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "40C3"
+  },
+  {
+   "ID": "236",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSE12"
+  },
+  {
+   "ID": "237",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSE22"
+  },
+  {
+   "ID": "239",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "48",
+   "Serie": "48R2"
+  },
+  {
+   "ID": "249",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSEB"
+  },
+  {
+   "ID": "256",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "48",
+   "Serie": "48CO"
+  },
+  {
+   "ID": "257",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "112",
+   "Categoria": "48",
+   "Serie": "48CP"
+  },
+  {
+   "ID": "258",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "48",
+   "Serie": "48CB"
+  },
+  {
+   "ID": "259",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "48",
+   "Serie": "48CP"
+  },
+  {
+   "ID": "260",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "1",
+   "Categoria": "40",
+   "Serie": "CC404"
+  },
+  {
+   "ID": "261",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "1",
+   "Categoria": "32",
+   "Serie": "CC40S"
+  },
+  {
+   "ID": "263",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "1",
+   "Categoria": "32",
+   "Serie": "CC40S"
+  },
+  {
+   "ID": "264",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "1",
+   "Categoria": "40",
+   "Serie": "CC40S"
+  },
+  {
+   "ID": "273",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-6-"
+  },
+  {
+   "ID": "274",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-5-"
+  },
+  {
+   "ID": "275",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-12"
+  },
+  {
+   "ID": "276",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-22"
+  },
+  {
+   "ID": "276",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-22"
+  },
+  {
+   "ID": "276",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-22"
+  },
+  {
+   "ID": "277",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-32"
+  },
+  {
+   "ID": "278",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-42"
+  },
+  {
+   "ID": "279",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16-52"
+  },
+  {
+   "ID": "280",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-12"
+  },
+  {
+   "ID": "281",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-22"
+  },
+  {
+   "ID": "282",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-32"
+  },
+  {
+   "ID": "283",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-42"
+  },
+  {
+   "ID": "284",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-52"
+  },
+  {
+   "ID": "287",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-62"
+  },
+  {
+   "ID": "288",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18-61"
+  },
+  {
+   "ID": "289",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "48",
+   "Serie": "48OA"
+  },
+  {
+   "ID": "290",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "48",
+   "Categoria": "48",
+   "Serie": "48PA"
+  },
+  {
+   "ID": "291",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSEP2"
+  },
+  {
+   "ID": "292",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSEB2"
+  },
+  {
+   "ID": "293",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "M40P2"
+  },
+  {
+   "ID": "294",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "40",
+   "Categoria": "40",
+   "Serie": "M40B2"
+  },
+  {
+   "ID": "299",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "32",
+   "Categoria": "32",
+   "Serie": "PSET2"
+  },
+  {
+   "ID": "300",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "16",
+   "Categoria": "16",
+   "Serie": "16F"
+  },
+  {
+   "ID": "301",
+   "Temporada": "113",
+   "Deporte": "F",
+   "Torneo": "18",
+   "Categoria": "18",
+   "Serie": "18A"
+  }
+ ]
+}
