@@ -31,7 +31,7 @@ const ACCIONES = {
 };
 
 const espera = ms => new Promise(r => setTimeout(r, ms));
-async function api(params, base = BASE) {
+async function api(params, base = BASE, intentos = 3) {
   const q = new URLSearchParams(params).toString().replace(/\+/g, '%20');
   for (let intento = 1; ; intento++) {
     try {
@@ -42,7 +42,7 @@ async function api(params, base = BASE) {
       const j = JSON.parse(txt);
       return Array.isArray(j) ? j : []; // {"error": "No se encontraron..."} = lista vacía
     } catch (e) {
-      if (intento >= 3) throw new Error(`${params.action} ${params.id ?? ''}: ${e.message}`);
+      if (intento >= intentos) throw new Error(`${params.action} ${params.id ?? ''}: ${e.message}`);
       await espera(2000 * intento);
     }
   }
@@ -54,11 +54,18 @@ for (const cat of DIVISIONALES.filter(d => !SOLO.length || SOLO.includes(d.id)))
   mkdirSync(DIR, { recursive: true });
   let bajados = 0, salteados = 0, sinJugar = 0;
   const tareas = [], proximos = [];
-  for (const serie of Object.keys(cat.series)) {
-    const lista = await api({ action: 'cargarPartidos', temporada: TEMPORADA, deporte: 'F', torneo: cat.torneo, categoria: cat.categoria, serie });
-    for (const p of lista) tareas.push({ serie, p });
-    const fixture = await api({ action: 'cargarPartidos', temporada: TEMPORADA, deporte: 'F', torneo: cat.torneo, categoria: cat.categoria, serie }, BASE_FIXTURE);
-    for (const f of fixture) proximos.push({ serie, fechaHora: f.Fecha, cancha: f.Cancha, local: f.Locatario, visitante: f.Visitante });
+  // Si la Liga no responde la lista de una serie, se saltea esta divisional (queda lo que ya había)
+  // y se sigue con las demás, en vez de cortar toda la corrida.
+  try {
+    for (const serie of Object.keys(cat.series)) {
+      const lista = await api({ action: 'cargarPartidos', temporada: TEMPORADA, deporte: 'F', torneo: cat.torneo, categoria: cat.categoria, serie }, BASE, 5);
+      for (const p of lista) tareas.push({ serie, p });
+      const fixture = await api({ action: 'cargarPartidos', temporada: TEMPORADA, deporte: 'F', torneo: cat.torneo, categoria: cat.categoria, serie }, BASE_FIXTURE, 5);
+      for (const f of fixture) proximos.push({ serie, fechaHora: f.Fecha, cancha: f.Cancha, local: f.Locatario, visitante: f.Visitante });
+    }
+  } catch (e) {
+    console.log(`${cat.nombre}: la Liga no respondió la lista de partidos (${e.message}). Queda para la próxima corrida.`);
+    errores++; continue;
   }
   // Próximos partidos (fixture sin resultado), para mostrar el rival de cada equipo.
   writeFileSync(new URL('_proximos.json', DIR), JSON.stringify(proximos.sort((a, b) => a.fechaHora.localeCompare(b.fechaHora)), null, 1) + '\n');
