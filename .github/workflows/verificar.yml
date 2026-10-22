@@ -1,0 +1,18 @@
+name: Verificar dirección (temporal)
+on:
+  push:
+    branches: [verificar]
+permissions:
+  contents: write
+jobs:
+  v:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+      - run: |
+          sleep 150
+          for u in https://petiklein.github.io/planilla-lud/ https://petiklein.github.io/planilla-lud/manifest.webmanifest https://petiklein.github.io/planilla-lud/data/indice.json https://petiklein.github.io/lud-bajas/; do
+            echo "$u $(curl -s -o /dev/null -w '%{http_code}' -L "$u")" >> tmp/resultado.txt; done
+          curl -s https://petiklein.github.io/planilla-lud/ | grep -o '<title>[^<]*' >> tmp/resultado.txt
+          git config user.name github-actions; git config user.email github-actions@users.noreply.github.com
+          git add -f tmp/resultado.txt && git commit -qm resultado && git push
