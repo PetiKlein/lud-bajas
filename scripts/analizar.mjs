@@ -204,7 +204,7 @@ function global(estados) {
       carne: x.carne, tipo: g.fallo ? 'fallo' : 'automatica', preventiva, fecha: x.fecha, fechas: x.fechas, cumplidas, restan, estado, nota,
       texto: x.texto, detalle: x.detalle, club: x.club,
       partido: partido ? { div: partido.div, id: partido.p.id, dia: partido.p.dia, rival, equipo } : null,
-      serie: x.serie,
+      serie: x.serie, desde,
     });
   }
   for (const l of Object.values(sanciones)) l.sort((a, b) => b.fecha.localeCompare(a.fecha));
@@ -217,6 +217,7 @@ function global(estados) {
   return { porDiv, apariciones, sanciones, nombre, porClub, clubes: {} };
 }
 
+const CAT_DE = Object.fromEntries(DIVISIONALES.map(d => [d.id, d.categoriaId]));
 const NOMBRE_DIV = Object.fromEntries(DIVISIONALES.map(d => [d.id, d.nombre]));
 
 // Sanción vigente (o por confirmar) de un jugador, si tiene.
@@ -228,7 +229,7 @@ function textoSancion(s, aquiDiv) {
   if (s.preventiva) return `Suspensión preventiva del Tribunal por el partido ${donde}.`;
   const origen = s.tipo === 'fallo' ? `Suspendido ${plural(s.fechas, 'fecha')} por el Tribunal (fallo del ${ddmm(s.fecha)})` : `Suspensión automática de ${plural(s.fechas, 'fecha')} por la expulsión`;
   const resto = s.restan != null ? ` Le ${s.restan === 1 ? 'queda 1 fecha' : `quedan ${s.restan} fechas`} (cumplió ${s.cumplidas}).` : ' No se puede calcular cuántas fechas cumplió.';
-  const todas = /TODAS LAS CATEG/i.test(s.texto) ? ' Cumple en todas las categorías.' : '';
+  const todas = /TODAS LAS CATE/i.test(s.texto) ? ' Cumple en todas las categorías.' : '';
   return `${origen}, partido ${donde}.${resto}${todas}${s.tipo === 'automatica' ? ' El Tribunal todavía puede ampliarla.' : ''}`;
 }
 
@@ -238,18 +239,21 @@ function jugoEnOtra(G, c, div, dia, margen = 3) {
 }
 
 // ---------- alertas de bajas ----------
-function alertasDeEquipo(equipo, lista, jugadores, cat, G) {
+function alertasDeEquipo(equipo, lista, jugadores, cat, G, hoyDia = new Date().toISOString().slice(0, 10)) {
   const n = lista.length, ult = lista[n - 1];
   const previos = lista.slice(0, -1);
   const alertas = [], ya = new Set();
   const add = (carne, a) => { if (ya.has(carne)) return; ya.add(carne); alertas.push({ carne, nombre: jugadores[carne]?.nombre ?? G.nombre(carne) ?? carne, ...a }); };
   const plantel = new Set(lista.flatMap(pt => Object.keys(pt.jugadores)));
 
-  // 1) Suspensiones confirmadas por la Liga (de cualquier categoría: suelen cumplirse en todas).
+  // 1) Suspensiones confirmadas por la Liga. Si es de otra categoría y el fallo no dice que cumpla en
+  // todas, es duda y no baja segura: medido en la temporada, 1 de cada 4 jugó igual.
   for (const c of plantel) {
     const s = sancionVigente(G, c);
     if (!s) continue;
-    add(c, { tipo: 'suspendido', nivel: 'alta', confirmado: s.estado === 'vigente', restan: s.restan, texto: textoSancion(s, cat.id) });
+    const deOtra = s.partido && CAT_DE[s.partido.div] !== CAT_DE[cat.id] && !/TODAS LAS CATE/i.test(s.texto || '');
+    add(c, { tipo: 'suspendido', nivel: deOtra ? 'media' : 'alta', otraCat: deOtra ? 1 : undefined, confirmado: s.estado === 'vigente', restan: s.restan,
+      texto: textoSancion(s, cat.id) + (deOtra ? ' La sanción es de otra categoría y no dice que la cumpla en todas: puede jugar acá.' : '') });
   }
 
   // 2) Expulsados en el último partido.
@@ -289,7 +293,7 @@ function alertasDeEquipo(equipo, lista, jugadores, cat, G) {
         add(c, { tipo: 'vuelve', nivel: 'baja', texto: s.estado === 'cumplida'
           ? `Ya cumplió la suspensión (${plural(s.fechas, 'fecha')}) por la expulsión vs ${ultJugado.rival}: puede volver.`
           : `Expulsado vs ${ultJugado.rival}, pero ${s.estado === 'sin-fallo' ? 'pasaron más de 3 semanas sin fallo' : 'el Tribunal no lo suspendió'}. ${seguidos === 1 ? 'No jugó el último partido.' : `Lleva ${seguidos} partidos sin jugar.`}` });
-      } else if (!s && diaN(new Date().toISOString().slice(0, 10)) - diaN(ultJugado.dia) <= 21) {
+      } else if (!s && diaN(hoyDia) - diaN(ultJugado.dia) <= 21) {
         add(c, { tipo: 'suspendido', nivel: 'alta', sinJugar: seguidos,
           texto: `Expulsado contra ${ultJugado.rival}; ${seguidos === 1 ? 'no jugó el partido siguiente' : `lleva ${seguidos} partidos sin jugar`}. Probable suspensión.` });
       }
@@ -442,11 +446,13 @@ export function clubDe(equipo) {
 }
 const claveClub = c => c.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
-// Once probable: titularidades de los últimos 5 partidos, pesando más los recientes.
+// Once probable: titularidades de los últimos 5 partidos, pesando mucho más el último (así acierta más:
+// lo mide medirAciertos con toda la temporada). AJUSTE (variable de entorno, JSON) sirve para probar otros pesos.
 // Los suspendidos quedan afuera; las dudas (lesión probable, salió temprano...) pesan menos.
 // Arqueros de un equipo. La planilla no trae posiciones, así que se deducen: el que arranca con la 1 o
 // la 12, casi nunca sale reemplazado antes del 80' y no hace goles. Hace falta que haya pasado al menos 2 veces.
 // Devuelve los carnés de mayor a menor (titular y suplente). Si no hay ninguno claro, lista vacía.
+const AJUSTE = process.env.AJUSTE ? JSON.parse(process.env.AJUSTE) : {};
 const NUMEROS_ARQUERO = new Set(['1', '12']);
 export function arqueros(lista) {
   const e = {};
@@ -465,12 +471,12 @@ export function arqueros(lista) {
 
 function onceProbable(equipo, lista, jugadores, alertas, G) {
   const recientes = lista.slice(-5).reverse();
-  const W = [1, 0.8, 0.65, 0.5, 0.4];
+  const W = AJUSTE.W || [1, 0.5, 0.3, 0.2, 0.1]; // medido con toda la temporada (ver aciertos.json)
   const total = recientes.reduce((s, _, i) => s + W[i], 0);
   const puntos = {}, camiseta = {};
   recientes.forEach((pt, i) => {
     for (const [c, x] of Object.entries(pt.jugadores)) {
-      const v = x.titular ? 1 : x.minutos >= 45 ? 0.45 : x.minutos > 0 ? 0.15 : 0;
+      const v = x.titular ? (x.sale != null && x.sale < 45 ? AJUSTE.salio ?? 0.6 : 1) : x.minutos >= 45 ? (AJUSTE.m45 ?? 0.45) : x.minutos > 0 ? (AJUSTE.m1 ?? 0.15) : 0;
       puntos[c] = (puntos[c] || 0) + W[i] * v;
       if (x.camiseta && !camiseta[c]) camiseta[c] = x.camiseta;
     }
@@ -479,10 +485,11 @@ function onceProbable(equipo, lista, jugadores, alertas, G) {
   const afuera = [], candidatos = [];
   for (const [c, pts] of Object.entries(puntos)) {
     const a = porCarne[c];
-    const susp = a && (a.tipo === 'suspendido' || (a.tipo === 'expulsado' && a.nivel === 'alta'));
+    const susp = a && ((a.tipo === 'suspendido' && !a.otraCat) || (a.tipo === 'expulsado' && a.nivel === 'alta'));
     if (susp) { if (pts / total >= 0.3) afuera.push({ c, motivo: a.tipo === 'suspendido' ? 'Suspendido' : 'Expulsado' }); continue; }
     // Cuánto baja la chance cada tipo de duda (los que no jugaron ya pierden peso por no estar en el último).
-    const factor = !a || a.nivel === 'baja' ? 1 : { 'lesion-probable': 0.5, 'salio-temprano': 0.8, 'no-jugo': a.nivel === 'alta' ? 0.5 : 0.75 }[a.tipo] ?? 1;
+    const F = AJUSTE.F || { suspendido: 0.3, 'lesion-probable': 0.5, 'salio-temprano': 0.8, 'no-jugo-alta': 0.5, 'no-jugo-media': 0.75 };
+    const factor = !a ? 1 : (a.tipo === 'no-jugo' ? F[`no-jugo-${a.nivel}`] : F[a.tipo]) ?? (a.nivel === 'baja' ? 1 : 1);
     const duda = factor < 1 ? a.texto : null;
     candidatos.push({ c, cam: camiseta[c] || '', pct: Math.round(pts / total * 100), duda, peso: pts * factor });
   }
@@ -511,6 +518,111 @@ function onceProbable(equipo, lista, jugadores, alertas, G) {
     .sort((a, b) => (b.arq || 0) - (a.arq || 0) || (Number(a.cam) || 99) - (Number(b.cam) || 99));
   const alternativas = resto.slice(0, 4).map(({ peso, ...x }) => x);
   return { once, alternativas, afuera, arqueros: arqs, partidos: recientes.length };
+}
+
+// ---------- aciertos: el robot contra lo que pasó ----------
+// Sanciones de un jugador tal como se veían el día `dia`: solo las publicadas antes, con las fechas
+// cumplidas hasta ese momento.
+function sancionesAl(G, dia) {
+  const D = diaN(dia), out = {};
+  for (const [c, l] of Object.entries(G.sanciones)) {
+    const r = [];
+    for (const s of l) {
+      if (s.fecha >= dia) continue; // todavía no salió
+      let estado, restan = null, cumplidas = null;
+      if (s.partido?.equipo) {
+        const st = G.porDiv[s.partido.div];
+        cumplidas = (st.porEquipo[s.partido.equipo] || []).filter(pt => pt.dia > s.desde && pt.dia < dia).length
+          + (st.sinPlanilla[s.partido.equipo] || []).filter(pt => pt.dia > s.desde && pt.dia < dia && !pt.wo).length;
+      }
+      if (s.preventiva) estado = 'vigente';
+      else if (!s.fechas) estado = s.tipo === 'fallo' ? 'sin-suspension' : 'pendiente';
+      else if (cumplidas == null) estado = D - diaN(s.fecha) <= 21 ? 'a-confirmar' : 'cumplida';
+      else { restan = Math.max(0, s.fechas - cumplidas); estado = restan > 0 ? 'vigente' : 'cumplida'; }
+      const desdeJuego = estado === 'pendiente' ? s.desde : (s.fecha > s.desde ? s.fecha : s.desde);
+      const volvio = (G.apariciones[c] || []).some(a => a.dia > desdeJuego && a.dia < dia && diaN(a.dia) - diaN(s.desde) >= 3);
+      if (volvio && ['pendiente', 'vigente', 'a-confirmar'].includes(estado)) estado = estado === 'pendiente' ? 'sin-suspension' : 'cumplida';
+      else if (estado === 'pendiente' && D - diaN(s.desde) > 21) estado = 'sin-fallo';
+      r.push({ ...s, estado, restan, cumplidas });
+    }
+    if (r.length) out[c] = r;
+  }
+  return out;
+}
+
+// Para cada partido con planilla (desde el 4.º de cada equipo) se calcula el once probable y las alertas
+// usando solo los partidos anteriores, y se compara con la planilla real. La referencia es lo más simple
+// que podría hacer cualquiera: repetir el once del partido anterior.
+function medirAciertos(estados, G) {
+  const cache = {};
+  const Gal = dia => (cache[dia] ??= { ...G, sanciones: sancionesAl(G, dia) });
+  const nuevo = () => ({ partidos: 0, aciertos: 0, repetir: 0, arqueros: 0, conArquero: 0, nueve: 0 });
+  const sumar = (a, x) => { a.partidos++; a.aciertos += x.aciertos; a.repetir += x.repetir; a.nueve += x.aciertos >= 9 ? 1 : 0; if (x.arquero != null) { a.conArquero++; a.arqueros += x.arquero; } };
+  const total = nuevo(), porCat = {}, porDiv = {}, porEquipo = {};
+  // Alertas: ¿el jugador marcado fue titular / jugó el partido siguiente?
+  const alertas = {};
+  const ultimas = {}; // div -> última fecha medida, partido por partido
+  const catDe = Object.fromEntries(DIVISIONALES.map(d => [d.id, d.categoriaId]));
+  for (const st of estados) {
+    const { cat, porEquipo: pe, jugadores, sinPlanilla } = st;
+    for (const [equipo, lista] of Object.entries(pe)) {
+      for (let i = 3; i < lista.length; i++) {
+        const hist = lista.slice(0, i), real = lista[i], ult = hist.at(-1);
+        // Si en el medio hubo un partido sin planilla, el robot no lo pudo ver: no se mide.
+        if ((sinPlanilla[equipo] || []).some(x => x.dia > ult.dia && x.dia < real.dia && !x.wo)) continue;
+        const g = Gal(real.dia);
+        const al = alertasDeEquipo(equipo, hist, jugadores, cat, g, real.dia);
+        const pr = onceProbable(equipo, hist, jugadores, al, g);
+        const titulares = new Set(Object.entries(real.jugadores).filter(([, x]) => x.titular).map(([c]) => c));
+        if (titulares.size < 9) continue; // planilla incompleta
+        const aciertos = pr.once.filter(x => titulares.has(x.c)).length;
+        const repetir = Object.entries(ult.jugadores).filter(([c, x]) => x.titular && titulares.has(c)).length;
+        const arq = pr.once.find(x => x.arq);
+        const x = { aciertos, repetir, arquero: arq ? (titulares.has(arq.c) ? 1 : 0) : null };
+        sumar(total, x); sumar(porCat[catDe[cat.id]] ??= nuevo(), x); sumar(porDiv[cat.id] ??= nuevo(), x);
+        sumar((porEquipo[cat.id] ??= {})[equipo] ??= nuevo(), x);
+        (ultimas[cat.id] ??= []).push({ equipo, rival: real.rival, dia: real.dia, id: real.id, aciertos, repetir });
+        // Referencia: titulares del partido anterior sin ninguna alerta.
+        const conAlerta = new Set(al.map(a => a.carne));
+        for (const [c, y] of Object.entries(ult.jugadores)) if (y.titular && !conAlerta.has(c)) {
+          const r = (alertas['sin-alerta'] ??= { tipo: 'sin-alerta', nivel: null, casos: 0, noJugo: 0, noFueTitular: 0 });
+          r.casos++; if (!real.jugadores[c]) r.noJugo++; if (!real.jugadores[c]?.titular) r.noFueTitular++;
+        }
+        for (const a of al) {
+          if (!a.carne) continue;
+          const k = a.tipo === 'expulsado' || a.tipo === 'suspendido' ? a.tipo + (a.otraCat ? '-otra' : '') : `${a.tipo}|${a.nivel}`;
+          const r = (alertas[k] ??= { tipo: a.tipo + (a.otraCat ? '-otra' : ''), nivel: a.tipo === 'expulsado' || a.tipo === 'suspendido' ? null : a.nivel, casos: 0, noJugo: 0, noFueTitular: 0 });
+          const j = real.jugadores[a.carne];
+          r.casos++; if (!j) r.noJugo++; if (!j?.titular) r.noFueTitular++;
+        }
+      }
+    }
+  }
+  const fin = a => ({ partidos: a.partidos, promedio: a.partidos ? +(a.aciertos / a.partidos).toFixed(2) : null,
+    repetir: a.partidos ? +(a.repetir / a.partidos).toFixed(2) : null, nueveOMas: a.partidos ? Math.round(a.nueve / a.partidos * 100) : null,
+    arquero: a.conArquero ? Math.round(a.arqueros / a.conArquero * 100) : null });
+  // Última fecha medida de cada divisional: los partidos del último fin de semana con datos.
+  const ultimaFecha = {};
+  for (const [div, l] of Object.entries(ultimas)) {
+    const tope = l.reduce((m, x) => x.dia > m ? x.dia : m, '');
+    const l2 = l.filter(x => diaN(tope) - diaN(x.dia) <= 3);
+    ultimaFecha[div] = { dia: tope, equipos: l2.length, promedio: +(l2.reduce((s, x) => s + x.aciertos, 0) / l2.length).toFixed(2) };
+  }
+  const salida = {
+    total: fin(total),
+    categorias: Object.fromEntries(Object.entries(porCat).map(([k, a]) => [k, fin(a)])),
+    divisionales: Object.fromEntries(Object.entries(porDiv).map(([k, a]) => [k, { ...fin(a), ultimaFecha: ultimaFecha[k] }])),
+    equipos: Object.fromEntries(Object.entries(porEquipo).map(([d, o]) => [d, Object.fromEntries(Object.entries(o).map(([e, a]) => [e, fin(a)]))])),
+    alertas: Object.values(alertas).sort((a, b) => b.casos - a.casos)
+      .map(r => ({ ...r, noJugo: Math.round(r.noJugo / r.casos * 100), noFueTitular: Math.round(r.noFueTitular / r.casos * 100) })),
+  };
+  const arch = new URL('aciertos.json', OUT);
+  let previo = null; try { previo = JSON.parse(readFileSync(arch)); } catch {}
+  salida.actualizado = previo && JSON.stringify({ ...previo, actualizado: null }) === JSON.stringify({ ...salida, actualizado: null }) ? previo.actualizado : new Date().toISOString();
+  writeFileSync(arch, JSON.stringify(salida));
+  const t = salida.total;
+  console.log(`Aciertos: ${t.partidos} onces medidos, ${t.promedio}/11 de promedio (repetir el anterior: ${t.repetir}), arquero ${t.arquero}%, 9 o más en el ${t.nueveOMas}%.`);
+  for (const a of salida.alertas) console.log(`  ${a.tipo}${a.nivel ? ' ' + a.nivel : ''}: ${a.casos} casos, no jugó ${a.noJugo}%, no fue titular ${a.noFueTitular}%`);
 }
 
 // Partidos de la temporada entre dos clubes, en todas las categorías que seguimos.
@@ -601,7 +713,7 @@ const indice = {
   categorias: CATEGORIAS.map(c => ({
     id: c.id, nombre: c.nombre,
     divisionales: c.divisionales
-      .map(d => ({ id: d.id, letra: d.letra, nombre: `${c.nombre} ${d.letra}`, ...(resumenes[d.id] || viejo[d.id] || {}) }))
+      .map(d => ({ id: d.id, letra: d.letra, nombre: d.nombre || `${c.nombre} ${d.letra}`, ...(resumenes[d.id] || viejo[d.id] || {}) }))
       .filter(d => d.partidos),
   })).filter(c => c.divisionales.length),
 };
@@ -620,6 +732,9 @@ if (!SOLO.length) {
   writeFileSync(archClubes, JSON.stringify(salidaClubes));
   console.log(`Clubes: ${Object.keys(clubes).length}.`);
 }
+
+// Cuánto acierta el robot: se rearma cada partido de la temporada con lo que se sabía antes.
+if (!SOLO.length) medirAciertos(estados, G);
 
 // Posiciones de cada etapa (la tabla oficial de la Liga si responde) y los partidos más picantes.
 await armarPicantes();

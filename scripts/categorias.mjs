@@ -6,7 +6,17 @@
 const M = { torneo: 2, categoria: 1 };
 const S20 = { torneo: 20, categoria: 20 };
 const R = { torneo: '2B', categoria: 2 };
-const div = (base, id, letra, series) => ({ ...base, id, letra, series });
+const PS = { torneo: 32, categoria: 32 };
+const M40 = { torneo: 40, categoria: 40 };
+const S18 = { torneo: 18, categoria: 18 };
+const S16 = { torneo: 16, categoria: 16, duracion: 80 };
+const div = (base, id, letra, series, extra = {}) => ({ ...base, id, letra, series, ...extra });
+// Sub 18 y Sub 16 no tienen divisionales: una primera fase en series, una segunda rueda y después copas.
+// Van como un solo bloque para no perder la historia de cada equipo entre fases.
+const formativas = (n, series6) => ({
+  ...Object.fromEntries([1, 2, 3, 4, 5, ...(series6 ? [6] : [])].map(i => [`${n}-${i}-`, `Serie ${i}`])),
+  ...Object.fromEntries([1, 2, 3, 4, 5].map(i => [`${n}-${i}2`, `Serie ${i} (2.ª rueda)`])),
+});
 
 export const CATEGORIAS = [
   {
@@ -35,7 +45,37 @@ export const CATEGORIAS = [
       div(R, 'reserva-d', 'D', { RS32: 'Serie 1', RS33: 'Serie 2', RSDTA: 'Título y ascenso', RSDPD: 'Copa de Plata' }),
     ],
   },
+  {
+    id: 'presenior', nombre: 'Pre Senior', torneoFallos: 'PRE-SENIOR MASCULINO', divisionales: [
+      div(PS, 'presenior-a', 'A', { PSA: 'Primera rueda', PSAT: 'Título', PSAPD: 'Permanencia' }),
+      div(PS, 'presenior-b', 'B', { PSB: 'Primera rueda', PSBTA: 'Título y ascenso', PSBPD: 'Permanencia' }),
+      div(PS, 'presenior-c', 'C', { PSC: 'Primera rueda', PSCTA: 'Título y ascenso', PSCPD: 'Permanencia' }),
+      div(PS, 'presenior-d', 'D', { PSD: 'Primera rueda', PSDTA: 'Título y ascenso', PSDPD: 'Permanencia' }),
+      div(PS, 'presenior-e', 'E', { PSE1: 'Serie 1', PSE2: 'Serie 2', PSETA: 'Título y ascenso', PSET2: 'Título y ascenso (2.ª rueda)',
+        PSEP: 'Copa de Plata', PSEP2: 'Copa de Plata (2.ª rueda)', PSEB: 'Copa de Bronce', PSEB2: 'Copa de Bronce (2.ª rueda)' }),
+    ],
+  },
+  {
+    id: 'mas40', nombre: 'Más 40', torneoFallos: 'MÁS 40 MASCULINO', divisionales: [
+      div(M40, 'mas40-a', 'A', { M40S1: 'Primera rueda', '40CO': 'Título', '40CP': 'Permanencia' }),
+      div(M40, 'mas40-b', 'B', { M40S2: 'Primera rueda', '40CB': 'Título y ascenso', '40CC': 'Permanencia' }),
+      div(M40, 'mas40-c', 'C', { '40S22': 'Serie 1', '40S23': 'Serie 2', M40O: 'Copa de Oro',
+        M40P: 'Copa de Plata', M40P2: 'Copa de Plata (2.ª rueda)', M40B: 'Copa de Bronce', M40B2: 'Copa de Bronce (2.ª rueda)' }),
+    ],
+  },
+  {
+    id: 'sub18', nombre: 'Sub 18', torneoFallos: 'SUB 18 MASCULINO', divisionales: [
+      div(S18, 'sub18', 'Única', { ...formativas(18, true), '18-61': 'Serie 6A (2.ª rueda)', '18-62': 'Serie 6B (2.ª rueda)',
+        '18O': 'Copa de Oro', '18P': 'Copa de Plata', '18B': 'Copa de Bronce', '18C': 'Copa Competencia', '18F': 'Copa Confraternidad', '18A': 'Copa Amistad' }, { nombre: 'Sub 18' }),
+    ],
+  },
+  {
+    id: 'sub16', nombre: 'Sub 16', torneoFallos: 'SUB 16 MASCULINO', divisionales: [
+      div(S16, 'sub16', 'Única', { ...formativas(16, false),
+        '16O': 'Copa de Oro', '16P': 'Copa de Plata', '16B': 'Copa de Bronce', '16C': 'Copa Competencia', '16F': 'Copa Confraternidad' }, { nombre: 'Sub 16' }),
+    ],
+  },
 ];
 
 // Lista plana de divisionales, con el nombre completo ("Mayores A").
-export const DIVISIONALES = CATEGORIAS.flatMap(c => c.divisionales.map(d => ({ ...d, categoriaId: c.id, nombre: `${c.nombre} ${d.letra}` })));
+export const DIVISIONALES = CATEGORIAS.flatMap(c => c.divisionales.map(d => ({ ...d, categoriaId: c.id, nombre: d.nombre || `${c.nombre} ${d.letra}` })));

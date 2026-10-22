@@ -34,7 +34,7 @@ export function tipoPicante(etapa, pl, pv, n) {
   if (peso === 2 && n >= 6 && pl > n - 4 && pv > n - 4) return 'descenso';
   return null;
 }
-const pesoEtapa = e => /permanencia|descenso/i.test(e || '') ? 2 : /plata/i.test(e || '') ? 1 : 0;
+const pesoEtapa = e => /permanencia|descenso/i.test(e || '') ? 2 : /plata|bronce|competencia|confraternidad|amistad/i.test(e || '') ? 1 : 0;
 
 // Tabla de cada etapa, como el reglamento (art. 3): en la segunda etapa cada equipo conserva lo de la
 // primera rueda, así que cuenta toda la temporada. Puntos, diferencia de gol, goles a favor y, si siguen
