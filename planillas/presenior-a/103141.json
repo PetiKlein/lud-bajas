@@ -18,8 +18,8 @@
   "rueda": "2",
   "Divisional": "PRESENIOR \"A\" PER. y DESC",
   "Cancha": "CAMPUS JESUS MARIA (S. GOMEZ)",
-  "Fecha_Inicio": "2026-10-21 22:30:00",
-  "Fecha_fin": "2026-10-21 22:30:00",
+  "Fecha_Inicio": "2026-10-21 23:00:00",
+  "Fecha_fin": "2026-10-21 23:00:00",
   "Locatario": "CLUB JESUS MARIA",
   "goles_locatario": "1",
   "puntos_locatario": "3",
@@ -29,11 +29,258 @@
   "walk_over": "0",
   "observaciones": null
  },
- "titularesL": [],
- "titularesV": [],
- "cambiosL": [],
- "cambiosV": [],
- "golesL": [],
+ "titularesL": [
+  {
+   "carne": "40434",
+   "Nombre": "JUAN PABLO DEUS",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "26202",
+   "Nombre": "AGUSTIN SANTIAGO DAGUERRE",
+   "camiseta": "32",
+   "Capitan": ""
+  },
+  {
+   "carne": "33051",
+   "Nombre": "JUAN MARCELO DUTRA",
+   "camiseta": "28",
+   "Capitan": ""
+  },
+  {
+   "carne": "27038",
+   "Nombre": "JAVIER CARRAU",
+   "camiseta": "2",
+   "Capitan": ""
+  },
+  {
+   "carne": "25135",
+   "Nombre": "RODRIGO CAMPOAMOR",
+   "camiseta": "25",
+   "Capitan": ""
+  },
+  {
+   "carne": "25243",
+   "Nombre": "DIEGO CABRERA",
+   "camiseta": "80",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "27444",
+   "Nombre": "FERNANDO RUBEN MATO",
+   "camiseta": "8",
+   "Capitan": ""
+  },
+  {
+   "carne": "27997",
+   "Nombre": "NICOLAS VALDEZ",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "33503",
+   "Nombre": "NICOLAS FEUERSTEIN",
+   "camiseta": "0",
+   "Capitan": ""
+  },
+  {
+   "carne": "25027",
+   "Nombre": "SANTIAGO MATIAS RAMA",
+   "camiseta": "21",
+   "Capitan": ""
+  },
+  {
+   "carne": "23357",
+   "Nombre": "MIGUEL IGNACIO FERNANDEZ",
+   "camiseta": "12",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "24571",
+   "Nombre": "IGNACIO DIEZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "22430",
+   "Nombre": "RODRIGO DANIEL PUJOL",
+   "camiseta": "5",
+   "Capitan": ""
+  },
+  {
+   "carne": "28649",
+   "Nombre": "AGUSTIN LECUEDER",
+   "camiseta": "12",
+   "Capitan": ""
+  },
+  {
+   "carne": "30322",
+   "Nombre": "RAFAEL GALLINAL",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "23949",
+   "Nombre": "SANTIAGO MUXI",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "21861",
+   "Nombre": "MARTIN CARRASCO",
+   "camiseta": "3",
+   "Capitan": ""
+  },
+  {
+   "carne": "20622",
+   "Nombre": "TAREK EL YAMANI",
+   "camiseta": "13",
+   "Capitan": ""
+  },
+  {
+   "carne": "27079",
+   "Nombre": "JUAN MATEO BAGNULO",
+   "camiseta": "24",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "35860",
+   "Nombre": "IGNACIO GORTARI",
+   "camiseta": "50",
+   "Capitan": ""
+  },
+  {
+   "carne": "31539",
+   "Nombre": "CARLOS SANGUINETTI",
+   "camiseta": "95",
+   "Capitan": ""
+  },
+  {
+   "carne": "20335",
+   "Nombre": "JUAN MUXI",
+   "camiseta": "11",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "27997",
+   "Jug_Sale": "NICOLAS VALDEZ",
+   "CarneEntra": "36531",
+   "Jug_Entra": "IGNACIO JIMENEZ",
+   "camiseta": "79",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "27444",
+   "Jug_Sale": "FERNANDO RUBEN MATO",
+   "CarneEntra": "35550",
+   "Jug_Entra": "JOSE IGNACIO RINALDI",
+   "camiseta": "35",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "33503",
+   "Jug_Sale": "NICOLAS FEUERSTEIN",
+   "CarneEntra": "25136",
+   "Jug_Entra": "EDUARDO MARCELO FRANCO",
+   "camiseta": "0",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "25135",
+   "Jug_Sale": "RODRIGO CAMPOAMOR",
+   "CarneEntra": "23159",
+   "Jug_Entra": "NICOLAS LOPEZ",
+   "camiseta": "19",
+   "minutos": "67"
+  },
+  {
+   "CarneSale": "23357",
+   "Jug_Sale": "MIGUEL IGNACIO FERNANDEZ",
+   "CarneEntra": "23475",
+   "Jug_Entra": "RODRIGO LUIS AZNAREZ",
+   "camiseta": "10",
+   "minutos": "82"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "22430",
+   "Jug_Sale": "RODRIGO DANIEL PUJOL",
+   "CarneEntra": "22426",
+   "Jug_Entra": "GUZMAN VIDAL",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "20335",
+   "Jug_Sale": "JUAN MUXI",
+   "CarneEntra": "20292",
+   "Jug_Entra": "FRANCISCO FORNELLA",
+   "camiseta": "88",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "21861",
+   "Jug_Sale": "MARTIN CARRASCO",
+   "CarneEntra": "18671",
+   "Jug_Entra": "SANTIAGO COTELO",
+   "camiseta": "18",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "30322",
+   "Jug_Sale": "RAFAEL GALLINAL",
+   "CarneEntra": "27612",
+   "Jug_Entra": "JUAN CARLOS GOMEZ",
+   "camiseta": "10",
+   "minutos": "17"
+  },
+  {
+   "CarneSale": "20622",
+   "Jug_Sale": "TAREK EL YAMANI",
+   "CarneEntra": "23240",
+   "Jug_Entra": "RUBEN DARIO NAVARRO",
+   "camiseta": "14",
+   "minutos": "11"
+  },
+  {
+   "CarneSale": "35860",
+   "Jug_Sale": "IGNACIO GORTARI",
+   "CarneEntra": "54472",
+   "Jug_Entra": "FEDERICO LUIS BUA",
+   "camiseta": "99",
+   "minutos": "30"
+  },
+  {
+   "CarneSale": "27079",
+   "Jug_Sale": "JUAN MATEO BAGNULO",
+   "CarneEntra": "18146",
+   "Jug_Entra": "GERARDO LECUEDER",
+   "camiseta": "7",
+   "minutos": "41"
+  },
+  {
+   "CarneSale": "31539",
+   "Jug_Sale": "CARLOS SANGUINETTI",
+   "CarneEntra": "26543",
+   "Jug_Entra": "JORGE EMILIANO ADDA",
+   "camiseta": "28",
+   "minutos": "45"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "36531",
+   "Nombre": "IGNACIO JIMENEZ",
+   "minutos": "60",
+   "EnContra": "0"
+  }
+ ],
  "golesV": [],
  "expulsadosL": [],
  "expulsadosV": []
