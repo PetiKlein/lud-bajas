@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - run: |
-          sleep 150
+          sleep 300
           for u in https://petiklein.github.io/planilla-lud/ https://petiklein.github.io/planilla-lud/manifest.webmanifest https://petiklein.github.io/planilla-lud/data/indice.json https://petiklein.github.io/lud-bajas/; do
             echo "$u $(curl -s -o /dev/null -w '%{http_code}' -L "$u")" >> tmp/resultado.txt; done
           curl -s https://petiklein.github.io/planilla-lud/ | grep -o '<title>[^<]*' >> tmp/resultado.txt
