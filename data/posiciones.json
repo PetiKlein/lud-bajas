@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-22T13:10:58.187Z",
+ "actualizado": "2026-10-22T13:44:23.876Z",
  "divisionales": {
   "mayores-a": {
    "Título": {
@@ -641,60 +641,7 @@
     }
    }
   },
-  "sub18": {
-   "Copa Amistad": {
-    "fuente": "calculada",
-    "pos": {
-     "Colegio Y Liceo Ingles": 1,
-     "Santa Elena": 2,
-     "Arquitectura Jrs.": 3,
-     "Nacional U.": 4,
-     "Trouville Universitario": 5,
-     "Scuola Palermo": 6,
-     "La Blanqueada": 7,
-     "Numa Turcatti": 8,
-     "Academia Frm": 9
-    }
-   },
-   "Copa de Plata": {
-    "fuente": "oficial",
-    "pos": {
-     "Old Boys": 1,
-     "ELF": 2,
-     "Sagrada Familia Universitario": 3,
-     "Deportivo Ls Universitario": 4,
-     "Hca Universitario": 5,
-     "Deportivo Moron": 6,
-     "Colegio Santa Elena": 7,
-     "Urunday": 8
-    }
-   },
-   "Copa de Bronce": {
-    "fuente": "oficial",
-    "pos": {
-     "J.M.L.M": 1,
-     "Aleman Universitario": 2,
-     "San Pablo": 3,
-     "Anglo School Universitario": 4,
-     "Circulo De Tenis Montevideo": 5,
-     "Old Woodlands": 6,
-     "La Escalinata": 7,
-     "Juan XXIII": 8
-    }
-   },
-   "Copa Competencia": {
-    "fuente": "calculada",
-    "pos": {
-     "Elbio Fernandez": 1,
-     "San Agustin": 2,
-     "Latino Futbol Club": 3,
-     "Universitario Verones": 4,
-     "Club Jesus Maria": 5,
-     "Perry Sexta Universitario": 6,
-     "Seminario Universitario": 7,
-     "Tenis El Pinar": 8
-    }
-   },
+  "sub18-oro": {
    "Copa de Oro": {
     "fuente": "oficial",
     "pos": {
@@ -707,7 +654,54 @@
      "Ceibos Club": 7,
      "Pelota Al Medio Universitario": 8
     }
-   },
+   }
+  },
+  "sub18-plata": {
+   "Copa de Plata": {
+    "fuente": "oficial",
+    "pos": {
+     "Old Boys": 1,
+     "ELF": 2,
+     "Sagrada Familia Universitario": 3,
+     "Deportivo Ls Universitario": 4,
+     "Hca Universitario": 5,
+     "Deportivo Moron": 6,
+     "Colegio Santa Elena": 7,
+     "Urunday": 8
+    }
+   }
+  },
+  "sub18-bronce": {
+   "Copa de Bronce": {
+    "fuente": "oficial",
+    "pos": {
+     "J.M.L.M": 1,
+     "Aleman Universitario": 2,
+     "San Pablo": 3,
+     "Anglo School Universitario": 4,
+     "Circulo De Tenis Montevideo": 5,
+     "Old Woodlands": 6,
+     "La Escalinata": 7,
+     "Juan XXIII": 8
+    }
+   }
+  },
+  "sub18-compet": {
+   "Copa Competencia": {
+    "fuente": "calculada",
+    "pos": {
+     "Elbio Fernandez": 1,
+     "San Agustin": 2,
+     "Latino Futbol Club": 3,
+     "Universitario Verones": 4,
+     "Club Jesus Maria": 5,
+     "Perry Sexta Universitario": 6,
+     "Seminario Universitario": 7,
+     "Tenis El Pinar": 8
+    }
+   }
+  },
+  "sub18-confrat": {
    "Copa Confraternidad": {
     "fuente": "oficial",
     "pos": {
@@ -722,19 +716,38 @@
     }
    }
   },
-  "sub16": {
-   "Copa Confraternidad": {
+  "sub18-amistad": {
+   "Copa Amistad": {
     "fuente": "calculada",
     "pos": {
-     "Academia Frm": 1,
-     "Crandon Universitario": 2,
+     "Colegio Y Liceo Ingles": 1,
+     "Santa Elena": 2,
      "Arquitectura Jrs.": 3,
-     "Club Jesus Maria": 4,
-     "Estudiantes Del Plata": 5,
-     "Colegio Santa Elena": 6,
-     "La Blanqueada": 7
+     "Nacional U.": 4,
+     "Trouville Universitario": 5,
+     "Scuola Palermo": 6,
+     "La Blanqueada": 7,
+     "Numa Turcatti": 8,
+     "Academia Frm": 9
     }
-   },
+   }
+  },
+  "sub16-oro": {
+   "Copa de Oro": {
+    "fuente": "calculada",
+    "pos": {
+     "Universitario Verones": 1,
+     "Old Christians": 2,
+     "Dls Club": 3,
+     "The British School": 4,
+     "Seminario": 5,
+     "Old Woodlands": 6,
+     "Old Brendans": 7,
+     "Club Nautico": 8
+    }
+   }
+  },
+  "sub16-plata": {
    "Copa de Plata": {
     "fuente": "oficial",
     "pos": {
@@ -747,20 +760,9 @@
      "La Escalinata": 7,
      "Circulo De Tenis Montevideo": 8
     }
-   },
-   "Copa Competencia": {
-    "fuente": "oficial",
-    "pos": {
-     "Scuola Palermo": 1,
-     "Hebraica y Macabi": 2,
-     "Perry Sexta Universitario": 3,
-     "Náutico": 4,
-     "A.E.B.U": 5,
-     "Nacional U.": 6,
-     "Escuela L.P.": 7,
-     "Seminario Universitario": 8
-    }
-   },
+   }
+  },
+  "sub16-bronce": {
    "Copa de Bronce": {
     "fuente": "oficial",
     "pos": {
@@ -773,18 +775,34 @@
      "Pelota Al Medio Universitario": 7,
      "Dfc": 8
     }
-   },
-   "Copa de Oro": {
+   }
+  },
+  "sub16-compet": {
+   "Copa Competencia": {
+    "fuente": "oficial",
+    "pos": {
+     "Scuola Palermo": 1,
+     "Hebraica y Macabi": 2,
+     "Perry Sexta Universitario": 3,
+     "Náutico": 4,
+     "A.E.B.U": 5,
+     "Nacional U.": 6,
+     "Escuela L.P.": 7,
+     "Seminario Universitario": 8
+    }
+   }
+  },
+  "sub16-confrat": {
+   "Copa Confraternidad": {
     "fuente": "calculada",
     "pos": {
-     "Universitario Verones": 1,
-     "Old Christians": 2,
-     "Dls Club": 3,
-     "The British School": 4,
-     "Seminario": 5,
-     "Old Woodlands": 6,
-     "Old Brendans": 7,
-     "Club Nautico": 8
+     "Academia Frm": 1,
+     "Crandon Universitario": 2,
+     "Arquitectura Jrs.": 3,
+     "Club Jesus Maria": 4,
+     "Estudiantes Del Plata": 5,
+     "Colegio Santa Elena": 6,
+     "La Blanqueada": 7
     }
    }
   }
