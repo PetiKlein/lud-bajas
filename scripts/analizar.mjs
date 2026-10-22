@@ -9,6 +9,7 @@
 import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { corto } from './comun.mjs';
 import { CATEGORIAS, DIVISIONALES } from './categorias.mjs';
+import { armarPicantes } from './picantes.mjs';
 
 const RAIZ = new URL('../', import.meta.url);
 const OUT = new URL('data/', RAIZ);
@@ -566,3 +567,6 @@ if (!SOLO.length) {
   writeFileSync(archClubes, JSON.stringify(salidaClubes));
   console.log(`Clubes: ${Object.keys(clubes).length}.`);
 }
+
+// Posiciones de cada etapa (la tabla oficial de la Liga si responde) y los partidos más picantes.
+await armarPicantes();

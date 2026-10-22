@@ -8,11 +8,13 @@ Página: https://petiklein.github.io/lud-bajas/
 
 ## Diseño
 
-Basado en la estructura de una web profesional (PROTECH): superficie oscura para el encabezado, la
-portada y el pie; un solo color de acento (verde césped) y colores semánticos para los estados (rojo =
-nivel alto, ámbar = medio); escala de espaciado fija; tarjetas redondeadas con sombra suave; tipografía
-Work Sans (títulos) + Source Sans 3 (texto); etiquetas chicas en mayúscula arriba de cada título; cifras
-grandes en la portada; aparición suave al hacer scroll (se apaga si el teléfono pide reducir movimiento).
+Tema "pizarra", el mismo de la página de presentación: vestuario de noche, pizarra táctica y tiza.
+Fondo verde pizarra (siempre oscuro), texto color tiza y un solo acento amarillo marcador, usado poco
+(botón principal, sección activa, Mi equipo). Los estados van en tiza de color (rojo = nivel alto,
+naranja = medio) y las barras de minutos son trazos de tiza. Tipografía Big Shoulders Display (títulos y
+cifras, en mayúscula), Instrument Sans (texto) e IBM Plex Mono (etiquetas chicas, como una planilla).
+La portada tiene una cancha de tiza de fondo y toda la página una capa fija de grano. Aparición suave al
+hacer scroll (se apaga si el teléfono pide reducir movimiento).
 Todos los colores, radios, sombras y espacios son variables al principio del `<style>` de `index.html`.
 
 En el celular hay barra de navegación abajo (Inicio, Bajas, Previas, Equipos y Más) y la divisional se
@@ -21,7 +23,12 @@ imagen que aparece al compartir el link por WhatsApp.
 
 ## Qué muestra
 
-- **Inicio:** la próxima fecha de un vistazo: cifras clave, partidos con la forma de cada equipo y las bajas más importantes.
+- **Inicio:** la próxima fecha de un vistazo: cifras clave, lo más picante de todas las divisionales
+  (cruces entre los cuatro de arriba de Mayores, Sub 20 y Reserva juntas, ordenados por "picantez": suman
+  las posiciones, 1° = 4 hasta 4° = 1 por equipo, y la divisional, A = 6 hasta G = 0), partidos con la forma de cada
+  equipo y las bajas más importantes. En Inicio, Previas y Bajas los partidos van ordenados por importancia:
+  primero el grupo de arriba (título / título y ascenso), después la copa de plata y la permanencia, y dentro
+  de cada grupo los cruces entre los mejor ubicados. Cada partido muestra la posición de los dos equipos.
 - **Bajas:** para cada partido de la próxima fecha, los jugadores de cada equipo que pueden faltar:
   expulsados, suspendidos probables, titulares habituales que no jugaron el último partido,
   lesiones probables (salió temprano y no jugó el siguiente) y titulares que salieron antes del entretiempo.
@@ -59,7 +66,13 @@ lesionado, de viaje o de exámenes. Las suspensiones se confirman en Fallos y Pe
   (`ligauniversitaria.org.uy/fallosypenas/api.php`) a `planillas/_sanciones/<categoria>.json`.
   Cada sanción trae carné, serie y número de partido, así que se cruza con las planillas.
 - `scripts/analizar.mjs` revisa cada planilla, calcula minutos (con reingresos) y alertas, y escribe
-  `data/<categoria>.json`, que es lo que lee `index.html`.
+  `data/<categoria>.json`, que es lo que lee `index.html`. Al final llama a `scripts/picantes.mjs`, que arma
+  `data/posiciones.json` (la tabla de cada etapa, sacada de la tabla oficial de la Liga:
+  `posiciones/api.php?action=cargarPosiciones`) y `data/picantes.json` (los partidos más picantes de todas
+  las divisionales, para la portada). Se puede correr solo con `node scripts/picantes.mjs`.
+  La tabla oficial importa: incluye los partidos que da el Tribunal, los W.O. y los formatos especiales
+  (copa de plata, Reserva D). Si la Liga no responde, se calcula como el reglamento (art. 3): en la segunda
+  etapa cada equipo conserva lo de la primera rueda (puntos, goles y partidos jugados).
 - `scripts/categorias.mjs` define qué categorías y divisionales se siguen y qué series tiene cada una
   (códigos de `ligauniversitaria.org.uy/config/config.json` y de las páginas de estadísticas de la Liga).
   Para sumar una divisional alcanza con agregar una línea ahí: la web la muestra sola.
