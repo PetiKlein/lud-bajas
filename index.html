@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>LUD Bajas · Minutos, bajas y previas de la Liga Universitaria</title>
-<meta name="description" content="Posibles bajas, suspendidos, once probable y previas de cada partido de la Liga Universitaria de Deportes (Mayores, Sub 20 y Reserva), sacados de las planillas oficiales.">
+<meta name="description" content="Posibles bajas, suspendidos, once probable y previas de cada partido de la Liga Universitaria de Deportes (Mayores, Sub 20, Reserva, Pre Senior, Más 40, Sub 18 y Sub 16), sacados de las planillas oficiales.">
 <meta name="theme-color" content="#121a17">
 <link rel="canonical" href="https://petiklein.github.io/lud-bajas/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="LUD Bajas">
 <meta property="og:title" content="LUD Bajas · Bajas, suspendidos y previas de la LUD">
-<meta property="og:description" content="Antes de cada fecha: quién falta, quién está suspendido y el once probable de cada equipo, en Mayores, Sub 20 y Reserva.">
+<meta property="og:description" content="Antes de cada fecha: quién falta, quién está suspendido y el once probable de cada equipo, en todas las categorías.">
 <meta property="og:url" content="https://petiklein.github.io/lud-bajas/">
 <meta property="og:image" content="https://petiklein.github.io/lud-bajas/og.png">
 <meta property="og:image:width" content="1200">
@@ -155,6 +155,14 @@ dialog.sheet[open]{animation:subir .45s var(--ease-out)}
 .letras a small{font-size:.72rem;color:var(--muted)}
 .letras a[aria-current="page"]{background:var(--primary);border-color:var(--primary);color:var(--on-primary)}
 .letras a[aria-current="page"] small{color:rgba(27,22,6,.7)}
+.stat b small{font-size:.5em;opacity:.6;margin-left:1px}
+.tabla-ac{width:100%;border-collapse:collapse;font-size:.82rem}
+.tabla-ac th,.tabla-ac td{text-align:left;padding:6px 6px;border-bottom:1px solid var(--line)}
+.tabla-ac td:first-child{white-space:normal;padding-left:8px}
+.tabla-ac th:first-child{padding-left:8px}
+.tabla-ac th{font-weight:600;color:var(--muted);font-size:.74rem}
+.tabla-ac td:nth-child(n+2),.tabla-ac th:nth-child(n+2){text-align:right;font-variant-numeric:tabular-nums}
+.tabla-ac tr.ref td{color:var(--muted);font-style:italic}
 .menu{display:grid;grid-template-columns:1fr 1fr;gap:8px}
 .menu a{display:flex;gap:10px;align-items:flex-start;padding:14px;border-radius:var(--r);border:1px solid var(--line);background:var(--surface-2);color:var(--fg);text-decoration:none;transition:border-color .3s var(--ease-out)}
 .menu a:hover{border-color:var(--line-strong)}
@@ -510,12 +518,36 @@ const guardar = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
 const leer = k => { try { return localStorage.getItem(k); } catch { return null; } };
 // Posiciones de cada etapa (data/posiciones.json, lo arma el robot con la tabla oficial de la Liga).
 let POSICIONES = null;
+// Cuánto acierta el robot (data/aciertos.json): cada once y cada alerta de la temporada rearmados con lo
+// que se sabía antes del partido y comparados con la planilla real.
+let ACIERTOS = null;
+const coma = n => String(n).replace('.', ',');
+const ALERTA_NOMBRE = { 'sin-alerta': 'Titulares sin ninguna alerta (referencia)', suspendido: 'Suspendido', 'suspendido-otra': 'Suspendido en otra categoría', expulsado: 'Expulsado, sin sanción publicada',
+  'lesion-probable': 'Lesión probable', 'no-jugo': 'No jugó', 'salio-temprano': 'Salió temprano', 'entro-y-salio': 'Entró y salió', 'otra-categoria': 'Jugó en otra categoría', vuelve: 'Puede volver' };
+function vAciertos(cat) {
+  const A = ACIERTOS; if (!A) return '';
+  const dv = A.divisionales?.[cat], t = A.total;
+  const fila = a => `<tr${a.tipo === 'sin-alerta' ? ' class="ref"' : ''}><td>${esc(ALERTA_NOMBRE[a.tipo] || a.tipo)}${a.nivel ? ` <span class="muted">· ${a.nivel}</span>` : ''}</td><td>${a.noFueTitular}%</td><td>${a.noJugo}%</td><td class="muted">${a.casos}</td></tr>`;
+  return `<details class="help" id="aciertos"><summary>¿Cuánto acierta?</summary>
+    <p class="small">Rearmamos cada partido de la temporada con lo que se sabía antes (planillas y sanciones publicadas hasta ese día) y lo comparamos con la planilla real. ${t.partidos.toLocaleString('es-UY')} onces medidos en todas las categorías.</p>
+    <div class="stats" style="margin:10px 0">
+      <div class="stat"><b>${coma(dv?.promedio ?? t.promedio)}<small>/11</small></b><span>titulares acertados por partido${dv ? ` en ${esc(DIVS[cat]?.nombre || '')}` : ''}</span></div>
+      <div class="stat"><b>${coma(dv?.repetir ?? t.repetir)}<small>/11</small></b><span>si repetís el once del partido anterior</span></div>
+      <div class="stat"><b>${dv?.arquero ?? t.arquero}%</b><span>arquero acertado</span></div>
+      <div class="stat"><b>${dv?.nueveOMas ?? t.nueveOMas}%</b><span>de los partidos con 9 o más acertados</span></div>
+    </div>
+    <p class="small">Las alertas: de los jugadores marcados, cuántos no fueron titulares (o no jugaron) el partido siguiente. La primera fila es la referencia: titulares del partido anterior sin ninguna alerta.</p>
+    <div style="overflow-x:auto"><table class="tabla-ac"><thead><tr><th>Alerta</th><th>No titular</th><th>No jugó</th><th>Casos</th></tr></thead><tbody>${A.alertas.map(fila).join('')}</tbody></table></div>
+  </details>`;
+}
+const aciertoEquipo = (cat, eq) => { const x = ACIERTOS?.equipos?.[cat]?.[eq]; return x && x.partidos >= 3 ? x : null; };
 async function indice() {
   if (!INDICE) {
     const v = Math.floor(Date.now() / 6e5);
     const [r] = await Promise.all([
       fetch(`data/indice.json?v=${v}`),
       fetch(`data/posiciones.json?v=${v}`).then(x => x.ok ? x.json() : null).then(x => { POSICIONES = x; }).catch(() => {}),
+      fetch(`data/aciertos.json?v=${v}`).then(x => x.ok ? x.json() : null).then(x => { ACIERTOS = x; }).catch(() => {}),
     ]);
     INDICE = await r.json();
     for (const c of INDICE.categorias) for (const d of c.divisionales) DIVS[d.id] = { ...d, categoria: c.id };
@@ -631,7 +663,7 @@ addEventListener('scroll', () => $('#top').classList.toggle('scrolled', scrollY 
 // ---------- vistas ----------
 const pend = b => b?.pendientes?.length ? `<div class="ok" style="color:var(--amber)">Ojo: la Liga todavía no cargó la planilla del partido contra ${b.pendientes.map(x => esc(x.rival)).join(' y ')} (${fDia(b.pendientes.at(-1).dia)}). Estas alertas miran el partido anterior.</div>` : '';
 function vBajas(d, cat, filtro) {
-  const nivel = filtro || 'todas';
+  const nivel = filtro === 'alta' ? 'alta' : 'todas';
   const pares = new Map(), sueltos = [];
   for (const eq of d.equipos) {
     const b = d.bajas[eq];
@@ -657,7 +689,7 @@ function vBajas(d, cat, filtro) {
   <div class="stack"><h2>Posibles bajas</h2>
   <p class="lede">Lo que se puede deducir de las planillas: expulsados, titulares habituales que no jugaron y los que salieron temprano. Son pistas, no partes médicos.</p></div>
   <details class="help"><summary>¿Cómo se calcula?</summary><ul>
-    <li><b>Suspendido:</b> sale de Fallos y Penas de la Liga (se actualiza los jueves). Dice cuántas fechas le quedarían, contando los partidos que jugó su equipo desde la expulsión. Si es de otra categoría también cuenta: la mayoría se cumplen en todas.</li>
+    <li><b>Suspendido:</b> sale de Fallos y Penas de la Liga (se actualiza los jueves). Dice cuántas fechas le quedarían, contando los partidos que jugó su equipo desde la expulsión. Si es de otra categoría y el fallo no dice que la cumpla en todas, queda como duda (nivel medio): 1 de cada 4 juega igual.</li>
     <li><b>Expulsado:</b> lo echaron en el último partido y la Liga todavía no publicó la sanción.</li>
     <li><b>Lesión probable:</b> titular habitual que salió antes del entretiempo y no jugó el partido siguiente.</li>
     <li><b>No jugó:</b> titular en al menos 6 de cada 10 partidos que no apareció en el último. En la LUD también puede ser un examen, un viaje o trabajo.</li>
@@ -665,6 +697,7 @@ function vBajas(d, cat, filtro) {
     <li><b>Entró y salió:</b> suplente que duró 20 minutos o menos. Nivel bajo: muchas veces es táctico.</li>
     <li><b>Jugó en otra categoría</b> o <b>puede volver</b> (ya cumplió la suspensión): nivel bajo, es para que sepas por qué no estuvo.</li>
   </ul></details>
+  ${vAciertos(cat)}
   <div class="chips" role="group" aria-label="Filtro">
     <button class="chip" aria-pressed="${nivel === 'todas'}" onclick="location.hash='${link(cat, 'bajas')}'">Todas</button>
     <button class="chip" aria-pressed="${nivel === 'alta'}" onclick="location.hash='${link(cat, 'bajas', 'alta')}'">Solo nivel alto</button>
@@ -1046,7 +1079,8 @@ function vOnce(d, cat, eq) {
   const nom = c => d.jugadores[c]?.nombre || c;
   const pl = x => `<div class="pl"><span class="n">${esc(x.cam)}</span><a href="${link(cat, 'jugador', x.c)}">${esc(nom(x.c))}${x.arq || esArquero(d, eq, x.c) ? ' ' + TAG_ARQ : ''}</a><span class="pc">${x.pct}%</span>
     <div class="bar"><span style="left:0;width:${x.pct}%"></span></div>${x.duda ? `<span></span><span class="small" style="grid-column:2/4;color:var(--amber)">Duda: ${esc(x.duda)}</span>` : ''}</div>`;
-  return `<div class="card xi"><h3>${esc(eq)}</h3>
+  const ac = aciertoEquipo(cat, eq);
+  return `<div class="card xi"><h3>${esc(eq)}</h3>${ac ? `<p class="small muted" style="margin:-4px 0 8px">Con este equipo acertó ${coma(ac.promedio)} de 11 en ${ac.partidos} partidos.</p>` : ''}
     ${pr.once.map(pl).join('')}
     ${pr.arqueros && !pr.arqueros.length ? '<p class="small muted" style="margin:8px 0 0">No se pudo identificar al arquero: nadie arranca seguido con la 1 o la 12.</p>' : ''}
     ${pr.afuera.length ? `<div class="sep">Afuera</div>${pr.afuera.map(x => `<div class="pl"><span class="n"></span><a href="${link(cat, 'jugador', x.c)}">${esc(nom(x.c))}</a><span class="pc" style="color:var(--red)">${esc(x.motivo)}</span></div>`).join('')}` : ''}
@@ -1073,9 +1107,9 @@ function vPrevia(d, cat, k) {
     <div class="bigscore" style="font-size:.78rem;color:var(--muted)"><span>${formaHtml(d, f.l)}<br>${resumen(f.l)}</span><span></span><span>${formaHtml(d, f.v)}<br>${resumen(f.v)}</span></div>
     <div class="row" style="justify-content:center"><button class="share" onclick="compartirPrevia()">${ICONO_COMPARTIR}<span>Compartir la previa</span></button></div></div>
   <section class="fixture"><div class="fixture-h"><b>Bajas</b><a href="${link(cat, 'bajas')}">todas las de la fecha</a></div>${bajasDe(f.l)}${bajasDe(f.v)}</section>
-  <div class="stack"><h3>Once probable</h3><p class="lede small">Armado con los titulares de los últimos 5 partidos (pesan más los recientes). El % es cuántas veces fue titular en ese tramo; los suspendidos quedan afuera y las dudas aparecen marcadas.</p></div>
+  <div class="stack"><h3>Once probable</h3><p class="lede small">Armado con los titulares de los últimos 5 partidos (el último pesa mucho más). El % es cuántas veces fue titular en ese tramo; los suspendidos quedan afuera y las dudas aparecen marcadas.${ACIERTOS?.divisionales?.[cat] ? ` En ${esc(DIVS[cat].nombre)} acierta ${coma(ACIERTOS.divisionales[cat].promedio)} de 11 titulares por partido (<a href="${link(cat, 'bajas', 'aciertos')}">cómo se mide</a>).` : ''}</p></div>
   <div class="two">${vOnce(d, cat, f.l)}${vOnce(d, cat, f.v)}</div>
-  <div class="stack"><h3>Cara a cara en la temporada</h3><p class="lede small">Todos los partidos entre estos clubes, en Mayores, Sub 20 y Reserva.</p></div>
+  <div class="stack"><h3>Cara a cara en la temporada</h3><p class="lede small">Todos los partidos entre estos clubes, en todas las categorías.</p></div>
   ${h2h.length ? `<div class="card" style="padding:0">${h2h.map(lineaH).join('')}</div>` : '<div class="empty">No se cruzaron esta temporada.</div>'}
   <div class="stack"><h3>Cuándo hacen y reciben goles</h3><p class="lede small">Goles en ${esc(DIVS[cat].nombre)} esta temporada, por tramo de 15 minutos.</p></div>
   <div class="two"><div class="card"><h3 style="margin-bottom:8px">${esc(f.l)}</h3>${vTramos(d, f.l)}</div><div class="card"><h3 style="margin-bottom:8px">${esc(f.v)}</h3>${vTramos(d, f.v)}</div></div>
@@ -1166,7 +1200,8 @@ function vInicio(d, cat) {
       <div class="stat"><a href="${link(cat, 'partidos')}"><b>${L.length}</b><span>partidos en la próxima fecha</span></a></div>
       <div class="stat"><a href="${link(cat, 'bajas', 'alta')}"><b class="warn">${totalAltas}</b><span>posibles bajas de nivel alto</span></a></div>
       <div class="stat"><a href="${link(cat, 'sanciones')}"><b>${suspendidos}</b><span>jugadores suspendidos</span></a></div>
-      <div class="stat"><a href="${link(cat, 'partidos')}"><b>${r.partidos ?? '–'}</b><span>partidos jugados en la temporada</span></a></div>
+      ${ACIERTOS?.divisionales?.[cat] ? `<div class="stat"><a href="${link(cat, 'bajas', 'aciertos')}"><b>${coma(ACIERTOS.divisionales[cat].promedio)}<small>/11</small></b><span>titulares acertados por partido en la temporada</span></a></div>`
+        : `<div class="stat"><a href="${link(cat, 'partidos')}"><b>${r.partidos ?? '–'}</b><span>partidos jugados en la temporada</span></a></div>`}
     </div></div></section>`;
   const tarjeta = ([k, f]) => {
     const n = eq => { const x = altas(eq).length; return x ? `<span class="al">${x} baja${x > 1 ? 's' : ''}</span>` : ''; };
@@ -1207,7 +1242,7 @@ async function pintarPicantes() {
       ${lado(p.l, p.altasL)}
       <span class="mid">${p.tipo === 'descenso' ? tagPicante('descenso') : ''}<span class="divi">${esc(p.divNombre)}</span><b>${fDia(p.dia)}</b>${p.hora !== '00:00' ? p.hora : 'a confirmar'}<span class="pos">${p.pl + (p.base || 0)}° vs ${p.pv + (p.base || 0)}°</span></span>
       ${lado(p.v, p.altasV)}</a>`;
-  el.innerHTML = `<div><p class="eyebrow">Mayores, Sub 20 y Reserva</p><h2>Lo más picante</h2>
+  el.innerHTML = `<div><p class="eyebrow">Todas las categorías</p><h2>Lo más picante</h2>
     <p class="lede">Cruces entre los cuatro de arriba (pelea por el título o el ascenso) y entre los cuatro de abajo de la permanencia (pelea por no descender), de todas las categorías juntas. Suma lo cerca de la punta o del fondo que están los dos equipos y lo alta que es la divisional.</p></div>
     <div class="card pv-list" style="padding:0">${L.map(tarjeta).join('')}</div>
     ${L.length > VISIBLES ? `<button class="chip" id="mas-picantes" style="align-self:center">Ver ${L.length - VISIBLES} más</button>` : ''}`;
@@ -1271,7 +1306,9 @@ async function render() {
   if (t) t.querySelectorAll('th[data-k]').forEach(th => th.addEventListener('click', () => {
     const k = th.dataset.k; orden = { k, dir: orden.k === k ? -orden.dir : (k === 'nombre' ? 1 : -1) }; render();
   }));
-  if (!['jugadores'].includes(tab)) window.scrollTo({ top: 0 });
+  const ac = tab === 'bajas' && arg === 'aciertos' && $('#aciertos');
+  if (ac) { ac.open = true; ac.scrollIntoView({ block: 'start' }); }
+  else if (!['jugadores'].includes(tab)) window.scrollTo({ top: 0 });
   animar();
 }
 function bindSearch(cat, d) {

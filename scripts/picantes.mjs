@@ -10,7 +10,7 @@
 // no cuenta: es de las divisionales más bajas, donde no hay descenso.
 // Orden: un puntaje de "picantez" que junta todas las categorías. Suman las posiciones (arriba: 1° = 4,
 // 2° = 3, 3° = 2, 4° = 1; abajo, al revés: último = 4, penúltimo = 3...) y la divisional (A = 6, B = 5 ...
-// G = 0, igual para Mayores, Sub 20 y Reserva): la divisional pesa, pero un 1° vs 2° de una C puede
+// G = 0, igual para Mayores, Sub 20 y Reserva; las otras categorías, 2 menos): la divisional pesa, pero un 1° vs 2° de una C puede
 // ganarle a un 2° vs 4° de una A, y un último vs penúltimo de una A, a un 3° vs 4° de una B.
 // Si empatan, primero la letra más alta y después la categoría (el orden de categorias.mjs).
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
@@ -25,7 +25,11 @@ const MAX = 30;
 const LETRAS = 'ABCDEFG';
 // Puntos por ubicación: arriba cuenta desde el 1°; en el descenso, desde el último.
 const ubic = (pos, n, tipo) => tipo === 'descenso' ? 5 - (n - pos + 1) : 5 - pos;
-const picantez = p => ubic(p.pl, p.n, p.tipo) + ubic(p.pv, p.n, p.tipo) + Math.max(0, 6 - LETRAS.indexOf(p.letra));
+// Pre Senior, Más 40, Sub 18 y Sub 16 entran, pero con 2 puntos menos: lo que más se mira es Mayores, Sub 20 y Reserva.
+// Sub 18 y Sub 16 no tienen letra (un solo bloque): cuentan como una divisional del medio.
+const MENOS = { presenior: 2, mas40: 2, sub18: 2, sub16: 2 };
+const pesoLetra = l => LETRAS.includes(l) && l.length === 1 ? Math.max(0, 6 - LETRAS.indexOf(l)) : 3;
+const picantez = p => ubic(p.pl, p.n, p.tipo) + ubic(p.pv, p.n, p.tipo) + pesoLetra(p.letra) - (MENOS[p.cat] || 0);
 // ¿Es picante? Devuelve 'titulo', 'descenso' o null. n = cantidad de equipos del grupo.
 export function tipoPicante(etapa, pl, pv, n) {
   if (!pl || !pv) return null;
@@ -120,12 +124,12 @@ export async function armarPicantes() {
       // Para mostrar: en los grupos de abajo, la posición en la tabla general (el 1° de la permanencia es el 9°).
       const arriba = Object.keys(pos).find(et => /t[ií]tulo/i.test(et));
       const base = pesoEtapa(f.etapa) && arriba ? Object.keys(pos[arriba]).length : 0;
-      partidos.push({ div: div.id, divNombre: div.nombre, letra: div.letra, orden, k, l: f.l, v: f.v, dia: f.dia, hora: f.hora, etapa: f.etapa, pl, pv, n, base, tipo, altasL: altas(f.l), altasV: altas(f.v) });
+      partidos.push({ div: div.id, divNombre: div.nombre, letra: div.letra, cat: div.categoriaId, orden, k, l: f.l, v: f.v, dia: f.dia, hora: f.hora, etapa: f.etapa, pl, pv, n, base, tipo, altasL: altas(f.l), altasV: altas(f.v) });
     }
   }
   partidos.sort((a, b) => picantez(b) - picantez(a) || a.letra.localeCompare(b.letra) || a.orden - b.orden || (a.dia + a.hora).localeCompare(b.dia + b.hora));
   guardar('posiciones.json', { actualizado: new Date().toISOString(), divisionales: tablas });
-  const salida = { actualizado: new Date().toISOString(), partidos: partidos.slice(0, MAX).map(({ orden, letra, ...p }) => p) };
+  const salida = { actualizado: new Date().toISOString(), partidos: partidos.slice(0, MAX).map(({ orden, letra, cat, ...p }) => p) };
   guardar('picantes.json', salida);
   console.log(`Posiciones: ${oficiales} tablas oficiales, ${calculadas} calculadas. Picantes: ${salida.partidos.length} partidos (${salida.partidos.filter(p => p.tipo === 'descenso').length} por el descenso) en ${new Set(salida.partidos.map(p => p.div)).size} divisionales.`);
   return salida;

@@ -1,8 +1,9 @@
 # LUD Bajas
 
 Minutos jugados y posibles bajas de la Liga Universitaria de Deportes (Uruguay), sacados de las
-planillas oficiales. Sigue Mayores (A a G), Sub 20 (A a C) y Reserva (A a D), con todas sus
-etapas: primera rueda, título y ascenso, permanencia o copa de plata.
+planillas oficiales. Sigue Mayores (A a G), Sub 20 (A a C), Reserva (A a D), Pre Senior (A a E),
+Más 40 (A a C), Sub 18 y Sub 16, con todas sus etapas: primera rueda, título y ascenso, permanencia o
+copas. Sub 18 y Sub 16 no tienen divisionales (series, segunda rueda y copas): van como un solo bloque.
 
 Página: https://petiklein.github.io/lud-bajas/
 
@@ -25,9 +26,10 @@ imagen que aparece al compartir el link por WhatsApp.
 
 - **Inicio:** la próxima fecha de un vistazo: cifras clave, lo más picante de todas las divisionales
   (cruces entre los cuatro de arriba, y entre los cuatro de abajo de la permanencia, la pelea por no
-  descender, de Mayores, Sub 20 y Reserva juntas, ordenados por "picantez": suman las posiciones, 1° = 4
+  descender, de todas las categorías juntas, ordenados por "picantez": suman las posiciones, 1° = 4
   hasta 4° = 1 por equipo arriba, y último = 4 hasta cuarto desde abajo = 1 en el descenso, y la divisional,
-  A = 6 hasta G = 0; la copa de plata no cuenta porque no tiene descenso), partidos con la forma de cada
+  A = 6 hasta G = 0, con 2 menos para Pre Senior, Más 40, Sub 18 y Sub 16; las copas de plata, bronce y
+  demás no cuentan porque no tienen descenso), partidos con la forma de cada
   equipo y las bajas más importantes. En Inicio, Previas y Bajas los partidos van ordenados por importancia:
   primero el grupo de arriba (título / título y ascenso), después la copa de plata y la permanencia, y dentro
   de cada grupo los cruces entre los mejor ubicados. Cada partido muestra la posición de los dos equipos.
@@ -36,7 +38,7 @@ imagen que aparece al compartir el link por WhatsApp.
   lesiones probables (salió temprano y no jugó el siguiente) y titulares que salieron antes del entretiempo.
 - **Partidos:** arriba, la próxima fecha con la previa de cada partido; abajo, los resultados de la temporada.
   La previa de cada partido trae el once probable de cada equipo (titulares de los
-  últimos 5 partidos, sin suspendidos, con las dudas marcadas y un solo arquero), las bajas, cómo vienen (últimos 5),
+  últimos 5 partidos, el último pesa mucho más, sin suspendidos, con las dudas marcadas y un solo arquero), las bajas, cómo vienen (últimos 5),
   el cara a cara de la temporada entre esos clubes en todas las categorías, en qué minutos hacen y
   reciben goles, y los goleadores en racha. Se puede compartir por WhatsApp.
 - **Mi equipo:** elegís tu club una vez (queda guardado en el navegador) y la web abre directo en lo
@@ -86,6 +88,23 @@ lesionado, de viaje o de exámenes. Las suspensiones se confirman en Fallos y Pe
 - GitHub Actions (`.github/workflows/actualizar.yml`) corre todo solo el domingo a las 18:35, de lunes
   a jueves a las 20:35 y el jueves a las 22:35, después de que salen los fallos (hora de Montevideo). También se puede correr a mano: Actions > "Actualizar
   planillas y bajas" > Run workflow.
+
+## Cuánto acierta
+
+`medirAciertos()` en `analizar.mjs` rearma cada partido de la temporada (desde el 4.º de cada equipo) con lo
+que se sabía antes: las planillas anteriores y las sanciones publicadas hasta ese día, con las fechas que
+llevaba cumplidas. Calcula el once probable y las alertas, y los compara con la planilla real. Escribe
+`data/aciertos.json`: titulares acertados por partido (total, por categoría, divisional y equipo), arquero,
+y para cada tipo de alerta cuántos marcados no fueron titulares o no jugaron, contra la referencia de los
+titulares sin alerta. La referencia del once es repetir el del partido anterior.
+
+Con esa medición se ajustaron los pesos del once (`[1, .5, .3, .2, .1]` para los últimos 5 partidos; antes
+`[1, .8, .65, .5, .4]` empataba con repetir el once anterior) y se vio que una suspensión de otra categoría
+que no dice "todas las categorías" la cumple 3 de cada 4 veces: es duda, no baja segura. Para probar otros
+pesos sin tocar el código: `AJUSTE='{"W":[1,.6,.4,.3,.2]}' node scripts/analizar.mjs`.
+
+Los arqueros fallan más de lo que parece (alrededor de 3 de cada 4): casi siempre porque el equipo rota
+arqueros, no porque se identifique mal.
 
 ## Arqueros
 
