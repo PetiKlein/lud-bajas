@@ -649,7 +649,7 @@ function armarDivisionales(cat, seccion) {
   catPanel = catPanel && !cat ? catPanel : actualCat;
   const c = INDICE.categorias.find(c => c.id === catPanel) || INDICE.categorias[0];
   $('#sd-b').innerHTML = `<div class="seg" role="group" aria-label="Categoría">${INDICE.categorias.map(x => `<button type="button" aria-pressed="${x.id === c.id}" data-cat="${x.id}">${esc(x.nombre)}</button>`).join('')}</div>
-    <div class="letras">${c.divisionales.map(d => `<a href="${link(d.id, seccion)}"${d.id === cat ? ' aria-current="page"' : ''}><b${d.letra.length > 2 ? ' class="larga"' : ''}>${esc(d.letra)}</b><small>${d.equipos} equipos</small></a>`).join('')}</div>`;
+    <div class="letras">${c.divisionales.filter(d => !d.oculta).map(d => `<a href="${link(d.id, seccion)}"${d.id === cat ? ' aria-current="page"' : ''}><b${d.letra.length > 2 ? ' class="larga"' : ''}>${esc(d.letra)}</b><small>${d.equipos} equipos</small></a>`).join('')}</div>`;
   $('#sd-b').querySelectorAll('[data-cat]').forEach(b => b.onclick = () => { catPanel = b.dataset.cat; armarDivisionales(cat && DIVS[cat].categoria === catPanel ? cat : null, seccion); });
   $('#sd-b').querySelectorAll('.letras a').forEach(a => a.onclick = () => cerrar('sheet-div'));
 }
@@ -758,7 +758,8 @@ function vEquipo(d, cat, eq) {
 function vJugadores(d, cat, q) {
   q = (q || '').trim();
   const nq = slug(q);
-  let lista = Object.entries(d.jugadores).map(([c, j]) => ({ c, ...j, ...(d.stats[c] || {}) }));
+  const mios = new Set(d.equipos);
+  let lista = Object.entries(d.jugadores).filter(([, j]) => mios.has(j.equipo)).map(([c, j]) => ({ c, ...j, ...(d.stats[c] || {}) }));
   if (nq) lista = lista.filter(j => slug(j.nombre).includes(nq) || slug(j.equipo).includes(nq));
   lista.sort((a, b) => (b.min || 0) - (a.min || 0));
   const total = lista.length; lista = lista.slice(0, 80);
@@ -895,7 +896,9 @@ function aviso(t) { const e = document.createElement('div'); e.className = 'toas
 function vRankings(d, cat) {
   const P = {}; const usados = {}; const titDistintos = {};
   const minEquipo = {};
+  const mios = new Set(d.equipos); // en una copa vienen también los rivales de las series: no cuentan
   for (const p of d.partidos) if (p.planilla) for (const [lado, eq] of [['L', p.local], ['V', p.visitante]]) {
+    if (!mios.has(eq)) continue;
     minEquipo[eq] = (minEquipo[eq] || 0) + p.fin;
     for (const j of p[lado]) {
       const x = (P[j.c] ??= { c: j.c, eq, min: 0, pj: 0, tit: 0, gol: 0, golBanco: 0, ingresos: 0, rojas: 0 });

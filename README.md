@@ -3,7 +3,10 @@
 Minutos jugados y posibles bajas de la Liga Universitaria de Deportes (Uruguay), sacados de las
 planillas oficiales. Sigue Mayores (A a G), Sub 20 (A a C), Reserva (A a D), Pre Senior (A a E),
 Más 40 (A a C), Sub 18 y Sub 16, con todas sus etapas: primera rueda, título y ascenso, permanencia o
-copas. Sub 18 y Sub 16 no tienen divisionales (series, segunda rueda y copas): van como un solo bloque.
+copas. Sub 18 y Sub 16 no tienen divisionales (series, segunda rueda y copas): se analizan como un solo
+bloque, así cada equipo conserva su historia de las series, y la web muestra una divisional por copa (Oro,
+Plata, Bronce, Competencia, Confraternidad, Amistad) con sus equipos y todos sus partidos de la temporada
+(`VISTAS` en `categorias.mjs`, `partirEnCopas()` en `analizar.mjs`).
 
 Página: https://petiklein.github.io/lud-bajas/
 

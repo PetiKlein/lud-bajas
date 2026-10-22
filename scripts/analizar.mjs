@@ -8,7 +8,7 @@
 //  - Los expulsados vienen con nombre pero sin minuto: sus minutos pueden quedar de más.
 import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { corto } from './comun.mjs';
-import { CATEGORIAS, DIVISIONALES } from './categorias.mjs';
+import { CATEGORIAS, DIVISIONALES, VISTAS } from './categorias.mjs';
 import { armarPicantes } from './picantes.mjs';
 
 const RAIZ = new URL('../', import.meta.url);
@@ -431,7 +431,7 @@ function cargar(cat) {
       if (!proximo[yo]) proximo[yo] = { rival, dia: f.fechaHora.slice(0, 10), hora: f.fechaHora.slice(11, 16), local: esLocal, cancha: lindo(f.cancha || ''), etapa: cat.series[f.serie] };
   }
 
-  return { cat, partidos, porEquipo, jugadores, sinPlanilla, proximo, calidad };
+  return { cat, partidos, porEquipo, jugadores, sinPlanilla, proximo, calidad, proximosCrudos: proximos };
 }
 
 // ---------- clubes: el mismo club juega con distintos nombres según la categoría ----------
@@ -609,6 +609,14 @@ function medirAciertos(estados, G) {
     const l2 = l.filter(x => diaN(tope) - diaN(x.dia) <= 3);
     ultimaFecha[div] = { dia: tope, equipos: l2.length, promedio: +(l2.reduce((s, x) => s + x.aciertos, 0) / l2.length).toFixed(2) };
   }
+  // Copas: se suman los equipos de cada una.
+  for (const [id, { bloque, miembros }] of Object.entries(COPAS)) {
+    const a = nuevo(), eqs = {};
+    for (const [e, x] of Object.entries(porEquipo[bloque] || {})) if (miembros.has(e)) {
+      eqs[e] = x; for (const k of Object.keys(a)) a[k] += x[k];
+    }
+    if (a.partidos) { porDiv[id] = a; porEquipo[id] = eqs; }
+  }
   const salida = {
     total: fin(total),
     categorias: Object.fromEntries(Object.entries(porCat).map(([k, a]) => [k, fin(a)])),
@@ -651,7 +659,7 @@ function terminar(st, G) {
     const club = clubDe(equipo);
     const resumenClub = (G.clubes[claveClub(club)] ??= { nombre: club, equipos: [] });
     resumenClub.equipos.push({
-      div: cat.id, equipo, ultimo: bajas[equipo].ultimo, proximo: bajas[equipo].proximo, pendientes: bajas[equipo].pendientes,
+      div: COPA_DE[`${cat.id}|${equipo}`] || cat.id, equipo, ultimo: bajas[equipo].ultimo, proximo: bajas[equipo].proximo, pendientes: bajas[equipo].pendientes,
       alertas: bajas[equipo].alertas.filter(a => a.nivel !== 'baja').map(({ carne, nombre, nivel, tipo, texto }) => ({ carne, nombre, nivel, tipo, texto })),
     });
   }
@@ -677,26 +685,73 @@ function terminar(st, G) {
       conProblemas: calidad.length,
     },
   };
-  // Si nada cambió desde la última vez, se conserva la fecha de actualización (y no hay commit).
-  const archivo = new URL(`${cat.id}.json`, OUT);
+  escribir(cat.id, salida);
+  if (cat.copas) salida.copas = partirEnCopas(st, salida);
+  return salida;
+}
+
+// Si nada cambió desde la última vez, se conserva la fecha de actualización (y no hay commit).
+function escribir(id, salida) {
+  const archivo = new URL(`${id}.json`, OUT);
   if (existsSync(archivo)) {
     const viejo = JSON.parse(readFileSync(archivo));
     const sinFecha = o => JSON.stringify({ ...o, actualizado: null });
     if (sinFecha(viejo) === sinFecha(salida)) salida.actualizado = viejo.actualizado;
   }
   writeFileSync(archivo, JSON.stringify(salida));
-  return salida;
+}
+
+// ---------- copas (Sub 18 y Sub 16): una "divisional" por copa, sacada del bloque completo ----------
+// Equipos de cada copa: los que juegan (o tienen programado) algún partido de esa serie.
+const COPAS = {};   // id de la vista -> { bloque, miembros, vista }
+const COPA_DE = {}; // "bloque|equipo" -> id de la vista
+function armarCopas(st) {
+  for (const v of VISTAS.filter(v => v.bloque === st.cat.id)) {
+    const miembros = new Set();
+    for (const p of st.partidos) if (p.serie === v.copa) { miembros.add(p.local); miembros.add(p.visitante); }
+    for (const f of st.proximosCrudos) if (f.serie === v.copa) { miembros.add(corto(f.local)); miembros.add(corto(f.visitante)); }
+    if (!miembros.size) continue;
+    COPAS[v.id] = { bloque: st.cat.id, miembros, vista: v };
+    for (const e of miembros) COPA_DE[`${st.cat.id}|${e}`] = v.id;
+  }
+}
+// Cada copa trae sus equipos con todos sus partidos de la temporada (también los de las series contra
+// equipos de otras copas). Los jugadores quedan todos, para los nombres en las planillas.
+function partirEnCopas(st, salida) {
+  const res = {};
+  for (const [id, { bloque, miembros, vista }] of Object.entries(COPAS)) {
+    if (bloque !== st.cat.id) continue;
+    const es = e => miembros.has(e);
+    const partidos = salida.partidos.filter(p => es(p.local) || es(p.visitante));
+    const ids = new Set(partidos.map(p => p.id));
+    const solo = o => Object.fromEntries(Object.entries(o).filter(([e]) => es(e)));
+    const calidad = salida.calidad.filter(x => ids.has(x.id));
+    const out = {
+      ...salida, id, nombre: vista.nombre, copa: vista.copa, bloque,
+      equipos: salida.equipos.filter(es), partidos,
+      bajas: solo(salida.bajas), cruces: solo(salida.cruces),
+      previas: Object.fromEntries(Object.entries(salida.previas).filter(([, f]) => es(f.l) || es(f.v))),
+      sanciones: salida.sanciones.filter(x => es(x.equipo)), calidad,
+      resumen: { partidos: partidos.length, conPlanilla: partidos.filter(p => p.planilla).length, conProblemas: calidad.length },
+    };
+    delete out.copas;
+    escribir(id, out);
+    res[id] = { actualizado: out.actualizado, ...out.resumen, equipos: out.equipos.length };
+  }
+  return res;
 }
 
 const SOLO = (process.env.SOLO || '').split(',').map(s => s.trim()).filter(Boolean);
 // Primera pasada: leer todas las divisionales (hace falta para cruzar jugadores y sanciones).
 const estados = DIVISIONALES.map(cargar).filter(Boolean);
 const G = global(estados);
+for (const st of estados) if (st.cat.copas) armarCopas(st);
 const resumenes = {};
 for (const st of estados) {
   if (SOLO.length && !SOLO.includes(st.cat.id)) continue;
   const s = terminar(st, G);
   resumenes[st.cat.id] = { actualizado: s.actualizado, ...s.resumen, equipos: s.equipos.length };
+  Object.assign(resumenes, s.copas || {});
   const alertas = Object.values(s.bajas).reduce((n, b) => n + b.alertas.filter(a => a.nivel === 'alta').length, 0);
   const vigentes = s.sanciones.filter(x => x.estado === 'vigente').length;
   console.log(`${s.nombre}: ${s.resumen.partidos} partidos, ${s.resumen.conPlanilla} con planilla, ${s.resumen.conProblemas} con observaciones, ${alertas} alertas altas, ${vigentes} suspensiones vigentes, ${Object.values(s.cruces).flat().length} jugadores que también juegan en otra divisional.`);
@@ -713,9 +768,11 @@ try { const v = JSON.parse(readFileSync(archIndice)); if (v && !Array.isArray(v)
 const indice = {
   categorias: CATEGORIAS.map(c => ({
     id: c.id, nombre: c.nombre,
-    divisionales: c.divisionales
-      .map(d => ({ id: d.id, letra: d.letra, nombre: d.nombre || `${c.nombre} ${d.letra}`, ...(resumenes[d.id] || viejo[d.id] || {}) }))
-      .filter(d => d.partidos),
+    // Los bloques con copas van ocultos (la web muestra una divisional por copa).
+    divisionales: c.divisionales.flatMap(d => [
+      ...VISTAS.filter(v => v.bloque === d.id).map(v => ({ id: v.id, letra: v.letra, nombre: v.nombre, copa: v.copa, ...(resumenes[v.id] || viejo[v.id] || {}) })),
+      { id: d.id, letra: d.letra, nombre: d.nombre || `${c.nombre} ${d.letra}`, ...(d.copas ? { oculta: 1 } : {}), ...(resumenes[d.id] || viejo[d.id] || {}) },
+    ]).filter(d => d.partidos),
   })).filter(c => c.divisionales.length),
 };
 writeFileSync(archIndice, JSON.stringify(indice, null, 1) + '\n');

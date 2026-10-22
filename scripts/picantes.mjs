@@ -15,7 +15,7 @@
 // Si empatan, primero la letra más alta y después la categoría (el orden de categorias.mjs).
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
-import { DIVISIONALES } from './categorias.mjs';
+import { VISTAS } from './categorias.mjs';
 import { TEMPORADA, corto } from './comun.mjs';
 
 const OUT = new URL('../data/', import.meta.url);
@@ -102,7 +102,7 @@ function guardar(nombre, salida) {
 export async function armarPicantes() {
   const partidos = [], tablas = {};
   let oficiales = 0, calculadas = 0;
-  for (const [orden, div] of DIVISIONALES.entries()) {
+  for (const [orden, div] of VISTAS.entries()) { // las copas de Sub 18 y Sub 16, cada una por separado
     const archivo = new URL(`${div.id}.json`, OUT);
     if (!existsSync(archivo)) continue;
     const d = JSON.parse(readFileSync(archivo));

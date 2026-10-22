@@ -12,7 +12,9 @@ const S18 = { torneo: 18, categoria: 18 };
 const S16 = { torneo: 16, categoria: 16, duracion: 80 };
 const div = (base, id, letra, series, extra = {}) => ({ ...base, id, letra, series, ...extra });
 // Sub 18 y Sub 16 no tienen divisionales: una primera fase en series, una segunda rueda y después copas.
-// Van como un solo bloque para no perder la historia de cada equipo entre fases.
+// Se bajan y analizan como un solo bloque (así cada equipo conserva su historia de las series), y la web
+// muestra una "divisional" por copa: los equipos de esa copa, con todos sus partidos de la temporada.
+// copas: serie de la copa -> [letra corta, nombre].
 const formativas = (n, series6) => ({
   ...Object.fromEntries([1, 2, 3, 4, 5, ...(series6 ? [6] : [])].map(i => [`${n}-${i}-`, `Serie ${i}`])),
   ...Object.fromEntries([1, 2, 3, 4, 5].map(i => [`${n}-${i}2`, `Serie ${i} (2.ª rueda)`])),
@@ -65,17 +67,25 @@ export const CATEGORIAS = [
   },
   {
     id: 'sub18', nombre: 'Sub 18', torneoFallos: 'SUB 18 MASCULINO', divisionales: [
-      div(S18, 'sub18', 'Única', { ...formativas(18, true), '18-61': 'Serie 6A (2.ª rueda)', '18-62': 'Serie 6B (2.ª rueda)',
-        '18O': 'Copa de Oro', '18P': 'Copa de Plata', '18B': 'Copa de Bronce', '18C': 'Copa Competencia', '18F': 'Copa Confraternidad', '18A': 'Copa Amistad' }, { nombre: 'Sub 18' }),
+      div(S18, 'sub18', 'Todas', { ...formativas(18, true), '18-61': 'Serie 6A (2.ª rueda)', '18-62': 'Serie 6B (2.ª rueda)',
+        '18O': 'Copa de Oro', '18P': 'Copa de Plata', '18B': 'Copa de Bronce', '18C': 'Copa Competencia', '18F': 'Copa Confraternidad', '18A': 'Copa Amistad' },
+        { nombre: 'Sub 18', copas: { '18O': ['Oro', 'Copa de Oro'], '18P': ['Plata', 'Copa de Plata'], '18B': ['Bronce', 'Copa de Bronce'], '18C': ['Compet.', 'Copa Competencia'], '18F': ['Confrat.', 'Copa Confraternidad'], '18A': ['Amistad', 'Copa Amistad'] } }),
     ],
   },
   {
     id: 'sub16', nombre: 'Sub 16', torneoFallos: 'SUB 16 MASCULINO', divisionales: [
-      div(S16, 'sub16', 'Única', { ...formativas(16, false),
-        '16O': 'Copa de Oro', '16P': 'Copa de Plata', '16B': 'Copa de Bronce', '16C': 'Copa Competencia', '16F': 'Copa Confraternidad' }, { nombre: 'Sub 16' }),
+      div(S16, 'sub16', 'Todas', { ...formativas(16, false),
+        '16O': 'Copa de Oro', '16P': 'Copa de Plata', '16B': 'Copa de Bronce', '16C': 'Copa Competencia', '16F': 'Copa Confraternidad' },
+        { nombre: 'Sub 16', copas: { '16O': ['Oro', 'Copa de Oro'], '16P': ['Plata', 'Copa de Plata'], '16B': ['Bronce', 'Copa de Bronce'], '16C': ['Compet.', 'Copa Competencia'], '16F': ['Confrat.', 'Copa Confraternidad'] } }),
     ],
   },
 ];
 
 // Lista plana de divisionales, con el nombre completo ("Mayores A").
 export const DIVISIONALES = CATEGORIAS.flatMap(c => c.divisionales.map(d => ({ ...d, categoriaId: c.id, nombre: d.nombre || `${c.nombre} ${d.letra}` })));
+
+// Lo que muestra la web: las divisionales, salvo los bloques con copas, que se ven como una por copa
+// (id "sub18-oro"). El bloque completo sigue existiendo (oculto) para los enlaces a sus partidos.
+export const VISTAS = DIVISIONALES.flatMap(d => !d.copas ? [d] : Object.entries(d.copas).map(([serie, [letra, nombreCopa]]) => ({
+  ...d, id: `${d.id}-${letra.toLowerCase().replace(/\W/g, '')}`, letra, nombre: `${d.nombre} ${nombreCopa.replace(/^Copa (de )?/, '')}`, nombreCopa, copa: serie, bloque: d.id, copas: undefined,
+})));
