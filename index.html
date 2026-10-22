@@ -145,13 +145,14 @@ dialog.sheet[open]{animation:subir .45s var(--ease-out)}
 .x{width:40px;height:40px;border-radius:50%;border:0;background:var(--surface-2);color:var(--fg);cursor:pointer;font-size:1.25rem;line-height:1;transition:background .3s var(--ease-out)}
 .x:hover{background:#2a3b33}
 .sheet-b{padding:4px 20px 22px;overflow:auto}
-.seg{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:4px;background:var(--bg);padding:4px;border-radius:999px;margin-bottom:16px;box-shadow:inset 0 0 0 1px var(--line)}
-.seg button{border:0;background:none;border-radius:999px;padding:10px 6px;font-weight:600;color:var(--muted);cursor:pointer;transition:background .3s var(--ease-out),color .3s var(--ease-out)}
+.seg{display:flex;flex-wrap:wrap;gap:4px;background:var(--bg);padding:4px;border-radius:22px;margin-bottom:16px;box-shadow:inset 0 0 0 1px var(--line)}
+.seg button{flex:1 1 auto;white-space:nowrap;border:0;background:none;border-radius:999px;padding:10px 6px;font-weight:600;color:var(--muted);cursor:pointer;transition:background .3s var(--ease-out),color .3s var(--ease-out)}
 .seg button[aria-pressed="true"]{background:var(--fg);color:var(--ink)}
 .letras{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
 .letras a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;height:76px;border-radius:var(--r);border:1px solid var(--line);background:var(--surface-2);text-decoration:none;color:var(--fg);transition:border-color .3s var(--ease-out),transform .3s var(--ease-out)}
 .letras a:hover{border-color:var(--line-strong);transform:translateY(-2px)}
 .letras a b{font-family:var(--font-heading);font-weight:900;font-size:2rem;line-height:1}
+.letras a b.larga{font-size:1.15rem;text-transform:uppercase}
 .letras a small{font-size:.72rem;color:var(--muted)}
 .letras a[aria-current="page"]{background:var(--primary);border-color:var(--primary);color:var(--on-primary)}
 .letras a[aria-current="page"] small{color:rgba(27,22,6,.7)}
@@ -648,7 +649,7 @@ function armarDivisionales(cat, seccion) {
   catPanel = catPanel && !cat ? catPanel : actualCat;
   const c = INDICE.categorias.find(c => c.id === catPanel) || INDICE.categorias[0];
   $('#sd-b').innerHTML = `<div class="seg" role="group" aria-label="Categoría">${INDICE.categorias.map(x => `<button type="button" aria-pressed="${x.id === c.id}" data-cat="${x.id}">${esc(x.nombre)}</button>`).join('')}</div>
-    <div class="letras">${c.divisionales.map(d => `<a href="${link(d.id, seccion)}"${d.id === cat ? ' aria-current="page"' : ''}><b>${esc(d.letra)}</b><small>${d.equipos} equipos</small></a>`).join('')}</div>`;
+    <div class="letras">${c.divisionales.map(d => `<a href="${link(d.id, seccion)}"${d.id === cat ? ' aria-current="page"' : ''}><b${d.letra.length > 2 ? ' class="larga"' : ''}>${esc(d.letra)}</b><small>${d.equipos} equipos</small></a>`).join('')}</div>`;
   $('#sd-b').querySelectorAll('[data-cat]').forEach(b => b.onclick = () => { catPanel = b.dataset.cat; armarDivisionales(cat && DIVS[cat].categoria === catPanel ? cat : null, seccion); });
   $('#sd-b').querySelectorAll('.letras a').forEach(a => a.onclick = () => cerrar('sheet-div'));
 }

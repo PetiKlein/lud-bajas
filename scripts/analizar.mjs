@@ -439,6 +439,7 @@ function cargar(cat) {
 const ALIAS_CLUB = {
   'Obc Azulgrana.': 'Old Boys', 'Seminario Universitario': 'Seminario', 'C. U. Catolica Azul': 'Club Universidad Catolica',
   'Dfc': 'Danubio Futbol Club', 'Juan Xxiii Blanco': 'Juan XXIII', 'Elf Blanco': 'ELF',
+  'Obc Azulgrana': 'Old Boys', 'Obc1914': 'Old Boys', 'Pinar Jrs': 'Tenis El Pinar',
 };
 export function clubDe(equipo) {
   if (ALIAS_CLUB[equipo]) return ALIAS_CLUB[equipo];
