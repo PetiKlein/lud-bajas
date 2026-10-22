@@ -897,7 +897,7 @@ function vRankings(d, cat) {
 // ---------- entre categorías ----------
 
 // ---------- sanciones ----------
-const ESTADO = { vigente: ['Vigente', 'red'], 'a-confirmar': ['A confirmar', 'amber'], pendiente: ['Esperando fallo', 'amber'], cumplida: ['Cumplida', ''], 'sin-suspension': ['Sin suspensión', ''] };
+const ESTADO = { vigente: ['Vigente', 'red'], 'a-confirmar': ['A confirmar', 'amber'], pendiente: ['Esperando fallo', 'amber'], cumplida: ['Cumplida', ''], 'sin-suspension': ['Sin suspensión', ''], 'sin-fallo': ['Sin fallo', ''] };
 function filaSancion(cat, d, s) {
   const [et, cl] = ESTADO[s.estado];
   const nom = d.jugadores[s.c]?.nombre || s.c;
@@ -909,7 +909,7 @@ function vSanciones(d, cat) {
   const S = d.sanciones || [];
   const vig = S.filter(s => s.estado === 'vigente' || s.estado === 'a-confirmar');
   const pen = S.filter(s => s.estado === 'pendiente');
-  const hist = S.filter(s => s.estado === 'cumplida' || s.estado === 'sin-suspension').sort((a, b) => b.fecha.localeCompare(a.fecha));
+  const hist = S.filter(s => s.estado === 'cumplida' || s.estado === 'sin-suspension' || s.estado === 'sin-fallo').sort((a, b) => b.fecha.localeCompare(a.fecha));
   return `<div class="stack"><h2>Sanciones</h2>
   <p class="lede">De Fallos y Penas de la Liga: suspensiones automáticas por expulsión y fallos del Tribunal, de jugadores que jugaron en ${esc(DIVS[cat].nombre)}. Incluye sanciones de otras categorías, porque la mayoría se cumplen en todas.</p></div>
   <details class="help"><summary>¿Cómo se cuentan las fechas?</summary><ul>

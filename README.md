@@ -109,6 +109,12 @@ La Liga publica cuántas fechas le dieron a cada uno (`F:2` = 2 fechas). Las cum
 partidos que jugó su equipo, en la divisional de la expulsión, después de ese partido. Es aproximado: si
 la Liga cuenta partidos de otra categoría, puede variar.
 
+Dos reglas para no dejar suspensiones colgadas:
+- Si el jugador volvió a jugar (en cualquier categoría, al menos 3 días después de la expulsión), la
+  suspensión se da por cumplida, aunque la cuenta diga otra cosa.
+- Si lo expulsaron, no tiene suspensión automática y pasaron más de 3 semanas sin fallo del Tribunal,
+  deja de figurar como "esperando fallo" y pasa al historial como "sin fallo".
+
 ## Temporada nueva
 
 Cambiar `TEMPORADA` e `INICIO_TEMPORADA` en `scripts/comun.mjs` (y los códigos de serie en `categorias.mjs` si cambian).

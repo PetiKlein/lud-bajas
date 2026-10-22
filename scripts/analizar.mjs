@@ -187,8 +187,21 @@ function global(estados) {
     else if (!x.fechas) estado = x.tipo === 'fallo' ? 'sin-suspension' : 'pendiente';
     else if (cumplidas == null) estado = hoy - diaN(x.fecha) <= 21 ? 'a-confirmar' : 'cumplida';
     else { restan = Math.max(0, x.fechas - cumplidas); estado = restan > 0 ? 'vigente' : 'cumplida'; }
+    // Si volvió a jugar (en cualquier categoría) después de la sanción, ya no está suspendido.
+    // Si sigue "esperando fallo" y pasaron más de 3 semanas de la expulsión, se da por cerrado.
+    let nota = null;
+    // (Un partido del mismo fin de semana de la expulsión no cuenta: tiene que ser al menos 3 días después.)
+    const desdeJuego = estado === 'pendiente' ? desde : (x.fecha > desde ? x.fecha : desde);
+    const volvio = (apariciones[x.carne] || []).find(a => a.dia > desdeJuego && diaN(a.dia) - diaN(desde) >= 3);
+    if (volvio && (estado === 'pendiente' || estado === 'vigente' || estado === 'a-confirmar')) {
+      nota = `Volvió a jugar el ${ddmm(volvio.dia)} en ${NOMBRE_DIV[volvio.div]}.`;
+      estado = estado === 'pendiente' ? 'sin-suspension' : 'cumplida'; restan = estado === 'cumplida' ? 0 : restan;
+    } else if (estado === 'pendiente' && hoy - diaN(desde) > 21) {
+      estado = 'sin-fallo';
+      nota = 'Pasaron más de 3 semanas sin fallo del Tribunal: se da por terminado.';
+    }
     (sanciones[x.carne] ??= []).push({
-      carne: x.carne, tipo: g.fallo ? 'fallo' : 'automatica', preventiva, fecha: x.fecha, fechas: x.fechas, cumplidas, restan, estado,
+      carne: x.carne, tipo: g.fallo ? 'fallo' : 'automatica', preventiva, fecha: x.fecha, fechas: x.fechas, cumplidas, restan, estado, nota,
       texto: x.texto, detalle: x.detalle, club: x.club,
       partido: partido ? { div: partido.div, id: partido.p.id, dia: partido.p.dia, rival, equipo } : null,
       serie: x.serie,
@@ -272,11 +285,11 @@ function alertasDeEquipo(equipo, lista, jugadores, cat, G) {
     }
     if (x?.expulsado) {
       const s = (G.sanciones[c] || []).find(s => s.partido?.id === ultJugado.id);
-      if (s && (s.estado === 'cumplida' || s.estado === 'sin-suspension')) {
+      if (s && (s.estado === 'cumplida' || s.estado === 'sin-suspension' || s.estado === 'sin-fallo')) {
         add(c, { tipo: 'vuelve', nivel: 'baja', texto: s.estado === 'cumplida'
           ? `Ya cumplió la suspensión (${plural(s.fechas, 'fecha')}) por la expulsión vs ${ultJugado.rival}: puede volver.`
-          : `Expulsado vs ${ultJugado.rival}, pero el Tribunal no lo suspendió. ${seguidos === 1 ? 'No jugó el último partido.' : `Lleva ${seguidos} partidos sin jugar.`}` });
-      } else if (!s) {
+          : `Expulsado vs ${ultJugado.rival}, pero ${s.estado === 'sin-fallo' ? 'pasaron más de 3 semanas sin fallo' : 'el Tribunal no lo suspendió'}. ${seguidos === 1 ? 'No jugó el último partido.' : `Lleva ${seguidos} partidos sin jugar.`}` });
+      } else if (!s && diaN(new Date().toISOString().slice(0, 10)) - diaN(ultJugado.dia) <= 21) {
         add(c, { tipo: 'suspendido', nivel: 'alta', sinJugar: seguidos,
           texto: `Expulsado contra ${ultJugado.rival}; ${seguidos === 1 ? 'no jugó el partido siguiente' : `lleva ${seguidos} partidos sin jugar`}. Probable suspensión.` });
       }
@@ -335,14 +348,15 @@ function resumenSancion(s, div) {
   if (s.estado === 'vigente' || s.estado === 'a-confirmar') return textoSancion(s, div);
   const donde = s.partido ? `${s.partido.div !== div ? `en ${NOMBRE_DIV[s.partido.div]} ` : ''}${s.partido.rival ? `vs ${s.partido.rival} ` : ''}(${ddmm(s.partido.dia)})` : `(${ddmm(s.fecha)})`;
   if (s.estado === 'pendiente') return `Expulsado ${donde}. Sin suspensión automática: falta el fallo del Tribunal.`;
-  if (s.estado === 'sin-suspension') return `Expulsado ${donde}. El Tribunal no lo suspendió.`;
-  return `${s.tipo === 'fallo' ? 'Suspendido' : 'Suspensión automática de'} ${plural(s.fechas, 'fecha')} por el partido ${donde}. Ya la cumplió.`;
+  if (s.estado === 'sin-fallo') return `Expulsado ${donde}. ${s.nota}`;
+  if (s.estado === 'sin-suspension') return `Expulsado ${donde}. ${s.nota || 'El Tribunal no lo suspendió.'}`;
+  return `${s.tipo === 'fallo' ? 'Suspendido' : 'Suspensión automática de'} ${plural(s.fechas || 1, 'fecha')} por el partido ${donde}. Ya la cumplió.${s.nota ? ' ' + s.nota : ''}`;
 }
 function sancionesDeDivisional(cat, jugadores, G) {
   const out = [];
   for (const c of Object.keys(jugadores)) for (const s of G.sanciones[c] || [])
     out.push({ c, equipo: jugadores[c].equipo, ...s, carne: undefined, resumen: resumenSancion(s, cat.id) });
-  const orden = { vigente: 0, 'a-confirmar': 1, pendiente: 2, cumplida: 3, 'sin-suspension': 4 };
+  const orden = { vigente: 0, 'a-confirmar': 1, pendiente: 2, cumplida: 3, 'sin-suspension': 4, 'sin-fallo': 5 };
   return out.sort((a, b) => orden[a.estado] - orden[b.estado] || b.fecha.localeCompare(a.fecha));
 }
 
