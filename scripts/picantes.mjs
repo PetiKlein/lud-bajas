@@ -5,10 +5,13 @@
 //    da por ganados; si no responde, se calcula con los resultados (posiciones() abajo).
 //  - data/picantes.json: chico, así la portada no tiene que bajar las 14 divisionales para compararlas.
 //
-// Picante = cruce entre dos de los cuatro primeros del grupo de arriba (título / título y ascenso).
-// Orden: un puntaje de "picantez" que junta todas las categorías. Suman las posiciones (1° = 4, 2° = 3,
-// 3° = 2, 4° = 1, por cada equipo) y la divisional (A = 6, B = 5 ... G = 0, igual para Mayores, Sub 20 y
-// Reserva): la divisional pesa, pero un 1° vs 2° de una C puede ganarle a un 2° vs 4° de una A.
+// Picante = cruce entre dos de los cuatro primeros del grupo de arriba (título / título y ascenso), o
+// entre dos de los cuatro últimos del grupo de permanencia (la pelea por no descender). La copa de plata
+// no cuenta: es de las divisionales más bajas, donde no hay descenso.
+// Orden: un puntaje de "picantez" que junta todas las categorías. Suman las posiciones (arriba: 1° = 4,
+// 2° = 3, 3° = 2, 4° = 1; abajo, al revés: último = 4, penúltimo = 3...) y la divisional (A = 6, B = 5 ...
+// G = 0, igual para Mayores, Sub 20 y Reserva): la divisional pesa, pero un 1° vs 2° de una C puede
+// ganarle a un 2° vs 4° de una A, y un último vs penúltimo de una A, a un 3° vs 4° de una B.
 // Si empatan, primero la letra más alta y después la categoría (el orden de categorias.mjs).
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -17,10 +20,20 @@ import { TEMPORADA, corto } from './comun.mjs';
 
 const OUT = new URL('../data/', import.meta.url);
 const API = 'https://ligauniversitaria.org.uy/posiciones/api.php';
-const MAX = 20;
+const MAX = 30;
 
 const LETRAS = 'ABCDEFG';
-const picantez = p => (5 - p.pl) + (5 - p.pv) + Math.max(0, 6 - LETRAS.indexOf(p.letra));
+// Puntos por ubicación: arriba cuenta desde el 1°; en el descenso, desde el último.
+const ubic = (pos, n, tipo) => tipo === 'descenso' ? 5 - (n - pos + 1) : 5 - pos;
+const picantez = p => ubic(p.pl, p.n, p.tipo) + ubic(p.pv, p.n, p.tipo) + Math.max(0, 6 - LETRAS.indexOf(p.letra));
+// ¿Es picante? Devuelve 'titulo', 'descenso' o null. n = cantidad de equipos del grupo.
+export function tipoPicante(etapa, pl, pv, n) {
+  if (!pl || !pv) return null;
+  const peso = pesoEtapa(etapa);
+  if (peso === 0 && pl <= 4 && pv <= 4) return 'titulo';
+  if (peso === 2 && n >= 6 && pl > n - 4 && pv > n - 4) return 'descenso';
+  return null;
+}
 const pesoEtapa = e => /permanencia|descenso/i.test(e || '') ? 2 : /plata/i.test(e || '') ? 1 : 0;
 
 // Tabla de cada etapa, como el reglamento (art. 3): en la segunda etapa cada equipo conserva lo de la
@@ -101,16 +114,17 @@ export async function armarPicantes() {
     tablas[div.id] = Object.fromEntries(Object.keys(fuente).map(et => [et, { fuente: fuente[et], pos: pos[et] }]));
     const altas = eq => (d.bajas?.[eq]?.alertas || []).filter(a => a.nivel === 'alta').length;
     for (const [k, f] of Object.entries(d.previas || {})) {
-      const pl = pos[f.etapa]?.[f.l], pv = pos[f.etapa]?.[f.v];
-      if (pesoEtapa(f.etapa) !== 0 || !(pl <= 4 && pv <= 4)) continue;
-      partidos.push({ div: div.id, divNombre: div.nombre, letra: div.letra, orden, k, l: f.l, v: f.v, dia: f.dia, hora: f.hora, etapa: f.etapa, pl, pv, altasL: altas(f.l), altasV: altas(f.v) });
+      const pl = pos[f.etapa]?.[f.l], pv = pos[f.etapa]?.[f.v], n = Object.keys(pos[f.etapa] || {}).length;
+      const tipo = tipoPicante(f.etapa, pl, pv, n);
+      if (!tipo) continue;
+      partidos.push({ div: div.id, divNombre: div.nombre, letra: div.letra, orden, k, l: f.l, v: f.v, dia: f.dia, hora: f.hora, etapa: f.etapa, pl, pv, n, tipo, altasL: altas(f.l), altasV: altas(f.v) });
     }
   }
   partidos.sort((a, b) => picantez(b) - picantez(a) || a.letra.localeCompare(b.letra) || a.orden - b.orden || (a.dia + a.hora).localeCompare(b.dia + b.hora));
   guardar('posiciones.json', { actualizado: new Date().toISOString(), divisionales: tablas });
   const salida = { actualizado: new Date().toISOString(), partidos: partidos.slice(0, MAX).map(({ orden, letra, ...p }) => p) };
   guardar('picantes.json', salida);
-  console.log(`Posiciones: ${oficiales} tablas oficiales, ${calculadas} calculadas. Picantes: ${salida.partidos.length} partidos en ${new Set(salida.partidos.map(p => p.div)).size} divisionales.`);
+  console.log(`Posiciones: ${oficiales} tablas oficiales, ${calculadas} calculadas. Picantes: ${salida.partidos.length} partidos (${salida.partidos.filter(p => p.tipo === 'descenso').length} por el descenso) en ${new Set(salida.partidos.map(p => p.div)).size} divisionales.`);
   return salida;
 }
 

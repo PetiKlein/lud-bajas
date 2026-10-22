@@ -24,8 +24,10 @@ imagen que aparece al compartir el link por WhatsApp.
 ## Qué muestra
 
 - **Inicio:** la próxima fecha de un vistazo: cifras clave, lo más picante de todas las divisionales
-  (cruces entre los cuatro de arriba de Mayores, Sub 20 y Reserva juntas, ordenados por "picantez": suman
-  las posiciones, 1° = 4 hasta 4° = 1 por equipo, y la divisional, A = 6 hasta G = 0), partidos con la forma de cada
+  (cruces entre los cuatro de arriba, y entre los cuatro de abajo de la permanencia, la pelea por no
+  descender, de Mayores, Sub 20 y Reserva juntas, ordenados por "picantez": suman las posiciones, 1° = 4
+  hasta 4° = 1 por equipo arriba, y último = 4 hasta cuarto desde abajo = 1 en el descenso, y la divisional,
+  A = 6 hasta G = 0; la copa de plata no cuenta porque no tiene descenso), partidos con la forma de cada
   equipo y las bajas más importantes. En Inicio, Previas y Bajas los partidos van ordenados por importancia:
   primero el grupo de arriba (título / título y ascenso), después la copa de plata y la permanencia, y dentro
   de cada grupo los cruces entre los mejor ubicados. Cada partido muestra la posición de los dos equipos.
