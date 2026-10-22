@@ -1,0 +1,22 @@
+{
+  "name": "LUD Bajas",
+  "short_name": "LUD Bajas",
+  "description": "Bajas, suspendidos, once probable y previas de la Liga Universitaria de Deportes.",
+  "lang": "es-UY",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121a17",
+  "theme_color": "#121a17",
+  "categories": ["sports"],
+  "icons": [
+    { "src": "app/icono-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "app/icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "app/icono-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Mi equipo", "url": "./#/mi-equipo", "icons": [{ "src": "app/icono-192.png", "sizes": "192x192" }] }
+  ]
+}

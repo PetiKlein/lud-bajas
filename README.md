@@ -61,6 +61,12 @@ Son pistas sacadas de las planillas, no partes médicos: un titular que no juega
 lesionado, de viaje o de exámenes. Las suspensiones se confirman en Fallos y Penas de la Liga
 (se publican los jueves a las 21 h).
 
+## App en el celu
+
+La página se instala como app ("Agregar a pantalla de inicio" en el iPhone desde Safari, o "Instalar app"
+en Chrome de Android): `manifest.webmanifest` y los íconos y pantallas de arranque de `app/`. Los genera
+`herramientas/portada.py` con el mismo diseño de la página.
+
 ## Cómo funciona
 
 - `scripts/detalle.mjs` baja la planilla de cada partido jugado a `planillas/<categoria>/<ID>.json`
