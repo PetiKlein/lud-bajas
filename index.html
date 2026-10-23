@@ -433,6 +433,25 @@ a.chip{text-decoration:none;display:inline-block}
 .ct-i small{font-family:var(--font-mono);font-size:.62rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-right:2px}
 .ct-c{font-family:var(--font-heading);font-weight:900;font-size:1rem;color:var(--primary);font-variant-numeric:tabular-nums}
 a.ct-i:hover{text-decoration:underline}
+/* "Cómo descargar la app": tarjeta en Inicio y panel con los pasos */
+.app-aviso{padding-top:14px}
+.app-card{display:flex;align-items:center;gap:6px;padding:4px 8px 4px 4px;border-radius:var(--r);background:linear-gradient(180deg,var(--surface-2),var(--surface));border:1px solid var(--line);animation:subir .5s var(--ease-out)}
+.app-abrir{flex:1;min-width:0;display:flex;align-items:center;gap:12px;padding:10px;background:none;border:0;color:var(--fg);text-align:left;cursor:pointer}
+.app-abrir svg{width:30px;height:30px;flex:none;fill:none;stroke:var(--primary);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.app-abrir b{display:block;font-family:var(--font-heading);font-weight:800;font-size:1.25rem;line-height:1.05;text-transform:uppercase}
+.app-abrir small{display:block;margin-top:2px;color:var(--muted);font-size:.82rem}
+.app-x{flex:none}
+.app-pasos{list-style:none;margin:4px 0 0;padding:0;display:grid;gap:14px}
+.app-pasos li{display:flex;gap:12px;align-items:flex-start;line-height:1.45}
+.app-n{flex:none;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;background:var(--primary);color:var(--on-primary);font-family:var(--font-heading);font-weight:900;font-size:1rem}
+.app-ico{display:inline-grid;place-items:center;width:26px;height:26px;margin:0 2px;border-radius:7px;background:var(--surface-2);vertical-align:middle}
+.app-ico svg{width:17px;height:17px;fill:none;stroke:var(--fg);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.app-puntos{font-size:1.1rem;line-height:1}
+.app-ojo{margin:0 0 14px;padding:10px 12px;border-radius:var(--r-sm);background:var(--warning-soft);box-shadow:inset 3px 0 0 var(--warning)}
+.app-nota{margin:14px 0 0}
+.app-instalar{width:100%;margin-bottom:10px}
+.app-instalar svg{width:20px;height:20px;fill:none;stroke:var(--on-primary);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.menu a svg rect,.menu a svg path{vector-effect:non-scaling-stroke}
 /* celular: una línea que se desliza, con los favoritos (más cortos) antes que los partidos */
 .ct-fav{order:1}.ct-vis{order:2}
 /* compu: todo a la vista, en dos líneas */
@@ -562,6 +581,7 @@ a.ct-i:hover{text-decoration:underline}
 </header>
 <div class="subnav" id="subnav"><nav class="wrap dnav" id="dnav2" aria-label="Más secciones"></nav></div>
 <aside class="contador" id="contador" aria-label="Entradas, partidos más vistos y clubes favoritos" hidden><div class="wrap"></div></aside>
+<div class="wrap app-aviso" id="app-aviso" hidden></div>
 <div id="hero"></div>
 <main class="wrap" id="main" aria-live="polite">
   <div class="sk" style="height:120px"></div><div class="sk" style="height:260px"></div><div class="sk" style="height:180px"></div>
@@ -584,6 +604,7 @@ a.ct-i:hover{text-decoration:underline}
 </footer>
 <nav class="bnav" id="bnav" aria-label="Secciones"></nav>
 <dialog class="sheet" id="sheet-div" aria-labelledby="sd-t"><div class="sheet-h"><h2 id="sd-t">Elegí la divisional</h2><button class="x" data-cerrar aria-label="Cerrar">×</button></div><div class="sheet-b" id="sd-b"></div></dialog>
+<dialog class="sheet" id="sheet-app" aria-labelledby="sa-t"><div class="sheet-h"><h2 id="sa-t">Cómo descargar la app</h2><button class="x" data-cerrar aria-label="Cerrar">×</button></div><div class="sheet-b" id="sa-b"></div></dialog>
 <dialog class="sheet" id="sheet-mas" aria-labelledby="sm-t"><div class="sheet-h"><h2 id="sm-t">Más secciones</h2><button class="x" data-cerrar aria-label="Cerrar">×</button></div><div class="sheet-b"><div class="menu" id="sm-b"></div></div></dialog>
 <script>
 // Categorías y divisionales disponibles: salen de data/indice.json (lo escribe el robot).
@@ -710,7 +731,8 @@ function chrome(cat, tab) {
   $('#bnav').innerHTML = SECCIONES.filter(s => ABAJO.includes(s[0])).map(([id, n, i]) => `<a href="${link(div, id)}"${cur(id)}>${ic(i)}<span>${n === 'Inicio' ? 'Inicio' : n}</span></a>`).join('')
     + `<button type="button" id="btn-mas"${enMas ? ' aria-current="page"' : ''}>${ic('i-mas')}<span>Más</span></button>`;
   $('#sm-b').innerHTML = SECCIONES.filter(s => !ABAJO.includes(s[0])).map(([id, n, i, desc]) => `<a href="${link(div, id)}"${cur(id)}>${ic(i)}<span><b>${n}</b><small>${desc}</small></span></a>`).join('')
-    + `<a href="#/mi-equipo">${ic('i-equipos')}<span><b>Mi equipo</b><small>Tu club en todas las categorías</small></span></a>`;
+    + `<a href="#/mi-equipo">${ic('i-equipos')}<span><b>Mi equipo</b><small>Tu club en todas las categorías</small></span></a>`
+    + (instalada() ? '' : `<a href="#" onclick="abrirPasosApp(); return false;">${ICONO_CELU}<span><b>Descargar la app</b><small>Tenela en tu pantalla de inicio</small></span></a>`);
   $('#pie-links').innerHTML = SECCIONES.slice(0, 6).map(([id, n]) => `<li><a href="${link(div, id)}">${n}</a></li>`).join('');
   $('#btn-mas').onclick = () => abrir('sheet-mas');
   $('#divbtn').onclick = () => { armarDivisionales(mi ? null : cat, seccion === 'inicio' || mi ? 'inicio' : seccion); abrir('sheet-div'); };
@@ -1530,9 +1552,10 @@ async function render() {
   if (Date.now() - RESUMEN_AT > 60000) pintarContador();
   // Sin dirección: si tiene equipo elegido, va directo a lo suyo.
   if (!cat0 && leer('club')) { location.replace('#/mi-equipo'); return; }
-  if (cat0 === 'mi-equipo') { chrome('mi-equipo'); return renderMiEquipo(tab0); }
+  if (cat0 === 'mi-equipo') { chrome('mi-equipo'); pintarAvisoApp(false); return renderMiEquipo(tab0); }
   const cat = DIVS[cat0] ? cat0 : (DIVS[leer('div')] ? leer('div') : Object.keys(DIVS)[0]);
   const tab = tab0 || 'inicio';
+  pintarAvisoApp(tab === 'inicio');
   guardar('div', cat); guardar('div-' + DIVS[cat].categoria, cat);
   chrome(cat, tab);
   const main = $('#main');
@@ -1573,6 +1596,60 @@ function bindSearch(cat, d) {
   q.focus(); q.setSelectionRange(q.value.length, q.value.length);
   q.addEventListener('input', () => { history.replaceState(null, '', link(cat, 'jugadores', q.value)); $('#main').innerHTML = vJugadores(d, cat, q.value); bindSearch(cat, d); });
 }
+// ---------- "Cómo descargar la app" ----------
+// Tarjeta arriba de Inicio, solo en el celular y si no la abrió desde el ícono. Con la ✕ vuelve a la
+// semana; la segunda vez que la cierra, no aparece más. El panel con los pasos también se abre desde "Más".
+const UA = navigator.userAgent;
+const ES_IOS = /iPhone|iPad|iPod/.test(UA) || (/Macintosh/.test(UA) && navigator.maxTouchPoints > 1);
+const ES_ANDROID = /Android/.test(UA);
+const EN_OTRA_APP = /FBAN|FBAV|Instagram|WhatsApp|Line\/|TikTok|; wv\)/.test(UA); // el navegador de adentro de otra app
+const instalada = () => matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+const esCelular = () => matchMedia('(pointer: coarse)').matches && Math.min(screen.width, screen.height) < 820;
+const ICONO_CELU = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="2.5" width="12" height="19" rx="2.5"/><path d="M12 7v7m-3-3 3 3 3-3M10 18.5h4"/></svg>';
+const ICONO_IOS_COMPARTIR = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-4-8 4-4 4 4"/><path d="M7 10H5.5v10.5h13V10H17"/></svg>';
+const ICONO_AGREGAR = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="3.5"/><path d="M12 8.5v7m-3.5-3.5h7"/></svg>';
+let PROMPT_INSTALAR = null; // Chrome de Android (y de la compu) deja instalar con un botón
+addEventListener('beforeinstallprompt', e => { e.preventDefault(); PROMPT_INSTALAR = e; });
+addEventListener('appinstalled', () => { PROMPT_INSTALAR = null; guardar('app-cierres', '2'); pintarAvisoApp(false); cerrar('sheet-app'); aviso('Listo: Planilla LUD quedó en tu pantalla de inicio.'); });
+function avisoAppVisible() {
+  if (instalada() || !esCelular()) return false;
+  const n = +(leer('app-cierres') || 0);
+  if (n >= 2) return false;
+  return n === 0 || Date.now() - +(leer('app-cerrada') || 0) > 7 * 864e5;
+}
+function pintarAvisoApp(enInicio) {
+  const el = $('#app-aviso');
+  el.hidden = !(enInicio && avisoAppVisible());
+  if (!el.hidden && !el.innerHTML) el.innerHTML = `<div class="app-card"><button type="button" class="app-abrir" onclick="abrirPasosApp()">${ICONO_CELU}<span><b>Cómo descargar la app</b><small>Tenela en tu pantalla de inicio, como cualquier app.</small></span></button><button type="button" class="x app-x" onclick="cerrarAvisoApp()" aria-label="No mostrar">×</button></div>`;
+}
+function cerrarAvisoApp() {
+  guardar('app-cierres', String(+(leer('app-cierres') || 0) + 1));
+  guardar('app-cerrada', String(Date.now()));
+  $('#app-aviso').hidden = true;
+}
+function abrirPasosApp() {
+  const pasos = l => `<ol class="app-pasos">${l.map((t, i) => `<li><span class="app-n">${i + 1}</span><span>${t}</span></li>`).join('')}</ol>`;
+  const ico = s => `<span class="app-ico">${s}</span>`;
+  const navegador = ES_IOS ? 'Safari' : 'Chrome';
+  const boton = PROMPT_INSTALAR ? `<button type="button" class="btn p app-instalar" onclick="instalarApp()">${ICONO_CELU}Instalar</button><p class="small muted" style="margin:0">O a mano:</p>` : '';
+  let html;
+  if (instalada()) html = '<p>Ya la tenés: la estás usando desde el ícono de tu pantalla de inicio.</p>';
+  else if (ES_IOS) html = pasos([`Abrí esta página en <b>Safari</b>.`, `Tocá ${ico(ICONO_IOS_COMPARTIR)} <b>Compartir</b> (abajo en el iPhone, arriba en el iPad).`, `Bajá y tocá ${ico(ICONO_AGREGAR)} <b>Agregar a inicio</b>.`, `Tocá <b>Agregar</b>. Listo: queda el ícono de Planilla LUD.`]);
+  else if (ES_ANDROID) html = boton + pasos([`Abrí esta página en <b>Chrome</b>.`, `Tocá ${ico('<b class="app-puntos">⋮</b>')} arriba a la derecha.`, `Tocá <b>Instalar app</b> (o <b>Agregar a la pantalla principal</b>).`, `Confirmá con <b>Instalar</b>. Listo: queda el ícono de Planilla LUD.`]);
+  else html = boton + `<p>En Chrome o Edge, tocá el ícono de instalar ${ico(ICONO_AGREGAR)} a la derecha de la barra de direcciones.</p><p class="small muted">En el celular es más práctico: abrí esta misma página desde ahí y tocá “Cómo descargar la app”.</p>`;
+  const otraApp = EN_OTRA_APP
+    ? `<p class="app-ojo">Estás adentro de otra app (WhatsApp, Instagram…), y desde ahí no se puede. Primero abrila en <b>${navegador}</b>: ${ES_IOS ? 'tocá el ícono de la brújula o “Abrir en Safari”' : 'tocá ⋮ → “Abrir en Chrome”'}.</p>`
+    : (ES_IOS || ES_ANDROID) && !instalada() ? `<p class="small muted app-nota">¿La abriste desde un link de WhatsApp? Primero tocá ${ES_IOS ? 'la brújula de abajo para abrirla en Safari' : '⋮ → “Abrir en Chrome”'}.</p>` : '';
+  $('#sa-b').innerHTML = otraApp + html + (instalada() ? '' : '<p class="small muted app-nota">Abre directo en tu equipo, a pantalla completa, sin buscar el link.</p>');
+  abrir('sheet-app');
+}
+async function instalarApp() {
+  if (!PROMPT_INSTALAR) return;
+  PROMPT_INSTALAR.prompt();
+  await PROMPT_INSTALAR.userChoice;
+  PROMPT_INSTALAR = null;
+}
+
 document.addEventListener('visibilitychange', () => document.body.classList.toggle('paused', document.hidden));
 addEventListener('hashchange', render);
 iniciarContador();
