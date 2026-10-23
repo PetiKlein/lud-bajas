@@ -1,8 +1,9 @@
 // Posiciones de cada etapa y los partidos más picantes de la próxima fecha, para la web.
 // Lee data/<divisional>.json (lo escribe analizar.mjs) y escribe:
-//  - data/posiciones.json: la posición de cada equipo en su grupo. Sale de la tabla oficial de la Liga
-//    (posiciones/api.php, cargarPosiciones) cuando responde, porque incluye los partidos que el Tribunal
-//    da por ganados; si no responde, se calcula con los resultados (posiciones() abajo).
+//  - data/posiciones.json: la tabla de cada grupo que muestra la sección Tabla (filas con PJ, G, E, P,
+//    goles y puntos, y la posición de cada equipo). Sale de la tabla oficial de la Liga (posiciones/api.php,
+//    cargarPosiciones) cuando responde, porque incluye los partidos que el Tribunal da por ganados; si no
+//    responde, se calcula con los resultados (filasCalculadas() abajo).
 //  - data/picantes.json: chico, así la portada no tiene que bajar las 14 divisionales para compararlas.
 //
 // Picante = cruce entre dos de los cuatro primeros del grupo de arriba (título / título y ascenso), o
@@ -40,32 +41,50 @@ export function tipoPicante(etapa, pl, pv, n) {
 }
 const pesoEtapa = e => /permanencia|descenso/i.test(e || '') ? 2 : /plata|bronce|competencia|confraternidad|amistad/i.test(e || '') ? 1 : 0;
 
-// Tabla de cada etapa, como el reglamento (art. 3): en la segunda etapa cada equipo conserva lo de la
-// primera rueda, así que cuenta toda la temporada. Puntos, diferencia de gol, goles a favor y, si siguen
-// empatados, lo que hicieron entre ellos. Es la misma cuenta que posiciones() en index.html.
-function posiciones(d) {
-  const jugados = d.partidos.filter(p => p.gl != null && p.gv != null);
-  const tabla = (lista, solo) => {
+// Tabla calculada de una etapa, como el reglamento (art. 3). La primera fase (primera rueda o series) y
+// las copas cuentan solo sus partidos (las copas arrancan de cero: así lo muestra la tabla oficial); en
+// título, ascenso y permanencia cada equipo conserva lo de la primera rueda, así que cuenta toda la
+// temporada. Puntos, diferencia de gol, goles a favor y, si siguen empatados, lo que hicieron entre ellos.
+// Filas: [equipo, PJ, G, E, P, GF, GC, Pts], ordenadas. Es la misma cuenta que filasCalculadas() en index.html.
+const primeraFase = et => /^(primera rueda|serie \d+)$/i.test(et || '');
+const soloSusPartidos = et => primeraFase(et) || /^copa/i.test(et || '');
+export function filasCalculadas(d, etapa, equipos) {
+  const jugados = d.partidos.filter(p => p.gl != null && p.gv != null && (!soloSusPartidos(etapa) || p.etapa === etapa));
+  const tabla = (solo) => {
     const t = {};
-    const suma = (eq, gf, gc) => { const x = t[eq] ||= { pts: 0, dg: 0, gf: 0 }; x.pts += gf > gc ? 3 : gf === gc ? 1 : 0; x.dg += gf - gc; x.gf += gf; };
-    for (const p of lista) if (!solo || (solo.has(p.local) && solo.has(p.visitante))) { suma(p.local, p.gl, p.gv); suma(p.visitante, p.gv, p.gl); }
+    const suma = (eq, gf, gc) => { const x = t[eq] ||= { pj: 0, g: 0, e: 0, p: 0, gf: 0, gc: 0, pts: 0 }; x.pj++; x[gf > gc ? 'g' : gf === gc ? 'e' : 'p']++; x.gf += gf; x.gc += gc; x.pts += gf > gc ? 3 : gf === gc ? 1 : 0; };
+    for (const p of jugados) if (!solo || (solo.has(p.local) && solo.has(p.visitante))) { suma(p.local, p.gl, p.gv); suma(p.visitante, p.gv, p.gl); }
     return t;
   };
-  const total = tabla(jugados);
-  const cero = { pts: 0, dg: 0, gf: 0 };
-  const cmp = t => (a, b) => (t[b] || cero).pts - (t[a] || cero).pts || (t[b] || cero).dg - (t[a] || cero).dg || (t[b] || cero).gf - (t[a] || cero).gf;
-  const pos = {};
-  for (const [et, g] of Object.entries(grupos(d))) {
-    const orden = [...g].sort(cmp(total));
-    for (let i = 0; i < orden.length;) {
-      let j = i + 1;
-      while (j < orden.length && cmp(total)(orden[i], orden[j]) === 0) j++;
-      if (j - i > 1) { const run = orden.slice(i, j); orden.splice(i, j - i, ...run.sort(cmp(tabla(jugados, new Set(run))))); }
-      i = j;
-    }
-    pos[et] = Object.fromEntries(orden.map((eq, i) => [eq, i + 1]));
+  const total = tabla();
+  const cero = { pj: 0, g: 0, e: 0, p: 0, gf: 0, gc: 0, pts: 0 };
+  const cmp = t => (a, b) => { const x = t[a] || cero, y = t[b] || cero; return y.pts - x.pts || (y.gf - y.gc) - (x.gf - x.gc) || y.gf - x.gf; };
+  const orden = [...equipos].sort(cmp(total));
+  for (let i = 0; i < orden.length;) {
+    let j = i + 1;
+    while (j < orden.length && cmp(total)(orden[i], orden[j]) === 0) j++;
+    if (j - i > 1) { const run = orden.slice(i, j); orden.splice(i, j - i, ...run.sort(cmp(tabla(new Set(run))))); }
+    i = j;
   }
-  return pos;
+  return orden.map(eq => { const x = total[eq] || cero; return [eq, x.pj, x.g, x.e, x.p, x.gf, x.gc, x.pts]; });
+}
+const aPos = filas => Object.fromEntries(filas.map((f, i) => [f[0], i + 1]));
+function posiciones(d) {
+  return Object.fromEntries(Object.entries(grupos(d)).map(([et, g]) => [et, aPos(filasCalculadas(d, et, g))]));
+}
+// Grupos que muestra la sección Tabla: los de la fecha que viene (o los del último partido jugado, si no
+// hay fecha programada) y, en las divisionales de verdad (no las copas de Sub 18 y Sub 16), la primera fase.
+// Misma regla que etapasTabla() en index.html.
+export function etapasTabla(d, letra) {
+  const g = grupos(d);
+  let actuales = [...new Set(Object.values(d.previas || {}).map(f => f.etapa))];
+  if (!actuales.length) {
+    const ult = d.partidos.map(p => p.dia).sort().at(-1);
+    actuales = [...new Set(d.partidos.filter(p => p.dia === ult).map(p => p.etapa))];
+  }
+  actuales.sort((a, b) => primeraFase(a) - primeraFase(b) || pesoEtapa(a) - pesoEtapa(b));
+  const primeras = letra?.length === 1 ? Object.keys(g).filter(primeraFase).sort() : actuales.filter(primeraFase);
+  return [...actuales.filter(et => !primeraFase(et)), ...primeras].filter(et => g[et]);
 }
 // Equipos de cada etapa: los que jugaron en ella o tienen partido programado.
 function grupos(d) {
@@ -75,28 +94,34 @@ function grupos(d) {
   return g;
 }
 
-// Tabla oficial de una serie, con los nombres como los usa la web. null si la Liga no responde o si
-// algún equipo no coincide con los del grupo (en ese caso vale más la cuenta propia).
+// Tabla oficial de una serie, con los nombres como los usa la web: filas [equipo, PJ, G, E, P, GF, GC, Pts].
+// null si la Liga no responde o si algún equipo no coincide con los del grupo (en ese caso vale más la
+// cuenta propia). Si la Liga falla tres veces seguidas, se deja de preguntar en esta corrida: cuando se
+// cae, cada pedido puede tardar 25 segundos y son unos cien.
+let fallasSeguidas = 0;
 async function oficial(div, serie, equipos) {
+  if (fallasSeguidas >= 3) return null;
   try {
     const q = new URLSearchParams({ action: 'cargarPosiciones', temporada: TEMPORADA, deporte: 'F', torneo: div.torneo, categoria: div.categoria, serie });
     const r = await fetch(`${API}?${q}`, { headers: { 'User-Agent': 'planilla-lud (github.com/PetiKlein/planilla-lud)' }, signal: AbortSignal.timeout(25000) });
-    if (!r.ok) return null;
+    if (!r.ok) throw new Error(r.status);
     const t = await r.json();
-    const orden = t.map(x => corto(x.Institucion));
-    if (!orden.length || orden.length !== equipos.size || !orden.every(eq => equipos.has(eq))) return null;
-    return Object.fromEntries(orden.map((eq, i) => [eq, i + 1]));
-  } catch { return null; }
+    fallasSeguidas = 0;
+    const filas = t.map(x => [corto(x.Institucion), +x.PJ, +x.PG, +x.PE, +x.PP, +x.GF, +x.GC, +x.Puntos]);
+    if (!filas.length || filas.length !== equipos.size || !filas.every(f => equipos.has(f[0]))) return null;
+    return filas;
+  } catch { fallasSeguidas++; return null; }
 }
 
-// Si nada cambió, se conserva la fecha (y no hay commit).
-function guardar(nombre, salida) {
+// Si nada cambió, se conserva la fecha (y no hay commit). compacto: sin sangría (posiciones.json tiene
+// miles de filas cortas).
+function guardar(nombre, salida, compacto) {
   const archivo = new URL(nombre, OUT);
   try {
     const viejo = JSON.parse(readFileSync(archivo));
     if (JSON.stringify({ ...viejo, actualizado: null }) === JSON.stringify({ ...salida, actualizado: null })) salida.actualizado = viejo.actualizado;
   } catch {}
-  writeFileSync(archivo, JSON.stringify(salida, null, 1) + '\n');
+  writeFileSync(archivo, (compacto ? JSON.stringify(salida) : JSON.stringify(salida, null, 1)) + '\n');
 }
 
 export async function armarPicantes() {
@@ -107,15 +132,19 @@ export async function armarPicantes() {
     if (!existsSync(archivo)) continue;
     const d = JSON.parse(readFileSync(archivo));
     const pos = posiciones(d), g = grupos(d);
-    const fuente = {};
-    // Solo hacen falta las etapas que tienen partidos por jugar.
-    for (const etapa of new Set(Object.values(d.previas || {}).map(f => f.etapa))) {
+    // Las etapas de la sección Tabla (incluye las que tienen partidos por jugar), de a varias a la vez.
+    const etapas = etapasTabla(d, div.letra);
+    const filas = await Promise.all(etapas.map(async etapa => {
       const serie = Object.keys(div.series).find(s => div.series[s] === etapa);
-      const of = serie && g[etapa] ? await oficial(div, serie, g[etapa]) : null;
-      if (of) { pos[etapa] = of; oficiales++; } else calculadas++;
-      fuente[etapa] = of ? 'oficial' : 'calculada';
-    }
-    tablas[div.id] = Object.fromEntries(Object.keys(fuente).map(et => [et, { fuente: fuente[et], pos: pos[et] }]));
+      return (serie && await oficial(div, serie, g[etapa])) || null;
+    }));
+    tablas[div.id] = {};
+    etapas.forEach((etapa, i) => {
+      const f = filas[i] || filasCalculadas(d, etapa, g[etapa]);
+      if (filas[i]) oficiales++; else calculadas++;
+      pos[etapa] = aPos(f);
+      tablas[div.id][etapa] = { fuente: filas[i] ? 'oficial' : 'calculada', pos: pos[etapa], filas: f };
+    });
     const altas = eq => (d.bajas?.[eq]?.alertas || []).filter(a => a.nivel === 'alta').length;
     for (const [k, f] of Object.entries(d.previas || {})) {
       const pl = pos[f.etapa]?.[f.l], pv = pos[f.etapa]?.[f.v], n = Object.keys(pos[f.etapa] || {}).length;
@@ -128,7 +157,7 @@ export async function armarPicantes() {
     }
   }
   partidos.sort((a, b) => picantez(b) - picantez(a) || a.letra.localeCompare(b.letra) || a.orden - b.orden || (a.dia + a.hora).localeCompare(b.dia + b.hora));
-  guardar('posiciones.json', { actualizado: new Date().toISOString(), divisionales: tablas });
+  guardar('posiciones.json', { actualizado: new Date().toISOString(), divisionales: tablas }, true);
   const salida = { actualizado: new Date().toISOString(), partidos: partidos.slice(0, MAX).map(({ orden, letra, cat, ...p }) => p) };
   guardar('picantes.json', salida);
   console.log(`Posiciones: ${oficiales} tablas oficiales, ${calculadas} calculadas. Picantes: ${salida.partidos.length} partidos (${salida.partidos.filter(p => p.tipo === 'descenso').length} por el descenso) en ${new Set(salida.partidos.map(p => p.div)).size} divisionales.`);

@@ -21,7 +21,7 @@ La portada tiene una cancha de tiza de fondo y toda la página una capa fija de 
 hacer scroll (se apaga si el teléfono pide reducir movimiento).
 Todos los colores, radios, sombras y espacios son variables al principio del `<style>` de `index.html`.
 
-En el celular hay barra de navegación abajo (Inicio, Bajas, Previas, Equipos y Más) y la divisional se
+En el celular hay barra de navegación abajo (Inicio, Bajas, Partidos, Tabla y Más) y la divisional se
 elige desde el botón del encabezado. En la compu las secciones van en una fila arriba. `og.png` es la
 imagen que aparece al compartir el link por WhatsApp.
 
@@ -46,7 +46,13 @@ imagen que aparece al compartir el link por WhatsApp.
   reciben goles, y los goleadores en racha. Se puede compartir por WhatsApp.
 - **Mi equipo:** elegís tu club una vez (queda guardado en el navegador) y la web abre directo en lo
   tuyo: próximo partido, bajas y suspendidos de todos los equipos del club, en todas las categorías.
-- **Equipos:** plantel con partidos, titularidades, minutos, goles y los últimos 5 partidos.
+- **Tabla:** la tabla de posiciones de cada grupo (título, permanencia o copa, y la primera rueda o las series),
+  con PJ, G, E, P, goles, diferencia y puntos. Abajo de cada equipo: los últimos 5, la racha (3 o más
+  iguales seguidos, o 4 o más sin perder / sin ganar), las bajas de nivel alto de la próxima fecha y el
+  próximo rival con su posición. Líneas punteadas: los 4 que pelean el título, los 8 que pasan de la
+  primera rueda y los 4 que pelean por no descender. Tu equipo de "Mi equipo" queda marcado. Cada previa
+  trae "Qué se juegan": la tabla del grupo con los dos equipos marcados y la distancia en puntos. Tocando
+  un equipo se entra a su página: plantel con partidos, titularidades, minutos, goles y los últimos 5.
 - **Jugadores:** ficha de cada uno, partido a partido (cuándo entró, cuándo salió, reingresos y goles).
 - **Detalle de cada partido jugado:** minuto a minuto y formaciones con los minutos de cada jugador.
 - **Rankings:** más minutos, goleadores, minutos por gol, los que siempre están en cancha, los que más
@@ -78,7 +84,7 @@ en Chrome de Android): `manifest.webmanifest` y los íconos y pantallas de arran
   Cada sanción trae carné, serie y número de partido, así que se cruza con las planillas.
 - `scripts/analizar.mjs` revisa cada planilla, calcula minutos (con reingresos) y alertas, y escribe
   `data/<categoria>.json`, que es lo que lee `index.html`. Al final llama a `scripts/picantes.mjs`, que arma
-  `data/posiciones.json` (la tabla de cada etapa, sacada de la tabla oficial de la Liga:
+  `data/posiciones.json` (la tabla completa de cada grupo que muestra la sección Tabla, sacada de la tabla oficial de la Liga:
   `posiciones/api.php?action=cargarPosiciones`) y `data/picantes.json` (los partidos más picantes de todas
   las divisionales, para la portada). Se puede correr solo con `node scripts/picantes.mjs`.
   La tabla oficial importa: incluye los partidos que da el Tribunal, los W.O. y los formatos especiales

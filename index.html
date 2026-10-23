@@ -387,6 +387,38 @@ details.more summary{cursor:pointer;font-weight:600;padding:12px 16px}
 .forma{display:inline-flex;gap:3px}
 .forma b{width:21px;height:21px;border-radius:50%;display:grid;place-items:center;font-family:var(--font-mono);font-size:.64rem;font-weight:500;color:var(--ink)}
 .forma .G{background:var(--win)}.forma .E{background:var(--draw)}.forma .P{background:var(--loss)}
+
+/* tabla de posiciones */
+.tb{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.tb-r{display:grid;grid-template-columns:26px minmax(0,1fr) 40px 40px;gap:2px 10px;align-items:center;padding:11px 14px;border-top:1px solid var(--line);transition:background-color .25s var(--ease-out)}
+.tb-r:first-child{border-top:0}
+.tb-r.tb-h{padding-top:9px;padding-bottom:9px;background:var(--surface-2);font-family:var(--font-mono);font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.tb-r.tb-h .tb-pts,.tb-r.tb-h .tb-dg,.tb-r.tb-h .tb-x{font:inherit;color:inherit}
+.tb-r.cut{border-top:1.5px dashed var(--line-strong)}
+.tb-r.hl{background:rgba(236,232,220,.06);box-shadow:inset 3px 0 0 var(--fg)}
+.tb-r.mio{background:var(--primary-soft);box-shadow:inset 3px 0 0 var(--primary)}
+.tb-p{font-family:var(--font-heading);font-weight:900;font-size:1.25rem;color:var(--muted);text-align:right;line-height:1}
+.tb-n{display:flex;align-items:center;gap:9px;min-width:0;color:var(--fg);text-decoration:none;font-weight:600}
+.tb-n span:last-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tb-n:hover span:last-child{text-decoration:underline}
+.tb-x{display:none;text-align:right;font-variant-numeric:tabular-nums;color:var(--muted);font-size:.9rem}
+.tb-dg{text-align:right;font-variant-numeric:tabular-nums;color:var(--muted);font-size:.9rem}
+.tb-pts{text-align:right;font-family:var(--font-heading);font-weight:900;font-size:1.55rem;line-height:1;font-variant-numeric:tabular-nums}
+.tb-s{grid-column:2/-1;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;font-size:.8rem;color:var(--muted)}
+.tb-dots{display:inline-flex;gap:3px}
+.tb-dots i{width:9px;height:9px;border-radius:50%;background:var(--draw)}
+.tb-dots i.G{background:var(--win)}.tb-dots i.P{background:var(--loss)}
+.tb-s .tag{margin:0}
+.tag.up{background:rgba(143,207,160,.15);color:var(--win)}
+.tag.dn{background:var(--danger-soft);color:var(--danger)}
+.tb-al{font-family:var(--font-mono);font-size:.66rem;letter-spacing:.04em;color:var(--danger)}
+.tb-px a{color:var(--fg);text-decoration:none;border-bottom:1px solid var(--line-strong)}
+.tb-px a:hover{border-color:var(--primary)}
+@media (min-width:700px){
+  .tb-r{grid-template-columns:30px minmax(0,1fr) 34px 30px 30px 30px 62px 44px 48px}
+  .tb-x{display:block}
+}
+a.chip{text-decoration:none;display:inline-block}
 .pv-card{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:10px;align-items:center;padding:16px;border-top:1px solid var(--line);color:inherit;text-decoration:none;transition:background-color .25s var(--ease-out)}
 .pv-card:hover{background:rgba(236,232,220,.035)}
 .pv-card:first-of-type{border-top:0}
@@ -486,6 +518,7 @@ details.more summary{cursor:pointer;font-weight:600;padding:12px 16px}
   <symbol id="i-mas" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></symbol>
   <symbol id="i-jugadores" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></symbol>
   <symbol id="i-partidos" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m12 7 4 3-1.5 4.5h-5L8 10z"/></symbol>
+  <symbol id="i-tabla" viewBox="0 0 24 24"><path d="M3 21h18M5 21v-6h4v6M10 21V9h4v12M15 21v-9h4v9"/></symbol>
   <symbol id="i-rankings" viewBox="0 0 24 24"><path d="M8 21V11M16 21V7M12 21v-6M4 21h16"/></symbol>
   <symbol id="i-cruces" viewBox="0 0 24 24"><path d="M7 4 3 8l4 4"/><path d="M3 8h13a5 5 0 0 1 0 10h-3"/><path d="m17 20 4-4-4-4" opacity="0"/></symbol>
   <symbol id="i-sanciones" viewBox="0 0 24 24"><rect x="7" y="3" width="10" height="15" rx="1.5"/><path d="M10 21h4"/></symbol>
@@ -578,13 +611,13 @@ const SECCIONES = [
   ['inicio', 'Inicio', 'i-home', 'La fecha de un vistazo'],
   ['bajas', 'Bajas', 'i-bajas', 'Quién puede faltar en la próxima fecha'],
   ['partidos', 'Partidos', 'i-partidos', 'Próxima fecha con previas, y resultados'],
-  ['equipos', 'Equipos', 'i-equipos', 'Planteles con los minutos de cada uno'],
+  ['tabla', 'Tabla', 'i-tabla', 'Posiciones, racha y próximo rival'],
   ['jugadores', 'Jugadores', 'i-jugadores', 'Buscá a cualquiera y mirá su temporada'],
   ['rankings', 'Rankings', 'i-rankings', 'Minutos, goleadores y más'],
   ['sanciones', 'Sanciones', 'i-sanciones', 'Suspendidos y fallos del Tribunal'],
 ];
 const TABS = SECCIONES.map(s => [s[0], s[1]]);
-const ABAJO = ['inicio', 'bajas', 'partidos', 'equipos'];
+const ABAJO = ['inicio', 'bajas', 'partidos', 'tabla'];
 const ic = id => `<svg aria-hidden="true"><use href="#${id}"/></svg>`;
 const cache = {};
 const $ = s => document.querySelector(s);
@@ -638,7 +671,7 @@ async function datos(cat) {
 }
 
 function chrome(cat, tab) {
-  const seccion = { jugador: 'jugadores', partido: 'partidos', equipo: 'equipos', previa: 'partidos', previas: 'partidos' }[tab] || tab;
+  const seccion = { jugador: 'jugadores', partido: 'partidos', equipo: 'tabla', equipos: 'tabla', previa: 'partidos', previas: 'partidos' }[tab] || tab;
   const mi = cat === 'mi-equipo';
   const div = mi ? (DIVS[leer('div')] ? leer('div') : Object.keys(DIVS)[0]) : cat;
   const mine = $('#mine');
@@ -727,16 +760,6 @@ function vBajas(d, cat, filtro) {
   ${sueltos.length ? `<h3>${lista.length ? 'Sin partido programado' : 'Equipos'}</h3><section class="fixture">${sueltos.map(lado).join('')}</section>` : ''}`;
 }
 
-function vEquipos(d, cat) {
-  return `<h2>Equipos</h2><div class="card" style="padding:0">` + d.equipos.map(eq => {
-    const ps = (d.porEquipo[eq] || []);
-    const g = ps.filter(x => x.gf > x.gc).length, e = ps.filter(x => x.gf === x.gc).length, pe = ps.length - g - e;
-    const nAl = d.bajas[eq]?.alertas.filter(a => a.nivel === 'alta').length || 0;
-    return `<a class="match" style="grid-template-columns:1fr auto" href="${link(cat, 'equipo', eq)}"><span class="t">${crest(eq)}<span>${esc(eq)}</span></span>
-      <span class="small muted">${ps.length} PJ · ${g}G ${e}E ${pe}P${nAl ? ` · <b style="color:var(--red)">${nAl} baja${nAl > 1 ? 's' : ''}</b>` : ''}</span></a>`;
-  }).join('') + `</div>`;
-}
-
 let orden = { k: 'min', dir: -1 };
 function vEquipo(d, cat, eq) {
   const ps = (d.porEquipo[eq] || []).filter(x => x.p.planilla);
@@ -761,9 +784,9 @@ function vEquipo(d, cat, eq) {
   const th = (key, txt) => `<th data-k="${key}"${orden.k === key ? ' aria-sort="' + (orden.dir < 0 ? 'descending' : 'ascending') + '"' : ''}>${txt}</th>`;
   const todos = d.porEquipo[eq];
   const g = todos.filter(x => x.gf > x.gc).length, e = todos.filter(x => x.gf === x.gc).length;
-  const b = d.bajas[eq];
-  return `<a class="back" href="${link(cat, 'equipos')}">← Equipos</a>
-  <div class="row">${crest(eq, true)}<div style="flex:1;min-width:0"><h2>${esc(eq)}</h2><div class="small muted">${todos.length} PJ · ${g}G ${e}E ${todos.length - g - e}P · GF ${todos.reduce((s, x) => s + x.gf, 0)} · GC ${todos.reduce((s, x) => s + x.gc, 0)}</div></div></div>
+  const b = d.bajas[eq], pu = puestoEquipo(d, eq);
+  return `<a class="back" href="${link(cat, 'tabla', pu?.etapa || '')}">← Tabla</a>
+  <div class="row">${crest(eq, true)}<div style="flex:1;min-width:0"><h2>${esc(eq)}</h2><div class="small muted">${pu ? `<a href="${link(cat, 'tabla', pu.etapa)}"><b>${pu.puesto}° en ${esc(pu.etapa)}</b> · ${pu.pts} pts</a> · ` : ''}${todos.length} PJ · ${g}G ${e}E ${todos.length - g - e}P · GF ${todos.reduce((s, x) => s + x.gf, 0)} · GC ${todos.reduce((s, x) => s + x.gc, 0)}</div></div></div>
   <div class="row" style="flex-wrap:wrap;gap:8px">${b?.proximo ? `<a class="share" href="${link(cat, 'previa', (b.proximo.local ? eq + '~' + b.proximo.rival : b.proximo.rival + '~' + eq))}">Previa vs ${esc(b.proximo.rival)} · ${fDia(b.proximo.dia)}</a>` : ''}<button class="share" id="seguir" onclick="seguir('${cat}', ${esc(JSON.stringify(eq))})">☆ Hacer mi equipo</button></div>
   ${b?.alertas.length || b?.pendientes?.length ? `<section class="fixture"><div class="fixture-h"><b>Posibles bajas</b><span>${b.proximo ? 'Próximo: vs ' + esc(b.proximo.rival) + ' · ' + fDia(b.proximo.dia) : ''}</span></div><div class="side">${pend(b)}${b.alertas.map(a => `<div class="alert"><b class="lvl ${a.nivel}">${a.nivel}</b>${a.carne ? `<a href="${link(cat, 'jugador', a.carne)}">${esc(a.nombre)}</a>` : `<b>${esc(a.nombre)}</b>`}<span>${esc(a.texto)}</span></div>`).join('')}</div></section>` : ''}
   <div class="stack"><h3>Plantel</h3><p class="lede small">Tocá un encabezado para ordenar. En los últimos 5, la barra es el tiempo jugado: verde oscuro si fue titular, claro si entró desde el banco, punteado si no jugó y la esquina roja es una expulsión.</p></div>
@@ -984,46 +1007,61 @@ function racha(d, eq, n = 5) {
     .map(x => ({ r: x.gf > x.gc ? 'G' : x.gf < x.gc ? 'P' : 'E', x }));
 }
 const formaHtml = (d, eq) => `<span class="forma" aria-label="Últimos 5">${racha(d, eq).map(({ r, x }) => `<b class="${r}" title="${x.gf}-${x.gc} vs ${esc(x.rival)} (${fDia(x.p.dia)})">${r}</b>`).join('')}</span>`;
-// Tabla de cada etapa. Manda la tabla oficial de la Liga (data/posiciones.json), que incluye los partidos
-// que da el Tribunal y los formatos especiales. Si no está, se calcula como el reglamento (art. 3): en la
-// segunda etapa cada equipo conserva lo de la primera rueda, así que cuenta toda la temporada. Orden:
-// puntos, diferencia de gol, goles a favor y, si siguen empatados, puntos, diferencia y goles a favor en
-// los partidos entre ellos. La misma cuenta está en scripts/picantes.mjs.
+// Tabla de cada etapa. Manda la tabla oficial de la Liga (data/posiciones.json, con PJ, goles y puntos),
+// que incluye los partidos que da el Tribunal y los formatos especiales. Si no está, se calcula como el
+// reglamento (art. 3): la primera fase (primera rueda o series) y las copas cuentan solo sus partidos; en
+// título, ascenso y permanencia cada equipo conserva lo de la primera rueda, así que cuenta toda la
+// temporada. Orden: puntos, diferencia de gol, goles a favor y, si siguen empatados, lo mismo en los
+// partidos entre ellos. Es la misma cuenta que filasCalculadas() en scripts/picantes.mjs.
+const primeraFase = et => /^(primera rueda|serie \d+)$/i.test(et || '');
+const soloSusPartidos = et => primeraFase(et) || /^copa/i.test(et || '');
+function filasCalculadas(d, etapa, equipos) {
+  const jugados = d.partidos.filter(p => p.gl != null && p.gv != null && (!soloSusPartidos(etapa) || p.etapa === etapa));
+  const tabla = solo => {
+    const t = {};
+    const suma = (eq, gf, gc) => { const x = t[eq] ||= { pj: 0, g: 0, e: 0, p: 0, gf: 0, gc: 0, pts: 0 }; x.pj++; x[gf > gc ? 'g' : gf === gc ? 'e' : 'p']++; x.gf += gf; x.gc += gc; x.pts += gf > gc ? 3 : gf === gc ? 1 : 0; };
+    for (const p of jugados) if (!solo || (solo.has(p.local) && solo.has(p.visitante))) { suma(p.local, p.gl, p.gv); suma(p.visitante, p.gv, p.gl); }
+    return t;
+  };
+  const total = tabla();
+  const cero = { pj: 0, g: 0, e: 0, p: 0, gf: 0, gc: 0, pts: 0 };
+  const cmp = t => (a, b) => { const x = t[a] || cero, y = t[b] || cero; return y.pts - x.pts || (y.gf - y.gc) - (x.gf - x.gc) || y.gf - x.gf; };
+  const orden = [...equipos].sort(cmp(total));
+  // Empatados en puntos, diferencia y goles: decide lo que hicieron entre ellos.
+  for (let i = 0; i < orden.length;) {
+    let j = i + 1;
+    while (j < orden.length && cmp(total)(orden[i], orden[j]) === 0) j++;
+    if (j - i > 1) { const run = orden.slice(i, j); orden.splice(i, j - i, ...run.sort(cmp(tabla(new Set(run))))); }
+    i = j;
+  }
+  return orden.map(eq => { const x = total[eq] || cero; return [eq, x.pj, x.g, x.e, x.p, x.gf, x.gc, x.pts]; });
+}
+// Equipos de cada etapa: los que jugaron en ella o tienen partido programado.
+function gruposDe(d) {
+  const g = {};
+  for (const p of d.partidos) for (const eq of [p.local, p.visitante]) (g[p.etapa] ||= new Set()).add(eq);
+  for (const f of Object.values(d.previas || {})) for (const eq of [f.l, f.v]) (g[f.etapa] ||= new Set()).add(eq);
+  return g;
+}
+// La tabla de una etapa: { fuente: 'oficial' | 'calculada', filas: [[equipo, PJ, G, E, P, GF, GC, Pts], ...] }.
+function tablaDe(d, etapa) {
+  const t = POSICIONES?.divisionales?.[d.id]?.[etapa];
+  if (t?.filas) return { fuente: t.fuente, filas: t.filas };
+  const g = gruposDe(d)[etapa];
+  return g ? { fuente: 'calculada', filas: filasCalculadas(d, etapa, g) } : null;
+}
 const tablas = new WeakMap();
 function posiciones(d) {
   if (tablas.has(d)) return tablas.get(d);
-  const jugados = d.partidos.filter(p => p.gl != null && p.gv != null);
-  const tabla = (lista, solo) => {
-    const t = {};
-    const suma = (eq, gf, gc) => { const x = t[eq] ||= { pts: 0, dg: 0, gf: 0 }; x.pts += gf > gc ? 3 : gf === gc ? 1 : 0; x.dg += gf - gc; x.gf += gf; };
-    for (const p of lista) if (!solo || (solo.has(p.local) && solo.has(p.visitante))) { suma(p.local, p.gl, p.gv); suma(p.visitante, p.gv, p.gl); }
-    return t;
-  };
-  const total = tabla(jugados);
-  const cero = { pts: 0, dg: 0, gf: 0 };
-  const cmp = t => (a, b) => (t[b] || cero).pts - (t[a] || cero).pts || (t[b] || cero).dg - (t[a] || cero).dg || (t[b] || cero).gf - (t[a] || cero).gf;
-  const grupos = {};
-  for (const p of d.partidos) for (const eq of [p.local, p.visitante]) (grupos[p.etapa] ||= new Set()).add(eq);
-  for (const f of Object.values(d.previas || {})) for (const eq of [f.l, f.v]) (grupos[f.etapa] ||= new Set()).add(eq);
   const pos = {};
-  for (const [et, g] of Object.entries(grupos)) {
-    const orden = [...g].sort(cmp(total));
-    // Empatados en puntos, diferencia y goles: decide lo que hicieron entre ellos.
-    for (let i = 0; i < orden.length;) {
-      let j = i + 1;
-      while (j < orden.length && cmp(total)(orden[i], orden[j]) === 0) j++;
-      if (j - i > 1) { const run = orden.slice(i, j); orden.splice(i, j - i, ...run.sort(cmp(tabla(jugados, new Set(run))))); }
-      i = j;
-    }
-    pos[et] = Object.fromEntries(orden.map((eq, i) => [eq, i + 1]));
-  }
+  for (const [et, g] of Object.entries(gruposDe(d))) pos[et] = Object.fromEntries(filasCalculadas(d, et, g).map((f, i) => [f[0], i + 1]));
   for (const [et, t] of Object.entries(POSICIONES?.divisionales?.[d.id] || {})) if (t.pos) pos[et] = t.pos;
   tablas.set(d, pos);
   return pos;
 }
 // Qué tan picante es un partido: primero el grupo de arriba (título y ascenso), después la copa de plata
 // y al final la permanencia; dentro de cada grupo, primero los cruces entre los mejor ubicados.
-const pesoEtapa = e => /permanencia|descenso/i.test(e || '') ? 2 : /plata/i.test(e || '') ? 1 : 0;
+const pesoEtapa = e => /permanencia|descenso/i.test(e || '') ? 2 : /plata|bronce|competencia|confraternidad|amistad/i.test(e || '') ? 1 : 0;
 function puesto(d, f) {
   const t = posiciones(d)[f.etapa] || {};
   return { l: t[f.l], v: t[f.v] };
@@ -1057,6 +1095,114 @@ function general(d, f) { const p = puesto(d, f), b = base(d, f.etapa); return { 
 const puestosHtml = (d, f) => { const p = general(d, f); return p.l && p.v ? `<span class="pos">${p.l}° vs ${p.v}°</span>` : ''; };
 const picanteHtml = (d, f) => tagPicante(picante(d, f));
 const previasOrden = d => { const c = importancia(d); return Object.entries(d.previas || {}).sort((a, b) => c(a[1], b[1])); };
+
+// ---------- tabla ----------
+// Grupos que muestra la sección Tabla: los de la fecha que viene (o los del último partido jugado, si no
+// hay fecha programada) y, en las divisionales de verdad (no las copas de Sub 18 y Sub 16), la primera
+// fase. Misma regla que etapasTabla() en scripts/picantes.mjs.
+function etapasTabla(d, letra) {
+  const g = gruposDe(d);
+  let actuales = [...new Set(Object.values(d.previas || {}).map(f => f.etapa))];
+  if (!actuales.length) {
+    const ult = d.partidos.map(p => p.dia).sort().at(-1);
+    actuales = [...new Set(d.partidos.filter(p => p.dia === ult).map(p => p.etapa))];
+  }
+  actuales.sort((a, b) => primeraFase(a) - primeraFase(b) || pesoEtapa(a) - pesoEtapa(b));
+  const primeras = letra?.length === 1 ? Object.keys(g).filter(primeraFase).sort() : actuales.filter(primeraFase);
+  return [...actuales.filter(et => !primeraFase(et)), ...primeras].filter(et => g[et]);
+}
+// La racha que vale la pena mostrar: 3 o más iguales seguidos, o 4 o más sin perder / sin ganar.
+function rachaTexto(d, eq) {
+  const rs = racha(d, eq, 99).map(x => x.r);
+  const seguidos = pred => { let n = 0; for (let i = rs.length - 1; i >= 0 && pred(rs[i]); i--) n++; return n; };
+  const ult = rs.at(-1), n = seguidos(r => r === ult);
+  if (ult === 'G' && n >= 3) return [`${n} ganados seguidos`, 'up'];
+  if (ult === 'P' && n >= 3) return [`${n} perdidos seguidos`, 'dn'];
+  const sinPerder = seguidos(r => r !== 'P'), sinGanar = seguidos(r => r !== 'G');
+  if (sinPerder >= 4) return [`${sinPerder} sin perder`, 'up'];
+  if (sinGanar >= 4) return [`${sinGanar} sin ganar`, 'dn'];
+  if (ult === 'E' && n >= 3) return [`${n} empates seguidos`, ''];
+  return null;
+}
+// Próximo partido de un equipo, con la previa y la posición del rival.
+function proximoDe(d, eq) {
+  const b = d.bajas[eq]?.proximo;
+  if (!b) return null;
+  const k = b.local ? `${eq}~${b.rival}` : `${b.rival}~${eq}`, f = d.previas?.[k];
+  const p = f ? general(d, f) : {};
+  return { rival: b.rival, dia: b.dia, k: f ? k : null, pos: b.local ? p.v : p.l };
+}
+// Una fila de la tabla. op.sub = false saca la segunda línea; op.hl marca la fila; op.prox = false saca
+// el próximo rival (en la previa ya se sabe).
+function filaTabla(d, cat, f, puesto, op = {}) {
+  const [eq, pj, g, e, p, gf, gc, pts] = f, dg = gf - gc;
+  const r = rachaTexto(d, eq), nAl = d.bajas[eq]?.alertas.filter(a => a.nivel === 'alta').length || 0, px = op.prox !== false && proximoDe(d, eq);
+  const sub = op.sub === false ? '' : `<div class="tb-s"><span class="tb-dots" aria-label="Últimos 5">${racha(d, eq).map(({ r, x }) => `<i class="${r}" title="${x.gf}-${x.gc} vs ${esc(x.rival)} (${fDia(x.p.dia)})"></i>`).join('')}</span>
+    ${r ? `<span class="tag ${r[1]}">${r[0]}</span>` : ''}${nAl ? `<span class="tb-al">${nAl} baja${nAl > 1 ? 's' : ''}</span>` : ''}
+    ${px ? `<span class="tb-px">${px.k ? `<a href="${link(cat, 'previa', px.k)}">vs ${esc(px.rival)}${px.pos ? ` (${px.pos}°)` : ''}</a>` : `vs ${esc(px.rival)}`}</span>` : ''}</div>`;
+  return `<div class="tb-r${op.cut ? ' cut' : ''}${op.hl ? ' hl' : ''}" data-eq="${esc(eq)}"><span class="tb-p">${puesto}</span>
+    <a class="tb-n" href="${link(cat, 'equipo', eq)}">${crest(eq)}<span>${esc(eq)}</span></a>
+    <span class="tb-x">${pj}</span><span class="tb-x">${g}</span><span class="tb-x">${e}</span><span class="tb-x">${p}</span><span class="tb-x">${gf}:${gc}</span>
+    <span class="tb-dg">${dg > 0 ? '+' : ''}${dg}</span><span class="tb-pts">${pts}</span>${sub}</div>`;
+}
+const cabezaTabla = () => `<div class="tb-r tb-h" aria-hidden="true"><span class="tb-p">#</span><span>Equipo</span><span class="tb-x">PJ</span><span class="tb-x">G</span><span class="tb-x">E</span><span class="tb-x">P</span><span class="tb-x">Goles</span><span class="tb-dg">DG</span><span class="tb-pts">Pts</span></div>`;
+// Líneas de la tabla: en el grupo de arriba, debajo del 4° (los que pelean el título); en la primera rueda
+// de 16, debajo del 8° (pasan al título); en la permanencia, arriba de los 4 últimos (el descenso).
+function corte(etapa, i, n) {
+  if (primeraFase(etapa)) return n === 16 && i === 8;
+  const peso = pesoEtapa(etapa);
+  if (peso === 0) return i === 4 && n > 5;
+  if (peso === 2) return n >= 6 && i === n - 4;
+  return false;
+}
+function vTabla(d, cat, arg) {
+  const etapas = etapasTabla(d, DIVS[cat].letra);
+  if (!etapas.length) return `<h2>Tabla</h2><div class="empty">Todavía no hay partidos jugados en ${esc(DIVS[cat].nombre)}.</div>`;
+  const et = etapas.includes(arg) ? arg : etapas[0];
+  const T = tablaDe(d, et), b = base(d, et), n = T.filas.length;
+  const notas = { 0: 'Debajo de la línea punteada: los cuatro que pelean el título.', 2: 'Arriba de la línea punteada: los cuatro que pelean por no descender.' };
+  const nota = primeraFase(et) ? (n === 16 ? 'Los 8 de arriba pasan al título; los otros 8, a la permanencia.' : '') : notas[pesoEtapa(et)] || '';
+  return `<div class="stack"><h2>Tabla</h2><p class="lede">Abajo de cada equipo: los últimos 5, la racha, las bajas de nivel alto de la próxima fecha y contra quién juega.</p></div>
+  ${etapas.length > 1 ? `<div class="chips" role="group" aria-label="Grupo">${etapas.map(x => `<a class="chip" href="${link(cat, 'tabla', x)}" aria-pressed="${x === et}">${esc(x)}</a>`).join('')}</div>` : ''}
+  <div class="tb" id="tabla">${cabezaTabla()}${T.filas.map((f, i) => filaTabla(d, cat, f, i + 1 + b, { cut: corte(et, i, n) })).join('')}</div>
+  <p class="small muted" style="margin:0">${esc(et)}${nota ? ' · ' + nota : ''}${T.fuente === 'oficial' ? ' Tabla oficial de la Liga (incluye los partidos que da el Tribunal).' : ' Calculada con los resultados: la Liga todavía no publicó esta tabla.'}</p>`;
+}
+// En la tabla, el equipo de "Mi equipo" queda marcado.
+async function marcarMiEquipo(cat) {
+  const k = leer('club'), el = $('#tabla');
+  if (!k || !el) return;
+  try {
+    const C = await clubes();
+    for (const e of C[k]?.equipos || []) if (e.div === cat) el.querySelector(`.tb-r[data-eq="${CSS.escape(e.equipo)}"]`)?.classList.add('mio');
+  } catch {}
+}
+// En la previa: la tabla del grupo con los dos equipos marcados y qué los separa.
+function vQueSeJuegan(d, cat, f) {
+  const T = tablaDe(d, f.etapa);
+  if (!T) return '';
+  const filas = T.filas, n = filas.length, b = base(d, f.etapa);
+  const il = filas.findIndex(x => x[0] === f.l), iv = filas.findIndex(x => x[0] === f.v);
+  if (il < 0 || iv < 0) return '';
+  const desde = n <= 10 ? 0 : Math.max(0, Math.min(il, iv) - 2), hasta = n <= 10 ? n : Math.min(n, Math.max(il, iv) + 3);
+  const pts = i => filas[i][7], dif = x => `${x} punto${x === 1 ? '' : 's'}`;
+  const linea = i => {
+    const eq = esc(filas[i][0]);
+    if (pesoEtapa(f.etapa) === 2) return i === n - 1 ? `${eq} está último, a ${dif(pts(n - 2) - pts(i))} del ${n - 1 + b}°.` : `${eq} le saca ${dif(pts(i) - pts(n - 1))} al último.`;
+    if (i === 0) return pts(0) === pts(1) ? `${eq} es puntero, igualado con el 2°.` : `${eq} es puntero, ${dif(pts(0) - pts(1))} arriba del 2°.`;
+    return pts(i) === pts(0) ? `${eq} está igualado en puntos con el puntero.` : `${eq} está a ${dif(pts(0) - pts(i))} del puntero.`;
+  };
+  const sep = Math.abs(pts(il) - pts(iv));
+  return `<div class="stack"><h3>Qué se juegan</h3><p class="lede small">${esc(f.etapa)}${T.fuente === 'oficial' ? ', tabla oficial de la Liga' : ''}. <a href="${link(cat, 'tabla', f.etapa)}">Ver la tabla completa</a></p></div>
+  <div class="tb">${cabezaTabla()}${filas.slice(desde, hasta).map((x, j) => filaTabla(d, cat, x, desde + j + 1 + b, { hl: x[0] === f.l || x[0] === f.v, prox: false, cut: corte(f.etapa, desde + j, n) && j > 0 })).join('')}</div>
+  <div class="card small" style="display:grid;gap:4px"><span>${linea(Math.min(il, iv))}</span><span>${linea(Math.max(il, iv))}</span><span class="muted">${sep ? `Los separan ${dif(sep)}.` : 'Están igualados en puntos.'}</span></div>`;
+}
+// Posición del equipo en el grupo de su próximo partido (o del último jugado), para su página.
+function puestoEquipo(d, eq) {
+  const px = d.bajas[eq]?.proximo, prev = px && Object.values(d.previas || {}).find(f => f.l === eq || f.v === eq);
+  const etapa = prev?.etapa || (d.porEquipo[eq] || []).map(x => x.p).sort((a, b) => (a.dia + a.hora).localeCompare(b.dia + b.hora)).at(-1)?.etapa;
+  const T = etapa && tablaDe(d, etapa), i = T ? T.filas.findIndex(x => x[0] === eq) : -1;
+  return i < 0 ? null : { etapa, puesto: i + 1 + base(d, etapa), pts: T.filas[i][7] };
+}
 // Goles a favor y en contra por tramo de 15 minutos, en la divisional.
 function tramosGoles(d, eq) {
   const T = [[0, 15], [16, 30], [31, 45], [46, 60], [61, 75], [76, 200]];
@@ -1128,6 +1274,7 @@ function vPrevia(d, cat, k) {
     <div class="bigscore"><a href="${link(cat, 'equipo', f.l)}">${crest(f.l, true)}${esc(f.l)}</a><span class="score" style="background:var(--surface-2);color:var(--muted);font-size:1.4rem">vs</span><a href="${link(cat, 'equipo', f.v)}">${crest(f.v, true)}${esc(f.v)}</a></div>
     <div class="bigscore" style="font-size:.78rem;color:var(--muted)"><span>${formaHtml(d, f.l)}<br>${resumen(f.l)}</span><span></span><span>${formaHtml(d, f.v)}<br>${resumen(f.v)}</span></div>
     <div class="row" style="justify-content:center"><button class="share" onclick="compartirPrevia()">${ICONO_COMPARTIR}<span>Compartir la previa</span></button></div></div>
+  ${vQueSeJuegan(d, cat, f)}
   <section class="fixture"><div class="fixture-h"><b>Bajas</b><a href="${link(cat, 'bajas')}">todas las de la fecha</a></div>${bajasDe(f.l)}${bajasDe(f.v)}</section>
   <div class="stack"><h3>Once probable</h3><p class="lede small">Armado con los titulares de los últimos 5 partidos (el último pesa mucho más). El % es cuántas veces fue titular en ese tramo; los suspendidos quedan afuera y las dudas aparecen marcadas.${ACIERTOS?.divisionales?.[cat] ? ` En ${esc(DIVS[cat].nombre)} acierta ${coma(ACIERTOS.divisionales[cat].promedio)} de 11 titulares por partido (<a href="${link(cat, 'bajas', 'aciertos')}">cómo se mide</a>).` : ''}</p></div>
   <div class="two">${vOnce(d, cat, f.l)}${vOnce(d, cat, f.v)}</div>
@@ -1309,12 +1456,13 @@ async function render() {
   try { d = await datos(cat); }
   catch (e) { main.innerHTML = `<div class="empty">${esc(e.message)}</div>`; return; }
   const arg = rest.join('/');
-  const v = { bajas: () => vBajas(d, cat, arg), equipos: () => vEquipos(d, cat), equipo: () => vEquipo(d, cat, arg), jugadores: () => vJugadores(d, cat, arg),
+  const v = { bajas: () => vBajas(d, cat, arg), equipos: () => vTabla(d, cat, arg), tabla: () => vTabla(d, cat, arg), equipo: () => vEquipo(d, cat, arg), jugadores: () => vJugadores(d, cat, arg),
     jugador: () => vJugador(d, cat, arg), partidos: () => vPartidos(d, cat), partido: () => vPartido(d, cat, arg),
     rankings: () => vRankings(d, cat), sanciones: () => vSanciones(d, cat),
     previas: () => vPartidos(d, cat), previa: () => vPrevia(d, cat, arg), inicio: () => vInicio(d, cat) }[tab] || (() => vInicio(d, cat));
   main.innerHTML = v();
   if ($('#picantes')) pintarPicantes();
+  if ($('#tabla')) marcarMiEquipo(cat);
   if (tab !== 'inicio' || !d.previas) { if (!['inicio'].includes(tab)) $('#hero').innerHTML = ''; }
   encabezar(cat);
   const act = new Date(d.actualizado);
