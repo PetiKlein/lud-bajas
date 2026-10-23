@@ -397,7 +397,9 @@ details.more summary{cursor:pointer;font-weight:600;padding:12px 16px}
 .tb-r.cut{border-top:1.5px dashed var(--line-strong)}
 .tb-r.hl{background:rgba(236,232,220,.06);box-shadow:inset 3px 0 0 var(--fg)}
 .tb-r.mio{background:var(--primary-soft);box-shadow:inset 3px 0 0 var(--primary)}
-.tb-p{font-family:var(--font-heading);font-weight:900;font-size:1.25rem;color:var(--muted);text-align:right;line-height:1}
+.tb-p{display:flex;flex-direction:column;align-items:flex-end;gap:3px;font-family:var(--font-heading);font-weight:900;font-size:1.25rem;color:var(--muted);text-align:right;line-height:1}
+.tb-mv{font-family:var(--font-mono);font-weight:500;font-size:.68rem;letter-spacing:0;line-height:1}
+.tb-mv.up{color:var(--win)}.tb-mv.dn{color:var(--danger)}
 .tb-n{display:flex;align-items:center;gap:9px;min-width:0;color:var(--fg);text-decoration:none;font-weight:600}
 .tb-n span:last-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .tb-n:hover span:last-child{text-decoration:underline}
@@ -1188,10 +1190,29 @@ function filaTabla(d, cat, f, puesto, op = {}) {
   const sub = op.sub === false ? '' : `<div class="tb-s"><span class="tb-dots" aria-label="Últimos 5">${racha(d, eq).map(({ r, x }) => `<i class="${r}" title="${x.gf}-${x.gc} vs ${esc(x.rival)} (${fDia(x.p.dia)})"></i>`).join('')}</span>
     ${r ? `<span class="tag ${r[1]}">${r[0]}</span>` : ''}${nAl ? `<span class="tb-al">${nAl} baja${nAl > 1 ? 's' : ''}</span>` : ''}
     ${px && libre(px.rival) ? '<span class="tb-px">Libre esta fecha</span>' : px ? `<span class="tb-px">${px.k ? `<a href="${link(cat, 'previa', px.k)}">vs ${esc(px.rival)}${px.pos ? ` (${px.pos}°)` : ''}</a>` : `vs ${esc(px.rival)}`}</span>` : ''}</div>`;
-  return `<div class="tb-r${op.cut ? ' cut' : ''}${op.hl ? ' hl' : ''}" data-eq="${esc(eq)}"><span class="tb-p">${puesto}</span>
+  const mv = op.mov ? `<span class="tb-mv ${op.mov > 0 ? 'up' : 'dn'}" title="${op.mov > 0 ? 'Subió' : 'Bajó'} ${Math.abs(op.mov)} con la última fecha">${op.mov > 0 ? '▲' : '▼'}${Math.abs(op.mov)}</span>` : '';
+  return `<div class="tb-r${op.cut ? ' cut' : ''}${op.hl ? ' hl' : ''}" data-eq="${esc(eq)}"><span class="tb-p">${puesto}${mv}</span>
     <a class="tb-n" href="${link(cat, 'equipo', eq)}">${crest(eq)}<span>${esc(eq)}</span></a>
     <span class="tb-x">${pj}</span><span class="tb-x">${g}</span><span class="tb-x">${e}</span><span class="tb-x">${p}</span><span class="tb-x">${gf}:${gc}</span>
     <span class="tb-dg">${dg > 0 ? '+' : ''}${dg}</span><span class="tb-pts">${pts}</span>${sub}</div>`;
+}
+// Cuántos puestos ganó o perdió cada equipo con la última fecha jugada del grupo: a la tabla de hoy (la
+// oficial) se le restan los resultados de esa fecha, y se compara con cómo quedaba. En la primera fecha no
+// hay flechas (no hay "antes"). Devuelve { fecha, mov: { equipo: +2 | -1 | 0 } }.
+function movimientos(d, etapa, filas) {
+  const R = d.partidos.filter(p => p.etapa === etapa && p.gl != null && p.gv != null && p.fecha != null);
+  const ult = Math.max(0, ...R.map(p => +p.fecha));
+  if (ult < 2) return null;
+  const antes = Object.fromEntries(filas.map((f, i) => [f[0], { pts: f[7], gf: f[5], gc: f[6], i }]));
+  for (const p of R.filter(p => +p.fecha === ult)) for (const [eq, a, b] of [[p.local, p.gl, p.gv], [p.visitante, p.gv, p.gl]]) {
+    const x = antes[eq];
+    if (!x) continue;
+    x.pts -= a > b ? 3 : a === b ? 1 : 0; x.gf -= a; x.gc -= b;
+  }
+  // Mismo orden que la tabla (puntos, diferencia, goles); si empatan, queda como hoy, para no inventar movimientos.
+  const orden = Object.keys(antes).sort((a, b) => { const x = antes[a], y = antes[b]; return y.pts - x.pts || (y.gf - y.gc) - (x.gf - x.gc) || y.gf - x.gf || x.i - y.i; });
+  const era = Object.fromEntries(orden.map((eq, i) => [eq, i]));
+  return { fecha: ult, mov: Object.fromEntries(filas.map((f, i) => [f[0], era[f[0]] - i])) };
 }
 const cabezaTabla = () => `<div class="tb-r tb-h" aria-hidden="true"><span class="tb-p">#</span><span>Equipo</span><span class="tb-x">PJ</span><span class="tb-x">G</span><span class="tb-x">E</span><span class="tb-x">P</span><span class="tb-x">Goles</span><span class="tb-dg">DG</span><span class="tb-pts">Pts</span></div>`;
 // Líneas de la tabla: en el grupo de arriba, debajo del 4° (los que pelean el título); en la primera rueda
@@ -1207,13 +1228,13 @@ function vTabla(d, cat, arg) {
   const etapas = etapasTabla(d, DIVS[cat].letra);
   if (!etapas.length) return `<h2>Tabla</h2><div class="empty">Todavía no hay partidos jugados en ${esc(DIVS[cat].nombre)}.</div>`;
   const et = etapas.includes(arg) ? arg : etapas[0];
-  const T = tablaDe(d, et), b = base(d, et), n = T.filas.length;
+  const T = tablaDe(d, et), b = base(d, et), n = T.filas.length, M = movimientos(d, et, T.filas);
   const notas = { 0: 'Debajo de la línea punteada: los cuatro que pelean el título.', 2: 'Arriba de la línea punteada: los cuatro que pelean por no descender.' };
   const nota = primeraFase(et) ? (n === 16 ? 'Los 8 de arriba pasan al título; los otros 8, a la permanencia.' : '') : notas[pesoEtapa(et)] || '';
   return `<div class="stack"><h2>Tabla</h2><p class="lede">Abajo de cada equipo: los últimos 5, la racha, las bajas de nivel alto de la próxima fecha y contra quién juega.</p></div>
   ${etapas.length > 1 ? `<div class="chips" role="group" aria-label="Grupo">${etapas.map(x => `<a class="chip" href="${link(cat, 'tabla', x)}" aria-pressed="${x === et}">${esc(x)}</a>`).join('')}</div>` : ''}
-  <div class="tb" id="tabla">${cabezaTabla()}${T.filas.map((f, i) => filaTabla(d, cat, f, i + 1 + b, { cut: corte(et, i, n) })).join('')}</div>
-  <p class="small muted" style="margin:0">${esc(et)}${nota ? ' · ' + nota : ''}${T.fuente === 'oficial' ? ' Tabla oficial de la Liga (incluye los partidos que da el Tribunal).' : ' Calculada con los resultados: la Liga todavía no publicó esta tabla.'}</p>`;
+  <div class="tb" id="tabla">${cabezaTabla()}${T.filas.map((f, i) => filaTabla(d, cat, f, i + 1 + b, { cut: corte(et, i, n), mov: M?.mov[f[0]] })).join('')}</div>
+  <p class="small muted" style="margin:0">${esc(et)}${nota ? ' · ' + nota : ''}${M ? ` Las flechas: puestos que ganó o perdió con la fecha ${M.fecha}.` : ''}${T.fuente === 'oficial' ? ' Tabla oficial de la Liga (incluye los partidos que da el Tribunal).' : ' Calculada con los resultados: la Liga todavía no publicó esta tabla.'}</p>`;
 }
 // En la tabla, el equipo de "Mi equipo" queda marcado.
 async function marcarMiEquipo(cat) {
@@ -1228,7 +1249,7 @@ async function marcarMiEquipo(cat) {
 function vQueSeJuegan(d, cat, f) {
   const T = tablaDe(d, f.etapa);
   if (!T) return '';
-  const filas = T.filas, n = filas.length, b = base(d, f.etapa);
+  const filas = T.filas, n = filas.length, b = base(d, f.etapa), M = movimientos(d, f.etapa, filas);
   const il = filas.findIndex(x => x[0] === f.l), iv = filas.findIndex(x => x[0] === f.v);
   if (il < 0 || iv < 0) return '';
   const desde = n <= 10 ? 0 : Math.max(0, Math.min(il, iv) - 2), hasta = n <= 10 ? n : Math.min(n, Math.max(il, iv) + 3);
@@ -1241,7 +1262,7 @@ function vQueSeJuegan(d, cat, f) {
   };
   const sep = Math.abs(pts(il) - pts(iv));
   return `<div class="stack"><h3>Qué se juegan</h3><p class="lede small">${esc(f.etapa)}${T.fuente === 'oficial' ? ', tabla oficial de la Liga' : ''}. <a href="${link(cat, 'tabla', f.etapa)}">Ver la tabla completa</a></p></div>
-  <div class="tb">${cabezaTabla()}${filas.slice(desde, hasta).map((x, j) => filaTabla(d, cat, x, desde + j + 1 + b, { hl: x[0] === f.l || x[0] === f.v, prox: false, cut: corte(f.etapa, desde + j, n) && j > 0 })).join('')}</div>
+  <div class="tb">${cabezaTabla()}${filas.slice(desde, hasta).map((x, j) => filaTabla(d, cat, x, desde + j + 1 + b, { hl: x[0] === f.l || x[0] === f.v, prox: false, cut: corte(f.etapa, desde + j, n) && j > 0, mov: M?.mov[x[0]] })).join('')}</div>
   <div class="card small" style="display:grid;gap:4px"><span>${linea(Math.min(il, iv))}</span><span>${linea(Math.max(il, iv))}</span><span class="muted">${sep ? `Los separan ${dif(sep)}.` : 'Están igualados en puntos.'}</span></div>`;
 }
 // Posición del equipo en el grupo de su próximo partido (o del último jugado), para su página.
