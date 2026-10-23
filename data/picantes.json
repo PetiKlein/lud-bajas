@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23T06:31:21.411Z",
+ "actualizado": "2026-10-23T16:51:39.110Z",
  "partidos": [
   {
    "div": "sub20-a",
@@ -359,6 +359,23 @@
    "altasV": 1
   },
   {
+   "div": "reserva-c",
+   "divNombre": "Reserva C",
+   "k": "La Blanqueada~Old Brendans Verde",
+   "l": "La Blanqueada",
+   "v": "Old Brendans Verde",
+   "dia": "2026-10-24",
+   "hora": "11:15",
+   "etapa": "Permanencia",
+   "pl": 6,
+   "pv": 7,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 3,
+   "altasV": 3
+  },
+  {
    "div": "mas40-a",
    "divNombre": "Más 40 A",
    "k": "X - 13 Universitario~Crandon Universitario",
@@ -408,23 +425,6 @@
    "tipo": "titulo",
    "altasL": 1,
    "altasV": 0
-  },
-  {
-   "div": "reserva-c",
-   "divNombre": "Reserva C",
-   "k": "La Blanqueada~Old Brendans Verde",
-   "l": "La Blanqueada",
-   "v": "Old Brendans Verde",
-   "dia": "2026-10-24",
-   "hora": "11:15",
-   "etapa": "Permanencia",
-   "pl": 5,
-   "pv": 7,
-   "n": 8,
-   "base": 8,
-   "tipo": "descenso",
-   "altasL": 3,
-   "altasV": 3
   },
   {
    "div": "presenior-c",
