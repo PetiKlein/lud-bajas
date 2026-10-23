@@ -53,6 +53,11 @@ imagen que aparece al compartir el link por WhatsApp.
   primera rueda y los 4 que pelean por no descender. Tu equipo de "Mi equipo" queda marcado. Cada previa
   trae "Qué se juegan": la tabla del grupo con los dos equipos marcados y la distancia en puntos. Tocando
   un equipo se entra a su página: plantel con partidos, titularidades, minutos, goles y los últimos 5.
+- **Contador (arriba en todas las pestañas):** entradas a la página (cada apertura), los 3 partidos más vistos de
+  la temporada (la previa y la página del partido jugado suman juntas) y los 3 clubes favoritos (cuántos
+  celulares o compus lo tienen en Mi equipo). Se guarda en Supabase: el SQL está en `supabase/contador.sql` y
+  la web usa la clave pública, que solo puede llamar a esas funciones. Solo cuenta en la página publicada;
+  `?nocontar` en la dirección hace que ese navegador no cuente más (para no inflar con tus propias visitas).
 - **Jugadores:** ficha de cada uno, partido a partido (cuándo entró, cuándo salió, reingresos y goles).
 - **Detalle de cada partido jugado:** minuto a minuto y formaciones con los minutos de cada jugador.
 - **Rankings:** más minutos, goleadores, minutos por gol, los que siempre están en cancha, los que más
