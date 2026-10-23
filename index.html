@@ -1036,11 +1036,13 @@ function filasCalculadas(d, etapa, equipos) {
   }
   return orden.map(eq => { const x = total[eq] || cero; return [eq, x.pj, x.g, x.e, x.p, x.gf, x.gc, x.pts]; });
 }
-// Equipos de cada etapa: los que jugaron en ella o tienen partido programado.
+// Equipos de cada etapa: los que jugaron en ella o tienen partido programado ("Fecha Libre" no es un equipo:
+// es el que descansa esa fecha).
+const libre = eq => /^fecha libre$/i.test(eq || '');
 function gruposDe(d) {
   const g = {};
-  for (const p of d.partidos) for (const eq of [p.local, p.visitante]) (g[p.etapa] ||= new Set()).add(eq);
-  for (const f of Object.values(d.previas || {})) for (const eq of [f.l, f.v]) (g[f.etapa] ||= new Set()).add(eq);
+  for (const p of d.partidos) for (const eq of [p.local, p.visitante]) if (!libre(eq)) (g[p.etapa] ||= new Set()).add(eq);
+  for (const f of Object.values(d.previas || {})) for (const eq of [f.l, f.v]) if (!libre(eq)) (g[f.etapa] ||= new Set()).add(eq);
   return g;
 }
 // La tabla de una etapa: { fuente: 'oficial' | 'calculada', filas: [[equipo, PJ, G, E, P, GF, GC, Pts], ...] }.
@@ -1139,7 +1141,7 @@ function filaTabla(d, cat, f, puesto, op = {}) {
   const r = rachaTexto(d, eq), nAl = d.bajas[eq]?.alertas.filter(a => a.nivel === 'alta').length || 0, px = op.prox !== false && proximoDe(d, eq);
   const sub = op.sub === false ? '' : `<div class="tb-s"><span class="tb-dots" aria-label="Últimos 5">${racha(d, eq).map(({ r, x }) => `<i class="${r}" title="${x.gf}-${x.gc} vs ${esc(x.rival)} (${fDia(x.p.dia)})"></i>`).join('')}</span>
     ${r ? `<span class="tag ${r[1]}">${r[0]}</span>` : ''}${nAl ? `<span class="tb-al">${nAl} baja${nAl > 1 ? 's' : ''}</span>` : ''}
-    ${px ? `<span class="tb-px">${px.k ? `<a href="${link(cat, 'previa', px.k)}">vs ${esc(px.rival)}${px.pos ? ` (${px.pos}°)` : ''}</a>` : `vs ${esc(px.rival)}`}</span>` : ''}</div>`;
+    ${px && libre(px.rival) ? '<span class="tb-px">Libre esta fecha</span>' : px ? `<span class="tb-px">${px.k ? `<a href="${link(cat, 'previa', px.k)}">vs ${esc(px.rival)}${px.pos ? ` (${px.pos}°)` : ''}</a>` : `vs ${esc(px.rival)}`}</span>` : ''}</div>`;
   return `<div class="tb-r${op.cut ? ' cut' : ''}${op.hl ? ' hl' : ''}" data-eq="${esc(eq)}"><span class="tb-p">${puesto}</span>
     <a class="tb-n" href="${link(cat, 'equipo', eq)}">${crest(eq)}<span>${esc(eq)}</span></a>
     <span class="tb-x">${pj}</span><span class="tb-x">${g}</span><span class="tb-x">${e}</span><span class="tb-x">${p}</span><span class="tb-x">${gf}:${gc}</span>

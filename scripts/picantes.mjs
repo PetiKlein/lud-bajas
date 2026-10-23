@@ -86,11 +86,13 @@ export function etapasTabla(d, letra) {
   const primeras = letra?.length === 1 ? Object.keys(g).filter(primeraFase).sort() : actuales.filter(primeraFase);
   return [...actuales.filter(et => !primeraFase(et)), ...primeras].filter(et => g[et]);
 }
-// Equipos de cada etapa: los que jugaron en ella o tienen partido programado.
+// Equipos de cada etapa: los que jugaron en ella o tienen partido programado ("Fecha Libre" no es un equipo:
+// es el que descansa esa fecha).
+const libre = eq => /^fecha libre$/i.test(eq);
 function grupos(d) {
   const g = {};
-  for (const p of d.partidos) for (const eq of [p.local, p.visitante]) (g[p.etapa] ||= new Set()).add(eq);
-  for (const f of Object.values(d.previas || {})) for (const eq of [f.l, f.v]) (g[f.etapa] ||= new Set()).add(eq);
+  for (const p of d.partidos) for (const eq of [p.local, p.visitante]) if (!libre(eq)) (g[p.etapa] ||= new Set()).add(eq);
+  for (const f of Object.values(d.previas || {})) for (const eq of [f.l, f.v]) if (!libre(eq)) (g[f.etapa] ||= new Set()).add(eq);
   return g;
 }
 
@@ -108,7 +110,9 @@ async function oficial(div, serie, equipos) {
     const t = await r.json();
     fallasSeguidas = 0;
     const filas = t.map(x => [corto(x.Institucion), +x.PJ, +x.PG, +x.PE, +x.PP, +x.GF, +x.GC, +x.Puntos]);
-    if (!filas.length || filas.length !== equipos.size || !filas.every(f => equipos.has(f[0]))) return null;
+    if (!filas.length || !filas.every(f => equipos.has(f[0]))) return null;
+    // La Liga lista solo a los que ya jugaron en la etapa (pasa al arrancar las copas): el resto, abajo con cero.
+    for (const eq of equipos) if (!filas.some(f => f[0] === eq)) filas.push([eq, 0, 0, 0, 0, 0, 0, 0]);
     return filas;
   } catch { fallasSeguidas++; return null; }
 }
