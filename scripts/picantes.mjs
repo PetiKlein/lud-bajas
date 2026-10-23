@@ -105,7 +105,7 @@ async function oficial(div, serie, equipos) {
   if (fallasSeguidas >= 3) return null;
   try {
     const q = new URLSearchParams({ action: 'cargarPosiciones', temporada: TEMPORADA, deporte: 'F', torneo: div.torneo, categoria: div.categoria, serie });
-    const r = await fetch(`${API}?${q}`, { headers: { 'User-Agent': 'planilla-lud (github.com/PetiKlein/planilla-lud)' }, signal: AbortSignal.timeout(25000) });
+    const r = await fetch(`${API}?${q}`, { headers: { 'User-Agent': 'planilla-lud (github.com/planilla-lud/planilla-lud.github.io)' }, signal: AbortSignal.timeout(25000) });
     if (!r.ok) throw new Error(r.status);
     const t = await r.json();
     fallasSeguidas = 0;

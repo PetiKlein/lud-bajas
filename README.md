@@ -8,7 +8,7 @@ bloque, así cada equipo conserva su historia de las series, y la web muestra un
 Plata, Bronce, Competencia, Confraternidad, Amistad) con sus equipos y todos sus partidos de la temporada
 (`VISTAS` en `categorias.mjs`, `partirEnCopas()` en `analizar.mjs`).
 
-Página: https://petiklein.github.io/planilla-lud/
+Página: https://planilla-lud.github.io/
 
 ## Diseño
 

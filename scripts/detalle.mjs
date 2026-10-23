@@ -35,7 +35,7 @@ async function api(params, base = BASE, intentos = 3) {
   const q = new URLSearchParams(params).toString().replace(/\+/g, '%20');
   for (let intento = 1; ; intento++) {
     try {
-      const r = await fetch(`${base}?${q}`, { headers: { 'User-Agent': 'planilla-lud (github.com/PetiKlein/planilla-lud)' }, signal: AbortSignal.timeout(25000) });
+      const r = await fetch(`${base}?${q}`, { headers: { 'User-Agent': 'planilla-lud (github.com/planilla-lud/planilla-lud.github.io)' }, signal: AbortSignal.timeout(25000) });
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
       const txt = (await r.text()).trim();
       if (!txt) return [];
