@@ -615,6 +615,19 @@ const DIVS = {}; // id de divisional -> { id, letra, nombre, categoria }
 const ALIAS = { mayores: 'mayores-a', sub20: 'sub20-a' }; // links viejos
 const guardar = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
 const leer = k => { try { return localStorage.getItem(k); } catch { return null; } };
+// Mudanza desde petiklein.github.io/planilla-lud: cada dirección tiene su propia memoria, así que la
+// redirección trae lo guardado allá (?migrar=...: Mi equipo, el voto del contador...). Solo se completa
+// lo que acá todavía no está, y después se saca de la dirección.
+(() => {
+  const m = location.search.match(/[?&]migrar=([^&]+)/);
+  if (!m) return;
+  try {
+    const datos = JSON.parse(decodeURIComponent(escape(atob(decodeURIComponent(m[1])))));
+    for (const [k, v] of Object.entries(datos)) if (typeof v === 'string' && leer(k) === null) guardar(k, v);
+  } catch {}
+  const resto = location.search.replace(/([?&])migrar=[^&]*&?/, '$1').replace(/[?&]$/, '');
+  history.replaceState(null, '', location.pathname + resto + location.hash);
+})();
 // Posiciones de cada etapa (data/posiciones.json, lo arma el robot con la tabla oficial de la Liga).
 let POSICIONES = null;
 // Cuánto acierta el robot (data/aciertos.json): cada once y cada alerta de la temporada rearmados con lo
