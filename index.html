@@ -1395,7 +1395,7 @@ async function syncFavorito() {
   let nombre = '';
   if (k) try { nombre = (await clubes())[k]?.nombre || ''; } catch {}
   const r = await sb('elegir_club', { p_dispositivo: disp, p_club: k, p_nombre: nombre });
-  if (r.ok) guardar('club-sync', k);
+  if (r.ok) { guardar('club-sync', k); pintarContador(); } // la barra ya muestra el voto nuevo
 }
 async function renderMiEquipo(sub) {
   const main = $('#main');
