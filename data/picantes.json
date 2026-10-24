@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24T17:47:36.759Z",
+ "actualizado": "2026-10-24T21:07:02.542Z",
  "partidos": [
   {
    "div": "sub20-a",
@@ -17,6 +17,23 @@
    "tipo": "titulo",
    "altasL": 1,
    "altasV": 1
+  },
+  {
+   "div": "sub20-a",
+   "divNombre": "Sub 20 A",
+   "k": "Náutico~Playa Honda",
+   "l": "Náutico",
+   "v": "Playa Honda",
+   "dia": "2026-10-31",
+   "hora": "15:30",
+   "etapa": "Permanencia",
+   "pl": 7,
+   "pv": 8,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 3,
+   "altasV": 0
   },
   {
    "div": "reserva-a",
@@ -206,23 +223,6 @@
    "altasV": 2
   },
   {
-   "div": "sub20-c",
-   "divNombre": "Sub 20 C",
-   "k": "Maristas Deportivo~Anglo School Universitario",
-   "l": "Maristas Deportivo",
-   "v": "Anglo School Universitario",
-   "dia": "2026-10-24",
-   "hora": "13:30",
-   "etapa": "Título y ascenso",
-   "pl": 1,
-   "pv": 3,
-   "n": 8,
-   "base": 0,
-   "tipo": "titulo",
-   "altasL": 2,
-   "altasV": 3
-  },
-  {
    "div": "mayores-d",
    "divNombre": "Mayores D",
    "k": "Trouville Universitario~Peñarol Universitario",
@@ -238,23 +238,6 @@
    "tipo": "descenso",
    "altasL": 0,
    "altasV": 4
-  },
-  {
-   "div": "sub20-a",
-   "divNombre": "Sub 20 A",
-   "k": "Maturana~San Juan Bautista",
-   "l": "Maturana",
-   "v": "San Juan Bautista",
-   "dia": "2026-10-24",
-   "hora": "15:30",
-   "etapa": "Permanencia",
-   "pl": 5,
-   "pv": 6,
-   "n": 8,
-   "base": 8,
-   "tipo": "descenso",
-   "altasL": 1,
-   "altasV": 0
   },
   {
    "div": "reserva-a",
@@ -509,6 +492,23 @@
    "base": 8,
    "tipo": "descenso",
    "altasL": 0,
+   "altasV": 2
+  },
+  {
+   "div": "presenior-b",
+   "divNombre": "Pre Senior B",
+   "k": "Seminario~Perry Sexta Universitario",
+   "l": "Seminario",
+   "v": "Perry Sexta Universitario",
+   "dia": "2026-10-31",
+   "hora": "13:30",
+   "etapa": "Permanencia",
+   "pl": 5,
+   "pv": 6,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 3,
    "altasV": 2
   }
  ]
