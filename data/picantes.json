@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23T16:51:39.110Z",
+ "actualizado": "2026-10-24T15:56:28.640Z",
  "partidos": [
   {
    "div": "sub20-a",
@@ -66,8 +66,8 @@
    "n": 8,
    "base": 8,
    "tipo": "descenso",
-   "altasL": 1,
-   "altasV": 1
+   "altasL": 3,
+   "altasV": 3
   },
   {
    "div": "mayores-b",
@@ -84,7 +84,7 @@
    "base": 0,
    "tipo": "titulo",
    "altasL": 2,
-   "altasV": 1
+   "altasV": 2
   },
   {
    "div": "sub20-b",
@@ -92,8 +92,8 @@
    "k": "Seminario Universitario~Arquitectura Jrs.",
    "l": "Seminario Universitario",
    "v": "Arquitectura Jrs.",
-   "dia": "2026-10-24",
-   "hora": "15:30",
+   "dia": "2026-10-27",
+   "hora": "20:00",
    "etapa": "Permanencia",
    "pl": 7,
    "pv": 8,
@@ -101,7 +101,7 @@
    "base": 8,
    "tipo": "descenso",
    "altasL": 0,
-   "altasV": 0
+   "altasV": 1
   },
   {
    "div": "reserva-b",
@@ -117,8 +117,8 @@
    "n": 8,
    "base": 8,
    "tipo": "descenso",
-   "altasL": 3,
-   "altasV": 1
+   "altasL": 4,
+   "altasV": 2
   },
   {
    "div": "mayores-a",
@@ -151,8 +151,8 @@
    "n": 8,
    "base": 0,
    "tipo": "titulo",
-   "altasL": 0,
-   "altasV": 0
+   "altasL": 2,
+   "altasV": 1
   },
   {
    "div": "reserva-c",
@@ -186,24 +186,58 @@
    "base": 8,
    "tipo": "descenso",
    "altasL": 3,
-   "altasV": 2
+   "altasV": 1
   },
   {
-   "div": "presenior-a",
-   "divNombre": "Pre Senior A",
-   "k": "Madrugada F.C~Hebraica y Macabi",
-   "l": "Madrugada F.C",
-   "v": "Hebraica y Macabi",
-   "dia": "2026-10-24",
+   "div": "mas40-a",
+   "divNombre": "Más 40 A",
+   "k": "Old Boys~Old Christians",
+   "l": "Old Boys",
+   "v": "Old Christians",
+   "dia": "2026-10-31",
    "hora": "09:00",
+   "etapa": "Título",
+   "pl": 3,
+   "pv": 1,
+   "n": 8,
+   "base": 0,
+   "tipo": "titulo",
+   "altasL": 0,
+   "altasV": 0
+  },
+  {
+   "div": "mayores-b",
+   "divNombre": "Mayores B",
+   "k": "City Park~Centro Cristobal Colon",
+   "l": "City Park",
+   "v": "Centro Cristobal Colon",
+   "dia": "2026-10-25",
+   "hora": "11:15",
    "etapa": "Permanencia",
-   "pl": 8,
+   "pl": 7,
    "pv": 6,
    "n": 8,
    "base": 8,
    "tipo": "descenso",
    "altasL": 3,
-   "altasV": 2
+   "altasV": 0
+  },
+  {
+   "div": "sub20-b",
+   "divNombre": "Sub 20 B",
+   "k": "Trouville Universitario~Seminario Universitario",
+   "l": "Trouville Universitario",
+   "v": "Seminario Universitario",
+   "dia": "2026-10-31",
+   "hora": "15:30",
+   "etapa": "Permanencia",
+   "pl": 6,
+   "pv": 7,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 0,
+   "altasV": 0
   },
   {
    "div": "presenior-b",
@@ -220,7 +254,7 @@
    "base": 8,
    "tipo": "descenso",
    "altasL": 0,
-   "altasV": 0
+   "altasV": 1
   },
   {
    "div": "mas40-b",
@@ -293,36 +327,19 @@
   {
    "div": "presenior-a",
    "divNombre": "Pre Senior A",
-   "k": "Independiente~Nacional U.",
-   "l": "Independiente",
-   "v": "Nacional U.",
-   "dia": "2026-10-24",
-   "hora": "09:00",
-   "etapa": "Título",
-   "pl": 1,
-   "pv": 4,
-   "n": 8,
-   "base": 0,
-   "tipo": "titulo",
-   "altasL": 1,
-   "altasV": 0
-  },
-  {
-   "div": "mayores-b",
-   "divNombre": "Mayores B",
-   "k": "City Park~Centro Cristobal Colon",
-   "l": "City Park",
-   "v": "Centro Cristobal Colon",
-   "dia": "2026-10-25",
+   "k": "Universitario Verones~Madrugada F.C",
+   "l": "Universitario Verones",
+   "v": "Madrugada F.C",
+   "dia": "2026-10-31",
    "hora": "11:15",
    "etapa": "Permanencia",
-   "pl": 7,
-   "pv": 5,
+   "pl": 5,
+   "pv": 8,
    "n": 8,
    "base": 8,
    "tipo": "descenso",
    "altasL": 3,
-   "altasV": 1
+   "altasV": 5
   },
   {
    "div": "mayores-c",
@@ -338,7 +355,7 @@
    "n": 8,
    "base": 8,
    "tipo": "descenso",
-   "altasL": 1,
+   "altasL": 2,
    "altasV": 3
   },
   {
@@ -356,7 +373,7 @@
    "base": 8,
    "tipo": "descenso",
    "altasL": 1,
-   "altasV": 1
+   "altasV": 2
   },
   {
    "div": "reserva-c",
@@ -374,6 +391,23 @@
    "tipo": "descenso",
    "altasL": 3,
    "altasV": 3
+  },
+  {
+   "div": "presenior-c",
+   "divNombre": "Pre Senior C",
+   "k": "Deportivo Mitre~San Isidro Lomas Universitario",
+   "l": "Deportivo Mitre",
+   "v": "San Isidro Lomas Universitario",
+   "dia": "2026-10-24",
+   "hora": "11:15",
+   "etapa": "Permanencia",
+   "pl": 8,
+   "pv": 7,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 0,
+   "altasV": 2
   },
   {
    "div": "mas40-a",
@@ -406,8 +440,8 @@
    "n": 8,
    "base": 0,
    "tipo": "titulo",
-   "altasL": 2,
-   "altasV": 2
+   "altasL": 3,
+   "altasV": 3
   },
   {
    "div": "mayores-c",
@@ -424,24 +458,7 @@
    "base": 0,
    "tipo": "titulo",
    "altasL": 1,
-   "altasV": 0
-  },
-  {
-   "div": "presenior-c",
-   "divNombre": "Pre Senior C",
-   "k": "Deportivo Mitre~San Isidro Lomas Universitario",
-   "l": "Deportivo Mitre",
-   "v": "San Isidro Lomas Universitario",
-   "dia": "2026-10-24",
-   "hora": "11:15",
-   "etapa": "Permanencia",
-   "pl": 8,
-   "pv": 6,
-   "n": 8,
-   "base": 8,
-   "tipo": "descenso",
-   "altasL": 0,
-   "altasV": 2
+   "altasV": 1
   },
   {
    "div": "mayores-d",
@@ -491,25 +508,8 @@
    "n": 8,
    "base": 8,
    "tipo": "descenso",
-   "altasL": 1,
+   "altasL": 2,
    "altasV": 1
-  },
-  {
-   "div": "sub16-oro",
-   "divNombre": "Sub 16 Oro",
-   "k": "Seminario~Dls Club",
-   "l": "Seminario",
-   "v": "Dls Club",
-   "dia": "2026-10-27",
-   "hora": "20:00",
-   "etapa": "Copa de Oro",
-   "pl": 2,
-   "pv": 1,
-   "n": 8,
-   "base": 0,
-   "tipo": "titulo",
-   "altasL": 5,
-   "altasV": 0
   }
  ]
 }

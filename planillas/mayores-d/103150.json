@@ -18,8 +18,8 @@
   "rueda": "2",
   "Divisional": "MAYORES \"D\" PERM. y DESC.",
   "Cancha": "SAN EUGENIO",
-  "Fecha_Inicio": "2026-10-22 22:30:00",
-  "Fecha_fin": "2026-10-22 22:30:00",
+  "Fecha_Inicio": "2026-10-22 23:00:00",
+  "Fecha_fin": "2026-10-22 23:00:00",
   "Locatario": "PEÑAROL UNIVERSITARIO",
   "goles_locatario": "1",
   "puntos_locatario": "0",
@@ -29,12 +29,264 @@
   "walk_over": "0",
   "observaciones": null
  },
- "titularesL": [],
- "titularesV": [],
- "cambiosL": [],
- "cambiosV": [],
- "golesL": [],
- "golesV": [],
+ "titularesL": [
+  {
+   "carne": "66297",
+   "Nombre": "CRISTIAN VELOZ",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "66630",
+   "Nombre": "FRANCISCO PEREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "51998",
+   "Nombre": "VICTOR EDUARDO FERREIRA",
+   "camiseta": "20",
+   "Capitan": ""
+  },
+  {
+   "carne": "66845",
+   "Nombre": "FACUNDO OLIVERA",
+   "camiseta": "8",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "55028",
+   "Nombre": "JUAN RODRIGUEZ",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "68868",
+   "Nombre": "EZEQUIEL ENRIQUE LUBARA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "68897",
+   "Nombre": "MATHIAS ANDRES LOPEZ",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "46778",
+   "Nombre": "FRANCO MANUEL FIGUEREDO",
+   "camiseta": "11",
+   "Capitan": ""
+  },
+  {
+   "carne": "57112",
+   "Nombre": "LUCAS MATTEO ANCHETA",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "61101",
+   "Nombre": "MATIAS NICOLAS GARCIA",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "66691",
+   "Nombre": "BRUNO ALEXIS ARAUJO",
+   "camiseta": "5",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "62041",
+   "Nombre": "FACUNDO AGUSTIN MIERES",
+   "camiseta": "26",
+   "Capitan": ""
+  },
+  {
+   "carne": "64439",
+   "Nombre": "AGUSTIN DAVILA",
+   "camiseta": "33",
+   "Capitan": ""
+  },
+  {
+   "carne": "53079",
+   "Nombre": "TOMAS FRANCISCO DE LOS SANTOS",
+   "camiseta": "42",
+   "Capitan": ""
+  },
+  {
+   "carne": "49973",
+   "Nombre": "ELIAS DANIEL PIEGAS",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "61746",
+   "Nombre": "SANTIAGO BRAZEIRO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "46931",
+   "Nombre": "HUGO ANDRES PIRIZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "59342",
+   "Nombre": "MATIAS MARTINS",
+   "camiseta": "80",
+   "Capitan": ""
+  },
+  {
+   "carne": "49779",
+   "Nombre": "DAMIAN EZEQUIEL PALADINO",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "50516",
+   "Nombre": "ALVARO GERMAN MARTINEZ",
+   "camiseta": "10",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "46963",
+   "Nombre": "MAICON FERNANDO WITTER GOMEZ",
+   "camiseta": "7",
+   "Capitan": ""
+  },
+  {
+   "carne": "44387",
+   "Nombre": "BRUNO ALBERTO DE LOS SANTOS",
+   "camiseta": "66",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "68897",
+   "Jug_Sale": "MATHIAS ANDRES LOPEZ",
+   "CarneEntra": "66631",
+   "Jug_Entra": "DAVID ALEJANDRO SILVA",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "57112",
+   "Jug_Sale": "LUCAS MATTEO ANCHETA",
+   "CarneEntra": "55275",
+   "Jug_Entra": "SEBASTIAN ELTON GONZALEZ",
+   "camiseta": "17",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "55028",
+   "Jug_Sale": "JUAN RODRIGUEZ",
+   "CarneEntra": "57112",
+   "Jug_Entra": "LUCAS MATTEO ANCHETA",
+   "camiseta": "7",
+   "minutos": "77"
+  },
+  {
+   "CarneSale": "66691",
+   "Jug_Sale": "BRUNO ALEXIS ARAUJO",
+   "CarneEntra": "68897",
+   "Jug_Entra": "MATHIAS ANDRES LOPEZ",
+   "camiseta": "14",
+   "minutos": "83"
+  },
+  {
+   "CarneSale": "68868",
+   "Jug_Sale": "EZEQUIEL ENRIQUE LUBARA",
+   "CarneEntra": "55028",
+   "Jug_Entra": "JUAN RODRIGUEZ",
+   "camiseta": "30",
+   "minutos": "83"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "61746",
+   "Jug_Sale": "SANTIAGO BRAZEIRO",
+   "CarneEntra": "48025",
+   "Jug_Entra": "RODRIGO PRUNELL",
+   "camiseta": "9",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "46963",
+   "Jug_Sale": "MAICON FERNANDO WITTER GOMEZ",
+   "CarneEntra": "59846",
+   "Jug_Entra": "QUEVIN MACHADO",
+   "camiseta": "20",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "44387",
+   "Jug_Sale": "BRUNO ALBERTO DE LOS SANTOS",
+   "CarneEntra": "59857",
+   "Jug_Entra": "FEDERICO BALAO",
+   "camiseta": "21",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "49779",
+   "Jug_Sale": "DAMIAN EZEQUIEL PALADINO",
+   "CarneEntra": "66321",
+   "Jug_Entra": "RUBEN ANSELMO PAZ",
+   "camiseta": "0",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "59342",
+   "Jug_Sale": "MATIAS MARTINS",
+   "CarneEntra": "62046",
+   "Jug_Entra": "MAURICIO LAPORTE",
+   "camiseta": "19",
+   "minutos": "63"
+  },
+  {
+   "CarneSale": "46931",
+   "Jug_Sale": "HUGO ANDRES PIRIZ",
+   "CarneEntra": "53118",
+   "Jug_Entra": "ALVARO MARTIN PINTOS",
+   "camiseta": "32",
+   "minutos": "74"
+  },
+  {
+   "CarneSale": "53079",
+   "Jug_Sale": "TOMAS FRANCISCO DE LOS SANTOS",
+   "CarneEntra": "68963",
+   "Jug_Entra": "FACUNDO NICOLAS MORALES",
+   "camiseta": "11",
+   "minutos": "83"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "61101",
+   "Nombre": "MATIAS NICOLAS GARCIA",
+   "minutos": "68",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "59846",
+   "Nombre": "QUEVIN MACHADO",
+   "minutos": "64",
+   "EnContra": "1"
+  },
+  {
+   "carne": "59846",
+   "Nombre": "QUEVIN MACHADO",
+   "minutos": "71",
+   "EnContra": "1"
+  }
+ ],
  "expulsadosL": [],
  "expulsadosV": []
 }

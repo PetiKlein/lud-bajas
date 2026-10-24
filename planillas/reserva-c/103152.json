@@ -18,8 +18,8 @@
   "rueda": "2",
   "Divisional": "RESERVA \"C\" PER. y DESC.",
   "Cancha": "CIUDAD DEPORTIVA ZONA LAB",
-  "Fecha_Inicio": "2026-10-22 22:30:00",
-  "Fecha_fin": "2026-10-22 22:30:00",
+  "Fecha_Inicio": "2026-10-22 22:50:00",
+  "Fecha_fin": "2026-10-22 22:50:00",
   "Locatario": "WANDERERS",
   "goles_locatario": "1",
   "puntos_locatario": "0",
@@ -29,12 +29,256 @@
   "walk_over": "0",
   "observaciones": null
  },
- "titularesL": [],
- "titularesV": [],
- "cambiosL": [],
- "cambiosV": [],
- "golesL": [],
- "golesV": [],
+ "titularesL": [
+  {
+   "carne": "57434",
+   "Nombre": "GONZALO ANDRES SANGUINETTI",
+   "camiseta": "82",
+   "Capitan": "(C)"
+  },
+  {
+   "carne": "66824",
+   "Nombre": "GABRIEL HERNANDEZ",
+   "camiseta": "16",
+   "Capitan": ""
+  },
+  {
+   "carne": "45274",
+   "Nombre": "ALEJANDRO GABRIEL MORALES",
+   "camiseta": "9",
+   "Capitan": ""
+  },
+  {
+   "carne": "51001",
+   "Nombre": "FELIPE PEREZ",
+   "camiseta": "4",
+   "Capitan": ""
+  },
+  {
+   "carne": "66607",
+   "Nombre": "ALEXIS COLO",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "43616",
+   "Nombre": "SANTIAGO VEGLIO",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "56585",
+   "Nombre": "TADEO IBAÑEZ",
+   "camiseta": "40",
+   "Capitan": ""
+  },
+  {
+   "carne": "46318",
+   "Nombre": "FACUNDO DEBENEDETTI",
+   "camiseta": "92",
+   "Capitan": ""
+  },
+  {
+   "carne": "52768",
+   "Nombre": "GUILLERMO MAÑKA",
+   "camiseta": "66",
+   "Capitan": ""
+  },
+  {
+   "carne": "55365",
+   "Nombre": "IGNACIO MANUEL MALLO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "61865",
+   "Nombre": "NAZARENO PINTOS",
+   "camiseta": "31",
+   "Capitan": ""
+  }
+ ],
+ "titularesV": [
+  {
+   "carne": "58491",
+   "Nombre": "FACUNDO SIMON",
+   "camiseta": "1",
+   "Capitan": ""
+  },
+  {
+   "carne": "49283",
+   "Nombre": "SANTIAGO BARBOZA",
+   "camiseta": "99",
+   "Capitan": ""
+  },
+  {
+   "carne": "39680",
+   "Nombre": "FELIX ANDRES FORASTIER",
+   "camiseta": "14",
+   "Capitan": ""
+  },
+  {
+   "carne": "57177",
+   "Nombre": "IGNACIO GUERRERO",
+   "camiseta": "30",
+   "Capitan": ""
+  },
+  {
+   "carne": "39198",
+   "Nombre": "MAXIMILIANO LUIS NICOLETTA",
+   "camiseta": "6",
+   "Capitan": ""
+  },
+  {
+   "carne": "64138",
+   "Nombre": "DILAN NAHUEL GARCIA",
+   "camiseta": "77",
+   "Capitan": ""
+  },
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "camiseta": "46",
+   "Capitan": ""
+  },
+  {
+   "carne": "48317",
+   "Nombre": "THIAGO DA SILVA",
+   "camiseta": "10",
+   "Capitan": ""
+  },
+  {
+   "carne": "69059",
+   "Nombre": "JAIME RUIZ",
+   "camiseta": "88",
+   "Capitan": ""
+  },
+  {
+   "carne": "55052",
+   "Nombre": "AGUSTIN RODRIGUEZ",
+   "camiseta": "15",
+   "Capitan": ""
+  },
+  {
+   "carne": "51082",
+   "Nombre": "IGNACIO LUIS JAUNSOLO",
+   "camiseta": "22",
+   "Capitan": ""
+  }
+ ],
+ "cambiosL": [
+  {
+   "CarneSale": "43616",
+   "Jug_Sale": "SANTIAGO VEGLIO",
+   "CarneEntra": "68421",
+   "Jug_Entra": "RINO CASTRO",
+   "camiseta": "29",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "55365",
+   "Jug_Sale": "IGNACIO MANUEL MALLO",
+   "CarneEntra": "59917",
+   "Jug_Entra": "LUCAS BALTAZAR GARCIA",
+   "camiseta": "61",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "61865",
+   "Jug_Sale": "NAZARENO PINTOS",
+   "CarneEntra": "56589",
+   "Jug_Entra": "DARIO EMANUEL ARCHONDO",
+   "camiseta": "99",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "56585",
+   "Jug_Sale": "TADEO IBAÑEZ",
+   "CarneEntra": "67260",
+   "Jug_Entra": "AGUSTIN TERMEZANA",
+   "camiseta": "77",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "45274",
+   "Jug_Sale": "ALEJANDRO GABRIEL MORALES",
+   "CarneEntra": "68863",
+   "Jug_Entra": "VALENTIN RIVERO",
+   "camiseta": "23",
+   "minutos": "61"
+  },
+  {
+   "CarneSale": "66824",
+   "Jug_Sale": "GABRIEL HERNANDEZ",
+   "CarneEntra": "55365",
+   "Jug_Entra": "IGNACIO MANUEL MALLO",
+   "camiseta": "30",
+   "minutos": "85"
+  }
+ ],
+ "cambiosV": [
+  {
+   "CarneSale": "51082",
+   "Jug_Sale": "IGNACIO LUIS JAUNSOLO",
+   "CarneEntra": "67234",
+   "Jug_Entra": "RODRIGO HERNAN MARTINEZ",
+   "camiseta": "34",
+   "minutos": "36"
+  },
+  {
+   "CarneSale": "49283",
+   "Jug_Sale": "SANTIAGO BARBOZA",
+   "CarneEntra": "66777",
+   "Jug_Entra": "SANTIAGO DAVRIEUX",
+   "camiseta": "17",
+   "minutos": "45"
+  },
+  {
+   "CarneSale": "69059",
+   "Jug_Sale": "JAIME RUIZ",
+   "CarneEntra": "64351",
+   "Jug_Entra": "BRUNO SIMON",
+   "camiseta": "16",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "55052",
+   "Jug_Sale": "AGUSTIN RODRIGUEZ",
+   "CarneEntra": "52654",
+   "Jug_Entra": "CRISTHIAN ALEXANDER TABEIRA",
+   "camiseta": "24",
+   "minutos": "65"
+  },
+  {
+   "CarneSale": "48317",
+   "Jug_Sale": "THIAGO DA SILVA",
+   "CarneEntra": "56571",
+   "Jug_Entra": "SANTIAGO GUSTAVO ALVAREZ",
+   "camiseta": "21",
+   "minutos": "86"
+  }
+ ],
+ "golesL": [
+  {
+   "carne": "55365",
+   "Nombre": "IGNACIO MANUEL MALLO",
+   "minutos": "47",
+   "EnContra": "0"
+  }
+ ],
+ "golesV": [
+  {
+   "carne": "55412",
+   "Nombre": "DIEGO OTAÑO",
+   "minutos": "17",
+   "EnContra": "1"
+  },
+  {
+   "carne": "64138",
+   "Nombre": "DILAN NAHUEL GARCIA",
+   "minutos": "63",
+   "EnContra": "1"
+  }
+ ],
  "expulsadosL": [],
  "expulsadosV": []
 }
