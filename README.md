@@ -157,3 +157,13 @@ Dos reglas para no dejar suspensiones colgadas:
 ## Temporada nueva
 
 Cambiar `TEMPORADA` e `INICIO_TEMPORADA` en `scripts/comun.mjs` (y los códigos de serie en `categorias.mjs` si cambian).
+
+## Chat ("Preguntale")
+
+Un chat con IA gratis para preguntar por cualquier equipo o jugador. `scripts/chat.mjs` arma `data/chat.json`
+(resumen de cada equipo e índice de jugadores) después de cada análisis. `worker/` es el servidor en Cloudflare:
+busca en ese resumen lo que menciona la pregunta (`worker/src/buscar.js`) y se lo pasa a la IA, que solo contesta
+con eso. Usa Workers AI (cuota diaria gratis de Cloudflare) y, si se acaba, Gemini o Groq cuando hay claves.
+`.github/workflows/chat.yml` lo publica con los secretos `CLOUDFLARE_API_TOKEN` y `CLOUDFLARE_ACCOUNT_ID` y
+escribe su dirección en `chat-config.json`; la página muestra el botón solo si ese archivo existe.
+

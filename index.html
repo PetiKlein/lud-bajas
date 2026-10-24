@@ -155,6 +155,32 @@ button{font:inherit}
 dialog.sheet{border:0;padding:0;margin:auto auto 0;width:100%;max-width:560px;max-height:85vh;border-radius:var(--r-xl) var(--r-xl) 0 0;background:var(--surface);color:var(--fg);box-shadow:var(--shadow-lg),inset 0 1px 0 rgba(236,232,220,.08);
   padding-bottom:env(safe-area-inset-bottom,0px)}
 @media (min-width:640px){dialog.sheet{margin:auto;border-radius:var(--r-xl)}}
+/* chat */
+.fab-chat{position:fixed;right:max(16px,env(safe-area-inset-right,0px));bottom:calc(var(--bottom-h) + 14px + env(safe-area-inset-bottom,0px));z-index:31;display:flex;align-items:center;gap:8px;height:48px;padding:0 18px 0 14px;border:0;border-radius:999px;background:var(--primary);color:var(--on-primary);font:inherit;font-weight:700;box-shadow:0 8px 24px rgba(0,0,0,.35);cursor:pointer;transition:transform .3s var(--ease-out)}
+.fab-chat:hover{transform:translateY(-2px)}
+.fab-chat svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+@media (min-width:900px){.fab-chat{bottom:24px}}
+dialog.chat{display:none;height:85vh;max-height:85vh}
+dialog.chat[open]{display:flex;flex-direction:column}
+@media (min-width:640px){dialog.chat{height:min(680px,85vh)}}
+.chat-msgs{flex:1;overflow:auto;padding:8px 20px 12px;display:flex;flex-direction:column;gap:10px}
+.burbuja{max-width:88%;padding:10px 14px;border-radius:18px;line-height:1.45;font-size:.95rem;white-space:pre-wrap;overflow-wrap:anywhere}
+.burbuja.yo{align-self:flex-end;background:var(--primary);color:var(--on-primary);border-bottom-right-radius:6px}
+.burbuja.bot{align-self:flex-start;background:var(--surface-2);border-bottom-left-radius:6px}
+.burbuja.pensando{color:var(--muted)}
+.burbuja.pensando span{display:inline-block;animation:latido 1.2s infinite}
+.burbuja.pensando span:nth-child(2){animation-delay:.2s}.burbuja.pensando span:nth-child(3){animation-delay:.4s}
+@keyframes latido{0%,80%,100%{opacity:.25}40%{opacity:1}}
+.chat-sug{display:flex;flex-wrap:wrap;gap:8px}
+.chat-sug button{border:1px solid var(--line-strong);background:none;color:var(--fg);border-radius:999px;padding:8px 12px;font:inherit;font-size:.86rem;cursor:pointer;text-align:left}
+.chat-sug button:hover{border-color:var(--primary)}
+.chat-form{display:flex;gap:8px;padding:10px 16px 4px;border-top:1px solid var(--line)}
+.chat-form input{flex:1;min-width:0;height:46px;border-radius:999px;border:1px solid var(--line-strong);background:var(--bg);color:var(--fg);padding:0 16px;font:inherit;font-size:16px}
+.chat-form input:focus{outline:2px solid var(--primary);outline-offset:1px}
+.chat-form button{width:46px;height:46px;border-radius:50%;border:0;background:var(--primary);color:var(--on-primary);font-size:1.1rem;cursor:pointer}
+.chat-form button:disabled{opacity:.5;cursor:default}
+.chat-pie{margin:4px 20px 10px;font-size:.72rem;color:var(--muted);text-align:center}
+@media (prefers-reduced-motion:reduce){.burbuja.pensando span{animation:none}.fab-chat{transition:none}}
 dialog.sheet::backdrop{background:rgba(6,10,8,.66);backdrop-filter:blur(3px)}
 dialog.sheet[open]{animation:subir .45s var(--ease-out)}
 @keyframes subir{from{transform:translateY(28px);opacity:0}to{transform:none;opacity:1}}
@@ -555,6 +581,7 @@ a.ct-i:hover{text-decoration:underline}
 </head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-chat" viewBox="0 0 24 24"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20.5l1.4-4.8A8 8 0 1 1 21 12z"/><path d="M8.5 11h.01M12 11h.01M15.5 11h.01"/></symbol>
   <symbol id="i-home" viewBox="0 0 24 24"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V20h14V9.5"/><path d="M10 20v-6h4v6"/></symbol>
   <symbol id="i-bajas" viewBox="0 0 24 24"><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/><path d="M12 9v4"/><path d="M12 17h.01"/></symbol>
   <symbol id="i-previa" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/><path d="M8 15h3M13 15h3"/></symbol>
@@ -605,6 +632,11 @@ a.ct-i:hover{text-decoration:underline}
   <div class="wrap legal">Las bajas son pistas sacadas de las planillas, no partes médicos. Los minutos de los expulsados pueden quedar de más: la Liga no anota el minuto de la expulsión.</div>
 </footer>
 <nav class="bnav" id="bnav" aria-label="Secciones"></nav>
+<button type="button" class="fab-chat" id="fab-chat" hidden onclick="abrirChat()"><svg aria-hidden="true"><use href="#i-chat"/></svg><span>Preguntale</span></button>
+<dialog class="sheet chat" id="sheet-chat" aria-labelledby="sc-t"><div class="sheet-h"><div><h2 id="sc-t">Preguntale</h2><p class="small muted" style="margin:2px 0 0">Bajas, suspendidos, once probable, rivales… de cualquier equipo de la Liga.</p></div><button class="x" data-cerrar aria-label="Cerrar">×</button></div>
+  <div class="chat-msgs" id="chat-msgs" aria-live="polite"></div>
+  <form class="chat-form" id="chat-form" autocomplete="off"><input id="chat-q" maxlength="400" placeholder="Ej: ¿quién falta en el ELF el domingo?" aria-label="Tu pregunta"><button type="submit" aria-label="Enviar">➤</button></form>
+  <p class="chat-pie">Contesta con los datos de la página, con una IA gratis. Puede equivocarse.</p></dialog>
 <dialog class="sheet" id="sheet-div" aria-labelledby="sd-t"><div class="sheet-h"><h2 id="sd-t">Elegí la divisional</h2><button class="x" data-cerrar aria-label="Cerrar">×</button></div><div class="sheet-b" id="sd-b"></div></dialog>
 <dialog class="sheet" id="sheet-app" aria-labelledby="sa-t"><div class="sheet-h"><h2 id="sa-t">Cómo descargar la app</h2><button class="x" data-cerrar aria-label="Cerrar">×</button></div><div class="sheet-b" id="sa-b"></div></dialog>
 <dialog class="sheet" id="sheet-mas" aria-labelledby="sm-t"><div class="sheet-h"><h2 id="sm-t">Más secciones</h2><button class="x" data-cerrar aria-label="Cerrar">×</button></div><div class="sheet-b"><div class="menu" id="sm-b"></div></div></dialog>
@@ -765,6 +797,45 @@ function armarDivisionales(cat, seccion) {
   $('#sd-b').querySelectorAll('[data-cat]').forEach(b => b.onclick = () => { catPanel = b.dataset.cat; armarDivisionales(cat && DIVS[cat].categoria === catPanel ? cat : null, seccion); });
   $('#sd-b').querySelectorAll('.letras a').forEach(a => a.onclick = () => cerrar('sheet-div'));
 }
+// ---------- chat (worker/ en Cloudflare; su dirección la escribe el workflow en chat-config.json) ----------
+let CHAT_URL = null, CHAT = [];
+try { CHAT = JSON.parse(sessionStorage.getItem('chat') || '[]'); } catch { CHAT = []; }
+fetch(`chat-config.json?v=${Math.floor(Date.now() / 6e5)}`).then(r => r.ok ? r.json() : null).then(c => {
+  if (c?.url) { CHAT_URL = c.url.replace(/\/$/, ''); $('#fab-chat').hidden = false; }
+}).catch(() => {});
+function sugerenciasChat() {
+  const k = leer('club'), club = k && CLUBES?.[k]?.nombre || (k ? k.replace(/-/g, ' ').replace(/\b\w/g, m => m.toUpperCase()) : null);
+  const div = DIVS[leer('div')]?.nombre || 'Mayores A';
+  return club ? [`¿Quién falta en ${club} este finde?`, `¿Cómo viene el rival de ${club}?`, `¿Quién está suspendido en ${club}?`, `Once probable de ${club}`]
+    : [`¿Quién está suspendido en ${div}?`, `¿Cómo viene la tabla de ${div}?`, '¿Quién falta en el ELF el domingo?', '¿Cómo viene Old Boys?'];
+}
+function pintarChat(pensando = false) {
+  const el = $('#chat-msgs');
+  const html = CHAT.map(m => `<div class="burbuja ${m.rol === 'yo' ? 'yo' : 'bot'}">${esc(m.texto)}</div>`).join('');
+  el.innerHTML = (CHAT.length ? html : `<div class="burbuja bot">¡Hola! Preguntame lo que quieras de cualquier equipo de la Liga: quién falta, quién está suspendido, el once probable, cómo viene el rival…</div>
+    <div class="chat-sug">${sugerenciasChat().map(t => `<button type="button" data-sug="${esc(t)}">${esc(t)}</button>`).join('')}</div>`)
+    + (pensando ? '<div class="burbuja bot pensando" aria-label="Pensando"><span>●</span> <span>●</span> <span>●</span></div>' : '');
+  el.querySelectorAll('[data-sug]').forEach(b => b.onclick = () => preguntar(b.dataset.sug));
+  el.scrollTop = el.scrollHeight;
+}
+function abrirChat() { pintarChat(); abrir('sheet-chat'); setTimeout(() => $('#chat-q').focus(), 50); }
+async function preguntar(texto) {
+  texto = (texto || '').trim();
+  if (!texto || !CHAT_URL || $('#chat-form button').disabled) return;
+  CHAT.push({ rol: 'yo', texto }); $('#chat-q').value = ''; $('#chat-form button').disabled = true;
+  pintarChat(true);
+  let resp;
+  try {
+    const r = await fetch(CHAT_URL + '/chat', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ mensajes: CHAT.slice(-6), div: leer('div'), club: leer('club') }) });
+    resp = (await r.json()).texto || 'No te pude contestar. Probá de nuevo.';
+  } catch { resp = 'No me pude conectar. Fijate que tengas internet y probá de nuevo.'; }
+  CHAT.push({ rol: 'bot', texto: resp });
+  try { sessionStorage.setItem('chat', JSON.stringify(CHAT.slice(-20))); } catch {}
+  $('#chat-form button').disabled = false; pintarChat();
+}
+document.getElementById('chat-form').addEventListener('submit', e => { e.preventDefault(); preguntar($('#chat-q').value); });
+
 function abrir(id) { const d = document.getElementById(id); if (!d.open) d.showModal(); }
 function cerrar(id) { const d = document.getElementById(id); if (d.open) d.close(); }
 document.querySelectorAll('dialog.sheet').forEach(d => {

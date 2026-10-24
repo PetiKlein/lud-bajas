@@ -1,0 +1,102 @@
+// Arma el contexto para la IA: encuentra en data/chat.json los equipos y jugadores que menciona la
+// pregunta y los pasa a texto. La IA solo contesta con esto, así no inventa.
+
+export const norm = s => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
+
+// Palabras que no sirven para identificar a nadie.
+const STOP = new Set(('a al algo alguien algun alguno como con contra cual cuales cuando cuanto cuantos de del donde el ella ellos en es esta este esto fue ha hay juega juegan jugo la las le les lo los mas me mi mis muy no nos o para pero por porque que quien quienes se si sin sobre su sus te tiene tienen tu un una uno unos y ya yo dame decime decir sabes sabe ver va van viene vienen hoy ahora proximo proxima partido partidos fecha domingo sabado finde fin semana equipo equipos cuadro jugador jugadores bajas baja suspendido suspendidos once titular titulares goles goleador goleadores tabla posicion rival previa lesionado lesionados falta faltan estan esta como andan anda gano perdio ganar perder liga lud categoria divisional serie copa').split(' '));
+// Palabras de los nombres de equipos que no alcanzan solas para identificar un equipo.
+const GENERICAS = new Set('club colegio escuela universitario universitaria univ u fc f c de del la el los las old san santa deportivo dep atletico social y sub carrasco tenis jrs juventud union centro nueva nuestra senora blanco blanca azul verde negro naranja rojo amarillo'.split(' '));
+// Cómo se le dice a cada categoría.
+const CATEGORIAS = [
+  [/\b(mayor|mayores|primera)\b/, 'Mayores'], [/\b(rese|reserva|reservas)\b/, 'Reserva'], [/\b(sub ?20|la 20)\b/, 'Sub 20'],
+  [/\b(pre ?senior|presenior|la pre)\b/, 'Pre Senior'], [/\b(mas ?40|\+ ?40|la 40)\b/, 'Más 40'], [/\b(sub ?18|la 18)\b/, 'Sub 18'], [/\b(sub ?16|la 16)\b/, 'Sub 16'],
+];
+
+let indiceCache = null;
+function indexar(datos) {
+  if (indiceCache?.datos === datos) return indiceCache;
+  const equipos = datos.equipos.map((e, i) => {
+    const t = norm(e.eq).split(' ').filter(Boolean);
+    return { i, t, distintivos: t.filter(x => !GENERICAS.has(x) && x.length > 1) };
+  });
+  const frecuencia = {};
+  const jugadores = datos.jugadores.map(j => { const t = norm(j[0]).split(' ').filter(x => x.length > 2); for (const x of new Set(t)) frecuencia[x] = (frecuencia[x] || 0) + 1; return t; });
+  indiceCache = { datos, equipos, jugadores, frecuencia };
+  return indiceCache;
+}
+
+// Busca en la pregunta (y en lo que se venía hablando) equipos, jugadores y categoría.
+export function buscar(datos, texto, { div = null, club = null, anteriores = '' } = {}) {
+  const ix = indexar(datos);
+  const q = norm(texto), qPrev = norm(anteriores);
+  const palabras = new Set(q.split(' ').filter(Boolean));
+  const conPrev = new Set([...palabras, ...qPrev.split(' ').filter(Boolean)]);
+  const cat = (CATEGORIAS.find(([re]) => re.test(q)) || CATEGORIAS.find(([re]) => re.test(qPrev)) || [])[1] || null;
+
+  // Equipos: alcanza con una palabra distintiva del nombre ("boys", "elf", "woodlands"); si el nombre no
+  // tiene ninguna, tienen que estar todas.
+  const coincide = (e, set) => e.distintivos.length ? e.distintivos.some(x => set.has(x)) && (e.distintivos.length < 3 || e.distintivos.filter(x => set.has(x)).length >= 2) : e.t.every(x => set.has(x));
+  let hallados = ix.equipos.filter(e => coincide(e, palabras));
+  if (!hallados.length && qPrev) hallados = ix.equipos.filter(e => coincide(e, new Set(qPrev.split(' '))));
+  // "Elf" encaja con "Elf" y con "Elf Blanco": si la pregunta no dice "blanco", queda el nombre exacto.
+  // Y si dice "elf blanco", queda solo Elf Blanco.
+  const completo = e => e.t.every(x => conPrev.has(x));
+  const contiene = (o, e) => o !== e && o.t.length > e.t.length && e.t.every(x => o.t.includes(x));
+  hallados = hallados.filter(e => !hallados.some(o => contiene(o, e) && completo(o)) && (completo(e) || !hallados.some(o => contiene(e, o))));
+  // Mismo club en varias categorías: la que dice la pregunta, si no la de la página, si no Mayores primero.
+  const eq = i => datos.equipos[i];
+  if (cat) { const f = hallados.filter(e => eq(e.i).cat === cat); if (f.length) hallados = f; }
+  const pref = e => (eq(e.i).div === div ? 0 : 1) + (eq(e.i).cat === 'Mayores' ? 0 : 0.5);
+  hallados.sort((a, b) => pref(a) - pref(b));
+  const nombres = new Set(hallados.map(e => eq(e.i).eq));
+  const porNombre = [...nombres].flatMap(n => hallados.filter(e => eq(e.i).eq === n).slice(0, cat || nombres.size > 1 ? 1 : 3));
+  let elegidos = porNombre.slice(0, 4).map(e => e.i);
+  const porNombreDirecto = [...elegidos];
+
+  // Jugadores: dos palabras del nombre, o una sola si es un apellido poco común.
+  const palabrasEquipo = new Set(elegidos.flatMap(i => norm(eq(i).eq).split(' ')));
+  const sueltas = [...palabras].filter(x => x.length > 2 && !STOP.has(x) && !palabrasEquipo.has(x));
+  const jug = [];
+  if (sueltas.length) ix.jugadores.forEach((t, k) => {
+    const n = sueltas.filter(x => t.includes(x)).length;
+    if (n >= 2 || (n === 1 && sueltas.length === 1 && (ix.frecuencia[sueltas[0]] || 0) <= 4)) jug.push([n, k, t.length]);
+  });
+  jug.sort((a, b) => b[0] - a[0] || a[2] - b[2]); // el nombre más justo primero
+  const jugadores = jug.slice(0, 6).map(([, k]) => datos.jugadores[k]);
+  for (const j of jugadores.slice(0, 3)) if (!elegidos.includes(j[1]) && elegidos.length < 5) elegidos.push(j[1]);
+
+  // Si pregunta por el rival o la previa, va también el rival del próximo partido.
+  if (/\b(rival|contra|enfrenta|previa|partido|juega|juegan)\b/.test(q)) for (const i of porNombreDirecto) {
+    const e = eq(i); if (!e.rival) continue;
+    const r = datos.equipos.findIndex(o => o.div === e.div && o.eq === e.rival);
+    if (r >= 0 && !elegidos.includes(r) && elegidos.length < 6) elegidos.push(r);
+  }
+  // Nada concreto: el equipo del usuario en la divisional que está mirando, o el de Mayores.
+  if (!elegidos.length && club) {
+    const c = norm(club);
+    const delClub = datos.equipos.map((e, i) => [e, i]).filter(([e]) => norm(e.eq).startsWith(c) || c.startsWith(norm(e.eq)));
+    const uno = delClub.find(([e]) => e.div === div) || delClub.find(([e]) => (cat ? e.cat === cat : e.cat === 'Mayores')) || delClub[0];
+    if (uno) elegidos.push(uno[1]);
+  }
+  return { equipos: elegidos, jugadores, cat, div };
+}
+
+const lista = (t, l) => l?.length ? `${t}: ${l.join('; ')}` : null;
+export function textoEquipo(e) {
+  return [`EQUIPO ${e.eq} (${e.divNombre})`, e.prox && `Próximo partido: ${e.prox}`, e.pos && `Posición: ${e.pos}`, `Campaña en la temporada: ${e.campana}`,
+    lista('Últimos resultados', e.ultimos), lista('Posibles bajas para el próximo partido', e.bajas) || 'Posibles bajas: ninguna detectada',
+    lista('Suspendidos', e.suspendidos) || 'Suspendidos: ninguno', lista('Once probable', e.once), lista('Goleadores', e.goleadores)].filter(Boolean).join('\n');
+}
+
+// Contexto final para la IA. Si no se encontró nada, una tabla corta de la divisional que mira.
+export function contexto(datos, hallado) {
+  const partes = hallado.equipos.map(i => textoEquipo(datos.equipos[i]));
+  if (hallado.jugadores.length) partes.push('JUGADORES MENCIONADOS:\n' + hallado.jugadores.map(([n, i, pj, tit, min, gol]) =>
+    `${n}: juega en ${datos.equipos[i].eq} (${datos.equipos[i].divNombre}), ${pj} partidos (${tit} de titular), ${min} minutos, ${gol} goles`).join('\n'));
+  if (!partes.length) {
+    const delDiv = datos.equipos.filter(e => e.div === hallado.div || (!hallado.div && e.div === 'mayores-a'));
+    if (delDiv.length) partes.push(`DIVISIONAL ${delDiv[0].divNombre}:\n` + delDiv.map(e => `${e.eq}: ${e.pos || 'sin posición'}; ${e.campana}${e.prox ? '; próximo ' + e.prox : ''}; ${e.bajas.length} posibles bajas, ${e.suspendidos.length} suspendidos`).join('\n'));
+  }
+  return partes.join('\n\n');
+}

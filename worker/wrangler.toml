@@ -1,0 +1,13 @@
+# Servidor del chat de Planilla LUD. Lo publica .github/workflows/chat.yml con el token de Cloudflare.
+name = "planilla-lud-chat"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+[ai]
+binding = "AI"
+
+[vars]
+DATOS_URL = "https://planilla-lud.github.io/data/chat.json"
+# Gemini y Groq son opcionales (respaldo si se acaba la cuota de Cloudflare): se cargan como secretos
+# GEMINI_KEY y GROQ_KEY en el repositorio y el workflow se los pasa al worker.
