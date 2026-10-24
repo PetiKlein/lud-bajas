@@ -1,6 +1,0 @@
-### que pasa si gana elf con san eugenio en la reserva?
-{"texto":"- ELF sumaría 3 puntos y quedaría con **47** pts, manteniendo el 1.º puesto y distanciándose 5 pts del segundo (Centro Cristóbal Colón con 42). Con los partidos que le quedan ya no le pueden alcanzar, así que asegura el título.  \n- San Eugenio no ganaría nada, quedaría en **24** pts y seguiría 6.º. Con sus 3 partidos restantes aún podría llegar a 33 pts, lo que lo deja fuera de los puestos de ascenso.","fuente":"cloudflare"}
-
-### elf depende de si mismo para salir primero en la mayor?
-{"texto":"No, ELF no puede subir a primero solo con sus propios resultados.  \n\n- Si gana los tres partidos que le quedan llegaría a **40 pts**.  \n- Old Woodlands ya tiene 39 pts; para que ELF lo supere tendría que perder los tres (quedarse en 39).  \n- Urunday está en 38 pts; también tendría que perder los tres.  \n- Nacional U. está en 32 pts y puede llegar a 41 pts, por lo que necesitaría perder los tres (quedarse en 32).  \n- Carrasco Polo y Tenis El Pinar están en 31 pts y pueden alcanzar 40 pts; con una victoria de ELF quedarían empatados.  \n\nEn resumen, ELF depende de sus tres victorias **y** de que Old Woodlands, Urunday, Nacional U., Carrasco Polo y Tenis El Pinar sufran todas sus derrotas para terminar primero.","fuente":"cloudflare"}
-
