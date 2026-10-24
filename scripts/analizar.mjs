@@ -271,9 +271,14 @@ function alertasDeEquipo(equipo, lista, jugadores, cat, G, hoyDia = new Date().t
   }
 
   // 3) Titulares habituales que no jugaron el último partido.
+  // Habitual = titular en al menos 6 de cada 10 de los últimos 8 partidos (no de toda la temporada: así entra
+  // el que se ganó el puesto a mitad de año y sale el que lo perdió). Medido con medirAciertos: suma unos 550
+  // avisos en la temporada con la misma precisión.
+  const VENTANA = Number(process.env.VENTANA || 8);
+  const tramo = previos.slice(-VENTANA);
   const tit = {};
-  for (const pt of previos) for (const [c, x] of Object.entries(pt.jugadores)) if (x.titular) tit[c] = (tit[c] || 0) + 1;
-  const habituales = Object.entries(tit).filter(([c, k]) => k >= 3 && k / previos.length >= 0.6).map(([c]) => c);
+  for (const pt of tramo) for (const [c, x] of Object.entries(pt.jugadores)) if (x.titular) tit[c] = (tit[c] || 0) + 1;
+  const habituales = Object.entries(tit).filter(([c, k]) => k >= 3 && k / tramo.length >= 0.6).map(([c]) => c);
   for (const c of habituales) {
     if (ult.jugadores[c] || ya.has(c)) continue;
     let seguidos = 0;
