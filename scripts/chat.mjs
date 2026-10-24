@@ -2,6 +2,7 @@
 // para contestar preguntas: por cada equipo, su próximo partido, posición, forma, bajas, suspendidos,
 // once probable y goleadores; y un índice de jugadores. Corre después de analizar.mjs.
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { corto } from './comun.mjs';
 
 const DATA = new URL('../data/', import.meta.url);
 const leer = f => JSON.parse(readFileSync(new URL(f, DATA)));
@@ -10,13 +11,34 @@ const fDia = d => `${DIAS[new Date(d + 'T12:00:00Z').getUTCDay()]} ${d.slice(8, 
 
 const indice = leer('indice.json');
 const posiciones = existsSync(new URL('posiciones.json', DATA)) ? leer('posiciones.json').divisionales || {} : {};
-const equipos = [], jugadores = [];
+const equipos = [], jugadores = [], tablas = {};
+let ultimoResultado = '';
+const hoy = new Date(Date.now() - 3 * 3600e3).toISOString().slice(0, 10); // fecha de Montevideo
 
 for (const cat of indice.categorias) for (const dv of cat.divisionales) {
   if (dv.oculta || !existsSync(new URL(`${dv.id}.json`, DATA))) continue;
   const d = leer(`${dv.id}.json`);
   const mios = new Set(d.equipos);
   const nom = c => d.jugadores[c]?.nombre || c;
+  // Puntos de toda la temporada en esta divisional (en la segunda etapa se conserva lo de la primera rueda).
+  const pts = {};
+  for (const p of d.partidos) if (p.gl != null && p.gv != null) for (const [eq, gf, gc] of [[p.local, p.gl, p.gv], [p.visitante, p.gv, p.gl]]) {
+    const x = (pts[eq] ??= { pts: 0, pj: 0, g: 0, e: 0, p: 0, gf: 0, gc: 0 });
+    x.pj++; x.gf += gf; x.gc += gc; if (gf > gc) { x.g++; x.pts += 3; } else if (gf === gc) { x.e++; x.pts++; } else x.p++;
+    if (p.dia > ultimoResultado && p.dia <= hoy) ultimoResultado = p.dia; // hay fechas mal cargadas a futuro
+  }
+  // Partidos que le quedan a cada equipo (fixture de la Liga).
+  const dirFix = new URL(`../planillas/${dv.bloque || (dv.copa ? dv.id.split('-')[0] : dv.id)}/_proximos.json`, import.meta.url);
+  const fixture = existsSync(dirFix) ? JSON.parse(readFileSync(dirFix)).filter(f => f.fechaHora.slice(0, 10) >= hoy) : [];
+  // Tablas de las etapas que se están jugando.
+  for (const [et, t] of Object.entries(posiciones[dv.id] || {})) {
+    if (!t?.pos) continue;
+    // La tabla oficial de la Liga (con lo que resuelve el Tribunal); si no está, la calculada con los resultados.
+    if (t.filas?.length) { tablas[`${dv.id}|${et}`] = t.filas.map(([eq, pj, g, e, p2, gf, gc, ps], i) => `${i + 1}° ${eq} ${ps} pts (${pj} PJ, ${g}G ${e}E ${p2}P, ${gf}-${gc})`); continue; }
+    tablas[`${dv.id}|${et}`] = Object.entries(t.pos).sort((a, b) => a[1] - b[1]).map(([eq, pos]) => {
+      const x = pts[eq] || {}; return `${pos}° ${eq} ${x.pts ?? 0} pts (${x.pj ?? 0} PJ, ${x.g ?? 0}G ${x.e ?? 0}E ${x.p ?? 0}P, ${x.gf ?? 0}-${x.gc ?? 0})`;
+    });
+  }
   // Estadísticas de cada jugador del equipo en esta divisional.
   const st = {};
   for (const p of d.partidos) if (p.planilla) for (const [lado, eq] of [['L', p.local], ['V', p.visitante]]) {
@@ -41,7 +63,7 @@ for (const cat of indice.categorias) for (const dv of cat.divisionales) {
       .map(s => `${nom(s.c)}: ${s.resumen}`);
     equipos.push({
       eq, div: dv.id, divNombre: dv.nombre, cat: cat.nombre,
-      prox: pr ? `vs ${pr.rival}, ${fDia(pr.dia)}${pr.hora && pr.hora !== '00:00' ? ' ' + pr.hora : ''}, ${pr.local ? 'de local' : 'de visitante'}${pr.etapa ? ', ' + pr.etapa : ''}${pr.cancha && !/fijar/i.test(pr.cancha) ? ', cancha ' + pr.cancha : ''}` : null,
+      prox: pr ? `vs ${pr.rival}, ${fDia(pr.dia)}${pr.hora && pr.hora !== '00:00' ? ' ' + pr.hora : ''}, ${pr.local ? 'de local' : 'de visitante'}${pr.etapa ? ', ' + pr.etapa : ''}${pr.cancha && !/fijar/i.test(pr.cancha) ? ', cancha ' + pr.cancha : ''}${pr.dia <= hoy ? ' (es de hoy o ya pasó: si se jugó, el resultado todavía no está cargado)' : ''}` : null,
       rival: pr?.rival || null,
       pos: tabla && tabla[eq] ? `${tabla[eq]}° de ${Object.keys(tabla).length} en ${etapa}` : null,
       campana: `${jugados.length} PJ, ${g}G ${e}E ${jugados.length - g - e}P, goles ${jugados.reduce((s, x) => s + x.gf, 0)}-${jugados.reduce((s, x) => s + x.gc, 0)}`,
@@ -50,12 +72,15 @@ for (const cat of indice.categorias) for (const dv of cat.divisionales) {
       suspendidos: susp,
       once: (b.probable?.once || []).map(x => `${nom(x.c)}${x.arq ? ' (arquero)' : ''}${x.duda ? ' (duda)' : ''}`),
       goleadores,
+      quedan: fixture.filter(f => corto(f.local) === eq || corto(f.visitante) === eq).slice(0, 6)
+        .map(f => `${fDia(f.fechaHora.slice(0, 10))} vs ${corto(f.local) === eq ? corto(f.visitante) : corto(f.local)} (${corto(f.local) === eq ? 'local' : 'visitante'})`),
+      tabla: etapa && tablas[`${dv.id}|${etapa}`] ? `${dv.id}|${etapa}` : null,
     });
     const i = equipos.length - 1;
     for (const [c, x] of Object.entries(st)) if (x.eq === eq) jugadores.push([nom(c), i, x.pj, x.tit, x.min, x.gol]);
   }
 }
 
-const salida = { actualizado: new Date().toISOString(), equipos, jugadores };
+const salida = { actualizado: new Date().toISOString(), ultimoResultado, equipos, jugadores, tablas };
 writeFileSync(new URL('chat.json', DATA), JSON.stringify(salida));
 console.log(`Chat: ${equipos.length} equipos, ${jugadores.length} jugadores, ${Math.round(JSON.stringify(salida).length / 1024)} KB.`);

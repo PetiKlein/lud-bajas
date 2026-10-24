@@ -13,6 +13,10 @@ const CATEGORIAS = [
   [/\b(pre ?senior|presenior|la pre)\b/, 'Pre Senior'], [/\b(mas ?40|\+ ?40|la 40)\b/, 'Más 40'], [/\b(sub ?18|la 18)\b/, 'Sub 18'], [/\b(sub ?16|la 16)\b/, 'Sub 16'],
 ];
 
+// Apodos que se usan en la Liga.
+const APODOS = { occ: 'Old Christians', owc: 'Old Woodlands', obc: 'Old Boys', clt: 'Carrasco Lawn Tennis', cpc: 'Carrasco Polo', tep: 'Tenis El Pinar',
+  pinar: 'Tenis El Pinar', hebraica: 'Hebraica y Macabi', macabi: 'Hebraica y Macabi', nacional: 'Nacional U.', ivy: 'Old Ivy', obs: 'Old Brendans' };
+
 let indiceCache = null;
 function indexar(datos) {
   if (indiceCache?.datos === datos) return indiceCache;
@@ -22,7 +26,8 @@ function indexar(datos) {
     // y las iniciales de nombres largos: "clt" (Carrasco Lawn Tennis).
     const compacto = t.join(''), corto = t.filter(x => !GENERICAS.has(x)).join('');
     const iniciales = t.length >= 3 ? t.map(x => x[0]).join('') : null;
-    return { i, t, distintivos: t.filter(x => !GENERICAS.has(x) && x.length > 1), compacto, corto, iniciales };
+    const apodos = Object.keys(APODOS).filter(k => APODOS[k] === e.eq);
+    return { i, t, apodos, distintivos: t.filter(x => !GENERICAS.has(x) && x.length > 1), compacto, corto, iniciales };
   });
   const frecuencia = {};
   const jugadores = datos.jugadores.map(j => { const t = norm(j[0]).split(' ').filter(x => x.length > 2); for (const x of new Set(t)) frecuencia[x] = (frecuencia[x] || 0) + 1; return t; });
@@ -40,7 +45,7 @@ export function buscar(datos, texto, { div = null, club = null, anteriores = '' 
 
   // Equipos: alcanza con una palabra distintiva del nombre ("boys", "elf", "woodlands"); si el nombre no
   // tiene ninguna, tienen que estar todas.
-  const coincide = (e, set) => (e.t.length > 1 && ((e.compacto.length >= 3 && set.has(e.compacto)) || (e.corto.length >= 3 && e.corto !== e.compacto && set.has(e.corto)))) || (e.iniciales && !STOP.has(e.iniciales) && set.has(e.iniciales)) || (e.distintivos.length ? e.distintivos.some(x => set.has(x)) && (e.distintivos.length < 3 || e.distintivos.filter(x => set.has(x)).length >= 2) : e.t.every(x => set.has(x)));
+  const coincide = (e, set) => e.apodos.some(a => set.has(a)) || (e.t.length > 1 && ((e.compacto.length >= 3 && set.has(e.compacto)) || (e.corto.length >= 3 && e.corto !== e.compacto && set.has(e.corto)))) || (e.iniciales && !STOP.has(e.iniciales) && set.has(e.iniciales)) || (e.distintivos.length ? e.distintivos.some(x => set.has(x)) && (e.distintivos.length < 3 || e.distintivos.filter(x => set.has(x)).length >= 2) : e.t.every(x => set.has(x)));
   let hallados = ix.equipos.filter(e => coincide(e, palabras));
   if (!hallados.length && qPrev) hallados = ix.equipos.filter(e => coincide(e, new Set(qPrev.split(' '))));
   // "Elf" encaja con "Elf" y con "Elf Blanco": si la pregunta no dice "blanco", queda el nombre exacto.
@@ -90,12 +95,21 @@ const lista = (t, l) => l?.length ? `${t}: ${l.join('; ')}` : null;
 export function textoEquipo(e) {
   return [`EQUIPO ${e.eq} (${e.divNombre})`, e.prox && `Próximo partido: ${e.prox}`, e.pos && `Posición: ${e.pos}`, `Campaña en la temporada: ${e.campana}`,
     lista('Últimos resultados', e.ultimos), lista('Posibles bajas para el próximo partido', e.bajas) || 'Posibles bajas: ninguna detectada',
-    lista('Suspendidos', e.suspendidos) || 'Suspendidos: ninguno', lista('Once probable', e.once), lista('Goleadores', e.goleadores)].filter(Boolean).join('\n');
+    lista('Suspendidos', e.suspendidos) || 'Suspendidos: ninguno', lista('Once probable', e.once), lista('Goleadores', e.goleadores),
+    lista('Partidos que le quedan', e.quedan)].filter(Boolean).join('\n');
 }
 
 // Contexto final para la IA. Si no se encontró nada, una tabla corta de la divisional que mira.
 export function contexto(datos, hallado) {
   const partes = hallado.equipos.map(i => textoEquipo(datos.equipos[i]));
+  // La tabla del grupo de cada equipo (una vez por grupo), para poder razonar con los puntos.
+  const vistas = new Set();
+  for (const i of hallado.equipos.slice(0, 3)) {
+    const k = datos.equipos[i].tabla;
+    if (!k || vistas.has(k) || !datos.tablas?.[k]) continue;
+    vistas.add(k);
+    partes.push(`TABLA ${datos.equipos[i].divNombre} – ${k.split('|')[1]} (oficial de la Liga, puntos de toda la temporada):\n${datos.tablas[k].join('\n')}`);
+  }
   if (hallado.jugadores.length) partes.push('JUGADORES MENCIONADOS:\n' + hallado.jugadores.map(([n, i, pj, tit, min, gol]) =>
     `${n}: juega en ${datos.equipos[i].eq} (${datos.equipos[i].divNombre}), ${pj} partidos (${tit} de titular), ${min} minutos, ${gol} goles`).join('\n'));
   if (!partes.length) {
