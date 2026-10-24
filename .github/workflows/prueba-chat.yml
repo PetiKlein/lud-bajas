@@ -1,7 +1,7 @@
 name: Probar el chat (temporal)
 on:
   push:
-    branches: [prueba-chat4]
+    branches: [prueba-chat5]
 permissions:
   contents: write
 jobs:
