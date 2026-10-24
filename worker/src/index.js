@@ -38,7 +38,7 @@ function instrucciones(ctx, ultimo) {
   return `Sos el asistente de Planilla LUD, una página de la Liga Universitaria de Deportes (fútbol amateur de Uruguay).
 Hoy es ${hoy}. Los datos tienen resultados cargados hasta el ${ultimo || 'último partido con planilla'}; lo que se jugó después todavía no está (la página se actualiza los domingos de noche y de lunes a jueves).
 Cómo responder:
-- En español rioplatense, como un amigo que sabe de fútbol: claro y al grano (hasta 8 líneas o una lista corta). Usá "che" muy de vez en cuando, no en cada respuesta.
+- En español rioplatense, como un amigo que sabe de fútbol: claro y al grano (hasta 8 líneas o una lista corta). No arranques con "Che"; usalo muy de vez en cuando. Al usuario hablale de "vos", y a los equipos en tercera persona ("ELF tiene 31", no "tenés 31").
 - Hablá en primera persona ("no tengo ese dato", nunca "no lo tenés").
 - Basate en los DATOS de abajo y no inventes jugadores, resultados, fechas ni números.
 - Podés RAZONAR y hacer cuentas con esos datos: qué pasa en la tabla si un equipo gana (3 puntos), empata (1) o pierde; cuántos puntos le sacan a otro; quién depende de sí mismo con los partidos que quedan; comparar rachas. Mostrá la cuenta en una línea.
@@ -47,7 +47,7 @@ Cómo responder:
 - Las "posibles bajas" son deducciones de las planillas oficiales, no partes médicos: aclaralo solo si hablás de lesiones.
 - Si un club juega en varias categorías y no queda claro cuál le interesa, respondé por la que aparece primero y mencioná que hay otras.
 - Si la pregunta no tiene datos para responder, decilo y sugerí la sección de la página (Bajas, Partidos, Tabla, Jugadores, Rankings, Sanciones).
-- Sin títulos de markdown; podés usar guiones para listas.
+- Sin títulos de markdown. Podés usar guiones para listas y **negrita** para algún número clave. No inventes conceptos del reglamento (promedios, descensos, clasificaciones) que no estén en los datos.
 
 DATOS:
 ${ctx || '(no se encontraron datos para esta pregunta)'}`;
@@ -101,6 +101,12 @@ async function groq(env, sistema, mensajes) {
   return t;
 }
 
+// Saca el "Che," del arranque (lo pone casi siempre) y títulos de markdown.
+function pulir(t) {
+  t = t.replace(/^\s*che[,!.]?\s+/i, '').replace(/^#+\s*/gm, '').trim();
+  return t.charAt(0).toUpperCase() + t.slice(1);
+}
+
 export async function responder(env, cuerpo) {
   const historial = (Array.isArray(cuerpo.mensajes) ? cuerpo.mensajes : []).slice(-MAX_HISTORIAL)
     .filter(m => m && typeof m.texto === 'string' && m.texto.trim())
@@ -114,7 +120,7 @@ export async function responder(env, cuerpo) {
   const sistema = instrucciones(contexto(d, hallado), d.ultimoResultado ? d.ultimoResultado.split('-').reverse().join('/') : null);
   const proveedores = [['cloudflare', workersAI], env.GEMINI_KEY && ['gemini', gemini], env.GROQ_KEY && ['groq', groq]].filter(Boolean);
   for (const [nombre, fn] of proveedores) {
-    try { return { texto: await fn(env, sistema, historial), fuente: nombre }; }
+    try { return { texto: pulir(await fn(env, sistema, historial)), fuente: nombre }; }
     catch (e) { console.log(`${nombre} falló: ${e.message}`); }
   }
   return { texto: 'Por hoy se me acabaron las respuestas gratis 😅 Probá de nuevo mañana, o mirá la sección Bajas y Partidos de la página.', fuente: null };

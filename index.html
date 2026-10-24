@@ -811,7 +811,8 @@ function sugerenciasChat() {
 }
 function pintarChat(pensando = false) {
   const el = $('#chat-msgs');
-  const html = CHAT.map(m => `<div class="burbuja ${m.rol === 'yo' ? 'yo' : 'bot'}">${esc(m.texto)}</div>`).join('');
+  const fmt = t => esc(t).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>'); // la IA a veces marca números en negrita
+  const html = CHAT.map(m => `<div class="burbuja ${m.rol === 'yo' ? 'yo' : 'bot'}">${m.rol === 'yo' ? esc(m.texto) : fmt(m.texto)}</div>`).join('');
   el.innerHTML = (CHAT.length ? html : `<div class="burbuja bot">¡Hola! Preguntame lo que quieras de cualquier equipo de la Liga: quién falta, quién está suspendido, el once probable, cómo viene el rival…</div>
     <div class="chat-sug">${sugerenciasChat().map(t => `<button type="button" data-sug="${esc(t)}">${esc(t)}</button>`).join('')}</div>`)
     + (pensando ? '<div class="burbuja bot pensando" aria-label="Pensando"><span>●</span> <span>●</span> <span>●</span></div>' : '');
