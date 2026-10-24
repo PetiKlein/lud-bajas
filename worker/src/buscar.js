@@ -18,7 +18,11 @@ function indexar(datos) {
   if (indiceCache?.datos === datos) return indiceCache;
   const equipos = datos.equipos.map((e, i) => {
     const t = norm(e.eq).split(' ').filter(Boolean);
-    return { i, t, distintivos: t.filter(x => !GENERICAS.has(x) && x.length > 1) };
+    // Siglas y nombres con puntos: "J.M.L.M" se escribe "jmlm", "Sa.Fe.Ma" "safema", "X - 13" "x13";
+    // y las iniciales de nombres largos: "clt" (Carrasco Lawn Tennis).
+    const compacto = t.join(''), corto = t.filter(x => !GENERICAS.has(x)).join('');
+    const iniciales = t.length >= 3 ? t.map(x => x[0]).join('') : null;
+    return { i, t, distintivos: t.filter(x => !GENERICAS.has(x) && x.length > 1), compacto, corto, iniciales };
   });
   const frecuencia = {};
   const jugadores = datos.jugadores.map(j => { const t = norm(j[0]).split(' ').filter(x => x.length > 2); for (const x of new Set(t)) frecuencia[x] = (frecuencia[x] || 0) + 1; return t; });
@@ -36,12 +40,12 @@ export function buscar(datos, texto, { div = null, club = null, anteriores = '' 
 
   // Equipos: alcanza con una palabra distintiva del nombre ("boys", "elf", "woodlands"); si el nombre no
   // tiene ninguna, tienen que estar todas.
-  const coincide = (e, set) => e.distintivos.length ? e.distintivos.some(x => set.has(x)) && (e.distintivos.length < 3 || e.distintivos.filter(x => set.has(x)).length >= 2) : e.t.every(x => set.has(x));
+  const coincide = (e, set) => (e.t.length > 1 && ((e.compacto.length >= 3 && set.has(e.compacto)) || (e.corto.length >= 3 && e.corto !== e.compacto && set.has(e.corto)))) || (e.iniciales && !STOP.has(e.iniciales) && set.has(e.iniciales)) || (e.distintivos.length ? e.distintivos.some(x => set.has(x)) && (e.distintivos.length < 3 || e.distintivos.filter(x => set.has(x)).length >= 2) : e.t.every(x => set.has(x)));
   let hallados = ix.equipos.filter(e => coincide(e, palabras));
   if (!hallados.length && qPrev) hallados = ix.equipos.filter(e => coincide(e, new Set(qPrev.split(' '))));
   // "Elf" encaja con "Elf" y con "Elf Blanco": si la pregunta no dice "blanco", queda el nombre exacto.
   // Y si dice "elf blanco", queda solo Elf Blanco.
-  const completo = e => e.t.every(x => conPrev.has(x));
+  const completo = e => e.t.every(x => conPrev.has(x)) || conPrev.has(e.compacto);
   const contiene = (o, e) => o !== e && o.t.length > e.t.length && e.t.every(x => o.t.includes(x));
   hallados = hallados.filter(e => !hallados.some(o => contiene(o, e) && completo(o)) && (completo(e) || !hallados.some(o => contiene(e, o))));
   // Mismo club en varias categorías: la que dice la pregunta, si no la de la página, si no Mayores primero.
@@ -55,7 +59,7 @@ export function buscar(datos, texto, { div = null, club = null, anteriores = '' 
   const porNombreDirecto = [...elegidos];
 
   // Jugadores: dos palabras del nombre, o una sola si es un apellido poco común.
-  const palabrasEquipo = new Set(elegidos.flatMap(i => norm(eq(i).eq).split(' ')));
+  const palabrasEquipo = new Set(elegidos.flatMap(i => [...norm(eq(i).eq).split(' '), norm(eq(i).eq).replace(/ /g, '')]));
   const sueltas = [...palabras].filter(x => x.length > 2 && !STOP.has(x) && !palabrasEquipo.has(x));
   const jug = [];
   if (sueltas.length) ix.jugadores.forEach((t, k) => {
