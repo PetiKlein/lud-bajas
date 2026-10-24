@@ -1,0 +1,21 @@
+name: Probar el chat (temporal)
+on:
+  push:
+    branches: [prueba-chat]
+permissions:
+  contents: write
+jobs:
+  p:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+      - run: |
+          U=$(jq -r .url chat-config.json)
+          while IFS= read -r q; do
+            echo "### $q" >> tmp/respuestas.md
+            jq -n --arg q "$q" '{mensajes:[{rol:"yo",texto:$q}],div:"mayores-a"}' > body.json
+            curl -s -X POST "$U/chat" -H "Origin: https://planilla-lud.github.io" -H "Content-Type: application/json" --data @body.json >> tmp/respuestas.md
+            printf "\n\n" >> tmp/respuestas.md
+          done < tmp/preguntas.txt
+          git config user.name github-actions; git config user.email github-actions@users.noreply.github.com
+          git add -f tmp/respuestas.md && git commit -qm respuestas && git push
