@@ -54,13 +54,27 @@ ${ctx || '(no se encontraron datos para esta pregunta)'}`;
 }
 
 // ---- proveedores de IA ----
+// Saca el texto de la respuesta de Workers AI, sea del formato de chat (Llama) o del de "Responses" (gpt-oss).
+function textoDe(r) {
+  if (!r) return '';
+  if (typeof r === 'string') return r;
+  if (typeof r.response === 'string') return r.response;
+  if (typeof r.output_text === 'string') return r.output_text;
+  if (Array.isArray(r.output)) return r.output.filter(o => o.type === 'message').flatMap(o => o.content || []).map(c => c.text || '').join('');
+  return r.choices?.[0]?.message?.content || '';
+}
+// Primero gpt-oss-120b (razona: hace bien las cuentas); si falla, Llama 3.3 70B. Las dos usan la cuota gratis.
 async function workersAI(env, sistema, mensajes) {
-  const r = await env.AI.run(env.MODELO || '@cf/meta/llama-3.3-70b-instruct-fp8-fast', {
-    messages: [{ role: 'system', content: sistema }, ...mensajes], max_tokens: 600, temperature: 0.3,
-  });
-  const t = (r?.response || '').trim();
-  if (!t) throw new Error('Workers AI no respondió');
-  return t;
+  const intentos = [
+    () => env.AI.run(env.MODELO || '@cf/openai/gpt-oss-120b', { instructions: sistema, input: mensajes, reasoning: { effort: 'medium' }, max_output_tokens: 2000 }),
+    () => env.AI.run(env.MODELO_RESPALDO || '@cf/meta/llama-3.3-70b-instruct-fp8-fast', { messages: [{ role: 'system', content: sistema }, ...mensajes], max_tokens: 600, temperature: 0.3 }),
+  ];
+  let ultimo;
+  for (const f of intentos) {
+    try { const t = textoDe(await f()).trim(); if (t) return t; ultimo = new Error('respuesta vacía'); }
+    catch (e) { ultimo = e; console.log('Workers AI:', e.message); }
+  }
+  throw ultimo;
 }
 async function gemini(env, sistema, mensajes) {
   const modelo = env.GEMINI_MODELO || 'gemini-flash-lite-latest';

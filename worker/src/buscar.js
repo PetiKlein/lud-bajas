@@ -96,7 +96,7 @@ export function textoEquipo(e) {
   return [`EQUIPO ${e.eq} (${e.divNombre})`, e.prox && `Próximo partido: ${e.prox}`, e.pos && `Posición: ${e.pos}`, `Campaña en la temporada: ${e.campana}`,
     lista('Últimos resultados', e.ultimos), lista('Posibles bajas para el próximo partido', e.bajas) || 'Posibles bajas: ninguna detectada',
     lista('Suspendidos', e.suspendidos) || 'Suspendidos: ninguno', lista('Once probable', e.once), lista('Goleadores', e.goleadores),
-    lista('Partidos que le quedan', e.quedan)].filter(Boolean).join('\n');
+    lista('Partidos que le quedan', e.quedan), e.escenario && `Cuentas del próximo partido (ya hechas): ${e.escenario}`].filter(Boolean).join('\n');
 }
 
 // Contexto final para la IA. Si no se encontró nada, una tabla corta de la divisional que mira.
@@ -108,7 +108,7 @@ export function contexto(datos, hallado) {
     const k = datos.equipos[i].tabla;
     if (!k || vistas.has(k) || !datos.tablas?.[k]) continue;
     vistas.add(k);
-    partes.push(`TABLA ${datos.equipos[i].divNombre} – ${k.split('|')[1]} (oficial de la Liga, puntos de toda la temporada):\n${datos.tablas[k].join('\n')}`);
+    partes.push(`TABLA ${datos.equipos[i].divNombre} – ${k.split('|')[1]} (oficial de la Liga, puntos de toda la temporada; "puede llegar a" = puntos si gana todo lo que le queda):\n${datos.tablas[k].join('\n')}`);
   }
   if (hallado.jugadores.length) partes.push('JUGADORES MENCIONADOS:\n' + hallado.jugadores.map(([n, i, pj, tit, min, gol]) =>
     `${n}: juega en ${datos.equipos[i].eq} (${datos.equipos[i].divNombre}), ${pj} partidos (${tit} de titular), ${min} minutos, ${gol} goles`).join('\n'));

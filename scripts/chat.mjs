@@ -3,6 +3,7 @@
 // once probable y goleadores; y un índice de jugadores. Corre después de analizar.mjs.
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { corto } from './comun.mjs';
+import { VISTAS } from './categorias.mjs';
 
 const DATA = new URL('../data/', import.meta.url);
 const leer = f => JSON.parse(readFileSync(new URL(f, DATA)));
@@ -30,14 +31,18 @@ for (const cat of indice.categorias) for (const dv of cat.divisionales) {
   // Partidos que le quedan a cada equipo (fixture de la Liga).
   const dirFix = new URL(`../planillas/${dv.bloque || (dv.copa ? dv.id.split('-')[0] : dv.id)}/_proximos.json`, import.meta.url);
   const fixture = existsSync(dirFix) ? JSON.parse(readFileSync(dirFix)).filter(f => f.fechaHora.slice(0, 10) >= hoy) : [];
-  // Tablas de las etapas que se están jugando.
+  // Tablas de las etapas que se están jugando, con los partidos que le quedan a cada uno y el máximo de
+  // puntos al que puede llegar (las cuentas van hechas: la IA gratis suma mal).
+  const series = VISTAS.find(v => v.id === dv.id)?.series || {};
+  const quedanEn = (eq, et) => fixture.filter(f => series[f.serie] === et && (corto(f.local) === eq || corto(f.visitante) === eq)).length;
+  const puntos = {}; // "etapa|equipo" -> puntos oficiales
   for (const [et, t] of Object.entries(posiciones[dv.id] || {})) {
     if (!t?.pos) continue;
     // La tabla oficial de la Liga (con lo que resuelve el Tribunal); si no está, la calculada con los resultados.
-    if (t.filas?.length) { tablas[`${dv.id}|${et}`] = t.filas.map(([eq, pj, g, e, p2, gf, gc, ps], i) => `${i + 1}° ${eq} ${ps} pts (${pj} PJ, ${g}G ${e}E ${p2}P, ${gf}-${gc})`); continue; }
-    tablas[`${dv.id}|${et}`] = Object.entries(t.pos).sort((a, b) => a[1] - b[1]).map(([eq, pos]) => {
-      const x = pts[eq] || {}; return `${pos}° ${eq} ${x.pts ?? 0} pts (${x.pj ?? 0} PJ, ${x.g ?? 0}G ${x.e ?? 0}E ${x.p ?? 0}P, ${x.gf ?? 0}-${x.gc ?? 0})`;
-    });
+    const filas = t.filas?.length ? t.filas.map(([eq, pj, g, e, p2, gf, gc, ps]) => ({ eq, pj, g, e, p: p2, gf, gc, pts: ps }))
+      : Object.entries(t.pos).sort((a, b) => a[1] - b[1]).map(([eq]) => ({ eq, ...(pts[eq] || { pts: 0, pj: 0, g: 0, e: 0, p: 0, gf: 0, gc: 0 }) }));
+    tablas[`${dv.id}|${et}`] = filas.map((x, i) => { const q = quedanEn(x.eq, et); puntos[`${et}|${x.eq}`] = x.pts;
+      return `${i + 1}° ${x.eq} ${x.pts} pts (${x.pj} PJ, ${x.g}G ${x.e}E ${x.p}P, ${x.gf}-${x.gc}); le quedan ${q}, puede llegar a ${x.pts + 3 * q}`; });
   }
   // Estadísticas de cada jugador del equipo en esta divisional.
   const st = {};
@@ -75,6 +80,10 @@ for (const cat of indice.categorias) for (const dv of cat.divisionales) {
       quedan: fixture.filter(f => corto(f.local) === eq || corto(f.visitante) === eq).slice(0, 6)
         .map(f => `${fDia(f.fechaHora.slice(0, 10))} vs ${corto(f.local) === eq ? corto(f.visitante) : corto(f.local)} (${corto(f.local) === eq ? 'local' : 'visitante'})`),
       tabla: etapa && tablas[`${dv.id}|${etapa}`] ? `${dv.id}|${etapa}` : null,
+      escenario: pr && puntos[`${pr.etapa}|${eq}`] != null && puntos[`${pr.etapa}|${pr.rival}`] != null ? (() => {
+        const a = puntos[`${pr.etapa}|${eq}`], b2 = puntos[`${pr.etapa}|${pr.rival}`];
+        return `Contra ${pr.rival}: si gana queda ${a + 3} y ${pr.rival} ${b2}; si empatan ${a + 1} y ${b2 + 1}; si pierde ${a} y ${pr.rival} ${b2 + 3}`;
+      })() : null,
     });
     const i = equipos.length - 1;
     for (const [c, x] of Object.entries(st)) if (x.eq === eq) jugadores.push([nom(c), i, x.pj, x.tit, x.min, x.gol]);
