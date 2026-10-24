@@ -1,23 +1,6 @@
 {
- "actualizado": "2026-10-24T21:07:02.542Z",
+ "actualizado": "2026-10-24T21:32:37.347Z",
  "partidos": [
-  {
-   "div": "sub20-a",
-   "divNombre": "Sub 20 A",
-   "k": "Old Woodlands~Old Christians",
-   "l": "Old Woodlands",
-   "v": "Old Christians",
-   "dia": "2026-10-24",
-   "hora": "15:30",
-   "etapa": "Título",
-   "pl": 1,
-   "pv": 2,
-   "n": 8,
-   "base": 0,
-   "tipo": "titulo",
-   "altasL": 1,
-   "altasV": 1
-  },
   {
    "div": "sub20-a",
    "divNombre": "Sub 20 A",
@@ -240,6 +223,23 @@
    "altasV": 4
   },
   {
+   "div": "sub20-a",
+   "divNombre": "Sub 20 A",
+   "k": "ELF~J.M.L.M",
+   "l": "ELF",
+   "v": "J.M.L.M",
+   "dia": "2026-10-31",
+   "hora": "00:00",
+   "etapa": "Título",
+   "pl": 3,
+   "pv": 4,
+   "n": 8,
+   "base": 0,
+   "tipo": "titulo",
+   "altasL": 2,
+   "altasV": 0
+  },
+  {
    "div": "reserva-a",
    "divNombre": "Reserva A",
    "k": "Old Christians Azul~Old Boys",
@@ -272,6 +272,23 @@
    "tipo": "descenso",
    "altasL": 3,
    "altasV": 5
+  },
+  {
+   "div": "reserva-b",
+   "divNombre": "Reserva B",
+   "k": "Juan XXIII~San Juan Bautista",
+   "l": "Juan XXIII",
+   "v": "San Juan Bautista",
+   "dia": "2026-10-31",
+   "hora": "09:00",
+   "etapa": "Permanencia",
+   "pl": 7,
+   "pv": 5,
+   "n": 8,
+   "base": 8,
+   "tipo": "descenso",
+   "altasL": 2,
+   "altasV": 1
   },
   {
    "div": "mayores-c",
@@ -492,23 +509,6 @@
    "base": 8,
    "tipo": "descenso",
    "altasL": 0,
-   "altasV": 2
-  },
-  {
-   "div": "presenior-b",
-   "divNombre": "Pre Senior B",
-   "k": "Seminario~Perry Sexta Universitario",
-   "l": "Seminario",
-   "v": "Perry Sexta Universitario",
-   "dia": "2026-10-31",
-   "hora": "13:30",
-   "etapa": "Permanencia",
-   "pl": 5,
-   "pv": 6,
-   "n": 8,
-   "base": 8,
-   "tipo": "descenso",
-   "altasL": 3,
    "altasV": 2
   }
  ]
